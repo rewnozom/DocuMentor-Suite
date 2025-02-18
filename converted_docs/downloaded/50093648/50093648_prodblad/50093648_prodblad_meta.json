@@ -1,0 +1,150 @@
+{
+  "table_of_contents": [
+    {
+      "title": "R-CARD 5000\nDIO box f\u00f6r larm och 50/52/60/62/65/66 l\u00e4sare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69269943237305,
+          47.51153564453125
+        ],
+        [
+          541.2890625,
+          47.51153564453125
+        ],
+        [
+          541.2890625,
+          124.77880859375
+        ],
+        [
+          56.69269943237305,
+          124.77880859375
+        ]
+      ]
+    },
+    {
+      "title": "DIO-5084, SSF 1014 Klass 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.748046875,
+          478.9697265625
+        ],
+        [
+          264.533203125,
+          478.9697265625
+        ],
+        [
+          264.533203125,
+          498.7041015625
+        ],
+        [
+          56.748046875,
+          498.7041015625
+        ]
+      ]
+    },
+    {
+      "title": "DIO-5084, SSF 1014 Klass 3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          302.947265625,
+          479.380859375
+        ],
+        [
+          511.896484375,
+          479.380859375
+        ],
+        [
+          511.896484375,
+          499.115234375
+        ],
+        [
+          302.947265625,
+          499.115234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50093648_prodblad"
+}

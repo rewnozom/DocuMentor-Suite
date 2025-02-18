@@ -1,0 +1,123 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SMARTA HEM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          395.9667053222656,
+          25.82427978515625
+        ],
+        [
+          568.64453125,
+          25.82427978515625
+        ],
+        [
+          568.64453125,
+          55.5029296875
+        ],
+        [
+          395.9667053222656,
+          55.5029296875
+        ]
+      ]
+    },
+    {
+      "title": "D\u00d6RRKLOCKA, PLUG-IN \nMLR-1923",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.8306999206543,
+          92.1451416015625
+        ],
+        [
+          403.9017028808594,
+          92.1451416015625
+        ],
+        [
+          403.9017028808594,
+          161.5751953125
+        ],
+        [
+          36.8306999206543,
+          161.5751953125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5966796875,
+          672.61328125
+        ],
+        [
+          106.28990173339844,
+          672.61328125
+        ],
+        [
+          106.28990173339844,
+          683.302734375
+        ],
+        [
+          40.5966796875,
+          683.302734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457231_pro"
+}

@@ -1,0 +1,250 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Easy Fit EF-Series \nAlarm System",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          151.4736328125,
+          33.07049560546875
+        ],
+        [
+          477.9743957519531,
+          33.07049560546875
+        ],
+        [
+          477.9743957519531,
+          113.0615234375
+        ],
+        [
+          151.4736328125,
+          113.0615234375
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6sa 2.4GHz Yale EF-PS\nStr\u00f6mbrytare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.23876953125,
+          166.5087890625
+        ],
+        [
+          290.142578125,
+          166.5087890625
+        ],
+        [
+          290.142578125,
+          216.05029296875
+        ],
+        [
+          56.23876953125,
+          216.05029296875
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.583984375,
+          485.5478515625
+        ],
+        [
+          157.73046875,
+          485.5478515625
+        ],
+        [
+          157.73046875,
+          504.4599609375
+        ],
+        [
+          55.583984375,
+          504.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "VARNING:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.80224609375,
+          576.408203125
+        ],
+        [
+          109.83689880371094,
+          576.408203125
+        ],
+        [
+          109.83689880371094,
+          593.0466156005859
+        ],
+        [
+          55.80224609375,
+          593.0466156005859
+        ]
+      ]
+    },
+    {
+      "title": "Driftsmilj\u00f6",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          334.958984375,
+          485.13671875
+        ],
+        [
+          406.548828125,
+          485.13671875
+        ],
+        [
+          406.548828125,
+          505.693359375
+        ],
+        [
+          334.958984375,
+          505.693359375
+        ]
+      ]
+    },
+    {
+      "title": "Se bruksanvisningen f\u00f6r \nEF-larmsystemet avseende f\u00f6ljande",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          336.4140625,
+          541.873046875
+        ],
+        [
+          567.48046875,
+          541.873046875
+        ],
+        [
+          567.48046875,
+          578.875
+        ],
+        [
+          336.4140625,
+          578.875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackningens inneh\u00e5ll",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          336.4140625,
+          616.2880859375
+        ],
+        [
+          495.30859375,
+          616.2880859375
+        ],
+        [
+          495.30859375,
+          636.8447265625
+        ],
+        [
+          336.4140625,
+          636.8447265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50113974_man"
+}

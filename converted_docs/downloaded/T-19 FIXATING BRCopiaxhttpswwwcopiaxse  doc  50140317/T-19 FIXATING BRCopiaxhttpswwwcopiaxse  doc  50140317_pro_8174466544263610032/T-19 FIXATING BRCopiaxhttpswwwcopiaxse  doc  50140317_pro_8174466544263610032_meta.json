@@ -1,0 +1,131 @@
+{
+  "table_of_contents": [
+    {
+      "title": "T-19\" FIXATING BR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.56640625,
+          27.46881103515625
+        ],
+        [
+          325.3599853515625,
+          25.82427978515625
+        ],
+        [
+          325.3599853515625,
+          72.0
+        ],
+        [
+          25.56640625,
+          73.38720703125
+        ]
+      ]
+    },
+    {
+      "title": "Produktinformation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.2032470703125,
+          338.97900390625
+        ],
+        [
+          113.9593505859375,
+          338.97900390625
+        ],
+        [
+          113.9593505859375,
+          351.72412109375
+        ],
+        [
+          25.2032470703125,
+          351.72412109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\T-19 FIXATING BRCopiaxhttpswwwcopiaxse  doc  50140317_pro_8174466544263610032"
+}

@@ -1,0 +1,278 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AGG B2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          181.083984375,
+          70.78955078125
+        ],
+        [
+          238.30078125,
+          70.78955078125
+        ],
+        [
+          238.30078125,
+          90.23837280273438
+        ],
+        [
+          181.083984375,
+          90.23837280273438
+        ]
+      ]
+    },
+    {
+      "title": "S\u00c4KERHET - L\u00c4S DET TA F\u00d6RST!",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          107.89639282226562,
+          118.2978515625
+        ],
+        [
+          314.1796875,
+          118.2978515625
+        ],
+        [
+          314.1796875,
+          135.2681884765625
+        ],
+        [
+          107.89639282226562,
+          135.2681884765625
+        ]
+      ]
+    },
+    {
+      "title": "Montering",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          193.58250427246094,
+          278.501953125
+        ],
+        [
+          245.68359375,
+          278.501953125
+        ],
+        [
+          245.68359375,
+          293.8070068359375
+        ],
+        [
+          193.58250427246094,
+          293.8070068359375
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          192.2607421875,
+          23.35400390625
+        ],
+        [
+          245.2734375,
+          23.35400390625
+        ],
+        [
+          245.2734375,
+          38.086669921875
+        ],
+        [
+          192.2607421875,
+          38.086669921875
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          175.2392578125,
+          23.0811767578125
+        ],
+        [
+          243.22265625,
+          23.0811767578125
+        ],
+        [
+          243.22265625,
+          37.71661376953125
+        ],
+        [
+          175.2392578125,
+          37.71661376953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\AGG B2Copiaxhttpswwwcopiaxse  doc  50093106_ins_3035355500088527008"
+}

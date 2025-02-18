@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "KALENDER 2025",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          419.8834533691406,
+          43.1175537109375
+        ],
+        [
+          770.675537109375,
+          43.1175537109375
+        ],
+        [
+          770.675537109375,
+          134.4404296875
+        ],
+        [
+          419.8834533691406,
+          134.4404296875
+        ]
+      ]
+    },
+    {
+      "title": "L\u00d6PANDE UNDER \u00c5RET",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.82666015625,
+          726.8828125
+        ],
+        [
+          171.77508544921875,
+          726.8828125
+        ],
+        [
+          171.77508544921875,
+          742.5767135620117
+        ],
+        [
+          34.82666015625,
+          742.5767135620117
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\copiax-kalender-2025-kunder-webb"
+}

@@ -1,0 +1,127 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RWC-BEH\u00d6R ASSA 9565T-\n2-50 H\u00d6 MIRUS SVART\nMATT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          241.6884765625,
+          101.138671875
+        ],
+        [
+          555.2578125,
+          101.138671875
+        ],
+        [
+          555.2578125,
+          188.50439453125
+        ],
+        [
+          241.6884765625,
+          188.50439453125
+        ]
+      ]
+    },
+    {
+      "title": "Egenskaper",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.654296875,
+          298.0712890625
+        ],
+        [
+          311.677734375,
+          298.0712890625
+        ],
+        [
+          311.677734375,
+          310.6298828125
+        ],
+        [
+          247.654296875,
+          310.6298828125
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          248.236328125,
+          564.4853515625
+        ],
+        [
+          323.318359375,
+          564.4853515625
+        ],
+        [
+          323.318359375,
+          576.3969116210938
+        ],
+        [
+          248.236328125,
+          576.3969116210938
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\RWC-BEH\u00d6R ASSA 9565T-2-50 H\u00d6 MIRUS SVART MATT-2024-11-12"
+}

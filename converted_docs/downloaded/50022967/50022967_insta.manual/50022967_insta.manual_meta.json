@@ -1,0 +1,1060 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PROFIL100EC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          314.5199890136719,
+          77.90966796875
+        ],
+        [
+          485.705078125,
+          77.90966796875
+        ],
+        [
+          485.705078125,
+          104.941650390625
+        ],
+        [
+          314.5199890136719,
+          104.941650390625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.04345703125,
+          58.278076171875
+        ],
+        [
+          254.34765625,
+          58.278076171875
+        ],
+        [
+          254.34765625,
+          77.806884765625
+        ],
+        [
+          69.04345703125,
+          77.806884765625
+        ]
+      ]
+    },
+    {
+      "title": "I. PRODUKTINFORMATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.04345703125,
+          60.025390625
+        ],
+        [
+          262.7668762207031,
+          60.025390625
+        ],
+        [
+          262.7668762207031,
+          76.26513671875
+        ],
+        [
+          69.04345703125,
+          76.26513671875
+        ]
+      ]
+    },
+    {
+      "title": "A. PRODUKTBESKRIVNING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.64404296875,
+          89.1644287109375
+        ],
+        [
+          212.44140625,
+          89.1644287109375
+        ],
+        [
+          212.44140625,
+          102.4234619140625
+        ],
+        [
+          70.64404296875,
+          102.4234619140625
+        ]
+      ]
+    },
+    {
+      "title": "B. STANDARDV\u00c4RDEN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.389404296875,
+          247.9130859375
+        ],
+        [
+          187.99609375,
+          247.9130859375
+        ],
+        [
+          187.99609375,
+          261.48046875
+        ],
+        [
+          70.389404296875,
+          261.48046875
+        ]
+      ]
+    },
+    {
+      "title": "C. SUMMER",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.91650390625,
+          358.71337890625
+        ],
+        [
+          133.93994140625,
+          358.71337890625
+        ],
+        [
+          133.93994140625,
+          371.905517578125
+        ],
+        [
+          69.91650390625,
+          371.905517578125
+        ]
+      ]
+    },
+    {
+      "title": "Summern indikerar olika ljudsignaler. Den kan kopplas bort genom att tr\u00e5den ST1 p\u00e5 \nstyrboxen kapas (se sidan 7)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.26171875,
+          372.0751953125
+        ],
+        [
+          553.0612182617188,
+          372.0751953125
+        ],
+        [
+          553.0612182617188,
+          397.5654296875
+        ],
+        [
+          69.26171875,
+          397.5654296875
+        ]
+      ]
+    },
+    {
+      "title": "D. KODL\u00c4NGD",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.35302734375,
+          457.5908203125
+        ],
+        [
+          146.74462890625,
+          457.5908203125
+        ],
+        [
+          146.74462890625,
+          471.5693359375
+        ],
+        [
+          70.35302734375,
+          471.5693359375
+        ]
+      ]
+    },
+    {
+      "title": "Masterkoden och anv\u00e4ndarnas PIN-koder kan vara 4-, 5- eller 6-siffriga",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.716796875,
+          470.3359375
+        ],
+        [
+          478.1063537597656,
+          470.3359375
+        ],
+        [
+          478.1063537597656,
+          483.4921875
+        ],
+        [
+          70.716796875,
+          483.4921875
+        ]
+      ]
+    },
+    {
+      "title": "E. ING\u00c5NG F\u00d6R EXTERNA \u00d6PPNAKNAPPAR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.33447265625,
+          567.7744140625
+        ],
+        [
+          296.25390625,
+          567.7744140625
+        ],
+        [
+          296.25390625,
+          581.0154724121094
+        ],
+        [
+          69.33447265625,
+          581.0154724121094
+        ]
+      ]
+    },
+    {
+      "title": "Detta \u00e4r en normalt \u00f6ppen krets som aktiveras vid slutning av rel\u00e4et. Denna funktion \n\u00e4r speciellt anv\u00e4ndbar f\u00f6r att \u00f6ppna d\u00f6rr/grind/port inifr\u00e5n utan knappsats.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.4072265625,
+          580.51953125
+        ],
+        [
+          553.51171875,
+          580.51953125
+        ],
+        [
+          553.51171875,
+          606.83203125
+        ],
+        [
+          69.4072265625,
+          606.83203125
+        ]
+      ]
+    },
+    {
+      "title": "F. F\u00d6RBRUKNING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.84375,
+          691.1142578125
+        ],
+        [
+          165.87890625,
+          691.1142578125
+        ],
+        [
+          165.87890625,
+          704.2705078125
+        ],
+        [
+          69.84375,
+          704.2705078125
+        ]
+      ]
+    },
+    {
+      "title": "II. PROGRAMMERING",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.49853515625,
+          60.333740234375
+        ],
+        [
+          226.28253173828125,
+          60.333740234375
+        ],
+        [
+          226.28253173828125,
+          76.984619140625
+        ],
+        [
+          70.49853515625,
+          76.984619140625
+        ]
+      ]
+    },
+    {
+      "title": "A. PROGRAMMERA TIDER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.716796875,
+          89.2158203125
+        ],
+        [
+          204.1474609375,
+          89.2158203125
+        ],
+        [
+          204.1474609375,
+          102.680419921875
+        ],
+        [
+          70.716796875,
+          102.680419921875
+        ]
+      ]
+    },
+    {
+      "title": "Detta avsnitt beskriver programmeringen av tiderna f\u00f6r bakgrundsbelysning och \nrel\u00e4aktivering",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.82400512695312,
+          101.241455078125
+        ],
+        [
+          528.5670166015625,
+          101.241455078125
+        ],
+        [
+          528.5670166015625,
+          127.348388671875
+        ],
+        [
+          70.82400512695312,
+          127.348388671875
+        ]
+      ]
+    },
+    {
+      "title": "B. ST\u00c4LLA IN KODL\u00c4NGD SAMT \u00c4NDRA MASTERKOD",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.18896484375,
+          502.404296875
+        ],
+        [
+          350.96484375,
+          502.404296875
+        ],
+        [
+          350.96484375,
+          522.138671875
+        ],
+        [
+          69.18896484375,
+          522.138671875
+        ]
+      ]
+    },
+    {
+      "title": "Detta avsnitt beskriver programmeringen av kodl\u00e4ngden \n1. Knappa in masterkoden tv\u00e5 g\u00e5nger (masterkodens default-v\u00e4rde \u00e4r 12345).",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.82403564453125,
+          518.6614379882812
+        ],
+        [
+          504.1336669921875,
+          518.6614379882812
+        ],
+        [
+          504.1336669921875,
+          540.9814453125
+        ],
+        [
+          70.82403564453125,
+          540.9814453125
+        ]
+      ]
+    },
+    {
+      "title": "C. TOTAL \u00c5TERST\u00c4LLNING AV MINNET",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.11474609375,
+          60.2823486328125
+        ],
+        [
+          298.58203125,
+          60.2823486328125
+        ],
+        [
+          298.58203125,
+          73.8497314453125
+        ],
+        [
+          65.11474609375,
+          73.8497314453125
+        ]
+      ]
+    },
+    {
+      "title": "Detta avsnitt beskriver en total \u00e5terst\u00e4llning av minnet d\u00e4r alla inlagda koder raderas",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.26171875,
+          72.97607421875
+        ],
+        [
+          558.16796875,
+          72.97607421875
+        ],
+        [
+          558.16796875,
+          86.13232421875
+        ],
+        [
+          69.26171875,
+          86.13232421875
+        ]
+      ]
+    },
+    {
+      "title": "ELLER",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          96.7626953125,
+          230.6455078125
+        ],
+        [
+          139.4232177734375,
+          230.6455078125
+        ],
+        [
+          139.4232177734375,
+          245.03515625
+        ],
+        [
+          96.7626953125,
+          245.03515625
+        ]
+      ]
+    },
+    {
+      "title": "D. \u00c5TERST\u00c4LLA MASTERKODEN",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.82402038574219,
+          317.18896484375
+        ],
+        [
+          236.7412109375,
+          317.18896484375
+        ],
+        [
+          236.7412109375,
+          331.16748046875
+        ],
+        [
+          70.82402038574219,
+          331.16748046875
+        ]
+      ]
+    },
+    {
+      "title": "E. PROGRAMMERA EN UNDERMASTERKOD",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.35302734375,
+          392.220703125
+        ],
+        [
+          290.724609375,
+          392.220703125
+        ],
+        [
+          290.724609375,
+          405.376953125
+        ],
+        [
+          70.35302734375,
+          405.376953125
+        ]
+      ]
+    },
+    {
+      "title": "F. ANV\u00c4NDAR\u00c4NDRING AV EGEN KOD",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.20751953125,
+          648.767578125
+        ],
+        [
+          268.31640625,
+          648.767578125
+        ],
+        [
+          268.31640625,
+          661.923828125
+        ],
+        [
+          70.20751953125,
+          661.923828125
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6r att en anv\u00e4ndare ska f\u00e5 tillst\u00e5nd att \u00e4ndra sin egen PIN-kod skall P3 byglas \n(f\u00f6r att avaktivera funktionen, ta bort byglingen)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.82405090332031,
+          660.6904296875
+        ],
+        [
+          521.7528686523438,
+          660.6904296875
+        ],
+        [
+          521.7528686523438,
+          687.0029296875
+        ],
+        [
+          70.82405090332031,
+          687.0029296875
+        ]
+      ]
+    },
+    {
+      "title": "G. L\u00c4GGA TILL, \u00c4NDRA ELLER TA BORT EN ANV\u00c4NDARKOD",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          68.6796875,
+          58.17529296875
+        ],
+        [
+          400.146484375,
+          58.17529296875
+        ],
+        [
+          400.146484375,
+          72.78558349609375
+        ],
+        [
+          68.6796875,
+          72.78558349609375
+        ]
+      ]
+    },
+    {
+      "title": "H. LJUDSIGNAL VID KNAPPTRYCKNING",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.82400512695312,
+          315.75
+        ],
+        [
+          278.6474609375,
+          315.75
+        ],
+        [
+          278.6474609375,
+          329.728515625
+        ],
+        [
+          70.82400512695312,
+          329.728515625
+        ]
+      ]
+    },
+    {
+      "title": "I.INKOPPLING AV R\u00d6D OCH GR\u00d6N LED-DIOD",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.49853515625,
+          463.3466796875
+        ],
+        [
+          310.513671875,
+          463.3466796875
+        ],
+        [
+          310.513671875,
+          477.3251953125
+        ],
+        [
+          70.49853515625,
+          477.3251953125
+        ]
+      ]
+    },
+    {
+      "title": "III. Kopplingsschema f\u00f6r PROFIL100EC",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.9892578125,
+          58.8433837890625
+        ],
+        [
+          351.11468505859375,
+          58.8433837890625
+        ],
+        [
+          351.11468505859375,
+          78.1666259765625
+        ],
+        [
+          69.9892578125,
+          78.1666259765625
+        ]
+      ]
+    },
+    {
+      "title": "IV. Anteckningar",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.9892578125,
+          61.1046142578125
+        ],
+        [
+          193.84991455078125,
+          61.1046142578125
+        ],
+        [
+          193.84991455078125,
+          77.8582763671875
+        ],
+        [
+          69.9892578125,
+          77.8582763671875
+        ]
+      ]
+    },
+    {
+      "title": "MASTERKODER",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.1162109375,
+          89.2672119140625
+        ],
+        [
+          151.328125,
+          89.2672119140625
+        ],
+        [
+          151.328125,
+          103.6568603515625
+        ],
+        [
+          69.1162109375,
+          103.6568603515625
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDARKODLISTA",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.734619140625,
+          285.12060546875
+        ],
+        [
+          183.33984375,
+          285.12060546875
+        ],
+        [
+          183.33984375,
+          298.27685546875
+        ],
+        [
+          69.734619140625,
+          298.27685546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          490
+        ],
+        [
+          "Span",
+          269
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50022967_insta.manual"
+}

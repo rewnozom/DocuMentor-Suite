@@ -1,0 +1,1036 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Orginalinstruktioner Anv\u00e4ndarhandbok Entrance Systems\nSlagd\u00f6rr\u00f6ppnare\nASSA ABLOY SW200",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.9613037109375,
+          27.5919189453125
+        ],
+        [
+          374.1376647949219,
+          27.5919189453125
+        ],
+        [
+          374.1376647949219,
+          89.43600463867188
+        ],
+        [
+          29.9613037109375,
+          89.43600463867188
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.8028564453125,
+          21.3896484375
+        ],
+        [
+          183.15966796875,
+          21.3896484375
+        ],
+        [
+          183.15966796875,
+          41.68798828125
+        ],
+        [
+          27.8028564453125,
+          41.68798828125
+        ]
+      ]
+    },
+    {
+      "title": "Anvisningar f\u00f6r s\u00e4ker drift",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          147.185546875,
+          23.2266845703125
+        ],
+        [
+          303.416015625,
+          23.2266845703125
+        ],
+        [
+          303.416015625,
+          41.7607421875
+        ],
+        [
+          147.185546875,
+          41.7607421875
+        ]
+      ]
+    },
+    {
+      "title": "Gratulerar till din nya automatiska d\u00f6rr!",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.7000732421875,
+          23.1357421875
+        ],
+        [
+          233.31787109375,
+          23.1357421875
+        ],
+        [
+          233.31787109375,
+          39.43597412109375
+        ],
+        [
+          27.7000732421875,
+          39.43597412109375
+        ]
+      ]
+    },
+    {
+      "title": "St\u00f6rning av mottagningen f\u00f6r viss elektronikutrustning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.75146484375,
+          148.708984375
+        ],
+        [
+          310.61083984375,
+          148.708984375
+        ],
+        [
+          310.61083984375,
+          164.1328125
+        ],
+        [
+          27.75146484375,
+          164.1328125
+        ]
+      ]
+    },
+    {
+      "title": "Milj\u00f6krav",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.13690185546875,
+          346.30859375
+        ],
+        [
+          77.190185546875,
+          346.30859375
+        ],
+        [
+          77.190185546875,
+          361.2040252685547
+        ],
+        [
+          28.13690185546875,
+          361.2040252685547
+        ]
+      ]
+    },
+    {
+      "title": "Produktansvar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.2139892578125,
+          410.9140625
+        ],
+        [
+          104.5819091796875,
+          410.9140625
+        ],
+        [
+          104.5819091796875,
+          426.046875
+        ],
+        [
+          28.2139892578125,
+          426.046875
+        ]
+      ]
+    },
+    {
+      "title": "Garanti",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          55.7598876953125,
+          23.826904296875
+        ],
+        [
+          96.7703857421875,
+          23.826904296875
+        ],
+        [
+          96.7703857421875,
+          39.43597412109375
+        ],
+        [
+          55.7598876953125,
+          39.43597412109375
+        ]
+      ]
+    },
+    {
+      "title": "Service",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.3765869140625,
+          388.21484375
+        ],
+        [
+          94.4063720703125,
+          388.21484375
+        ],
+        [
+          94.4063720703125,
+          402.1720275878906
+        ],
+        [
+          56.3765869140625,
+          402.1720275878906
+        ]
+      ]
+    },
+    {
+      "title": "Avsedd anv\u00e4ndning",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          27.854248046875,
+          23.244873046875
+        ],
+        [
+          130.637451171875,
+          23.244873046875
+        ],
+        [
+          130.637451171875,
+          39.578125
+        ],
+        [
+          27.854248046875,
+          39.578125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          27.82855224609375,
+          178.68359375
+        ],
+        [
+          97.335693359375,
+          178.68359375
+        ],
+        [
+          97.335693359375,
+          195.64297485351562
+        ],
+        [
+          27.82855224609375,
+          195.64297485351562
+        ]
+      ]
+    },
+    {
+      "title": "Hur ASSA ABLOY SW200 fungerar",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.016845703125,
+          24.0087890625
+        ],
+        [
+          229.8232421875,
+          24.0087890625
+        ],
+        [
+          229.8232421875,
+          39.541748046875
+        ],
+        [
+          56.016845703125,
+          39.541748046875
+        ]
+      ]
+    },
+    {
+      "title": "ASSA ABLOY SW200 Variationer",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          55.9654541015625,
+          339.615234375
+        ],
+        [
+          223.03955078125,
+          339.615234375
+        ],
+        [
+          223.03955078125,
+          353.7460174560547
+        ],
+        [
+          55.9654541015625,
+          353.7460174560547
+        ]
+      ]
+    },
+    {
+      "title": "Regelbundna s\u00e4kerhetskontroller",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          28.34600067138672,
+          23.681396484375
+        ],
+        [
+          200.118896484375,
+          23.681396484375
+        ],
+        [
+          200.118896484375,
+          39.43597412109375
+        ],
+        [
+          28.34600067138672,
+          39.43597412109375
+        ]
+      ]
+    },
+    {
+      "title": "RENG\u00d6RING",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          206.92100524902344,
+          334.958984375
+        ],
+        [
+          242.37124633789062,
+          334.958984375
+        ],
+        [
+          242.37124633789062,
+          343.689453125
+        ],
+        [
+          206.92100524902344,
+          343.689453125
+        ]
+      ]
+    },
+    {
+      "title": "Allm\u00e4nna tillbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.222412109375,
+          23.463134765625
+        ],
+        [
+          154.072021484375,
+          23.463134765625
+        ],
+        [
+          154.072021484375,
+          39.43597412109375
+        ],
+        [
+          56.222412109375,
+          39.43597412109375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerhetstillbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.222412109375,
+          143.9072265625
+        ],
+        [
+          153.763671875,
+          143.9072265625
+        ],
+        [
+          153.763671875,
+          158.7490234375
+        ],
+        [
+          56.222412109375,
+          158.7490234375
+        ]
+      ]
+    },
+    {
+      "title": "Fels\u00f6kning",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.53076171875,
+          193.525390625
+        ],
+        [
+          112.342041015625,
+          193.525390625
+        ],
+        [
+          112.342041015625,
+          208.45401000976562
+        ],
+        [
+          56.53076171875,
+          208.45401000976562
+        ]
+      ]
+    },
+    {
+      "title": "Service/Underh\u00e5ll",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          28.34246826171875,
+          22.953857421875
+        ],
+        [
+          121.07861328125,
+          22.953857421875
+        ],
+        [
+          121.07861328125,
+          39.43597412109375
+        ],
+        [
+          28.34246826171875,
+          39.43597412109375
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6vriga produkter fr\u00e5nASSA ABLOY Entrance Systems",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          28.34601593017578,
+          254.9296875
+        ],
+        [
+          299.7158203125,
+          254.9296875
+        ],
+        [
+          299.7158203125,
+          271.2265625
+        ],
+        [
+          28.34601593017578,
+          271.2265625
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rs\u00e4kran om \u00f6verensst\u00e4mmelse",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          28.34600067138672,
+          24.8818359375
+        ],
+        [
+          283.681640625,
+          24.8818359375
+        ],
+        [
+          283.681640625,
+          46.03497314453125
+        ],
+        [
+          28.34600067138672,
+          46.03497314453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50156343_man"
+}

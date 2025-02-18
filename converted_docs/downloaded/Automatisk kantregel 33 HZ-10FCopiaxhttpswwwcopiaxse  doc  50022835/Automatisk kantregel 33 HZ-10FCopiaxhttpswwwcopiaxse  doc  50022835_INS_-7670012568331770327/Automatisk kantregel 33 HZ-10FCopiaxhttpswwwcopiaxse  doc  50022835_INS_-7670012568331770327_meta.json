@@ -1,0 +1,189 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u00ae\nINNOVATION AB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.9993896484375,
+          2.3604278564453125
+        ],
+        [
+          217.13623046875,
+          2.3604278564453125
+        ],
+        [
+          217.13623046875,
+          24.63909912109375
+        ],
+        [
+          19.9993896484375,
+          24.63909912109375
+        ]
+      ]
+    },
+    {
+      "title": "Monteringsanvisning 33 HZ-10F",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.34423828125,
+          27.05856323242187
+        ],
+        [
+          223.77197265625,
+          27.05856323242187
+        ],
+        [
+          223.77197265625,
+          42.1827392578125
+        ],
+        [
+          45.34423828125,
+          42.1827392578125
+        ]
+      ]
+    },
+    {
+      "title": "Automatisk kantregel 33 HZ-10F",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          435.37841796875,
+          1.9245300292968748
+        ],
+        [
+          725.13916015625,
+          1.9245300292968748
+        ],
+        [
+          725.13916015625,
+          24.27301025390625
+        ],
+        [
+          435.37841796875,
+          24.27301025390625
+        ]
+      ]
+    },
+    {
+      "title": "\u00ae\nINNOVATION AB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          22.7642822265625,
+          2.6318359375
+        ],
+        [
+          219.34814453125,
+          2.6318359375
+        ],
+        [
+          219.34814453125,
+          24.63909912109375
+        ],
+        [
+          22.7642822265625,
+          24.63909912109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          306
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Automatisk kantregel 33 HZ-10FCopiaxhttpswwwcopiaxse  doc  50022835_INS_-7670012568331770327"
+}

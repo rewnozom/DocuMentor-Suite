@@ -1,0 +1,1660 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FLEXIDOME IP outdoor 5000i",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.3056640625,
+          68.42822265625
+        ],
+        [
+          410.9140625,
+          68.42822265625
+        ],
+        [
+          410.9140625,
+          96.34228515625
+        ],
+        [
+          40.3056640625,
+          96.34228515625
+        ]
+      ]
+    },
+    {
+      "title": "System overview",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.2900390625,
+          553.2412109375
+        ],
+        [
+          127.0283203125,
+          553.2412109375
+        ],
+        [
+          127.0283203125,
+          563.3212890625
+        ],
+        [
+          47.2900390625,
+          563.3212890625
+        ]
+      ]
+    },
+    {
+      "title": "Functions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.7490234375,
+          507.10546874999994
+        ],
+        [
+          365.3536071777344,
+          507.10546874999994
+        ],
+        [
+          365.3536071777344,
+          518.0016479492188
+        ],
+        [
+          319.7490234375,
+          518.0016479492188
+        ]
+      ]
+    },
+    {
+      "title": "Essential Video Analytics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.7490234375,
+          526.490234375
+        ],
+        [
+          437.21697998046875,
+          526.490234375
+        ],
+        [
+          437.21697998046875,
+          536.5703125
+        ],
+        [
+          319.7490234375,
+          536.5703125
+        ]
+      ]
+    },
+    {
+      "title": "High Dynamic Range",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.817138671875,
+          119.60400390624999
+        ],
+        [
+          143.10179138183594,
+          119.60400390624999
+        ],
+        [
+          143.10179138183594,
+          129.81060791015625
+        ],
+        [
+          46.817138671875,
+          129.81060791015625
+        ]
+      ]
+    },
+    {
+      "title": "Content Based Imaging Technology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.853515625,
+          260.1435546875
+        ],
+        [
+          211.6941680908203,
+          260.1435546875
+        ],
+        [
+          211.6941680908203,
+          269.46331787109375
+        ],
+        [
+          46.853515625,
+          269.46331787109375
+        ]
+      ]
+    },
+    {
+      "title": "Intelligent streaming reduces bandwidth and\nstorage requirements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.853515625,
+          388.27685546875
+        ],
+        [
+          258.712890625,
+          388.27685546875
+        ],
+        [
+          258.712890625,
+          407.4677734375
+        ],
+        [
+          46.853515625,
+          407.4677734375
+        ]
+      ]
+    },
+    {
+      "title": "Bitrate optimized profile",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.889892578125,
+          638.5341796875
+        ],
+        [
+          164.1328125,
+          638.5341796875
+        ],
+        [
+          164.1328125,
+          648.6142578125
+        ],
+        [
+          46.889892578125,
+          648.6142578125
+        ]
+      ]
+    },
+    {
+      "title": "Multiple streams",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.498046875,
+          127.74560546874999
+        ],
+        [
+          398.982421875,
+          127.74560546874999
+        ],
+        [
+          398.982421875,
+          136.8564453125
+        ],
+        [
+          317.498046875,
+          136.8564453125
+        ]
+      ]
+    },
+    {
+      "title": "Two-way audio and audio alarm",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.74700927734375,
+          278.17138671875
+        ],
+        [
+          467.080078125,
+          278.17138671875
+        ],
+        [
+          467.080078125,
+          287.7373352050781
+        ],
+        [
+          319.74700927734375,
+          287.7373352050781
+        ]
+      ]
+    },
+    {
+      "title": "Tamper and motion detection",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.74700927734375,
+          339.5773620605469
+        ],
+        [
+          458.640625,
+          339.5773620605469
+        ],
+        [
+          458.640625,
+          348.5773620605469
+        ],
+        [
+          319.74700927734375,
+          348.5773620605469
+        ]
+      ]
+    },
+    {
+      "title": "Storage management",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.7480163574219,
+          400.4163818359375
+        ],
+        [
+          417.9739990234375,
+          400.4163818359375
+        ],
+        [
+          417.9739990234375,
+          409.7939453125
+        ],
+        [
+          319.7480163574219,
+          409.7939453125
+        ]
+      ]
+    },
+    {
+      "title": "Edge recording",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.74688720703125,
+          460.96972656249994
+        ],
+        [
+          390.326171875,
+          460.96972656249994
+        ],
+        [
+          390.326171875,
+          470.27441406249994
+        ],
+        [
+          319.74688720703125,
+          470.27441406249994
+        ]
+      ]
+    },
+    {
+      "title": "Cloud-based services",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.7478942871094,
+          544.6113586425781
+        ],
+        [
+          418.771484375,
+          544.6113586425781
+        ],
+        [
+          418.771484375,
+          553.62890625
+        ],
+        [
+          319.7478942871094,
+          553.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Easy installation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.662109375,
+          649.77734375
+        ],
+        [
+          396.654296875,
+          649.77734375
+        ],
+        [
+          396.654296875,
+          659.4863891601562
+        ],
+        [
+          318.662109375,
+          659.4863891601562
+        ]
+      ]
+    },
+    {
+      "title": "Automatic image rotation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.7080078125,
+          153.33349609375
+        ],
+        [
+          166.294921875,
+          153.33349609375
+        ],
+        [
+          166.294921875,
+          163.5875244140625
+        ],
+        [
+          46.7080078125,
+          163.5875244140625
+        ]
+      ]
+    },
+    {
+      "title": "True day/night switching",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.92626953125,
+          304.53466796875
+        ],
+        [
+          163.64561462402344,
+          304.53466796875
+        ],
+        [
+          163.64561462402344,
+          315.00244140625
+        ],
+        [
+          46.92626953125,
+          315.00244140625
+        ]
+      ]
+    },
+    {
+      "title": "Hybrid mode",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.07177734375,
+          365.01513671875
+        ],
+        [
+          107.74853515625,
+          365.01513671875
+        ],
+        [
+          107.74853515625,
+          375.48291015625
+        ],
+        [
+          47.07177734375,
+          375.48291015625
+        ]
+      ]
+    },
+    {
+      "title": "Data security",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.14453125,
+          448.56347656249994
+        ],
+        [
+          109.8583984375,
+          448.56347656249994
+        ],
+        [
+          109.8583984375,
+          458.69635009765625
+        ],
+        [
+          47.14453125,
+          458.69635009765625
+        ]
+      ]
+    },
+    {
+      "title": "Complete viewing software",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.662109375,
+          67.9920654296875
+        ],
+        [
+          447.873046875,
+          67.9920654296875
+        ],
+        [
+          447.873046875,
+          77.97210693359375
+        ],
+        [
+          318.662109375,
+          77.97210693359375
+        ]
+      ]
+    },
+    {
+      "title": "Video security app",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          319.7463073730469,
+          139.9580078125
+        ],
+        [
+          406.686279296875,
+          139.9580078125
+        ],
+        [
+          406.686279296875,
+          150.42578125
+        ],
+        [
+          319.7463073730469,
+          150.42578125
+        ]
+      ]
+    },
+    {
+      "title": "System integration",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          319.7463073730469,
+          290.57763671875
+        ],
+        [
+          408.07403564453125,
+          290.57763671875
+        ],
+        [
+          408.07403564453125,
+          301.04541015625
+        ],
+        [
+          319.7463073730469,
+          301.04541015625
+        ]
+      ]
+    },
+    {
+      "title": "DORI coverage",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          319.244140625,
+          407.85546875
+        ],
+        [
+          388.84765625,
+          407.85546875
+        ],
+        [
+          388.84765625,
+          418.1157531738281
+        ],
+        [
+          319.244140625,
+          418.1157531738281
+        ]
+      ]
+    },
+    {
+      "title": "5MP Camera with 3-10 lens",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.080078125,
+          491.59765624999994
+        ],
+        [
+          448.455078125,
+          491.59765624999994
+        ],
+        [
+          448.455078125,
+          501.67773437499994
+        ],
+        [
+          318.080078125,
+          501.67773437499994
+        ]
+      ]
+    },
+    {
+      "title": "Certifications and approvals",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.296875,
+          655.205078125
+        ],
+        [
+          453.984375,
+          655.205078125
+        ],
+        [
+          453.984375,
+          666.060546875
+        ],
+        [
+          314.296875,
+          666.060546875
+        ]
+      ]
+    },
+    {
+      "title": "Installation/configuration notes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.63525390625,
+          446.54266357421875
+        ],
+        [
+          196.14453125,
+          446.54266357421875
+        ],
+        [
+          196.14453125,
+          456.31738281249994
+        ],
+        [
+          46.63525390625,
+          456.31738281249994
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifications\nPower\nInput voltage +12 VDC \u00b15%, 24 VAC \u00b110% or\nPower-over-Ethernet (48 VDC nominal)\nPower consumption\n(DC)\n7.15 W max.\nPower consumption\n(AC)\n6.15 W max.\nPower consumption\n(PoE)\n7 W max.\nPoE IEEE standard IEEE 802.3af (802.3at Type 1)\nPower level: Class 3\nPower (IR version)\nInput voltage +12 VDC \u00b15%, 24 VAC \u00b110% or\nPower-over-Ethernet (48 VDC nominal)\nPower consumption\n(DC)\n10.8 W max.\nPower consumption\n(AC)\n8.75 W max.\nPower consumption\n(PoE)\n9.2 W max.\nPoE IEEE standard IEEE 802.3af (802.3at Type 1)\nPower level: Class 3\nSensor\nType 1/2.9\u2011inch CMOS\nEffective pixels 3072 (H) x 1944 (V)\nVideo performance - Sensitivity\nSensitivity \u2013 (3100K, reflectivity 89%, 1/25, F1.3, 30IRE)\n\u2022 Color 0.24 lx\n\u2022 Mono 0.03 lx\n\u2022 With IR 0.0 lx\nVideo performance - Dynamic range\nHigh Dynamic Range 120 dB WDR\nMeasured according\n107 dB WDR",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.095703125,
+          71.273681640625
+        ],
+        [
+          554.966796875,
+          71.273681640625
+        ],
+        [
+          554.966796875,
+          619.2643127441406
+        ],
+        [
+          311.095703125,
+          619.2643127441406
+        ]
+      ]
+    },
+    {
+      "title": "5 | FLEXIDOME IP outdoor 5000i",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.62299728393555,
+          29.295227050781246
+        ],
+        [
+          189.16015625,
+          29.295227050781246
+        ],
+        [
+          189.16015625,
+          39.45458984375
+        ],
+        [
+          47.62299728393555,
+          39.45458984375
+        ]
+      ]
+    },
+    {
+      "title": "Ordering information",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.62299728393555,
+          70.4151611328125
+        ],
+        [
+          146.2218017578125,
+          70.4151611328125
+        ],
+        [
+          146.2218017578125,
+          80.4952392578125
+        ],
+        [
+          47.62299728393555,
+          80.4952392578125
+        ]
+      ]
+    },
+    {
+      "title": "EWE-FD5IDI-IW 12mths wrty ext Flexidome 5000i ID\n12 months warranty extension",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.07177734375,
+          152.3642578125
+        ],
+        [
+          278.50604248046875,
+          152.3642578125
+        ],
+        [
+          278.50604248046875,
+          172.99169921875
+        ],
+        [
+          47.07177734375,
+          172.99169921875
+        ]
+      ]
+    },
+    {
+      "title": "NDE-5503-AL Fixed dome 5MP HDR 3-10mm auto\nIP66",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.4169921875,
+          193.26611328125
+        ],
+        [
+          263.6015930175781,
+          193.26611328125
+        ],
+        [
+          263.6015930175781,
+          213.42626953124997
+        ],
+        [
+          46.4169921875,
+          213.42626953124997
+        ]
+      ]
+    },
+    {
+      "title": "EWE-FD5IDI-IW 12mths wrty ext Flexidome 5000i ID\n12 months warranty extension",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.92626953125,
+          278.33026123046875
+        ],
+        [
+          278.5040283203125,
+          278.33026123046875
+        ],
+        [
+          278.5040283203125,
+          298.0625915527344
+        ],
+        [
+          46.92626953125,
+          298.0625915527344
+        ]
+      ]
+    },
+    {
+      "title": "Accessories",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.50830078125,
+          313.83935546875
+        ],
+        [
+          100.32763671875,
+          313.83935546875
+        ],
+        [
+          100.32763671875,
+          324.30712890625
+        ],
+        [
+          47.50830078125,
+          324.30712890625
+        ]
+      ]
+    },
+    {
+      "title": "BUB-TIN-FDO Bubble, tinted, outdoor",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.623985290527344,
+          327.6025390625
+        ],
+        [
+          212.36929321289062,
+          327.6025390625
+        ],
+        [
+          212.36929321289062,
+          338.4580078125
+        ],
+        [
+          47.623985290527344,
+          338.4580078125
+        ]
+      ]
+    },
+    {
+      "title": "BUB-CLR-FDO Bubble, clear, outdoor",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.853515625,
+          379.74755859375
+        ],
+        [
+          210.5362548828125,
+          379.74755859375
+        ],
+        [
+          210.5362548828125,
+          390.60302734375
+        ],
+        [
+          46.853515625,
+          390.60302734375
+        ]
+      ]
+    },
+    {
+      "title": "NDA-5030-PIP Pendant interface plate NDE-4/5000",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.14453125,
+          431.11718749999994
+        ],
+        [
+          271.44696044921875,
+          431.11718749999994
+        ],
+        [
+          271.44696044921875,
+          441.97265624999994
+        ],
+        [
+          47.14453125,
+          441.97265624999994
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-WMT Pendant wall mount",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.14453125,
+          483.45605468749994
+        ],
+        [
+          194.5439453125,
+          483.45605468749994
+        ],
+        [
+          194.5439453125,
+          494.31152343749994
+        ],
+        [
+          47.14453125,
+          494.31152343749994
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-PMT Pendant pipe mount, 12\" (31cm)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.853515625,
+          523.0009765625
+        ],
+        [
+          245.525146484375,
+          523.0009765625
+        ],
+        [
+          245.525146484375,
+          533.0810546875
+        ],
+        [
+          46.853515625,
+          533.0810546875
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-PMAS Pole mount adapter small",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.7080078125,
+          563.3212890625
+        ],
+        [
+          221.40711975097656,
+          563.3212890625
+        ],
+        [
+          221.40711975097656,
+          574.1767578125
+        ],
+        [
+          46.7080078125,
+          574.1767578125
+        ]
+      ]
+    },
+    {
+      "title": "NBN-MCSMB-03M Cable, SMB to BNC, camera-cable,\n0.3m",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.953125,
+          72.3536376953125
+        ],
+        [
+          554.67578125,
+          72.3536376953125
+        ],
+        [
+          554.67578125,
+          92.5372314453125
+        ],
+        [
+          318.953125,
+          92.5372314453125
+        ]
+      ]
+    },
+    {
+      "title": "NBN-MCSMB-30M Cable, SMB to BNC, camera-moni-\ntor/DVR",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          319.53515625,
+          134.5302734375
+        ],
+        [
+          551.765625,
+          134.5302734375
+        ],
+        [
+          551.765625,
+          155.4658203125
+        ],
+        [
+          319.53515625,
+          155.4658203125
+        ]
+      ]
+    },
+    {
+      "title": "NDA-LWMT-DOME Wall mount, L-shpaed, for dome\ncamera",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.37109375,
+          236.49414062499997
+        ],
+        [
+          544.19921875,
+          236.49414062499997
+        ],
+        [
+          544.19921875,
+          257.8173828125
+        ],
+        [
+          318.37109375,
+          257.8173828125
+        ]
+      ]
+    },
+    {
+      "title": "NDA-ADT4S-MINDOME Surface mount box for dome\ncamera",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.37109375,
+          287.08837890625
+        ],
+        [
+          550.6015625,
+          287.08837890625
+        ],
+        [
+          550.6015625,
+          308.2772216796875
+        ],
+        [
+          318.37109375,
+          308.2772216796875
+        ]
+      ]
+    },
+    {
+      "title": "NDA-FMT-DOME Inceiling flush mount for dome cam-\nera",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.37109375,
+          361.13818359375
+        ],
+        [
+          555.2578125,
+          361.13818359375
+        ],
+        [
+          555.2578125,
+          381.7592468261719
+        ],
+        [
+          318.37109375,
+          381.7592468261719
+        ]
+      ]
+    },
+    {
+      "title": "UPA-1220-60 Power supply, 120VAC 60Hz,12VDC 1A\nout",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.37109375,
+          424.13867187499994
+        ],
+        [
+          552.34765625,
+          424.13867187499994
+        ],
+        [
+          552.34765625,
+          444.29882812499994
+        ],
+        [
+          318.37109375,
+          444.29882812499994
+        ]
+      ]
+    },
+    {
+      "title": "NPD-5004-POE Power over ethernet, 15.4W, 4-port",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          319.7481384277344,
+          569.912109375
+        ],
+        [
+          544.0586547851562,
+          569.912109375
+        ],
+        [
+          544.0586547851562,
+          580.9372711181641
+        ],
+        [
+          319.7481384277344,
+          580.9372711181641
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-CMT Corner mount adapter",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          319.7441101074219,
+          631.5556640625
+        ],
+        [
+          476.1015625,
+          631.5556640625
+        ],
+        [
+          476.1015625,
+          643.9619140625
+        ],
+        [
+          319.7441101074219,
+          643.9619140625
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-PA0 Surveillance cabinet 24VAC",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          319.7531433105469,
+          674.58984375
+        ],
+        [
+          500.255859375,
+          674.58984375
+        ],
+        [
+          500.255859375,
+          685.4453125
+        ],
+        [
+          319.7531433105469,
+          685.4453125
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-WMT Pendant wall mount",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.36279296875,
+          72.9351806640625
+        ],
+        [
+          192.943359375,
+          72.9351806640625
+        ],
+        [
+          192.943359375,
+          81.90325927734375
+        ],
+        [
+          47.36279296875,
+          81.90325927734375
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-PMAL Pole mount adapter large\nUniversal pole mount adapter, white; large",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.5625,
+          113.7332763671875
+        ],
+        [
+          231.23199462890625,
+          113.7332763671875
+        ],
+        [
+          231.23199462890625,
+          133.46563720703125
+        ],
+        [
+          46.5625,
+          133.46563720703125
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-RMT Pendant parapet mount",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.14453125,
+          154.06329345703125
+        ],
+        [
+          205.91693115234375,
+          154.06329345703125
+        ],
+        [
+          205.91693115234375,
+          166.612060546875
+        ],
+        [
+          47.14453125,
+          166.612060546875
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-WMP Wall mount plate",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.035400390625,
+          194.393310546875
+        ],
+        [
+          182.3212890625,
+          194.393310546875
+        ],
+        [
+          182.3212890625,
+          203.73388671875
+        ],
+        [
+          47.035400390625,
+          203.73388671875
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-PA1 Surveillance cabinet 120VAC",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.853515625,
+          244.63574218749997
+        ],
+        [
+          232.3759765625,
+          244.63574218749997
+        ],
+        [
+          232.3759765625,
+          254.4822998046875
+        ],
+        [
+          46.853515625,
+          254.4822998046875
+        ]
+      ]
+    },
+    {
+      "title": "NDA-U-PA2 Surveillance cabinet 230VAC",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.853515625,
+          297.57135009765625
+        ],
+        [
+          226.7072296142578,
+          297.57135009765625
+        ],
+        [
+          226.7072296142578,
+          306.6669921875
+        ],
+        [
+          46.853515625,
+          306.6669921875
+        ]
+      ]
+    },
+    {
+      "title": "VDA-WMT-AODOME Wall mount, outdoor, for dome,\n166mm",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          319.53515625,
+          73.40325927734375
+        ],
+        [
+          549.4375,
+          73.40325927734375
+        ],
+        [
+          549.4375,
+          92.5372314453125
+        ],
+        [
+          319.53515625,
+          92.5372314453125
+        ]
+      ]
+    },
+    {
+      "title": "VDA-PMT-AODOME Pipe mount for AUTODOME, out-\ndoor",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          319.7480163574219,
+          135.11181640625
+        ],
+        [
+          552.9296875,
+          135.11181640625
+        ],
+        [
+          552.9296875,
+          154.76019287109375
+        ],
+        [
+          319.7480163574219,
+          154.76019287109375
+        ]
+      ]
+    },
+    {
+      "title": "Services",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          319.74700927734375,
+          194.4471435546875
+        ],
+        [
+          357.658203125,
+          194.4471435546875
+        ],
+        [
+          357.658203125,
+          203.927734375
+        ],
+        [
+          319.74700927734375,
+          203.927734375
+        ]
+      ]
+    },
+    {
+      "title": "Represented by:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.68798828125,
+          645.125
+        ],
+        [
+          87.013671875,
+          645.125
+        ],
+        [
+          87.013671875,
+          651.328125
+        ],
+        [
+          41.68798828125,
+          651.328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          423.427734375,
+          660.2451171875
+        ],
+        [
+          461.841796875,
+          660.2451171875
+        ],
+        [
+          461.841796875,
+          665.6728515625
+        ],
+        [
+          423.427734375,
+          665.6728515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "TableCell",
+          57
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "TableCell",
+          106
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "TableCell",
+          89
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "SectionHeader",
+          20
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152190_pro"
+}

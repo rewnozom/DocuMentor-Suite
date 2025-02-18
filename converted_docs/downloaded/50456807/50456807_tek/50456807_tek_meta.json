@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "LCD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          624.921875,
+          413.533203125
+        ],
+        [
+          665.33203125,
+          413.533203125
+        ],
+        [
+          665.33203125,
+          438.1499938964844
+        ],
+        [
+          624.921875,
+          438.1499938964844
+        ]
+      ]
+    },
+    {
+      "title": "\u00a9 2020 Hangzhou Hikvision Digital Technology Co., Ltd. All rights reserved.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          148.521728515625,
+          31.50244140625
+        ],
+        [
+          527.072265625,
+          31.50244140625
+        ],
+        [
+          527.072265625,
+          45.44000244140625
+        ],
+        [
+          148.521728515625,
+          45.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "About this Manual",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          148.4189453125,
+          141.8701171875
+        ],
+        [
+          242.26400756835938,
+          141.8701171875
+        ],
+        [
+          242.26400756835938,
+          156.22000122070312
+        ],
+        [
+          148.4189453125,
+          156.22000122070312
+        ]
+      ]
+    },
+    {
+      "title": "LEGAL DISCLAIMER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          148.4189453125,
+          220.4443359375
+        ],
+        [
+          244.6240234375,
+          220.4443359375
+        ],
+        [
+          244.6240234375,
+          234.25
+        ],
+        [
+          148.4189453125,
+          234.25
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          455
+        ],
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          437
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          223
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50456807_tek"
+}

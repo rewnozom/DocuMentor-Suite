@@ -1,0 +1,385 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Solar Charging Panel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.056640625,
+          176.8798828125
+        ],
+        [
+          649.2372436523438,
+          176.8798828125
+        ],
+        [
+          649.2372436523438,
+          249.169921875
+        ],
+        [
+          83.056640625,
+          249.169921875
+        ]
+      ]
+    },
+    {
+      "title": "Non-stop protection",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          91.3447036743164,
+          108.984375
+        ],
+        [
+          361.23046875,
+          108.984375
+        ],
+        [
+          361.23046875,
+          143.4814453125
+        ],
+        [
+          91.3447036743164,
+          143.4814453125
+        ]
+      ]
+    },
+    {
+      "title": "Weatherproof design",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.6484375,
+          554.58984375
+        ],
+        [
+          372.73406982421875,
+          554.58984375
+        ],
+        [
+          372.73406982421875,
+          587.1739807128906
+        ],
+        [
+          89.6484375,
+          587.1739807128906
+        ]
+      ]
+    },
+    {
+      "title": "Flexible installation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.6484375,
+          37.24365234375
+        ],
+        [
+          355.078125,
+          37.24365234375
+        ],
+        [
+          355.078125,
+          74.542236328125
+        ],
+        [
+          89.6484375,
+          74.542236328125
+        ]
+      ]
+    },
+    {
+      "title": "Specifications CS-CMT-Solar Panel-E",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          98.32763671875,
+          25.41961669921875
+        ],
+        [
+          502.1302185058594,
+          25.41961669921875
+        ],
+        [
+          502.1302185058594,
+          64.654541015625
+        ],
+        [
+          98.32763671875,
+          64.654541015625
+        ]
+      ]
+    },
+    {
+      "title": "Performance Parameter*",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          108.489990234375,
+          129.19921875
+        ],
+        [
+          313.330078125,
+          129.19921875
+        ],
+        [
+          313.330078125,
+          150.5126953125
+        ],
+        [
+          108.489990234375,
+          150.5126953125
+        ]
+      ]
+    },
+    {
+      "title": "Mechanical Data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          110.5224609375,
+          429.5654296875
+        ],
+        [
+          248.73046875,
+          429.5654296875
+        ],
+        [
+          248.73046875,
+          450.87890625
+        ],
+        [
+          110.5224609375,
+          450.87890625
+        ]
+      ]
+    },
+    {
+      "title": "In the box Certifications",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          146.46969604492188,
+          78.662109375
+        ],
+        [
+          945.41748046875,
+          78.662109375
+        ],
+        [
+          945.41748046875,
+          147.4365234375
+        ],
+        [
+          146.46969604492188,
+          147.4365234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          146.1181640625,
+          80.6396484375
+        ],
+        [
+          307.8369140625,
+          80.6396484375
+        ],
+        [
+          307.8369140625,
+          125.9033203125
+        ],
+        [
+          146.1181640625,
+          125.9033203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Picture",
+          8
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50463842_bro"
+}

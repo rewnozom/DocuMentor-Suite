@@ -1,0 +1,119 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u00d6ppnaknapp Touchless",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.50297546386719,
+          149.138427734375
+        ],
+        [
+          276.60052490234375,
+          149.138427734375
+        ],
+        [
+          276.60052490234375,
+          173.40704345703125
+        ],
+        [
+          58.50297546386719,
+          173.40704345703125
+        ]
+      ]
+    },
+    {
+      "title": "Snabbfakta",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.948486328125,
+          493.359375
+        ],
+        [
+          138.4080047607422,
+          493.359375
+        ],
+        [
+          138.4080047607422,
+          510.626953125
+        ],
+        [
+          57.948486328125,
+          510.626953125
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          323.609375,
+          575.1748046875
+        ],
+        [
+          430.12109375,
+          575.1748046875
+        ],
+        [
+          430.12109375,
+          592.4423828125
+        ],
+        [
+          323.609375,
+          592.4423828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\\u00d6ppnaknapp Touchlesscopiaxsehttpscopiaxse  images  doc  50463444_pro_975420626657342680"
+}

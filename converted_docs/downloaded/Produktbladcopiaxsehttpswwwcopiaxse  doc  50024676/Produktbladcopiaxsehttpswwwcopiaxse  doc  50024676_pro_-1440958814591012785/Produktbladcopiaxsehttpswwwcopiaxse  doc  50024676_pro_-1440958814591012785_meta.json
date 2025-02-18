@@ -1,0 +1,243 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.2843017578125,
+          135.2626953125
+        ],
+        [
+          380.6484375,
+          135.2626953125
+        ],
+        [
+          380.6484375,
+          164.8642578125
+        ],
+        [
+          215.2843017578125,
+          164.8642578125
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrh\u00e5llarmagnet - VIRA5024",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.5224609375,
+          184.495849609375
+        ],
+        [
+          361.44140625,
+          184.495849609375
+        ],
+        [
+          361.44140625,
+          209.574951171875
+        ],
+        [
+          36.5224609375,
+          209.574951171875
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.540283203125,
+          219.1337890625
+        ],
+        [
+          179.46200561523438,
+          219.1337890625
+        ],
+        [
+          179.46200561523438,
+          236.8125
+        ],
+        [
+          35.540283203125,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.0517578125,
+          535.7060546875
+        ],
+        [
+          124.1181640625,
+          535.7060546875
+        ],
+        [
+          124.1181640625,
+          553.7958984375
+        ],
+        [
+          42.0517578125,
+          553.7958984375
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0,
+          135.571044921875
+        ],
+        [
+          182.3800048828125,
+          135.571044921875
+        ],
+        [
+          182.3800048828125,
+          152.427490234375
+        ],
+        [
+          36.0,
+          152.427490234375
+        ]
+      ]
+    },
+    {
+      "title": "Monteringstillbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.467529296875,
+          375.775390625
+        ],
+        [
+          179.66299438476562,
+          375.775390625
+        ],
+        [
+          179.66299438476562,
+          393.865234375
+        ],
+        [
+          35.467529296875,
+          393.865234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Produktbladcopiaxsehttpswwwcopiaxse  doc  50024676_pro_-1440958814591012785"
+}

@@ -1,0 +1,288 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          455.73046875,
+          19.24615478515625
+        ],
+        [
+          568.0625,
+          19.24615478515625
+        ],
+        [
+          568.0625,
+          44.42803955078125
+        ],
+        [
+          455.73046875,
+          44.42803955078125
+        ]
+      ]
+    },
+    {
+      "title": "3-serien\nDC313NEA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.2830810546875,
+          69.995361328125
+        ],
+        [
+          92.6760025024414,
+          69.995361328125
+        ],
+        [
+          92.6760025024414,
+          98.363525390625
+        ],
+        [
+          28.2830810546875,
+          98.363525390625
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s portabel d\u00f6rrklocka med volymkontroll, \ntr\u00e5dl\u00f6s r\u00f6relsesensor och tryckknapp - Vit",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.61083984375,
+          110.38916015625
+        ],
+        [
+          298.8768310546875,
+          110.38916015625
+        ],
+        [
+          298.8768310546875,
+          138.4749755859375
+        ],
+        [
+          29.61083984375,
+          138.4749755859375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackningens inneh\u00e5ll:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.938232421875,
+          314.72216796875
+        ],
+        [
+          174.7548828125,
+          314.72216796875
+        ],
+        [
+          174.7548828125,
+          329.0618896484375
+        ],
+        [
+          29.938232421875,
+          329.0618896484375
+        ]
+      ]
+    },
+    {
+      "title": "Viktiga funktioner och f\u00f6rdelar:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.75634765625,
+          367.552734375
+        ],
+        [
+          205.5779571533203,
+          367.552734375
+        ],
+        [
+          205.5779571533203,
+          382.8118896484375
+        ],
+        [
+          29.75634765625,
+          382.8118896484375
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.719970703125,
+          33.3531494140625
+        ],
+        [
+          107.384765625,
+          33.3531494140625
+        ],
+        [
+          107.384765625,
+          49.3873291015625
+        ],
+        [
+          29.719970703125,
+          49.3873291015625
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s tryckknapp",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.322021484375,
+          351.31298828125
+        ],
+        [
+          128.7744140625,
+          351.31298828125
+        ],
+        [
+          128.7744140625,
+          365.29150390625
+        ],
+        [
+          35.322021484375,
+          365.29150390625
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackning",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.7767333984375,
+          263.125
+        ],
+        [
+          96.01000213623047,
+          263.125
+        ],
+        [
+          96.01000213623047,
+          275.920654296875
+        ],
+        [
+          35.7767333984375,
+          275.920654296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116651_Pro"
+}

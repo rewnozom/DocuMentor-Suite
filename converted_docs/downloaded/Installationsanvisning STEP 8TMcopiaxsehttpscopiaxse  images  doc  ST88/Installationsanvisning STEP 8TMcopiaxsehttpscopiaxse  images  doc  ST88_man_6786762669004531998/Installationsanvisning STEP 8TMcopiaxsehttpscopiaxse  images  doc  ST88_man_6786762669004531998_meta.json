@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VIKTIG INFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.4559326171875,
+          32.993896484375
+        ],
+        [
+          131.35693359375,
+          32.993896484375
+        ],
+        [
+          131.35693359375,
+          43.836669921875
+        ],
+        [
+          33.4559326171875,
+          43.836669921875
+        ]
+      ]
+    },
+    {
+      "title": "INSTALLATIONSANVISNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.890625,
+          32.411865234375
+        ],
+        [
+          153.763671875,
+          32.411865234375
+        ],
+        [
+          153.763671875,
+          43.1632080078125
+        ],
+        [
+          32.890625,
+          43.1632080078125
+        ]
+      ]
+    },
+    {
+      "title": "UNDERH\u00c5LLSANVISNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.9141845703125,
+          170.6806640625
+        ],
+        [
+          144.6757049560547,
+          170.6806640625
+        ],
+        [
+          144.6757049560547,
+          182.15023803710938
+        ],
+        [
+          31.9141845703125,
+          182.15023803710938
+        ]
+      ]
+    },
+    {
+      "title": "STR\u00d6MF\u00d6RBRUKNING OCH KOPPLINGSSCHEMA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.86279296875,
+          322.4453125
+        ],
+        [
+          247.16766357421875,
+          322.4453125
+        ],
+        [
+          247.16766357421875,
+          333.50390625
+        ],
+        [
+          31.86279296875,
+          333.50390625
+        ]
+      ]
+    },
+    {
+      "title": "ARTIKELNUMMER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          454.93621826171875,
+          32.193603515625
+        ],
+        [
+          533.650390625,
+          32.193603515625
+        ],
+        [
+          533.650390625,
+          43.4822998046875
+        ],
+        [
+          454.93621826171875,
+          43.4822998046875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK INFORMATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          454.712890625,
+          427.501953125
+        ],
+        [
+          559.75830078125,
+          427.501953125
+        ],
+        [
+          559.75830078125,
+          438.29302978515625
+        ],
+        [
+          454.712890625,
+          438.29302978515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          294
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Installationsanvisning STEP 8TMcopiaxsehttpscopiaxse  images  doc  ST88_man_6786762669004531998"
+}

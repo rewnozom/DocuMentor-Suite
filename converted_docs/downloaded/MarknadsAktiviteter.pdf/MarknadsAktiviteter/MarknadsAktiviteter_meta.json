@@ -1,0 +1,76 @@
+{
+  "table_of_contents": [
+    {
+      "title": "COPIAX",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          8.25,
+          10.8929443359375
+        ],
+        [
+          66.75,
+          10.8929443359375
+        ],
+        [
+          66.0,
+          28.3612060546875
+        ],
+        [
+          7.5,
+          28.3612060546875
+        ]
+      ]
+    },
+    {
+      "title": "Marknadsaktiviteter\n2022\nJan\nFeb\n Mar\nMaj\nOkt\nNov\nDec\nApr\nJun\nJul\nAug\nSep\nSpeeddating p\u00e5 ort\nBokas upp\nCopiaxdagen\nCopiaxdagen\n\u00d6rebro\nSthim\nEvent\n31 mar\n20 maj\nCopiaxdagen\nCopiaxgolfen\n Lule\u00e5\nNyn\u00e4shamn\n31 maj\n8 sep\nCloud Session 1\nCloud Session 2\nCloud Session 3\nCloud Session 4\nCloud Session !\nCloude Sessions: Digitala evenemang\n V\u00e5rnyheter\nInbrottslarm\nSommarnyheter\nH\u00f6stnyheter\nVinternyheter\n med teman\n21 april\n30 jun\n24 feb\n6 okt\n15 dec\nSecurity school\nBokas upp\nKurser/webbinarium\nCopiax\nCopiax\nCopiax\nCopiax Presenterar\nPresenterar\n Presenterar\nPresenterar\nProdukt-tidning\nNr 1, v 3\nNr 2, v 19\nNr 3, v 41\neDR / nyhetsbrev\nNr7&8/\nNr1\nNr2\nNr4\nNr5\nNr6\nNr9\nNr11\nNr12\nNr3\nNr 10\n15:e i varje m\u00e5nad, banners\n sommar\nCopiax.se Banners m\u00e5nadsvis + nyheter\nBokas upp\n+ kampanjer\nFlyers\nBokas upp\nEn sida A5\nCopiax Butik\nBokas upp\n Events/demo, sk\u00e4rmexponering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          9.75,
+          40.5
+        ],
+        [
+          965.625,
+          39.75
+        ],
+        [
+          965.625,
+          529.98046875
+        ],
+        [
+          9.75,
+          529.98046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          84
+        ],
+        [
+          "Span",
+          84
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\MarknadsAktiviteter"
+}

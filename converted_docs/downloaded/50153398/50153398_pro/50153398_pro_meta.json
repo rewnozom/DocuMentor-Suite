@@ -1,0 +1,166 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BESKRIVNING DC5/10\n SM40",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.86399841308594,
+          133.64605712890625
+        ],
+        [
+          437.978515625,
+          133.64605712890625
+        ],
+        [
+          437.978515625,
+          161.795654296875
+        ],
+        [
+          72.86399841308594,
+          161.795654296875
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLINGSANVISNING DC5\n SM40",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.34400177001953,
+          132.68603515625
+        ],
+        [
+          316.314208984375,
+          132.68603515625
+        ],
+        [
+          316.314208984375,
+          160.83563232421875
+        ],
+        [
+          67.34400177001953,
+          160.83563232421875
+        ]
+      ]
+    },
+    {
+      "title": "INKOPPLINGSANVISNING DC10",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.0299987792969,
+          132.384765625
+        ],
+        [
+          485.99609375,
+          132.384765625
+        ],
+        [
+          485.99609375,
+          146.56884765625
+        ],
+        [
+          319.0299987792969,
+          146.56884765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "TableCell",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50153398_pro"
+}

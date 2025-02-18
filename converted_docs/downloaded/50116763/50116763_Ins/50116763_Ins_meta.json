@@ -1,0 +1,284 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tack vare Vanderbilt \ns\u00e5 har Omnis nu \nst\u00f6rre m\u00f6jligheter \n\u00e4n n\u00e5gonsin...",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.0205078125,
+          167.022705078125
+        ],
+        [
+          297.78717041015625,
+          167.022705078125
+        ],
+        [
+          297.78717041015625,
+          323.97265625
+        ],
+        [
+          56.0205078125,
+          323.97265625
+        ]
+      ]
+    },
+    {
+      "title": "Omnis s\u00e4kerhetssystem \u2013 i ny Vanderbilt-design",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.3115234375,
+          660.6904296875
+        ],
+        [
+          421.70819091796875,
+          660.6904296875
+        ],
+        [
+          421.70819091796875,
+          682.8916015625
+        ],
+        [
+          56.3115234375,
+          682.8916015625
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerhetssystem",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.346500396728516,
+          68.04248046875
+        ],
+        [
+          115.6787109375,
+          68.04248046875
+        ],
+        [
+          115.6787109375,
+          82.02099609375
+        ],
+        [
+          28.346500396728516,
+          82.02099609375
+        ]
+      ]
+    },
+    {
+      "title": "Bepr\u00f6vad Omnis-teknik",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.464599609375,
+          355.42431640625
+        ],
+        [
+          150.1640625,
+          355.42431640625
+        ],
+        [
+          150.1640625,
+          368.77471923828125
+        ],
+        [
+          27.464599609375,
+          368.77471923828125
+        ]
+      ]
+    },
+    {
+      "title": "Vanderbilt och p\u00e5g\u00e5ende FoU",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.35546875,
+          474.8583984375
+        ],
+        [
+          181.40853881835938,
+          474.8583984375
+        ],
+        [
+          181.40853881835938,
+          488.8369140625
+        ],
+        [
+          27.35546875,
+          488.8369140625
+        ]
+      ]
+    },
+    {
+      "title": "Integration med Vectis iX NVR och IP-n\u00e4tverk",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.28271484375,
+          594.498046875
+        ],
+        [
+          259.00390625,
+          594.498046875
+        ],
+        [
+          259.00390625,
+          607.654296875
+        ],
+        [
+          27.28271484375,
+          607.654296875
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s anslutning till ASSA Abloy Aperio",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.71923828125,
+          757.306640625
+        ],
+        [
+          239.14170837402344,
+          757.306640625
+        ],
+        [
+          239.14170837402344,
+          771.28515625
+        ],
+        [
+          27.71923828125,
+          771.28515625
+        ]
+      ]
+    },
+    {
+      "title": "Gr\u00e4nssnitt f\u00f6r kortl\u00e4sarna i MIFARE\u00ae VR-serien",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.947265625,
+          455.53515625
+        ],
+        [
+          538.669921875,
+          455.53515625
+        ],
+        [
+          538.669921875,
+          469.25994873046875
+        ],
+        [
+          302.947265625,
+          469.25994873046875
+        ]
+      ]
+    },
+    {
+      "title": "www.omnis-access-control.com",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          338.16015625,
+          802.6716117858887
+        ],
+        [
+          535.46875,
+          802.6716117858887
+        ],
+        [
+          535.46875,
+          816.6716117858887
+        ],
+        [
+          338.16015625,
+          816.6716117858887
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "Line",
+          138
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116763_Ins"
+}

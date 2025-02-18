@@ -1,0 +1,161 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FLEXSTOP",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          24.491455078125,
+          19.461669921875
+        ],
+        [
+          92.88916015625,
+          19.461669921875
+        ],
+        [
+          92.88916015625,
+          39.541748046875
+        ],
+        [
+          24.491455078125,
+          39.541748046875
+        ]
+      ]
+    },
+    {
+      "title": "Kl\u00e4mskydd TB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          13.488,
+          50.673095703125
+        ],
+        [
+          65.94133333333333,
+          50.673095703125
+        ],
+        [
+          65.94133333333333,
+          61.222412109375
+        ],
+        [
+          13.488,
+          61.222412109375
+        ]
+      ]
+    },
+    {
+      "title": "Montering anslagssida (tappb\u00e4rande g\u00e5ngj\u00e4rn)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          13.488,
+          86.06787109375
+        ],
+        [
+          180.58933333333331,
+          86.06787109375
+        ],
+        [
+          180.58933333333331,
+          96.83544921875
+        ],
+        [
+          13.488,
+          96.83544921875
+        ]
+      ]
+    },
+    {
+      "title": "Montering g\u00e5ngj\u00e4rnssida (Kan monteras p\u00e5 d\u00f6rrblad eller karm)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          14.237333333333332,
+          379.193359375
+        ],
+        [
+          241.2853333333333,
+          379.193359375
+        ],
+        [
+          241.2853333333333,
+          389.087890625
+        ],
+        [
+          14.237333333333332,
+          389.087890625
+        ]
+      ]
+    },
+    {
+      "title": "Bes\u00f6k v\u00e5r webb f\u00f6r mer information\nflexstop.se",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.539794921875,
+          567.189453125
+        ],
+        [
+          183.0341796875,
+          567.189453125
+        ],
+        [
+          183.0341796875,
+          588.142578125
+        ],
+        [
+          54.539794921875,
+          588.142578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Kl\u00e4mskydd TBcopiaxsehttpscopiaxse  images  doc  50463679_INS_5483949771425225733"
+}

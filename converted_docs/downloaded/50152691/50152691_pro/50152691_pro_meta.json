@@ -1,0 +1,319 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Bygg ditt eget smarta hem \u2013 enkelt \noch snabbt med Housegard Note",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0859375,
+          29.26751708984375
+        ],
+        [
+          553.8955078125,
+          29.26751708984375
+        ],
+        [
+          553.8955078125,
+          105.763916015625
+        ],
+        [
+          36.0859375,
+          105.763916015625
+        ]
+      ]
+    },
+    {
+      "title": "Startkit\nBrandvarnare & HUBB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.70130157470703,
+          425.5224609375
+        ],
+        [
+          180.720703125,
+          425.5224609375
+        ],
+        [
+          180.720703125,
+          455.7921142578125
+        ],
+        [
+          35.70130157470703,
+          455.7921142578125
+        ]
+      ]
+    },
+    {
+      "title": "Brandvarnare",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          220.0078125,
+          437.8564453125
+        ],
+        [
+          310.3072204589844,
+          437.8564453125
+        ],
+        [
+          310.3072204589844,
+          454.9654235839844
+        ],
+        [
+          220.0078125,
+          454.9654235839844
+        ]
+      ]
+    },
+    {
+      "title": "Temperaturvarnare",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          410.33203125,
+          431.2783203125
+        ],
+        [
+          537.21484375,
+          431.2783203125
+        ],
+        [
+          537.21484375,
+          454.9792175292969
+        ],
+        [
+          410.33203125,
+          454.9792175292969
+        ]
+      ]
+    },
+    {
+      "title": "Sov tryggt \u2013 vakna snabbt!",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.84765625,
+          767.5849609375
+        ],
+        [
+          244.162109375,
+          767.5849609375
+        ],
+        [
+          244.162109375,
+          788.9638671875
+        ],
+        [
+          30.84765625,
+          788.9638671875
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mbrytare",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          22.735595703125,
+          437.8564453125
+        ],
+        [
+          112.9140625,
+          437.8564453125
+        ],
+        [
+          112.9140625,
+          455.1240234375
+        ],
+        [
+          22.735595703125,
+          455.1240234375
+        ]
+      ]
+    },
+    {
+      "title": "R\u00f6relsedetektor",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          162.85830688476562,
+          435.3896484375
+        ],
+        [
+          272.099609375,
+          435.3896484375
+        ],
+        [
+          272.099609375,
+          454.9892272949219
+        ],
+        [
+          162.85830688476562,
+          454.9892272949219
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rr- och \nf\u00f6nsterkontakt",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          449.8897705078125,
+          437.8564453125
+        ],
+        [
+          550.01953125,
+          437.8564453125
+        ],
+        [
+          550.01953125,
+          469.89471435546875
+        ],
+        [
+          449.8897705078125,
+          469.89471435546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "TableCell",
+          74
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Span",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152691_pro"
+}

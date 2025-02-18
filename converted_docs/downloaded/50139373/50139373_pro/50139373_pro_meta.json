@@ -1,0 +1,227 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2X-LB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.2467041015625,
+          143.896484375
+        ],
+        [
+          87.23193359375,
+          143.896484375
+        ],
+        [
+          87.23193359375,
+          167.94775390625
+        ],
+        [
+          28.2467041015625,
+          167.94775390625
+        ]
+      ]
+    },
+    {
+      "title": "Allm\u00e4nt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.86474609375,
+          216.87255859375
+        ],
+        [
+          62.4228515625,
+          216.87255859375
+        ],
+        [
+          62.4228515625,
+          228.38427734375
+        ],
+        [
+          27.86474609375,
+          228.38427734375
+        ]
+      ]
+    },
+    {
+      "title": "Installation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.646484375,
+          300.5380859375
+        ],
+        [
+          75.8095703125,
+          300.5380859375
+        ],
+        [
+          75.8095703125,
+          311.638671875
+        ],
+        [
+          27.646484375,
+          311.638671875
+        ]
+      ]
+    },
+    {
+      "title": "Standardprestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.259765625,
+          389.75390625
+        ],
+        [
+          397.818359375,
+          389.75390625
+        ],
+        [
+          397.818359375,
+          401.01898193359375
+        ],
+        [
+          312.259765625,
+          401.01898193359375
+        ]
+      ]
+    },
+    {
+      "title": "2X-LB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.1375732421875,
+          28.95916748046875
+        ],
+        [
+          87.3046875,
+          28.95916748046875
+        ],
+        [
+          87.3046875,
+          53.1903076171875
+        ],
+        [
+          28.1375732421875,
+          53.1903076171875
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.576499938964844,
+          81.507080078125
+        ],
+        [
+          90.28759765625,
+          81.507080078125
+        ],
+        [
+          90.28759765625,
+          94.457763671875
+        ],
+        [
+          28.576499938964844,
+          94.457763671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50139373_pro"
+}

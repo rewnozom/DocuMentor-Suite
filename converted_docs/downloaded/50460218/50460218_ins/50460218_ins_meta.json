@@ -1,0 +1,873 @@
+{
+  "table_of_contents": [
+    {
+      "title": "05/21 UniScan",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.79349899291992,
+          21.19903564453125
+        ],
+        [
+          583.1774291992188,
+          21.19903564453125
+        ],
+        [
+          583.1774291992188,
+          64.239501953125
+        ],
+        [
+          40.79349899291992,
+          64.239501953125
+        ]
+      ]
+    },
+    {
+      "title": "Allm\u00e4nt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.234375,
+          109.97802734375
+        ],
+        [
+          81.35899353027344,
+          108.33349609375
+        ],
+        [
+          81.35899353027344,
+          120.76580810546875
+        ],
+        [
+          44.234375,
+          122.31201171875
+        ]
+      ]
+    },
+    {
+      "title": "1 S\u00e4kerhetsf\u00f6reskrifter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.48974609375,
+          198.268798828125
+        ],
+        [
+          158.9337921142578,
+          198.268798828125
+        ],
+        [
+          158.9337921142578,
+          211.01300048828125
+        ],
+        [
+          46.48974609375,
+          211.01300048828125
+        ]
+      ]
+    },
+    {
+      "title": "Idrifttagande\n2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.7265625,
+          320.06689453125
+        ],
+        [
+          122.0810546875,
+          320.06689453125
+        ],
+        [
+          122.0810546875,
+          333.2986755371094
+        ],
+        [
+          47.7265625,
+          333.2986755371094
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Montering av aluminiumprofil",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.270751953125,
+          363.44140625
+        ],
+        [
+          168.92486572265625,
+          363.44140625
+        ],
+        [
+          168.92486572265625,
+          376.33795166015625
+        ],
+        [
+          44.270751953125,
+          376.33795166015625
+        ]
+      ]
+    },
+    {
+      "title": "2.2\nElektrisk anslutning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.166500091552734,
+          507.337890625
+        ],
+        [
+          138.232421875,
+          507.337890625
+        ],
+        [
+          138.232421875,
+          520.1358642578125
+        ],
+        [
+          46.166500091552734,
+          520.1358642578125
+        ]
+      ]
+    },
+    {
+      "title": "Kopplingsschema enskilda detektorer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.674560546875,
+          522.5498046875
+        ],
+        [
+          192.7567138671875,
+          522.5498046875
+        ],
+        [
+          192.7567138671875,
+          533.2392578125
+        ],
+        [
+          54.674560546875,
+          533.2392578125
+        ]
+      ]
+    },
+    {
+      "title": "Anvisningar f\u00f6r kabeldragning:\nKoppla in enligt kraven f\u00f6r d\u00f6rrautomatiken",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          307.3717956542969,
+          525.0819702148438
+        ],
+        [
+          432.63580322265625,
+          525.0819702148438
+        ],
+        [
+          432.63580322265625,
+          550.095703125
+        ],
+        [
+          307.3717956542969,
+          550.095703125
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling av Master/Slav",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          307.603515625,
+          585.8642578125
+        ],
+        [
+          384.71173095703125,
+          585.8642578125
+        ],
+        [
+          384.71173095703125,
+          595.7314453125
+        ],
+        [
+          307.603515625,
+          595.7314453125
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Vinkelinst\u00e4llning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.042701721191406,
+          110.80029296875
+        ],
+        [
+          112.041015625,
+          110.80029296875
+        ],
+        [
+          112.041015625,
+          121.71466064453125
+        ],
+        [
+          35.042701721191406,
+          121.71466064453125
+        ]
+      ]
+    },
+    {
+      "title": "2.5 Idrifttagande",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.1033935546875,
+          263.125
+        ],
+        [
+          96.908203125,
+          263.125
+        ],
+        [
+          96.908203125,
+          273.80517578125
+        ],
+        [
+          34.1033935546875,
+          273.80517578125
+        ]
+      ]
+    },
+    {
+      "title": "Initialiseringen av en sensor ska vid idrifttagande g\u00f6ras p\u00e5 masterenheten (f\u00f6rstag\u00e5ngsinitialisering).",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.345703125,
+          279.36474609375
+        ],
+        [
+          381.66510009765625,
+          279.36474609375
+        ],
+        [
+          381.66510009765625,
+          288.82525634765625
+        ],
+        [
+          50.345703125,
+          288.82525634765625
+        ]
+      ]
+    },
+    {
+      "title": "InitialisierIng\n\nIdrifttagande med den gr\u00f6na knappen\nKnapp \u00abgr\u00f6n\u00bb Knapp \u00abr\u00f6d\u00bb\n1. Om b\u00e5da lysdioderna \u00abr\u00f6d\u00bb och \u00abgr\u00f6n\u00bb blinkar \nTryck 5 sekunder p\u00e5 knappen \u00abgr\u00f6n\u00bb och aktivera\ninitialiseringen. Idrifttagandet startas alltid p\u00e5 \nden optikenhet som \u00e4r ansluten till d\u00f6rrautomatiken\n(p\u00e5 mastern).\nV",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.26700210571289,
+          330.5059814453125
+        ],
+        [
+          355.87091064453125,
+          330.1396484375
+        ],
+        [
+          355.87091064453125,
+          418.51580810546875
+        ],
+        [
+          36.26700210571289,
+          418.51580810546875
+        ]
+      ]
+    },
+    {
+      "title": "Idrifttagande med fj\u00e4rrkontroll (RegloBeam 2):",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          379.484375,
+          329.93408203125
+        ],
+        [
+          552.9296875,
+          329.93408203125
+        ],
+        [
+          552.9296875,
+          340.4094543457031
+        ],
+        [
+          379.484375,
+          340.4094543457031
+        ]
+      ]
+    },
+    {
+      "title": "Initialisering:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          381.0465087890625,
+          349.0517578125
+        ],
+        [
+          418.79852294921875,
+          349.0517578125
+        ],
+        [
+          418.79852294921875,
+          357.685546875
+        ],
+        [
+          381.0465087890625,
+          357.685546875
+        ]
+      ]
+    },
+    {
+      "title": "Inst\u00e4llning av parametrar och v\u00e4rden\n3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.54159927368164,
+          510.9576110839844
+        ],
+        [
+          213.30154418945312,
+          510.9576110839844
+        ],
+        [
+          213.30154418945312,
+          521.2726745605469
+        ],
+        [
+          37.54159927368164,
+          521.2726745605469
+        ]
+      ]
+    },
+    {
+      "title": "Exempel p\u00e5 inst\u00e4llning av k\u00e4nslighet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.673828125,
+          528.3056640625
+        ],
+        [
+          175.3369140625,
+          528.3056640625
+        ],
+        [
+          175.3369140625,
+          537.3505859375
+        ],
+        [
+          52.673828125,
+          537.3505859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.419189453125,
+          540.6396484375
+        ],
+        [
+          194.3984375,
+          540.6396484375
+        ],
+        [
+          194.3984375,
+          549.6845703125
+        ],
+        [
+          52.419189453125,
+          549.6845703125
+        ]
+      ]
+    },
+    {
+      "title": "Anvisningar till inst\u00e4llningar:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.673095703125,
+          630.677734375
+        ],
+        [
+          154.23828125,
+          630.677734375
+        ],
+        [
+          154.23828125,
+          639.72265625
+        ],
+        [
+          50.673095703125,
+          639.72265625
+        ]
+      ]
+    },
+    {
+      "title": "Valet av speciella underlag st\u00e4nger av detektorns sj\u00e4lvtest mot underlaget och\nvid gallerdurk st\u00e4ngs \u00e4ven den automatiska underlagsanpassningen av.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.80799865722656,
+          696.4364776611328
+        ],
+        [
+          276.0568542480469,
+          696.4364776611328
+        ],
+        [
+          276.0568542480469,
+          713.7265625
+        ],
+        [
+          49.80799865722656,
+          713.7265625
+        ]
+      ]
+    },
+    {
+      "title": "Synkronisering:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.218017578125,
+          719.4363784790039
+        ],
+        [
+          101.2734375,
+          718.2490234375
+        ],
+        [
+          101.2734375,
+          727.4363784790039
+        ],
+        [
+          49.218017578125,
+          728.9384765625
+        ]
+      ]
+    },
+    {
+      "title": "Inst\u00e4llning med knapparna \u00abr\u00f6d\u00bb och \u00abgr\u00f6n\u00bb Inst\u00e4llning med fj\u00e4rrkontroll (RegloBeam 2):",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.75230026245117,
+          538.6768798828125
+        ],
+        [
+          428.70928955078125,
+          537.3505859375
+        ],
+        [
+          428.70928955078125,
+          547.032470703125
+        ],
+        [
+          51.75230026245117,
+          548.0400390625
+        ]
+      ]
+    },
+    {
+      "title": "K\u00e4nslighet:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          285.0498046875,
+          641.7783203125
+        ],
+        [
+          322.2103271484375,
+          640.1337890625
+        ],
+        [
+          322.2103271484375,
+          650.7690582275391
+        ],
+        [
+          285.0498046875,
+          650.8232421875
+        ]
+      ]
+    },
+    {
+      "title": "Fabriks\u00e5terst\u00e4llning:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          285.486328125,
+          724.7690734863281
+        ],
+        [
+          352.8663330078125,
+          724.7690734863281
+        ],
+        [
+          352.8663330078125,
+          733.8720703125
+        ],
+        [
+          285.486328125,
+          733.8720703125
+        ]
+      ]
+    },
+    {
+      "title": "Snabbval",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          285.7623291015625,
+          756.484375
+        ],
+        [
+          316.333984375,
+          756.484375
+        ],
+        [
+          316.333984375,
+          765.529296875
+        ],
+        [
+          285.7623291015625,
+          765.529296875
+        ]
+      ]
+    },
+    {
+      "title": "Observera: Genomf\u00f6r alltid en initialisering p\u00e5 respektive optikenhet n\u00e4r parametrar \u00e4ndras.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          18.734130859375,
+          206.36328125
+        ],
+        [
+          28.0830078125,
+          206.36328125
+        ],
+        [
+          28.0830078125,
+          508.16015625
+        ],
+        [
+          18.734130859375,
+          508.16015625
+        ]
+      ]
+    },
+    {
+      "title": "5 Tekniska data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.14289855957031,
+          471.5693359375
+        ],
+        [
+          115.81230163574219,
+          471.5693359375
+        ],
+        [
+          115.81230163574219,
+          483.3575744628906
+        ],
+        [
+          38.14289855957031,
+          483.3575744628906
+        ]
+      ]
+    },
+    {
+      "title": "EU-f\u00f6rs\u00e4kran om \u00f6verensst\u00e4mmelse",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.234375,
+          652.056640625
+        ],
+        [
+          210.2587890625,
+          652.056640625
+        ],
+        [
+          210.2587890625,
+          662.74609375
+        ],
+        [
+          44.234375,
+          662.74609375
+        ]
+      ]
+    },
+    {
+      "title": "7\nWEEE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.34783172607422,
+          697.6923828125
+        ],
+        [
+          79.82410430908203,
+          697.6923828125
+        ],
+        [
+          79.82410430908203,
+          709.2041015625
+        ],
+        [
+          39.34783172607422,
+          709.2041015625
+        ]
+      ]
+    },
+    {
+      "title": "8\n \nKontakt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.92333984375,
+          762.6513671875
+        ],
+        [
+          89.341796875,
+          762.6513671875
+        ],
+        [
+          89.341796875,
+          773.4320983886719
+        ],
+        [
+          38.92333984375,
+          773.4320983886719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          148
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          138
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "SectionHeader",
+          16
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListGroup",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          799
+        ],
+        [
+          "Span",
+          782
+        ],
+        [
+          "TableCell",
+          448
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          138
+        ],
+        [
+          "TableCell",
+          99
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50460218_ins"
+}

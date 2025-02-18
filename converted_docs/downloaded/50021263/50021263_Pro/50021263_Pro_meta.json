@@ -1,0 +1,308 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          346.017578125,
+          21.3275146484375
+        ],
+        [
+          569.517578125,
+          21.3275146484375
+        ],
+        [
+          569.517578125,
+          81.1473388671875
+        ],
+        [
+          346.017578125,
+          81.1473388671875
+        ]
+      ]
+    },
+    {
+      "title": "Kraftigt elslutbleck \nmed unik prestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.4169921875,
+          435.3896484375
+        ],
+        [
+          502.875,
+          435.3896484375
+        ],
+        [
+          502.875,
+          513.5048828125
+        ],
+        [
+          195.4169921875,
+          513.5048828125
+        ]
+      ]
+    },
+    {
+      "title": "Minskat buller ger brett anv\u00e4ndningsomr\u00e5de",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          194.689453125,
+          620.3994140625
+        ],
+        [
+          385.1383361816406,
+          620.3994140625
+        ],
+        [
+          385.1383361816406,
+          631.0888671875
+        ],
+        [
+          194.689453125,
+          631.0888671875
+        ]
+      ]
+    },
+    {
+      "title": "H\u00f6g s\u00e4kerhet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.4169921875,
+          706.7373046875
+        ],
+        [
+          253.29910278320312,
+          706.7373046875
+        ],
+        [
+          253.29910278320312,
+          717.4267578125
+        ],
+        [
+          195.4169921875,
+          717.4267578125
+        ]
+      ]
+    },
+    {
+      "title": "Unik listtrycksteknik f\u00f6r b\u00e5de \nr\u00e4ttv\u00e4nd och omv\u00e4nd funktion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.18359375,
+          80.9931640625
+        ],
+        [
+          507.98046875,
+          80.9931640625
+        ],
+        [
+          507.98046875,
+          120.634033203125
+        ],
+        [
+          253.18359375,
+          120.634033203125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.9842987060547,
+          294.7822265625
+        ],
+        [
+          365.64013671875,
+          294.7822265625
+        ],
+        [
+          365.64013671875,
+          315.137939453125
+        ],
+        [
+          253.9842987060547,
+          315.137939453125
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rbrukning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.0380859375,
+          371.6640625
+        ],
+        [
+          319.826171875,
+          371.6640625
+        ],
+        [
+          319.826171875,
+          381.9423828125
+        ],
+        [
+          253.0380859375,
+          381.9423828125
+        ]
+      ]
+    },
+    {
+      "title": "Artikelnummer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.9744873046875,
+          449.779296875
+        ],
+        [
+          308.5715026855469,
+          449.779296875
+        ],
+        [
+          308.5715026855469,
+          459.646484375
+        ],
+        [
+          253.9744873046875,
+          459.646484375
+        ]
+      ]
+    },
+    {
+      "title": "Passande l\u00e5shus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.3291015625,
+          625.3330078125
+        ],
+        [
+          313.423828125,
+          625.3330078125
+        ],
+        [
+          313.423828125,
+          635.2001953125
+        ],
+        [
+          253.3291015625,
+          635.2001953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50021263_Pro"
+}

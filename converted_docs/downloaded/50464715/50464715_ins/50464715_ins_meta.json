@@ -1,0 +1,1432 @@
+{
+  "table_of_contents": [
+    {
+      "title": "About this Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.17034912109375,
+          94.1728515625
+        ],
+        [
+          94.95947265625,
+          94.1728515625
+        ],
+        [
+          94.95947265625,
+          105.5791015625
+        ],
+        [
+          19.17034912109375,
+          105.5791015625
+        ]
+      ]
+    },
+    {
+      "title": "Revision Record",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.60296630859375,
+          147.99609375
+        ],
+        [
+          86.73974609375,
+          147.99609375
+        ],
+        [
+          86.73974609375,
+          159.1171875
+        ],
+        [
+          19.60296630859375,
+          159.1171875
+        ]
+      ]
+    },
+    {
+      "title": "Trademarks Acknowledgement",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.6300048828125,
+          170.095703125
+        ],
+        [
+          145.57568359375,
+          170.095703125
+        ],
+        [
+          145.57568359375,
+          181.216796875
+        ],
+        [
+          19.6300048828125,
+          181.216796875
+        ]
+      ]
+    },
+    {
+      "title": "Legal Disclaimer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.6300048828125,
+          214.294921875
+        ],
+        [
+          88.47021484375,
+          214.294921875
+        ],
+        [
+          88.47021484375,
+          225.130859375
+        ],
+        [
+          19.6300048828125,
+          225.130859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          167.098388671875,
+          17.251953125
+        ],
+        [
+          277.3076171875,
+          17.251953125
+        ],
+        [
+          277.3076171875,
+          33.220703125
+        ],
+        [
+          167.098388671875,
+          33.220703125
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6versikt",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          19.842500686645508,
+          15.558837890624998
+        ],
+        [
+          76.78955078125,
+          15.558837890624998
+        ],
+        [
+          76.78955078125,
+          34.343505859375
+        ],
+        [
+          19.842500686645508,
+          34.343505859375
+        ]
+      ]
+    },
+    {
+      "title": "2. Grundl\u00e4ggande information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          19.25146484375,
+          336.76953125
+        ],
+        [
+          154.51251220703125,
+          336.76953125
+        ],
+        [
+          154.51251220703125,
+          348.17578125
+        ],
+        [
+          19.25146484375,
+          348.17578125
+        ]
+      ]
+    },
+    {
+      "title": "Kamera",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          19.25146484375,
+          355.47389221191406
+        ],
+        [
+          47.50090408325195,
+          355.47389221191406
+        ],
+        [
+          47.50090408325195,
+          365.0
+        ],
+        [
+          19.25146484375,
+          365.0
+        ]
+      ]
+    },
+    {
+      "title": "Basstation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          19.427215576171875,
+          316.80859375
+        ],
+        [
+          58.727783203125,
+          316.80859375
+        ],
+        [
+          58.727783203125,
+          326.50390625
+        ],
+        [
+          19.427215576171875,
+          326.50390625
+        ]
+      ]
+    },
+    {
+      "title": "Konfiguration",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          19.54888916015625,
+          211.5859375
+        ],
+        [
+          95.067626953125,
+          211.5859375
+        ],
+        [
+          95.067626953125,
+          226.4140625
+        ],
+        [
+          19.54888916015625,
+          226.4140625
+        ]
+      ]
+    },
+    {
+      "title": "1. H\u00e4mta appen EZVIZ",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          19.842500686645508,
+          226.98437499999997
+        ],
+        [
+          122.4306640625,
+          226.98437499999997
+        ],
+        [
+          122.4306640625,
+          238.67578124999997
+        ],
+        [
+          19.842500686645508,
+          238.67578124999997
+        ]
+      ]
+    },
+    {
+      "title": "2. Sl\u00e5 p\u00e5 kameran",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          19.842601776123047,
+          379.828125
+        ],
+        [
+          101.0701904296875,
+          379.828125
+        ],
+        [
+          101.0701904296875,
+          391.234375
+        ],
+        [
+          19.842601776123047,
+          391.234375
+        ]
+      ]
+    },
+    {
+      "title": "3. Sl\u00e5 p\u00e5 basstationen",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          18.79180908203125,
+          247.80078124999997
+        ],
+        [
+          120.159423828125,
+          247.80078124999997
+        ],
+        [
+          120.159423828125,
+          258.63671875
+        ],
+        [
+          18.79180908203125,
+          258.63671875
+        ]
+      ]
+    },
+    {
+      "title": "4. Anslut basstationen till internet",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          19.842500686645508,
+          415.7578125
+        ],
+        [
+          173.4794921875,
+          415.7578125
+        ],
+        [
+          173.4794921875,
+          427.1640625
+        ],
+        [
+          19.842500686645508,
+          427.1640625
+        ]
+      ]
+    },
+    {
+      "title": "5. L\u00e4gg till basstationen i ditt EZVIZ-konto",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          19.842500686645508,
+          191.482421875
+        ],
+        [
+          210.6845703125,
+          191.482421875
+        ],
+        [
+          210.6845703125,
+          203.458984375
+        ],
+        [
+          19.842500686645508,
+          203.458984375
+        ]
+      ]
+    },
+    {
+      "title": "6. Sammankoppling av basstation med kamera/kameror",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          19.842500686645508,
+          18.57080078125
+        ],
+        [
+          273.8466796875,
+          18.57080078125
+        ],
+        [
+          273.8466796875,
+          30.583007812499996
+        ],
+        [
+          19.842500686645508,
+          30.583007812499996
+        ]
+      ]
+    },
+    {
+      "title": "Montering av kamera",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          19.359619140625,
+          17.71533203125
+        ],
+        [
+          134.76025390625,
+          17.71533203125
+        ],
+        [
+          134.76025390625,
+          33.68408203125
+        ],
+        [
+          19.359619140625,
+          33.68408203125
+        ]
+      ]
+    },
+    {
+      "title": "1. Monteringsplats",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          19.842500686645508,
+          42.630859375
+        ],
+        [
+          105.77490234375,
+          42.630859375
+        ],
+        [
+          105.77490234375,
+          55.3203125
+        ],
+        [
+          19.842500686645508,
+          55.3203125
+        ]
+      ]
+    },
+    {
+      "title": "Viktiga noteringar f\u00f6r att minska falska larm:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.617919921875,
+          364.4296875
+        ],
+        [
+          197.90042114257812,
+          364.4296875
+        ],
+        [
+          197.90042114257812,
+          372.984375
+        ],
+        [
+          54.617919921875,
+          372.984375
+        ]
+      ]
+    },
+    {
+      "title": "2. Monteringssteg",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          19.842500686645508,
+          19.337158203125
+        ],
+        [
+          102.31396484375,
+          19.337158203125
+        ],
+        [
+          102.31396484375,
+          31.420654296874996
+        ],
+        [
+          19.842500686645508,
+          31.420654296874996
+        ]
+      ]
+    },
+    {
+      "title": "Titta p\u00e5 din enhet",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          19.842500686645508,
+          18.018310546875
+        ],
+        [
+          114.535400390625,
+          18.018310546875
+        ],
+        [
+          114.535400390625,
+          33.701904296875
+        ],
+        [
+          19.842500686645508,
+          33.701904296875
+        ]
+      ]
+    },
+    {
+      "title": "1. Realtidsvisning",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          19.842500686645508,
+          53.32421875
+        ],
+        [
+          101.6650390625,
+          53.32421875
+        ],
+        [
+          101.6650390625,
+          65.19439697265625
+        ],
+        [
+          19.842500686645508,
+          65.19439697265625
+        ]
+      ]
+    },
+    {
+      "title": "2. Inst\u00e4llningar",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          19.06219482421875,
+          18.588623046875
+        ],
+        [
+          87.929443359375,
+          18.588623046875
+        ],
+        [
+          87.929443359375,
+          30.921630859374996
+        ],
+        [
+          19.06219482421875,
+          30.921630859374996
+        ]
+      ]
+    },
+    {
+      "title": "Ansluta med EZVIZ",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          19.0892333984375,
+          18.018310546875
+        ],
+        [
+          123.94482421875,
+          18.018310546875
+        ],
+        [
+          123.94482421875,
+          33.701904296875
+        ],
+        [
+          19.0892333984375,
+          33.701904296875
+        ]
+      ]
+    },
+    {
+      "title": "1. Anv\u00e4nda Amazon Alexa",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          19.842500686645508,
+          41.66845703125
+        ],
+        [
+          137.35595703125,
+          41.66845703125
+        ],
+        [
+          137.35595703125,
+          53.29473876953125
+        ],
+        [
+          19.842500686645508,
+          53.29473876953125
+        ]
+      ]
+    },
+    {
+      "title": "Se till att f\u00f6ljande \u00e4r klart, innan du b\u00f6rjar:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          30.5535888671875,
+          73.2138671875
+        ],
+        [
+          183.76910400390625,
+          73.2138671875
+        ],
+        [
+          183.76910400390625,
+          82.91415405273438
+        ],
+        [
+          30.5535888671875,
+          82.91415405273438
+        ]
+      ]
+    },
+    {
+      "title": "Styra EZVIZ-enheter med Amazon Alexa:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          31.0943603515625,
+          139.5126953125
+        ],
+        [
+          177.7802734375,
+          139.5126953125
+        ],
+        [
+          177.7802734375,
+          148.708984375
+        ],
+        [
+          31.0943603515625,
+          148.708984375
+        ]
+      ]
+    },
+    {
+      "title": "R\u00f6ststyrning",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          31.040283203125,
+          242.95312499999997
+        ],
+        [
+          78.8985595703125,
+          242.95312499999997
+        ],
+        [
+          78.8985595703125,
+          252.36328124999997
+        ],
+        [
+          31.040283203125,
+          252.36328124999997
+        ]
+      ]
+    },
+    {
+      "title": "Fels\u00f6kning",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          30.9862060546875,
+          299.69921875
+        ],
+        [
+          71.3818359375,
+          299.69921875
+        ],
+        [
+          71.3818359375,
+          308.92059326171875
+        ],
+        [
+          30.9862060546875,
+          308.92059326171875
+        ]
+      ]
+    },
+    {
+      "title": "Vad g\u00f6r jag om Alexa inte lyckas uppt\u00e4cka min enhet?",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          30.823974609375,
+          311.390625
+        ],
+        [
+          199.328369140625,
+          311.390625
+        ],
+        [
+          199.328369140625,
+          319.9453125
+        ],
+        [
+          30.823974609375,
+          319.9453125
+        ]
+      ]
+    },
+    {
+      "title": "Varf\u00f6r visas enhetens status som \"Offline\" i Alexa?",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          31.040283203125,
+          344.18359375
+        ],
+        [
+          188.24227905273438,
+          344.18359375
+        ],
+        [
+          188.24227905273438,
+          352.73828125
+        ],
+        [
+          31.040283203125,
+          352.73828125
+        ]
+      ]
+    },
+    {
+      "title": "2. Anv\u00e4nda Google-assistenten",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          19.842500686645508,
+          18.49951171875
+        ],
+        [
+          161.041748046875,
+          18.49951171875
+        ],
+        [
+          161.041748046875,
+          31.010742187499996
+        ],
+        [
+          19.842500686645508,
+          31.010742187499996
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6ljande enheter och appar kr\u00e4vs:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          30.391357421875,
+          50.57958984375
+        ],
+        [
+          153.04266357421875,
+          50.57958984375
+        ],
+        [
+          153.04266357421875,
+          60.20361328124999
+        ],
+        [
+          30.391357421875,
+          60.20361328124999
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6lj stegen nedan, f\u00f6r att komma ig\u00e5ng:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          30.49951171875,
+          107.0048828125
+        ],
+        [
+          174.669189453125,
+          107.0048828125
+        ],
+        [
+          174.669189453125,
+          116.84277343749999
+        ],
+        [
+          30.49951171875,
+          116.84277343749999
+        ]
+      ]
+    },
+    {
+      "title": "Vanliga fr\u00e5gor",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          19.842500686645508,
+          307.68359375
+        ],
+        [
+          97.663330078125,
+          307.68359375
+        ],
+        [
+          97.663330078125,
+          323.65234375
+        ],
+        [
+          19.842500686645508,
+          323.65234375
+        ]
+      ]
+    },
+    {
+      "title": "Initiativ f\u00f6r anv\u00e4ndningen av videoprodukter",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          19.25146484375,
+          19.14111328125
+        ],
+        [
+          259.1376953125,
+          19.14111328125
+        ],
+        [
+          259.1376953125,
+          32.650390625
+        ],
+        [
+          19.25146484375,
+          32.650390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "TableOfContents",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464715_ins"
+}

@@ -1,0 +1,528 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EXT-POE3H\nv1.0\nExtender EXT-POE3 in hermetic enclosure",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          256.8499755859375,
+          41.0618896484375
+        ],
+        [
+          466.6044006347656,
+          41.0618896484375
+        ],
+        [
+          466.6044006347656,
+          78.7081298828125
+        ],
+        [
+          256.8499755859375,
+          78.7081298828125
+        ]
+      ]
+    },
+    {
+      "title": "PL\nFeatures:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.040000915527344,
+          146.7744140625
+        ],
+        [
+          539.24560546875,
+          146.7744140625
+        ],
+        [
+          539.24560546875,
+          159.05584716796875
+        ],
+        [
+          44.040000915527344,
+          159.05584716796875
+        ]
+      ]
+    },
+    {
+      "title": "Example of use.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          259.4900207519531,
+          300.94921875
+        ],
+        [
+          337.869140625,
+          300.94921875
+        ],
+        [
+          337.869140625,
+          312.4609375
+        ],
+        [
+          259.4900207519531,
+          312.4609375
+        ]
+      ]
+    },
+    {
+      "title": "1. Technical description.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.86474609375,
+          613.8212890625
+        ],
+        [
+          144.93165588378906,
+          613.8212890625
+        ],
+        [
+          144.93165588378906,
+          625.5758819580078
+        ],
+        [
+          27.86474609375,
+          625.5758819580078
+        ]
+      ]
+    },
+    {
+      "title": "1.1. General description.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.74401092529297,
+          637.255859375
+        ],
+        [
+          181.4482421875,
+          637.255859375
+        ],
+        [
+          181.4482421875,
+          648.767578125
+        ],
+        [
+          63.74401092529297,
+          648.767578125
+        ]
+      ]
+    },
+    {
+      "title": "1.2 Description components and connectors.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.31999969482422,
+          39.3145751953125
+        ],
+        [
+          300.6787109375,
+          39.3145751953125
+        ],
+        [
+          300.6787109375,
+          51.288818359375
+        ],
+        [
+          28.31999969482422,
+          51.288818359375
+        ]
+      ]
+    },
+    {
+      "title": "Table 1. (See fig. 2)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.32000732421875,
+          382.97021484375
+        ],
+        [
+          140.05126953125,
+          382.97021484375
+        ],
+        [
+          140.05126953125,
+          394.765869140625
+        ],
+        [
+          28.32000732421875,
+          394.765869140625
+        ]
+      ]
+    },
+    {
+      "title": "1.3. Technical parameters.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.74400329589844,
+          27.5972900390625
+        ],
+        [
+          190.13885498046875,
+          27.5972900390625
+        ],
+        [
+          190.13885498046875,
+          39.515869140625
+        ],
+        [
+          63.74400329589844,
+          39.515869140625
+        ]
+      ]
+    },
+    {
+      "title": "Tabla 2.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          28.32000732421875,
+          194.979736328125
+        ],
+        [
+          90.87287139892578,
+          194.979736328125
+        ],
+        [
+          90.87287139892578,
+          205.669189453125
+        ],
+        [
+          28.32000732421875,
+          205.669189453125
+        ]
+      ]
+    },
+    {
+      "title": "2. Installation.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          27.1917724609375,
+          465.40234375
+        ],
+        [
+          97.64160919189453,
+          465.40234375
+        ],
+        [
+          97.64160919189453,
+          476.9140625
+        ],
+        [
+          27.1917724609375,
+          476.9140625
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Requirements.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.20458984375,
+          482.669921875
+        ],
+        [
+          155.4287872314453,
+          482.669921875
+        ],
+        [
+          155.4287872314453,
+          494.181640625
+        ],
+        [
+          62.20458984375,
+          494.181640625
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Installation procedure.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.477783203125,
+          598.1982421875
+        ],
+        [
+          193.25868225097656,
+          598.1982421875
+        ],
+        [
+          193.25868225097656,
+          609.7099609375
+        ],
+        [
+          63.477783203125,
+          609.7099609375
+        ]
+      ]
+    },
+    {
+      "title": "3. Maintenance.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          27.901123046875,
+          701.392578125
+        ],
+        [
+          105.62867736816406,
+          701.392578125
+        ],
+        [
+          105.62867736816406,
+          712.904296875
+        ],
+        [
+          27.901123046875,
+          712.904296875
+        ]
+      ]
+    },
+    {
+      "title": "WEEE MARK \nAccording to the EU WEE Directive \u2013 It is required not to dispose of electric or electronic \nwaste as unsorted municipal waste and to collect such WEEE separately.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          153.07421875,
+          69.54351806640625
+        ],
+        [
+          556.0750122070312,
+          69.54351806640625
+        ],
+        [
+          556.0750122070312,
+          104.22216796875
+        ],
+        [
+          153.07421875,
+          104.22216796875
+        ]
+      ]
+    },
+    {
+      "title": "Pulsar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          275.591796875,
+          722.8481369018555
+        ],
+        [
+          320.4920959472656,
+          722.8481369018555
+        ],
+        [
+          320.4920959472656,
+          736.3388671875
+        ],
+        [
+          275.591796875,
+          736.3388671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          22
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152938_ins"
+}

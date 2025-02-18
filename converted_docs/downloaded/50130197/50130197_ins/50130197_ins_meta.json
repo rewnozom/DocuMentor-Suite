@@ -1,0 +1,120 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RoLP LX Wall Base",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.9085693359375,
+          13.60052490234375
+        ],
+        [
+          229.28271484375,
+          13.60052490234375
+        ],
+        [
+          229.28271484375,
+          46.61553955078125
+        ],
+        [
+          29.9085693359375,
+          46.61553955078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          149
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Text",
+          31
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "TableCell",
+          65
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50130197_ins"
+}

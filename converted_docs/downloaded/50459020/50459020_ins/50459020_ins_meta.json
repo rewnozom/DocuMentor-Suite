@@ -1,0 +1,937 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Relay User Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.960693359375,
+          78.218017578125
+        ],
+        [
+          399.2231750488281,
+          78.218017578125
+        ],
+        [
+          399.2231750488281,
+          109.15576171875
+        ],
+        [
+          195.960693359375,
+          109.15576171875
+        ]
+      ]
+    },
+    {
+      "title": "How to create and configure a scenario in the Ajax security system",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          96.600341796875,
+          85.1558837890625
+        ],
+        [
+          503.4153747558594,
+          85.1558837890625
+        ],
+        [
+          503.4153747558594,
+          102.2178955078125
+        ],
+        [
+          96.600341796875,
+          102.2178955078125
+        ]
+      ]
+    },
+    {
+      "title": "Buy low-tension relay Relay",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          95.147705078125,
+          194.979736328125
+        ],
+        [
+          265.1152038574219,
+          194.979736328125
+        ],
+        [
+          265.1152038574219,
+          211.7333984375
+        ],
+        [
+          95.147705078125,
+          211.7333984375
+        ]
+      ]
+    },
+    {
+      "title": "Functional Elements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.0159912109375,
+          251.81884765625
+        ],
+        [
+          224.25381469726562,
+          251.81884765625
+        ],
+        [
+          224.25381469726562,
+          273.60888671875
+        ],
+        [
+          57.0159912109375,
+          273.60888671875
+        ]
+      ]
+    },
+    {
+      "title": "Operating Principle",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.088623046875,
+          336.7177734375
+        ],
+        [
+          214.63861083984375,
+          336.7177734375
+        ],
+        [
+          214.63861083984375,
+          359.7412109375
+        ],
+        [
+          57.088623046875,
+          359.7412109375
+        ]
+      ]
+    },
+    {
+      "title": "Relay operation modes:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.375701904296875,
+          810.3427734375
+        ],
+        [
+          249.55796813964844,
+          810.3427734375
+        ],
+        [
+          249.55796813964844,
+          832.5439453125
+        ],
+        [
+          57.375701904296875,
+          832.5439453125
+        ]
+      ]
+    },
+    {
+      "title": "Connecting to the hub",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.0159912109375,
+          108.5390625
+        ],
+        [
+          237.7429962158203,
+          108.5390625
+        ],
+        [
+          237.7429962158203,
+          130.3291015625
+        ],
+        [
+          57.0159912109375,
+          130.3291015625
+        ]
+      ]
+    },
+    {
+      "title": "Before connecting the device:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.088623046875,
+          168.667236328125
+        ],
+        [
+          298.662109375,
+          168.667236328125
+        ],
+        [
+          298.662109375,
+          189.635009765625
+        ],
+        [
+          57.088623046875,
+          189.635009765625
+        ]
+      ]
+    },
+    {
+      "title": "To pair Relay with a hub:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.5802001953125,
+          512.6826171875
+        ],
+        [
+          254.501953125,
+          512.6826171875
+        ],
+        [
+          254.501953125,
+          534.0615234375
+        ],
+        [
+          56.5802001953125,
+          534.0615234375
+        ]
+      ]
+    },
+    {
+      "title": "States",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.19757080078125,
+          385.2314453125
+        ],
+        [
+          111.96968078613281,
+          385.2314453125
+        ],
+        [
+          111.96968078613281,
+          406.6103515625
+        ],
+        [
+          57.19757080078125,
+          406.6103515625
+        ]
+      ]
+    },
+    {
+      "title": "Settings",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.2001953125,
+          1.2847900390625
+        ],
+        [
+          127.02259826660156,
+          1.2847900390625
+        ],
+        [
+          127.02259826660156,
+          22.7664794921875
+        ],
+        [
+          55.2001953125,
+          22.7664794921875
+        ]
+      ]
+    },
+    {
+      "title": "Indication",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.54388427734375,
+          260.658203125
+        ],
+        [
+          141.10292053222656,
+          260.658203125
+        ],
+        [
+          141.10292053222656,
+          282.19354248046875
+        ],
+        [
+          56.54388427734375,
+          282.19354248046875
+        ]
+      ]
+    },
+    {
+      "title": "Functionality Testing",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.798095703125,
+          418.533203125
+        ],
+        [
+          229.84664916992188,
+          418.533203125
+        ],
+        [
+          229.84664916992188,
+          441.556640625
+        ],
+        [
+          56.798095703125,
+          441.556640625
+        ]
+      ]
+    },
+    {
+      "title": "Installation of the Device",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.5802001953125,
+          658.634765625
+        ],
+        [
+          260.0221862792969,
+          658.634765625
+        ],
+        [
+          260.0221862792969,
+          681.658203125
+        ],
+        [
+          56.5802001953125,
+          681.658203125
+        ]
+      ]
+    },
+    {
+      "title": "Installation process:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          57.1612548828125,
+          139.16845703125
+        ],
+        [
+          222.11187744140625,
+          139.16845703125
+        ],
+        [
+          222.11187744140625,
+          160.341796875
+        ],
+        [
+          57.1612548828125,
+          160.341796875
+        ]
+      ]
+    },
+    {
+      "title": "Do not install the relay:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.97967529296875,
+          608.8876953125
+        ],
+        [
+          199.737548828125,
+          608.8876953125
+        ],
+        [
+          199.737548828125,
+          626.9775390625
+        ],
+        [
+          56.97967529296875,
+          626.9775390625
+        ]
+      ]
+    },
+    {
+      "title": "Maintenance",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          57.37680435180664,
+          803.7646484375
+        ],
+        [
+          165.15675354003906,
+          803.7646484375
+        ],
+        [
+          165.15675354003906,
+          825.1435546875
+        ],
+        [
+          57.37680435180664,
+          825.1435546875
+        ]
+      ]
+    },
+    {
+      "title": "Tech Specs",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          57.375701904296875,
+          56.4793701171875
+        ],
+        [
+          153.48373413085938,
+          56.4793701171875
+        ],
+        [
+          153.48373413085938,
+          77.6527099609375
+        ],
+        [
+          57.375701904296875,
+          77.6527099609375
+        ]
+      ]
+    },
+    {
+      "title": "Compliance with standards",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          215.23489379882812,
+          314.72216796875
+        ],
+        [
+          381.9833068847656,
+          314.72216796875
+        ],
+        [
+          381.9833068847656,
+          334.04541015625
+        ],
+        [
+          215.23489379882812,
+          334.04541015625
+        ]
+      ]
+    },
+    {
+      "title": "Complete Set",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.7254638671875,
+          370.4306640625
+        ],
+        [
+          167.98585510253906,
+          370.4306640625
+        ],
+        [
+          167.98585510253906,
+          392.6318359375
+        ],
+        [
+          56.7254638671875,
+          392.6318359375
+        ]
+      ]
+    },
+    {
+      "title": "Warranty",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.8707275390625,
+          536.5283203125
+        ],
+        [
+          132.4128875732422,
+          536.5283203125
+        ],
+        [
+          132.4128875732422,
+          557.0849609375
+        ],
+        [
+          56.8707275390625,
+          557.0849609375
+        ]
+      ]
+    },
+    {
+      "title": "The full text of the warranty",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          97.8927001953125,
+          703.4482421875
+        ],
+        [
+          266.849365234375,
+          703.4482421875
+        ],
+        [
+          266.849365234375,
+          720.7158203125
+        ],
+        [
+          97.8927001953125,
+          720.7158203125
+        ]
+      ]
+    },
+    {
+      "title": "User Agreement",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          97.181396484375,
+          749.083984375
+        ],
+        [
+          198.720703125,
+          749.083984375
+        ],
+        [
+          198.720703125,
+          765.529296875
+        ],
+        [
+          97.181396484375,
+          765.529296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50459020_ins"
+}

@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Str\u00f6mf\u00f6rbrukning*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.40667724609375,
+          211.568359375
+        ],
+        [
+          123.95999145507812,
+          211.568359375
+        ],
+        [
+          123.95999145507812,
+          222.04428100585938
+        ],
+        [
+          34.40667724609375,
+          222.04428100585938
+        ]
+      ]
+    },
+    {
+      "title": "Installationsanvisning STEP 98 PreloadTM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          453.068359375,
+          91.5244140625
+        ],
+        [
+          795.953125,
+          91.5244140625
+        ],
+        [
+          795.953125,
+          111.6103515625
+        ],
+        [
+          453.068359375,
+          111.6103515625
+        ]
+      ]
+    },
+    {
+      "title": "M\u00e5ttskiss STEP 98",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          453.890625,
+          323.900390625
+        ],
+        [
+          557.49609375,
+          323.900390625
+        ],
+        [
+          557.49609375,
+          338.451171875
+        ],
+        [
+          453.890625,
+          338.451171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.3531494140625,
+          34.230712890625
+        ],
+        [
+          85.4642333984375,
+          34.230712890625
+        ],
+        [
+          85.4642333984375,
+          48.053955078125
+        ],
+        [
+          33.3531494140625,
+          48.053955078125
+        ]
+      ]
+    },
+    {
+      "title": "Omst\u00e4llbart fr\u00e5n r\u00e4ttv\u00e4nd till omv\u00e4nd funktion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.74072265625,
+          295.5263671875
+        ],
+        [
+          297.66015625,
+          295.5263671875
+        ],
+        [
+          297.66015625,
+          310.8046875
+        ],
+        [
+          34.74072265625,
+          310.8046875
+        ]
+      ]
+    },
+    {
+      "title": "Montage Kopplingsschema STEP 98 PreloadTM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.0,
+          32.3936767578125
+        ],
+        [
+          665.51611328125,
+          32.3936767578125
+        ],
+        [
+          665.51611328125,
+          48.38067626953125
+        ],
+        [
+          36.0,
+          48.38067626953125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          456.7685546875,
+          280.6845703125
+        ],
+        [
+          571.8449096679688,
+          280.6845703125
+        ],
+        [
+          571.8449096679688,
+          295.8453063964844
+        ],
+        [
+          456.7685546875,
+          295.8453063964844
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5llsanvisning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          458.3622131347656,
+          401.892578125
+        ],
+        [
+          570.3942260742188,
+          401.892578125
+        ],
+        [
+          570.3942260742188,
+          415.861328125
+        ],
+        [
+          458.3622131347656,
+          415.861328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ST98_man"
+}

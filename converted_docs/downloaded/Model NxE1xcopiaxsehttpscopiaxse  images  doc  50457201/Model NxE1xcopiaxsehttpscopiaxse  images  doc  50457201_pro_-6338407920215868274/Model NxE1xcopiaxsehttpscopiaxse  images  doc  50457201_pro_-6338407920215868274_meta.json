@@ -1,0 +1,150 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SALTO NEO cylinder",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          237.177734375,
+          28.29107666015625
+        ],
+        [
+          358.822265625,
+          28.29107666015625
+        ],
+        [
+          358.822265625,
+          43.14129638671875
+        ],
+        [
+          237.177734375,
+          43.14129638671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.912109375,
+          76.9332275390625
+        ],
+        [
+          146.380859375,
+          76.9332275390625
+        ],
+        [
+          146.380859375,
+          92.6590576171875
+        ],
+        [
+          57.912109375,
+          92.6590576171875
+        ]
+      ]
+    },
+    {
+      "title": "Model NxE1x SALTO NEO Half cylinder Euro profile Electronic cylinder \n(Can be initialized in SALTO SPACE or SALTO KS)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.071800231933594,
+          72.3079833984375
+        ],
+        [
+          460.48785400390625,
+          72.3079833984375
+        ],
+        [
+          460.48785400390625,
+          96.91192626953125
+        ],
+        [
+          58.071800231933594,
+          96.91192626953125
+        ]
+      ]
+    },
+    {
+      "title": "Measures",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.448974609375,
+          505.693359375
+        ],
+        [
+          89.05078125,
+          505.693359375
+        ],
+        [
+          89.05078125,
+          519.3359680175781
+        ],
+        [
+          34.448974609375,
+          519.3359680175781
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "TableCell",
+          61
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Model NxE1xcopiaxsehttpscopiaxse  images  doc  50457201_pro_-6338407920215868274"
+}

@@ -1,0 +1,330 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Nyckelf\u00f6rvaringsbox Y500 / 187 / 1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.55419921875,
+          114.192138671875
+        ],
+        [
+          321.572265625,
+          114.192138671875
+        ],
+        [
+          321.572265625,
+          135.982177734375
+        ],
+        [
+          73.55419921875,
+          135.982177734375
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6ppna f\u00f6rvaringsutrymmet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.716796875,
+          136.187744140625
+        ],
+        [
+          269.771484375,
+          136.187744140625
+        ],
+        [
+          269.771484375,
+          153.660888671875
+        ],
+        [
+          70.716796875,
+          153.660888671875
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e5s f\u00f6rvaringsutrymmet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.20751953125,
+          206.59423828125
+        ],
+        [
+          249.400390625,
+          206.59423828125
+        ],
+        [
+          249.400390625,
+          223.45068359375
+        ],
+        [
+          70.20751953125,
+          223.45068359375
+        ]
+      ]
+    },
+    {
+      "title": "\u00c4ndra sifferkod p\u00e5 l\u00e5set",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.6982421875,
+          275.458984375
+        ],
+        [
+          251.5830078125,
+          275.458984375
+        ],
+        [
+          251.5830078125,
+          294.37109375
+        ],
+        [
+          69.6982421875,
+          294.37109375
+        ]
+      ]
+    },
+    {
+      "title": "Montering p\u00e5 v\u00e4gg",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.91650390625,
+          397.9765625
+        ],
+        [
+          203.419921875,
+          397.9765625
+        ],
+        [
+          203.419921875,
+          416.06640625
+        ],
+        [
+          69.91650390625,
+          416.06640625
+        ]
+      ]
+    },
+    {
+      "title": "Verkyg:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.35302734375,
+          430.044921875
+        ],
+        [
+          115.76390838623047,
+          430.044921875
+        ],
+        [
+          115.76390838623047,
+          443.2834167480469
+        ],
+        [
+          70.35302734375,
+          443.2834167480469
+        ]
+      ]
+    },
+    {
+      "title": "Penna, Stj\u00e4rnskruvmejsel (Philips), vattenpass, borrmaskin och borr. Vid behov \nplugg l\u00e4mpliga f\u00f6r underlaget.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.84375,
+          444.4345703125
+        ],
+        [
+          506.4977111816406,
+          444.4345703125
+        ],
+        [
+          506.4977111816406,
+          471.4901123046875
+        ],
+        [
+          69.84375,
+          471.4901123046875
+        ]
+      ]
+    },
+    {
+      "title": "T\u00e4nk p\u00e5:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.62548828125,
+          618.34375
+        ],
+        [
+          134.66748046875,
+          618.34375
+        ],
+        [
+          134.66748046875,
+          636.43359375
+        ],
+        [
+          69.62548828125,
+          636.43359375
+        ]
+      ]
+    },
+    {
+      "title": "nble the",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.55667506297229,
+          340.3989314336598
+        ],
+        [
+          125.35516372795969,
+          340.3989314336598
+        ],
+        [
+          125.35516372795969,
+          358.9189453125
+        ],
+        [
+          67.55667506297229,
+          358.9189453125
+        ]
+      ]
+    },
+    {
+      "title": "\u0131nd to",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.55667506297229,
+          371.13980409617096
+        ],
+        [
+          111.09319899244332,
+          371.13980409617096
+        ],
+        [
+          111.09319899244332,
+          387.6349065004452
+        ],
+        [
+          67.55667506297229,
+          387.6349065004452
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50104531_man"
+}

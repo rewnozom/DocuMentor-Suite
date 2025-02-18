@@ -1,0 +1,216 @@
+{
+  "table_of_contents": [
+    {
+      "title": "// TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          24.627197265625,
+          471.5693359375
+        ],
+        [
+          110.06129455566406,
+          471.5693359375
+        ],
+        [
+          110.06129455566406,
+          483.0810546875
+        ],
+        [
+          24.627197265625,
+          483.0810546875
+        ]
+      ]
+    },
+    {
+      "title": "// EGENSKAPER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          364.20831298828125,
+          80.4278564453125
+        ],
+        [
+          442.34375,
+          80.4278564453125
+        ],
+        [
+          442.34375,
+          92.4534912109375
+        ],
+        [
+          364.20831298828125,
+          92.4534912109375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          24.772705078125,
+          80.1195068359375
+        ],
+        [
+          148.708984375,
+          80.1195068359375
+        ],
+        [
+          148.708984375,
+          91.8367919921875
+        ],
+        [
+          24.772705078125,
+          91.8367919921875
+        ]
+      ]
+    },
+    {
+      "title": "// PRODUKTVARIANTER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          25.509777069091797,
+          377.21435546875
+        ],
+        [
+          138.232421875,
+          377.21435546875
+        ],
+        [
+          138.232421875,
+          389.13720703125
+        ],
+        [
+          25.509777069091797,
+          389.13720703125
+        ]
+      ]
+    },
+    {
+      "title": "// M\u00c5TT(EUROPROFIL/EU) // M\u00c5TT(SCANDINAVIAN OVAL/SO)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          24.761798858642578,
+          79.451416015625
+        ],
+        [
+          469.46478271484375,
+          79.451416015625
+        ],
+        [
+          469.46478271484375,
+          91.13720703125
+        ],
+        [
+          24.761798858642578,
+          91.13720703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\produktblad  digital cylinder axcopiaxsehttpscopiaxse  images  doc  50457386_PRO_1046266385278451984"
+}

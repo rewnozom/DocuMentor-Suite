@@ -1,0 +1,177 @@
+{
+  "table_of_contents": [
+    {
+      "title": "3098",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.677490234375,
+          64.75341796875
+        ],
+        [
+          125.17012023925781,
+          64.75341796875
+        ],
+        [
+          125.17012023925781,
+          88.907470703125
+        ],
+        [
+          62.677490234375,
+          88.907470703125
+        ]
+      ]
+    },
+    {
+      "title": "DC/DC OMVANDLARE 24 till 48V omv. 3 A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.8408203125,
+          141.4296875
+        ],
+        [
+          445.25390625,
+          141.4296875
+        ],
+        [
+          445.25390625,
+          163.01416015625
+        ],
+        [
+          61.8408203125,
+          163.01416015625
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.677490234375,
+          224.27294921875
+        ],
+        [
+          159.0869903564453,
+          224.27294921875
+        ],
+        [
+          159.0869903564453,
+          236.60693359375
+        ],
+        [
+          62.677490234375,
+          236.60693359375
+        ]
+      ]
+    },
+    {
+      "title": "Fatum 3098 \u00e4r en DC/DC omvandlare f\u00f6r 24V till 48V 3A och \u00e4r en universell modul som kan anslutas till en str\u00f6mf\u00f6rs\u00f6rjning\nmed batteribackup.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.8408203125,
+          423.8779296875
+        ],
+        [
+          578.5390625,
+          423.8779296875
+        ],
+        [
+          578.5390625,
+          443.6123046875
+        ],
+        [
+          61.8408203125,
+          443.6123046875
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.677490234375,
+          452.24609375
+        ],
+        [
+          104.9111328125,
+          452.24609375
+        ],
+        [
+          104.9111328125,
+          461.291015625
+        ],
+        [
+          62.677490234375,
+          461.291015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50153394_pro"
+}

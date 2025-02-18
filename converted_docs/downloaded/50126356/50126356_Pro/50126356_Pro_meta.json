@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ALARM COMMUNICATION PRODUCTS | DALM S\u00e4kerhetsrouter med plastkapsling",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.36083984375,
+          72.245849609375
+        ],
+        [
+          409.341796875,
+          72.245849609375
+        ],
+        [
+          409.341796875,
+          91.022216796875
+        ],
+        [
+          54.36083984375,
+          91.022216796875
+        ]
+      ]
+    },
+    {
+      "title": "DALM med plastkapsling.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          147.14849853515625,
+          437.13531494140625
+        ],
+        [
+          490.4871520996094,
+          437.13531494140625
+        ],
+        [
+          490.4871520996094,
+          496.13531494140625
+        ],
+        [
+          147.14849853515625,
+          496.13531494140625
+        ]
+      ]
+    },
+    {
+      "title": "PRODUKT\u00d6VERSIKT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          328.0341796875,
+          568.0390625
+        ],
+        [
+          392.22833251953125,
+          568.0390625
+        ],
+        [
+          392.22833251953125,
+          581.5511169433594
+        ],
+        [
+          328.0341796875,
+          581.5511169433594
+        ]
+      ]
+    },
+    {
+      "title": "Produktvarianter \np\u00e5 n\u00e4sta sida.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          484.6493225097656,
+          745.875
+        ],
+        [
+          580.3704223632812,
+          745.875
+        ],
+        [
+          580.3704223632812,
+          790.765625
+        ],
+        [
+          484.6493225097656,
+          790.765625
+        ]
+      ]
+    },
+    {
+      "title": "Larmklasser f\u00f6r DALM S\u00e4kerhetsrouter med \nplastkapsling. Tv\u00e5 larmv\u00e4gar.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          139.796142578125,
+          287.353515625
+        ],
+        [
+          435.90545654296875,
+          287.353515625
+        ],
+        [
+          435.90545654296875,
+          339.780517578125
+        ],
+        [
+          139.796142578125,
+          339.780517578125
+        ]
+      ]
+    },
+    {
+      "title": "LARMKLASS 1 SSF 114",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          139.484619140625,
+          368.4979248046875
+        ],
+        [
+          220.8489990234375,
+          368.4979248046875
+        ],
+        [
+          220.8489990234375,
+          384.48284912109375
+        ],
+        [
+          139.484619140625,
+          384.48284912109375
+        ]
+      ]
+    },
+    {
+      "title": "DALM1000 IP/2G\nE-nr: 6390257\nDALM1000 IP/2G SIM24 \nE-nr: 6390258\nDALM1000 IP/3G\nE-nr: 6390259\nDALM1000 IP/3G SIM24",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          140.17800903320312,
+          397.97265625
+        ],
+        [
+          216.8203125,
+          397.97265625
+        ],
+        [
+          216.8203125,
+          488.8885192871094
+        ],
+        [
+          140.17800903320312,
+          488.8885192871094
+        ]
+      ]
+    },
+    {
+      "title": "LARMKLASS 2-4 SSF 114 \nOCH SBF 110:7",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          386.9517822265625,
+          368.4979248046875
+        ],
+        [
+          483.7958984375,
+          368.4979248046875
+        ],
+        [
+          483.7958984375,
+          399.60455322265625
+        ],
+        [
+          386.9517822265625,
+          399.60455322265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50126356_Pro"
+}

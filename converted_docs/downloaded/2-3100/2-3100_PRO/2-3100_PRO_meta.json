@@ -1,0 +1,181 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.11083984375,
+          123.13427734375
+        ],
+        [
+          201.24818420410156,
+          123.13427734375
+        ],
+        [
+          201.24818420410156,
+          142.86865234375
+        ],
+        [
+          104.11083984375,
+          142.86865234375
+        ]
+      ]
+    },
+    {
+      "title": "C10 Porttelefon master och C11 Porttelefon\nslave",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.18359375,
+          200.28057861328125
+        ],
+        [
+          479.59820556640625,
+          200.28057861328125
+        ],
+        [
+          479.59820556640625,
+          245.4462890625
+        ],
+        [
+          104.18359375,
+          245.4462890625
+        ]
+      ]
+    },
+    {
+      "title": "Funktionalitet och anv\u00e4ndningsomr\u00e5den",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.11083984375,
+          138.71728515625
+        ],
+        [
+          369.1626892089844,
+          138.71728515625
+        ],
+        [
+          369.1626892089844,
+          157.3873291015625
+        ],
+        [
+          104.11083984375,
+          157.3873291015625
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.81982421875,
+          506.9267578125
+        ],
+        [
+          191.13449096679688,
+          506.9267578125
+        ],
+        [
+          191.13449096679688,
+          525.6372985839844
+        ],
+        [
+          103.81982421875,
+          525.6372985839844
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2-3100_PRO"
+}

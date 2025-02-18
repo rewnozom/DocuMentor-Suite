@@ -1,0 +1,150 @@
+{
+  "table_of_contents": [
+    {
+      "title": "T I L L B E H \u00d6 R \nV\u00c4RMETEJP",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.92626953125,
+          55.5029296875
+        ],
+        [
+          211.859375,
+          55.5029296875
+        ],
+        [
+          211.859375,
+          105.9395751953125
+        ],
+        [
+          46.92626953125,
+          105.9395751953125
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          235.27560424804688,
+          39.80279541015625
+        ],
+        [
+          293.2756042480469,
+          39.80279541015625
+        ],
+        [
+          293.2756042480469,
+          52.9847412109375
+        ],
+        [
+          235.27560424804688,
+          52.9847412109375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          235.27560424804688,
+          183.262451171875
+        ],
+        [
+          301.783203125,
+          183.262451171875
+        ],
+        [
+          301.783203125,
+          196.6632080078125
+        ],
+        [
+          235.27560424804688,
+          196.6632080078125
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON AB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          750.3173828125
+        ],
+        [
+          91.2333984375,
+          750.3173828125
+        ],
+        [
+          91.2333984375,
+          761.0068359375
+        ],
+        [
+          36.0,
+          761.0068359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\V\u00c4RMETEJPcopiaxsehttpswwwcopiaxse  doc  50140819_pro_-4686179040240237003"
+}

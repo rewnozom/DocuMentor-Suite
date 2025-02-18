@@ -1,0 +1,922 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Dokumenterad egenkontroll samt \nunderh\u00e5llsservicearbete innefattar \nkontroll och justering enligt instruktio-\nnerna i denna broschyr. Beskrivningen \n\u00e4r en generell handledning som ej \n\u00e4r objektsanpassad. Lokala f\u00f6rut-\ns\u00e4ttningar kan d\u00e4rf\u00f6r kr\u00e4va att",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          251.57479858398438,
+          153.96923828125
+        ],
+        [
+          491.11279296875,
+          153.96923828125
+        ],
+        [
+          491.11279296875,
+          287.62249755859375
+        ],
+        [
+          251.57479858398438,
+          287.62249755859375
+        ]
+      ]
+    },
+    {
+      "title": "Inneh\u00e5ll",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          251.57479858398438,
+          476.091796875
+        ],
+        [
+          364.93359375,
+          476.091796875
+        ],
+        [
+          364.93359375,
+          509.8046875
+        ],
+        [
+          251.57479858398438,
+          509.8046875
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrst\u00e4ngare",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.99609375,
+          323.058349609375
+        ],
+        [
+          235.90969848632812,
+          323.058349609375
+        ],
+        [
+          235.90969848632812,
+          353.9853515625
+        ],
+        [
+          38.99609375,
+          353.9853515625
+        ]
+      ]
+    },
+    {
+      "title": "Uppst\u00e4llning",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          91.41730499267578,
+          543.1064453125
+        ],
+        [
+          167.1884765625,
+          543.1064453125
+        ],
+        [
+          167.1884765625,
+          557.0849609375
+        ],
+        [
+          91.41730499267578,
+          557.0849609375
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6vriga funktioner",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          90.72412109375,
+          722.771484375
+        ],
+        [
+          194.27528381347656,
+          722.771484375
+        ],
+        [
+          194.27528381347656,
+          736.75
+        ],
+        [
+          90.72412109375,
+          736.75
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e5s och l\u00e5shus",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          37.90478515625,
+          229.8232421875
+        ],
+        [
+          249.16970825195312,
+          229.8232421875
+        ],
+        [
+          249.16970825195312,
+          262.302734375
+        ],
+        [
+          37.90478515625,
+          262.302734375
+        ]
+      ]
+    },
+    {
+      "title": "Utrustning och Montage",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          145.27560424804688,
+          283.47607421875
+        ],
+        [
+          288.10546875,
+          283.47607421875
+        ],
+        [
+          288.10546875,
+          295.81005859375
+        ],
+        [
+          145.27560424804688,
+          295.81005859375
+        ]
+      ]
+    },
+    {
+      "title": "Intervall\n1\u20132 ggr/\u00e5r",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          450.0,
+          283.713623046875
+        ],
+        [
+          498.2640075683594,
+          283.713623046875
+        ],
+        [
+          498.2640075683594,
+          307.1888427734375
+        ],
+        [
+          450.0,
+          307.1888427734375
+        ]
+      ]
+    },
+    {
+      "title": "H\u00e4ngl\u00e5s och cylindrar",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          144.1982421875,
+          427.578125
+        ],
+        [
+          271.3720703125,
+          427.578125
+        ],
+        [
+          271.3720703125,
+          440.734375
+        ],
+        [
+          144.1982421875,
+          440.734375
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e5snings- och uppl\u00e5sningsfunktion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          144.7802734375,
+          631.713623046875
+        ],
+        [
+          346.890625,
+          631.713623046875
+        ],
+        [
+          346.890625,
+          644.2451171875
+        ],
+        [
+          144.7802734375,
+          644.2451171875
+        ]
+      ]
+    },
+    {
+      "title": "6",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.77783203125,
+          817.33203125
+        ],
+        [
+          43.7140998840332,
+          817.33203125
+        ],
+        [
+          43.7140998840332,
+          825.8896884918213
+        ],
+        [
+          38.77783203125,
+          825.8896884918213
+        ]
+      ]
+    },
+    {
+      "title": "Tryckefunktion/D\u00f6rrhandtag",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          91.16064453125,
+          378.2421875
+        ],
+        [
+          260.458984375,
+          378.2421875
+        ],
+        [
+          260.458984375,
+          392.220703125
+        ],
+        [
+          91.16064453125,
+          392.220703125
+        ]
+      ]
+    },
+    {
+      "title": "Slutbleck",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          92.05509948730469,
+          617.9326171875
+        ],
+        [
+          146.45361328125,
+          617.9326171875
+        ],
+        [
+          146.45361328125,
+          631.9111328125
+        ],
+        [
+          92.05509948730469,
+          631.9111328125
+        ]
+      ]
+    },
+    {
+      "title": "Intervall\n1\u20132 ggr/\u00e5r",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          396.7086181640625,
+          378.03662109375
+        ],
+        [
+          445.8359375,
+          378.03662109375
+        ],
+        [
+          445.8359375,
+          402.5820007324219
+        ],
+        [
+          396.7086181640625,
+          402.5820007324219
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6d- och panikutrymning",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          38.2685546875,
+          142.65673828125
+        ],
+        [
+          407.3896789550781,
+          142.65673828125
+        ],
+        [
+          407.3896789550781,
+          174.834228515625
+        ],
+        [
+          38.2685546875,
+          174.834228515625
+        ]
+      ]
+    },
+    {
+      "title": "Utrustning och Montage",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          145.27560424804688,
+          195.390869140625
+        ],
+        [
+          287.6689453125,
+          195.390869140625
+        ],
+        [
+          287.6689453125,
+          207.626953125
+        ],
+        [
+          145.27560424804688,
+          207.626953125
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6d-/Panik\u00f6ppningsfunktion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          144.85302734375,
+          447.62701416015625
+        ],
+        [
+          313.4964294433594,
+          447.62701416015625
+        ],
+        [
+          313.4964294433594,
+          460.0576171875
+        ],
+        [
+          144.85302734375,
+          460.0576171875
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrigenh\u00e5llandefunktion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          145.216796875,
+          591.6201171875
+        ],
+        [
+          296.25390625,
+          591.6201171875
+        ],
+        [
+          296.25390625,
+          603.9541015625
+        ],
+        [
+          145.216796875,
+          603.9541015625
+        ]
+      ]
+    },
+    {
+      "title": "G\u00e5ngj\u00e4rn, kantregel \noch bakkantss\u00e4kring",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          37.9775390625,
+          102.16650390625
+        ],
+        [
+          339.32421875,
+          102.16650390625
+        ],
+        [
+          339.32421875,
+          175.96484375
+        ],
+        [
+          37.9775390625,
+          175.96484375
+        ]
+      ]
+    },
+    {
+      "title": "Exempel:\nRapport f\u00f6r egenkontroll \n\u2009och underh\u00e5llsservice",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          38.8505859375,
+          31.32318115234375
+        ],
+        [
+          402.4713439941406,
+          31.32318115234375
+        ],
+        [
+          402.4713439941406,
+          127.5133056640625
+        ],
+        [
+          38.8505859375,
+          127.5133056640625
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Sverige AB",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          426.401611328125,
+          758.5880279541016
+        ],
+        [
+          528.30322265625,
+          758.5880279541016
+        ],
+        [
+          528.30322265625,
+          769.640625
+        ],
+        [
+          426.401611328125,
+          769.640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          106
+        ],
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50024440_DRI"
+}

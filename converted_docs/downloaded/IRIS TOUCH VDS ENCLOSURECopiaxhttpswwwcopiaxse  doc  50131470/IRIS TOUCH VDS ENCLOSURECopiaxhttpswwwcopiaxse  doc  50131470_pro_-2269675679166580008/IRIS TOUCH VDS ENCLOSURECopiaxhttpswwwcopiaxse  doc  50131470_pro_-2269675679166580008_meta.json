@@ -1,0 +1,73 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Details",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          341.95068359375,
+          157.772216796875
+        ],
+        [
+          383.2920227050781,
+          157.772216796875
+        ],
+        [
+          383.2920227050781,
+          173.189697265625
+        ],
+        [
+          341.95068359375,
+          173.189697265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\IRIS TOUCH VDS ENCLOSURECopiaxhttpswwwcopiaxse  doc  50131470_pro_-2269675679166580008"
+}

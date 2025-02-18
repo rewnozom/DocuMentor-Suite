@@ -1,0 +1,131 @@
+{
+  "table_of_contents": [
+    {
+      "title": "IU 370 INTERFACEENHET F\u00d6R GD 330 OCH GD 370",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.5126953125,
+          83.6141357421875
+        ],
+        [
+          371.3359375,
+          83.6141357421875
+        ],
+        [
+          371.3359375,
+          103.1175537109375
+        ],
+        [
+          59.5126953125,
+          103.1175537109375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rdelar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.7626953125,
+          163.39239501953125
+        ],
+        [
+          138.814453125,
+          163.39239501953125
+        ],
+        [
+          138.814453125,
+          177.609375
+        ],
+        [
+          96.7626953125,
+          177.609375
+        ]
+      ]
+    },
+    {
+      "title": "Best\u00e4llningsinformation\nTyp E-nr Beskrivning Paket \nIU 370 6332542 Analysatorenhet f\u00f6r GD 330 / GD 370, vit plastkapsling 1st\nIU 370-M 6332543 Analysatorenhet f\u00f6r GD 330 / GD 370, vit plastkapsling 1st",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.9462890625,
+          720.8979263305664
+        ],
+        [
+          560.49609375,
+          720.8979263305664
+        ],
+        [
+          560.49609375,
+          781.5634765625
+        ],
+        [
+          51.9462890625,
+          781.5634765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50126479_pro"
+}

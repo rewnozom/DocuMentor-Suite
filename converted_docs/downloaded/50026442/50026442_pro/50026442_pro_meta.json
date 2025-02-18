@@ -1,0 +1,100 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Inferno Strobocop LED",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          201.480712890625,
+          46.149658203125
+        ],
+        [
+          509.0660400390625,
+          46.149658203125
+        ],
+        [
+          509.0660400390625,
+          79.96533203125
+        ],
+        [
+          201.480712890625,
+          79.96533203125
+        ]
+      ]
+    },
+    {
+      "title": "Indusec AB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          270.916748046875,
+          714.9599609375
+        ],
+        [
+          327.3601989746094,
+          714.9599609375
+        ],
+        [
+          327.3601989746094,
+          725.6494140625
+        ],
+        [
+          270.916748046875,
+          725.6494140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50026442_pro"
+}

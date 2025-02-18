@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tool Trolley PRO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.51953125,
+          97.130126953125
+        ],
+        [
+          419.64453125,
+          97.130126953125
+        ],
+        [
+          419.64453125,
+          127.76312255859375
+        ],
+        [
+          177.51953125,
+          127.76312255859375
+        ]
+      ]
+    },
+    {
+      "title": "Extra tillbeh\u00f6r \nTool fix",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.377685546875,
+          658.2236328125
+        ],
+        [
+          137.36318969726562,
+          658.2236328125
+        ],
+        [
+          137.36318969726562,
+          698.5146484375
+        ],
+        [
+          38.377685546875,
+          698.5146484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50140269_pro"
+}

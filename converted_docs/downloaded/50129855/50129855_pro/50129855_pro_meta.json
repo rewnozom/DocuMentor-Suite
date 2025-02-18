@@ -1,0 +1,277 @@
+{
+  "table_of_contents": [
+    {
+      "title": "En l\u00e4sarrevolution\n= 509\nMIF-509 - MIF/PROX-509",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.79345088161209,
+          534.0615234375
+        ],
+        [
+          417.35012594458436,
+          533.0917186108637
+        ],
+        [
+          417.35012594458436,
+          616.2880859375
+        ],
+        [
+          51.79345088161209,
+          616.2880859375
+        ]
+      ]
+    },
+    {
+      "title": "En d\u00f6rrpassage har aldrig varit enklare",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.3115234375,
+          42.2952880859375
+        ],
+        [
+          540.125,
+          42.2952880859375
+        ],
+        [
+          540.125,
+          81.7640380859375
+        ],
+        [
+          56.3115234375,
+          81.7640380859375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA\nMIF-509 - MIF/PROX-509",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          43.28857421875,
+          42.37237548828125
+        ],
+        [
+          283.740234375,
+          42.37237548828125
+        ],
+        [
+          283.740234375,
+          105.147216796875
+        ],
+        [
+          43.28857421875,
+          105.147216796875
+        ]
+      ]
+    },
+    {
+      "title": "L\u00c4SARE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.50349807739258,
+          200.42724609375
+        ],
+        [
+          133.7216796875,
+          200.42724609375
+        ],
+        [
+          133.7216796875,
+          232.49560546875
+        ],
+        [
+          44.50349807739258,
+          232.49560546875
+        ]
+      ]
+    },
+    {
+      "title": "FUNKTIONER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.8863830566406,
+          393.865234375
+        ],
+        [
+          364.09039306640625,
+          393.865234375
+        ],
+        [
+          364.09039306640625,
+          408.29974365234375
+        ],
+        [
+          303.8863830566406,
+          408.29974365234375
+        ]
+      ]
+    },
+    {
+      "title": "TILLBEH\u00d6R",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.0038757324219,
+          555.4404296875
+        ],
+        [
+          358.240234375,
+          555.4404296875
+        ],
+        [
+          358.240234375,
+          570.2412109375
+        ],
+        [
+          304.0038757324219,
+          570.2412109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          6
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          353
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          451
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50129855_pro"
+}

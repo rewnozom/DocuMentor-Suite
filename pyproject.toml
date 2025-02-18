@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "markdown-analyzer"
+version = "0.1.0"
+description = "Analyserar markdown-dokument och genererar träningsdata för LLM"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [{include = "markdown_analyzer"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+typing-extensions = "^4.5.0"
+click = "^8.0.0"
+tqdm = "^4.65.0"
+pydantic = "^1.10.0"
+numpy = ">=1.24.0,<2.0.0"
+pandas = ">=1.5.0,<2.0.0"
+
+[tool.poetry.scripts]
+markdown-analyzer = "markdown_analyzer.__main__:cli"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0.0"
+black = "^23.3.0"
+isort = "^5.12.0"
+mypy = "^1.3.0"
+pylint = "^2.17.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

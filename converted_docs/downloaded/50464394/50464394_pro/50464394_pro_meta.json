@@ -1,0 +1,73 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DB-50 GEN2 DELNINGSBOX",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.392578125,
+          134.543212890625
+        ],
+        [
+          317.498046875,
+          134.543212890625
+        ],
+        [
+          317.498046875,
+          161.266845703125
+        ],
+        [
+          29.392578125,
+          161.266845703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464394_pro"
+}

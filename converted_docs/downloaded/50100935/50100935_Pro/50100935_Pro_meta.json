@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Brandgodk\u00e4nt elslutbleck \nmed listtrycksteknik",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          204.17771911621094,
+          433.7451171875
+        ],
+        [
+          538.4467163085938,
+          433.7451171875
+        ],
+        [
+          538.4467163085938,
+          507.7490234375
+        ],
+        [
+          204.17771911621094,
+          507.7490234375
+        ]
+      ]
+    },
+    {
+      "title": "Drifts\u00e4kerhet med minimala m\u00e5tt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.14739990234375,
+          623.6884765625
+        ],
+        [
+          344.4853820800781,
+          623.6884765625
+        ],
+        [
+          344.4853820800781,
+          635.2001953125
+        ],
+        [
+          205.14739990234375,
+          635.2001953125
+        ]
+      ]
+    },
+    {
+      "title": "Estetiskt montage och enkel installation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          204.875,
+          735.10546875
+        ],
+        [
+          373.373046875,
+          735.10546875
+        ],
+        [
+          373.373046875,
+          746.6171875
+        ],
+        [
+          204.875,
+          746.6171875
+        ]
+      ]
+    },
+    {
+      "title": "Preload - En unik listtrycksteknik",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          254.306396484375,
+          69.995361328125
+        ],
+        [
+          526.9561767578125,
+          69.995361328125
+        ],
+        [
+          526.9561767578125,
+          92.29931640625
+        ],
+        [
+          254.306396484375,
+          92.29931640625
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          254.306396484375,
+          265.1806640625
+        ],
+        [
+          366.6796875,
+          265.1806640625
+        ],
+        [
+          366.6796875,
+          285.84332275390625
+        ],
+        [
+          254.306396484375,
+          285.84332275390625
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rbrukning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          254.3086700439453,
+          341.240234375
+        ],
+        [
+          320.1171875,
+          341.240234375
+        ],
+        [
+          320.1171875,
+          351.5185546875
+        ],
+        [
+          254.3086700439453,
+          351.5185546875
+        ]
+      ]
+    },
+    {
+      "title": "Artikelnummer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          254.3084716796875,
+          405.58251953125
+        ],
+        [
+          308.9054870605469,
+          405.58251953125
+        ],
+        [
+          308.9054870605469,
+          415.03857421875
+        ],
+        [
+          254.3084716796875,
+          415.03857421875
+        ]
+      ]
+    },
+    {
+      "title": "Passande l\u00e5shus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.3291015625,
+          680.8359375
+        ],
+        [
+          312.7231140136719,
+          680.8359375
+        ],
+        [
+          312.7231140136719,
+          690.703125
+        ],
+        [
+          253.3291015625,
+          690.703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50100935_Pro"
+}

@@ -1,0 +1,327 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ASSA tillbeh\u00f6r elslutbleck",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.064453125,
+          22.1497802734375
+        ],
+        [
+          513.93359375,
+          22.1497802734375
+        ],
+        [
+          513.93359375,
+          78.2747802734375
+        ],
+        [
+          27.064453125,
+          78.2747802734375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00e4stj\u00e4rn SOLID 507/17, 507/22, 507/26, 510/511\nAnv\u00e4ndningsomr\u00e5de",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          135.68603515625,
+          556.2626953125
+        ],
+        [
+          330.59375,
+          556.2626953125
+        ],
+        [
+          330.59375,
+          580.1083984375
+        ],
+        [
+          135.68603515625,
+          580.1083984375
+        ]
+      ]
+    },
+    {
+      "title": "Slutbleck SOLID",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          136.77734375,
+          642.6005859375
+        ],
+        [
+          201.9697265625,
+          642.6005859375
+        ],
+        [
+          201.9697265625,
+          654.8393096923828
+        ],
+        [
+          136.77734375,
+          654.8393096923828
+        ]
+      ]
+    },
+    {
+      "title": "824\nF\u00f6r standard elslutbleck:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          138.33070373535156,
+          732.2806091308594
+        ],
+        [
+          226.9921875,
+          732.2806091308594
+        ],
+        [
+          226.9921875,
+          751.1908416748047
+        ],
+        [
+          138.33070373535156,
+          751.1908416748047
+        ]
+      ]
+    },
+    {
+      "title": "Blindstolpar SOLID",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          353.875,
+          557.9072265625
+        ],
+        [
+          434.77734375,
+          557.9072265625
+        ],
+        [
+          434.77734375,
+          572.7080078125
+        ],
+        [
+          353.875,
+          572.7080078125
+        ]
+      ]
+    },
+    {
+      "title": "ASSA tillbeh\u00f6r elslutbleck",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.35546875,
+          20.556640625
+        ],
+        [
+          513.93359375,
+          20.556640625
+        ],
+        [
+          513.93359375,
+          78.274658203125
+        ],
+        [
+          27.35546875,
+          78.274658203125
+        ]
+      ]
+    },
+    {
+      "title": "SOLID f\u00e4stj\u00e4rn, slutbleck och blindstolpar\nElektromekanisk l\u00e5sning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.7919921875,
+          74.0552978515625
+        ],
+        [
+          328.265625,
+          74.0552978515625
+        ],
+        [
+          328.265625,
+          119.6396484375
+        ],
+        [
+          27.7919921875,
+          119.6396484375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00e4stj\u00e4rn SOLID 507/17, 507/22, 507/26, 510/511",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.32240295410156,
+          157.4638671875
+        ],
+        [
+          307.7784118652344,
+          157.4638671875
+        ],
+        [
+          307.7784118652344,
+          169.38671875
+        ],
+        [
+          138.32240295410156,
+          169.38671875
+        ]
+      ]
+    },
+    {
+      "title": "Slutbleck SOLID",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.3303985595703,
+          291.28759765625
+        ],
+        [
+          194.89840698242188,
+          291.28759765625
+        ],
+        [
+          194.89840698242188,
+          302.38818359375
+        ],
+        [
+          138.3303985595703,
+          302.38818359375
+        ]
+      ]
+    },
+    {
+      "title": "Blindstolpar SOLID",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.32240295410156,
+          452.24609375
+        ],
+        [
+          207.494140625,
+          452.24609375
+        ],
+        [
+          207.494140625,
+          462.935546875
+        ],
+        [
+          138.32240295410156,
+          462.935546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ASSA tillbeh\u00f6r elslutbleck_3717592207053593600"
+}

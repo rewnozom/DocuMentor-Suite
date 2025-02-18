@@ -1,0 +1,143 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u00d6ppna 1522 Ber\u00f6ringsfri L\u00e4sare med knappsats",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          288.6875,
+          139.16845703125
+        ],
+        [
+          575.046875,
+          139.16845703125
+        ],
+        [
+          575.046875,
+          173.70361328125
+        ],
+        [
+          288.6875,
+          173.70361328125
+        ]
+      ]
+    },
+    {
+      "title": "PASSAGE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          307.89453125,
+          15.2633056640625
+        ],
+        [
+          336.99609375,
+          15.2633056640625
+        ],
+        [
+          336.99609375,
+          94.4571533203125
+        ],
+        [
+          307.89453125,
+          94.4571533203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\\u00d6ppna 1522copiaxsehttpscopiaxse  doc  50091852_prodblad_8707508312604019770"
+}

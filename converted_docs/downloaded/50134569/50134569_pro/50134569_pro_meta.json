@@ -1,0 +1,61 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ELEKTRONISKA L\u00c5S F\u00d6R HEM OCH F\u00d6RETAG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          171.8447265625,
+          793.486328125
+        ],
+        [
+          423.71875,
+          793.486328125
+        ],
+        [
+          423.71875,
+          810.75390625
+        ],
+        [
+          171.8447265625,
+          810.75390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50134569_pro"
+}

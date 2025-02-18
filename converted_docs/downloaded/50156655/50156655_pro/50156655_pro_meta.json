@@ -1,0 +1,379 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DS-2CD2786G2-IZS\n8 MP IR Varifocal Dome Network Camera",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          10.40380859375,
+          121.0166015625
+        ],
+        [
+          253.765625,
+          121.0166015625
+        ],
+        [
+          253.765625,
+          154.6099853515625
+        ],
+        [
+          10.40380859375,
+          154.6099853515625
+        ]
+      ]
+    },
+    {
+      "title": "AcuSense",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.2373046875,
+          530.9912109375
+        ],
+        [
+          111.87936401367188,
+          530.9912109375
+        ],
+        [
+          111.87936401367188,
+          547.4560546875
+        ],
+        [
+          52.2373046875,
+          547.4560546875
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.924072265625,
+          89.06451416015625
+        ],
+        [
+          122.80859375,
+          89.06451416015625
+        ],
+        [
+          122.80859375,
+          105.3800048828125
+        ],
+        [
+          40.924072265625,
+          105.3800048828125
+        ]
+      ]
+    },
+    {
+      "title": "Available Model",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.160888671875,
+          543.75146484375
+        ],
+        [
+          137.94140625,
+          543.75146484375
+        ],
+        [
+          137.94140625,
+          559.1000366210938
+        ],
+        [
+          42.160888671875,
+          559.1000366210938
+        ]
+      ]
+    },
+    {
+      "title": "Dimension",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.81494140625,
+          82.68438720703125
+        ],
+        [
+          104.40623474121094,
+          82.68438720703125
+        ],
+        [
+          104.40623474121094,
+          97.4599609375
+        ],
+        [
+          40.81494140625,
+          97.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "Accessory",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.53400503778337,
+          91.58147818343721
+        ],
+        [
+          99.0908203125,
+          91.58147818343721
+        ],
+        [
+          99.0908203125,
+          104.39739990234375
+        ],
+        [
+          40.53400503778337,
+          104.39739990234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "TableCell",
+          57
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          14
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          98
+        ],
+        [
+          "Span",
+          98
+        ],
+        [
+          "Text",
+          32
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "Caption",
+          6
+        ],
+        [
+          "PictureGroup",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50156655_pro"
+}

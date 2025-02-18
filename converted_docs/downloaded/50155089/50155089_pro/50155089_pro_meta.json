@@ -1,0 +1,200 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Humidity Sensor\nSupervising indoor climate",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.5275993347168,
+          244.6240234375
+        ],
+        [
+          236.595703125,
+          244.6240234375
+        ],
+        [
+          236.595703125,
+          282.859375
+        ],
+        [
+          59.5275993347168,
+          282.859375
+        ]
+      ]
+    },
+    {
+      "title": "Long-lasting Zigbee sensor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.3671875,
+          565.71875
+        ],
+        [
+          241.54296875,
+          565.71875
+        ],
+        [
+          241.54296875,
+          581.341796875
+        ],
+        [
+          59.3671875,
+          581.341796875
+        ]
+      ]
+    },
+    {
+      "title": "www.develcoproducts.com",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          219.5712890625,
+          806.642578125
+        ],
+        [
+          375.41015625,
+          806.642578125
+        ],
+        [
+          375.41015625,
+          819.798828125
+        ],
+        [
+          219.5712890625,
+          819.798828125
+        ]
+      ]
+    },
+    {
+      "title": "Humidity Sensor - Technical specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.3671875,
+          244.00732421875
+        ],
+        [
+          374.828125,
+          244.00732421875
+        ],
+        [
+          374.828125,
+          263.74169921875
+        ],
+        [
+          59.3671875,
+          263.74169921875
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.89501953125,
+          300.126953125
+        ],
+        [
+          108.62158203125,
+          300.126953125
+        ],
+        [
+          108.62158203125,
+          314.927734375
+        ],
+        [
+          60.89501953125,
+          314.927734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50155089_pro"
+}

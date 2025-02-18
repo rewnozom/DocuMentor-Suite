@@ -1,0 +1,216 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          424.591796875,
+          24.8221435546875
+        ],
+        [
+          568.353515625,
+          24.8221435546875
+        ],
+        [
+          568.353515625,
+          47.2802734375
+        ],
+        [
+          424.591796875,
+          47.2802734375
+        ]
+      ]
+    },
+    {
+      "title": "TS 98 XEA: \nlicense to close",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          26.84619140625,
+          523.3720703125
+        ],
+        [
+          246.490234375,
+          523.3720703125
+        ],
+        [
+          246.490234375,
+          594.0869140625
+        ],
+        [
+          26.84619140625,
+          594.0869140625
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6renar de b\u00e4sta egenskaperna",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.119384765625,
+          655.345703125
+        ],
+        [
+          165.8385009765625,
+          655.345703125
+        ],
+        [
+          165.8385009765625,
+          666.03515625
+        ],
+        [
+          28.119384765625,
+          666.03515625
+        ]
+      ]
+    },
+    {
+      "title": "En d\u00f6rrst\u00e4ngare \u2013 fyra installationstyper",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.34640121459961,
+          29.11334228515625
+        ],
+        [
+          530.8563842773438,
+          29.11334228515625
+        ],
+        [
+          530.8563842773438,
+          59.305908203125
+        ],
+        [
+          28.34640121459961,
+          59.305908203125
+        ]
+      ]
+    },
+    {
+      "title": "Val av ytbehandling och kul\u00f6r",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.064453125,
+          324.794921875
+        ],
+        [
+          378.3203125,
+          324.794921875
+        ],
+        [
+          378.3203125,
+          353.1630859375
+        ],
+        [
+          27.064453125,
+          353.1630859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\TS 98 XEA license to closecopiaxsehttpswwwcopiaxse  doc  50135416_pro_3690206060083147383"
+}

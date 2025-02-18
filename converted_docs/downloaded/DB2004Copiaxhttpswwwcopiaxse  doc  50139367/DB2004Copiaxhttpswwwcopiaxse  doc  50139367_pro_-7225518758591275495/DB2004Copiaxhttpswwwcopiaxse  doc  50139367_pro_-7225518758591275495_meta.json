@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DB2004",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.410400390625,
+          143.27978515625
+        ],
+        [
+          104.474609375,
+          143.27978515625
+        ],
+        [
+          104.474609375,
+          167.12548828125
+        ],
+        [
+          28.410400390625,
+          167.12548828125
+        ]
+      ]
+    },
+    {
+      "title": "Allm\u00e4nt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.0830078125,
+          217.078125
+        ],
+        [
+          61.8408203125,
+          217.078125
+        ],
+        [
+          61.8408203125,
+          228.58984375
+        ],
+        [
+          28.0830078125,
+          228.58984375
+        ]
+      ]
+    },
+    {
+      "title": "Standardprestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.513671875,
+          391.19287109375
+        ],
+        [
+          397.818359375,
+          391.19287109375
+        ],
+        [
+          397.818359375,
+          401.47119140625
+        ],
+        [
+          310.513671875,
+          401.47119140625
+        ]
+      ]
+    },
+    {
+      "title": "DB2004",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.901123046875,
+          28.882080078125
+        ],
+        [
+          105.638671875,
+          28.882080078125
+        ],
+        [
+          105.638671875,
+          53.3958740234375
+        ],
+        [
+          27.901123046875,
+          53.3958740234375
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.576499938964844,
+          82.02099609375
+        ],
+        [
+          91.5244140625,
+          82.02099609375
+        ],
+        [
+          91.5244140625,
+          94.560546875
+        ],
+        [
+          28.576499938964844,
+          94.560546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DB2004Copiaxhttpswwwcopiaxse  doc  50139367_pro_-7225518758591275495"
+}

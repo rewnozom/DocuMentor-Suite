@@ -1,0 +1,220 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AD 800-AM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.222412109375,
+          65.2159423828125
+        ],
+        [
+          191.5841064453125,
+          65.2159423828125
+        ],
+        [
+          191.5841064453125,
+          89.2672119140625
+        ],
+        [
+          61.222412109375,
+          89.2672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Akustisk glaskrossdetektor med Anti-Mask",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.2587890625,
+          141.63525390625
+        ],
+        [
+          449.91015625,
+          141.63525390625
+        ],
+        [
+          449.91015625,
+          162.80859375
+        ],
+        [
+          61.2587890625,
+          162.80859375
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.20458984375,
+          239.279296875
+        ],
+        [
+          159.0869903564453,
+          239.279296875
+        ],
+        [
+          159.0869903564453,
+          252.0244140625
+        ],
+        [
+          62.20458984375,
+          252.0244140625
+        ]
+      ]
+    },
+    {
+      "title": "BEST\u00c4LLINGSINFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.47705078125,
+          716.193359375
+        ],
+        [
+          176.673095703125,
+          716.193359375
+        ],
+        [
+          176.673095703125,
+          726.8375930786133
+        ],
+        [
+          61.47705078125,
+          726.8375930786133
+        ]
+      ]
+    },
+    {
+      "title": "Relaterade produkter och tillbeh\u00f6r:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.83935546875,
+          60.23095703125
+        ],
+        [
+          301.201171875,
+          60.23095703125
+        ],
+        [
+          301.201171875,
+          75.340087890625
+        ],
+        [
+          57.83935546875,
+          75.340087890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50129787_pro"
+}

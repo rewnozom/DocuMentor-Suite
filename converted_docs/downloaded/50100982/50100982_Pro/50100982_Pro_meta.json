@@ -1,0 +1,174 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u00d6ppnaknapp Scoria Touch",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.5275993347168,
+          111.35961914062499
+        ],
+        [
+          401.3145751953125,
+          111.35961914062499
+        ],
+        [
+          401.3145751953125,
+          147.22119140625
+        ],
+        [
+          59.5275993347168,
+          147.22119140625
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          158.74009704589844,
+          623.5418395996094
+        ],
+        [
+          229.27069091796875,
+          623.5418395996094
+        ],
+        [
+          229.27069091796875,
+          637.5418395996094
+        ],
+        [
+          158.74009704589844,
+          637.5418395996094
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          73.2576904296875,
+          127.19323730468749
+        ],
+        [
+          209.521484375,
+          127.19323730468749
+        ],
+        [
+          209.521484375,
+          142.89581298828125
+        ],
+        [
+          73.2576904296875,
+          142.89581298828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50100982_Pro"
+}

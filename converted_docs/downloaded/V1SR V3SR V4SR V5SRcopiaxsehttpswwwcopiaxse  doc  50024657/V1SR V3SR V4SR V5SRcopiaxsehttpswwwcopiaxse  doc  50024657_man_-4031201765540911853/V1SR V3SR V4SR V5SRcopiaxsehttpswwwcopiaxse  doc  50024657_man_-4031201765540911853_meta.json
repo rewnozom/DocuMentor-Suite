@@ -1,0 +1,2184 @@
+{
+  "table_of_contents": [
+    {
+      "title": "1] GENERAL INFORMATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          22.56884765625,
+          60.31298828125
+        ],
+        [
+          162.00621032714844,
+          60.31298828125
+        ],
+        [
+          162.00621032714844,
+          71.95166015625
+        ],
+        [
+          22.56884765625,
+          71.95166015625
+        ]
+      ]
+    },
+    {
+      "title": "NFS 61-937.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          22.0228271484375,
+          80.97509765625
+        ],
+        [
+          85.80322265625,
+          80.97509765625
+        ],
+        [
+          85.80322265625,
+          90.80923461914062
+        ],
+        [
+          22.0228271484375,
+          90.80923461914062
+        ]
+      ]
+    },
+    {
+      "title": "2] REMINDERS AND RECOMMENDATIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          22.677200317382812,
+          454.857421875
+        ],
+        [
+          233.384765625,
+          454.857421875
+        ],
+        [
+          233.384765625,
+          466.498046875
+        ],
+        [
+          22.677200317382812,
+          466.498046875
+        ]
+      ]
+    },
+    {
+      "title": "APPROVAL RELATIVE TO EMERGENCY EXITS:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          21.4248046875,
+          60.203857421875
+        ],
+        [
+          200.3115234375,
+          60.203857421875
+        ],
+        [
+          200.3115234375,
+          69.98162841796875
+        ],
+        [
+          21.4248046875,
+          69.98162841796875
+        ]
+      ]
+    },
+    {
+      "title": "POWER SUPPLY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          22.1268310546875,
+          123.60888671875
+        ],
+        [
+          85.9072265625,
+          123.60888671875
+        ],
+        [
+          85.9072265625,
+          132.34393310546875
+        ],
+        [
+          22.1268310546875,
+          132.34393310546875
+        ]
+      ]
+    },
+    {
+      "title": "MOUNTING RECOMMENDATIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          22.204833984375,
+          171.69921875
+        ],
+        [
+          151.845703125,
+          171.69921875
+        ],
+        [
+          151.845703125,
+          180.53192138671875
+        ],
+        [
+          22.204833984375,
+          180.53192138671875
+        ]
+      ]
+    },
+    {
+      "title": "Armature plate",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          217.7841796875,
+          287.5234375
+        ],
+        [
+          279.7705078125,
+          287.5234375
+        ],
+        [
+          279.7705078125,
+          295.8408203125
+        ],
+        [
+          217.7841796875,
+          295.8408203125
+        ]
+      ]
+    },
+    {
+      "title": "Security ropes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          31.045166015625,
+          405.09375
+        ],
+        [
+          88.871337890625,
+          405.09375
+        ],
+        [
+          88.871337890625,
+          412.66015625
+        ],
+        [
+          31.045166015625,
+          412.66015625
+        ]
+      ]
+    },
+    {
+      "title": "MAINTENANCE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          22.677200317382812,
+          60.494873046875
+        ],
+        [
+          82.9951171875,
+          60.494873046875
+        ],
+        [
+          82.9951171875,
+          69.98162841796875
+        ],
+        [
+          22.677200317382812,
+          69.98162841796875
+        ]
+      ]
+    },
+    {
+      "title": "3] PACKAGE CONTENTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          22.15283203125,
+          128.99267578125
+        ],
+        [
+          143.3173828125,
+          128.99267578125
+        ],
+        [
+          143.3173828125,
+          140.48779296875
+        ],
+        [
+          22.15283203125,
+          140.48779296875
+        ]
+      ]
+    },
+    {
+      "title": "ELECTROMAGNETIC LOCK V1SR",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          22.100830078125,
+          149.1455078125
+        ],
+        [
+          164.94920349121094,
+          149.1455078125
+        ],
+        [
+          164.94920349121094,
+          159.0400390625
+        ],
+        [
+          22.100830078125,
+          159.0400390625
+        ]
+      ]
+    },
+    {
+      "title": "ELECTROMAGNETIC LOCK V3S, V4S AND V5S - SERIES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          22.048828125,
+          285.0498046875
+        ],
+        [
+          259.59375,
+          285.0498046875
+        ],
+        [
+          259.59375,
+          294.895263671875
+        ],
+        [
+          22.048828125,
+          294.895263671875
+        ]
+      ]
+    },
+    {
+      "title": "4] OPTIONAL ACCESSORIES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          21.996826171875,
+          59.658203125
+        ],
+        [
+          165.990234375,
+          59.658203125
+        ],
+        [
+          165.990234375,
+          71.95166015625
+        ],
+        [
+          21.996826171875,
+          71.95166015625
+        ]
+      ]
+    },
+    {
+      "title": "5] ELECTRICAL CONNECTIONS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          21.996826171875,
+          184.6494140625
+        ],
+        [
+          178.0546875,
+          184.6494140625
+        ],
+        [
+          178.0546875,
+          197.4541015625
+        ],
+        [
+          21.996826171875,
+          197.4541015625
+        ]
+      ]
+    },
+    {
+      "title": "WITH BUILT-IN PCB BOARD",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          156.837890625,
+          328.265625
+        ],
+        [
+          267.728515625,
+          328.265625
+        ],
+        [
+          267.728515625,
+          338.7421875
+        ],
+        [
+          156.837890625,
+          338.7421875
+        ]
+      ]
+    },
+    {
+      "title": "IMPORTANT NOTE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          176.5986328125,
+          164.2783203125
+        ],
+        [
+          249.4013671875,
+          164.2783203125
+        ],
+        [
+          249.4013671875,
+          173.5908203125
+        ],
+        [
+          176.5986328125,
+          173.5908203125
+        ]
+      ]
+    },
+    {
+      "title": "6] INSTALLATION (EXAMPLE: V3S SERIES)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          22.677200317382812,
+          239.505859375
+        ],
+        [
+          226.3125,
+          239.505859375
+        ],
+        [
+          226.3125,
+          251.728515625
+        ],
+        [
+          22.677200317382812,
+          251.728515625
+        ]
+      ]
+    },
+    {
+      "title": "7] INSTALLATION WITH ACCESSORIES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          21.73681640625,
+          298.873046875
+        ],
+        [
+          219.84017944335938,
+          298.873046875
+        ],
+        [
+          219.84017944335938,
+          311.095703125
+        ],
+        [
+          21.73681640625,
+          311.095703125
+        ]
+      ]
+    },
+    {
+      "title": "Installation with an Armature\nhousing",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          21.164794921875,
+          322.154296875
+        ],
+        [
+          174.310546875,
+          322.154296875
+        ],
+        [
+          174.310546875,
+          344.4839630126953
+        ],
+        [
+          21.164794921875,
+          344.4839630126953
+        ]
+      ]
+    },
+    {
+      "title": "Installation with base for glass door",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          21.060791015625,
+          61.76806640625
+        ],
+        [
+          208.6318359375,
+          61.76806640625
+        ],
+        [
+          208.6318359375,
+          73.0855712890625
+        ],
+        [
+          21.060791015625,
+          73.0855712890625
+        ]
+      ]
+    },
+    {
+      "title": "Installation with base\nfor glass door",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          22.46849822998047,
+          278.0654296875
+        ],
+        [
+          139.9892578125,
+          278.0654296875
+        ],
+        [
+          139.9892578125,
+          299.60205078125
+        ],
+        [
+          22.46849822998047,
+          299.60205078125
+        ]
+      ]
+    },
+    {
+      "title": "Installation with DPM300 - DPM400 - DPM500 (Door position monitoring)*",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          21.11279296875,
+          59.985595703125
+        ],
+        [
+          402.396240234375,
+          59.985595703125
+        ],
+        [
+          402.396240234375,
+          71.9525146484375
+        ],
+        [
+          21.11279296875,
+          71.9525146484375
+        ]
+      ]
+    },
+    {
+      "title": "8] FAULT FINDING",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          22.048828125,
+          270.353515625
+        ],
+        [
+          119.8125,
+          270.353515625
+        ],
+        [
+          119.8125,
+          282.8671875
+        ],
+        [
+          22.048828125,
+          282.8671875
+        ]
+      ]
+    },
+    {
+      "title": "1] PRODUKTSPECIFIKATION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          22.36083984375,
+          60.422119140625
+        ],
+        [
+          167.75718688964844,
+          60.422119140625
+        ],
+        [
+          167.75718688964844,
+          71.95166015625
+        ],
+        [
+          22.36083984375,
+          71.95166015625
+        ]
+      ]
+    },
+    {
+      "title": "2] INFORMATION OCH REKOMMENDATIONER",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          22.677200317382812,
+          447.58203125
+        ],
+        [
+          253.353515625,
+          447.58203125
+        ],
+        [
+          253.353515625,
+          459.22265625
+        ],
+        [
+          22.677200317382812,
+          459.22265625
+        ]
+      ]
+    },
+    {
+      "title": "STANDARD F\u00d6R N\u00d6DUTG\u00c5NGAR",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          22.204833984375,
+          59.94921875
+        ],
+        [
+          150.59765625,
+          59.94921875
+        ],
+        [
+          150.59765625,
+          69.98162841796875
+        ],
+        [
+          22.204833984375,
+          69.98162841796875
+        ]
+      ]
+    },
+    {
+      "title": "STR\u00d6MF\u00d6RS\u00d6RJNING",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          22.2568359375,
+          119.4619140625
+        ],
+        [
+          109.72412109375,
+          119.4619140625
+        ],
+        [
+          109.72412109375,
+          128.80062866210938
+        ],
+        [
+          22.2568359375,
+          128.80062866210938
+        ]
+      ]
+    },
+    {
+      "title": "MONTERINGSINSTRUKTIONER",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          22.308837890625,
+          171.408203125
+        ],
+        [
+          143.7333984375,
+          171.408203125
+        ],
+        [
+          143.7333984375,
+          180.530517578125
+        ],
+        [
+          22.308837890625,
+          180.530517578125
+        ]
+      ]
+    },
+    {
+      "title": "Ankarplattan",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          218.2677001953125,
+          279.083984375
+        ],
+        [
+          271.2421875,
+          279.083984375
+        ],
+        [
+          271.2421875,
+          287.937744140625
+        ],
+        [
+          218.2677001953125,
+          287.937744140625
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerhetsvajrar",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          30.9151611328125,
+          404.51171875
+        ],
+        [
+          95.4755859375,
+          404.51171875
+        ],
+        [
+          95.4755859375,
+          412.66015625
+        ],
+        [
+          30.9151611328125,
+          412.66015625
+        ]
+      ]
+    },
+    {
+      "title": "SK\u00d6TSEL",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          22.63385009765625,
+          59.840087890625
+        ],
+        [
+          59.490234375,
+          59.840087890625
+        ],
+        [
+          59.490234375,
+          69.98162841796875
+        ],
+        [
+          22.63385009765625,
+          69.98162841796875
+        ]
+      ]
+    },
+    {
+      "title": "3] MONTERINGSSATS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          22.2568359375,
+          141.142578125
+        ],
+        [
+          132.29721069335938,
+          141.142578125
+        ],
+        [
+          132.29721069335938,
+          152.9287109375
+        ],
+        [
+          22.2568359375,
+          152.9287109375
+        ]
+      ]
+    },
+    {
+      "title": "ELEKTROMAGNET V1SR",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          22.4388427734375,
+          158.1669921875
+        ],
+        [
+          128.58119201660156,
+          158.1669921875
+        ],
+        [
+          128.58119201660156,
+          168.93997192382812
+        ],
+        [
+          22.4388427734375,
+          168.93997192382812
+        ]
+      ]
+    },
+    {
+      "title": "ELEKTROMAGNETERNA V3S, V4S OCH V5S - SERIEN",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          22.46484375,
+          281.2666015625
+        ],
+        [
+          250.44140625,
+          281.2666015625
+        ],
+        [
+          250.44140625,
+          291.85699462890625
+        ],
+        [
+          22.46484375,
+          291.85699462890625
+        ]
+      ]
+    },
+    {
+      "title": "4] TILLBEH\u00d6R",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          22.677200317382812,
+          58.603271484375
+        ],
+        [
+          94.78520202636719,
+          58.603271484375
+        ],
+        [
+          94.78520202636719,
+          72.426513671875
+        ],
+        [
+          22.677200317382812,
+          72.426513671875
+        ]
+      ]
+    },
+    {
+      "title": "5] INKOPPLINGAR",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          22.412841796875,
+          184.212890625
+        ],
+        [
+          118.1484375,
+          184.212890625
+        ],
+        [
+          118.1484375,
+          197.30859375
+        ],
+        [
+          22.412841796875,
+          197.30859375
+        ]
+      ]
+    },
+    {
+      "title": "P\u00c5 KRETSKORTET",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          177.84619140625,
+          328.556640625
+        ],
+        [
+          247.3491973876953,
+          328.556640625
+        ],
+        [
+          247.3491973876953,
+          339.033203125
+        ],
+        [
+          177.84619140625,
+          339.033203125
+        ]
+      ]
+    },
+    {
+      "title": "ANSLUTNING UTAN KRETSKORT",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          147.8935546875,
+          64.714599609375
+        ],
+        [
+          275.7022705078125,
+          64.714599609375
+        ],
+        [
+          275.7022705078125,
+          74.39208984375
+        ],
+        [
+          147.8935546875,
+          74.39208984375
+        ]
+      ]
+    },
+    {
+      "title": "VIKTIGT",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          195.9637908935547,
+          163.841796875
+        ],
+        [
+          229.640625,
+          163.841796875
+        ],
+        [
+          229.640625,
+          174.318359375
+        ],
+        [
+          195.9637908935547,
+          174.318359375
+        ]
+      ]
+    },
+    {
+      "title": "6] MONTERING (EXEMPEL: V3SR)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          22.36083984375,
+          239.6513671875
+        ],
+        [
+          181.90283203125,
+          239.6513671875
+        ],
+        [
+          181.90283203125,
+          251.5830078125
+        ],
+        [
+          22.36083984375,
+          251.5830078125
+        ]
+      ]
+    },
+    {
+      "title": "7] INSTALLATION MED TILLBEH\u00d6R",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          21.684814453125,
+          59.43994140625
+        ],
+        [
+          202.599609375,
+          59.43994140625
+        ],
+        [
+          202.599609375,
+          72.0263671875
+        ],
+        [
+          21.684814453125,
+          72.0263671875
+        ]
+      ]
+    },
+    {
+      "title": "Montering p\u00e5 d\u00f6rr som \u00f6ppnas in\u00e5t",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          21.32080078125,
+          77.119140625
+        ],
+        [
+          201.89849853515625,
+          77.119140625
+        ],
+        [
+          201.89849853515625,
+          88.9595947265625
+        ],
+        [
+          21.32080078125,
+          88.9595947265625
+        ]
+      ]
+    },
+    {
+      "title": "f\u00f6r ankarplattan",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          21.268798828125,
+          323.900390625
+        ],
+        [
+          190.7431640625,
+          323.900390625
+        ],
+        [
+          190.7431640625,
+          347.181640625
+        ],
+        [
+          21.268798828125,
+          347.181640625
+        ]
+      ]
+    },
+    {
+      "title": "Installation med monteringsf\u00e4ste f\u00f6r \nglasd\u00f6rr UTOMHUS INOMHUS",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          21.6328125,
+          59.549072265625
+        ],
+        [
+          392.19024658203125,
+          59.549072265625
+        ],
+        [
+          392.19024658203125,
+          82.72119140625
+        ],
+        [
+          21.6328125,
+          82.72119140625
+        ]
+      ]
+    },
+    {
+      "title": "Installation med f\u00e4sten",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          22.15283203125,
+          279.8115234375
+        ],
+        [
+          139.05322265625,
+          279.8115234375
+        ],
+        [
+          139.05322265625,
+          293.1982421875
+        ],
+        [
+          22.15283203125,
+          293.1982421875
+        ]
+      ]
+    },
+    {
+      "title": "INSTALLATION MED DPM300 - DPM400 - DPM500 (Magnetkontakt)*",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          21.0087890625,
+          60.3857421875
+        ],
+        [
+          369.609130859375,
+          60.3857421875
+        ],
+        [
+          369.609130859375,
+          71.9525146484375
+        ],
+        [
+          21.0087890625,
+          71.9525146484375
+        ]
+      ]
+    },
+    {
+      "title": "8] FELS\u00d6KNING",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          21.7108154296875,
+          269.189453125
+        ],
+        [
+          103.89990234375,
+          269.189453125
+        ],
+        [
+          103.89990234375,
+          282.8671875
+        ],
+        [
+          21.7108154296875,
+          282.8671875
+        ]
+      ]
+    },
+    {
+      "title": "ANTECKNINGAR",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          22.2568359375,
+          60.713134765625
+        ],
+        [
+          105.251953125,
+          60.713134765625
+        ],
+        [
+          105.251953125,
+          71.95166015625
+        ],
+        [
+          22.2568359375,
+          71.95166015625
+        ]
+      ]
+    },
+    {
+      "title": "CDVI BENELUX [BELGIUM - NETHERLANDS - LUXEMBOURG]",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          40.76953125,
+          218.1162109375
+        ],
+        [
+          242.953125,
+          218.1162109375
+        ],
+        [
+          242.953125,
+          226.19757080078125
+        ],
+        [
+          40.76953125,
+          226.19757080078125
+        ]
+      ]
+    },
+    {
+      "title": "CDVI CHINA",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          40.87353515625,
+          302.65625
+        ],
+        [
+          85.33729553222656,
+          302.65625
+        ],
+        [
+          85.33729553222656,
+          310.2035827636719
+        ],
+        [
+          40.87353515625,
+          310.2035827636719
+        ]
+      ]
+    },
+    {
+      "title": "CDVI IB\u00c9RICA [SPAIN - PORTUGAL]\n+34 (0) 935 390 966",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          41.133544921875,
+          330.59375
+        ],
+        [
+          163.7021484375,
+          330.59375
+        ],
+        [
+          163.7021484375,
+          345.7265625
+        ],
+        [
+          41.133544921875,
+          345.7265625
+        ]
+      ]
+    },
+    {
+      "title": "CDVI MAROC",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          41.0035400390625,
+          379.484375
+        ],
+        [
+          103.48388671875,
+          379.484375
+        ],
+        [
+          103.48388671875,
+          391.70703125
+        ],
+        [
+          41.0035400390625,
+          391.70703125
+        ]
+      ]
+    },
+    {
+      "title": "CDVI NORDICS [SWEDEN - DENMARK - NORWAY - FINLAND]\n+46 (0) 31 760 19 30",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          40.87353515625,
+          407.421875
+        ],
+        [
+          239.208984375,
+          407.421875
+        ],
+        [
+          239.208984375,
+          423.71875
+        ],
+        [
+          40.87353515625,
+          423.71875
+        ]
+      ]
+    },
+    {
+      "title": "CDVI UK [UNITED KINGDOM - IRELAND]\n+44 (0) 1628 531300",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          40.405517578125,
+          436.232421875
+        ],
+        [
+          178.6787109375,
+          436.232421875
+        ],
+        [
+          178.6787109375,
+          451.365234375
+        ],
+        [
+          40.405517578125,
+          451.365234375
+        ]
+      ]
+    },
+    {
+      "title": "www.cdvigroup.com",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          250.3529052734375,
+          544.490234375
+        ],
+        [
+          389.806640625,
+          544.490234375
+        ],
+        [
+          389.806640625,
+          556.8857650756836
+        ],
+        [
+          250.3529052734375,
+          556.8857650756836
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          82
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          98
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\V1SR V3SR V4SR V5SRcopiaxsehttpswwwcopiaxse  doc  50024657_man_-4031201765540911853"
+}

@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ST6513",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          403.638671875,
+          24.95062255859375
+        ],
+        [
+          476.5046081542969,
+          24.95062255859375
+        ],
+        [
+          476.5046081542969,
+          46.08453369140625
+        ],
+        [
+          403.638671875,
+          46.08453369140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\13 ST6513_1120321834319661322"
+}

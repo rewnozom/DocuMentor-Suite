@@ -1,0 +1,469 @@
+{
+  "table_of_contents": [
+    {
+      "title": "15\"-40\" display\nWall mount",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          114.951171875
+        ],
+        [
+          165.908203125,
+          114.951171875
+        ],
+        [
+          165.908203125,
+          163.6962890625
+        ],
+        [
+          36.0,
+          163.6962890625
+        ]
+      ]
+    },
+    {
+      "title": "EN \u2013 User Manual",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.914794921875,
+          35.0855712890625
+        ],
+        [
+          67.50340270996094,
+          35.0855712890625
+        ],
+        [
+          67.50340270996094,
+          41.3177490234375
+        ],
+        [
+          33.914794921875,
+          41.3177490234375
+        ]
+      ]
+    },
+    {
+      "title": "Important before you start",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.478759765625,
+          72.208251953125
+        ],
+        [
+          84.697265625,
+          71.044189453125
+        ],
+        [
+          84.697265625,
+          77.3177490234375
+        ],
+        [
+          34.478759765625,
+          77.91943359375
+        ]
+      ]
+    },
+    {
+      "title": "Support",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.5556640625,
+          191.6337890625
+        ],
+        [
+          50.84339904785156,
+          191.6337890625
+        ],
+        [
+          50.84339904785156,
+          197.4541015625
+        ],
+        [
+          34.5556640625,
+          197.4541015625
+        ]
+      ]
+    },
+    {
+      "title": "FI \u2013 K\u00e4ytt\u00f6ohje",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.70947265625,
+          254.9296875
+        ],
+        [
+          64.24072265625,
+          254.9296875
+        ],
+        [
+          64.24072265625,
+          261.142822265625
+        ],
+        [
+          34.70947265625,
+          261.142822265625
+        ]
+      ]
+    },
+    {
+      "title": "T\u00e4rke\u00e4\u00e4 huomata ennen aloittamista",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.40185546875,
+          291.306640625
+        ],
+        [
+          102.28271484374999,
+          291.306640625
+        ],
+        [
+          102.28271484374999,
+          297.142822265625
+        ],
+        [
+          34.40185546875,
+          297.142822265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          185.4931640625,
+          44.30712890625
+        ],
+        [
+          239.94140624999997,
+          44.30712890625
+        ],
+        [
+          239.94140624999997,
+          52.16455078125
+        ],
+        [
+          185.4931640625,
+          52.16455078125
+        ]
+      ]
+    },
+    {
+      "title": "Anv\u00e4ndarst\u00f6d",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          212.46093749999997,
+          190.90625
+        ],
+        [
+          242.24339294433594,
+          190.90625
+        ],
+        [
+          242.24339294433594,
+          197.31793212890625
+        ],
+        [
+          212.46093749999997,
+          197.31793212890625
+        ]
+      ]
+    },
+    {
+      "title": "Tuotetuki",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          209.38476562499997,
+          312.259765625
+        ],
+        [
+          235.32339477539062,
+          312.259765625
+        ],
+        [
+          235.32339477539062,
+          318.7103576660156
+        ],
+        [
+          209.38476562499997,
+          318.7103576660156
+        ]
+      ]
+    },
+    {
+      "title": "Support",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          455.1083984375,
+          191.0517578125
+        ],
+        [
+          481.11328124999994,
+          191.0517578125
+        ],
+        [
+          481.11328124999994,
+          197.31777954101562
+        ],
+        [
+          455.1083984375,
+          197.31777954101562
+        ]
+      ]
+    },
+    {
+      "title": "NO \u2013 Brukerveiledning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          630.0,
+          36.122314453125
+        ],
+        [
+          676.7633666992188,
+          36.122314453125
+        ],
+        [
+          676.7633666992188,
+          41.942626953125
+        ],
+        [
+          630.0,
+          41.942626953125
+        ]
+      ]
+    },
+    {
+      "title": "Viktigt innan du b\u00f6rjar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          634.921875,
+          70.753173828125
+        ],
+        [
+          684.140625,
+          70.753173828125
+        ],
+        [
+          684.140625,
+          77.31793212890625
+        ],
+        [
+          634.921875,
+          77.31793212890625
+        ]
+      ]
+    },
+    {
+      "title": "Brukerst\u00f8tte",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          635.9583740234375,
+          191.48828125
+        ],
+        [
+          664.04296875,
+          191.48828125
+        ],
+        [
+          664.04296875,
+          197.31793212890625
+        ],
+        [
+          635.9583740234375,
+          197.31793212890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          51
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50460104_man"
+}

@@ -1,0 +1,278 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Instruktion fj\u00e4derg\u00e5ngj\u00e4rn 279 och 280",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.91845703125,
+          33.0484619140625
+        ],
+        [
+          327.0994873046875,
+          33.0484619140625
+        ],
+        [
+          327.0994873046875,
+          55.4061279296875
+        ],
+        [
+          33.91845703125,
+          55.4061279296875
+        ]
+      ]
+    },
+    {
+      "title": "Uppsp\u00e4nning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.049072265625,
+          91.30615234375
+        ],
+        [
+          85.31005859375,
+          91.30615234375
+        ],
+        [
+          85.31005859375,
+          102.07373046875
+        ],
+        [
+          35.049072265625,
+          102.07373046875
+        ]
+      ]
+    },
+    {
+      "title": "Sm\u00f6rjning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.665771484375,
+          320.1171875
+        ],
+        [
+          73.79833984375,
+          320.1171875
+        ],
+        [
+          73.79833984375,
+          330.59375
+        ],
+        [
+          35.665771484375,
+          330.59375
+        ]
+      ]
+    },
+    {
+      "title": "Rekommendationstabell f\u00f6r bestyckning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          646.8660888671875,
+          89.341796875
+        ],
+        [
+          793.0751953125,
+          89.341796875
+        ],
+        [
+          793.0751953125,
+          100.42694091796875
+        ],
+        [
+          646.8660888671875,
+          100.42694091796875
+        ]
+      ]
+    },
+    {
+      "title": "Instruktion fj\u00e4derg\u00e5ngj\u00e4rn 2220/2228/2248 och 2466",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.9462890625,
+          32.52099609375
+        ],
+        [
+          427.578125,
+          32.52099609375
+        ],
+        [
+          427.578125,
+          55.4061279296875
+        ],
+        [
+          34.9462890625,
+          55.4061279296875
+        ]
+      ]
+    },
+    {
+      "title": "Uppsp\u00e4nning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.74072265625,
+          89.26904296875
+        ],
+        [
+          83.69599914550781,
+          89.26904296875
+        ],
+        [
+          83.69599914550781,
+          100.47314453125
+        ],
+        [
+          34.74072265625,
+          100.47314453125
+        ]
+      ]
+    },
+    {
+      "title": "Sm\u00f6rjning 2220/2228/2248",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.71075439453125,
+          315.751953125
+        ],
+        [
+          134.0800018310547,
+          315.751953125
+        ],
+        [
+          134.0800018310547,
+          327.974609375
+        ],
+        [
+          32.71075439453125,
+          327.974609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "TableCell",
+          108
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Instruktion fj\u00e4derg\u00e5ngj\u00e4rn 279 och 280copiaxsehttpswwwcopiaxse  doc  128730_man_6836763854052304342"
+}

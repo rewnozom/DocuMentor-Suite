@@ -1,0 +1,713 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Mounting instruction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.89208984375,
+          700.9814453125
+        ],
+        [
+          256.4276123046875,
+          700.9814453125
+        ],
+        [
+          256.4276123046875,
+          722.3603515625
+        ],
+        [
+          52.89208984375,
+          722.3603515625
+        ]
+      ]
+    },
+    {
+      "title": "DEA 905 EN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.45556640625,
+          77.601318359375
+        ],
+        [
+          268.602294921875,
+          77.601318359375
+        ],
+        [
+          268.602294921875,
+          104.941650390625
+        ],
+        [
+          52.45556640625,
+          104.941650390625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          257.83984375,
+          79.9139404296875
+        ],
+        [
+          272.97265625,
+          79.9139404296875
+        ],
+        [
+          272.97265625,
+          89.9866943359375
+        ],
+        [
+          257.83984375,
+          89.9866943359375
+        ]
+      ]
+    },
+    {
+      "title": "Maintenance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          255.220703125,
+          319.0390625
+        ],
+        [
+          303.23828125,
+          319.0390625
+        ],
+        [
+          303.23828125,
+          328.4951171875
+        ],
+        [
+          255.220703125,
+          328.4951171875
+        ]
+      ]
+    },
+    {
+      "title": "DA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          407.3385925292969,
+          79.6055908203125
+        ],
+        [
+          439.142578125,
+          79.6055908203125
+        ],
+        [
+          439.142578125,
+          93.8924560546875
+        ],
+        [
+          407.3385925292969,
+          93.8924560546875
+        ]
+      ]
+    },
+    {
+      "title": "Vedligehold",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          407.130859375,
+          330.75634765625
+        ],
+        [
+          448.455078125,
+          330.75634765625
+        ],
+        [
+          448.455078125,
+          340.62353515625
+        ],
+        [
+          407.130859375,
+          340.62353515625
+        ]
+      ]
+    },
+    {
+      "title": "FI",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.091796875,
+          78.7833251953125
+        ],
+        [
+          61.6005973815918,
+          78.7833251953125
+        ],
+        [
+          61.6005973815918,
+          89.2672119140625
+        ],
+        [
+          52.091796875,
+          89.2672119140625
+        ]
+      ]
+    },
+    {
+      "title": "T\u00e4rke\u00e4\u00e4 tietoa",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.16455078125,
+          91.3228759765625
+        ],
+        [
+          106.6508560180664,
+          91.3228759765625
+        ],
+        [
+          106.6508560180664,
+          100.9844970703125
+        ],
+        [
+          52.16455078125,
+          100.9844970703125
+        ]
+      ]
+    },
+    {
+      "title": "Yll\u00e4pito",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.2373046875,
+          319.0390625
+        ],
+        [
+          81.99365234375,
+          319.0390625
+        ],
+        [
+          81.99365234375,
+          328.4951171875
+        ],
+        [
+          52.2373046875,
+          328.4951171875
+        ]
+      ]
+    },
+    {
+      "title": "NO",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          202.546875,
+          79.70843505859375
+        ],
+        [
+          219.452880859375,
+          79.70843505859375
+        ],
+        [
+          219.452880859375,
+          89.7811279296875
+        ],
+        [
+          202.546875,
+          89.7811279296875
+        ]
+      ]
+    },
+    {
+      "title": "Vedlikehold",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          204.94488525390625,
+          331.57861328125
+        ],
+        [
+          248.52734375,
+          331.57861328125
+        ],
+        [
+          248.52734375,
+          340.44598388671875
+        ],
+        [
+          204.94488525390625,
+          340.44598388671875
+        ]
+      ]
+    },
+    {
+      "title": "SV",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          356.740234375,
+          79.70843505859375
+        ],
+        [
+          369.880859375,
+          79.70843505859375
+        ],
+        [
+          369.880859375,
+          89.4727783203125
+        ],
+        [
+          356.740234375,
+          89.4727783203125
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5ll",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          356.740234375,
+          318.42236328125
+        ],
+        [
+          390.542724609375,
+          318.42236328125
+        ],
+        [
+          390.542724609375,
+          327.87841796875
+        ],
+        [
+          356.740234375,
+          327.87841796875
+        ]
+      ]
+    },
+    {
+      "title": "0000177-01",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          204.1474609375,
+          594.0869140625
+        ],
+        [
+          250.75865173339844,
+          594.0869140625
+        ],
+        [
+          250.75865173339844,
+          602.3095703125
+        ],
+        [
+          204.1474609375,
+          602.3095703125
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Danmark A/S",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          233.2913055419922,
+          704.4875946044922
+        ],
+        [
+          347.47265625,
+          704.4875946044922
+        ],
+        [
+          347.47265625,
+          714.548828125
+        ],
+        [
+          233.2913055419922,
+          714.548828125
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Norge AS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          233.2913055419922,
+          764.4815979003906
+        ],
+        [
+          326.6249084472656,
+          764.4815979003906
+        ],
+        [
+          326.6249084472656,
+          773.751953125
+        ],
+        [
+          233.2913055419922,
+          773.751953125
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Suomi Oy",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          408.294921875,
+          703.859375
+        ],
+        [
+          503.166015625,
+          703.859375
+        ],
+        [
+          503.166015625,
+          713.4695892333984
+        ],
+        [
+          408.294921875,
+          713.4695892333984
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Sverige AB",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          408.5859375,
+          764.4635848999023
+        ],
+        [
+          510.26629638671875,
+          764.4635848999023
+        ],
+        [
+          510.26629638671875,
+          774.57421875
+        ],
+        [
+          408.5859375,
+          774.57421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          299
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50461592_INS"
+}

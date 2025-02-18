@@ -1,0 +1,10 @@
+![](_page_0_Figure_0.jpeg)
+
+- T-serie passar f|r elslutbleck i 200-serie.
+
+- F|r enkel-, dubbel- & fallregellns. (Ej brandklassad d|rr vid enkelfallns)
+![](_page_0_Figure_2.jpeg)
+
+- Tillverkade i rostfritt, elpolerat stnl.
+
+![](_page_0_Figure_1.jpeg)

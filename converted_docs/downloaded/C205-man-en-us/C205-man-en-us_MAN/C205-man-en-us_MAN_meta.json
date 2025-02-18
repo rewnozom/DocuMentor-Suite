@@ -1,0 +1,448 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Info & Booking Screen C205",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.45703124999999,
+          197.98974609375
+        ],
+        [
+          239.94238281249997,
+          197.98974609375
+        ],
+        [
+          239.94238281249997,
+          213.17388916015625
+        ],
+        [
+          56.45703124999999,
+          213.17388916015625
+        ]
+      ]
+    },
+    {
+      "title": "Contents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.38720703125,
+          66.27099609375
+        ],
+        [
+          155.40234375,
+          66.27099609375
+        ],
+        [
+          155.40234375,
+          86.9549560546875
+        ],
+        [
+          64.38720703125,
+          86.9549560546875
+        ]
+      ]
+    },
+    {
+      "title": "Combi key fobs",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.38427734374999,
+          66.6826171875
+        ],
+        [
+          209.82226562499997,
+          66.6826171875
+        ],
+        [
+          209.82226562499997,
+          87.3665771484375
+        ],
+        [
+          56.38427734374999,
+          87.3665771484375
+        ]
+      ]
+    },
+    {
+      "title": "B60 DHCP",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.89355468749999,
+          136.1436767578125
+        ],
+        [
+          157.5849609375,
+          136.1436767578125
+        ],
+        [
+          157.5849609375,
+          157.6063232421875
+        ],
+        [
+          56.89355468749999,
+          157.6063232421875
+        ]
+      ]
+    },
+    {
+      "title": "Mounting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.56616210937499,
+          323.328369140625
+        ],
+        [
+          149.4365234375,
+          323.328369140625
+        ],
+        [
+          149.4365234375,
+          344.732666015625
+        ],
+        [
+          56.56616210937499,
+          344.732666015625
+        ]
+      ]
+    },
+    {
+      "title": "Configuring the Info & Booking Screen",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.14746093749999,
+          428.0859375
+        ],
+        [
+          437.10546874999994,
+          428.0859375
+        ],
+        [
+          437.10546874999994,
+          448.6669921875
+        ],
+        [
+          55.14746093749999,
+          448.6669921875
+        ]
+      ]
+    },
+    {
+      "title": "Default booking object",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          55.65673828124999,
+          453.6064453125
+        ],
+        [
+          280.248046875,
+          453.6064453125
+        ],
+        [
+          280.248046875,
+          475.0107421875
+        ],
+        [
+          55.65673828124999,
+          475.0107421875
+        ]
+      ]
+    },
+    {
+      "title": "Installation and configuration",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.31152343749999,
+          683.291015625
+        ],
+        [
+          349.80078125,
+          683.291015625
+        ],
+        [
+          349.80078125,
+          703.048828125
+        ],
+        [
+          56.31152343749999,
+          703.048828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\C205-man-en-us_MAN"
+}

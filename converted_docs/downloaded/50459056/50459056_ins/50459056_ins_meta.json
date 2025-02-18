@@ -1,0 +1,788 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SpaceControl User Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          154.415283203125,
+          78.8861083984375
+        ],
+        [
+          442.3291931152344,
+          78.8861083984375
+        ],
+        [
+          442.3291931152344,
+          108.847412109375
+        ],
+        [
+          154.415283203125,
+          108.847412109375
+        ]
+      ]
+    },
+    {
+      "title": "Functional elements",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.375701904296875,
+          816.509765625
+        ],
+        [
+          223.7316131591797,
+          816.509765625
+        ],
+        [
+          223.7316131591797,
+          837.888671875
+        ],
+        [
+          57.375701904296875,
+          837.888671875
+        ]
+      ]
+    },
+    {
+      "title": "Using the key fob",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.507568359375,
+          610.943359375
+        ],
+        [
+          199.85450744628906,
+          610.943359375
+        ],
+        [
+          199.85450744628906,
+          633.966796875
+        ],
+        [
+          56.507568359375,
+          633.966796875
+        ]
+      ]
+    },
+    {
+      "title": "Operational Indication",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.5802001953125,
+          346.79052734375
+        ],
+        [
+          238.16891479492188,
+          346.79052734375
+        ],
+        [
+          238.16891479492188,
+          368.99169921875
+        ],
+        [
+          56.5802001953125,
+          368.99169921875
+        ]
+      ]
+    },
+    {
+      "title": "Connection to hub",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.37603759765625,
+          794.30859375
+        ],
+        [
+          208.28846740722656,
+          794.30859375
+        ],
+        [
+          208.28846740722656,
+          814.865234375
+        ],
+        [
+          57.37603759765625,
+          814.865234375
+        ]
+      ]
+    },
+    {
+      "title": "Before starting connection:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.2896728515625,
+          2.28692626953125
+        ],
+        [
+          225.44921875,
+          2.28692626953125
+        ],
+        [
+          225.44921875,
+          18.642303466796875
+        ],
+        [
+          56.2896728515625,
+          18.642303466796875
+        ]
+      ]
+    },
+    {
+      "title": "How to connect key fob to hub:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.088623046875,
+          363.44140625
+        ],
+        [
+          246.221923828125,
+          363.44140625
+        ],
+        [
+          246.221923828125,
+          379.5503845214844
+        ],
+        [
+          57.088623046875,
+          379.5503845214844
+        ]
+      ]
+    },
+    {
+      "title": "Connecting the key fob to Third Party Security Systems",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.07177734375,
+          762.240234375
+        ],
+        [
+          503.7744140625,
+          762.240234375
+        ],
+        [
+          503.7744140625,
+          783.619140625
+        ],
+        [
+          56.07177734375,
+          783.619140625
+        ]
+      ]
+    },
+    {
+      "title": "States",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.507568359375,
+          98.7232666015625
+        ],
+        [
+          111.96855163574219,
+          98.7232666015625
+        ],
+        [
+          111.96855163574219,
+          117.9951171875
+        ],
+        [
+          56.507568359375,
+          117.9951171875
+        ]
+      ]
+    },
+    {
+      "title": "Setting Up the key fob",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          55.4180908203125,
+          1.5224761962890625
+        ],
+        [
+          237.59783935546875,
+          1.5224761962890625
+        ],
+        [
+          237.59783935546875,
+          22.43243408203125
+        ],
+        [
+          55.4180908203125,
+          22.43243408203125
+        ]
+      ]
+    },
+    {
+      "title": "Key fob Maintenance and Battery Replacement",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.507568359375,
+          499.9375
+        ],
+        [
+          436.953125,
+          499.9375
+        ],
+        [
+          436.953125,
+          522.9609375
+        ],
+        [
+          56.507568359375,
+          522.9609375
+        ]
+      ]
+    },
+    {
+      "title": "How long Ajax devices operate on batteries, and what affects this",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          97.6171875,
+          273.60888671875
+        ],
+        [
+          494.3820495605469,
+          273.60888671875
+        ],
+        [
+          494.3820495605469,
+          291.28759765625
+        ],
+        [
+          97.6171875,
+          291.28759765625
+        ]
+      ]
+    },
+    {
+      "title": "Tech Specs",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          56.39862060546875,
+          374.953125
+        ],
+        [
+          153.48373413085938,
+          374.953125
+        ],
+        [
+          153.48373413085938,
+          397.5654296875
+        ],
+        [
+          56.39862060546875,
+          397.5654296875
+        ]
+      ]
+    },
+    {
+      "title": "Compliance with standards",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          214.4091796875,
+          431.689453125
+        ],
+        [
+          381.9833068847656,
+          431.689453125
+        ],
+        [
+          381.9833068847656,
+          450.6015625
+        ],
+        [
+          214.4091796875,
+          450.6015625
+        ]
+      ]
+    },
+    {
+      "title": "Complete Set",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          57.3065185546875,
+          488.8369140625
+        ],
+        [
+          167.9850311279297,
+          488.8369140625
+        ],
+        [
+          167.9850311279297,
+          510.2158203125
+        ],
+        [
+          57.3065185546875,
+          510.2158203125
+        ]
+      ]
+    },
+    {
+      "title": "Warranty",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.8707275390625,
+          653.701171875
+        ],
+        [
+          132.4120635986328,
+          653.701171875
+        ],
+        [
+          132.4120635986328,
+          674.2578125
+        ],
+        [
+          56.8707275390625,
+          674.2578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50459056_ins"
+}

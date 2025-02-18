@@ -1,0 +1,363 @@
+{
+  "table_of_contents": [
+    {
+      "title": "radius\nIndoor siren & Emergency Light\nInstallation guide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.7138671875,
+          114.46875
+        ],
+        [
+          285.6318359375,
+          114.46875
+        ],
+        [
+          285.6318359375,
+          211.30230712890625
+        ],
+        [
+          62.7138671875,
+          211.30230712890625
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.968505859375,
+          261.421875
+        ],
+        [
+          137.5048828125,
+          261.421875
+        ],
+        [
+          137.5048828125,
+          274.5703125
+        ],
+        [
+          62.968505859375,
+          274.5703125
+        ]
+      ]
+    },
+    {
+      "title": "DESCRIPTION OF THE PRODUCT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.36865234375,
+          448.59375
+        ],
+        [
+          207.78515625,
+          448.59375
+        ],
+        [
+          207.78515625,
+          461.7421875
+        ],
+        [
+          63.36865234375,
+          461.7421875
+        ]
+      ]
+    },
+    {
+      "title": "LEGEND",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          326.0400085449219,
+          483.6197204589844
+        ],
+        [
+          365.3172912597656,
+          483.6197204589844
+        ],
+        [
+          365.3172912597656,
+          495.7734375
+        ],
+        [
+          326.0400085449219,
+          495.7734375
+        ]
+      ]
+    },
+    {
+      "title": "CONNECTION DESCRIPTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.041259765625,
+          104.89971923828125
+        ],
+        [
+          194.8349609375,
+          104.89971923828125
+        ],
+        [
+          194.8349609375,
+          117.17578125
+        ],
+        [
+          63.041259765625,
+          117.17578125
+        ]
+      ]
+    },
+    {
+      "title": "INSTALLATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.36865234375,
+          325.2796936035156
+        ],
+        [
+          133.1875457763672,
+          325.2796936035156
+        ],
+        [
+          133.1875457763672,
+          337.60546875
+        ],
+        [
+          63.36865234375,
+          337.60546875
+        ]
+      ]
+    },
+    {
+      "title": "TECHNICAL DATA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.895751953125,
+          105.7996826171875
+        ],
+        [
+          144.34375,
+          105.7996826171875
+        ],
+        [
+          144.34375,
+          117.755859375
+        ],
+        [
+          62.895751953125,
+          117.755859375
+        ]
+      ]
+    },
+    {
+      "title": "QUANTITY DATA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.750244140625,
+          278.11962890625
+        ],
+        [
+          141.8701171875,
+          278.11962890625
+        ],
+        [
+          141.8701171875,
+          290.42578125
+        ],
+        [
+          62.750244140625,
+          290.42578125
+        ]
+      ]
+    },
+    {
+      "title": "CERTIFICATIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.51416015625,
+          408.7996826171875
+        ],
+        [
+          140.34228515625,
+          408.7996826171875
+        ],
+        [
+          140.34228515625,
+          420.36328125
+        ],
+        [
+          63.51416015625,
+          420.36328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TableCell",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50153165_ins"
+}

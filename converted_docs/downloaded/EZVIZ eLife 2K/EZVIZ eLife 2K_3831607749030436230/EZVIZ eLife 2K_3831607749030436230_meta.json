@@ -1,0 +1,920 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EZVIZ eLife 2K+",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.404296875,
+          137.21923828125
+        ],
+        [
+          413.7451171875,
+          137.21923828125
+        ],
+        [
+          413.7451171875,
+          196.76513671875
+        ],
+        [
+          83.404296875,
+          196.76513671875
+        ]
+      ]
+    },
+    {
+      "title": "A 100% wire-free camera with\nup to 270 days of battery life.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.58349609375,
+          288.9404296875
+        ],
+        [
+          463.623046875,
+          288.9404296875
+        ],
+        [
+          463.623046875,
+          361.4501953125
+        ],
+        [
+          85.58349609375,
+          361.4501953125
+        ]
+      ]
+    },
+    {
+      "title": "Long-lasting battery life \nfor extended peace-of-mind.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.6484375,
+          71.630859375
+        ],
+        [
+          465.8142395019531,
+          71.630859375
+        ],
+        [
+          465.8142395019531,
+          143.4814453125
+        ],
+        [
+          89.6484375,
+          143.4814453125
+        ]
+      ]
+    },
+    {
+      "title": "Sharper details with 2K+\n resolution.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.84420013427734,
+          582.275390625
+        ],
+        [
+          561.181640625,
+          582.275390625
+        ],
+        [
+          561.181640625,
+          616.9615783691406
+        ],
+        [
+          90.84420013427734,
+          616.9615783691406
+        ]
+      ]
+    },
+    {
+      "title": "Free, secure video storage \nwith the built-in 32 GB eMMC.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          90.41748046875,
+          67.236328125
+        ],
+        [
+          485.595703125,
+          67.236328125
+        ],
+        [
+          485.595703125,
+          137.548828125
+        ],
+        [
+          90.41748046875,
+          137.548828125
+        ]
+      ]
+    },
+    {
+      "title": "Also supports\nEZVIZ CloudPlay Storage",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          1210.9683837890625,
+          234.8876953125
+        ],
+        [
+          1343.759765625,
+          234.8876953125
+        ],
+        [
+          1343.759765625,
+          266.9677734375
+        ],
+        [
+          1210.9683837890625,
+          266.9677734375
+        ]
+      ]
+    },
+    {
+      "title": "Vivid night vision.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          88.76953125,
+          540.52734375
+        ],
+        [
+          324.4757385253906,
+          540.52734375
+        ],
+        [
+          324.4757385253906,
+          574.9615783691406
+        ],
+        [
+          88.76953125,
+          574.9615783691406
+        ]
+      ]
+    },
+    {
+      "title": "Motion alerts are more accurate \nthan ever.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.53857421875,
+          105.35888671875
+        ],
+        [
+          525.4246215820312,
+          105.35888671875
+        ],
+        [
+          525.4246215820312,
+          171.87164306640625
+        ],
+        [
+          89.53857421875,
+          171.87164306640625
+        ]
+      ]
+    },
+    {
+      "title": "A vigilant guard over your property.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.52734375,
+          524.8698120117188
+        ],
+        [
+          558.984375,
+          524.8698120117188
+        ],
+        [
+          558.984375,
+          555.908203125
+        ],
+        [
+          90.52734375,
+          555.908203125
+        ]
+      ]
+    },
+    {
+      "title": "Easy control and two-way audio.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          87.78076171875,
+          502.734375
+        ],
+        [
+          521.630859375,
+          502.734375
+        ],
+        [
+          521.630859375,
+          535.25390625
+        ],
+        [
+          87.78076171875,
+          535.25390625
+        ]
+      ]
+    },
+    {
+      "title": "Customizable voice messages.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.87939453125,
+          104.150390625
+        ],
+        [
+          503.26177978515625,
+          104.150390625
+        ],
+        [
+          503.26177978515625,
+          139.74609375
+        ],
+        [
+          88.87939453125,
+          139.74609375
+        ]
+      ]
+    },
+    {
+      "title": "Built to last.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.75980377197266,
+          533.49609375
+        ],
+        [
+          247.46681213378906,
+          533.49609375
+        ],
+        [
+          247.46681213378906,
+          568.65234375
+        ],
+        [
+          89.75980377197266,
+          568.65234375
+        ]
+      ]
+    },
+    {
+      "title": "Fast and easy wire-free setup.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          87.56103515625,
+          46.03271484375
+        ],
+        [
+          486.54669189453125,
+          46.03271484375
+        ],
+        [
+          486.54669189453125,
+          80.96923828125
+        ],
+        [
+          87.56103515625,
+          80.96923828125
+        ]
+      ]
+    },
+    {
+      "title": "Save on storage space and",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          90.087890625,
+          132.1900634765625
+        ],
+        [
+          457.470703125,
+          132.1900634765625
+        ],
+        [
+          457.470703125,
+          196.54541015625
+        ],
+        [
+          90.087890625,
+          196.54541015625
+        ]
+      ]
+    },
+    {
+      "title": "Specifications Model CS-BC1C (4MP, W1)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          98.76708984375,
+          25.3509521484375
+        ],
+        [
+          525.0814208984375,
+          25.3509521484375
+        ],
+        [
+          525.0814208984375,
+          64.05029296875
+        ],
+        [
+          98.76708984375,
+          64.05029296875
+        ]
+      ]
+    },
+    {
+      "title": "Camera Parameters",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          109.588623046875,
+          138.31787109375
+        ],
+        [
+          272.7706298828125,
+          138.31787109375
+        ],
+        [
+          272.7706298828125,
+          158.97216796875
+        ],
+        [
+          109.588623046875,
+          158.97216796875
+        ]
+      ]
+    },
+    {
+      "title": "Storage",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          780.1156616210938,
+          656.54296875
+        ],
+        [
+          843.61962890625,
+          656.54296875
+        ],
+        [
+          843.61962890625,
+          675.87890625
+        ],
+        [
+          780.1156616210938,
+          675.87890625
+        ]
+      ]
+    },
+    {
+      "title": "Local Storage Build-in 32GB eMMC Storage",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          780.1151733398438,
+          699.169921875
+        ],
+        [
+          1208.49609375,
+          699.169921875
+        ],
+        [
+          1208.49609375,
+          718.6133880615234
+        ],
+        [
+          780.1151733398438,
+          718.6133880615234
+        ]
+      ]
+    },
+    {
+      "title": "Function",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          780.1156616210938,
+          452.197265625
+        ],
+        [
+          856.1656494140625,
+          452.197265625
+        ],
+        [
+          856.1656494140625,
+          472.8688659667969
+        ],
+        [
+          780.1156616210938,
+          472.8688659667969
+        ]
+      ]
+    },
+    {
+      "title": "Video & Audio",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          108.984375,
+          457.470703125
+        ],
+        [
+          229.62460327148438,
+          457.470703125
+        ],
+        [
+          229.62460327148438,
+          479.443359375
+        ],
+        [
+          108.984375,
+          479.443359375
+        ]
+      ]
+    },
+    {
+      "title": "Network",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          777.83203125,
+          138.53759765625
+        ],
+        [
+          852.472900390625,
+          138.53759765625
+        ],
+        [
+          852.472900390625,
+          158.40301513671875
+        ],
+        [
+          777.83203125,
+          158.40301513671875
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          108.160400390625,
+          130.40771484375
+        ],
+        [
+          171.826171875,
+          130.40771484375
+        ],
+        [
+          171.826171875,
+          151.50146484375
+        ],
+        [
+          108.160400390625,
+          151.50146484375
+        ]
+      ]
+    },
+    {
+      "title": "Specifications Model CS-BC1C (4MP, W1)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          98.876953125,
+          25.37841796875
+        ],
+        [
+          525.0814208984375,
+          25.37841796875
+        ],
+        [
+          525.0814208984375,
+          64.05029296875
+        ],
+        [
+          98.876953125,
+          64.05029296875
+        ]
+      ]
+    },
+    {
+      "title": "In the box:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          146.46969604492188,
+          81.40869140625
+        ],
+        [
+          315.087890625,
+          81.40869140625
+        ],
+        [
+          315.087890625,
+          124.47509765625
+        ],
+        [
+          146.46969604492188,
+          124.47509765625
+        ]
+      ]
+    },
+    {
+      "title": "CE/FCC/WEEE/ROHS/REACH/UL\nCertifications:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          816.943359375,
+          80.804443359375
+        ],
+        [
+          1096.6002197265625,
+          80.804443359375
+        ],
+        [
+          1096.6002197265625,
+          156.99462890625
+        ],
+        [
+          816.943359375,
+          156.99462890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Picture",
+          13
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Table",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\EZVIZ eLife 2K_3831607749030436230"
+}

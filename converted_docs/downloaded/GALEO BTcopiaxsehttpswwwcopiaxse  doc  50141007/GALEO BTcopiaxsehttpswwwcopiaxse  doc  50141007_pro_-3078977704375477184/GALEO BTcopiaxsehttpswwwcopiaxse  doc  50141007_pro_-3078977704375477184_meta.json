@@ -1,0 +1,169 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GALEO BT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.023597717285156,
+          499.9375
+        ],
+        [
+          226.9921875,
+          499.9375
+        ],
+        [
+          226.9921875,
+          533.6422729492188
+        ],
+        [
+          52.023597717285156,
+          533.6422729492188
+        ]
+      ]
+    },
+    {
+      "title": "VATTENT\u00c4TT KODL\u00c5S \nI DELAT MONTAGE MED GALEO 4.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          92.54296875,
+          49.15606689453125
+        ],
+        [
+          518.58984375,
+          49.15606689453125
+        ],
+        [
+          518.58984375,
+          106.997314453125
+        ],
+        [
+          92.54296875,
+          106.997314453125
+        ]
+      ]
+    },
+    {
+      "title": "GALEO BT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.139404296875,
+          186.757080078125
+        ],
+        [
+          128.1757049560547,
+          186.757080078125
+        ],
+        [
+          128.1757049560547,
+          206.902587890625
+        ],
+        [
+          33.139404296875,
+          206.902587890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          333.794921875,
+          735.5166015625
+        ],
+        [
+          556.130859375,
+          735.5166015625
+        ],
+        [
+          556.130859375,
+          803.7646484375
+        ],
+        [
+          333.794921875,
+          803.7646484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\GALEO BTcopiaxsehttpswwwcopiaxse  doc  50141007_pro_-3078977704375477184"
+}

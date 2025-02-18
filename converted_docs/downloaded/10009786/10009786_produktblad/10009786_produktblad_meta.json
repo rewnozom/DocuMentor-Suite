@@ -1,0 +1,231 @@
+{
+  "table_of_contents": [
+    {
+      "title": "R-CARD 5000\nDB-50 Delningsbox Standard",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69269943237305,
+          48.4622802734375
+        ],
+        [
+          389.087890625,
+          48.4622802734375
+        ],
+        [
+          389.087890625,
+          123.54541015625
+        ],
+        [
+          56.69269943237305,
+          123.54541015625
+        ]
+      ]
+    },
+    {
+      "title": "Delningsbox f\u00f6r en d\u00f6rrmilj\u00f6",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69269943237305,
+          504.87109375
+        ],
+        [
+          322.4453125,
+          504.87109375
+        ],
+        [
+          322.4453125,
+          530.361328125
+        ],
+        [
+          56.69269943237305,
+          530.361328125
+        ]
+      ]
+    },
+    {
+      "title": "KOMMUNIKATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          297.6382141113281,
+          52.7791748046875
+        ],
+        [
+          434.77734375,
+          52.7791748046875
+        ],
+        [
+          434.77734375,
+          72.7191162109375
+        ],
+        [
+          297.6382141113281,
+          72.7191162109375
+        ]
+      ]
+    },
+    {
+      "title": "UTG\u00c5NGAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          296.544921875,
+          283.88720703125
+        ],
+        [
+          387.67022705078125,
+          283.88720703125
+        ],
+        [
+          387.67022705078125,
+          308.55517578125
+        ],
+        [
+          296.544921875,
+          308.55517578125
+        ]
+      ]
+    },
+    {
+      "title": "ING\u00c5NGAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          296.8359375,
+          440.734375
+        ],
+        [
+          384.140625,
+          440.734375
+        ],
+        [
+          384.140625,
+          467.046875
+        ],
+        [
+          296.8359375,
+          467.046875
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6VRIGT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          297.126953125,
+          602.3095703125
+        ],
+        [
+          356.34222412109375,
+          602.3095703125
+        ],
+        [
+          356.34222412109375,
+          631.0888671875
+        ],
+        [
+          297.126953125,
+          631.0888671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\10009786_produktblad"
+}

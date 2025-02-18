@@ -1,0 +1,231 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Paxton10:s sabotagebest\u00e4ndi-\nga Slimline-l\u00e4sare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.4599609375,
+          20.6080322265625
+        ],
+        [
+          577.95703125,
+          20.6080322265625
+        ],
+        [
+          577.95703125,
+          82.8648681640625
+        ],
+        [
+          64.4599609375,
+          82.8648681640625
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6versikt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.896484375,
+          109.361328125
+        ],
+        [
+          125.13671875,
+          109.361328125
+        ],
+        [
+          125.13671875,
+          134.4404296875
+        ],
+        [
+          64.896484375,
+          134.4404296875
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.53271484375,
+          276.07568359375
+        ],
+        [
+          145.58056640625,
+          276.07568359375
+        ],
+        [
+          145.58056640625,
+          297.86572265625
+        ],
+        [
+          64.53271484375,
+          297.86572265625
+        ]
+      ]
+    },
+    {
+      "title": "specifikationer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.132568359375,
+          34.432373046875
+        ],
+        [
+          171.1171875,
+          34.432373046875
+        ],
+        [
+          171.1171875,
+          53.40771484375
+        ],
+        [
+          64.132568359375,
+          53.40771484375
+        ]
+      ]
+    },
+    {
+      "title": "Kommunikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          111.8955078125,
+          325.2060546875
+        ],
+        [
+          187.2685546875,
+          325.2060546875
+        ],
+        [
+          187.2685546875,
+          337.12890625
+        ],
+        [
+          111.8955078125,
+          337.12890625
+        ]
+      ]
+    },
+    {
+      "title": "Maskinvara",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          109.712890625,
+          429.22265625
+        ],
+        [
+          170.9716796875,
+          429.22265625
+        ],
+        [
+          170.9716796875,
+          441.556640625
+        ],
+        [
+          109.712890625,
+          441.556640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50153298_pro"
+}

@@ -1,0 +1,119 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MIF-66 IN/UT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          394.01580810546875,
+          35.9227294921875
+        ],
+        [
+          552.638671875,
+          35.9227294921875
+        ],
+        [
+          552.638671875,
+          72.7191162109375
+        ],
+        [
+          394.01580810546875,
+          72.7191162109375
+        ]
+      ]
+    },
+    {
+      "title": "VANDALS\u00c4KER L\u00c4SARE SOM T\u00c5L H\u00c5RDA TAG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.921875,
+          369.81396484375
+        ],
+        [
+          322.154296875,
+          369.81396484375
+        ],
+        [
+          322.154296875,
+          390.78173828125
+        ],
+        [
+          34.921875,
+          390.78173828125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.831298828125,
+          538.1728515625
+        ],
+        [
+          116.98828125,
+          538.1728515625
+        ],
+        [
+          116.98828125,
+          554.5288696289062
+        ],
+        [
+          35.831298828125,
+          554.5288696289062
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50131019_pro,pdf"
+}

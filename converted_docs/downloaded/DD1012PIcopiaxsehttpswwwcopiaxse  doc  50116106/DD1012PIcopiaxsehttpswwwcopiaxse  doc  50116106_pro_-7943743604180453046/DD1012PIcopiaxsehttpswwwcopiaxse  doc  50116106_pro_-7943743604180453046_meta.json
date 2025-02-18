@@ -1,0 +1,296 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DD1012PI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.228515625,
+          142.765869140625
+        ],
+        [
+          125.427734375,
+          142.765869140625
+        ],
+        [
+          125.427734375,
+          167.844970703125
+        ],
+        [
+          28.228515625,
+          167.844970703125
+        ]
+      ]
+    },
+    {
+      "title": "Patenterad mikrov\u00e5g \"Range Gated Radar\"-teknologi",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.15576171875,
+          216.6669921875
+        ],
+        [
+          264.82421875,
+          216.6669921875
+        ],
+        [
+          264.82421875,
+          229.412109375
+        ],
+        [
+          28.15576171875,
+          229.412109375
+        ]
+      ]
+    },
+    {
+      "title": "Passiv IR teknik i kombination med patenterade\n\nspegeloptik",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.35546875,
+          364.05810546875
+        ],
+        [
+          240.087890625,
+          364.05810546875
+        ],
+        [
+          240.087890625,
+          386.67041015625
+        ],
+        [
+          27.35546875,
+          386.67041015625
+        ]
+      ]
+    },
+    {
+      "title": "Detekteringsteknikerna arbetar tillsammans",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.7919921875,
+          468.69140625
+        ],
+        [
+          220.23648071289062,
+          468.69140625
+        ],
+        [
+          220.23648071289062,
+          480.203125
+        ],
+        [
+          27.7919921875,
+          480.203125
+        ]
+      ]
+    },
+    {
+      "title": "Enkel och flexibel installation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.42822265625,
+          594.0869140625
+        ],
+        [
+          157.1484375,
+          594.0869140625
+        ],
+        [
+          157.1484375,
+          606.4208984375
+        ],
+        [
+          27.42822265625,
+          606.4208984375
+        ]
+      ]
+    },
+    {
+      "title": "Standardprestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.095703125,
+          388.931640625
+        ],
+        [
+          398.400390625,
+          388.931640625
+        ],
+        [
+          398.400390625,
+          401.01898193359375
+        ],
+        [
+          311.095703125,
+          401.01898193359375
+        ]
+      ]
+    },
+    {
+      "title": "DD1012PI",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.192138671875,
+          28.9334716796875
+        ],
+        [
+          124.845703125,
+          28.9334716796875
+        ],
+        [
+          124.845703125,
+          54.26953125
+        ],
+        [
+          28.192138671875,
+          54.26953125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.576499938964844,
+          81.8154296875
+        ],
+        [
+          91.45166015625,
+          81.8154296875
+        ],
+        [
+          91.45166015625,
+          94.1494140625
+        ],
+        [
+          28.576499938964844,
+          94.1494140625
+        ]
+      ]
+    },
+    {
+      "title": "Order data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.8046875,
+          83.6141357421875
+        ],
+        [
+          359.6953125,
+          83.6141357421875
+        ],
+        [
+          359.6953125,
+          94.8175048828125
+        ],
+        [
+          310.8046875,
+          94.8175048828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          113
+        ],
+        [
+          "Span",
+          113
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DD1012PIcopiaxsehttpswwwcopiaxse  doc  50116106_pro_-7943743604180453046"
+}

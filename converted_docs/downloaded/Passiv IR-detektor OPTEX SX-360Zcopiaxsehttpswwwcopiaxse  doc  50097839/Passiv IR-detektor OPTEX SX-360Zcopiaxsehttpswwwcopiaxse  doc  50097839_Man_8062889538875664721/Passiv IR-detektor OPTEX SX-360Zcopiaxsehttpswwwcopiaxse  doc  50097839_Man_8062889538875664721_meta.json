@@ -1,0 +1,493 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Passiv IR-detektor\nOPTEX\nSX-360Z",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          132.0549313358302,
+          225.670166015625
+        ],
+        [
+          360.9521484375,
+          225.670166015625
+        ],
+        [
+          360.9521484375,
+          316.998291015625
+        ],
+        [
+          132.0549313358302,
+          316.998291015625
+        ]
+      ]
+    },
+    {
+      "title": "Installations- och\nprojekteringsanvisning.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          132.0549313358302,
+          384.11500449236297
+        ],
+        [
+          420.1747815230961,
+          384.11500449236297
+        ],
+        [
+          420.1747815230961,
+          443.59375
+        ],
+        [
+          132.0549313358302,
+          443.59375
+        ]
+      ]
+    },
+    {
+      "title": "OPTEX Passiv IR detektor SX-360Z",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.0274656679151,
+          62.991943359375
+        ],
+        [
+          289.3486328125,
+          62.991943359375
+        ],
+        [
+          289.3486328125,
+          79.0966796875
+        ],
+        [
+          66.0274656679151,
+          79.0966796875
+        ]
+      ]
+    },
+    {
+      "title": "SX-360Z \u00e4r utrustad f\u00f6r:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.77777777777777,
+          90.15594482421875
+        ],
+        [
+          176.32334581772784,
+          90.15594482421875
+        ],
+        [
+          176.32334581772784,
+          102.79510498046875
+        ],
+        [
+          66.77777777777777,
+          102.79510498046875
+        ]
+      ]
+    },
+    {
+      "title": "Installationstips:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          67.52808988764045,
+          198.6590576171875
+        ],
+        [
+          141.73974609375,
+          198.6590576171875
+        ],
+        [
+          141.73974609375,
+          210.992431640625
+        ],
+        [
+          67.52808988764045,
+          210.992431640625
+        ]
+      ]
+    },
+    {
+      "title": "1. Bevakningsomr\u00e5de:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.02871410736579,
+          423.61572265625
+        ],
+        [
+          186.07740324594255,
+          423.61572265625
+        ],
+        [
+          186.07740324594255,
+          437.47802734375
+        ],
+        [
+          69.02871410736579,
+          437.47802734375
+        ]
+      ]
+    },
+    {
+      "title": "Fr\u00e5n sidan",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.3820224719101,
+          455.009765625
+        ],
+        [
+          373.57080078125,
+          455.009765625
+        ],
+        [
+          373.57080078125,
+          469.6875
+        ],
+        [
+          317.3820224719101,
+          469.6875
+        ]
+      ]
+    },
+    {
+      "title": "2. Beskrivning och funktioner",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.77777777777777,
+          63.76909254267745
+        ],
+        [
+          222.84269662921346,
+          63.76909254267745
+        ],
+        [
+          222.84269662921346,
+          75.98785400390625
+        ],
+        [
+          66.77777777777777,
+          75.98785400390625
+        ]
+      ]
+    },
+    {
+      "title": "3. Montering och inkoppling:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.02871410736579,
+          372.1114106019766
+        ],
+        [
+          221.56005859374997,
+          372.1114106019766
+        ],
+        [
+          221.56005859374997,
+          384.271240234375
+        ],
+        [
+          69.02871410736579,
+          384.271240234375
+        ]
+      ]
+    },
+    {
+      "title": "Lysdiod till/ fr\u00e5n:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.39300537109375,
+          691.707097933513
+        ],
+        [
+          163.45556640625,
+          691.707097933513
+        ],
+        [
+          163.45556640625,
+          704.53125
+        ],
+        [
+          70.39300537109375,
+          704.53125
+        ]
+      ]
+    },
+    {
+      "title": "5. Justering av bevakningsomr\u00e5det:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          67.52808988764045,
+          63.24676513671875
+        ],
+        [
+          253.98706054687497,
+          63.24676513671875
+        ],
+        [
+          253.98706054687497,
+          75.88592529296875
+        ],
+        [
+          67.52808988764045,
+          75.88592529296875
+        ]
+      ]
+    },
+    {
+      "title": "6. Justering av k\u00e4nslighet:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.37548828125,
+          249.92919921875
+        ],
+        [
+          204.83520599250934,
+          249.92919921875
+        ],
+        [
+          204.83520599250934,
+          262.16064453125
+        ],
+        [
+          68.37548828125,
+          262.16064453125
+        ]
+      ]
+    },
+    {
+      "title": "7. Fels\u00f6kning:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.02871410736579,
+          392.833251953125
+        ],
+        [
+          143.20703125,
+          392.833251953125
+        ],
+        [
+          143.20703125,
+          404.249267578125
+        ],
+        [
+          69.02871410736579,
+          404.249267578125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.27840199750311,
+          587.109375
+        ],
+        [
+          148.4892578125,
+          587.109375
+        ],
+        [
+          148.4892578125,
+          599.3408203125
+        ],
+        [
+          68.27840199750311,
+          599.3408203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          68
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Passiv IR-detektor OPTEX SX-360Zcopiaxsehttpswwwcopiaxse  doc  50097839_Man_8062889538875664721"
+}

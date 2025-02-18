@@ -1,0 +1,289 @@
+{
+  "table_of_contents": [
+    {
+      "title": "www.steplock.se",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          480.5806884765625,
+          76.8818359375
+        ],
+        [
+          567.189453125,
+          76.8818359375
+        ],
+        [
+          567.189453125,
+          89.1417236328125
+        ],
+        [
+          480.5806884765625,
+          89.1417236328125
+        ]
+      ]
+    },
+    {
+      "title": "\u2013 Kraftigt elslutbleck med unik prestanda\nSTEP 60 SilentTM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.6953125,
+          346.99609375
+        ],
+        [
+          391.998046875,
+          346.99609375
+        ],
+        [
+          391.998046875,
+          404.9658203125
+        ],
+        [
+          61.6953125,
+          404.9658203125
+        ]
+      ]
+    },
+    {
+      "title": "Minskad ljudniv\u00e5 ger brett anv\u00e4ndningsomr\u00e5de",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.07763671875,
+          515.1494140625
+        ],
+        [
+          263.66015625,
+          515.1494140625
+        ],
+        [
+          263.66015625,
+          526.6611328125
+        ],
+        [
+          63.07763671875,
+          526.6611328125
+        ]
+      ]
+    },
+    {
+      "title": "H\u00f6g s\u00e4kerhet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.041259765625,
+          599.0205078125
+        ],
+        [
+          121.935546875,
+          599.0205078125
+        ],
+        [
+          121.935546875,
+          609.9270324707031
+        ],
+        [
+          63.041259765625,
+          609.9270324707031
+        ]
+      ]
+    },
+    {
+      "title": "Montagestolpar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.2958984375,
+          671.791015625
+        ],
+        [
+          134.740234375,
+          671.791015625
+        ],
+        [
+          134.740234375,
+          682.48046875
+        ],
+        [
+          63.2958984375,
+          682.48046875
+        ]
+      ]
+    },
+    {
+      "title": "Passande l\u00e5shus",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.78662109375,
+          707.970703125
+        ],
+        [
+          130.88427734375,
+          707.970703125
+        ],
+        [
+          130.88427734375,
+          718.66015625
+        ],
+        [
+          62.78662109375,
+          718.66015625
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.949951171875,
+          52.4708251953125
+        ],
+        [
+          160.2041015625,
+          52.4708251953125
+        ],
+        [
+          160.2041015625,
+          71.5885009765625
+        ],
+        [
+          61.949951171875,
+          71.5885009765625
+        ]
+      ]
+    },
+    {
+      "title": "Med STEPs unika listtrycksteknik",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.62255859375,
+          563.6630859375
+        ],
+        [
+          300.037109375,
+          563.6630859375
+        ],
+        [
+          300.037109375,
+          580.9306640625
+        ],
+        [
+          61.62255859375,
+          580.9306640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\STEP 60 SilentTMcopiaxsehttpswwwcopiaxse  doc  50119072_PRO_6912471406784773708"
+}

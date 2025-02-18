@@ -1,0 +1,382 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          389.087890625,
+          29.80712890625
+        ],
+        [
+          575.919921875,
+          29.80712890625
+        ],
+        [
+          575.919921875,
+          64.5478515625
+        ],
+        [
+          389.087890625,
+          64.5478515625
+        ]
+      ]
+    },
+    {
+      "title": "DS-2DF8225IX-AEL(W)\n2MP 25\u00d7 Network IR Speed Dome",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          5.60205078125,
+          117.583984375
+        ],
+        [
+          232.8125,
+          117.583984375
+        ],
+        [
+          232.8125,
+          157.052734375
+        ],
+        [
+          5.60205078125,
+          157.052734375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.74658203125,
+          190.56005859375
+        ],
+        [
+          257.2578125,
+          190.56005859375
+        ],
+        [
+          257.2578125,
+          305.619873046875
+        ],
+        [
+          52.74658203125,
+          305.619873046875
+        ]
+      ]
+    },
+    {
+      "title": "Key Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.169921875,
+          327.6728515625
+        ],
+        [
+          379.69000244140625,
+          327.6728515625
+        ],
+        [
+          379.69000244140625,
+          341.0500183105469
+        ],
+        [
+          315.169921875,
+          341.0500183105469
+        ]
+      ]
+    },
+    {
+      "title": "Specification",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          261.7685546875,
+          74.7747802734375
+        ],
+        [
+          332.3020324707031,
+          74.7747802734375
+        ],
+        [
+          332.3020324707031,
+          86.98004150390625
+        ],
+        [
+          261.7685546875,
+          86.98004150390625
+        ]
+      ]
+    },
+    {
+      "title": "Order Model",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.673828125,
+          133.82373046875
+        ],
+        [
+          118.15234375,
+          133.82373046875
+        ],
+        [
+          118.15234375,
+          147.0999755859375
+        ],
+        [
+          52.673828125,
+          147.0999755859375
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.4013671875,
+          195.69921875
+        ],
+        [
+          112.33203125,
+          195.69921875
+        ],
+        [
+          112.33203125,
+          209.5
+        ],
+        [
+          53.4013671875,
+          209.5
+        ]
+      ]
+    },
+    {
+      "title": "Accessories",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.3828125,
+          75.6998291015625
+        ],
+        [
+          111.84382871536523,
+          75.6998291015625
+        ],
+        [
+          111.84382871536523,
+          85.7725830078125
+        ],
+        [
+          52.3828125,
+          85.7725830078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          342
+        ],
+        [
+          "TableCell",
+          73
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "TableCell",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DS-2DF8225IX-AELW 2MP 25 Network IR Speed Copiaxhttpswwwcopiaxse  doc  50133851_pro_9003641176132520578"
+}

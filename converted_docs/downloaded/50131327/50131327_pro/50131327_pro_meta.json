@@ -1,0 +1,346 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          414.40625,
+          27.3917236328125
+        ],
+        [
+          572.71875,
+          27.3917236328125
+        ],
+        [
+          572.71875,
+          66.4493408203125
+        ],
+        [
+          414.40625,
+          66.4493408203125
+        ]
+      ]
+    },
+    {
+      "title": "Certifierad motoriserad \nl\u00e5sning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          117.4248046875,
+          466.224609375
+        ],
+        [
+          488.2588195800781,
+          466.224609375
+        ],
+        [
+          488.2588195800781,
+          564.896484375
+        ],
+        [
+          117.4248046875,
+          564.896484375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kert och certifierat",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.724609375,
+          453.890625
+        ],
+        [
+          424.591796875,
+          453.890625
+        ],
+        [
+          424.591796875,
+          466.224609375
+        ],
+        [
+          310.724609375,
+          466.224609375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerheten styr valet av l\u00f6sning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.724609375,
+          601.0394287109375
+        ],
+        [
+          479.2813720703125,
+          601.0394287109375
+        ],
+        [
+          479.2813720703125,
+          613.8212890625
+        ],
+        [
+          310.724609375,
+          613.8212890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          465.04296875,
+          27.16046142578125
+        ],
+        [
+          563.40625,
+          27.16046142578125
+        ],
+        [
+          563.40625,
+          50.95477294921875
+        ],
+        [
+          465.04296875,
+          50.95477294921875
+        ]
+      ]
+    },
+    {
+      "title": "Smartast i l\u00e4ngden",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.5400390625,
+          370.22509765625
+        ],
+        [
+          185.958984375,
+          370.22509765625
+        ],
+        [
+          185.958984375,
+          383.5301513671875
+        ],
+        [
+          84.5400390625,
+          383.5301513671875
+        ]
+      ]
+    },
+    {
+      "title": "Modern elektronik",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.685546875,
+          488.42578125
+        ],
+        [
+          183.048828125,
+          488.42578125
+        ],
+        [
+          183.048828125,
+          502.404296875
+        ],
+        [
+          84.685546875,
+          502.404296875
+        ]
+      ]
+    },
+    {
+      "title": "Smidigt att anv\u00e4nda",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.685546875,
+          635.2001953125
+        ],
+        [
+          191.82981872558594,
+          635.2001953125
+        ],
+        [
+          191.82981872558594,
+          649.1787109375
+        ],
+        [
+          84.685546875,
+          649.1787109375
+        ]
+      ]
+    },
+    {
+      "title": "Smidigt att installera",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          296.544921875,
+          370.22509765625
+        ],
+        [
+          409.1102294921875,
+          370.22509765625
+        ],
+        [
+          409.1102294921875,
+          383.53021240234375
+        ],
+        [
+          296.544921875,
+          383.53021240234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50131327_pro"
+}

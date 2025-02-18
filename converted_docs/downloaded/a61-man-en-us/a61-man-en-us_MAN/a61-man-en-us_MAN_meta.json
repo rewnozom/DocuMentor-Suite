@@ -1,0 +1,460 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Reader VAKA A61",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          206.2806396484375
+        ],
+        [
+          261.5939636230469,
+          206.2806396484375
+        ],
+        [
+          261.5939636230469,
+          230.2806396484375
+        ],
+        [
+          105.0,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "Reader VAKA A61",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.5,
+          69.313720703125
+        ],
+        [
+          246.9780731201172,
+          69.313720703125
+        ],
+        [
+          246.9780731201172,
+          93.313720703125
+        ],
+        [
+          64.5,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Screw connectors",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.0234375,
+          69.313720703125
+        ],
+        [
+          247.8900146484375,
+          69.313720703125
+        ],
+        [
+          247.8900146484375,
+          93.313720703125
+        ],
+        [
+          64.0234375,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Termination and addressing",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.80517578125,
+          69.313720703125
+        ],
+        [
+          344.46612548828125,
+          69.313720703125
+        ],
+        [
+          344.46612548828125,
+          93.313720703125
+        ],
+        [
+          63.80517578125,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Cable",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.07763671875,
+          69.68701171875
+        ],
+        [
+          124.72808837890625,
+          69.68701171875
+        ],
+        [
+          124.72808837890625,
+          91.990966796875
+        ],
+        [
+          63.07763671875,
+          91.990966796875
+        ]
+      ]
+    },
+    {
+      "title": "Reading",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.1689453125,
+          70.200927734375
+        ],
+        [
+          148.72808837890625,
+          70.200927734375
+        ],
+        [
+          148.72808837890625,
+          91.946533203125
+        ],
+        [
+          64.1689453125,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Radio",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.0234375,
+          497.0595703125
+        ],
+        [
+          105.14400482177734,
+          497.0595703125
+        ],
+        [
+          105.14400482177734,
+          514.0923767089844
+        ],
+        [
+          64.0234375,
+          514.0923767089844
+        ]
+      ]
+    },
+    {
+      "title": "Technical data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          63.95068359375,
+          69.313720703125
+        ],
+        [
+          215.4780731201172,
+          69.313720703125
+        ],
+        [
+          215.4780731201172,
+          93.313720703125
+        ],
+        [
+          63.95068359375,
+          93.313720703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\a61-man-en-us_MAN"
+}

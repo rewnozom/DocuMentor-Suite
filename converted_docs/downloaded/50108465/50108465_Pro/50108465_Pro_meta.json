@@ -1,0 +1,289 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Montering av nyckel cylinder (tillval)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.55126953125,
+          490.892578125
+        ],
+        [
+          240.9609375,
+          490.892578125
+        ],
+        [
+          240.9609375,
+          503.3316345214844
+        ],
+        [
+          65.55126953125,
+          503.3316345214844
+        ]
+      ]
+    },
+    {
+      "title": "Montageinstruktion Portl\u00e5s typ \nSTEP 50",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.7323303222656,
+          47.8455810546875
+        ],
+        [
+          531.7603149414062,
+          47.8455810546875
+        ],
+        [
+          531.7603149414062,
+          82.2445068359375
+        ],
+        [
+          321.7323303222656,
+          82.2445068359375
+        ]
+      ]
+    },
+    {
+      "title": "Borrmall",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          375.119140625,
+          33.3531494140625
+        ],
+        [
+          492.689453125,
+          33.3531494140625
+        ],
+        [
+          492.689453125,
+          60.64208984375
+        ],
+        [
+          375.119140625,
+          60.64208984375
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska specifikationer",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          235.6977329974811,
+          565.71875
+        ],
+        [
+          366.3073047858942,
+          565.71875
+        ],
+        [
+          366.3073047858942,
+          579.697265625
+        ],
+        [
+          235.6977329974811,
+          579.697265625
+        ]
+      ]
+    },
+    {
+      "title": "l f\u00f6rpackning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          234.9471032745592,
+          631.9111328125
+        ],
+        [
+          307.7581863979849,
+          631.9111328125
+        ],
+        [
+          307.7581863979849,
+          645.0673828125
+        ],
+        [
+          234.9471032745592,
+          645.0673828125
+        ]
+      ]
+    },
+    {
+      "title": "Stendal El AB",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          224.8095703125,
+          754.83984375
+        ],
+        [
+          372.3123425692695,
+          754.83984375
+        ],
+        [
+          372.3123425692695,
+          772.9296875
+        ],
+        [
+          224.8095703125,
+          772.9296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50108465_Pro"
+}

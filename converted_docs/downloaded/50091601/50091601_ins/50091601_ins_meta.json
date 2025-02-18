@@ -1,0 +1,127 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Elmagnetl\u00e5s ME-serie",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.0,
+          31.509043927648577
+        ],
+        [
+          264.0,
+          31.509043927648577
+        ],
+        [
+          264.0,
+          58.95623779296875
+        ],
+        [
+          48.0,
+          58.95623779296875
+        ]
+      ]
+    },
+    {
+      "title": "Monteringsanvisning ME-serie",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.75,
+          31.73748779296875
+        ],
+        [
+          348.75,
+          31.73748779296875
+        ],
+        [
+          348.75,
+          58.42462158203125
+        ],
+        [
+          42.75,
+          58.42462158203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          91
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50091601_ins"
+}

@@ -1,0 +1,188 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Safe4 Security Group AS \u00a9 2020. All rights reserved. | Policy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          511.171875,
+          1960.394839906355
+        ],
+        [
+          928.125,
+          1960.394839906355
+        ],
+        [
+          928.125,
+          1976.5603117429184
+        ],
+        [
+          511.171875,
+          1976.5603117429184
+        ]
+      ]
+    },
+    {
+      "title": "Flood Alarm",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          135.0,
+          364.25
+        ],
+        [
+          382.5,
+          364.25
+        ],
+        [
+          382.5,
+          409.5194278792397
+        ],
+        [
+          135.0,
+          409.5194278792397
+        ]
+      ]
+    },
+    {
+      "title": "Key Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          160.927734375,
+          911.8823915553369
+        ],
+        [
+          279.489990234375,
+          911.8823915553369
+        ],
+        [
+          279.489990234375,
+          934.0
+        ],
+        [
+          160.927734375,
+          934.0
+        ]
+      ]
+    },
+    {
+      "title": "Additional Services",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          163.916015625,
+          1114.3146664181886
+        ],
+        [
+          332.1080017089844,
+          1114.3146664181886
+        ],
+        [
+          332.1080017089844,
+          1136.0
+        ],
+        [
+          163.916015625,
+          1136.0
+        ]
+      ]
+    },
+    {
+      "title": "Area of use",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          635.0,
+          1213.3990344297429
+        ],
+        [
+          722.1392211914062,
+          1213.3990344297429
+        ],
+        [
+          722.1392211914062,
+          1232.7325696515095
+        ],
+        [
+          635.0,
+          1232.7325696515095
+        ]
+      ]
+    },
+    {
+      "title": "Flood Alarm",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          542.8125,
+          138.08098735091318
+        ],
+        [
+          894.1021728515625,
+          138.08098735091318
+        ],
+        [
+          894.1021728515625,
+          206.0
+        ],
+        [
+          542.8125,
+          206.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50460128_pro"
+}

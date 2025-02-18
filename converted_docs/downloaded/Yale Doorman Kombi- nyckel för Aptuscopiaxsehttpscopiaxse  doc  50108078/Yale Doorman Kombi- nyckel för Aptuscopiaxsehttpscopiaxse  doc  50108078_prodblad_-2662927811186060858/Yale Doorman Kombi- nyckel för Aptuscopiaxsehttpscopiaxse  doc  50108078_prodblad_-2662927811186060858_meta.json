@@ -1,0 +1,287 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Yale Doorman Kombi-\nnyckel f\u00f6r Aptus",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          291.9684753417969,
+          142.354736328125
+        ],
+        [
+          524.41015625,
+          142.354736328125
+        ],
+        [
+          524.41015625,
+          203.819091796875
+        ],
+        [
+          291.9684753417969,
+          203.819091796875
+        ]
+      ]
+    },
+    {
+      "title": "Yale Doorman Kombi-\nnyckel f\u00f6r Aptus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          291.9684753417969,
+          142.560302734375
+        ],
+        [
+          524.41015625,
+          142.560302734375
+        ],
+        [
+          524.41015625,
+          204.024658203125
+        ],
+        [
+          291.9684753417969,
+          204.024658203125
+        ]
+      ]
+    },
+    {
+      "title": "www.aptus.se",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.4252014160156,
+          514.6535949707031
+        ],
+        [
+          523.1212158203125,
+          514.6535949707031
+        ],
+        [
+          523.1212158203125,
+          552.5625
+        ],
+        [
+          318.4252014160156,
+          552.5625
+        ]
+      ]
+    },
+    {
+      "title": "www.aptus.se",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          318.4252014160156,
+          514.6535949707031
+        ],
+        [
+          523.1212158203125,
+          514.6535949707031
+        ],
+        [
+          523.1212158203125,
+          552.5625
+        ],
+        [
+          318.4252014160156,
+          552.5625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TableCell",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TableCell",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Yale Doorman Kombi- nyckel f\u00f6r Aptuscopiaxsehttpscopiaxse  doc  50108078_prodblad_-2662927811186060858"
+}

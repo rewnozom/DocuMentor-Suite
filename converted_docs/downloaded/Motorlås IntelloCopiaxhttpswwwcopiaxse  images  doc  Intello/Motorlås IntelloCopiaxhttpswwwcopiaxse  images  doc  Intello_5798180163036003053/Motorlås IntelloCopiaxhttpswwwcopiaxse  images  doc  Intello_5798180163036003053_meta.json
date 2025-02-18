@@ -1,0 +1,189 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DORMA\nMotorl\u00e5s\nIntello",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          128.919921875,
+          160.13623046875
+        ],
+        [
+          475.810546875,
+          160.13623046875
+        ],
+        [
+          475.810546875,
+          806.642578125
+        ],
+        [
+          128.919921875,
+          806.642578125
+        ]
+      ]
+    },
+    {
+      "title": "DORMA Intello har f\u00f6ljande funktioner:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          43.65234375,
+          281.00927734375
+        ],
+        [
+          216.6611328125,
+          281.00927734375
+        ],
+        [
+          216.6611328125,
+          293.6142578125
+        ],
+        [
+          43.65234375,
+          293.6142578125
+        ]
+      ]
+    },
+    {
+      "title": "Ing\u00e5ngar:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.12451171875,
+          303.21044921875
+        ],
+        [
+          76.20445251464844,
+          303.21044921875
+        ],
+        [
+          76.20445251464844,
+          313.48876953125
+        ],
+        [
+          42.12451171875,
+          313.48876953125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.18017578125,
+          582.986328125
+        ],
+        [
+          104.54736328125,
+          582.986328125
+        ],
+        [
+          104.54736328125,
+          594.2003784179688
+        ],
+        [
+          45.18017578125,
+          594.2003784179688
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          3
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "PictureGroup",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Motorl\u00e5s IntelloCopiaxhttpswwwcopiaxse  images  doc  Intello_5798180163036003053"
+}

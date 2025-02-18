@@ -1,0 +1,505 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TILLG\u00c4NGLIGHET\nF\u00d6R ALLA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.29471032745592,
+          440.1193232413179
+        ],
+        [
+          205.166015625,
+          440.1193232413179
+        ],
+        [
+          205.166015625,
+          484.3561887800534
+        ],
+        [
+          53.29471032745592,
+          483.9033203125
+        ]
+      ]
+    },
+    {
+      "title": "GEZE TS 5000 ECline\nD\u00d6RRST\u00c4NGARE MED GLIDSKENA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          226.69017632241813,
+          517.3463935886019
+        ],
+        [
+          541.9546599496222,
+          517.3463935886019
+        ],
+        [
+          541.9546599496222,
+          563.6630859375
+        ],
+        [
+          226.69017632241813,
+          563.6630859375
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrTEknik\nGEZE TS 5000 EClinE D\u00d6RRST\u00c4nGARE MED GliDSKEnA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.7765998840332,
+          19.6829833984375
+        ],
+        [
+          452.3875732421875,
+          19.6829833984375
+        ],
+        [
+          452.3875732421875,
+          52.2652587890625
+        ],
+        [
+          56.7765998840332,
+          52.2652587890625
+        ]
+      ]
+    },
+    {
+      "title": "GEZE TS 5000 ECline",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.165283203125,
+          311.5594482421875
+        ],
+        [
+          134.8857421875,
+          311.5594482421875
+        ],
+        [
+          134.8857421875,
+          321.0947265625
+        ],
+        [
+          54.165283203125,
+          321.0947265625
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNINGSOMR\u00c5DE:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.65673828125,
+          400.443359375
+        ],
+        [
+          149.81361389160156,
+          400.443359375
+        ],
+        [
+          149.81361389160156,
+          409.48828125
+        ],
+        [
+          55.65673828125,
+          409.48828125
+        ]
+      ]
+    },
+    {
+      "title": "PRODUKTEGENSKAPER:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          55.693115234375,
+          470.7120056152344
+        ],
+        [
+          149.1455078125,
+          470.7120056152344
+        ],
+        [
+          149.1455078125,
+          480.203125
+        ],
+        [
+          55.693115234375,
+          480.203125
+        ]
+      ]
+    },
+    {
+      "title": "Momentkurva GEZE TS 5000 ECline",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          367.09100341796875,
+          534.0615234375
+        ],
+        [
+          494.14453125,
+          534.0615234375
+        ],
+        [
+          494.14453125,
+          543.1064453125
+        ],
+        [
+          367.09100341796875,
+          543.1064453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.52978515625,
+          714.1376953125
+        ],
+        [
+          88.0322265625,
+          714.1376953125
+        ],
+        [
+          88.0322265625,
+          721.5380859375
+        ],
+        [
+          56.52978515625,
+          721.5380859375
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrTEknik",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          483.0859375,
+          18.154083251953125
+        ],
+        [
+          541.2890625,
+          18.154083251953125
+        ],
+        [
+          541.2890625,
+          30.4752197265625
+        ],
+        [
+          483.0859375,
+          30.4752197265625
+        ]
+      ]
+    },
+    {
+      "title": "M\u00c5TT TS 5000 ECline",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.29296875,
+          75.03173828125
+        ],
+        [
+          134.0126953125,
+          75.03173828125
+        ],
+        [
+          134.0126953125,
+          85.001708984375
+        ],
+        [
+          55.29296875,
+          85.001708984375
+        ]
+      ]
+    },
+    {
+      "title": "montageplatta",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.22021484375,
+          253.8609619140625
+        ],
+        [
+          98.47290802001953,
+          253.8609619140625
+        ],
+        [
+          98.47290802001953,
+          266.8251953125
+        ],
+        [
+          55.22021484375,
+          266.8251953125
+        ]
+      ]
+    },
+    {
+      "title": "GEZE SCANDINAVIA",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.80224609375,
+          682.0693359375
+        ],
+        [
+          131.17529296875,
+          682.0693359375
+        ],
+        [
+          131.17529296875,
+          691.1142578125
+        ],
+        [
+          55.80224609375,
+          691.1142578125
+        ]
+      ]
+    },
+    {
+      "title": "GEZE Danmark",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.38671875,
+          678.7802734375
+        ],
+        [
+          358.9093017578125,
+          678.7802734375
+        ],
+        [
+          358.9093017578125,
+          689.1558837890625
+        ],
+        [
+          311.38671875,
+          689.1558837890625
+        ]
+      ]
+    },
+    {
+      "title": "GEZE Norge",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          454.857421875,
+          677.546875
+        ],
+        [
+          493.2532958984375,
+          677.546875
+        ],
+        [
+          493.2532958984375,
+          689.1348876953125
+        ],
+        [
+          454.857421875,
+          689.1348876953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          13
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50093884_pro"
+}

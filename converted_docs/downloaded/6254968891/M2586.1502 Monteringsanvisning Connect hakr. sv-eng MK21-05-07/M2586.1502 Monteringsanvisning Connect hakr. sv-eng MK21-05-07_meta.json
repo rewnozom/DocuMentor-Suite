@@ -1,0 +1,304 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Monteringsanvisning Connect 310, 311, 410, 411, 2002 50 dorn samt slutbleck 1487 och 1264",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.35430145263672,
+          19.2718505859375
+        ],
+        [
+          1031.899658203125,
+          19.2718505859375
+        ],
+        [
+          1031.899658203125,
+          80.3504638671875
+        ],
+        [
+          45.35430145263672,
+          80.3504638671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          477.24609375,
+          48.48797607421875
+        ],
+        [
+          900.87890625,
+          48.48797607421875
+        ],
+        [
+          900.87890625,
+          71.434326171875
+        ],
+        [
+          477.24609375,
+          71.434326171875
+        ]
+      ]
+    },
+    {
+      "title": "V\u00e4nda fall!",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.5220947265625,
+          422.2333984375
+        ],
+        [
+          84.1552734375,
+          422.2333984375
+        ],
+        [
+          84.1552734375,
+          433.22503662109375
+        ],
+        [
+          44.5220947265625,
+          433.22503662109375
+        ]
+      ]
+    },
+    {
+      "title": "Placering av l\u00e5shus i d\u00f6rrblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.71435546875,
+          467.869140625
+        ],
+        [
+          154.79736328125,
+          467.869140625
+        ],
+        [
+          154.79736328125,
+          479.380859375
+        ],
+        [
+          44.71435546875,
+          479.380859375
+        ]
+      ]
+    },
+    {
+      "title": "Urtagsinstruktion",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.2474365234375,
+          96.2564697265625
+        ],
+        [
+          108.41171264648438,
+          96.2564697265625
+        ],
+        [
+          108.41171264648438,
+          107.60675048828125
+        ],
+        [
+          44.2474365234375,
+          107.60675048828125
+        ]
+      ]
+    },
+    {
+      "title": "Installation Instruction Connect 310, 311, 410, 411, 2002 50 mm, backset striking plate 1264 and 1487",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.35430145263672,
+          20.53094482421875
+        ],
+        [
+          1098.27392578125,
+          20.53094482421875
+        ],
+        [
+          1098.27392578125,
+          80.3504638671875
+        ],
+        [
+          45.35430145263672,
+          80.3504638671875
+        ]
+      ]
+    },
+    {
+      "title": "Handing of latches and anti thrust bolt.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.000244140625,
+          415.03857421875
+        ],
+        [
+          184.44488525390625,
+          415.03857421875
+        ],
+        [
+          184.44488525390625,
+          426.3447265625
+        ],
+        [
+          44.000244140625,
+          426.3447265625
+        ]
+      ]
+    },
+    {
+      "title": "Placement of lock case in door blade",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.098876953125,
+          464.580078125
+        ],
+        [
+          178.1982421875,
+          464.580078125
+        ],
+        [
+          178.1982421875,
+          475.26953125
+        ],
+        [
+          45.098876953125,
+          475.26953125
+        ]
+      ]
+    },
+    {
+      "title": "Mortice instruction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.0714111328125,
+          96.4620361328125
+        ],
+        [
+          114.13030242919922,
+          96.4620361328125
+        ],
+        [
+          114.13030242919922,
+          107.92236328125
+        ],
+        [
+          45.0714111328125,
+          107.92236328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\M2586.1502 Monteringsanvisning Connect hakr. sv-eng MK21-05-07"
+}

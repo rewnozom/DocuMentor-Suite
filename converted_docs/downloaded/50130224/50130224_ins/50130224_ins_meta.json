@@ -1,0 +1,526 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GB-5000-IN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.720001220703125,
+          85.515625
+        ],
+        [
+          109.4009017944336,
+          85.515625
+        ],
+        [
+          109.4009017944336,
+          102.10430908203125
+        ],
+        [
+          33.720001220703125,
+          102.10430908203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.048095703125,
+          367.9638671875
+        ],
+        [
+          75.08203125,
+          367.9638671875
+        ],
+        [
+          75.08203125,
+          378.2421875
+        ],
+        [
+          32.048095703125,
+          378.2421875
+        ]
+      ]
+    },
+    {
+      "title": "Deutsch Installationsanleitung",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.20000076293945,
+          368.3658752441406
+        ],
+        [
+          572.427734375,
+          368.3658752441406
+        ],
+        [
+          572.427734375,
+          385.2314453125
+        ],
+        [
+          34.20000076293945,
+          385.2314453125
+        ]
+      ]
+    },
+    {
+      "title": "LED f\u00fcr Zustandsanzeige",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          393.453125,
+          500.3486328125
+        ],
+        [
+          474.9375,
+          500.3486328125
+        ],
+        [
+          474.9375,
+          507.7490234375
+        ],
+        [
+          393.453125,
+          507.7490234375
+        ]
+      ]
+    },
+    {
+      "title": "English Installation Instruction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.3572998046875,
+          556.673828125
+        ],
+        [
+          571.31005859375,
+          556.673828125
+        ],
+        [
+          571.31005859375,
+          568.185546875
+        ],
+        [
+          32.3572998046875,
+          568.185546875
+        ]
+      ]
+    },
+    {
+      "title": "The GB-5000-IN relay interface is required as a connecting link between a \nglass break-detector and the monitoring panel. The internal electronics are \nprotected by a plastic enclosure. The enclosure allows the connection wires to \naccess via the top, bottom or the rear of the enclosure.\nThe housing-cover is monitored against unauthorized opening by a tamper-",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          211.27734375,
+          568.5966796875
+        ],
+        [
+          387.2456970214844,
+          568.5966796875
+        ],
+        [
+          387.2456970214844,
+          601.4873046875
+        ],
+        [
+          211.27734375,
+          601.4873046875
+        ]
+      ]
+    },
+    {
+      "title": "be applied.\nEC Declaration of Conformity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          212.57000732421875,
+          691.2492370605469
+        ],
+        [
+          296.239990234375,
+          691.2492370605469
+        ],
+        [
+          296.239990234375,
+          703.0700531005859
+        ],
+        [
+          212.57000732421875,
+          703.0700531005859
+        ]
+      ]
+    },
+    {
+      "title": "Technical data\nVoltage 10 \u2013 15 V DC\nNominal voltage 12 V DC\nEnd-of-line resistor 2.2 k\u03a9\nOperating current Ca. 5 mA\nCurrent in alarm Max. 13.5 mA\nResponse level About +/- 38% (End-of-line \nresistor)\nResponse delay Max. 100 ms\nOutput Electronic relay\nSwitching performance Max. 300 mW, max. 24 V DC, \nmax 200 mA\nContact resistance Ca. 5 \u03a9\nTamper Tamper switch\nDimensions 85 x 85 x 26 mm\nHousing material S-B, A-B-S\nOperating temperature -30 \u00b0C to 60 \u00b0C\nEnvironmental class VdS II\nApprovals VdS Klasse B, G116503\nLed indication\nAlarm \u2013 reset via panel or manual switch.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          393.9100036621094,
+          570.5900268554688
+        ],
+        [
+          573.009765625,
+          570.5900268554688
+        ],
+        [
+          573.009765625,
+          704.681640625
+        ],
+        [
+          393.9100036621094,
+          704.681640625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.7392578125,
+          41.2674560546875
+        ],
+        [
+          74.6455078125,
+          41.2674560546875
+        ],
+        [
+          74.6455078125,
+          50.672119140625
+        ],
+        [
+          32.7392578125,
+          50.672119140625
+        ]
+      ]
+    },
+    {
+      "title": "Fran\u00e7ais Instructions d'installation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.31999969482422,
+          40.95587158203125
+        ],
+        [
+          570.8137817382812,
+          40.95587158203125
+        ],
+        [
+          570.8137817382812,
+          56.67584228515625
+        ],
+        [
+          34.31999969482422,
+          56.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.1204833984375,
+          182.54296875
+        ],
+        [
+          66.2060546875,
+          182.54296875
+        ],
+        [
+          66.2060546875,
+          189.87005615234375
+        ],
+        [
+          31.1204833984375,
+          189.87005615234375
+        ]
+      ]
+    },
+    {
+      "title": "D\u00e9claration de conformit\u00e9 CE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          212.57000732421875,
+          184.71002197265625
+        ],
+        [
+          296.6600036621094,
+          184.71002197265625
+        ],
+        [
+          296.6600036621094,
+          191.896240234375
+        ],
+        [
+          212.57000732421875,
+          191.896240234375
+        ]
+      ]
+    },
+    {
+      "title": "Dichiarazione di conformit\u00e0 CE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          212.57000732421875,
+          394.07080078125
+        ],
+        [
+          304.693359375,
+          394.07080078125
+        ],
+        [
+          304.693359375,
+          401.47119140625
+        ],
+        [
+          212.57000732421875,
+          401.47119140625
+        ]
+      ]
+    },
+    {
+      "title": "Por la presente, Vanderbilt International (IRL) Ltd declara que este tipo de",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          213.17001342773438,
+          582.1640625
+        ],
+        [
+          378.37188720703125,
+          582.1640625
+        ],
+        [
+          378.37188720703125,
+          591.1292266845703
+        ],
+        [
+          213.17001342773438,
+          591.1292266845703
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          439.142578125,
+          244.6240234375
+        ],
+        [
+          569.517578125,
+          244.6240234375
+        ],
+        [
+          569.517578125,
+          255.3134765625
+        ],
+        [
+          439.142578125,
+          255.3134765625
+        ]
+      ]
+    },
+    {
+      "title": "LED per l'indicazione di stato",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          393.744140625,
+          388.2600402832031
+        ],
+        [
+          480.466796875,
+          388.2600402832031
+        ],
+        [
+          480.466796875,
+          395.9208984375
+        ],
+        [
+          393.744140625,
+          395.9208984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          431.8671875,
+          439.912109375
+        ],
+        [
+          570.390625,
+          439.912109375
+        ],
+        [
+          570.390625,
+          449.779296875
+        ],
+        [
+          431.8671875,
+          449.779296875
+        ]
+      ]
+    },
+    {
+      "title": "LED para indicaci\u00f3n del estado",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          393.9100036621094,
+          572.6300354003906
+        ],
+        [
+          493.271484375,
+          572.6300354003906
+        ],
+        [
+          493.271484375,
+          580.1083984375
+        ],
+        [
+          393.9100036621094,
+          580.1083984375
+        ]
+      ]
+    },
+    {
+      "title": "Svenska Installationsanvisning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.31999969482422,
+          624.099609375
+        ],
+        [
+          570.2298583984375,
+          624.099609375
+        ],
+        [
+          570.2298583984375,
+          634.9358825683594
+        ],
+        [
+          34.31999969482422,
+          634.9358825683594
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          547
+        ],
+        [
+          "Line",
+          175
+        ],
+        [
+          "TableCell",
+          137
+        ],
+        [
+          "Text",
+          28
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          958
+        ],
+        [
+          "Line",
+          310
+        ],
+        [
+          "TableCell",
+          193
+        ],
+        [
+          "Text",
+          57
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50130224_ins"
+}

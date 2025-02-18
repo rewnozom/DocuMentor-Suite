@@ -1,0 +1,146 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TR\u00c5DL\u00d6S\nBRANDVARNARE \nMSA-866/RF2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.3583984375,
+          51.3402099609375
+        ],
+        [
+          286.8807373046875,
+          51.3402099609375
+        ],
+        [
+          286.8807373046875,
+          152.856689453125
+        ],
+        [
+          35.3583984375,
+          152.856689453125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.684326171875,
+          607.2431640625
+        ],
+        [
+          97.1500015258789,
+          607.2431640625
+        ],
+        [
+          97.1500015258789,
+          619.0186157226562
+        ],
+        [
+          31.684326171875,
+          619.0186157226562
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          471.4453125,
+          23.04913330078125
+        ],
+        [
+          568.64453125,
+          23.04913330078125
+        ],
+        [
+          568.64453125,
+          111.828125
+        ],
+        [
+          471.4453125,
+          111.828125
+        ]
+      ]
+    },
+    {
+      "title": "LARMAR EN S\u00c5 \nLARMAR ALLA!",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          463.296875,
+          476.091796875
+        ],
+        [
+          543.7753295898438,
+          476.091796875
+        ],
+        [
+          543.7753295898438,
+          499.9375
+        ],
+        [
+          463.296875,
+          499.9375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50154973_pro"
+}

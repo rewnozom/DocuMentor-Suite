@@ -1,0 +1,216 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GP USB-kabel CC1A, USB-C till USB-A, 1m",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.15380859375,
+          103.39990234375
+        ],
+        [
+          390.17822265625,
+          103.39990234375
+        ],
+        [
+          390.17822265625,
+          124.77880859375
+        ],
+        [
+          35.15380859375,
+          124.77880859375
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFORMATION:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          315.5,
+          366.11376953125
+        ],
+        [
+          435.50048828125,
+          366.11376953125
+        ],
+        [
+          435.50048828125,
+          380.91455078125
+        ],
+        [
+          315.5,
+          380.91455078125
+        ]
+      ]
+    },
+    {
+      "title": "GP USB-kabel CC1A, USB-C till USB-A, 1m",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.4443359375,
+          45.6357421875
+        ],
+        [
+          391.34033203125,
+          45.6357421875
+        ],
+        [
+          391.34033203125,
+          69.995361328125
+        ],
+        [
+          35.4443359375,
+          69.995361328125
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.19012451171875,
+          94.9716796875
+        ],
+        [
+          169.232177734375,
+          94.9716796875
+        ],
+        [
+          169.232177734375,
+          111.21142578125
+        ],
+        [
+          35.19012451171875,
+          111.21142578125
+        ]
+      ]
+    },
+    {
+      "title": "Packaging information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.98907470703125,
+          290.259765625
+        ],
+        [
+          167.05322265625,
+          290.259765625
+        ],
+        [
+          167.05322265625,
+          305.8828125
+        ],
+        [
+          35.98907470703125,
+          305.8828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\GP USB-kabel CC1A USB-C till USB-A 1m_2713575337103309292"
+}

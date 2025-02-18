@@ -1,0 +1,127 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Elslutbleck serie 200",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          443.5078125,
+          7.2012481689453125
+        ],
+        [
+          581.44921875,
+          7.2012481689453125
+        ],
+        [
+          581.44921875,
+          24.69366455078125
+        ],
+        [
+          443.5078125,
+          24.69366455078125
+        ]
+      ]
+    },
+    {
+      "title": "Elslutbleck 200-serien.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.039794921875,
+          23.64013671875
+        ],
+        [
+          152.35279846191406,
+          23.64013671875
+        ],
+        [
+          152.35279846191406,
+          34.432373046875
+        ],
+        [
+          59.039794921875,
+          34.432373046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          486.578125,
+          386.8759765625
+        ],
+        [
+          583.77734375,
+          386.8759765625
+        ],
+        [
+          583.77734375,
+          414.8330078125
+        ],
+        [
+          486.578125,
+          414.8330078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\10009258_Pro"
+}

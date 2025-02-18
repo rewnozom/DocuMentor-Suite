@@ -1,0 +1,342 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DD1012AM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.046630859375,
+          143.382568359375
+        ],
+        [
+          137.5048828125,
+          143.382568359375
+        ],
+        [
+          137.5048828125,
+          167.433837890625
+        ],
+        [
+          28.046630859375,
+          167.433837890625
+        ]
+      ]
+    },
+    {
+      "title": "Patenterad mikrov\u00e5g \"Range Gated Radar\"-teknologi",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.228515625,
+          217.28369140625
+        ],
+        [
+          264.3876953125,
+          217.28369140625
+        ],
+        [
+          264.3876953125,
+          229.61767578125
+        ],
+        [
+          28.228515625,
+          229.61767578125
+        ]
+      ]
+    },
+    {
+      "title": "Passiv IR teknik i kombination med patenterade\n\nspegeloptik",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.71923828125,
+          374.74755859375
+        ],
+        [
+          241.251953125,
+          374.74755859375
+        ],
+        [
+          241.251953125,
+          398.18212890625
+        ],
+        [
+          27.71923828125,
+          398.18212890625
+        ]
+      ]
+    },
+    {
+      "title": "Detekteringsteknikerna arbetar tillsammans",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.0830078125,
+          480.203125
+        ],
+        [
+          221.462890625,
+          480.203125
+        ],
+        [
+          221.462890625,
+          490.892578125
+        ],
+        [
+          28.0830078125,
+          490.892578125
+        ]
+      ]
+    },
+    {
+      "title": "Enkel och flexibel installation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.71923828125,
+          606.4208984375
+        ],
+        [
+          157.1484375,
+          606.4208984375
+        ],
+        [
+          157.1484375,
+          617.1103515625
+        ],
+        [
+          27.71923828125,
+          617.1103515625
+        ]
+      ]
+    },
+    {
+      "title": "Antimaskskydd (IR och mikrov\u00e5g)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.646484375,
+          731.4052734375
+        ],
+        [
+          177.3740234375,
+          731.4052734375
+        ],
+        [
+          177.3740234375,
+          742.9169921875
+        ],
+        [
+          27.646484375,
+          742.9169921875
+        ]
+      ]
+    },
+    {
+      "title": "Standardprestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.38671875,
+          389.3427734375
+        ],
+        [
+          398.109375,
+          389.3427734375
+        ],
+        [
+          398.109375,
+          401.01898193359375
+        ],
+        [
+          311.38671875,
+          401.01898193359375
+        ]
+      ]
+    },
+    {
+      "title": "DD1012AM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.30126953125,
+          29.5501708984375
+        ],
+        [
+          136.55908203125,
+          29.5501708984375
+        ],
+        [
+          136.55908203125,
+          53.961181640625
+        ],
+        [
+          28.30126953125,
+          53.961181640625
+        ]
+      ]
+    },
+    {
+      "title": "Kombidetektor 12 m Passiv IR/MW, antimask",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.86474609375,
+          56.3765869140625
+        ],
+        [
+          249.400390625,
+          54.7320556640625
+        ],
+        [
+          249.400390625,
+          67.50750732421875
+        ],
+        [
+          27.86474609375,
+          68.9161376953125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.1739501953125,
+          115.5283203125
+        ],
+        [
+          92.90673828125,
+          113.8837890625
+        ],
+        [
+          92.90673828125,
+          125.79400634765625
+        ],
+        [
+          28.1739501953125,
+          127.24560546875
+        ]
+      ]
+    },
+    {
+      "title": "Order data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.291015625,
+          83.4085693359375
+        ],
+        [
+          360.27734375,
+          83.4085693359375
+        ],
+        [
+          360.27734375,
+          94.7147216796875
+        ],
+        [
+          312.291015625,
+          94.7147216796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          131
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          78
+        ],
+        [
+          "Span",
+          78
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50115242_pro"
+}

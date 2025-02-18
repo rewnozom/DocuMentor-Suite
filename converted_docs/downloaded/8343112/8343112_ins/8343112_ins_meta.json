@@ -1,0 +1,81 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Mounting instruction for Cable transfers:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.093994140625,
+          107.09375
+        ],
+        [
+          321.9187316894531,
+          107.09375
+        ],
+        [
+          321.9187316894531,
+          121.84716796875
+        ],
+        [
+          44.093994140625,
+          121.84716796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\8343112_ins"
+}

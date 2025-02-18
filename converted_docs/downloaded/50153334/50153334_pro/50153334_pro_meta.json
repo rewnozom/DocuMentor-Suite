@@ -1,0 +1,216 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GP USB-kabel CL1B, USB-A till Apple Lightning (MFi), 1m",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.4443359375,
+          103.9652099609375
+        ],
+        [
+          503.7744140625,
+          103.9652099609375
+        ],
+        [
+          503.7744140625,
+          125.3955078125
+        ],
+        [
+          35.4443359375,
+          125.3955078125
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFORMATION:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          314.931640625,
+          332.81201171875
+        ],
+        [
+          436.953125,
+          332.81201171875
+        ],
+        [
+          436.953125,
+          344.03271484375
+        ],
+        [
+          314.931640625,
+          344.03271484375
+        ]
+      ]
+    },
+    {
+      "title": "GP USB-kabel CL1B, USB-A till Apple Lightning (MFi), 1m",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.589599609375,
+          45.7899169921875
+        ],
+        [
+          504.9365234375,
+          45.7899169921875
+        ],
+        [
+          504.9365234375,
+          70.4578857421875
+        ],
+        [
+          35.589599609375,
+          70.4578857421875
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.3717041015625,
+          95.17724609375
+        ],
+        [
+          169.0869140625,
+          95.17724609375
+        ],
+        [
+          169.0869140625,
+          111.108642578125
+        ],
+        [
+          35.3717041015625,
+          111.108642578125
+        ]
+      ]
+    },
+    {
+      "title": "Packaging information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.880126953125,
+          290.259765625
+        ],
+        [
+          166.907958984375,
+          290.259765625
+        ],
+        [
+          166.907958984375,
+          305.8828125
+        ],
+        [
+          35.880126953125,
+          305.8828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50153334_pro"
+}

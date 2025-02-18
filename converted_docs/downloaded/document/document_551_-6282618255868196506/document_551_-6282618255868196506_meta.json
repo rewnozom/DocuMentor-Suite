@@ -1,0 +1,269 @@
+{
+  "table_of_contents": [
+    {
+      "title": "M O TO R L \u00c5 S",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.10205078125,
+          325.41162109375
+        ],
+        [
+          149.291015625,
+          325.41162109375
+        ],
+        [
+          149.291015625,
+          382.55908203125
+        ],
+        [
+          80.10205078125,
+          382.55908203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.43310546875,
+          438.267578125
+        ],
+        [
+          157.73046875,
+          438.267578125
+        ],
+        [
+          157.73046875,
+          656.16796875
+        ],
+        [
+          90.43310546875,
+          656.16796875
+        ]
+      ]
+    },
+    {
+      "title": "6300 V\u00e5rt snabbaste och mest \navancerade motorl\u00e5s",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          77.69129180908203,
+          325.82275390625
+        ],
+        [
+          513.2195434570312,
+          325.82275390625
+        ],
+        [
+          513.2195434570312,
+          395.02911376953125
+        ],
+        [
+          77.69129180908203,
+          395.02911376953125
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e5nga kabell\u00e4ngder",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.63671875,
+          552.1513671875
+        ],
+        [
+          283.44921875,
+          552.1513671875
+        ],
+        [
+          283.44921875,
+          564.96240234375
+        ],
+        [
+          199.63671875,
+          564.96240234375
+        ]
+      ]
+    },
+    {
+      "title": "TwoCom och seriekoppling",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.7822265625,
+          624.5107421875
+        ],
+        [
+          313.1328125,
+          624.5107421875
+        ],
+        [
+          313.1328125,
+          636.9624481201172
+        ],
+        [
+          199.7822265625,
+          636.9624481201172
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          243.77951049804688,
+          326.439453125
+        ],
+        [
+          308.767578125,
+          326.439453125
+        ],
+        [
+          308.767578125,
+          339.5094299316406
+        ],
+        [
+          243.77951049804688,
+          339.5094299316406
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          242.416015625,
+          473.063720703125
+        ],
+        [
+          315.4609375,
+          473.063720703125
+        ],
+        [
+          315.4609375,
+          495.5094299316406
+        ],
+        [
+          242.416015625,
+          495.5094299316406
+        ]
+      ]
+    },
+    {
+      "title": "R\u00e4tt till \u00e4ndringar av katalogens inneh\u00e5ll och sortiment f\u00f6rbeh\u00e5lls. Vi reserverar oss f\u00f6r eventuella tryckfel.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          563.697265625,
+          526.6611328125
+        ],
+        [
+          572.427734375,
+          526.6611328125
+        ],
+        [
+          572.427734375,
+          805.4360008239746
+        ],
+        [
+          563.697265625,
+          805.4360008239746
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\document_551_-6282618255868196506"
+}

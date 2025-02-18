@@ -1,0 +1,258 @@
+{
+  "table_of_contents": [
+    {
+      "title": "E100 SCAND\nStandard d\u00f6rrbladsl\u00e4sare Skandinavisk profil",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          227.1376953125,
+          16.98492431640625
+        ],
+        [
+          372.4284973144531,
+          16.98492431640625
+        ],
+        [
+          372.4284973144531,
+          48.471923828125
+        ],
+        [
+          227.1376953125,
+          48.471923828125
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          231.6484375,
+          89.9866943359375
+        ],
+        [
+          307.55548095703125,
+          89.9866943359375
+        ],
+        [
+          307.55548095703125,
+          101.0120849609375
+        ],
+        [
+          231.6484375,
+          101.0120849609375
+        ]
+      ]
+    },
+    {
+      "title": "Leveransomfattning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          232.4409942626953,
+          178.123291015625
+        ],
+        [
+          309.05859375,
+          178.123291015625
+        ],
+        [
+          309.05859375,
+          187.579345703125
+        ],
+        [
+          232.4409942626953,
+          187.579345703125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data - Standard d\u00f6rrbladsl\u00e4sare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          231.939453125,
+          217.28369140625
+        ],
+        [
+          387.923828125,
+          217.28369140625
+        ],
+        [
+          387.923828125,
+          227.13006591796875
+        ],
+        [
+          231.939453125,
+          227.13006591796875
+        ]
+      ]
+    },
+    {
+      "title": "Sidan 1 av 2\nSenaste uppdatering: 08.05.2017\nOnline-d\u00f6rrbladsl\u00e4sare E100\nProduktark",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          458.5619812011719,
+          787.3193359375
+        ],
+        [
+          569.7645263671875,
+          787.3193359375
+        ],
+        [
+          569.7645263671875,
+          827.7698822021484
+        ],
+        [
+          458.5619812011719,
+          827.7698822021484
+        ]
+      ]
+    },
+    {
+      "title": "E100 SCAND\nStandard d\u00f6rrbladsl\u00e4sare Skandinavisk profil",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          226.41015625,
+          18.745086669921875
+        ],
+        [
+          372.4284973144531,
+          18.745086669921875
+        ],
+        [
+          372.4284973144531,
+          48.471923828125
+        ],
+        [
+          226.41015625,
+          48.471923828125
+        ]
+      ]
+    },
+    {
+      "title": "Sidan 2 av 2\nSenaste uppdatering: 08.05.2017\nOnline-d\u00f6rrbladsl\u00e4sare E100\nProduktark",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          458.5619812011719,
+          786.4970703125
+        ],
+        [
+          569.7645263671875,
+          786.4970703125
+        ],
+        [
+          569.7645263671875,
+          827.7698822021484
+        ],
+        [
+          458.5619812011719,
+          827.7698822021484
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50109448_pro"
+}

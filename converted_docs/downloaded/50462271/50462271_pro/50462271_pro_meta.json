@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Brandlarmsklocka 12V 6 \ntum R\u00f6d",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          245.03515625,
+          98.87744140625
+        ],
+        [
+          529.8173217773438,
+          98.87744140625
+        ],
+        [
+          529.8173217773438,
+          155.5308837890625
+        ],
+        [
+          245.03515625,
+          155.5308837890625
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.072265625,
+          357.89111328125
+        ],
+        [
+          335.25,
+          357.89111328125
+        ],
+        [
+          335.25,
+          371.45849609375
+        ],
+        [
+          247.072265625,
+          371.45849609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50462271_pro"
+}

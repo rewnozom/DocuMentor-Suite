@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GEZE TS 4000",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          420.352644836272,
+          8.24769101595298
+        ],
+        [
+          586.10546875,
+          8.24769101595298
+        ],
+        [
+          586.10546875,
+          35.31115937893577
+        ],
+        [
+          420.352644836272,
+          35.31115937893577
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          165
+        ],
+        [
+          "Span",
+          165
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\GEZE TS 4000 MontageanleitungCopiaxhttpswwwcopiaxse  images  doc  5009294_7454515296048332349"
+}

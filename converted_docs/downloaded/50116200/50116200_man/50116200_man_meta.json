@@ -1,0 +1,235 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Datablad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.18359375,
+          128.2734375
+        ],
+        [
+          185.9452667236328,
+          128.2734375
+        ],
+        [
+          185.9452667236328,
+          147.89019775390625
+        ],
+        [
+          104.18359375,
+          147.89019775390625
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e4sare VAKA A63",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.765625,
+          207.00537109375
+        ],
+        [
+          258.593994140625,
+          207.00537109375
+        ],
+        [
+          258.593994140625,
+          229.20654296875
+        ],
+        [
+          104.765625,
+          229.20654296875
+        ]
+      ]
+    },
+    {
+      "title": "Funktionalitet och anv\u00e4ndningsomr\u00e5den",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.8779296875,
+          82.0723876953125
+        ],
+        [
+          365.7115478515625,
+          82.0723876953125
+        ],
+        [
+          365.7115478515625,
+          99.28564453125
+        ],
+        [
+          63.8779296875,
+          99.28564453125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk Data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.623291015625,
+          82.0723876953125
+        ],
+        [
+          166.18890380859375,
+          82.0723876953125
+        ],
+        [
+          166.18890380859375,
+          99.7510986328125
+        ],
+        [
+          63.623291015625,
+          99.7510986328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116200_man"
+}

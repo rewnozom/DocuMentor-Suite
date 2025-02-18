@@ -1,0 +1,115 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Kabelkanal CatMax",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.59099578857422,
+          28.811279296875
+        ],
+        [
+          517.36474609375,
+          28.811279296875
+        ],
+        [
+          517.36474609375,
+          77.0028076171875
+        ],
+        [
+          85.59099578857422,
+          77.0028076171875
+        ]
+      ]
+    },
+    {
+      "title": "17 x 20 mm dubbelh\u00e4ftande tejp 2,1m halogenfri",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.60469818115234,
+          83.37652587890625
+        ],
+        [
+          530.5703125,
+          83.37652587890625
+        ],
+        [
+          530.5703125,
+          105.86590576171875
+        ],
+        [
+          86.60469818115234,
+          105.86590576171875
+        ]
+      ]
+    },
+    {
+      "title": "Produktinformation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          326.32421875,
+          229.6611328125
+        ],
+        [
+          459.55371093749994,
+          229.6611328125
+        ],
+        [
+          459.55371093749994,
+          245.82861328125
+        ],
+        [
+          326.32421875,
+          245.82861328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Kabelkanal CatMaxcopiaxsehttpswwwcopiaxse  doc  50140683_pro_-4926820684973341624"
+}

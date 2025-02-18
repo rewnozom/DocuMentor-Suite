@@ -1,0 +1,304 @@
+{
+  "table_of_contents": [
+    {
+      "title": "BRANDSENSORREL\u00c4",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          239.3603515625,
+          274.43115234375
+        ],
+        [
+          554.67578125,
+          274.43115234375
+        ],
+        [
+          554.67578125,
+          308.14404296875
+        ],
+        [
+          239.3603515625,
+          308.14404296875
+        ]
+      ]
+    },
+    {
+      "title": "BRANDSENSOR REL\u00c4 FS1.1 - VERSION 5\nInkopplingsanvisning f\u00f6r sensorer mot ED 100/250",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.976402282714844,
+          66.39794921875
+        ],
+        [
+          525.3743896484375,
+          66.39794921875
+        ],
+        [
+          525.3743896484375,
+          115.474609375
+        ],
+        [
+          38.976402282714844,
+          115.474609375
+        ]
+      ]
+    },
+    {
+      "title": "BRANDSENSOR REL\u00c4 FS1.1 - VERSION 5\nInkopplingsanvisning f\u00f6r sensorer mot ED 100/250",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.705078125,
+          66.80908203125
+        ],
+        [
+          526.73828125,
+          66.80908203125
+        ],
+        [
+          526.73828125,
+          115.474609375
+        ],
+        [
+          38.705078125,
+          115.474609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.832763671875,
+          769.640625
+        ],
+        [
+          179.9931640625,
+          769.640625
+        ],
+        [
+          179.9931640625,
+          791.841796875
+        ],
+        [
+          39.832763671875,
+          791.841796875
+        ]
+      ]
+    },
+    {
+      "title": "BRANDSENSOR REL\u00c4 FS1.1 - VERSION 5\nInkopplingsanvisning f\u00f6r sensorer mot ED 100/250",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.705078125,
+          67.322998046875
+        ],
+        [
+          525.865234375,
+          67.322998046875
+        ],
+        [
+          525.865234375,
+          115.474609375
+        ],
+        [
+          38.705078125,
+          115.474609375
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Sverige AB",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          423.71875,
+          428.400390625
+        ],
+        [
+          525.7520141601562,
+          428.400390625
+        ],
+        [
+          525.7520141601562,
+          437.98980712890625
+        ],
+        [
+          423.71875,
+          437.98980712890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\BRANDSENSORREL\u00c4Copiaxhttpswwwcopiaxse  doc  50155201_ins_-8220036991941175942"
+}

@@ -1,0 +1,1605 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Manual ASSA ABLOY \nEltryckesl\u00e5s",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          26.826200485229492,
+          25.10479736328125
+        ],
+        [
+          328.3729553222656,
+          25.10479736328125
+        ],
+        [
+          328.3729553222656,
+          105.969482421875
+        ],
+        [
+          26.826200485229492,
+          105.969482421875
+        ]
+      ]
+    },
+    {
+      "title": "813C-50, 815C-50, 820C-50, 825C-50, 835C-50",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.2099609375,
+          134.132080078125
+        ],
+        [
+          335.83203125,
+          134.132080078125
+        ],
+        [
+          335.83203125,
+          152.936279296875
+        ],
+        [
+          27.2099609375,
+          152.936279296875
+        ]
+      ]
+    },
+    {
+      "title": "Inneh\u00e5ll",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          136.99560546875,
+          661.923828125
+        ],
+        [
+          203.59890747070312,
+          661.923828125
+        ],
+        [
+          203.59890747070312,
+          684.125
+        ],
+        [
+          136.99560546875,
+          684.125
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          138.3310089111328,
+          691.1142578125
+        ],
+        [
+          181.302734375,
+          691.1142578125
+        ],
+        [
+          181.302734375,
+          703.4482421875
+        ],
+        [
+          138.3310089111328,
+          703.4482421875
+        ]
+      ]
+    },
+    {
+      "title": "Installation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          136.6318359375,
+          157.875
+        ],
+        [
+          224.4367218017578,
+          157.875
+        ],
+        [
+          224.4367218017578,
+          178.84869384765625
+        ],
+        [
+          136.6318359375,
+          178.84869384765625
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          136.77734375,
+          586.275390625
+        ],
+        [
+          220.2198486328125,
+          586.275390625
+        ],
+        [
+          220.2198486328125,
+          607.654296875
+        ],
+        [
+          136.77734375,
+          607.654296875
+        ]
+      ]
+    },
+    {
+      "title": "V\u00e4nda fall 813C-50, 815C-50, 820C-50, 825C-50, 835C-50",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          135.904296875,
+          159.005615234375
+        ],
+        [
+          563.115234375,
+          159.005615234375
+        ],
+        [
+          563.115234375,
+          178.84869384765625
+        ],
+        [
+          135.904296875,
+          178.84869384765625
+        ]
+      ]
+    },
+    {
+      "title": "Inst\u00e4llning r\u00e4ttv\u00e4nd/omv\u00e4nd funktion 813C-50, 815C-50, \n820C-50, 825C-50, 835C-50",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          137.650390625,
+          157.66943359375
+        ],
+        [
+          569.1795043945312,
+          157.66943359375
+        ],
+        [
+          569.1795043945312,
+          202.84320068359375
+        ],
+        [
+          137.650390625,
+          202.84320068359375
+        ]
+      ]
+    },
+    {
+      "title": "Inst\u00e4llning tryckesfunktion 813C-50, 815C-50, 820C-50, \n825C-50, 835C-50",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          136.1953125,
+          156.127685546875
+        ],
+        [
+          557.6986694335938,
+          156.127685546875
+        ],
+        [
+          557.6986694335938,
+          202.84320068359375
+        ],
+        [
+          136.1953125,
+          202.84320068359375
+        ]
+      ]
+    },
+    {
+      "title": "Fixed Spindle",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.75390625,
+          557.9072265625
+        ],
+        [
+          122.96752166748047,
+          557.9072265625
+        ],
+        [
+          122.96752166748047,
+          567.3063354492188
+        ],
+        [
+          72.75390625,
+          567.3063354492188
+        ]
+      ]
+    },
+    {
+      "title": "Split Spindle l\u00e5st utsida",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          243.87109375,
+          556.673828125
+        ],
+        [
+          331.4395446777344,
+          556.673828125
+        ],
+        [
+          331.4395446777344,
+          567.290771484375
+        ],
+        [
+          243.87109375,
+          567.290771484375
+        ]
+      ]
+    },
+    {
+      "title": "Split Spindle l\u00e5st insida",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          416.15234375,
+          557.49609375
+        ],
+        [
+          501.1835021972656,
+          557.49609375
+        ],
+        [
+          501.1835021972656,
+          567.36328125
+        ],
+        [
+          416.15234375,
+          567.36328125
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrl\u00e4gesgivaren",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          136.1953125,
+          158.800048828125
+        ],
+        [
+          269.4566955566406,
+          158.800048828125
+        ],
+        [
+          269.4566955566406,
+          180.178955078125
+        ],
+        [
+          136.1953125,
+          180.178955078125
+        ]
+      ]
+    },
+    {
+      "title": "Initiering utav l\u00e5shus och I/O Box",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          136.26806640625,
+          158.800048828125
+        ],
+        [
+          388.505859375,
+          158.800048828125
+        ],
+        [
+          388.505859375,
+          178.84869384765625
+        ],
+        [
+          136.26806640625,
+          178.84869384765625
+        ]
+      ]
+    },
+    {
+      "title": "Initiering utav l\u00e5shus och DAC564/DAC530",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          137.650390625,
+          271.7587890625
+        ],
+        [
+          467.080078125,
+          271.7587890625
+        ],
+        [
+          467.080078125,
+          291.4931640625
+        ],
+        [
+          137.650390625,
+          291.4931640625
+        ]
+      ]
+    },
+    {
+      "title": "Fabriks\u00e5terst\u00e4llning",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          136.6318359375,
+          159.005615234375
+        ],
+        [
+          288.0116882324219,
+          159.005615234375
+        ],
+        [
+          288.0116882324219,
+          178.945556640625
+        ],
+        [
+          136.6318359375,
+          178.945556640625
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rklaring till lysdiod",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          135.7587890625,
+          276.89794921875
+        ],
+        [
+          215.14678955078125,
+          276.89794921875
+        ],
+        [
+          215.14678955078125,
+          286.03363037109375
+        ],
+        [
+          135.7587890625,
+          286.03363037109375
+        ]
+      ]
+    },
+    {
+      "title": "Villkor f\u00f6r deadlock 820C/825C",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          137.7958984375,
+          578.4638671875
+        ],
+        [
+          250.6188201904297,
+          578.4638671875
+        ],
+        [
+          250.6188201904297,
+          587.5087890625
+        ],
+        [
+          137.7958984375,
+          587.5087890625
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          136.3408203125,
+          158.697265625
+        ],
+        [
+          241.17791748046875,
+          158.697265625
+        ],
+        [
+          241.17791748046875,
+          178.84869384765625
+        ],
+        [
+          136.3408203125,
+          178.84869384765625
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rbrukning",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          137.068359375,
+          211.11669921875
+        ],
+        [
+          204.29296875,
+          211.11669921875
+        ],
+        [
+          204.29296875,
+          220.57275390625
+        ],
+        [
+          137.068359375,
+          220.57275390625
+        ]
+      ]
+    },
+    {
+      "title": "Viktig information och underh\u00e5ll",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          136.41357421875,
+          156.23046875
+        ],
+        [
+          390.251953125,
+          156.23046875
+        ],
+        [
+          390.251953125,
+          178.84869384765625
+        ],
+        [
+          136.41357421875,
+          178.84869384765625
+        ]
+      ]
+    },
+    {
+      "title": "Garantin f\u00f6rfaller om:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          137.7958984375,
+          211.11669921875
+        ],
+        [
+          217.2431640625,
+          211.11669921875
+        ],
+        [
+          217.2431640625,
+          221.39501953125
+        ],
+        [
+          137.7958984375,
+          221.39501953125
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5ll:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          137.7958984375,
+          265.1806640625
+        ],
+        [
+          177.6650390625,
+          265.1806640625
+        ],
+        [
+          177.6650390625,
+          275.458984375
+        ],
+        [
+          137.7958984375,
+          275.458984375
+        ]
+      ]
+    },
+    {
+      "title": "Viktig information",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          136.70458984375,
+          362.619140625
+        ],
+        [
+          203.8907928466797,
+          362.619140625
+        ],
+        [
+          203.8907928466797,
+          372.5775451660156
+        ],
+        [
+          136.70458984375,
+          372.5775451660156
+        ]
+      ]
+    },
+    {
+      "title": "Certifikat och Boxning",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          138.33079528808594,
+          476.091796875
+        ],
+        [
+          309.04254150390625,
+          476.091796875
+        ],
+        [
+          309.04254150390625,
+          499.115234375
+        ],
+        [
+          138.33079528808594,
+          499.115234375
+        ]
+      ]
+    },
+    {
+      "title": "Klass 3",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          135.4677734375,
+          159.51953125
+        ],
+        [
+          190.1386260986328,
+          159.51953125
+        ],
+        [
+          190.1386260986328,
+          179.25390625
+        ],
+        [
+          135.4677734375,
+          179.25390625
+        ]
+      ]
+    },
+    {
+      "title": "SSF 3522 Mode",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          137.2138671875,
+          260.45263671875
+        ],
+        [
+          254.46177673339844,
+          260.45263671875
+        ],
+        [
+          254.46177673339844,
+          280.18701171875
+        ],
+        [
+          137.2138671875,
+          280.18701171875
+        ]
+      ]
+    },
+    {
+      "title": "Tillbeh\u00f6r SSF 3522",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          135.61328125,
+          158.697265625
+        ],
+        [
+          278.53302001953125,
+          158.697265625
+        ],
+        [
+          278.53302001953125,
+          178.84869384765625
+        ],
+        [
+          135.61328125,
+          178.84869384765625
+        ]
+      ]
+    },
+    {
+      "title": "DAC564",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          135.97705078125,
+          160.033447265625
+        ],
+        [
+          201.96484375,
+          160.033447265625
+        ],
+        [
+          201.96484375,
+          178.8502197265625
+        ],
+        [
+          135.97705078125,
+          178.8502197265625
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling\n813C, 815C, 820C, 825C, 835C med DAC564",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          136.70458984375,
+          186.85986328125
+        ],
+        [
+          290.3126220703125,
+          186.85986328125
+        ],
+        [
+          290.3126220703125,
+          207.00537109375
+        ],
+        [
+          136.70458984375,
+          207.00537109375
+        ]
+      ]
+    },
+    {
+      "title": "Initiering",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          138.3310089111328,
+          626.9775390625
+        ],
+        [
+          171.2030029296875,
+          626.9775390625
+        ],
+        [
+          171.2030029296875,
+          636.8447265625
+        ],
+        [
+          138.3310089111328,
+          636.8447265625
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling sp\u00e4rrad \u00f6ppnarknapp 825C med I/O Box",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          138.33079528808594,
+          24.834991455078125
+        ],
+        [
+          534.3046875,
+          24.834991455078125
+        ],
+        [
+          534.3046875,
+          47.1260986328125
+        ],
+        [
+          138.33079528808594,
+          47.1260986328125
+        ]
+      ]
+    },
+    {
+      "title": "Koppling",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          136.70458984375,
+          95.5369873046875
+        ],
+        [
+          170.6107635498047,
+          95.5369873046875
+        ],
+        [
+          170.6107635498047,
+          104.8902587890625
+        ],
+        [
+          136.70458984375,
+          104.8902587890625
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling stand alone med I/O Box",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          138.33102416992188,
+          25.28466796875
+        ],
+        [
+          411.49609375,
+          25.28466796875
+        ],
+        [
+          411.49609375,
+          47.07470703125
+        ],
+        [
+          138.33102416992188,
+          47.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Parningssekvensbeskrivning\n\nPara ihop l\u00e5s til l I/O Box350 p\u00e5 Hi-O-bussen",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          371.3359375,
+          109.89898681640625
+        ],
+        [
+          392.94635009765625,
+          109.89898681640625
+        ],
+        [
+          392.94635009765625,
+          268.4697265625
+        ],
+        [
+          371.3359375,
+          268.4697265625
+        ]
+      ]
+    },
+    {
+      "title": "Hi-O-bussen s\u00e4ker och krypterad.",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          513.642578125,
+          151.01104736328125
+        ],
+        [
+          524.119140625,
+          151.01104736328125
+        ],
+        [
+          524.119140625,
+          263.90704345703125
+        ],
+        [
+          513.642578125,
+          263.90704345703125
+        ]
+      ]
+    },
+    {
+      "title": "Hi-O installation",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          105.4931640625,
+          757.9419860839844
+        ],
+        [
+          118.44170379638672,
+          757.9419860839844
+        ],
+        [
+          118.44170379638672,
+          812.981990814209
+        ],
+        [
+          105.4931640625,
+          812.981990814209
+        ]
+      ]
+    },
+    {
+      "title": "Indikeringar P\u00e5 I/O Box350",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          163.55078125,
+          722.5899963378906
+        ],
+        [
+          173.91400146484375,
+          722.5899963378906
+        ],
+        [
+          173.91400146484375,
+          817.33203125
+        ],
+        [
+          163.55078125,
+          817.33203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          99
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          327
+        ],
+        [
+          "Line",
+          322
+        ],
+        [
+          "TableCell",
+          125
+        ],
+        [
+          "Table",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          230
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50458713_man"
+}

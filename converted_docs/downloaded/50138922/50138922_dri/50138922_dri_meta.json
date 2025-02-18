@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FDV Material och sk\u00f6tselanvisningar \u2013 ROCA Draghandtag \nSerie 300, 400, 500, 600 och ROCA Mecano.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.521484375,
+          96.205078125
+        ],
+        [
+          514.224609375,
+          96.205078125
+        ],
+        [
+          514.224609375,
+          132.384765625
+        ],
+        [
+          83.521484375,
+          132.384765625
+        ]
+      ]
+    },
+    {
+      "title": "Material",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.2490234375,
+          160.033447265625
+        ],
+        [
+          137.5048828125,
+          160.033447265625
+        ],
+        [
+          137.5048828125,
+          174.43890380859375
+        ],
+        [
+          84.2490234375,
+          174.43890380859375
+        ]
+      ]
+    },
+    {
+      "title": "Sk\u00f6tsel och underh\u00e5ll",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.32177734375,
+          252.22998046875
+        ],
+        [
+          215.642578125,
+          252.22998046875
+        ],
+        [
+          215.642578125,
+          266.83892822265625
+        ],
+        [
+          84.32177734375,
+          266.83892822265625
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5ll och reng\u00f6ring av rostfritt st\u00e5l.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.61279296875,
+          543.517578125
+        ],
+        [
+          327.68359375,
+          543.517578125
+        ],
+        [
+          327.68359375,
+          557.8389282226562
+        ],
+        [
+          84.61279296875,
+          557.8389282226562
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50138922_dri"
+}

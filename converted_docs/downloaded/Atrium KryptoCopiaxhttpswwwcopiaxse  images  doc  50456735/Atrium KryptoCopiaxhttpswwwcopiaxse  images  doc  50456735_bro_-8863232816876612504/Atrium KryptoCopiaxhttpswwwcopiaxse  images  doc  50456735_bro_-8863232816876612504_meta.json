@@ -1,0 +1,308 @@
+{
+  "table_of_contents": [
+    {
+      "title": "N\u00e5gra av f\u00f6rdelarna med Atrium Krypto",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.0439453125,
+          305.56640625
+        ],
+        [
+          297.9427185058594,
+          305.56640625
+        ],
+        [
+          297.9427185058594,
+          321.52099609375
+        ],
+        [
+          30.0439453125,
+          321.52099609375
+        ]
+      ]
+    },
+    {
+      "title": "Mailnotiser",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          179.3317108154297,
+          90.72412109375
+        ],
+        [
+          242.40234375,
+          90.72412109375
+        ],
+        [
+          242.40234375,
+          103.81982421875
+        ],
+        [
+          179.3317108154297,
+          103.81982421875
+        ]
+      ]
+    },
+    {
+      "title": "APERIO",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          185.390625,
+          146.08984375
+        ],
+        [
+          233.583984375,
+          146.08984375
+        ],
+        [
+          233.583984375,
+          161.22265625
+        ],
+        [
+          185.390625,
+          161.22265625
+        ]
+      ]
+    },
+    {
+      "title": "Software Development Kit\nAtrium har ett \u00f6ppet API f\u00f6r att kunna \nintegrera mot andra webbaserade system.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          102.12890625,
+          373.08203125
+        ],
+        [
+          317.4195251464844,
+          373.08203125
+        ],
+        [
+          317.4195251464844,
+          409.3957061767578
+        ],
+        [
+          102.12890625,
+          409.3957061767578
+        ]
+      ]
+    },
+    {
+      "title": "H\u00f6g s\u00e4kerhet med mobila nycklar",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          141.46139526367188,
+          433.61328125
+        ],
+        [
+          372.83203125,
+          433.61328125
+        ],
+        [
+          372.83203125,
+          452.23828125
+        ],
+        [
+          141.46139526367188,
+          452.23828125
+        ]
+      ]
+    },
+    {
+      "title": "CDVI Sweden AB",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          165.29296875,
+          385.595703125
+        ],
+        [
+          252.57388305664062,
+          385.595703125
+        ],
+        [
+          252.57388305664062,
+          395.6578674316406
+        ],
+        [
+          165.29296875,
+          395.6578674316406
+        ]
+      ]
+    },
+    {
+      "title": "+46 (0)31-760 19 30\ninfo@cdvi.se",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          155.244140625,
+          472.900390625
+        ],
+        [
+          264.55078125,
+          472.900390625
+        ],
+        [
+          264.55078125,
+          500.837890625
+        ],
+        [
+          155.244140625,
+          500.837890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Atrium KryptoCopiaxhttpswwwcopiaxse  images  doc  50456735_bro_-8863232816876612504"
+}

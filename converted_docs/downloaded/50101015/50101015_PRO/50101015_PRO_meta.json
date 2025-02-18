@@ -1,0 +1,296 @@
+{
+  "table_of_contents": [
+    {
+      "title": "E LT R Y C K E S L \u00c5 S \nSL 504\nSL 506",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.50559997558594,
+          328.4951171875
+        ],
+        [
+          164.1328125,
+          328.4951171875
+        ],
+        [
+          164.1328125,
+          415.0688171386719
+        ],
+        [
+          64.50559997558594,
+          415.0688171386719
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6renklat eltryckesl\u00e5s f\u00f6r \nh\u00f6gtrafikerade d\u00f6rrar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.63671875,
+          325.2060546875
+        ],
+        [
+          522.08203125,
+          325.2060546875
+        ],
+        [
+          522.08203125,
+          396.7431640625
+        ],
+        [
+          199.63671875,
+          396.7431640625
+        ]
+      ]
+    },
+    {
+      "title": "Ingen f\u00f6rregling",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          198.0361328125,
+          522.138671875
+        ],
+        [
+          266.7158203125,
+          522.138671875
+        ],
+        [
+          266.7158203125,
+          533.96240234375
+        ],
+        [
+          198.0361328125,
+          533.96240234375
+        ]
+      ]
+    },
+    {
+      "title": "Split funktion",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          198.0361328125,
+          570.65234375
+        ],
+        [
+          256.31646728515625,
+          570.65234375
+        ],
+        [
+          256.31646728515625,
+          582.1640625
+        ],
+        [
+          198.0361328125,
+          582.1640625
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e5g tryckeskraft",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          197.890625,
+          617.9326171875
+        ],
+        [
+          267.443359375,
+          617.9326171875
+        ],
+        [
+          267.443359375,
+          629.9624786376953
+        ],
+        [
+          197.890625,
+          629.9624786376953
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          240.8154296875,
+          327.05615234375
+        ],
+        [
+          307.3125,
+          327.05615234375
+        ],
+        [
+          307.3125,
+          339.9657897949219
+        ],
+        [
+          240.8154296875,
+          339.9657897949219
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          243.2890625,
+          460.8798828125
+        ],
+        [
+          316.916015625,
+          460.8798828125
+        ],
+        [
+          316.916015625,
+          472.3916015625
+        ],
+        [
+          243.2890625,
+          472.3916015625
+        ]
+      ]
+    },
+    {
+      "title": "BEN\u00c4MNING ART NR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          241.3974609375,
+          532.9658203125
+        ],
+        [
+          457.531494140625,
+          532.9658203125
+        ],
+        [
+          457.531494140625,
+          543.9657897949219
+        ],
+        [
+          241.3974609375,
+          543.9657897949219
+        ]
+      ]
+    },
+    {
+      "title": "SL 504 L\u00e5shus, r\u00e4ttv\u00e4nd funktion 202 144 599\nSL 505 L\u00e5shus, omv\u00e4nd funktion 202 144 600\nSL 506 H L\u00e5shus, r\u00e4ttv\u00e4nd funktion 202 144 601\nSL 507 H L\u00e5shus, omv\u00e4nd funktion 202 144 603\nSL 506 V L\u00e5shus, r\u00e4ttv\u00e4nd funktion 202 144 602\nSL 507 V L\u00e5shus, omv\u00e4nd funktion 202 144 604",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          243.77951049804688,
+          551.3291015625
+        ],
+        [
+          471.00653076171875,
+          551.3291015625
+        ],
+        [
+          471.00653076171875,
+          627.5200347900391
+        ],
+        [
+          243.77951049804688,
+          627.5200347900391
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50101015_PRO"
+}

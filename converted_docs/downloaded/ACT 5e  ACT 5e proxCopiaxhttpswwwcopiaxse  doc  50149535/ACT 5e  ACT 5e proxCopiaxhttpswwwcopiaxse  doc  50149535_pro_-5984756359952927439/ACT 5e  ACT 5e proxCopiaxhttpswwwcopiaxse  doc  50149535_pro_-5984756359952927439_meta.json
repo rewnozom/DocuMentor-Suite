@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ACT 5e & ACT 5e prox",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.7763671875,
+          33.4442138671875
+        ],
+        [
+          224.22753906249997,
+          33.4442138671875
+        ],
+        [
+          224.22753906249997,
+          55.41448974609375
+        ],
+        [
+          34.7763671875,
+          55.41448974609375
+        ]
+      ]
+    },
+    {
+      "title": "ACT 5e digital knappsats",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          218.1591796875
+        ],
+        [
+          137.2138671875,
+          218.1591796875
+        ],
+        [
+          137.2138671875,
+          228.63507080078125
+        ],
+        [
+          36.0,
+          228.63507080078125
+        ]
+      ]
+    },
+    {
+      "title": "ACT 5e prox Digital knappsats & ber\u00f6ringsfri l\u00e4sare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.43115234375,
+          375.81005859375
+        ],
+        [
+          254.92968749999997,
+          375.81005859375
+        ],
+        [
+          254.92968749999997,
+          386.51220703125
+        ],
+        [
+          35.43115234375,
+          386.51220703125
+        ]
+      ]
+    },
+    {
+      "title": "ACT 5e & ACT 5e prox Digitala knappsatser & ber\u00f6ringsfri l\u00e4sare",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.86767578125,
+          35.605224609375
+        ],
+        [
+          423.0790100097656,
+          35.605224609375
+        ],
+        [
+          423.0790100097656,
+          56.44354248046875
+        ],
+        [
+          35.86767578125,
+          56.44354248046875
+        ]
+      ]
+    },
+    {
+      "title": "Orderinformation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.794921875,
+          69.4610595703125
+        ],
+        [
+          114.50696563720703,
+          69.4610595703125
+        ],
+        [
+          114.50696563720703,
+          81.62652587890625
+        ],
+        [
+          35.794921875,
+          81.62652587890625
+        ]
+      ]
+    },
+    {
+      "title": "ACT 5e prox kort & brickor Produktj\u00e4mf\u00f6relse",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.84000015258789,
+          236.887939453125
+        ],
+        [
+          348.9662780761719,
+          236.887939453125
+        ],
+        [
+          348.9662780761719,
+          249.648193359375
+        ],
+        [
+          42.84000015258789,
+          249.648193359375
+        ]
+      ]
+    },
+    {
+      "title": "iDigitala knappsatser &",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          248.80999755859375,
+          38.22930908203125
+        ],
+        [
+          424.30078124999994,
+          38.22930908203125
+        ],
+        [
+          424.30078124999994,
+          53.7742919921875
+        ],
+        [
+          248.80999755859375,
+          53.7742919921875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          267.443359375,
+          237.299560546875
+        ],
+        [
+          348.345703125,
+          237.299560546875
+        ],
+        [
+          348.345703125,
+          248.824951171875
+        ],
+        [
+          267.443359375,
+          248.824951171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "TableCell",
+          137
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ACT 5e  ACT 5e proxCopiaxhttpswwwcopiaxse  doc  50149535_pro_-5984756359952927439"
+}

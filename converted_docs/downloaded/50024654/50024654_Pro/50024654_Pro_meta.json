@@ -1,0 +1,161 @@
+{
+  "table_of_contents": [
+    {
+      "title": "I180SR / I400SR / I500SR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.9091796875,
+          496.2373046875
+        ],
+        [
+          525.0526733398438,
+          496.2373046875
+        ],
+        [
+          525.0526733398438,
+          536.5283203125
+        ],
+        [
+          49.9091796875,
+          536.5283203125
+        ]
+      ]
+    },
+    {
+      "title": "ROSTFRIA ELEKTROMAGNETISKA L\u00c5S\nF\u00d6R UTOMHUSBRUK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.1875,
+          50.18389892578125
+        ],
+        [
+          531.9765625,
+          50.18389892578125
+        ],
+        [
+          531.9765625,
+          106.175048828125
+        ],
+        [
+          65.1875,
+          106.175048828125
+        ]
+      ]
+    },
+    {
+      "title": "I180SR / I400SR / I500SR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.68505859375,
+          184.701416015625
+        ],
+        [
+          283.647705078125,
+          184.701416015625
+        ],
+        [
+          283.647705078125,
+          205.7916259765625
+        ],
+        [
+          33.68505859375,
+          205.7916259765625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          336.705078125,
+          735.5166015625
+        ],
+        [
+          556.712890625,
+          735.5166015625
+        ],
+        [
+          556.712890625,
+          804.5869140625
+        ],
+        [
+          336.705078125,
+          804.5869140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          8
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50024654_Pro"
+}

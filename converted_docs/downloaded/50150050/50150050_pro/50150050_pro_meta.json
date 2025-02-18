@@ -1,0 +1,409 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DS-2DE4225IW-DE (E)\n2MP 25\u00d7 Network IR Speed Dome",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          6.03857421875,
+          118.20068359375
+        ],
+        [
+          232.04896545410156,
+          118.20068359375
+        ],
+        [
+          232.04896545410156,
+          155.20263671875
+        ],
+        [
+          6.03857421875,
+          155.20263671875
+        ]
+      ]
+    },
+    {
+      "title": "Key Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          314.587890625,
+          375.9700012207031
+        ],
+        [
+          379.6700134277344,
+          375.9700012207031
+        ],
+        [
+          379.6700134277344,
+          387.9700012207031
+        ],
+        [
+          314.587890625,
+          387.9700012207031
+        ]
+      ]
+    },
+    {
+      "title": "DORI",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.583251953125,
+          157.25830078125
+        ],
+        [
+          81.3388671875,
+          157.25830078125
+        ],
+        [
+          81.3388671875,
+          170.5
+        ],
+        [
+          53.583251953125,
+          170.5
+        ]
+      ]
+    },
+    {
+      "title": "Available Model",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.6923828125,
+          283.06494140625
+        ],
+        [
+          135.904296875,
+          283.06494140625
+        ],
+        [
+          135.904296875,
+          297.25
+        ],
+        [
+          53.6923828125,
+          297.25
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.546875,
+          330.75634765625
+        ],
+        [
+          112.20800018310547,
+          330.75634765625
+        ],
+        [
+          112.20800018310547,
+          344.0500183105469
+        ],
+        [
+          53.546875,
+          344.0500183105469
+        ]
+      ]
+    },
+    {
+      "title": "Accessory\nIncluded:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          51.3642578125,
+          75.0799560546875
+        ],
+        [
+          103.3320083618164,
+          75.0799560546875
+        ],
+        [
+          103.3320083618164,
+          100.8699951171875
+        ],
+        [
+          51.3642578125,
+          100.8699951171875
+        ]
+      ]
+    },
+    {
+      "title": "Headquarters",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.28463476070529,
+          594.0869140625
+        ],
+        [
+          83.31989924433249,
+          594.0869140625
+        ],
+        [
+          83.31989924433249,
+          602.3095703125
+        ],
+        [
+          41.28463476070529,
+          602.3095703125
+        ]
+      ]
+    },
+    {
+      "title": "05060020190904",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          356.5491183879093,
+          811.1650390625
+        ],
+        [
+          429.830078125,
+          811.1650390625
+        ],
+        [
+          429.830078125,
+          821.0322265625
+        ],
+        [
+          356.5491183879093,
+          821.0322265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          371
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Picture",
+          20
+        ],
+        [
+          "Caption",
+          17
+        ],
+        [
+          "PictureGroup",
+          17
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          82
+        ],
+        [
+          "Text",
+          32
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50150050_pro"
+}

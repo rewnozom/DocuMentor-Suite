@@ -1,0 +1,216 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CS-EB8-R100-1K3FL4GA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.880001068115234,
+          63.20916748046875
+        ],
+        [
+          265.44683837890625,
+          63.20916748046875
+        ],
+        [
+          265.44683837890625,
+          87.7359619140625
+        ],
+        [
+          50.880001068115234,
+          87.7359619140625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.85546875,
+          132.5850830078125
+        ],
+        [
+          367.26171875,
+          132.5850830078125
+        ],
+        [
+          367.26171875,
+          158.54998779296875
+        ],
+        [
+          250.85546875,
+          158.54998779296875
+        ]
+      ]
+    },
+    {
+      "title": "Main Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.252197265625,
+          367.453125
+        ],
+        [
+          180.5,
+          367.453125
+        ],
+        [
+          180.5,
+          392.3399963378906
+        ],
+        [
+          43.252197265625,
+          392.3399963378906
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.6337890625,
+          617.10009765625
+        ],
+        [
+          149.61972045898438,
+          617.10009765625
+        ],
+        [
+          149.61972045898438,
+          643.46826171875
+        ],
+        [
+          42.6337890625,
+          643.46826171875
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.70361328125,
+          30.833740234375
+        ],
+        [
+          160.349609375,
+          30.833740234375
+        ],
+        [
+          160.349609375,
+          56.28997802734375
+        ],
+        [
+          34.70361328125,
+          56.28997802734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "TableCell",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "TableCell",
+          68
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50463391_pro"
+}

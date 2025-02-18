@@ -1,0 +1,712 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Ett dokumenterat \ntryggt val",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.393699645996094,
+          81.12188720703125
+        ],
+        [
+          409.5947265625,
+          81.12188720703125
+        ],
+        [
+          409.5947265625,
+          176.478759765625
+        ],
+        [
+          40.393699645996094,
+          176.478759765625
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6dutrymningsbeslag",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.5009765625,
+          702.21484375
+        ],
+        [
+          328.0697021484375,
+          702.21484375
+        ],
+        [
+          328.0697021484375,
+          735.10546875
+        ],
+        [
+          27.5009765625,
+          735.10546875
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6dutrymningsbeslag \ndu kan lita p\u00e5. \nTestade och godk\u00e4nda \ni enlighet med EN 179.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.03249740600586,
+          92.6590576171875
+        ],
+        [
+          518.2603149414062,
+          92.6590576171875
+        ],
+        [
+          518.2603149414062,
+          284.29833984375
+        ],
+        [
+          59.03249740600586,
+          284.29833984375
+        ]
+      ]
+    },
+    {
+      "title": "N\u00e4r beh\u00f6vs utrymningsbeslag?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.1318359375,
+          451.0126953125
+        ],
+        [
+          196.7982635498047,
+          451.0126953125
+        ],
+        [
+          196.7982635498047,
+          460.8798828125
+        ],
+        [
+          62.1318359375,
+          460.8798828125
+        ]
+      ]
+    },
+    {
+      "title": "Certifierad enligt EN 179 \u2013 Ett tryggt val",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.2765998840332,
+          550.5068359375
+        ],
+        [
+          436.232421875,
+          550.5068359375
+        ],
+        [
+          436.232421875,
+          572.7080078125
+        ],
+        [
+          46.2765998840332,
+          572.7080078125
+        ]
+      ]
+    },
+    {
+      "title": "DEA 901 anv\u00e4nds tillsammans med \nl\u00e5shus DL 9197",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.4970703125,
+          287.79296875
+        ],
+        [
+          221.99591064453125,
+          287.79296875
+        ],
+        [
+          221.99591064453125,
+          311.2275390625
+        ],
+        [
+          66.4970703125,
+          311.2275390625
+        ]
+      ]
+    },
+    {
+      "title": "Egenskaper:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.4970703125,
+          348.43505859375
+        ],
+        [
+          120.66130065917969,
+          348.43505859375
+        ],
+        [
+          120.66130065917969,
+          359.53564453125
+        ],
+        [
+          66.4970703125,
+          359.53564453125
+        ]
+      ]
+    },
+    {
+      "title": "DEA 905 anv\u00e4nds tillsammans med \nl\u00e5shus DL 9097",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.3515625,
+          617.1103515625
+        ],
+        [
+          223.534912109375,
+          617.1103515625
+        ],
+        [
+          223.534912109375,
+          640.9560546875
+        ],
+        [
+          66.3515625,
+          640.9560546875
+        ]
+      ]
+    },
+    {
+      "title": "Egenskaper:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.56982421875,
+          654.9345703125
+        ],
+        [
+          121.57177734375,
+          654.9345703125
+        ],
+        [
+          121.57177734375,
+          665.6240234375
+        ],
+        [
+          66.56982421875,
+          665.6240234375
+        ]
+      ]
+    },
+    {
+      "title": "DEA 903 anv\u00e4nds tillsammans med \nl\u00e5shus DL 9197",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          332.61578369140625,
+          288.2041015625
+        ],
+        [
+          488.5938720703125,
+          288.2041015625
+        ],
+        [
+          488.5938720703125,
+          310.81640625
+        ],
+        [
+          332.61578369140625,
+          310.81640625
+        ]
+      ]
+    },
+    {
+      "title": "Egenskaper:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          330.884765625,
+          324.794921875
+        ],
+        [
+          385.95428466796875,
+          324.794921875
+        ],
+        [
+          385.95428466796875,
+          335.8955078125
+        ],
+        [
+          330.884765625,
+          335.8955078125
+        ]
+      ]
+    },
+    {
+      "title": "DEA 907 anv\u00e4nds tillsammans med \nl\u00e5shus DL 9097",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          333.0748291015625,
+          617.9326171875
+        ],
+        [
+          489.48828125,
+          617.9326171875
+        ],
+        [
+          489.48828125,
+          641.7783203125
+        ],
+        [
+          333.0748291015625,
+          641.7783203125
+        ]
+      ]
+    },
+    {
+      "title": "Egenskaper:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          333.0748291015625,
+          666.857421875
+        ],
+        [
+          387.05078125,
+          666.857421875
+        ],
+        [
+          387.05078125,
+          677.546875
+        ],
+        [
+          333.0748291015625,
+          677.546875
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6dutrymningsl\u00e5shus",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          66.67980194091797,
+          549.6845703125
+        ],
+        [
+          273.0387878417969,
+          549.6845703125
+        ],
+        [
+          273.0387878417969,
+          573.5302734375
+        ],
+        [
+          66.67980194091797,
+          573.5302734375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.54541015625,
+          605.5986328125
+        ],
+        [
+          82.13916015625,
+          605.5986328125
+        ],
+        [
+          82.13916015625,
+          726.4716796875
+        ],
+        [
+          49.54541015625,
+          726.4716796875
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6dutrymningsl\u00e5shus DL 9197",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          100.06919860839844,
+          587.5087890625
+        ],
+        [
+          231.71128845214844,
+          587.5087890625
+        ],
+        [
+          231.71128845214844,
+          600.6650390625
+        ],
+        [
+          100.06919860839844,
+          600.6650390625
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6dutrymningsl\u00e5shus DL 9097",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          367.84375,
+          587.5087890625
+        ],
+        [
+          503.37628173828125,
+          587.5087890625
+        ],
+        [
+          503.37628173828125,
+          601.4873046875
+        ],
+        [
+          367.84375,
+          601.4873046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          396.36328125,
+          791.01953125
+        ],
+        [
+          567.48046875,
+          791.01953125
+        ],
+        [
+          567.48046875,
+          820.62109375
+        ],
+        [
+          396.36328125,
+          820.62109375
+        ]
+      ]
+    },
+    {
+      "title": "Vill du veta mer om \nv\u00e5rt breda utbud av \ngodk\u00e4nda l\u00f6sningar \nf\u00f6r utrymningsv\u00e4gar?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.345703125,
+          87.982421875
+        ],
+        [
+          265.73809814453125,
+          87.982421875
+        ],
+        [
+          265.73809814453125,
+          184.39306640625
+        ],
+        [
+          50.345703125,
+          184.39306640625
+        ]
+      ]
+    },
+    {
+      "title": "Exit pad, EN 179 PHB 3000, EN 1125",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          107.23019409179688,
+          565.3076171875
+        ],
+        [
+          340.7171936035156,
+          565.3076171875
+        ],
+        [
+          340.7171936035156,
+          576.8193359375
+        ],
+        [
+          107.23019409179688,
+          576.8193359375
+        ]
+      ]
+    },
+    {
+      "title": "PHM",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          399.6851806640625,
+          560.3740234375
+        ],
+        [
+          423.71875,
+          560.3740234375
+        ],
+        [
+          423.71875,
+          575.9501953125
+        ],
+        [
+          399.6851806640625,
+          575.9501953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Picture",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50024440_BRO"
+}

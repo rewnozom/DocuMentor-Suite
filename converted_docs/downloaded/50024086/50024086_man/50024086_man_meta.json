@@ -1,0 +1,304 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Inkopplingsanvisning\n\nSafetron\n \nMagneter\n\nModell\n \nMS\n \n15\n\nSSU/SSM-DS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          528.4155883789062,
+          160.37109375
+        ],
+        [
+          785.263671875,
+          159.208984375
+        ],
+        [
+          785.263671875,
+          282.68310546875
+        ],
+        [
+          528.4155883789062,
+          283.84521484375
+        ]
+      ]
+    },
+    {
+      "title": "Monterings\n \nanvisningar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          108.44734954833984,
+          14.825973510742188
+        ],
+        [
+          266.21337890625,
+          14.825973510742188
+        ],
+        [
+          266.21337890625,
+          29.514360427856445
+        ],
+        [
+          108.44734954833984,
+          29.514360427856445
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6r\n \nut\u00e5tg\u00e5ende\n \nd\u00f6rrar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          13.9271240234375,
+          30.8685302734375
+        ],
+        [
+          99.4427490234375,
+          30.8685302734375
+        ],
+        [
+          99.4427490234375,
+          40.14036178588867
+        ],
+        [
+          13.9271240234375,
+          40.14036178588867
+        ]
+      ]
+    },
+    {
+      "title": "Studera\n \nfig\n \n1\n \ntill\n \n4\n \nf\u00f6r\n \nn\u00e4rmaste\n \nexemplet\n \nf\u00f6r\n \ninstallationen.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          13.670166015625,
+          52.730712890625
+        ],
+        [
+          236.92906188964844,
+          52.730712890625
+        ],
+        [
+          236.92906188964844,
+          62.318115234375
+        ],
+        [
+          13.670166015625,
+          62.318115234375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6r\n \nin\u00e5tg\u00e5ende\n \nd\u00f6rrar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          13.7215576171875,
+          264.67041015625
+        ],
+        [
+          98.2093505859375,
+          263.50830078125
+        ],
+        [
+          98.2093505859375,
+          273.095703125
+        ],
+        [
+          13.7215576171875,
+          274.2578125
+        ]
+      ]
+    },
+    {
+      "title": "Typisk\n \ninstallation\n \nf\u00f6r\n \nut\u00e5tg\u00e5ende\n \nd\u00f6rrar\n \nvisas\n \ni\n \nfig\n \n1\n \ntill\n \n4\n\nAlla\nfigurer\n\u00e4r\napplicerbara\ntill\nsingel\noch\n \ndubbelmagneter\nMS15SSU/M\noch\nMS15DSU/M",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          10.07275390625,
+          306.2158203125
+        ],
+        [
+          325.6956787109375,
+          305.0537109375
+        ],
+        [
+          325.6956787109375,
+          326.036865234375
+        ],
+        [
+          10.07275390625,
+          326.036865234375
+        ]
+      ]
+    },
+    {
+      "title": "Fig\n \n3.\n \nUt\u00e5tg\u00e5ende\n \nd\u00f6rr\n \nutan\n \nkarm.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          594.0869140625,
+          17.867431640625
+        ],
+        [
+          719.5303344726562,
+          17.867431640625
+        ],
+        [
+          719.5303344726562,
+          28.14035987854004
+        ],
+        [
+          594.0869140625,
+          28.14035987854004
+        ]
+      ]
+    },
+    {
+      "title": "Ankaret\n \nmonteras\n \ni\n \nd\u00f6rren:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          439.010498046875,
+          396.56982421875
+        ],
+        [
+          566.90478515625,
+          396.56982421875
+        ],
+        [
+          566.90478515625,
+          408.19091796875
+        ],
+        [
+          439.010498046875,
+          408.19091796875
+        ]
+      ]
+    },
+    {
+      "title": "Typisk\n \ninstallation\n \nf\u00f6r\n \nin\u00e5tg\u00e5ende\n \nd\u00f6rr\n\nFig\n \n5.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          599.7447509765625,
+          265.977783203125
+        ],
+        [
+          746.2060546875,
+          265.977783203125
+        ],
+        [
+          746.2060546875,
+          286.605224609375
+        ],
+        [
+          599.7447509765625,
+          286.605224609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          547
+        ],
+        [
+          "Span",
+          547
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1094
+        ],
+        [
+          "Line",
+          1093
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50024086_man"
+}

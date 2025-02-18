@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CD 470",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.004150390625,
+          65.8326416015625
+        ],
+        [
+          150.2608184814453,
+          65.8326416015625
+        ],
+        [
+          150.2608184814453,
+          88.446533203125
+        ],
+        [
+          61.004150390625,
+          88.446533203125
+        ]
+      ]
+    },
+    {
+      "title": "Chockdetektor, LK3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.5498046875,
+          142.765869140625
+        ],
+        [
+          241.0742645263672,
+          142.765869140625
+        ],
+        [
+          241.0742645263672,
+          163.528076171875
+        ],
+        [
+          61.5498046875,
+          163.528076171875
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.64111328125,
+          240.30712890625
+        ],
+        [
+          159.08799743652344,
+          240.30712890625
+        ],
+        [
+          159.08799743652344,
+          251.81884765625
+        ],
+        [
+          62.64111328125,
+          251.81884765625
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.8408203125,
+          625.3330078125
+        ],
+        [
+          117.12177276611328,
+          625.3330078125
+        ],
+        [
+          117.12177276611328,
+          634.3779296875
+        ],
+        [
+          61.8408203125,
+          634.3779296875
+        ]
+      ]
+    },
+    {
+      "title": "Relaterade produkter och tillbeh\u00f6r:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.27587890625,
+          60.025390625
+        ],
+        [
+          300.91015625,
+          60.025390625
+        ],
+        [
+          300.91015625,
+          75.03173828125
+        ],
+        [
+          58.27587890625,
+          75.03173828125
+        ]
+      ]
+    },
+    {
+      "title": "MP 550",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          180.90899658203125,
+          86.440673828125
+        ],
+        [
+          228.15625,
+          86.440673828125
+        ],
+        [
+          228.15625,
+          98.574462890625
+        ],
+        [
+          180.90899658203125,
+          98.574462890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\CD 470copiaxsehttpscopiaxse  images  doc  50156411_pro_-2218079520885828725"
+}

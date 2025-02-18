@@ -1,0 +1,308 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VIKTIG INFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.63580322265625,
+          32.08447265625
+        ],
+        [
+          130.94580078125,
+          32.08447265625
+        ],
+        [
+          130.94580078125,
+          43.4822998046875
+        ],
+        [
+          33.63580322265625,
+          43.4822998046875
+        ]
+      ]
+    },
+    {
+      "title": "KONTAKTA OSS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.6336669921875,
+          424.8828125
+        ],
+        [
+          103.17080688476562,
+          424.8828125
+        ],
+        [
+          103.17080688476562,
+          435.4603271484375
+        ],
+        [
+          32.6336669921875,
+          435.4603271484375
+        ]
+      ]
+    },
+    {
+      "title": "N\u00e4r det m\u00e5ste fungera.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          707.1484375,
+          67.29736328125
+        ],
+        [
+          808.287109375,
+          67.29736328125
+        ],
+        [
+          808.287109375,
+          78.6085205078125
+        ],
+        [
+          707.1484375,
+          78.6085205078125
+        ]
+      ]
+    },
+    {
+      "title": "Installationsanvisning \nSTEP 18 SecureTM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          473.625,
+          447.291015625
+        ],
+        [
+          731.1118774414062,
+          447.291015625
+        ],
+        [
+          731.1118774414062,
+          509.568359375
+        ],
+        [
+          473.625,
+          509.568359375
+        ]
+      ]
+    },
+    {
+      "title": "ARTIKELNUMMER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.99554443359375,
+          32.339111328125
+        ],
+        [
+          111.5273208618164,
+          32.339111328125
+        ],
+        [
+          111.5273208618164,
+          43.4783935546875
+        ],
+        [
+          33.99554443359375,
+          43.4783935546875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA EGENSKAPER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.068359375,
+          401.310546875
+        ],
+        [
+          140.66571044921875,
+          401.310546875
+        ],
+        [
+          140.66571044921875,
+          412.3060302734375
+        ],
+        [
+          32.068359375,
+          412.3060302734375
+        ]
+      ]
+    },
+    {
+      "title": "STR\u00d6MF\u00d6RBRUKNING OCH KOPPLINGSSCHEMA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          453.4794921875,
+          32.0662841796875
+        ],
+        [
+          668.9994506835938,
+          30.9022216796875
+        ],
+        [
+          668.9994506835938,
+          43.4822998046875
+        ],
+        [
+          453.4794921875,
+          43.4822998046875
+        ]
+      ]
+    },
+    {
+      "title": "INSTALLATIONSANVISNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          455.1240234375,
+          284.03125
+        ],
+        [
+          575.9970703125,
+          284.03125
+        ],
+        [
+          575.9970703125,
+          294.4544677734375
+        ],
+        [
+          455.1240234375,
+          294.4544677734375
+        ]
+      ]
+    },
+    {
+      "title": "UNDERH\u00c5LLSANVISNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          455.53515625,
+          499.96484375
+        ],
+        [
+          566.1713256835938,
+          499.96484375
+        ],
+        [
+          566.1713256835938,
+          510.5784225463867
+        ],
+        [
+          455.53515625,
+          510.5784225463867
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          315
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Installationsanvisning STEP 18 SecureTMcopiaxsehttpswwwcopiaxse  doc  ST181_man_7688210685344135305"
+}

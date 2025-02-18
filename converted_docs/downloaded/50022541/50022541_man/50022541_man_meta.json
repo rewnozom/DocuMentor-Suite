@@ -1,0 +1,332 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Verktyg:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.294189453125,
+          233.8310546875
+        ],
+        [
+          94.76217651367188,
+          233.8310546875
+        ],
+        [
+          94.76217651367188,
+          241.90066528320312
+        ],
+        [
+          58.294189453125,
+          241.90066528320312
+        ]
+      ]
+    },
+    {
+      "title": "Ett set best\u00e5r av:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.658203125,
+          276.755859375
+        ],
+        [
+          127.96435546875,
+          276.755859375
+        ],
+        [
+          127.96435546875,
+          284.03125
+        ],
+        [
+          58.658203125,
+          284.03125
+        ]
+      ]
+    },
+    {
+      "title": "Anv\u00e4ndning:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          219.65625,
+          175.7734375
+        ],
+        [
+          272.780517578125,
+          175.7734375
+        ],
+        [
+          272.780517578125,
+          183.33984375
+        ],
+        [
+          219.65625,
+          183.33984375
+        ]
+      ]
+    },
+    {
+      "title": "Montage ut\u00e5tg\u00e5ende",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.93017578125,
+          47.180908203125
+        ],
+        [
+          141.0113983154297,
+          47.180908203125
+        ],
+        [
+          141.0113983154297,
+          56.00042724609375
+        ],
+        [
+          57.93017578125,
+          56.00042724609375
+        ]
+      ]
+    },
+    {
+      "title": "Se till att den utdragbara f\u00f6nsterh\u00e5llaren st\u00e4lls parallellt med den st\u00e4ngda \nf\u00f6nstret/d\u00f6rren.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          78.29847717285156,
+          392.2890625
+        ],
+        [
+          369.1767272949219,
+          392.2890625
+        ],
+        [
+          369.1767272949219,
+          409.16796875
+        ],
+        [
+          78.29847717285156,
+          409.16796875
+        ]
+      ]
+    },
+    {
+      "title": "Montage In\u00e5tg\u00e5ende f\u00f6nster/d\u00f6rr",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.06293487548828,
+          45.216552734375
+        ],
+        [
+          188.2127227783203,
+          45.216552734375
+        ],
+        [
+          188.2127227783203,
+          54.238037109375
+        ],
+        [
+          54.06293487548828,
+          54.238037109375
+        ]
+      ]
+    },
+    {
+      "title": "Kontrollera regelbundet att metallskruvarna sitter fast ordentligt !",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.06293487548828,
+          446.41796875
+        ],
+        [
+          334.0057678222656,
+          446.41796875
+        ],
+        [
+          334.0057678222656,
+          455.8531799316406
+        ],
+        [
+          54.06293487548828,
+          455.8531799316406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          10
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50022541_man"
+}

@@ -1,0 +1,135 @@
+{
+  "table_of_contents": [
+    {
+      "title": "IU 300 INTERFACEENHET F\u00d6R GD 335 OCH GD 375",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.076171875,
+          83.66552734375
+        ],
+        [
+          371.3359375,
+          83.66552734375
+        ],
+        [
+          371.3359375,
+          103.1175537109375
+        ],
+        [
+          59.076171875,
+          103.1175537109375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rdelar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.4716796875,
+          162.683837890625
+        ],
+        [
+          138.5234375,
+          162.683837890625
+        ],
+        [
+          138.5234375,
+          176.99267578125
+        ],
+        [
+          96.4716796875,
+          176.99267578125
+        ]
+      ]
+    },
+    {
+      "title": "Best\u00e4llningsinformation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.52978515625,
+          720.7158203125
+        ],
+        [
+          140.972900390625,
+          720.7158203125
+        ],
+        [
+          140.972900390625,
+          731.4052734375
+        ],
+        [
+          56.52978515625,
+          731.4052734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\10015587_pro"
+}

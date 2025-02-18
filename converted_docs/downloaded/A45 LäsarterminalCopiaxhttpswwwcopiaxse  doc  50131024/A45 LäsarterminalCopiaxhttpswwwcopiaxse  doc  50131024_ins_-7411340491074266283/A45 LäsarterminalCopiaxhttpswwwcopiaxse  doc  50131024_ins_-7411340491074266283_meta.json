@@ -1,0 +1,316 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A45 L\u00e4sarterminal",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          214.72999572753906,
+          205.052490234375
+        ],
+        [
+          382.103515625,
+          205.052490234375
+        ],
+        [
+          382.103515625,
+          230.02880859375
+        ],
+        [
+          214.72999572753906,
+          230.02880859375
+        ]
+      ]
+    },
+    {
+      "title": "Inkopplingsanvisning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          212.732421875,
+          235.37353515625
+        ],
+        [
+          383.267578125,
+          235.37353515625
+        ],
+        [
+          383.267578125,
+          257.97998046875
+        ],
+        [
+          212.732421875,
+          257.97998046875
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling skruvplint:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.000030517578125,
+          73.79833984375
+        ],
+        [
+          184.4669952392578,
+          73.79833984375
+        ],
+        [
+          184.4669952392578,
+          92.76995849609375
+        ],
+        [
+          36.000030517578125,
+          92.76995849609375
+        ]
+      ]
+    },
+    {
+      "title": "Kabel-l\u00e4ngder:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.521728515625,
+          288.82080078125
+        ],
+        [
+          136.4669647216797,
+          288.82080078125
+        ],
+        [
+          136.4669647216797,
+          307.24005126953125
+        ],
+        [
+          34.521728515625,
+          307.24005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Avl\u00e4sning.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.72216796875,
+          73.4385986328125
+        ],
+        [
+          108.02693176269531,
+          73.4385986328125
+        ],
+        [
+          108.02693176269531,
+          91.1173095703125
+        ],
+        [
+          35.72216796875,
+          91.1173095703125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska Data:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.000030517578125,
+          444.845703125
+        ],
+        [
+          138.30517578125,
+          444.845703125
+        ],
+        [
+          138.30517578125,
+          462.7799072265625
+        ],
+        [
+          36.000030517578125,
+          462.7799072265625
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e4steknik:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.00004577636719,
+          652.87890625
+        ],
+        [
+          106.58700561523438,
+          652.87890625
+        ],
+        [
+          106.58700561523438,
+          670.4099578857422
+        ],
+        [
+          36.00004577636719,
+          670.4099578857422
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\A45 L\u00e4sarterminalCopiaxhttpswwwcopiaxse  doc  50131024_ins_-7411340491074266283"
+}

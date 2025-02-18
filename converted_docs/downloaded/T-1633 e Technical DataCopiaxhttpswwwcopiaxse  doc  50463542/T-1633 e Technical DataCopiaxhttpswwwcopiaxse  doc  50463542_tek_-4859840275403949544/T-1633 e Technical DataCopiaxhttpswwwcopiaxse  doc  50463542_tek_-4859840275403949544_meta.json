@@ -1,0 +1,92 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Drive type TORMAX 1201 Swing Door Drive\nDrive system Electro-mechanical swing door drive with DC motor and additional spring for current-\nless closing, extensible with modules.\nControl System MCU42\nDoor leaf width and mass 700 \u2013 1400 mm, up to 250 kg according to diagram (moment of inertia max. 65 kg m\u00b2)\nOpening angle 70\u00b0\u2026110\u00b0 max.\nSpeed 5\u00b0\u2026 60\u00b0/s max.\nMains connection 230 VAC, 50/60 Hz, 10 \u2013 16 A or 115 VAC 60 Hz, 15 \u2013 20 A\nDimensions 85\u00d7128\u00d7640 mm\n2 leaves with mechanical door coordinator: 100\u00d7135\u00d7door width\nPower consumption 6 \u2026 235 W\nAutomatic reset in the event of a \npower failure\nIn the closing and opening direction; capable of an infinitely variable setting: \n60\u2013100 % of maximum force according to DIN 1154 corresponds to closer parame-\nter 4-6 with the linkage pushing and closer parameter 3 when the linkage is pulling.\nProtective class IP 20\nAmbient temperature \u201320\u2026 50\u00b0C\nWeight: 11,8 kg\nEmitted noise level < 70 dBA\nSensor supply 24VDC (+0,5\u20131,5 V) Pmax. 36 W, Imax. 1,5 A (all sensors and outputs)\nbriefly and in battery operation min. 16 V\nInputs 24VDC or potential-free (Multi Door Module MDM-A)\nOutputs Holding magnet 24 VDC, <0,25 A (Exterior Door Module EDM)\nBell 24VDC, <1 A, (Exterior Door Module EDM)\nEl. door opener 24 VDC, <1 A, (Exterior Door Module EDM)\nPotential-free 24VDC, <1 A, (Multi Door Module MDM-A)\nTest-out 24 VDC, <1 A, (Power Door Module PDM)\nReaction time with \nobstacle contact\n> 0,6 s, typically 2,6 s (programmable)\nReaction time with \nsafety sensor\n140 ms (50 ms + 90 ms*) * e. g. LZR Flatscan SW\nInterfaces CAN for double door and air lock (MDM-A/MDM-B)\nRS232 for Skipper (EDM, Programming Interface Module PIM)\nRS485 (MDM-A)\nLIN-Bus for user interface (EDM, Programming Interface Module PIM))\n260\n240\n220\n200\n180\n160\n140\n120\n100\n80\n60\n40\n20\n0\n0.7 0.8\nDoor leaf width [m]\nDoor leaf mass [kg]\n\n0.9 1.0 1.1 1.31.2 1.4 T1633_1e",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.72039031982422,
+          137.93505859375
+        ],
+        [
+          549.146484375,
+          137.93505859375
+        ],
+        [
+          549.146484375,
+          737.572265625
+        ],
+        [
+          57.72039031982422,
+          737.572265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "TableCell",
+          11
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\T-1633 e Technical DataCopiaxhttpswwwcopiaxse  doc  50463542_tek_-4859840275403949544"
+}

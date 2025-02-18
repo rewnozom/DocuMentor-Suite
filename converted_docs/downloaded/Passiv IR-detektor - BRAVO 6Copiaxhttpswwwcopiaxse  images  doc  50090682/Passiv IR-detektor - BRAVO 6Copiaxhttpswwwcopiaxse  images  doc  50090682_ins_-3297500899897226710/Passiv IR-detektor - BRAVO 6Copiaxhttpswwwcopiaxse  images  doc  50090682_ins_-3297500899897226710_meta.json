@@ -1,0 +1,389 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Passiv IR-detektor\nBRAVO 6",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          193.5,
+          249.82506762849414
+        ],
+        [
+          388.57470703125,
+          249.82506762849414
+        ],
+        [
+          388.57470703125,
+          299.0
+        ],
+        [
+          193.5,
+          299.0
+        ]
+      ]
+    },
+    {
+      "title": "Installationstips:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.75,
+          114.359375
+        ],
+        [
+          161.78466796875,
+          114.359375
+        ],
+        [
+          161.78466796875,
+          128.171875
+        ],
+        [
+          60.75,
+          128.171875
+        ]
+      ]
+    },
+    {
+      "title": "Bevakningsomr\u00e5de",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.0,
+          446.0625
+        ],
+        [
+          180.586669921875,
+          446.0625
+        ],
+        [
+          180.586669921875,
+          460.6875
+        ],
+        [
+          63.0,
+          460.6875
+        ]
+      ]
+    },
+    {
+      "title": "Montering av detektorn",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.0,
+          39.228515625
+        ],
+        [
+          195.01611328125,
+          39.228515625
+        ],
+        [
+          195.01611328125,
+          54.03125
+        ],
+        [
+          57.0,
+          54.03125
+        ]
+      ]
+    },
+    {
+      "title": "Lysdioden",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.5,
+          257.359375
+        ],
+        [
+          121.702880859375,
+          257.359375
+        ],
+        [
+          121.702880859375,
+          271.578125
+        ],
+        [
+          58.5,
+          271.578125
+        ]
+      ]
+    },
+    {
+      "title": "Inst\u00e4llning av k\u00e4nslighet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.5,
+          365.421875
+        ],
+        [
+          203.76123046875,
+          365.421875
+        ],
+        [
+          203.76123046875,
+          379.640625
+        ],
+        [
+          58.5,
+          379.640625
+        ]
+      ]
+    },
+    {
+      "title": "Komponenternas placering",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.7056884765625,
+          476.9375
+        ],
+        [
+          221.83447265625,
+          476.9375
+        ],
+        [
+          221.83447265625,
+          491.5625
+        ],
+        [
+          60.7056884765625,
+          491.5625
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.75,
+          37.51127141568981
+        ],
+        [
+          123.75,
+          37.51127141568981
+        ],
+        [
+          123.75,
+          52.609375
+        ],
+        [
+          57.75,
+          52.609375
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data :",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.5,
+          283.58521190261496
+        ],
+        [
+          150.75,
+          283.58521190261496
+        ],
+        [
+          150.75,
+          296.15625
+        ],
+        [
+          58.5,
+          296.15625
+        ]
+      ]
+    },
+    {
+      "title": "Skyddad mot:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.0,
+          435.8809738503156
+        ],
+        [
+          144.0,
+          435.8809738503156
+        ],
+        [
+          144.0,
+          449.71875
+        ],
+        [
+          60.0,
+          449.71875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          25
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Passiv IR-detektor - BRAVO 6Copiaxhttpswwwcopiaxse  images  doc  50090682_ins_-3297500899897226710"
+}

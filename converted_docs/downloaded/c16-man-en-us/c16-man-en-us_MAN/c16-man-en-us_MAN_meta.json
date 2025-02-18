@@ -1,0 +1,747 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Connection instructions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.9111328125,
+          127.7752685546875
+        ],
+        [
+          314.496337890625,
+          127.7752685546875
+        ],
+        [
+          314.496337890625,
+          149.10528564453125
+        ],
+        [
+          104.9111328125,
+          149.10528564453125
+        ]
+      ]
+    },
+    {
+      "title": "Motor lock module ASSA C16, 2-3160",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.4560546875,
+          206.2806396484375
+        ],
+        [
+          427.3262023925781,
+          206.2806396484375
+        ],
+        [
+          427.3262023925781,
+          230.2806396484375
+        ],
+        [
+          103.4560546875,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "C16 Motor lock module ASSA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.44140625,
+          69.313720703125
+        ],
+        [
+          356.88616943359375,
+          69.313720703125
+        ],
+        [
+          356.88616943359375,
+          93.313720703125
+        ],
+        [
+          63.44140625,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.496337890625,
+          69.68701171875
+        ],
+        [
+          182.471923828125,
+          69.68701171875
+        ],
+        [
+          182.471923828125,
+          91.946533203125
+        ],
+        [
+          64.496337890625,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Assembly and connection",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.09619140625,
+          198.313720703125
+        ],
+        [
+          322.7220458984375,
+          198.313720703125
+        ],
+        [
+          322.7220458984375,
+          222.313720703125
+        ],
+        [
+          64.09619140625,
+          222.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "In case of problems, the lock may need to be removed to see the status LED.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.314453125,
+          228.38427734375
+        ],
+        [
+          482.212890625,
+          228.38427734375
+        ],
+        [
+          482.212890625,
+          243.18505859375
+        ],
+        [
+          64.314453125,
+          243.18505859375
+        ]
+      ]
+    },
+    {
+      "title": "Essential function",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.24169921875,
+          487.4291687011719
+        ],
+        [
+          201.44361877441406,
+          487.4291687011719
+        ],
+        [
+          201.44361877441406,
+          506.09918212890625
+        ],
+        [
+          64.24169921875,
+          506.09918212890625
+        ]
+      ]
+    },
+    {
+      "title": "ASSA Hi-O Setup",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.09619140625,
+          577.0636901855469
+        ],
+        [
+          233.46583557128906,
+          577.0636901855469
+        ],
+        [
+          233.46583557128906,
+          601.0636901855469
+        ],
+        [
+          64.09619140625,
+          601.0636901855469
+        ]
+      ]
+    },
+    {
+      "title": "Information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.4599609375,
+          679.19140625
+        ],
+        [
+          154.1981964111328,
+          679.19140625
+        ],
+        [
+          154.1981964111328,
+          695.63671875
+        ],
+        [
+          64.4599609375,
+          695.63671875
+        ]
+      ]
+    },
+    {
+      "title": "Init Network",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.65966796875,
+          81.67913818359375
+        ],
+        [
+          161.6942138671875,
+          81.67913818359375
+        ],
+        [
+          161.6942138671875,
+          100.34912109375
+        ],
+        [
+          63.65966796875,
+          100.34912109375
+        ]
+      ]
+    },
+    {
+      "title": "Uninit Network",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.24169921875,
+          216.67913818359375
+        ],
+        [
+          181.94415283203125,
+          216.67913818359375
+        ],
+        [
+          181.94415283203125,
+          235.34912109375
+        ],
+        [
+          64.24169921875,
+          235.34912109375
+        ]
+      ]
+    },
+    {
+      "title": "Uninit Network must be run before changing lock or module.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.8779296875,
+          299.09912109375
+        ],
+        [
+          438.3954162597656,
+          299.09912109375
+        ],
+        [
+          438.3954162597656,
+          313.48876953125
+        ],
+        [
+          63.8779296875,
+          313.48876953125
+        ]
+      ]
+    },
+    {
+      "title": "Factory Restore",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.80517578125,
+          350.07958984375
+        ],
+        [
+          187.1930694580078,
+          350.07958984375
+        ],
+        [
+          187.1930694580078,
+          368.84918212890625
+        ],
+        [
+          63.80517578125,
+          368.84918212890625
+        ]
+      ]
+    },
+    {
+      "title": "Cable Termination",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.841552734375,
+          447.6791687011719
+        ],
+        [
+          205.1989288330078,
+          447.6791687011719
+        ],
+        [
+          205.1989288330078,
+          466.34918212890625
+        ],
+        [
+          63.841552734375,
+          466.34918212890625
+        ]
+      ]
+    },
+    {
+      "title": "Explanation of LEDs",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.1689453125,
+          69.313720703125
+        ],
+        [
+          265.87799072265625,
+          69.313720703125
+        ],
+        [
+          265.87799072265625,
+          93.313720703125
+        ],
+        [
+          64.1689453125,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Module LEDs",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.5,
+          109.15576171875
+        ],
+        [
+          164.39407348632812,
+          109.15576171875
+        ],
+        [
+          164.39407348632812,
+          128.09918212890625
+        ],
+        [
+          64.5,
+          128.09918212890625
+        ]
+      ]
+    },
+    {
+      "title": "Lock housing LEDs",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.696044921875,
+          261.67913818359375
+        ],
+        [
+          208.6441192626953,
+          261.67913818359375
+        ],
+        [
+          208.6441192626953,
+          280.34912109375
+        ],
+        [
+          63.696044921875,
+          280.34912109375
+        ]
+      ]
+    },
+    {
+      "title": "Replace module or motor lock",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          64.4599609375,
+          353.5636901855469
+        ],
+        [
+          365.4662780761719,
+          353.5636901855469
+        ],
+        [
+          365.4662780761719,
+          377.5636901855469
+        ],
+        [
+          64.4599609375,
+          377.5636901855469
+        ]
+      ]
+    },
+    {
+      "title": "Factory reset of locks",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          63.80517578125,
+          69.71728515625
+        ],
+        [
+          206.912109375,
+          69.71728515625
+        ],
+        [
+          206.912109375,
+          88.3873291015625
+        ],
+        [
+          63.80517578125,
+          88.3873291015625
+        ]
+      ]
+    },
+    {
+      "title": "Installation and configuration of C16",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          63.732421875,
+          442.8136901855469
+        ],
+        [
+          429.2043762207031,
+          442.8136901855469
+        ],
+        [
+          429.2043762207031,
+          466.8136901855469
+        ],
+        [
+          63.732421875,
+          466.8136901855469
+        ]
+      ]
+    },
+    {
+      "title": "Before you contact support",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          64.5,
+          571.8136901855469
+        ],
+        [
+          337.632080078125,
+          571.8136901855469
+        ],
+        [
+          337.632080078125,
+          595.8136901855469
+        ],
+        [
+          64.5,
+          595.8136901855469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\c16-man-en-us_MAN"
+}

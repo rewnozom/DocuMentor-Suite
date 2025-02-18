@@ -1,0 +1,304 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          398.8359375,
+          61.9864501953125
+        ],
+        [
+          560.3203125,
+          61.9864501953125
+        ],
+        [
+          560.3203125,
+          103.558837890625
+        ],
+        [
+          398.8359375,
+          103.558837890625
+        ]
+      ]
+    },
+    {
+      "title": "Utanp\u00e5liggande l\u00e5s i \nminimal design",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          209.52610778808594,
+          447.408203125
+        ],
+        [
+          541.7844848632812,
+          447.408203125
+        ],
+        [
+          541.7844848632812,
+          528.2138671875
+        ],
+        [
+          209.52610778808594,
+          528.2138671875
+        ]
+      ]
+    },
+    {
+      "title": "Snabb och enkel montering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          209.16796875,
+          694.9287109375
+        ],
+        [
+          326.6935119628906,
+          694.9287109375
+        ],
+        [
+          326.6935119628906,
+          705.986328125
+        ],
+        [
+          209.16796875,
+          705.986328125
+        ]
+      ]
+    },
+    {
+      "title": "STEPs unika listtrycksteknik",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          209.625,
+          744.68798828125
+        ],
+        [
+          326.625,
+          744.68798828125
+        ],
+        [
+          326.625,
+          754.89501953125
+        ],
+        [
+          209.625,
+          754.89501953125
+        ]
+      ]
+    },
+    {
+      "title": "STEP 8 med eller utan vinkelkonsol",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          267.2109375,
+          96.328857421875
+        ],
+        [
+          555.4453125,
+          96.328857421875
+        ],
+        [
+          555.4453125,
+          117.4608154296875
+        ],
+        [
+          267.2109375,
+          117.4608154296875
+        ]
+      ]
+    },
+    {
+      "title": "Omv\u00e4nd funktion f\u00f6r d\u00f6rrar med utrymningskrav",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          266.6015625,
+          188.7237548828125
+        ],
+        [
+          470.1802978515625,
+          188.7237548828125
+        ],
+        [
+          470.1802978515625,
+          199.51654052734375
+        ],
+        [
+          266.6015625,
+          199.51654052734375
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          268.1573791503906,
+          294.72802734375
+        ],
+        [
+          379.82220458984375,
+          294.72802734375
+        ],
+        [
+          379.82220458984375,
+          315.4608154296875
+        ],
+        [
+          268.1573791503906,
+          315.4608154296875
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rbrukning*",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          266.6015625,
+          324.0732421875
+        ],
+        [
+          336.82513427734375,
+          324.0732421875
+        ],
+        [
+          336.82513427734375,
+          333.19952392578125
+        ],
+        [
+          266.6015625,
+          333.19952392578125
+        ]
+      ]
+    },
+    {
+      "title": "Artikelnummer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          266.296875,
+          408.70654296875
+        ],
+        [
+          324.1875,
+          408.70654296875
+        ],
+        [
+          324.1875,
+          418.72149658203125
+        ],
+        [
+          266.296875,
+          418.72149658203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PictureGroup",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Utanp\u00e5liggande l\u00e5s i minimal designCopiaxhttpswwwcopiaxse  doc  50134502_pro_8284558968648023935"
+}

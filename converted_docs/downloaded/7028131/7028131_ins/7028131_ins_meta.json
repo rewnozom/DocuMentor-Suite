@@ -1,0 +1,231 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Monteringsanvisning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.20703125,
+          15.714111328125
+        ],
+        [
+          164.71484375,
+          15.714111328125
+        ],
+        [
+          164.71484375,
+          35.606689453125
+        ],
+        [
+          19.20703125,
+          35.606689453125
+        ]
+      ]
+    },
+    {
+      "title": "Montering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.6253662109375,
+          83.31298828125
+        ],
+        [
+          68.5341796875,
+          83.31298828125
+        ],
+        [
+          68.5341796875,
+          96.43798828125
+        ],
+        [
+          19.6253662109375,
+          96.43798828125
+        ]
+      ]
+    },
+    {
+      "title": "ASSA OEM AB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.842500686645508,
+          346.9921875
+        ],
+        [
+          64.53271484375,
+          346.9921875
+        ],
+        [
+          64.53271484375,
+          355.60546875
+        ],
+        [
+          19.842500686645508,
+          355.60546875
+        ]
+      ]
+    },
+    {
+      "title": "Fitting instructions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          18.84326171875,
+          15.73974609375
+        ],
+        [
+          150.1640625,
+          15.73974609375
+        ],
+        [
+          150.1640625,
+          35.382232666015625
+        ],
+        [
+          18.84326171875,
+          35.382232666015625
+        ]
+      ]
+    },
+    {
+      "title": "Fitting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          19.1160888671875,
+          83.1591796875
+        ],
+        [
+          49.25439453125,
+          83.1591796875
+        ],
+        [
+          49.25439453125,
+          96.4892578125
+        ],
+        [
+          19.1160888671875,
+          96.4892578125
+        ]
+      ]
+    },
+    {
+      "title": "ASSA OEM AB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          19.842500686645508,
+          346.9921875
+        ],
+        [
+          65.1875,
+          346.9921875
+        ],
+        [
+          65.1875,
+          355.5676727294922
+        ],
+        [
+          19.842500686645508,
+          355.5676727294922
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\7028131_ins"
+}

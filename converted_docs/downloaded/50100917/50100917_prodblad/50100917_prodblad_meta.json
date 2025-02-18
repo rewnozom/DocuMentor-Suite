@@ -1,0 +1,158 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Koppla 2100",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          279.9684753417969,
+          143.4853515625
+        ],
+        [
+          421.099609375,
+          143.4853515625
+        ],
+        [
+          421.099609375,
+          174.3203125
+        ],
+        [
+          279.9684753417969,
+          174.3203125
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER OCH F\u00d6RDELAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          280.248046875,
+          194.0546875
+        ],
+        [
+          381.7367858886719,
+          194.0546875
+        ],
+        [
+          381.7367858886719,
+          205.1552734375
+        ],
+        [
+          280.248046875,
+          205.1552734375
+        ]
+      ]
+    },
+    {
+      "title": "www.aptus.se",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.4252014160156,
+          514.6534729003906
+        ],
+        [
+          523.1212158203125,
+          514.6534729003906
+        ],
+        [
+          523.1212158203125,
+          552.1513671875
+        ],
+        [
+          318.4252014160156,
+          552.1513671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "TableCell",
+          126
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50100917_prodblad"
+}

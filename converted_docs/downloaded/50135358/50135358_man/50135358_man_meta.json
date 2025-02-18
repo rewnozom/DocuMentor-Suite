@@ -1,0 +1,69 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Manual for aktivering av Yale Doorman mot Onesti",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.42578125,
+          73.7469482421875
+        ],
+        [
+          485.123046875,
+          73.7469482421875
+        ],
+        [
+          485.123046875,
+          94.5130615234375
+        ],
+        [
+          70.42578125,
+          94.5130615234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135358_man"
+}

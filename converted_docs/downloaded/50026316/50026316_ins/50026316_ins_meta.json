@@ -1,0 +1,412 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AS610/AS630 Outdoor Siren Installation Sheet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.7236328125,
+          108.5390625
+        ],
+        [
+          549.19189453125,
+          108.5390625
+        ],
+        [
+          549.19189453125,
+          136.0849609375
+        ],
+        [
+          39.7236328125,
+          136.0849609375
+        ]
+      ]
+    },
+    {
+      "title": "EN SV",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.4169921875,
+          162.705810546875
+        ],
+        [
+          78.57421875,
+          162.705810546875
+        ],
+        [
+          78.57421875,
+          172.37432861328125
+        ],
+        [
+          46.4169921875,
+          172.37432861328125
+        ]
+      ]
+    },
+    {
+      "title": "7 EN: Installation Sheet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.63999938964844,
+          587.5042572021484
+        ],
+        [
+          479.302734375,
+          587.5042572021484
+        ],
+        [
+          479.302734375,
+          606.009765625
+        ],
+        [
+          44.63999938964844,
+          606.009765625
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.587890625,
+          628.6220703125
+        ],
+        [
+          384.0460205078125,
+          628.6220703125
+        ],
+        [
+          384.0460205078125,
+          641.080078125
+        ],
+        [
+          314.587890625,
+          641.080078125
+        ]
+      ]
+    },
+    {
+      "title": "Wiring procedure",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.483154296875,
+          75.751220703125
+        ],
+        [
+          131.51605224609375,
+          75.751220703125
+        ],
+        [
+          131.51605224609375,
+          89.729736328125
+        ],
+        [
+          28.483154296875,
+          89.729736328125
+        ]
+      ]
+    },
+    {
+      "title": "Figures 6 and 7",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.8101806640625,
+          270.73095703125
+        ],
+        [
+          89.7391586303711,
+          270.73095703125
+        ],
+        [
+          89.7391586303711,
+          281.42041015625
+        ],
+        [
+          27.8101806640625,
+          281.42041015625
+        ]
+      ]
+    },
+    {
+      "title": "Table 1: Timer programming",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.15576171875,
+          384.20361328125
+        ],
+        [
+          139.05523681640625,
+          384.20361328125
+        ],
+        [
+          139.05523681640625,
+          395.30419921875
+        ],
+        [
+          28.15576171875,
+          395.30419921875
+        ]
+      ]
+    },
+    {
+      "title": "Table 2: Hold-off programming",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.59228515625,
+          452.6572265625
+        ],
+        [
+          147.9351806640625,
+          452.6572265625
+        ],
+        [
+          147.9351806640625,
+          464.1689453125
+        ],
+        [
+          28.59228515625,
+          464.1689453125
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.799999237060547,
+          554.6181640625
+        ],
+        [
+          113.5159912109375,
+          554.6181640625
+        ],
+        [
+          113.5159912109375,
+          568.8101196289062
+        ],
+        [
+          28.799999237060547,
+          568.8101196289062
+        ]
+      ]
+    },
+    {
+      "title": "Regulatory information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          297.8544921875,
+          198.5771484375
+        ],
+        [
+          434.2359924316406,
+          198.5771484375
+        ],
+        [
+          434.2359924316406,
+          213.17236328125
+        ],
+        [
+          297.8544921875,
+          213.17236328125
+        ]
+      ]
+    },
+    {
+      "title": "Contact information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          298.8699951171875,
+          539.8173828125
+        ],
+        [
+          416.2359924316406,
+          539.8173828125
+        ],
+        [
+          416.2359924316406,
+          554.2901000976562
+        ],
+        [
+          298.8699951171875,
+          554.2901000976562
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "TableCell",
+          101
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50026316_ins"
+}

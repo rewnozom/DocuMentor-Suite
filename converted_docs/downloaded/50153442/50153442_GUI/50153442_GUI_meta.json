@@ -1,0 +1,336 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          418.189453125,
+          24.5137939453125
+        ],
+        [
+          568.353515625,
+          24.5137939453125
+        ],
+        [
+          568.353515625,
+          48.1025390625
+        ],
+        [
+          418.189453125,
+          48.1025390625
+        ]
+      ]
+    },
+    {
+      "title": "Nyheter vid\nmontering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.182373046875,
+          52.59930419921875
+        ],
+        [
+          193.81640625,
+          52.59930419921875
+        ],
+        [
+          193.81640625,
+          113.164306640625
+        ],
+        [
+          51.182373046875,
+          113.164306640625
+        ]
+      ]
+    },
+    {
+      "title": "ED\u2009\u2009100\u2009/\u2009ED\u2009\u2009250 Fler nyheter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.314998626708984,
+          618.34375
+        ],
+        [
+          471.2102355957031,
+          618.34375
+        ],
+        [
+          471.2102355957031,
+          652.056640625
+        ],
+        [
+          50.314998626708984,
+          652.056640625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          417.31640625,
+          620.810546875
+        ],
+        [
+          469.69921875,
+          620.810546875
+        ],
+        [
+          469.69921875,
+          631.5
+        ],
+        [
+          417.31640625,
+          631.5
+        ]
+      ]
+    },
+    {
+      "title": "Standardarm",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.055419921875,
+          66.2437744140625
+        ],
+        [
+          144.92578125,
+          66.2437744140625
+        ],
+        [
+          144.92578125,
+          84.4364013671875
+        ],
+        [
+          52.055419921875,
+          84.4364013671875
+        ]
+      ]
+    },
+    {
+      "title": "Tryckande glidskena",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.146728515625,
+          582.986328125
+        ],
+        [
+          190.32421875,
+          582.986328125
+        ],
+        [
+          190.32421875,
+          601.8984375
+        ],
+        [
+          53.146728515625,
+          601.8984375
+        ]
+      ]
+    },
+    {
+      "title": "Dragande glidskena",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.782958984375,
+          60.4365234375
+        ],
+        [
+          188.1416015625,
+          60.4365234375
+        ],
+        [
+          188.1416015625,
+          79.3486328125
+        ],
+        [
+          52.782958984375,
+          79.3486328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Figure",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50153442_GUI"
+}

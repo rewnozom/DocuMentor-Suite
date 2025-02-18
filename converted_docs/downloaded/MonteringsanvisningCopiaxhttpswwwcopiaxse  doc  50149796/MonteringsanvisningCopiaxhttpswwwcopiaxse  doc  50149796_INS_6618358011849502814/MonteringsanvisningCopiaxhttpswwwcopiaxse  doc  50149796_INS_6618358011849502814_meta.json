@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "F\u00f6rarbeten",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          140.03150939941406,
+          569.5908203125
+        ],
+        [
+          190.06591796875,
+          569.5908203125
+        ],
+        [
+          190.06591796875,
+          582.1124572753906
+        ],
+        [
+          140.03150939941406,
+          582.1124572753906
+        ]
+      ]
+    },
+    {
+      "title": "Montering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          369.0715026855469,
+          569.17138671875
+        ],
+        [
+          416.6484375,
+          569.17138671875
+        ],
+        [
+          416.6484375,
+          582.1324768066406
+        ],
+        [
+          369.0715026855469,
+          582.1324768066406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\MonteringsanvisningCopiaxhttpswwwcopiaxse  doc  50149796_INS_6618358011849502814"
+}

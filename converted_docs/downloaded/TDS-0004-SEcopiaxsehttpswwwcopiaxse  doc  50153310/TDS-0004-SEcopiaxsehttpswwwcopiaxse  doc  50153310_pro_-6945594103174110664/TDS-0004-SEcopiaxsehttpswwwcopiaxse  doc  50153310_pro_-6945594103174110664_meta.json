@@ -1,0 +1,212 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Station\u00e4r Paxton10-l\u00e4sare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.7509765625,
+          24.48809814453125
+        ],
+        [
+          317.5391845703125,
+          24.48809814453125
+        ],
+        [
+          317.5391845703125,
+          53.65283203125
+        ],
+        [
+          64.7509765625,
+          53.65283203125
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6versikt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.641845703125,
+          84.89892578125
+        ],
+        [
+          124.263671875,
+          84.89892578125
+        ],
+        [
+          124.263671875,
+          107.408447265625
+        ],
+        [
+          64.641845703125,
+          107.408447265625
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.60546875,
+          240.71826171875
+        ],
+        [
+          144.1982421875,
+          240.71826171875
+        ],
+        [
+          144.1982421875,
+          261.68603515625
+        ],
+        [
+          64.60546875,
+          261.68603515625
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.78662109375,
+          32.50518798828125
+        ],
+        [
+          171.408203125,
+          32.50518798828125
+        ],
+        [
+          171.408203125,
+          53.40771484375
+        ],
+        [
+          62.78662109375,
+          53.40771484375
+        ]
+      ]
+    },
+    {
+      "title": "Maskinvara",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          114.369140625,
+          316.9833984375
+        ],
+        [
+          168.20703125,
+          316.9833984375
+        ],
+        [
+          168.20703125,
+          328.80108642578125
+        ],
+        [
+          114.369140625,
+          328.80108642578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\TDS-0004-SEcopiaxsehttpswwwcopiaxse  doc  50153310_pro_-6945594103174110664"
+}

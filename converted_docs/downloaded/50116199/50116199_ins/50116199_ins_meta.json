@@ -1,0 +1,463 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A66 L\u00e4sarterminal kompaktl\u00e4ge",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          159.185546875,
+          178.534423828125
+        ],
+        [
+          450.9135437011719,
+          178.534423828125
+        ],
+        [
+          450.9135437011719,
+          202.02996826171875
+        ],
+        [
+          159.185546875,
+          202.02996826171875
+        ]
+      ]
+    },
+    {
+      "title": "Avl\u00e4sning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.904052734375,
+          497.0595703125
+        ],
+        [
+          103.82694244384766,
+          497.0595703125
+        ],
+        [
+          103.82694244384766,
+          514.5
+        ],
+        [
+          35.904052734375,
+          514.5
+        ]
+      ]
+    },
+    {
+      "title": "Drifts\u00e4ttning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.50390625,
+          614.6435546875
+        ],
+        [
+          123.98702239990234,
+          614.6435546875
+        ],
+        [
+          123.98702239990234,
+          633.2100219726562
+        ],
+        [
+          35.50390625,
+          633.2100219726562
+        ]
+      ]
+    },
+    {
+      "title": "OBS! Byt ut programmeringskoden till en egen 6-siffrig kod!",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.6337890625,
+          768.4072265625
+        ],
+        [
+          394.6171875,
+          768.4072265625
+        ],
+        [
+          394.6171875,
+          784.7659950256348
+        ],
+        [
+          42.6337890625,
+          784.7659950256348
+        ]
+      ]
+    },
+    {
+      "title": "Programmeringsl\u00e4ge: Tryck programmeringsknapp (se bild) \noch ange koden (112233).",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.212890625,
+          43.7342529296875
+        ],
+        [
+          354.748046875,
+          43.7342529296875
+        ],
+        [
+          354.748046875,
+          76.2137451171875
+        ],
+        [
+          35.212890625,
+          76.2137451171875
+        ]
+      ]
+    },
+    {
+      "title": "Visas --:-- i displayen m\u00e5ste tiden st\u00e4llas.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.99462890625,
+          101.3499755859375
+        ],
+        [
+          276.46484375,
+          101.3499755859375
+        ],
+        [
+          276.46484375,
+          121.3900146484375
+        ],
+        [
+          34.99462890625,
+          121.3900146484375
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rbrukning vid 24V: M\u00e5tt: A63/A66: 180x87x27 (HxBxD)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.4853515625,
+          670.96875
+        ],
+        [
+          488.6689453125,
+          670.96875
+        ],
+        [
+          488.6689453125,
+          685.9800720214844
+        ],
+        [
+          34.4853515625,
+          685.9800720214844
+        ]
+      ]
+    },
+    {
+      "title": "20016-12 A66 Kompaktl\u00e4ge Sida 3",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.704002380371094,
+          809.5205078125
+        ],
+        [
+          549.2930297851562,
+          809.5205078125
+        ],
+        [
+          549.2930297851562,
+          824.8699989318848
+        ],
+        [
+          55.704002380371094,
+          824.8699989318848
+        ]
+      ]
+    },
+    {
+      "title": "A66 Meny-\u00f6versikt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.212890625,
+          46.4066162109375
+        ],
+        [
+          157.4900360107422,
+          46.4066162109375
+        ],
+        [
+          157.4900360107422,
+          62.8699951171875
+        ],
+        [
+          35.212890625,
+          62.8699951171875
+        ]
+      ]
+    },
+    {
+      "title": "TIDER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.594482421875,
+          73.8497314453125
+        ],
+        [
+          70.75298309326172,
+          73.8497314453125
+        ],
+        [
+          70.75298309326172,
+          88.9588623046875
+        ],
+        [
+          34.594482421875,
+          88.9588623046875
+        ]
+      ]
+    },
+    {
+      "title": "KODER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.8309326171875,
+          149.44677734375
+        ],
+        [
+          76.75293731689453,
+          149.44677734375
+        ],
+        [
+          76.75293731689453,
+          164.74005126953125
+        ],
+        [
+          34.8309326171875,
+          164.74005126953125
+        ]
+      ]
+    },
+    {
+      "title": "BRICKOR",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.7039794921875,
+          225.09521484375
+        ],
+        [
+          87.07291412353516,
+          225.09521484375
+        ],
+        [
+          87.07291412353516,
+          240.5799560546875
+        ],
+        [
+          35.7039794921875,
+          240.5799560546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116199_ins"
+}

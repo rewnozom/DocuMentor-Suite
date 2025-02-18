@@ -1,0 +1,111 @@
+{
+  "table_of_contents": [
+    {
+      "title": "KALENDER 2025",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          419.8834533691406,
+          42.3466796875
+        ],
+        [
+          770.675537109375,
+          42.3466796875
+        ],
+        [
+          770.675537109375,
+          134.23486328125
+        ],
+        [
+          419.8834533691406,
+          134.23486328125
+        ]
+      ]
+    },
+    {
+      "title": "MER INFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          955.3516235351562,
+          740.861328125
+        ],
+        [
+          1059.4248046875,
+          740.861328125
+        ],
+        [
+          1059.4248046875,
+          756.484375
+        ],
+        [
+          955.3516235351562,
+          756.484375
+        ]
+      ]
+    },
+    {
+      "title": "L\u00d6PANDE UNDER \u00c5RET",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.771728515625,
+          726.4716796875
+        ],
+        [
+          171.77508544921875,
+          726.4716796875
+        ],
+        [
+          171.77508544921875,
+          742.5767135620117
+        ],
+        [
+          34.771728515625,
+          742.5767135620117
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\copiax-kalender-2025-kunder-webb2"
+}

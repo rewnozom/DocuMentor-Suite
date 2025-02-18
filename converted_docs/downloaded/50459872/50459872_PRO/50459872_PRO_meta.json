@@ -1,0 +1,949 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Serie8\u00ae \u2013 trycken\noch beslag f\u00f6r \nd\u00f6rrar utomhus",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.6865234375,
+          35.7685546875
+        ],
+        [
+          426.046875,
+          35.7685546875
+        ],
+        [
+          426.046875,
+          187.8876953125
+        ],
+        [
+          37.6865234375,
+          187.8876953125
+        ]
+      ]
+    },
+    {
+      "title": "Materialval och ytbehandling",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.5595703125,
+          615.0546875
+        ],
+        [
+          323.609375,
+          615.0546875
+        ],
+        [
+          323.609375,
+          638.078125
+        ],
+        [
+          38.5595703125,
+          638.078125
+        ]
+      ]
+    },
+    {
+      "title": "Serie8\u00ae\n \u2013 trycken och beslag f\u00f6r utomhusbruk",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.34130859375,
+          235.02001953125
+        ],
+        [
+          238.05078125,
+          235.02001953125
+        ],
+        [
+          238.05078125,
+          245.857421875
+        ],
+        [
+          38.34130859375,
+          245.857421875
+        ]
+      ]
+    },
+    {
+      "title": "Korrosionsbest\u00e4ndighet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          37.650146484375,
+          343.09033203125
+        ],
+        [
+          144.634765625,
+          343.09033203125
+        ],
+        [
+          144.634765625,
+          353.36865234375
+        ],
+        [
+          37.650146484375,
+          353.36865234375
+        ]
+      ]
+    },
+    {
+      "title": "Serie8\u00ae\n i korthet:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.72198486328125,
+          193.02001953125
+        ],
+        [
+          379.484375,
+          193.02001953125
+        ],
+        [
+          379.484375,
+          203.30517578125
+        ],
+        [
+          304.72198486328125,
+          203.30517578125
+        ]
+      ]
+    },
+    {
+      "title": "Trycken med returfj\u00e4der",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          37.541015625,
+          50.44085693359375
+        ],
+        [
+          388.2833251953125,
+          50.44085693359375
+        ],
+        [
+          388.2833251953125,
+          89.83251953125
+        ],
+        [
+          37.541015625,
+          89.83251953125
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrtrycke DH 8020",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.09450149536133,
+          191.48443603515625
+        ],
+        [
+          257.6943359375,
+          191.48443603515625
+        ],
+        [
+          257.6943359375,
+          307.52734375
+        ],
+        [
+          39.09450149536133,
+          307.52734375
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrtrycke DH 8062",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.32275390625,
+          60.0767822265625
+        ],
+        [
+          112.58441162109375,
+          60.0767822265625
+        ],
+        [
+          112.58441162109375,
+          69.7384033203125
+        ],
+        [
+          37.32275390625,
+          69.7384033203125
+        ]
+      ]
+    },
+    {
+      "title": "Vred",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.068115234375,
+          222.62841796875
+        ],
+        [
+          107.09375,
+          222.62841796875
+        ],
+        [
+          107.09375,
+          255.93017578125
+        ],
+        [
+          37.068115234375,
+          255.93017578125
+        ]
+      ]
+    },
+    {
+      "title": "Cylinderbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          37.541015625,
+          50.13250732421875
+        ],
+        [
+          243.201416015625,
+          50.13250732421875
+        ],
+        [
+          243.201416015625,
+          90.346435546875
+        ],
+        [
+          37.541015625,
+          90.346435546875
+        ]
+      ]
+    },
+    {
+      "title": "Cylinderringar F\u00f6r ovala cylindrar Cylinderringar F\u00f6r runda cylindrar",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.4140625,
+          170.82568359375
+        ],
+        [
+          491.1758117675781,
+          170.82568359375
+        ],
+        [
+          491.1758117675781,
+          186.03759765625
+        ],
+        [
+          38.4140625,
+          186.03759765625
+        ]
+      ]
+    },
+    {
+      "title": "Cylinderring DR 8320",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.7401008605957,
+          196.624267578125
+        ],
+        [
+          118.95263671875,
+          196.624267578125
+        ],
+        [
+          118.95263671875,
+          206.080322265625
+        ],
+        [
+          38.7401008605957,
+          206.080322265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          138.0869140625,
+          182.33740234375
+        ],
+        [
+          230.0478515625,
+          182.33740234375
+        ],
+        [
+          230.0478515625,
+          199.810546875
+        ],
+        [
+          138.0869140625,
+          199.810546875
+        ]
+      ]
+    },
+    {
+      "title": "Cylinderring DR 8330",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.7401008605957,
+          318.01123046875
+        ],
+        [
+          116.35310363769531,
+          318.01123046875
+        ],
+        [
+          116.35310363769531,
+          327.46728515625
+        ],
+        [
+          38.7401008605957,
+          327.46728515625
+        ]
+      ]
+    },
+    {
+      "title": "Cylinderring DR 8340",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.740089416503906,
+          439.5009765625
+        ],
+        [
+          116.62451171875,
+          439.5009765625
+        ],
+        [
+          116.62451171875,
+          448.5458984375
+        ],
+        [
+          38.740089416503906,
+          448.5458984375
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6vriga cylinderbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.668701171875,
+          564.07421875
+        ],
+        [
+          180.5163116455078,
+          564.07421875
+        ],
+        [
+          180.5163116455078,
+          582.986328125
+        ],
+        [
+          38.668701171875,
+          582.986328125
+        ]
+      ]
+    },
+    {
+      "title": "T\u00e4ckskyltbeh\u00f6r DA 8100",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.741455078125,
+          592.4423828125
+        ],
+        [
+          127.57684326171875,
+          592.4423828125
+        ],
+        [
+          127.57684326171875,
+          602.3095703125
+        ],
+        [
+          38.741455078125,
+          602.3095703125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          299.1640625,
+          170.208984375
+        ],
+        [
+          401.01953125,
+          170.208984375
+        ],
+        [
+          401.01953125,
+          185.21533203125
+        ],
+        [
+          299.1640625,
+          185.21533203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          403.638671875,
+          171.956298828125
+        ],
+        [
+          497.345703125,
+          171.956298828125
+        ],
+        [
+          497.345703125,
+          183.056884765625
+        ],
+        [
+          403.638671875,
+          183.056884765625
+        ]
+      ]
+    },
+    {
+      "title": "Cylinderring DR R8354",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          299.455078125,
+          317.39453125
+        ],
+        [
+          386.759765625,
+          317.39453125
+        ],
+        [
+          386.759765625,
+          327.26171875
+        ],
+        [
+          299.455078125,
+          327.26171875
+        ]
+      ]
+    },
+    {
+      "title": "Toalettbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          37.541015625,
+          51.36590576171875
+        ],
+        [
+          226.24461364746094,
+          51.36590576171875
+        ],
+        [
+          226.24461364746094,
+          88.3935546875
+        ],
+        [
+          37.541015625,
+          88.3935546875
+        ]
+      ]
+    },
+    {
+      "title": "Kompletterande produkter",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          37.9775390625,
+          299.09912109375
+        ],
+        [
+          426.93341064453125,
+          299.09912109375
+        ],
+        [
+          426.93341064453125,
+          334.04541015625
+        ],
+        [
+          37.9775390625,
+          334.04541015625
+        ]
+      ]
+    },
+    {
+      "title": "\u00c5terfj\u00e4drande vredcylindrar",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.5595703125,
+          341.6513671875
+        ],
+        [
+          227.82803344726562,
+          341.6513671875
+        ],
+        [
+          227.82803344726562,
+          361.3857421875
+        ],
+        [
+          38.5595703125,
+          361.3857421875
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Sverige AB",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          425.1968078613281,
+          770.2279968261719
+        ],
+        [
+          526.851806640625,
+          770.2279968261719
+        ],
+        [
+          526.851806640625,
+          781.5634765625
+        ],
+        [
+          425.1968078613281,
+          781.5634765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          26
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Figure",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Picture",
+          9
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Picture",
+          12
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Picture",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50459872_PRO"
+}

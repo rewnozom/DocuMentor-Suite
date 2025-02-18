@@ -1,0 +1,84 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.9140625,
+          115.32275390625
+        ],
+        [
+          480.466796875,
+          115.32275390625
+        ],
+        [
+          480.466796875,
+          157.25830078125
+        ],
+        [
+          112.9140625,
+          157.25830078125
+        ]
+      ]
+    },
+    {
+      "title": "Marknadsinformation ARX S\u00e4kerhetssystem",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.197265625,
+          288.2041015625
+        ],
+        [
+          327.392578125,
+          288.2041015625
+        ],
+        [
+          327.392578125,
+          302.59375
+        ],
+        [
+          42.197265625,
+          302.59375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50126323_pro"
+}

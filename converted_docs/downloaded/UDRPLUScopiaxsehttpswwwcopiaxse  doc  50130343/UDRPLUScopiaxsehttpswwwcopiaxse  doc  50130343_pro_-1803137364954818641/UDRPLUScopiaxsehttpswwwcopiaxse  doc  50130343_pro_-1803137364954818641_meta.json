@@ -1,0 +1,142 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UDRPLUS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          302.66461181640625,
+          76.367919921875
+        ],
+        [
+          533.72265625,
+          76.367919921875
+        ],
+        [
+          533.72265625,
+          141.0548095703125
+        ],
+        [
+          302.66461181640625,
+          141.0548095703125
+        ]
+      ]
+    },
+    {
+      "title": "\u2013 e\ufffd smart d\u00f6rrlarm fr\u00e5n Axema!",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.984375,
+          136.0849609375
+        ],
+        [
+          539.54296875,
+          136.0849609375
+        ],
+        [
+          539.54296875,
+          153.65478515625
+        ],
+        [
+          304.984375,
+          153.65478515625
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          259.4404296875,
+          593.67578125
+        ],
+        [
+          336.123046875,
+          593.67578125
+        ],
+        [
+          336.123046875,
+          609.6673889160156
+        ],
+        [
+          259.4404296875,
+          609.6673889160156
+        ]
+      ]
+    },
+    {
+      "title": "Art.nr. 1-9033-3 E5870725",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          330.01171875,
+          710.8486328125
+        ],
+        [
+          468.53515625,
+          710.8486328125
+        ],
+        [
+          468.53515625,
+          723.5042190551758
+        ],
+        [
+          330.01171875,
+          723.5042190551758
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\UDRPLUScopiaxsehttpswwwcopiaxse  doc  50130343_pro_-1803137364954818641"
+}

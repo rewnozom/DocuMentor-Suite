@@ -1,0 +1,135 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RC 1 REL\u00c4KORT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.984130859375,
+          70.8690185546875
+        ],
+        [
+          153.65625,
+          70.8690185546875
+        ],
+        [
+          153.65625,
+          89.98370361328125
+        ],
+        [
+          55.984130859375,
+          89.98370361328125
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rdelar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.98779296875,
+          173.313720703125
+        ],
+        [
+          107.60302734375,
+          173.313720703125
+        ],
+        [
+          107.60302734375,
+          187.313720703125
+        ],
+        [
+          65.98779296875,
+          187.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Best\u00e4llningsinformation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.80224609375,
+          755.2509765625
+        ],
+        [
+          140.972900390625,
+          755.2509765625
+        ],
+        [
+          140.972900390625,
+          765.3861236572266
+        ],
+        [
+          55.80224609375,
+          765.3861236572266
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          270
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          26
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\RC 1 REL\u00c4KORTcopiaxsehttpswwwcopiaxse  doc  50090624_pro_8605108133072147658"
+}

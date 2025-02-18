@@ -1,0 +1,277 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PRODUCT SHEET // SMARTRELAY 3 ADVANCED",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.4638671875,
+          24.770751953125
+        ],
+        [
+          223.19900512695312,
+          24.770751953125
+        ],
+        [
+          223.19900512695312,
+          35.56298828125
+        ],
+        [
+          25.4638671875,
+          35.56298828125
+        ]
+      ]
+    },
+    {
+      "title": "A modular unit consisting of a controller and reader with optional vandalism protection",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          25.511798858642578,
+          45.4815673828125
+        ],
+        [
+          369.0078125,
+          43.8370361328125
+        ],
+        [
+          369.0078125,
+          53.8583984375
+        ],
+        [
+          25.511798858642578,
+          55.5029296875
+        ]
+      ]
+    },
+    {
+      "title": "// TECHNICAL DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.68359375,
+          424.7001953125
+        ],
+        [
+          120.48046875,
+          424.7001953125
+        ],
+        [
+          120.48046875,
+          437.0341796875
+        ],
+        [
+          29.68359375,
+          437.0341796875
+        ]
+      ]
+    },
+    {
+      "title": "// FEATURES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          362.60546875,
+          80.58203125
+        ],
+        [
+          425.46484375,
+          80.58203125
+        ],
+        [
+          425.46484375,
+          91.6826171875
+        ],
+        [
+          362.60546875,
+          91.6826171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          353.875,
+          31.554443359375
+        ],
+        [
+          406.2578125,
+          31.554443359375
+        ],
+        [
+          406.2578125,
+          42.7064208984375
+        ],
+        [
+          353.875,
+          42.7064208984375
+        ]
+      ]
+    },
+    {
+      "title": "// EXAMPLES OF USE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          24.190673828125,
+          492.1259765625
+        ],
+        [
+          122.42501068115234,
+          492.1259765625
+        ],
+        [
+          122.42501068115234,
+          503.6376953125
+        ],
+        [
+          24.190673828125,
+          503.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "Switching",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          407.3110046386719,
+          538.583984375
+        ],
+        [
+          464.169921875,
+          538.583984375
+        ],
+        [
+          464.169921875,
+          550.91796875
+        ],
+        [
+          407.3110046386719,
+          550.91796875
+        ]
+      ]
+    },
+    {
+      "title": "Connection to external",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          399.2734375,
+          671.3798828125
+        ],
+        [
+          509.54815673828125,
+          671.3798828125
+        ],
+        [
+          509.54815673828125,
+          682.0693359375
+        ],
+        [
+          399.2734375,
+          682.0693359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50140848_PRO"
+}

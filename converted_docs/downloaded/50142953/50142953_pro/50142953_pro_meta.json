@@ -1,0 +1,254 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Datablad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.3291015625,
+          128.89013671875
+        ],
+        [
+          183.31173706054688,
+          128.89013671875
+        ],
+        [
+          183.31173706054688,
+          149.26275634765625
+        ],
+        [
+          104.3291015625,
+          149.26275634765625
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrcentral VAKA B18",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          207.930419921875
+        ],
+        [
+          319.7820739746094,
+          207.930419921875
+        ],
+        [
+          319.7820739746094,
+          232.62646484375
+        ],
+        [
+          105.0,
+          232.62646484375
+        ]
+      ]
+    },
+    {
+      "title": "De nya d\u00f6rrcentralerna B18 & B28",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.6201171875,
+          70.09814453125
+        ],
+        [
+          436.0321350097656,
+          70.09814453125
+        ],
+        [
+          436.0321350097656,
+          94.94146728515625
+        ],
+        [
+          104.6201171875,
+          94.94146728515625
+        ]
+      ]
+    },
+    {
+      "title": "Viktigt att t\u00e4nka p\u00e5",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.474609375,
+          300.126953125
+        ],
+        [
+          246.15887451171875,
+          300.126953125
+        ],
+        [
+          246.15887451171875,
+          319.87957763671875
+        ],
+        [
+          104.474609375,
+          319.87957763671875
+        ]
+      ]
+    },
+    {
+      "title": "Funktionalitet och anv\u00e4ndningsomr\u00e5den",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.9111328125,
+          531.4415283203125
+        ],
+        [
+          491.0521240234375,
+          531.4415283203125
+        ],
+        [
+          491.0521240234375,
+          555.4415283203125
+        ],
+        [
+          104.9111328125,
+          555.4415283203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50142953_pro"
+}

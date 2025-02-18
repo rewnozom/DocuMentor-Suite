@@ -1,0 +1,220 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DL RJ45",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.1318359375,
+          65.267333984375
+        ],
+        [
+          154.90805053710938,
+          65.267333984375
+        ],
+        [
+          154.90805053710938,
+          90.24365234375
+        ],
+        [
+          62.1318359375,
+          90.24365234375
+        ]
+      ]
+    },
+    {
+      "title": "Karm\u00f6verf\u00f6ring med spiralkabel och RJ45 kontakt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.986328125,
+          141.0185546875
+        ],
+        [
+          519.171875,
+          141.0185546875
+        ],
+        [
+          519.171875,
+          163.42529296875
+        ],
+        [
+          61.986328125,
+          163.42529296875
+        ]
+      ]
+    },
+    {
+      "title": "Produktdetajler:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.72700119018555,
+          224.8896484375
+        ],
+        [
+          159.0869903564453,
+          224.8896484375
+        ],
+        [
+          159.0869903564453,
+          236.8125
+        ],
+        [
+          62.72700119018555,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "BEST\u00c4LLINGSINFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.095458984375,
+          692.7587890625
+        ],
+        [
+          176.673095703125,
+          692.7587890625
+        ],
+        [
+          176.673095703125,
+          701.8037109375
+        ],
+        [
+          62.095458984375,
+          701.8037109375
+        ]
+      ]
+    },
+    {
+      "title": "Relaterade produkter och tillbeh\u00f6r:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.494140625,
+          60.128173828125
+        ],
+        [
+          300.619140625,
+          60.128173828125
+        ],
+        [
+          300.619140625,
+          74.928955078125
+        ],
+        [
+          58.494140625,
+          74.928955078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50153391_pro"
+}

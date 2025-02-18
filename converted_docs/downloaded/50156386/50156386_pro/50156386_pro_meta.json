@@ -1,0 +1,231 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ASSA ABLOY \nARX Communicator",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.28271484375,
+          24.5137939453125
+        ],
+        [
+          323.900390625,
+          24.5137939453125
+        ],
+        [
+          323.900390625,
+          107.716796875
+        ],
+        [
+          27.28271484375,
+          107.716796875
+        ]
+      ]
+    },
+    {
+      "title": "ASSA ABLOY \nARX Communicator",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.216001510620117,
+          23.3831787109375
+        ],
+        [
+          325.35546875,
+          23.3831787109375
+        ],
+        [
+          325.35546875,
+          105.89599609375
+        ],
+        [
+          28.216001510620117,
+          105.89599609375
+        ]
+      ]
+    },
+    {
+      "title": "Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          136.1953125,
+          211.93896484375
+        ],
+        [
+          155.25869750976562,
+          211.93896484375
+        ],
+        [
+          155.25869750976562,
+          223.86181640625
+        ],
+        [
+          136.1953125,
+          223.86181640625
+        ]
+      ]
+    },
+    {
+      "title": "M\u00e5tt och vikt",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          137.7958984375,
+          322.328125
+        ],
+        [
+          185.2314453125,
+          322.328125
+        ],
+        [
+          185.2314453125,
+          333.687255859375
+        ],
+        [
+          137.7958984375,
+          333.687255859375
+        ]
+      ]
+    },
+    {
+      "title": "Certifierad enligt:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          137.94140625,
+          387.90380859375
+        ],
+        [
+          205.166015625,
+          387.90380859375
+        ],
+        [
+          205.166015625,
+          398.81732177734375
+        ],
+        [
+          137.94140625,
+          398.81732177734375
+        ]
+      ]
+    },
+    {
+      "title": "Artikelnummer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          137.068359375,
+          482.2587890625
+        ],
+        [
+          194.689453125,
+          482.2587890625
+        ],
+        [
+          194.689453125,
+          492.9482421875
+        ],
+        [
+          137.068359375,
+          492.9482421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50156386_pro"
+}

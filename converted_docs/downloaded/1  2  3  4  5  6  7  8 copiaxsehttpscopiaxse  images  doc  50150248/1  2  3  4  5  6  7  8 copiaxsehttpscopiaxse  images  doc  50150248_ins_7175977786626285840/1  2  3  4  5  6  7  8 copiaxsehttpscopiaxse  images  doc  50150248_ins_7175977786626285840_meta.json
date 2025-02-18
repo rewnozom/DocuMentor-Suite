@@ -1,0 +1,212 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          643.833984375,
+          11.37689208984375
+        ],
+        [
+          717.837890625,
+          11.37689208984375
+        ],
+        [
+          717.837890625,
+          29.17431640625
+        ],
+        [
+          643.833984375,
+          29.17431640625
+        ]
+      ]
+    },
+    {
+      "title": "12 | 13 | 14 |",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          12.840900421142578,
+          305.857421875
+        ],
+        [
+          446.64276123046875,
+          305.857421875
+        ],
+        [
+          446.64276123046875,
+          318.080078125
+        ],
+        [
+          12.840900421142578,
+          318.080078125
+        ]
+      ]
+    },
+    {
+      "title": "Manufacturing dates",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          228.03733825683594,
+          333.212890625
+        ],
+        [
+          306.4917297363281,
+          333.212890625
+        ],
+        [
+          306.4917297363281,
+          344.92274475097656
+        ],
+        [
+          228.03733825683594,
+          344.92274475097656
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          283.2705078125,
+          329.4296875
+        ],
+        [
+          337.5400390625,
+          329.4296875
+        ],
+        [
+          337.5400390625,
+          339.32421875
+        ],
+        [
+          283.2705078125,
+          339.32421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          438.6787109375,
+          304.693359375
+        ],
+        [
+          468.2802734375,
+          304.693359375
+        ],
+        [
+          468.2802734375,
+          315.751953125
+        ],
+        [
+          438.6787109375,
+          315.751953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "TableOfContents",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\1  2  3  4  5  6  7  8 copiaxsehttpscopiaxse  images  doc  50150248_ins_7175977786626285840"
+}

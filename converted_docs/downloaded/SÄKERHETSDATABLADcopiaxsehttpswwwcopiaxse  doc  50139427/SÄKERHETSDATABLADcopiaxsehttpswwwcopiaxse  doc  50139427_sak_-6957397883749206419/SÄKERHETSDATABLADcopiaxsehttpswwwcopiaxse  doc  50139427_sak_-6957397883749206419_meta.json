@@ -1,0 +1,625 @@
+{
+  "table_of_contents": [
+    {
+      "title": "S\u00c4KERHETSDATABLAD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          216.77000427246094,
+          67.1923828125
+        ],
+        [
+          405.2109375,
+          67.1923828125
+        ],
+        [
+          405.2109375,
+          85.1748046875
+        ],
+        [
+          216.77000427246094,
+          85.1748046875
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 1: NAMNET P\u00c5 \u00c4MNET/BLANDNINGEN OCH BOLAGET/F\u00d6RETAGET",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.44000244140625,
+          113.6953125
+        ],
+        [
+          414.7734375,
+          113.6953125
+        ],
+        [
+          414.7734375,
+          125.73590087890625
+        ],
+        [
+          40.44000244140625,
+          125.73590087890625
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 3: SAMMANS\u00c4TTNING/INFORMATION OM BEST\u00c5NDSDELAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.44000244140625,
+          539.47265625
+        ],
+        [
+          382.201171875,
+          539.47265625
+        ],
+        [
+          382.201171875,
+          551.07421875
+        ],
+        [
+          40.44000244140625,
+          551.07421875
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 4: \u00c5TG\u00c4RDER VID F\u00d6RSTA HJ\u00c4LPEN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.44000244140625,
+          648.9140625
+        ],
+        [
+          267.451171875,
+          648.9140625
+        ],
+        [
+          267.451171875,
+          660.515625
+        ],
+        [
+          40.44000244140625,
+          660.515625
+        ]
+      ]
+    },
+    {
+      "title": "Solo r\u00f6kdetektortestare",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          245.63671875,
+          48.146484375
+        ],
+        [
+          364.25,
+          48.146484375
+        ],
+        [
+          364.25,
+          60.5999755859375
+        ],
+        [
+          245.63671875,
+          60.5999755859375
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 5: BRANDBEK\u00c4MPNINGS\u00c5TG\u00c4RDER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.1923828125,
+          159.328125
+        ],
+        [
+          268.1982421875,
+          159.328125
+        ],
+        [
+          268.1982421875,
+          170.6158447265625
+        ],
+        [
+          40.1923828125,
+          170.6158447265625
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 6: \u00c5TG\u00c4RDER VID OAVSIKTLIGA UTSL\u00c4PP",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.44000244140625,
+          265.67578125
+        ],
+        [
+          294.64453125,
+          265.67578125
+        ],
+        [
+          294.64453125,
+          276.9658203125
+        ],
+        [
+          40.44000244140625,
+          276.9658203125
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 8: BEGR\u00c4NSNING AV EXPONERINGEN/PERSONLIGT SKYDD",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.44000244140625,
+          467.54296875
+        ],
+        [
+          381.0788879394531,
+          467.54296875
+        ],
+        [
+          381.0788879394531,
+          480.265869140625
+        ],
+        [
+          40.44000244140625,
+          480.265869140625
+        ]
+      ]
+    },
+    {
+      "title": "8.1 Kontrollparametrar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.8818359375,
+          486.4921875
+        ],
+        [
+          157.482421875,
+          486.4921875
+        ],
+        [
+          157.482421875,
+          496.546875
+        ],
+        [
+          42.8818359375,
+          496.546875
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 9: FYSIKALISKA OCH KEMISKA EGENSKAPER",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.44000244140625,
+          80.97589111328125
+        ],
+        [
+          310.8086853027344,
+          80.97589111328125
+        ],
+        [
+          310.8086853027344,
+          91.65234375
+        ],
+        [
+          40.44000244140625,
+          91.65234375
+        ]
+      ]
+    },
+    {
+      "title": "15.1.1 EU-regler",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          43.740966796875,
+          561.90234375
+        ],
+        [
+          114.9830322265625,
+          561.90234375
+        ],
+        [
+          114.9830322265625,
+          571.8242645263672
+        ],
+        [
+          43.740966796875,
+          571.8242645263672
+        ]
+      ]
+    },
+    {
+      "title": "15.1.2 Nationella f\u00f6reskrifter",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          43.62890625,
+          637.3125
+        ],
+        [
+          162.1142578125,
+          637.3125
+        ],
+        [
+          162.1142578125,
+          646.59375
+        ],
+        [
+          43.62890625,
+          646.59375
+        ]
+      ]
+    },
+    {
+      "title": "AVSNITT 16: ANNAN INFORMATION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.44000244140625,
+          80.5341796875
+        ],
+        [
+          212.6162109375,
+          80.5341796875
+        ],
+        [
+          212.6162109375,
+          91.458984375
+        ],
+        [
+          40.44000244140625,
+          91.458984375
+        ]
+      ]
+    },
+    {
+      "title": "Beteckningar och f\u00f6rkortningar",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          40.31999969482422,
+          115.7255859375
+        ],
+        [
+          160.470703125,
+          115.7255859375
+        ],
+        [
+          160.470703125,
+          125.0068359375
+        ],
+        [
+          40.31999969482422,
+          125.0068359375
+        ]
+      ]
+    },
+    {
+      "title": "Faroangivelser",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          39.557373046875,
+          252.52734375
+        ],
+        [
+          98.7626953125,
+          252.52734375
+        ],
+        [
+          98.7626953125,
+          262.68426513671875
+        ],
+        [
+          39.557373046875,
+          262.68426513671875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rbeh\u00e5ll",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          39.8935546875,
+          308.6015625
+        ],
+        [
+          77.8447265625,
+          308.6015625
+        ],
+        [
+          77.8447265625,
+          317.7642517089844
+        ],
+        [
+          39.8935546875,
+          317.7642517089844
+        ]
+      ]
+    },
+    {
+      "title": "Bilagan till det utvidgade s\u00e4kerhetsdatabladet (eSDS)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          39.22119140625,
+          363.708984375
+        ],
+        [
+          243.84375,
+          363.708984375
+        ],
+        [
+          243.84375,
+          372.990234375
+        ],
+        [
+          39.22119140625,
+          372.990234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "TableCell",
+          157
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "TableCell",
+          98
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          298
+        ],
+        [
+          "TableCell",
+          201
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "TableCell",
+          163
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\S\u00c4KERHETSDATABLADcopiaxsehttpswwwcopiaxse  doc  50139427_sak_-6957397883749206419"
+}

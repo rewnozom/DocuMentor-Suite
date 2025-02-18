@@ -1,0 +1,1630 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Low-power Keypad\nC1000LP",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.8720703125,
+          201.24951171875
+        ],
+        [
+          505.203125,
+          201.24951171875
+        ],
+        [
+          505.203125,
+          323.76708984375
+        ],
+        [
+          47.8720703125,
+          323.76708984375
+        ]
+      ]
+    },
+    {
+      "title": "User Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          134.0126953125,
+          419.35546875
+        ],
+        [
+          460.721435546875,
+          419.35546875
+        ],
+        [
+          460.721435546875,
+          484.314453125
+        ],
+        [
+          134.0126953125,
+          484.314453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          245.7626953125,
+          30.0126953125
+        ],
+        [
+          350.091796875,
+          30.0126953125
+        ],
+        [
+          350.091796875,
+          76.470703125
+        ],
+        [
+          245.7626953125,
+          76.470703125
+        ]
+      ]
+    },
+    {
+      "title": "Table of Content",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.84912109375,
+          94.3035888671875
+        ],
+        [
+          178.68359375,
+          94.3035888671875
+        ],
+        [
+          178.68359375,
+          116.55615234375
+        ],
+        [
+          34.84912109375,
+          116.55615234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          242.70703125,
+          29.1390380859375
+        ],
+        [
+          352.419921875,
+          29.1390380859375
+        ],
+        [
+          352.419921875,
+          77.7554931640625
+        ],
+        [
+          242.70703125,
+          77.7554931640625
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.0,
+          93.94384765625
+        ],
+        [
+          163.55078125,
+          93.94384765625
+        ],
+        [
+          163.55078125,
+          116.76171875
+        ],
+        [
+          36.0,
+          116.76171875
+        ]
+      ]
+    },
+    {
+      "title": "2. Installation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.249267578125,
+          365.70263671875
+        ],
+        [
+          150.74609375,
+          365.70263671875
+        ],
+        [
+          150.74609375,
+          388.72607421875
+        ],
+        [
+          35.249267578125,
+          388.72607421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          241.3974609375,
+          29.0362548828125
+        ],
+        [
+          351.837890625,
+          29.0362548828125
+        ],
+        [
+          351.837890625,
+          76.9332275390625
+        ],
+        [
+          241.3974609375,
+          76.9332275390625
+        ]
+      ]
+    },
+    {
+      "title": "3. Programming users",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.43115234375,
+          94.76611328125
+        ],
+        [
+          223.5,
+          94.76611328125
+        ],
+        [
+          223.5,
+          117.583984375
+        ],
+        [
+          35.43115234375,
+          117.583984375
+        ]
+      ]
+    },
+    {
+      "title": "3.1 User positions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.0,
+          178.22607421875
+        ],
+        [
+          163.4052734375,
+          178.22607421875
+        ],
+        [
+          163.4052734375,
+          196.72705078125
+        ],
+        [
+          36.0,
+          196.72705078125
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Programming user codes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.50390625,
+          368.16943359375
+        ],
+        [
+          237.9052734375,
+          368.16943359375
+        ],
+        [
+          237.9052734375,
+          386.67041015625
+        ],
+        [
+          35.50390625,
+          386.67041015625
+        ]
+      ]
+    },
+    {
+      "title": "Changing codes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.0,
+          633.14453125
+        ],
+        [
+          132.33935546875,
+          633.14453125
+        ],
+        [
+          132.33935546875,
+          652.056640625
+        ],
+        [
+          36.0,
+          652.056640625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          242.416015625,
+          28.98486328125
+        ],
+        [
+          351.546875,
+          28.98486328125
+        ],
+        [
+          351.546875,
+          77.49853515625
+        ],
+        [
+          242.416015625,
+          77.49853515625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Programmming codes for special functions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.212890625,
+          284.9150390625
+        ],
+        [
+          363.76953125,
+          284.9150390625
+        ],
+        [
+          363.76953125,
+          303.8271484375
+        ],
+        [
+          35.212890625,
+          303.8271484375
+        ]
+      ]
+    },
+    {
+      "title": "Programming the same user twice",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.921875,
+          380.09228515625
+        ],
+        [
+          246.3447265625,
+          380.09228515625
+        ],
+        [
+          246.3447265625,
+          396.94873046875
+        ],
+        [
+          34.921875,
+          396.94873046875
+        ]
+      ]
+    },
+    {
+      "title": "Programming the same user 3 times",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.0673828125,
+          457.5908203125
+        ],
+        [
+          257.6943359375,
+          457.5908203125
+        ],
+        [
+          257.6943359375,
+          474.8583984375
+        ],
+        [
+          35.0673828125,
+          474.8583984375
+        ]
+      ]
+    },
+    {
+      "title": "Programming the same user 4 times",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.43115234375,
+          551.740234375
+        ],
+        [
+          257.54595947265625,
+          551.740234375
+        ],
+        [
+          257.54595947265625,
+          569.0078125
+        ],
+        [
+          35.43115234375,
+          569.0078125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          241.833984375,
+          30.7835693359375
+        ],
+        [
+          350.96484375,
+          30.7835693359375
+        ],
+        [
+          350.96484375,
+          76.9332275390625
+        ],
+        [
+          241.833984375,
+          76.9332275390625
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Smart enrolling",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.14013671875,
+          94.457763671875
+        ],
+        [
+          171.69921875,
+          94.457763671875
+        ],
+        [
+          171.69921875,
+          113.986572265625
+        ],
+        [
+          35.14013671875,
+          113.986572265625
+        ]
+      ]
+    },
+    {
+      "title": "4. Battery management",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.14013671875,
+          318.83349609375
+        ],
+        [
+          201.673828125,
+          318.83349609375
+        ],
+        [
+          201.673828125,
+          336.92333984375
+        ],
+        [
+          35.14013671875,
+          336.92333984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          242.2705078125,
+          29.7557373046875
+        ],
+        [
+          352.12890625,
+          29.7557373046875
+        ],
+        [
+          352.12890625,
+          77.1387939453125
+        ],
+        [
+          242.2705078125,
+          77.1387939453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          242.70703125,
+          31.86279296875
+        ],
+        [
+          348.927734375,
+          31.86279296875
+        ],
+        [
+          348.927734375,
+          74.826171875
+        ],
+        [
+          242.70703125,
+          74.826171875
+        ]
+      ]
+    },
+    {
+      "title": "5. Configuration of C1000LP",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.57666015625,
+          93.224365234375
+        ],
+        [
+          272.97265625,
+          93.224365234375
+        ],
+        [
+          272.97265625,
+          117.1728515625
+        ],
+        [
+          35.57666015625,
+          117.1728515625
+        ]
+      ]
+    },
+    {
+      "title": "5.1 The Service code",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.50390625,
+          131.1513671875
+        ],
+        [
+          180.5751953125,
+          131.1513671875
+        ],
+        [
+          180.5751953125,
+          150.0634765625
+        ],
+        [
+          35.50390625,
+          150.0634765625
+        ]
+      ]
+    },
+    {
+      "title": "Note: Before the Service code can be used must the voltage be turned OFF and \nON (the Service code can now be entered within 10 seconds).",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.794921875,
+          256.9580078125
+        ],
+        [
+          547.982421875,
+          256.9580078125
+        ],
+        [
+          547.982421875,
+          289.4375
+        ],
+        [
+          35.794921875,
+          289.4375
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Configuration overview",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.6494140625,
+          416.06640625
+        ],
+        [
+          225.9736328125,
+          416.06640625
+        ],
+        [
+          225.9736328125,
+          434.15625
+        ],
+        [
+          35.6494140625,
+          434.15625
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Changing the Master code",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.86767578125,
+          682.8916015625
+        ],
+        [
+          245.326171875,
+          682.8916015625
+        ],
+        [
+          245.326171875,
+          700.9814453125
+        ],
+        [
+          35.86767578125,
+          700.9814453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          242.125,
+          28.3167724609375
+        ],
+        [
+          350.96484375,
+          28.3167724609375
+        ],
+        [
+          350.96484375,
+          77.4471435546875
+        ],
+        [
+          242.125,
+          77.4471435546875
+        ]
+      ]
+    },
+    {
+      "title": "5.4 Changing the Service code",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          34.99462890625,
+          93.94384765625
+        ],
+        [
+          245.326171875,
+          93.94384765625
+        ],
+        [
+          245.326171875,
+          115.219970703125
+        ],
+        [
+          34.99462890625,
+          115.219970703125
+        ]
+      ]
+    },
+    {
+      "title": "5.5 LED indications",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.031005859375,
+          253.46337890625
+        ],
+        [
+          169.5166015625,
+          253.46337890625
+        ],
+        [
+          169.5166015625,
+          274.43115234375
+        ],
+        [
+          35.031005859375,
+          274.43115234375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          242.125,
+          29.83282470703125
+        ],
+        [
+          351.837890625,
+          29.83282470703125
+        ],
+        [
+          351.837890625,
+          76.67626953125
+        ],
+        [
+          242.125,
+          76.67626953125
+        ]
+      ]
+    },
+    {
+      "title": "5.6 Output setup",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          34.99462890625,
+          95.485595703125
+        ],
+        [
+          157.439453125,
+          95.485595703125
+        ],
+        [
+          157.439453125,
+          114.603271484375
+        ],
+        [
+          34.99462890625,
+          114.603271484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          243.4345703125,
+          28.7279052734375
+        ],
+        [
+          352.419921875,
+          28.7279052734375
+        ],
+        [
+          352.419921875,
+          77.0360107421875
+        ],
+        [
+          243.4345703125,
+          77.0360107421875
+        ]
+      ]
+    },
+    {
+      "title": "5.7 Special settings",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          34.7763671875,
+          94.2008056640625
+        ],
+        [
+          171.2626953125,
+          94.2008056640625
+        ],
+        [
+          171.2626953125,
+          114.603271484375
+        ],
+        [
+          34.7763671875,
+          114.603271484375
+        ]
+      ]
+    },
+    {
+      "title": "Special positions",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          35.86767578125,
+          486.3701171875
+        ],
+        [
+          146.59912109375,
+          486.3701171875
+        ],
+        [
+          146.59912109375,
+          503.6376953125
+        ],
+        [
+          35.86767578125,
+          503.6376953125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          243.580078125,
+          29.06195068359375
+        ],
+        [
+          350.96484375,
+          29.06195068359375
+        ],
+        [
+          350.96484375,
+          77.806884765625
+        ],
+        [
+          243.580078125,
+          77.806884765625
+        ]
+      ]
+    },
+    {
+      "title": "6. Blocking",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          35.176513671875,
+          95.280029296875
+        ],
+        [
+          127.755859375,
+          95.280029296875
+        ],
+        [
+          127.755859375,
+          117.686767578125
+        ],
+        [
+          35.176513671875,
+          117.686767578125
+        ]
+      ]
+    },
+    {
+      "title": "7. Manual reset",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          35.394775390625,
+          209.47216796875
+        ],
+        [
+          169.080078125,
+          209.47216796875
+        ],
+        [
+          169.080078125,
+          232.08447265625
+        ],
+        [
+          35.394775390625,
+          232.08447265625
+        ]
+      ]
+    },
+    {
+      "title": "8. Technical specifications",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          35.14013671875,
+          403.732421875
+        ],
+        [
+          253.765625,
+          403.732421875
+        ],
+        [
+          253.765625,
+          425.111328125
+        ],
+        [
+          35.14013671875,
+          425.111328125
+        ]
+      ]
+    },
+    {
+      "title": "9. One time-, day- and period codes",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          35.3583984375,
+          94.046630859375
+        ],
+        [
+          335.83203125,
+          94.046630859375
+        ],
+        [
+          335.83203125,
+          117.686767578125
+        ],
+        [
+          35.3583984375,
+          117.686767578125
+        ]
+      ]
+    },
+    {
+      "title": "Conlan Code Generator for Windows",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          34.84912109375,
+          295.6044921875
+        ],
+        [
+          272.099609375,
+          295.6044921875
+        ],
+        [
+          272.099609375,
+          312.0498046875
+        ],
+        [
+          34.84912109375,
+          312.0498046875
+        ]
+      ]
+    },
+    {
+      "title": "Conlan Day Code app",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          271.2265625,
+          496.6484375
+        ],
+        [
+          410.9140625,
+          496.6484375
+        ],
+        [
+          410.9140625,
+          512.271484375
+        ],
+        [
+          271.2265625,
+          512.271484375
+        ]
+      ]
+    },
+    {
+      "title": "Www.conlan.app",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          34.521728515625,
+          645.8896484375
+        ],
+        [
+          148.126953125,
+          645.8896484375
+        ],
+        [
+          148.126953125,
+          660.8603057861328
+        ],
+        [
+          34.521728515625,
+          660.8603057861328
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          242.416015625,
+          29.0362548828125
+        ],
+        [
+          350.673828125,
+          29.0362548828125
+        ],
+        [
+          350.673828125,
+          77.6527099609375
+        ],
+        [
+          242.416015625,
+          77.6527099609375
+        ]
+      ]
+    },
+    {
+      "title": "Activation of One-time-/day code",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          35.212890625,
+          311.84423828125
+        ],
+        [
+          240.5244140625,
+          311.84423828125
+        ],
+        [
+          240.5244140625,
+          329.52294921875
+        ],
+        [
+          35.212890625,
+          329.52294921875
+        ]
+      ]
+    },
+    {
+      "title": "10. Free locker",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          38.377685546875,
+          513.916015625
+        ],
+        [
+          166.027587890625,
+          513.916015625
+        ],
+        [
+          166.027587890625,
+          536.1171875
+        ],
+        [
+          38.377685546875,
+          536.1171875
+        ]
+      ]
+    },
+    {
+      "title": "Free locker reset",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          38.19580078125,
+          705.50390625
+        ],
+        [
+          151.328125,
+          705.50390625
+        ],
+        [
+          151.328125,
+          722.771484375
+        ],
+        [
+          38.19580078125,
+          722.771484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          158
+        ],
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          184
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\User Manual - googleapiscom_-2834525814854235353"
+}

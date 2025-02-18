@@ -1,0 +1,1586 @@
+{
+  "table_of_contents": [
+    {
+      "title": "HomeSiren User Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          167.05322265625,
+          78.9375
+        ],
+        [
+          429.7151794433594,
+          78.9375
+        ],
+        [
+          429.7151794433594,
+          109.052978515625
+        ],
+        [
+          167.05322265625,
+          109.052978515625
+        ]
+      ]
+    },
+    {
+      "title": "Functional elements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.088623046875,
+          120.66748046875
+        ],
+        [
+          223.7316131591797,
+          120.66748046875
+        ],
+        [
+          223.7316131591797,
+          142.86865234375
+        ],
+        [
+          57.088623046875,
+          142.86865234375
+        ]
+      ]
+    },
+    {
+      "title": "Operating Principle",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.943359375,
+          655.7568359375
+        ],
+        [
+          214.63861083984375,
+          655.7568359375
+        ],
+        [
+          214.63861083984375,
+          679.6025390625
+        ],
+        [
+          56.943359375,
+          679.6025390625
+        ]
+      ]
+    },
+    {
+      "title": "Connecting the Siren to the hub",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.7254638671875,
+          75.956787109375
+        ],
+        [
+          313.5768737792969,
+          75.956787109375
+        ],
+        [
+          313.5768737792969,
+          98.157958984375
+        ],
+        [
+          56.7254638671875,
+          98.157958984375
+        ]
+      ]
+    },
+    {
+      "title": "Before starting connection:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.37680435180664,
+          226.73974609375
+        ],
+        [
+          280.1394348144531,
+          226.73974609375
+        ],
+        [
+          280.1394348144531,
+          248.4326171875
+        ],
+        [
+          57.37680435180664,
+          248.4326171875
+        ]
+      ]
+    },
+    {
+      "title": "How to connect the siren to the hub:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.37680435180664,
+          593.67578125
+        ],
+        [
+          351.24755859375,
+          593.67578125
+        ],
+        [
+          351.24755859375,
+          613.41015625
+        ],
+        [
+          57.37680435180664,
+          613.41015625
+        ]
+      ]
+    },
+    {
+      "title": "States",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.90704345703125,
+          2.171295166015625
+        ],
+        [
+          111.96858215332031,
+          2.171295166015625
+        ],
+        [
+          111.96858215332031,
+          22.53521728515625
+        ],
+        [
+          56.90704345703125,
+          22.53521728515625
+        ]
+      ]
+    },
+    {
+      "title": "Setting Up the Detector",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          57.0159912109375,
+          175.142578125
+        ],
+        [
+          246.9482421875,
+          175.142578125
+        ],
+        [
+          246.9482421875,
+          197.34375
+        ],
+        [
+          57.0159912109375,
+          197.34375
+        ]
+      ]
+    },
+    {
+      "title": "Siren beep settings",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          56.943359375,
+          619.98828125
+        ],
+        [
+          215.2252655029297,
+          619.98828125
+        ],
+        [
+          215.2252655029297,
+          641.3671875
+        ],
+        [
+          56.943359375,
+          641.3671875
+        ]
+      ]
+    },
+    {
+      "title": "Setting up the processing of detector alarms",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.65283203125,
+          49.7984619140625
+        ],
+        [
+          418.2718811035156,
+          49.7984619140625
+        ],
+        [
+          418.2718811035156,
+          72.1024169921875
+        ],
+        [
+          56.65283203125,
+          72.1024169921875
+        ]
+      ]
+    },
+    {
+      "title": "Setting the tamper alarm response",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.943359375,
+          366.93603515625
+        ],
+        [
+          339.3068542480469,
+          366.93603515625
+        ],
+        [
+          339.3068542480469,
+          388.72607421875
+        ],
+        [
+          56.943359375,
+          388.72607421875
+        ]
+      ]
+    },
+    {
+      "title": "What is a tamper",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.39862060546875,
+          491.3037109375
+        ],
+        [
+          161.027099609375,
+          491.3037109375
+        ],
+        [
+          161.027099609375,
+          508.5712890625
+        ],
+        [
+          56.39862060546875,
+          508.5712890625
+        ]
+      ]
+    },
+    {
+      "title": "For the siren to respond to tamper triggering, in Ajax app:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.943359375,
+          532.4169921875
+        ],
+        [
+          405.576171875,
+          532.4169921875
+        ],
+        [
+          405.576171875,
+          550.5068359375
+        ],
+        [
+          56.943359375,
+          550.5068359375
+        ]
+      ]
+    },
+    {
+      "title": "Setting the response to pressing the panic button in the\nAjax app",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          56.3623046875,
+          757.7177734375
+        ],
+        [
+          506.38916015625,
+          757.7177734375
+        ],
+        [
+          506.38916015625,
+          805.4091796875
+        ],
+        [
+          56.3623046875,
+          805.4091796875
+        ]
+      ]
+    },
+    {
+      "title": "For the siren to respond to pressing the panic button:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.217041015625,
+          62.28662109375
+        ],
+        [
+          380.5908203125,
+          62.28662109375
+        ],
+        [
+          380.5908203125,
+          79.245849609375
+        ],
+        [
+          56.217041015625,
+          79.245849609375
+        ]
+      ]
+    },
+    {
+      "title": "Setting the siren after-alarm indication",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          57.23388671875,
+          288.82080078125
+        ],
+        [
+          370.57061767578125,
+          288.82080078125
+        ],
+        [
+          370.57061767578125,
+          310.61083984375
+        ],
+        [
+          57.23388671875,
+          310.61083984375
+        ]
+      ]
+    },
+    {
+      "title": "The option functions as follows:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          57.3065185546875,
+          662.3349609375
+        ],
+        [
+          253.63037109375,
+          662.3349609375
+        ],
+        [
+          253.63037109375,
+          680.4248046875
+        ],
+        [
+          57.3065185546875,
+          680.4248046875
+        ]
+      ]
+    },
+    {
+      "title": "To enable the siren after-alarm indication, in :\nAjax PRO app",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          56.507568359375,
+          168.564453125
+        ],
+        [
+          416.6162109375,
+          168.564453125
+        ],
+        [
+          416.6162109375,
+          186.03759765625
+        ],
+        [
+          56.507568359375,
+          186.03759765625
+        ]
+      ]
+    },
+    {
+      "title": "How to set Chime",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          56.2896728515625,
+          664.390625
+        ],
+        [
+          202.9870147705078,
+          664.390625
+        ],
+        [
+          202.9870147705078,
+          685.76953125
+        ],
+        [
+          56.2896728515625,
+          685.76953125
+        ]
+      ]
+    },
+    {
+      "title": "Siren settings",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          252.613525390625,
+          144.10205078125
+        ],
+        [
+          341.76104736328125,
+          144.10205078125
+        ],
+        [
+          341.76104736328125,
+          159.9306640625
+        ],
+        [
+          252.613525390625,
+          159.9306640625
+        ]
+      ]
+    },
+    {
+      "title": "Detectors settings",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          241.71875,
+          715.37109375
+        ],
+        [
+          355.3602294921875,
+          715.37109375
+        ],
+        [
+          355.3602294921875,
+          730.994140625
+        ],
+        [
+          241.71875,
+          730.994140625
+        ]
+      ]
+    },
+    {
+      "title": "Indication",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          57.375701904296875,
+          328.70068359375
+        ],
+        [
+          140.5336151123047,
+          328.70068359375
+        ],
+        [
+          140.5336151123047,
+          349.7253112792969
+        ],
+        [
+          57.375701904296875,
+          349.7253112792969
+        ]
+      ]
+    },
+    {
+      "title": "Performance testing",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          57.23388671875,
+          108.5390625
+        ],
+        [
+          225.90773010253906,
+          108.5390625
+        ],
+        [
+          225.90773010253906,
+          130.740234375
+        ],
+        [
+          57.23388671875,
+          130.740234375
+        ]
+      ]
+    },
+    {
+      "title": "Installing the Siren",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          56.3623046875,
+          431.2783203125
+        ],
+        [
+          210.64894104003906,
+          431.2783203125
+        ],
+        [
+          210.64894104003906,
+          453.4794921875
+        ],
+        [
+          56.3623046875,
+          453.4794921875
+        ]
+      ]
+    },
+    {
+      "title": "Installation process",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          56.65283203125,
+          240.923828125
+        ],
+        [
+          218.8441619873047,
+          240.923828125
+        ],
+        [
+          218.8441619873047,
+          261.93597412109375
+        ],
+        [
+          56.65283203125,
+          261.93597412109375
+        ]
+      ]
+    },
+    {
+      "title": "Do not install the siren:",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          57.23388671875,
+          83.048828125
+        ],
+        [
+          199.447021484375,
+          83.048828125
+        ],
+        [
+          199.447021484375,
+          100.419189453125
+        ],
+        [
+          57.23388671875,
+          100.419189453125
+        ]
+      ]
+    },
+    {
+      "title": "External LED connection",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          56.943359375,
+          370.4306640625
+        ],
+        [
+          256.4459533691406,
+          370.4306640625
+        ],
+        [
+          256.4459533691406,
+          392.6318359375
+        ],
+        [
+          56.943359375,
+          392.6318359375
+        ]
+      ]
+    },
+    {
+      "title": "Siren Maintenance and Battery Replacement",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          56.943359375,
+          592.03125
+        ],
+        [
+          417.197265625,
+          592.03125
+        ],
+        [
+          417.197265625,
+          613.41015625
+        ],
+        [
+          56.943359375,
+          613.41015625
+        ]
+      ]
+    },
+    {
+      "title": "How long Ajax devices operate on batteries, and what affects this",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          56.507568359375,
+          82.534912109375
+        ],
+        [
+          453.86505126953125,
+          82.534912109375
+        ],
+        [
+          453.86505126953125,
+          98.980224609375
+        ],
+        [
+          56.507568359375,
+          98.980224609375
+        ]
+      ]
+    },
+    {
+      "title": "Battery Replacement",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          56.8707275390625,
+          124.470458984375
+        ],
+        [
+          185.64697265625,
+          124.470458984375
+        ],
+        [
+          185.64697265625,
+          140.299072265625
+        ],
+        [
+          56.8707275390625,
+          140.299072265625
+        ]
+      ]
+    },
+    {
+      "title": "Tech specs",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          57.05230712890625,
+          180.178955078125
+        ],
+        [
+          151.91709899902344,
+          180.178955078125
+        ],
+        [
+          151.91709899902344,
+          200.408935546875
+        ],
+        [
+          57.05230712890625,
+          200.408935546875
+        ]
+      ]
+    },
+    {
+      "title": "Compliance with standards",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          212.95654296875,
+          426.755859375
+        ],
+        [
+          381.9833068847656,
+          426.755859375
+        ],
+        [
+          381.9833068847656,
+          444.845703125
+        ],
+        [
+          212.95654296875,
+          444.845703125
+        ]
+      ]
+    },
+    {
+      "title": "Complete Set",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          56.507568359375,
+          484.314453125
+        ],
+        [
+          167.9850311279297,
+          484.314453125
+        ],
+        [
+          167.9850311279297,
+          504.87109375
+        ],
+        [
+          56.507568359375,
+          504.87109375
+        ]
+      ]
+    },
+    {
+      "title": "Warranty",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          56.65283203125,
+          746.6171875
+        ],
+        [
+          132.4120635986328,
+          746.6171875
+        ],
+        [
+          132.4120635986328,
+          766.3515625
+        ],
+        [
+          56.65283203125,
+          766.3515625
+        ]
+      ]
+    },
+    {
+      "title": "The full text of the warranty",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          97.471923828125,
+          105.86669921875
+        ],
+        [
+          267.139892578125,
+          105.86669921875
+        ],
+        [
+          267.139892578125,
+          123.95654296875
+        ],
+        [
+          97.471923828125,
+          123.95654296875
+        ]
+      ]
+    },
+    {
+      "title": "User Agreement",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          96.890869140625,
+          151.09130859375
+        ],
+        [
+          199.3017578125,
+          151.09130859375
+        ],
+        [
+          199.3017578125,
+          168.564453125
+        ],
+        [
+          96.890869140625,
+          168.564453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50459006_ins"
+}

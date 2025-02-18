@@ -1,0 +1,366 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Connection instructions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.98388671875,
+          127.7752685546875
+        ],
+        [
+          314.496337890625,
+          127.7752685546875
+        ],
+        [
+          314.496337890625,
+          149.10528564453125
+        ],
+        [
+          104.98388671875,
+          149.10528564453125
+        ]
+      ]
+    },
+    {
+      "title": "Sound module C12, 2-3120",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.11083984375,
+          206.2806396484375
+        ],
+        [
+          338.08819580078125,
+          206.2806396484375
+        ],
+        [
+          338.08819580078125,
+          230.2806396484375
+        ],
+        [
+          104.11083984375,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.350830078125,
+          69.68701171875
+        ],
+        [
+          189.9778594970703,
+          69.68701171875
+        ],
+        [
+          189.9778594970703,
+          91.946533203125
+        ],
+        [
+          64.350830078125,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Connection",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.987060546875,
+          290.6708984375
+        ],
+        [
+          180.97801208496094,
+          290.6708984375
+        ],
+        [
+          180.97801208496094,
+          313.196533203125
+        ],
+        [
+          63.987060546875,
+          313.196533203125
+        ]
+      ]
+    },
+    {
+      "title": "Connection examples and cable lengths",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.0234375,
+          69.313720703125
+        ],
+        [
+          463.1163330078125,
+          69.313720703125
+        ],
+        [
+          463.1163330078125,
+          93.313720703125
+        ],
+        [
+          64.0234375,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "High level with one speaker",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.38720703125,
+          109.42919921875
+        ],
+        [
+          274.13671875,
+          109.42919921875
+        ],
+        [
+          274.13671875,
+          128.09918212890625
+        ],
+        [
+          64.38720703125,
+          128.09918212890625
+        ]
+      ]
+    },
+    {
+      "title": "High level with two speakers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.51416015625,
+          344.1791687011719
+        ],
+        [
+          284.3995361328125,
+          344.1791687011719
+        ],
+        [
+          284.3995361328125,
+          362.84918212890625
+        ],
+        [
+          63.51416015625,
+          362.84918212890625
+        ]
+      ]
+    },
+    {
+      "title": "Commissioning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.36865234375,
+          70.3037109375
+        ],
+        [
+          219.21607971191406,
+          70.3037109375
+        ],
+        [
+          219.21607971191406,
+          92.29931640625
+        ],
+        [
+          63.36865234375,
+          92.29931640625
+        ]
+      ]
+    },
+    {
+      "title": "Installation and configuration",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.09619140625,
+          196.063720703125
+        ],
+        [
+          360.2040100097656,
+          196.063720703125
+        ],
+        [
+          360.2040100097656,
+          220.063720703125
+        ],
+        [
+          64.09619140625,
+          220.063720703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Sound module C12 2-3120copiaxsehttpscopiaxse  images  doc_8696892564997534035"
+}

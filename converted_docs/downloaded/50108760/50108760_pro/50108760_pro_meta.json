@@ -1,0 +1,162 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          81.59886932373047,
+          503.89453125
+        ],
+        [
+          130.81201171875,
+          503.89453125
+        ],
+        [
+          130.81201171875,
+          515.49609375
+        ],
+        [
+          81.59886932373047,
+          515.49609375
+        ]
+      ]
+    },
+    {
+      "title": "Portable Programming Device",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          235.55992126464844,
+          56.79931640625
+        ],
+        [
+          486.791015625,
+          56.79931640625
+        ],
+        [
+          486.791015625,
+          79.42236328125
+        ],
+        [
+          235.55992126464844,
+          79.42236328125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.2353515625,
+          128.197265625
+        ],
+        [
+          150.7587890625,
+          128.197265625
+        ],
+        [
+          150.7587890625,
+          141.15234375
+        ],
+        [
+          80.2353515625,
+          141.15234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50108760_pro"
+}

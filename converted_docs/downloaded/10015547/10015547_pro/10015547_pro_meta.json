@@ -1,0 +1,154 @@
+{
+  "table_of_contents": [
+    {
+      "title": "B338 Takf\u00e4ste",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.54541015625,
+          142.505859375
+        ],
+        [
+          220.880859375,
+          142.505859375
+        ],
+        [
+          220.880859375,
+          169.37518310546875
+        ],
+        [
+          49.54541015625,
+          169.37518310546875
+        ]
+      ]
+    },
+    {
+      "title": "Certifikat och godk\u00e4nnanden",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.88999938964844,
+          489.97265625
+        ],
+        [
+          179.1201171875,
+          489.97265625
+        ],
+        [
+          179.1201171875,
+          500.30352783203125
+        ],
+        [
+          49.88999938964844,
+          500.30352783203125
+        ]
+      ]
+    },
+    {
+      "title": "Best\u00e4llningsinformation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.88999938964844,
+          570.796875
+        ],
+        [
+          157.439453125,
+          570.796875
+        ],
+        [
+          157.439453125,
+          580.8515625
+        ],
+        [
+          49.88999938964844,
+          580.8515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "TableCell",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\10015547_pro"
+}

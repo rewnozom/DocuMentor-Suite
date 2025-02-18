@@ -1,0 +1,347 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Pax ton10 \u00f6ver vak ningsk amera \ni miniformat - 2,8mm, 8MP",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.44140625,
+          19.5802001953125
+        ],
+        [
+          579.12109375,
+          19.5802001953125
+        ],
+        [
+          579.12109375,
+          82.8946533203125
+        ],
+        [
+          63.44140625,
+          82.8946533203125
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6versikt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.60546875,
+          109.052978515625
+        ],
+        [
+          124.7001953125,
+          109.052978515625
+        ],
+        [
+          124.7001953125,
+          134.132080078125
+        ],
+        [
+          64.60546875,
+          134.132080078125
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.24169921875,
+          276.07568359375
+        ],
+        [
+          144.85302734375,
+          276.07568359375
+        ],
+        [
+          144.85302734375,
+          297.86572265625
+        ],
+        [
+          64.24169921875,
+          297.86572265625
+        ]
+      ]
+    },
+    {
+      "title": "specifikationer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.38720703125,
+          33.99554443359375
+        ],
+        [
+          170.53515625,
+          33.99554443359375
+        ],
+        [
+          170.53515625,
+          53.40771484375
+        ],
+        [
+          64.38720703125,
+          53.40771484375
+        ]
+      ]
+    },
+    {
+      "title": "System",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          115.16943359375,
+          79.55419921875
+        ],
+        [
+          150.6005859375,
+          79.55419921875
+        ],
+        [
+          150.6005859375,
+          93.433349609375
+        ],
+        [
+          115.16943359375,
+          93.433349609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.611328125,
+          402.29345703125
+        ],
+        [
+          117.279296875,
+          402.29345703125
+        ],
+        [
+          117.279296875,
+          424.7001953125
+        ],
+        [
+          80.611328125,
+          424.7001953125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          74.6455078125,
+          519.2607421875
+        ],
+        [
+          95.744140625,
+          519.2607421875
+        ],
+        [
+          95.744140625,
+          541.4619140625
+        ],
+        [
+          74.6455078125,
+          541.4619140625
+        ]
+      ]
+    },
+    {
+      "title": "Kommunikation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          114.66015625,
+          523.3720703125
+        ],
+        [
+          189.16015625,
+          523.3720703125
+        ],
+        [
+          189.16015625,
+          537.3505859375
+        ],
+        [
+          114.66015625,
+          537.3505859375
+        ]
+      ]
+    },
+    {
+      "title": "Maskinvara",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          110.07666015625,
+          626.56640625
+        ],
+        [
+          168.20703125,
+          626.56640625
+        ],
+        [
+          168.20703125,
+          639.1202697753906
+        ],
+        [
+          110.07666015625,
+          639.1202697753906
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Paxton10 \u00f6vervakningskamera i miniformatcopiaxsehttpswwwcopiaxse  doc  50153305_pro_-8522429283693737019"
+}

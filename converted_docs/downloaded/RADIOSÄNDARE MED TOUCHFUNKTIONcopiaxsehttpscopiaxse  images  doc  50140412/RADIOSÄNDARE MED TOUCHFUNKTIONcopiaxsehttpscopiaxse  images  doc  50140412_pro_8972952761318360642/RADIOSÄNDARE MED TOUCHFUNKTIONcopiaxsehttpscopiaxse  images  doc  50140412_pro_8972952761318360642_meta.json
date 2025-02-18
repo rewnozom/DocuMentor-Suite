@@ -1,0 +1,238 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RADIOS\u00c4NDARE MED\nTOUCHFUNKTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.297229219143574,
+          536.0908281389136
+        ],
+        [
+          341.536523929471,
+          536.0908281389136
+        ],
+        [
+          341.536523929471,
+          606.009765625
+        ],
+        [
+          56.297229219143574,
+          606.009765625
+        ]
+      ]
+    },
+    {
+      "title": "TR\u00c5DL\u00d6S S\u00c4NDARE\nMED TOUCHFUNKTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          166.4609375,
+          40.77923583984375
+        ],
+        [
+          427.0994873046875,
+          40.77923583984375
+        ],
+        [
+          427.0994873046875,
+          103.502685546875
+        ],
+        [
+          166.4609375,
+          103.502685546875
+        ]
+      ]
+    },
+    {
+      "title": "RTA1TW/TB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.049560546875,
+          134.23486328125
+        ],
+        [
+          141.63919067382812,
+          134.23486328125
+        ],
+        [
+          141.63919067382812,
+          151.30926513671875
+        ],
+        [
+          36.049560546875,
+          151.30926513671875
+        ]
+      ]
+    },
+    {
+      "title": "PASSAR RADIOMOTTAGARE *",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          210.8408203125,
+          363.44140625
+        ],
+        [
+          380.90667724609375,
+          363.44140625
+        ],
+        [
+          380.90667724609375,
+          377.47576904296875
+        ],
+        [
+          210.8408203125,
+          377.47576904296875
+        ]
+      ]
+    },
+    {
+      "title": "RRA85-Z1/Z2/Z4 XPL100-2 RRA85-1NN XPL500-2PV /4PV",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.90179443359375,
+          462.935546875
+        ],
+        [
+          532.019775390625,
+          462.935546875
+        ],
+        [
+          532.019775390625,
+          473.625
+        ],
+        [
+          64.90179443359375,
+          473.625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          439.43359375,
+          460.8798828125
+        ],
+        [
+          533.140625,
+          460.8798828125
+        ],
+        [
+          533.140625,
+          472.3916015625
+        ],
+        [
+          439.43359375,
+          472.3916015625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          336.4140625,
+          733.0498046875
+        ],
+        [
+          558.75,
+          733.0498046875
+        ],
+        [
+          558.75,
+          802.1201171875
+        ],
+        [
+          336.4140625,
+          802.1201171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "ListGroup",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\RADIOS\u00c4NDARE MED TOUCHFUNKTIONcopiaxsehttpscopiaxse  images  doc  50140412_pro_8972952761318360642"
+}

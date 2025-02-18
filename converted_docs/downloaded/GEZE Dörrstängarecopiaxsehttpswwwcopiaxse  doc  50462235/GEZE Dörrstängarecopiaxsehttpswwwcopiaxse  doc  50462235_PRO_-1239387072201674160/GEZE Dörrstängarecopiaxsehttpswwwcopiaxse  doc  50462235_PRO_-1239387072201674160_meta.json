@@ -1,0 +1,1223 @@
+{
+  "table_of_contents": [
+    {
+      "title": "D\u00d6RRTEKNIK",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          215.67901611328125,
+          249.35205078125
+        ],
+        [
+          308.4765625,
+          249.35205078125
+        ],
+        [
+          308.4765625,
+          262.50830078125
+        ],
+        [
+          215.67901611328125,
+          262.50830078125
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrst\u00e4ngare \nBlack Edition",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          215.642578125,
+          273.60888671875
+        ],
+        [
+          539.6639404296875,
+          273.60888671875
+        ],
+        [
+          539.6639404296875,
+          366.52490234375
+        ],
+        [
+          215.642578125,
+          366.52490234375
+        ]
+      ]
+    },
+    {
+      "title": "TS 3000 V",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.029296875,
+          88.3935546875
+        ],
+        [
+          271.80859375,
+          88.3935546875
+        ],
+        [
+          271.80859375,
+          141.4296875
+        ],
+        [
+          80.029296875,
+          141.4296875
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNINGSOMR\u00c5DE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.4912109375,
+          303.21044921875
+        ],
+        [
+          204.4384765625,
+          303.21044921875
+        ],
+        [
+          204.4384765625,
+          316.36669921875
+        ],
+        [
+          50.4912109375,
+          316.36669921875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA F\u00d6R D\u00d6RRST\u00c4NGARE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.87353515625,
+          537.3505859375
+        ],
+        [
+          291.03668212890625,
+          537.3505859375
+        ],
+        [
+          291.03668212890625,
+          552.1513671875
+        ],
+        [
+          51.87353515625,
+          552.1513671875
+        ]
+      ]
+    },
+    {
+      "title": "PRODUKTEGENSKAPER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          51.400634765625,
+          574.6760559082031
+        ],
+        [
+          177.9560546875,
+          574.6760559082031
+        ],
+        [
+          177.9560546875,
+          585.453125
+        ],
+        [
+          51.400634765625,
+          585.453125
+        ]
+      ]
+    },
+    {
+      "title": "TS 3000 V BC",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.19189453125,
+          87.9310302734375
+        ],
+        [
+          335.83203125,
+          87.9310302734375
+        ],
+        [
+          335.83203125,
+          138.654541015625
+        ],
+        [
+          77.19189453125,
+          138.654541015625
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNINGSOMR\u00c5DE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.70947265625,
+          303.62158203125
+        ],
+        [
+          204.29296875,
+          303.62158203125
+        ],
+        [
+          204.29296875,
+          316.36669921875
+        ],
+        [
+          50.70947265625,
+          316.36669921875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA F\u00d6R D\u00d6RRST\u00c4NGARE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          51.87353515625,
+          538.1728515625
+        ],
+        [
+          291.03668212890625,
+          538.1728515625
+        ],
+        [
+          291.03668212890625,
+          552.1513671875
+        ],
+        [
+          51.87353515625,
+          552.1513671875
+        ]
+      ]
+    },
+    {
+      "title": "P R O D U K T EG E N S K A P E R",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          51.618896484375,
+          574.6760559082031
+        ],
+        [
+          179.15658569335938,
+          574.6760559082031
+        ],
+        [
+          179.15658569335938,
+          585.0419921875
+        ],
+        [
+          51.618896484375,
+          585.0419921875
+        ]
+      ]
+    },
+    {
+      "title": "TS 4000 EN 1-6",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          82.939453125,
+          88.7532958984375
+        ],
+        [
+          370.171875,
+          88.7532958984375
+        ],
+        [
+          370.171875,
+          140.607421875
+        ],
+        [
+          82.939453125,
+          140.607421875
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNINGSOMR\u00c5DE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.63671875,
+          302.79931640625
+        ],
+        [
+          204.4384765625,
+          302.79931640625
+        ],
+        [
+          204.4384765625,
+          316.36669921875
+        ],
+        [
+          50.63671875,
+          316.36669921875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA F\u00d6R D\u00d6RRST\u00c4NGARE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.29150390625,
+          515.1494140625
+        ],
+        [
+          291.888671875,
+          515.1494140625
+        ],
+        [
+          291.888671875,
+          529.9501953125
+        ],
+        [
+          51.29150390625,
+          529.9501953125
+        ]
+      ]
+    },
+    {
+      "title": "P R O D U K T EG E N S K A P E R",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.691650390625,
+          552.1513671875
+        ],
+        [
+          179.15658569335938,
+          552.1513671875
+        ],
+        [
+          179.15658569335938,
+          563.6630859375
+        ],
+        [
+          51.691650390625,
+          563.6630859375
+        ]
+      ]
+    },
+    {
+      "title": "FUNKTIONER",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.00048828125,
+          665.212890625
+        ],
+        [
+          121.55569458007812,
+          665.212890625
+        ],
+        [
+          121.55569458007812,
+          676.2469482421875
+        ],
+        [
+          51.00048828125,
+          676.2469482421875
+        ]
+      ]
+    },
+    {
+      "title": "TS 4000 EN 5-7",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          80.611328125,
+          86.5948486328125
+        ],
+        [
+          372.2439270019531,
+          86.5948486328125
+        ],
+        [
+          372.2439270019531,
+          138.860107421875
+        ],
+        [
+          80.611328125,
+          138.860107421875
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNINGSOMR\u00c5DE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.7822265625,
+          302.59375
+        ],
+        [
+          204.29296875,
+          302.59375
+        ],
+        [
+          204.29296875,
+          316.1611328125
+        ],
+        [
+          50.7822265625,
+          316.1611328125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA F\u00d6R D\u00d6RRST\u00c4NGARE",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.85498046875,
+          515.1494140625
+        ],
+        [
+          291.59765625,
+          515.1494140625
+        ],
+        [
+          291.59765625,
+          529.9501953125
+        ],
+        [
+          50.85498046875,
+          529.9501953125
+        ]
+      ]
+    },
+    {
+      "title": "P R O D U K T EG E N S K A P E R",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          51.691650390625,
+          552.1513671875
+        ],
+        [
+          179.15658569335938,
+          552.1513671875
+        ],
+        [
+          179.15658569335938,
+          563.6630859375
+        ],
+        [
+          51.691650390625,
+          563.6630859375
+        ]
+      ]
+    },
+    {
+      "title": "FUNKTIONER",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          51.0732421875,
+          665.212890625
+        ],
+        [
+          121.55569458007812,
+          665.212890625
+        ],
+        [
+          121.55569458007812,
+          676.2469482421875
+        ],
+        [
+          51.0732421875,
+          676.2469482421875
+        ]
+      ]
+    },
+    {
+      "title": "TS 5000",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          80.97509765625,
+          88.8046875
+        ],
+        [
+          237.4794921875,
+          88.8046875
+        ],
+        [
+          237.4794921875,
+          142.251953125
+        ],
+        [
+          80.97509765625,
+          142.251953125
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNINGSOMR\u00c5DE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.63671875,
+          303.21044921875
+        ],
+        [
+          204.7294921875,
+          303.21044921875
+        ],
+        [
+          204.7294921875,
+          316.36669921875
+        ],
+        [
+          50.63671875,
+          316.36669921875
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA F\u00d6R D\u00d6RRST\u00c4NGARE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.9462890625,
+          515.1494140625
+        ],
+        [
+          291.1611328125,
+          515.1494140625
+        ],
+        [
+          291.1611328125,
+          529.9501953125
+        ],
+        [
+          51.9462890625,
+          529.9501953125
+        ]
+      ]
+    },
+    {
+      "title": "P R O D U K T EG E N S K A P E R",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.637451171875,
+          552.1513671875
+        ],
+        [
+          180.57388305664062,
+          552.1513671875
+        ],
+        [
+          180.57388305664062,
+          563.6630859375
+        ],
+        [
+          52.637451171875,
+          563.6630859375
+        ]
+      ]
+    },
+    {
+      "title": "FUNKTIONER",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.637451171875,
+          666.03515625
+        ],
+        [
+          122.97300720214844,
+          666.03515625
+        ],
+        [
+          122.97300720214844,
+          676.2469482421875
+        ],
+        [
+          52.637451171875,
+          676.2469482421875
+        ]
+      ]
+    },
+    {
+      "title": "TS 5000 L",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          79.37451171875,
+          88.4449462890625
+        ],
+        [
+          268.7774963378906,
+          88.4449462890625
+        ],
+        [
+          268.7774963378906,
+          139.476806640625
+        ],
+        [
+          79.37451171875,
+          139.476806640625
+        ]
+      ]
+    },
+    {
+      "title": "ANV\u00c4NDNINGSOMR\u00c5DE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.18310546875,
+          303.0048828125
+        ],
+        [
+          206.62109375,
+          303.0048828125
+        ],
+        [
+          206.62109375,
+          316.572265625
+        ],
+        [
+          53.18310546875,
+          316.572265625
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA F\u00d6R D\u00d6RRST\u00c4NGARE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.6923828125,
+          515.9716796875
+        ],
+        [
+          293.1626892089844,
+          515.9716796875
+        ],
+        [
+          293.1626892089844,
+          529.9501953125
+        ],
+        [
+          53.6923828125,
+          529.9501953125
+        ]
+      ]
+    },
+    {
+      "title": "P R O D U K T EG E N S K A P E R",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.892822265625,
+          552.5625
+        ],
+        [
+          182.6998748779297,
+          552.5625
+        ],
+        [
+          182.6998748779297,
+          563.251953125
+        ],
+        [
+          54.892822265625,
+          563.251953125
+        ]
+      ]
+    },
+    {
+      "title": "FUNKTIONER",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.820068359375,
+          666.03515625
+        ],
+        [
+          125.0989990234375,
+          666.03515625
+        ],
+        [
+          125.0989990234375,
+          676.2469482421875
+        ],
+        [
+          54.820068359375,
+          676.2469482421875
+        ]
+      ]
+    },
+    {
+      "title": "Best\u00e4llningsinformation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          84.11199951171875,
+          89.0616455078125
+        ],
+        [
+          529.6484375,
+          89.0616455078125
+        ],
+        [
+          529.6484375,
+          138.75732421875
+        ],
+        [
+          84.11199951171875,
+          138.75732421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          153.365234375,
+          260.04150390625
+        ],
+        [
+          444.962890625,
+          260.04150390625
+        ],
+        [
+          444.962890625,
+          490.892578125
+        ],
+        [
+          153.365234375,
+          490.892578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\GEZE D\u00f6rrst\u00e4ngarecopiaxsehttpswwwcopiaxse  doc  50462235_PRO_-1239387072201674160"
+}

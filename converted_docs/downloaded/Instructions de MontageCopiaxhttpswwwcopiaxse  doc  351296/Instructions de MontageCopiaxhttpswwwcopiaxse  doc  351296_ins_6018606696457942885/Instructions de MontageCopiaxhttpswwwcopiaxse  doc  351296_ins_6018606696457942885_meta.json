@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ing",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          897.0,
+          14.7493896484375
+        ],
+        [
+          918.0,
+          14.7493896484375
+        ],
+        [
+          918.0,
+          29.991095280498662
+        ],
+        [
+          897.0,
+          29.991095280498662
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          220
+        ],
+        [
+          "Span",
+          220
+        ],
+        [
+          "TableCell",
+          23
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Instructions de MontageCopiaxhttpswwwcopiaxse  doc  351296_ins_6018606696457942885"
+}

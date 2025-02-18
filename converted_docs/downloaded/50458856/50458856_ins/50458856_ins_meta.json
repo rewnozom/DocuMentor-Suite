@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ST4002-20",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          380.06640625,
+          25.72149658203125
+        ],
+        [
+          479.59375,
+          25.72149658203125
+        ],
+        [
+          479.59375,
+          46.109130859375
+        ],
+        [
+          380.06640625,
+          46.109130859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50458856_ins"
+}

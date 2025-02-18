@@ -1,0 +1,177 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.243896484375,
+          54.166748046875
+        ],
+        [
+          170.826171875,
+          54.166748046875
+        ],
+        [
+          170.826171875,
+          76.162353515625
+        ],
+        [
+          70.243896484375,
+          76.162353515625
+        ]
+      ]
+    },
+    {
+      "title": "Heavy duty card and PIN reader",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.7578125,
+          404.5546875
+        ],
+        [
+          432.44921875,
+          404.5546875
+        ],
+        [
+          432.44921875,
+          431.02484130859375
+        ],
+        [
+          182.7578125,
+          431.02484130859375
+        ]
+      ]
+    },
+    {
+      "title": "Vanderbilt International (IRL) Ltd.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          299.5199890136719,
+          783.2080078125
+        ],
+        [
+          552.84033203125,
+          783.2080078125
+        ],
+        [
+          552.84033203125,
+          802.1201171875
+        ],
+        [
+          299.5199890136719,
+          802.1201171875
+        ]
+      ]
+    },
+    {
+      "title": "Details for ordering",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.599998474121094,
+          432.51171875
+        ],
+        [
+          130.8115234375,
+          432.51171875
+        ],
+        [
+          130.8115234375,
+          444.4770202636719
+        ],
+        [
+          42.599998474121094,
+          444.4770202636719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50130188_pro"
+}

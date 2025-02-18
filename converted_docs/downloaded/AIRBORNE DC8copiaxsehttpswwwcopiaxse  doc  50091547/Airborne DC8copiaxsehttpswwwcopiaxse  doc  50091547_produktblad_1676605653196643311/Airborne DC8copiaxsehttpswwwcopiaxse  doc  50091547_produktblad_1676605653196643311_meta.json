@@ -1,0 +1,273 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Airborne DC8",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.88330078125,
+          115.219970703125
+        ],
+        [
+          209.16416931152344,
+          115.219970703125
+        ],
+        [
+          209.16416931152344,
+          150.371826171875
+        ],
+        [
+          28.88330078125,
+          150.371826171875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rdelar och egenskaper",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.51953125,
+          163.42529296875
+        ],
+        [
+          155.072998046875,
+          163.42529296875
+        ],
+        [
+          155.072998046875,
+          176.3759765625
+        ],
+        [
+          28.51953125,
+          176.3759765625
+        ]
+      ]
+    },
+    {
+      "title": "Airborne DC8 ger flexibilitet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.228515625,
+          254.4912109375
+        ],
+        [
+          127.48150634765625,
+          254.4912109375
+        ],
+        [
+          127.48150634765625,
+          264.3583984375
+        ],
+        [
+          28.228515625,
+          264.3583984375
+        ]
+      ]
+    },
+    {
+      "title": "Airborne DC8 \u00e4r mont\u00f6rv\u00e4nlig",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.57373046875,
+          396.94873046875
+        ],
+        [
+          135.74685668945312,
+          396.94873046875
+        ],
+        [
+          135.74685668945312,
+          407.22705078125
+        ],
+        [
+          27.57373046875,
+          407.22705078125
+        ]
+      ]
+    },
+    {
+      "title": "Airborne DC8 reducerar kostnader",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          26.99169921875,
+          462.935546875
+        ],
+        [
+          152.09524536132812,
+          462.935546875
+        ],
+        [
+          152.09524536132812,
+          472.802734375
+        ],
+        [
+          26.99169921875,
+          472.802734375
+        ]
+      ]
+    },
+    {
+      "title": "Safetel larm\u00f6verf\u00f6ring",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          26.955322265625,
+          529.1279296875
+        ],
+        [
+          140.3426055908203,
+          529.1279296875
+        ],
+        [
+          140.3426055908203,
+          541.4619140625
+        ],
+        [
+          26.955322265625,
+          541.4619140625
+        ]
+      ]
+    },
+    {
+      "title": "Formaterat: Teckensnitt:(Standard)\nArial",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          463.005859375,
+          163.2197265625
+        ],
+        [
+          578.248046875,
+          163.2197265625
+        ],
+        [
+          578.248046875,
+          180.18243408203125
+        ],
+        [
+          463.005859375,
+          180.18243408203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Airborne DC8copiaxsehttpswwwcopiaxse  doc  50091547_produktblad_1676605653196643311"
+}

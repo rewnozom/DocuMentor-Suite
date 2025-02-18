@@ -1,0 +1,893 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.67578125,
+          175.450927734375
+        ],
+        [
+          211.27734375,
+          175.450927734375
+        ],
+        [
+          211.27734375,
+          195.390869140625
+        ],
+        [
+          107.67578125,
+          195.390869140625
+        ]
+      ]
+    },
+    {
+      "title": "Multi-channel aspirating \nsmoke detector",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.330078125,
+          248.32421875
+        ],
+        [
+          383.0318298339844,
+          248.32421875
+        ],
+        [
+          383.0318298339844,
+          317.2799072265625
+        ],
+        [
+          57.330078125,
+          317.2799072265625
+        ]
+      ]
+    },
+    {
+      "title": "What, how, where, when, why...",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.472400665283203,
+          79.040283203125
+        ],
+        [
+          397.5523986816406,
+          79.040283203125
+        ],
+        [
+          397.5523986816406,
+          109.875244140625
+        ],
+        [
+          30.472400665283203,
+          109.875244140625
+        ]
+      ]
+    },
+    {
+      "title": "What it is...",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.81889724731445,
+          79.8111572265625
+        ],
+        [
+          188.287109375,
+          79.8111572265625
+        ],
+        [
+          188.287109375,
+          109.53155517578125
+        ],
+        [
+          58.81889724731445,
+          109.53155517578125
+        ]
+      ]
+    },
+    {
+      "title": "Non-distributed cluster Distributed cluster",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.603271484375,
+          535.7060546875
+        ],
+        [
+          419.889892578125,
+          535.7060546875
+        ],
+        [
+          419.889892578125,
+          545.5732421875
+        ],
+        [
+          58.603271484375,
+          545.5732421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          342.81640625,
+          535.7060546875
+        ],
+        [
+          423.13671875,
+          535.7060546875
+        ],
+        [
+          423.13671875,
+          546.3955078125
+        ],
+        [
+          342.81640625,
+          546.3955078125
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Modular design",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          30.1201171875,
+          139.16845703125
+        ],
+        [
+          117.70350646972656,
+          139.16845703125
+        ],
+        [
+          117.70350646972656,
+          150.68017578125
+        ],
+        [
+          30.1201171875,
+          150.68017578125
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Simplified installation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          30.04736328125,
+          221.181396484375
+        ],
+        [
+          148.92724609375,
+          221.181396484375
+        ],
+        [
+          148.92724609375,
+          232.2900390625
+        ],
+        [
+          30.04736328125,
+          232.2900390625
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Wizards",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          29.8291015625,
+          308.14404296875
+        ],
+        [
+          80.4658203125,
+          308.14404296875
+        ],
+        [
+          80.4658203125,
+          319.431640625
+        ],
+        [
+          29.8291015625,
+          319.431640625
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Easy pipe connection",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          29.68359375,
+          373.6819763183594
+        ],
+        [
+          149.58203125,
+          373.6819763183594
+        ],
+        [
+          149.58203125,
+          384.6819763183594
+        ],
+        [
+          29.68359375,
+          384.6819763183594
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Zoned aspirating smoke detection",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          29.68359375,
+          427.9321594238281
+        ],
+        [
+          211.1132049560547,
+          427.9321594238281
+        ],
+        [
+          211.1132049560547,
+          439.5009765625
+        ],
+        [
+          29.68359375,
+          439.5009765625
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Easy to use interface",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          29.865478515625,
+          515.182373046875
+        ],
+        [
+          144.92578125,
+          515.182373046875
+        ],
+        [
+          144.92578125,
+          526.25
+        ],
+        [
+          29.865478515625,
+          526.25
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Multi-lingual support",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          30.010986328125,
+          580.4326477050781
+        ],
+        [
+          144.7802734375,
+          580.4326477050781
+        ],
+        [
+          144.7802734375,
+          591.4326477050781
+        ],
+        [
+          30.010986328125,
+          591.4326477050781
+        ]
+      ]
+    },
+    {
+      "title": "Where to use it...",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.1328125,
+          80.0167236328125
+        ],
+        [
+          510.4689636230469,
+          80.0167236328125
+        ],
+        [
+          510.4689636230469,
+          109.53155517578125
+        ],
+        [
+          313.1328125,
+          109.53155517578125
+        ]
+      ]
+    },
+    {
+      "title": "Typical applications",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.71240234375,
+          118.8173828125
+        ],
+        [
+          160.05859375,
+          118.8173828125
+        ],
+        [
+          160.05859375,
+          130.740234375
+        ],
+        [
+          58.71240234375,
+          130.740234375
+        ]
+      ]
+    },
+    {
+      "title": "Why it just adds up...",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.4755859375,
+          450.03546142578125
+        ],
+        [
+          304.7428894042969,
+          450.03546142578125
+        ],
+        [
+          304.7428894042969,
+          481.4365234375
+        ],
+        [
+          57.4755859375,
+          481.4365234375
+        ]
+      ]
+    },
+    {
+      "title": "More efficient, less costly...",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.239501953125,
+          507.7490234375
+        ],
+        [
+          197.76210021972656,
+          507.7490234375
+        ],
+        [
+          197.76210021972656,
+          519.2607421875
+        ],
+        [
+          58.239501953125,
+          519.2607421875
+        ]
+      ]
+    },
+    {
+      "title": "When it is important...",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          30.1201171875,
+          80.58203125
+        ],
+        [
+          284.37640380859375,
+          80.58203125
+        ],
+        [
+          284.37640380859375,
+          109.669677734375
+        ],
+        [
+          30.1201171875,
+          109.669677734375
+        ]
+      ]
+    },
+    {
+      "title": "Ready when you are",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.283203125,
+          137.11279296875
+        ],
+        [
+          332.33984375,
+          137.11279296875
+        ],
+        [
+          332.33984375,
+          150.68017578125
+        ],
+        [
+          227.283203125,
+          150.68017578125
+        ]
+      ]
+    },
+    {
+      "title": "Install it your way",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          227.57421875,
+          365.0859375
+        ],
+        [
+          318.37109375,
+          365.0859375
+        ],
+        [
+          318.37109375,
+          377.2022705078125
+        ],
+        [
+          227.57421875,
+          377.2022705078125
+        ]
+      ]
+    },
+    {
+      "title": "Make the right connections",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.312255859375,
+          138.140625
+        ],
+        [
+          197.599609375,
+          138.140625
+        ],
+        [
+          197.599609375,
+          150.474609375
+        ],
+        [
+          58.312255859375,
+          150.474609375
+        ]
+      ]
+    },
+    {
+      "title": "Add some colour to your life",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          138.30517578125,
+          365.4970703125
+        ],
+        [
+          288.10546875,
+          365.4970703125
+        ],
+        [
+          288.10546875,
+          377.2022705078125
+        ],
+        [
+          138.30517578125,
+          377.2022705078125
+        ]
+      ]
+    },
+    {
+      "title": "Easy pipe connection",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          398.400390625,
+          365.70263671875
+        ],
+        [
+          508.986328125,
+          365.70263671875
+        ],
+        [
+          508.986328125,
+          377.2022705078125
+        ],
+        [
+          398.400390625,
+          377.2022705078125
+        ]
+      ]
+    },
+    {
+      "title": "System overview",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.530517578125,
+          572.7080078125
+        ],
+        [
+          146.5263671875,
+          572.7080078125
+        ],
+        [
+          146.5263671875,
+          585.0419921875
+        ],
+        [
+          58.530517578125,
+          585.0419921875
+        ]
+      ]
+    },
+    {
+      "title": "Why it is the right choice...",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          30.265625,
+          190.3544921875
+        ],
+        [
+          338.5923767089844,
+          190.3544921875
+        ],
+        [
+          338.5923767089844,
+          225.09521484375
+        ],
+        [
+          30.265625,
+          225.09521484375
+        ]
+      ]
+    },
+    {
+      "title": "firesecurityproducts.com",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          29.68359375,
+          718.66015625
+        ],
+        [
+          199.21957397460938,
+          718.66015625
+        ],
+        [
+          199.21957397460938,
+          737.572265625
+        ],
+        [
+          29.68359375,
+          737.572265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Line",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          10
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50155199_bro"
+}

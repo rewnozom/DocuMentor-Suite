@@ -1,0 +1,246 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OLDA kantreglar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          240.669921875,
+          71.639892578125
+        ],
+        [
+          355.0390625,
+          71.639892578125
+        ],
+        [
+          355.0390625,
+          89.427001953125
+        ],
+        [
+          240.669921875,
+          89.427001953125
+        ]
+      ]
+    },
+    {
+      "title": "Manuell kantregel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          236.1591796875,
+          166.5087890625
+        ],
+        [
+          358.240234375,
+          166.5087890625
+        ],
+        [
+          358.240234375,
+          182.7869873046875
+        ],
+        [
+          236.1591796875,
+          182.7869873046875
+        ]
+      ]
+    },
+    {
+      "title": "Automatisk kantregel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          224.955078125,
+          251.61328125
+        ],
+        [
+          368.6982116699219,
+          251.61328125
+        ],
+        [
+          368.6982116699219,
+          268.46710205078125
+        ],
+        [
+          224.955078125,
+          268.46710205078125
+        ]
+      ]
+    },
+    {
+      "title": "Halv-automatisk kantregel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          208.658203125,
+          373.10302734375
+        ],
+        [
+          386.759765625,
+          373.10302734375
+        ],
+        [
+          386.759765625,
+          390.14697265625
+        ],
+        [
+          208.658203125,
+          390.14697265625
+        ]
+      ]
+    },
+    {
+      "title": "Hur v\u00e4ljer jag r\u00e4tt typ av kantregel?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          178.68359375,
+          512.6826171875
+        ],
+        [
+          415.279296875,
+          512.6826171875
+        ],
+        [
+          415.279296875,
+          529.2269897460938
+        ],
+        [
+          178.68359375,
+          529.2269897460938
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          8
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          12
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          385
+        ],
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\10015507_man"
+}

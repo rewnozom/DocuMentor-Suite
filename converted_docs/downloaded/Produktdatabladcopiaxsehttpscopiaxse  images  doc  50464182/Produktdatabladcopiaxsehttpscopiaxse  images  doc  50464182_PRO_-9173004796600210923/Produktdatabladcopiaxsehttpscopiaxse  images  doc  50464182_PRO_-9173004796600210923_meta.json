@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktdatablad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.49853515625,
+          100.624755859375
+        ],
+        [
+          274.427734375,
+          100.624755859375
+        ],
+        [
+          274.427734375,
+          135.77996826171875
+        ],
+        [
+          70.49853515625,
+          135.77996826171875
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerhetsanordning BK805-2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.35302734375,
+          148.4189453125
+        ],
+        [
+          354.748046875,
+          148.4189453125
+        ],
+        [
+          354.748046875,
+          181.23565673828125
+        ],
+        [
+          70.35302734375,
+          181.23565673828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Produktdatabladcopiaxsehttpscopiaxse  images  doc  50464182_PRO_-9173004796600210923"
+}

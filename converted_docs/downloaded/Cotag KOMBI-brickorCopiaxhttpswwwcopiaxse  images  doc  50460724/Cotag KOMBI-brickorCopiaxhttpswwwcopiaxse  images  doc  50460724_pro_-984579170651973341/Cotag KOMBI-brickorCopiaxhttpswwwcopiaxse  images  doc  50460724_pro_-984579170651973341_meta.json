@@ -1,0 +1,323 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Cotag KOMBI-brickor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          203.419921875,
+          34.97198486328125
+        ],
+        [
+          391.4171447753906,
+          34.97198486328125
+        ],
+        [
+          391.4171447753906,
+          55.2459716796875
+        ],
+        [
+          203.419921875,
+          55.2459716796875
+        ]
+      ]
+    },
+    {
+      "title": "Introduktion:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.667236328125,
+          339.595703125
+        ],
+        [
+          107.966796875,
+          339.595703125
+        ],
+        [
+          107.966796875,
+          351.9296875
+        ],
+        [
+          34.667236328125,
+          351.9296875
+        ]
+      ]
+    },
+    {
+      "title": "Cotag KOMBI-brickor",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          202.255859375,
+          32.4281005859375
+        ],
+        [
+          391.4171447753906,
+          32.4281005859375
+        ],
+        [
+          391.4171447753906,
+          56.3251953125
+        ],
+        [
+          202.255859375,
+          56.3251953125
+        ]
+      ]
+    },
+    {
+      "title": "Huvudfunktionerna omfattar:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.3583984375,
+          118.303466796875
+        ],
+        [
+          196.2900390625,
+          118.303466796875
+        ],
+        [
+          196.2900390625,
+          131.665283203125
+        ],
+        [
+          35.3583984375,
+          131.665283203125
+        ]
+      ]
+    },
+    {
+      "title": "Cotag KOMBI-brickor",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          202.546875,
+          32.71075439453125
+        ],
+        [
+          391.4171447753906,
+          32.71075439453125
+        ],
+        [
+          391.4171447753906,
+          55.605712890625
+        ],
+        [
+          202.546875,
+          55.605712890625
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk data/specifikation:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.921875,
+          118.20068359375
+        ],
+        [
+          178.974609375,
+          118.20068359375
+        ],
+        [
+          178.974609375,
+          132.7958984375
+        ],
+        [
+          34.921875,
+          132.7958984375
+        ]
+      ]
+    },
+    {
+      "title": "Best\u00e4llningsdata:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.57480239868164,
+          501.1708984375
+        ],
+        [
+          128.62890625,
+          501.1708984375
+        ],
+        [
+          128.62890625,
+          515.1494140625
+        ],
+        [
+          35.57480239868164,
+          515.1494140625
+        ]
+      ]
+    },
+    {
+      "title": "vanderbiltindustries.com",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.228302001953125,
+          777.041015625
+        ],
+        [
+          177.228515625,
+          777.041015625
+        ],
+        [
+          177.228515625,
+          789.6496047973633
+        ],
+        [
+          36.228302001953125,
+          789.6496047973633
+        ]
+      ]
+    },
+    {
+      "title": "Vanderbilt International Ltd.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          349.3227844238281,
+          742.0947265625
+        ],
+        [
+          490.0703125,
+          742.0947265625
+        ],
+        [
+          490.0703125,
+          754.4287109375
+        ],
+        [
+          349.3227844238281,
+          754.4287109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Cotag KOMBI-brickorCopiaxhttpswwwcopiaxse  images  doc  50460724_pro_-984579170651973341"
+}

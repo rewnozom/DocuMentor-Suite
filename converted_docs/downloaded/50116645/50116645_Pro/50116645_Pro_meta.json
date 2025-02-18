@@ -1,0 +1,184 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          456.021484375,
+          19.45172119140625
+        ],
+        [
+          568.353515625,
+          19.45172119140625
+        ],
+        [
+          568.353515625,
+          44.47943115234375
+        ],
+        [
+          456.021484375,
+          44.47943115234375
+        ]
+      ]
+    },
+    {
+      "title": "DCP311",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.7923583984375,
+          69.0703125
+        ],
+        [
+          75.34799194335938,
+          69.0703125
+        ],
+        [
+          75.34799194335938,
+          83.768310546875
+        ],
+        [
+          28.7923583984375,
+          83.768310546875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackningens inneh\u00e5ll:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.90185546875,
+          298.68798828125
+        ],
+        [
+          175.7734375,
+          298.68798828125
+        ],
+        [
+          175.7734375,
+          313.9278564453125
+        ],
+        [
+          29.90185546875,
+          313.9278564453125
+        ]
+      ]
+    },
+    {
+      "title": "Viktiga funktioner och f\u00f6rdelar:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.46533203125,
+          341.6513671875
+        ],
+        [
+          205.5779571533203,
+          341.6513671875
+        ],
+        [
+          205.5779571533203,
+          355.65289306640625
+        ],
+        [
+          29.46533203125,
+          355.65289306640625
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.0,
+          442.7900390625
+        ],
+        [
+          107.966796875,
+          442.7900390625
+        ],
+        [
+          107.966796875,
+          457.5908203125
+        ],
+        [
+          30.0,
+          457.5908203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116645_Pro"
+}

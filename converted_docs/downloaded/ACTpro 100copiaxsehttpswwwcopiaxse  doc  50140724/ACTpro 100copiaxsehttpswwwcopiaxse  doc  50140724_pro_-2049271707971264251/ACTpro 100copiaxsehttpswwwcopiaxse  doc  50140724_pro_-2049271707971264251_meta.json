@@ -1,0 +1,354 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Introduction:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.50390625,
+          304.23828125
+        ],
+        [
+          108.33056640625,
+          304.23828125
+        ],
+        [
+          108.33056640625,
+          317.68115234375
+        ],
+        [
+          35.50390625,
+          317.68115234375
+        ]
+      ]
+    },
+    {
+      "title": "ACTpro 100 Schematic:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.958251953125,
+          384.4091796875
+        ],
+        [
+          158.603515625,
+          384.4091796875
+        ],
+        [
+          158.603515625,
+          397.5654296875
+        ],
+        [
+          34.958251953125,
+          397.5654296875
+        ]
+      ]
+    },
+    {
+      "title": "Main Features - ACTpro 100:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.921875,
+          112.958740234375
+        ],
+        [
+          186.3955078125,
+          112.958740234375
+        ],
+        [
+          186.3955078125,
+          126.2008056640625
+        ],
+        [
+          34.921875,
+          126.2008056640625
+        ]
+      ]
+    },
+    {
+      "title": "Installation Guideline \nACTpro-100 & ACTpro-100 2A:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          425.46484375,
+          307.9384765625
+        ],
+        [
+          568.0625,
+          307.9384765625
+        ],
+        [
+          568.0625,
+          333.83984375
+        ],
+        [
+          425.46484375,
+          333.83984375
+        ]
+      ]
+    },
+    {
+      "title": "ACTpro 100\nSingle door station",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          244.162109375,
+          15.623046875
+        ],
+        [
+          349.80078125,
+          15.623046875
+        ],
+        [
+          349.80078125,
+          78.218017578125
+        ],
+        [
+          244.162109375,
+          78.218017578125
+        ]
+      ]
+    },
+    {
+      "title": "Ordering Information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.1693000793457,
+          484.314453125
+        ],
+        [
+          140.19677734375,
+          484.314453125
+        ],
+        [
+          140.19677734375,
+          499.9375
+        ],
+        [
+          42.1693000793457,
+          499.9375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          40.051025390625,
+          737.9833984375
+        ],
+        [
+          135.4677734375,
+          737.9833984375
+        ],
+        [
+          135.4677734375,
+          761.8291015625
+        ],
+        [
+          40.051025390625,
+          761.8291015625
+        ]
+      ]
+    },
+    {
+      "title": "vanderbiltindustries.com",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          39.14959716796875,
+          775.6496047973633
+        ],
+        [
+          179.48965454101562,
+          775.6496047973633
+        ],
+        [
+          179.48965454101562,
+          788.1416015625
+        ],
+        [
+          39.14959716796875,
+          788.1416015625
+        ]
+      ]
+    },
+    {
+      "title": "Vanderbilt International Ltd.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          349.3227844238281,
+          739.216796875
+        ],
+        [
+          489.48828125,
+          739.216796875
+        ],
+        [
+          489.48828125,
+          753.1953125
+        ],
+        [
+          349.3227844238281,
+          753.1953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ACTpro 100copiaxsehttpswwwcopiaxse  doc  50140724_pro_-2049271707971264251"
+}

@@ -1,0 +1,265 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MapR 509",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.69289779663086,
+          379.6399841308594
+        ],
+        [
+          293.2928771972656,
+          379.6399841308594
+        ],
+        [
+          293.2928771972656,
+          432.1005859375
+        ],
+        [
+          56.69289779663086,
+          432.1005859375
+        ]
+      ]
+    },
+    {
+      "title": "Smart man\u00f6verpanel f\u00f6r smidig larmhantering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.0390625,
+          460.8798828125
+        ],
+        [
+          501.7109375,
+          460.8798828125
+        ],
+        [
+          501.7109375,
+          481.4365234375
+        ],
+        [
+          57.0390625,
+          481.4365234375
+        ]
+      ]
+    },
+    {
+      "title": "V\u00e5r smidiga man\u00f6verpanel\nmed enkel styrning och hantering \nav larmomr\u00e5den med fr\u00e5nslag, \n\u00e5terst\u00e4llning och kvittering.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.3115234375,
+          506.91070556640625
+        ],
+        [
+          209.53125,
+          506.91070556640625
+        ],
+        [
+          209.53125,
+          558.9107055664062
+        ],
+        [
+          56.3115234375,
+          558.9107055664062
+        ]
+      ]
+    },
+    {
+      "title": "Var kan den anv\u00e4ndas?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          221.0263671875,
+          575.1748046875
+        ],
+        [
+          328.84765625,
+          575.1748046875
+        ],
+        [
+          328.84765625,
+          586.6865234375
+        ],
+        [
+          221.0263671875,
+          586.6865234375
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4ker och smidig",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          387.4366149902344,
+          575.5859375
+        ],
+        [
+          467.37109375,
+          575.5859375
+        ],
+        [
+          467.37109375,
+          586.275390625
+        ],
+        [
+          387.4366149902344,
+          586.275390625
+        ]
+      ]
+    },
+    {
+      "title": "F\u00d6RDELAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.493408203125,
+          573.94140625
+        ],
+        [
+          106.51171875,
+          573.94140625
+        ],
+        [
+          106.51171875,
+          587.09765625
+        ],
+        [
+          56.493408203125,
+          587.09765625
+        ]
+      ]
+    },
+    {
+      "title": "KONTAKT OCH F\u00d6RS\u00c4LJNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.67529296875,
+          679.6025390625
+        ],
+        [
+          196.435546875,
+          679.6025390625
+        ],
+        [
+          196.435546875,
+          691.9365234375
+        ],
+        [
+          56.67529296875,
+          691.9365234375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          221.10240173339844,
+          573.94140625
+        ],
+        [
+          294.5078125,
+          573.94140625
+        ],
+        [
+          294.5078125,
+          586.275390625
+        ],
+        [
+          221.10240173339844,
+          586.275390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152927_pro"
+}

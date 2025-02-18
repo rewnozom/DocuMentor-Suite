@@ -1,0 +1,104 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Elslutbleck serie 100",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          444.380859375,
+          7.52886962890625
+        ],
+        [
+          582.322265625,
+          7.52886962890625
+        ],
+        [
+          582.322265625,
+          24.6165771484375
+        ],
+        [
+          444.380859375,
+          24.6165771484375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          471.4453125,
+          395.30419921875
+        ],
+        [
+          584.94140625,
+          395.30419921875
+        ],
+        [
+          584.94140625,
+          420.79443359375
+        ],
+        [
+          471.4453125,
+          420.79443359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "TableCell",
+          97
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\100-serien-brosjyre-2"
+}

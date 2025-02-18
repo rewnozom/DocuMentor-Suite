@@ -1,0 +1,385 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Inkopplingsanvisning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          129.095703125
+        ],
+        [
+          290.928466796875,
+          129.095703125
+        ],
+        [
+          290.928466796875,
+          147.89019775390625
+        ],
+        [
+          105.0,
+          147.89019775390625
+        ]
+      ]
+    },
+    {
+      "title": "Larmmodul C20, 2-3220",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.67431640625,
+          206.2806396484375
+        ],
+        [
+          309.58819580078125,
+          206.2806396484375
+        ],
+        [
+          309.58819580078125,
+          230.2806396484375
+        ],
+        [
+          103.67431640625,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.132568359375,
+          69.995361328125
+        ],
+        [
+          171.22203063964844,
+          69.995361328125
+        ],
+        [
+          171.22203063964844,
+          92.29931640625
+        ],
+        [
+          64.132568359375,
+          92.29931640625
+        ]
+      ]
+    },
+    {
+      "title": "Plintbeskrivning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.423583984375,
+          213.7890625
+        ],
+        [
+          187.20433044433594,
+          213.7890625
+        ],
+        [
+          187.20433044433594,
+          231.87890625
+        ],
+        [
+          64.423583984375,
+          231.87890625
+        ]
+      ]
+    },
+    {
+      "title": "ASF-tips",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.0234375,
+          422.64453125
+        ],
+        [
+          118.0068359375,
+          422.64453125
+        ],
+        [
+          118.0068359375,
+          437.4453125
+        ],
+        [
+          64.0234375,
+          437.4453125
+        ]
+      ]
+    },
+    {
+      "title": "Tredjeparts larmsystem och C20",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.5869140625,
+          69.313720703125
+        ],
+        [
+          391.7223205566406,
+          69.313720703125
+        ],
+        [
+          391.7223205566406,
+          93.313720703125
+        ],
+        [
+          63.5869140625,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Axema VAKA C20 och Galaxy",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.65966796875,
+          108.9501953125
+        ],
+        [
+          291.8965759277344,
+          108.9501953125
+        ],
+        [
+          291.8965759277344,
+          128.09918212890625
+        ],
+        [
+          63.65966796875,
+          128.09918212890625
+        ]
+      ]
+    },
+    {
+      "title": "Axema VAKA C20 och Teletec",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.36865234375,
+          332.9291687011719
+        ],
+        [
+          296.6927490234375,
+          332.9291687011719
+        ],
+        [
+          296.6927490234375,
+          351.59918212890625
+        ],
+        [
+          63.36865234375,
+          351.59918212890625
+        ]
+      ]
+    },
+    {
+      "title": "C20 och inbrottslarm med potentialfri rel\u00e4v\u00e4xling f\u00f6r\nlarmstatus",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.5869140625,
+          81.301513671875
+        ],
+        [
+          459.22265625,
+          81.301513671875
+        ],
+        [
+          459.22265625,
+          115.78558349609375
+        ],
+        [
+          63.5869140625,
+          115.78558349609375
+        ]
+      ]
+    },
+    {
+      "title": "Installation och konfiguration",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.2958984375,
+          313.283203125
+        ],
+        [
+          360.2040710449219,
+          313.283203125
+        ],
+        [
+          360.2040710449219,
+          337.8136901855469
+        ],
+        [
+          63.2958984375,
+          337.8136901855469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\c20-mansv_INS"
+}

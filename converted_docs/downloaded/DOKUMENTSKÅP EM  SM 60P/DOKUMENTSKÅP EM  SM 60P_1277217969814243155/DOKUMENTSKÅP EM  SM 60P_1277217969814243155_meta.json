@@ -1,0 +1,123 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DOKUMENTSK\u00c5P (EM & SM 60P)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          15.1611328125,
+          10.89019775390625
+        ],
+        [
+          531.417724609375,
+          10.89019775390625
+        ],
+        [
+          531.417724609375,
+          48.08349609375
+        ],
+        [
+          15.1611328125,
+          48.08349609375
+        ]
+      ]
+    },
+    {
+      "title": "DOKUMENTSK\u00c5P (EM & SM 60P)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          18.8525390625,
+          12.1875
+        ],
+        [
+          531.417724609375,
+          12.1875
+        ],
+        [
+          531.417724609375,
+          45.941162109375
+        ],
+        [
+          18.8525390625,
+          45.941162109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DOKUMENTSK\u00c5P EM  SM 60P_1277217969814243155"
+}

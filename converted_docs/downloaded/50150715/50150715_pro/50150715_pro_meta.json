@@ -1,0 +1,408 @@
+{
+  "table_of_contents": [
+    {
+      "title": "EM PSW250\nSlagd\u00f6rrs\u00f6ppnare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.55415617128463,
+          602.0712377560106
+        ],
+        [
+          282.9874055415617,
+          602.0712377560106
+        ],
+        [
+          282.9874055415617,
+          671.80053428317
+        ],
+        [
+          64.55415617128463,
+          670.3009795191451
+        ]
+      ]
+    },
+    {
+      "title": "Tyst, kompakt och kraftfull \n\u2013 EM PSW250",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.48828125,
+          27.9056396484375
+        ],
+        [
+          454.10992431640625,
+          27.9056396484375
+        ],
+        [
+          454.10992431640625,
+          107.48309326171875
+        ],
+        [
+          42.48828125,
+          107.48309326171875
+        ]
+      ]
+    },
+    {
+      "title": "Tilltalande design och h\u00f6g prestanda",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.48828125,
+          269.90869140625
+        ],
+        [
+          189.08810424804688,
+          269.90869140625
+        ],
+        [
+          189.08810424804688,
+          280.59814453125
+        ],
+        [
+          42.48828125,
+          280.59814453125
+        ]
+      ]
+    },
+    {
+      "title": "Bekv\u00e4mlighet f\u00f6r alla typer av anv\u00e4n-\ndare och till\u00e4mpningar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          205.166015625,
+          142.61688232421875
+        ],
+        [
+          353.583984375,
+          142.61688232421875
+        ],
+        [
+          353.583984375,
+          164.144775390625
+        ],
+        [
+          205.166015625,
+          164.144775390625
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e4kerhet och trygghet i v\u00e4rldsklass",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          206.99911499023438,
+          396.33203125
+        ],
+        [
+          345.435546875,
+          396.33203125
+        ],
+        [
+          345.435546875,
+          406.19921875
+        ],
+        [
+          206.99911499023438,
+          406.19921875
+        ]
+      ]
+    },
+    {
+      "title": "Kostnadseffektivitet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.63389587402344,
+          33.63580322265625
+        ],
+        [
+          372.5,
+          33.63580322265625
+        ],
+        [
+          372.5,
+          72.56494140625
+        ],
+        [
+          71.63389587402344,
+          72.56494140625
+        ]
+      ]
+    },
+    {
+      "title": "Livsl\u00e5ng kostnadseffektivitet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.42578125,
+          141.4296875
+        ],
+        [
+          187.123046875,
+          141.4296875
+        ],
+        [
+          187.123046875,
+          152.32470703125
+        ],
+        [
+          70.42578125,
+          152.32470703125
+        ]
+      ]
+    },
+    {
+      "title": "Tillbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          229.3203125,
+          140.81298828125
+        ],
+        [
+          270.9180908203125,
+          140.81298828125
+        ],
+        [
+          270.9180908203125,
+          152.32470703125
+        ],
+        [
+          229.3203125,
+          152.32470703125
+        ]
+      ]
+    },
+    {
+      "title": "Myndighetsgodk\u00e4nnanden",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          398.69140625,
+          140.299072265625
+        ],
+        [
+          502.7850646972656,
+          140.299072265625
+        ],
+        [
+          502.7850646972656,
+          151.194091796875
+        ],
+        [
+          398.69140625,
+          151.194091796875
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska specifikationer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.11810302734375,
+          603.54296875
+        ],
+        [
+          168.498046875,
+          603.54296875
+        ],
+        [
+          168.498046875,
+          613.6552276611328
+        ],
+        [
+          71.11810302734375,
+          613.6552276611328
+        ]
+      ]
+    },
+    {
+      "title": "Entrematic",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.18109893798828,
+          661.2615203857422
+        ],
+        [
+          79.5927734375,
+          661.2615203857422
+        ],
+        [
+          79.5927734375,
+          675.080078125
+        ],
+        [
+          31.18109893798828,
+          675.080078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          20
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50150715_pro"
+}

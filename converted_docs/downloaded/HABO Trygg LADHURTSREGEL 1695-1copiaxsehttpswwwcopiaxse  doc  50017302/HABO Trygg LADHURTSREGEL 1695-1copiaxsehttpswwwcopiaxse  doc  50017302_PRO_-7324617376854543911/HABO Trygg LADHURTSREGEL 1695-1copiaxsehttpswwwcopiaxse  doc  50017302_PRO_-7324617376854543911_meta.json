@@ -1,0 +1,92 @@
+{
+  "table_of_contents": [
+    {
+      "title": "on Trygg LADINATISEGEL 1695",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          788.0160284951023,
+          166.6064453125
+        ],
+        [
+          815.7577916295636,
+          166.6064453125
+        ],
+        [
+          811.576171875,
+          498.21875
+        ],
+        [
+          782.7675868210151,
+          498.21875
+        ]
+      ]
+    },
+    {
+      "title": "rtikelnummer. 38685",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          680.7978628673196,
+          209.822265625
+        ],
+        [
+          695.63671875,
+          209.822265625
+        ],
+        [
+          695.63671875,
+          337.03274559193954
+        ],
+        [
+          679.2983081032947,
+          337.03274559193954
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          14
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\HABO Trygg LADHURTSREGEL 1695-1copiaxsehttpswwwcopiaxse  doc  50017302_PRO_-7324617376854543911"
+}

@@ -1,0 +1,165 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MIF-65KG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          433.8846740722656,
+          37.1561279296875
+        ],
+        [
+          551.474609375,
+          37.1561279296875
+        ],
+        [
+          551.474609375,
+          71.56298828125
+        ],
+        [
+          433.8846740722656,
+          71.56298828125
+        ]
+      ]
+    },
+    {
+      "title": "BER\u00d6RINGSFRI MIFARE \nL\u00c4SARE MED KNAPPSATS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.3583984375,
+          195.802001953125
+        ],
+        [
+          339.8999938964844,
+          195.802001953125
+        ],
+        [
+          339.8999938964844,
+          267.03076171875
+        ],
+        [
+          35.3583984375,
+          267.03076171875
+        ]
+      ]
+    },
+    {
+      "title": "H\u00d6G S\u00c4KERHET INOM- OCH UTOMHUS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.86767578125,
+          347.818359375
+        ],
+        [
+          274.71875,
+          347.818359375
+        ],
+        [
+          274.71875,
+          367.552734375
+        ],
+        [
+          35.86767578125,
+          367.552734375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          534.47265625
+        ],
+        [
+          116.33349609375,
+          534.47265625
+        ],
+        [
+          116.33349609375,
+          550.095703125
+        ],
+        [
+          36.0,
+          550.095703125
+        ]
+      ]
+    },
+    {
+      "title": "ELEKTRONISKA L\u00c5S F\u00d6R HEM OCH F\u00d6RETAG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.5751953125,
+          800.4755859375
+        ],
+        [
+          434.1953125,
+          800.4755859375
+        ],
+        [
+          434.1953125,
+          818.0858707427979
+        ],
+        [
+          180.5751953125,
+          818.0858707427979
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          423
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50108093_prodblad"
+}

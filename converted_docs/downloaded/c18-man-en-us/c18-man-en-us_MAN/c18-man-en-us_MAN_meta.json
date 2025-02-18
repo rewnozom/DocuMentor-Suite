@@ -1,0 +1,320 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Connection instructions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.9111328125,
+          127.7752685546875
+        ],
+        [
+          314.496337890625,
+          127.7752685546875
+        ],
+        [
+          314.496337890625,
+          149.10528564453125
+        ],
+        [
+          104.9111328125,
+          149.10528564453125
+        ]
+      ]
+    },
+    {
+      "title": "Radio module C18, 2-3180",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.0380859375,
+          206.2806396484375
+        ],
+        [
+          331.33819580078125,
+          206.2806396484375
+        ],
+        [
+          331.33819580078125,
+          230.2806396484375
+        ],
+        [
+          104.0380859375,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.423583984375,
+          69.4814453125
+        ],
+        [
+          189.9778594970703,
+          69.4814453125
+        ],
+        [
+          189.9778594970703,
+          91.946533203125
+        ],
+        [
+          64.423583984375,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Mounting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.44140625,
+          422.2333984375
+        ],
+        [
+          159.9778594970703,
+          422.2333984375
+        ],
+        [
+          159.9778594970703,
+          444.446533203125
+        ],
+        [
+          63.44140625,
+          444.446533203125
+        ]
+      ]
+    },
+    {
+      "title": "Quartz antenna in an indoor environment",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.24169921875,
+          69.71728515625
+        ],
+        [
+          332.921875,
+          69.71728515625
+        ],
+        [
+          332.921875,
+          88.3873291015625
+        ],
+        [
+          64.24169921875,
+          88.3873291015625
+        ]
+      ]
+    },
+    {
+      "title": "External antenna",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.550537109375,
+          381.71734619140625
+        ],
+        [
+          176.13853454589844,
+          381.71734619140625
+        ],
+        [
+          176.13853454589844,
+          400.3873291015625
+        ],
+        [
+          63.550537109375,
+          400.3873291015625
+        ]
+      ]
+    },
+    {
+      "title": "Installation and configuration",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.24169921875,
+          69.313720703125
+        ],
+        [
+          360.2040710449219,
+          69.313720703125
+        ],
+        [
+          360.2040710449219,
+          93.313720703125
+        ],
+        [
+          64.24169921875,
+          93.313720703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          36
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\c18-man-en-us_MAN"
+}

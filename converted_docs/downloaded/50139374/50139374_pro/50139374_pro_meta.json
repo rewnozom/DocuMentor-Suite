@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2X-FR-SCFB-C",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.3740234375,
+          143.177001953125
+        ],
+        [
+          190.1787109375,
+          143.177001953125
+        ],
+        [
+          190.1787109375,
+          170.517333984375
+        ],
+        [
+          28.3740234375,
+          170.517333984375
+        ]
+      ]
+    },
+    {
+      "title": "2X-FR-SCFB-C\nBrandf\u00f6rsvarstabl\u00e5 f\u00f6r centralapparat 2X",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.31982421875,
+          31.6058349609375
+        ],
+        [
+          266.5703125,
+          31.6058349609375
+        ],
+        [
+          266.5703125,
+          68.15533447265625
+        ],
+        [
+          29.31982421875,
+          68.15533447265625
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.865478515625,
+          85.1044921875
+        ],
+        [
+          158.1669921875,
+          85.1044921875
+        ],
+        [
+          158.1669921875,
+          98.980224609375
+        ],
+        [
+          29.865478515625,
+          98.980224609375
+        ]
+      ]
+    },
+    {
+      "title": "M\u00e5tt",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.1201171875,
+          118.40625
+        ],
+        [
+          49.39990234375,
+          118.40625
+        ],
+        [
+          49.39990234375,
+          129.5751953125
+        ],
+        [
+          30.1201171875,
+          129.5751953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50139374_pro"
+}

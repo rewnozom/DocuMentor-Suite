@@ -1,0 +1,261 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          455.73046875,
+          19.220458984375
+        ],
+        [
+          568.64453125,
+          19.220458984375
+        ],
+        [
+          568.64453125,
+          44.60791015625
+        ],
+        [
+          455.73046875,
+          44.60791015625
+        ]
+      ]
+    },
+    {
+      "title": "5-serien\nDC515NHGP2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.774169921875,
+          69.8411865234375
+        ],
+        [
+          108.6943359375,
+          69.8411865234375
+        ],
+        [
+          108.6943359375,
+          99.1343994140625
+        ],
+        [
+          28.774169921875,
+          99.1343994140625
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s portabel samt plug-in-d\u00f6rrklocka med \nvilol\u00e4ge, nattbelysning och tryckknapp - Vit",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.392578125,
+          110.491943359375
+        ],
+        [
+          291.0560607910156,
+          110.491943359375
+        ],
+        [
+          291.0560607910156,
+          138.4749755859375
+        ],
+        [
+          29.392578125,
+          138.4749755859375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackningens inneh\u00e5ll:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.974609375,
+          327.26171875
+        ],
+        [
+          174.5079803466797,
+          327.26171875
+        ],
+        [
+          174.5079803466797,
+          342.11187744140625
+        ],
+        [
+          29.974609375,
+          342.11187744140625
+        ]
+      ]
+    },
+    {
+      "title": "Viktiga funktioner och f\u00f6rdelar:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.5380859375,
+          381.53125
+        ],
+        [
+          205.5779571533203,
+          381.53125
+        ],
+        [
+          205.5779571533203,
+          396.33203125
+        ],
+        [
+          29.5380859375,
+          396.33203125
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.719970703125,
+          33.4559326171875
+        ],
+        [
+          107.384765625,
+          33.4559326171875
+        ],
+        [
+          107.384765625,
+          49.438720703125
+        ],
+        [
+          29.719970703125,
+          49.438720703125
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s plug-in-d\u00f6rrklocka",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.84912109375,
+          367.552734375
+        ],
+        [
+          164.423828125,
+          367.552734375
+        ],
+        [
+          164.423828125,
+          380.2978515625
+        ],
+        [
+          34.84912109375,
+          380.2978515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116646_Pro"
+}

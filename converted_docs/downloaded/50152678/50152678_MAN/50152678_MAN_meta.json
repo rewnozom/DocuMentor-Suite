@@ -1,0 +1,96 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Den Dolda D\u00f6rrst\u00e4ngaren R2 Rektangul\u00e4ra monteringsplattor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.02399444580078,
+          174.7314453125
+        ],
+        [
+          370.462890625,
+          174.7314453125
+        ],
+        [
+          370.462890625,
+          187.6600341796875
+        ],
+        [
+          72.02399444580078,
+          187.6600341796875
+        ]
+      ]
+    },
+    {
+      "title": "Montage instruktion.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          92.61572265625,
+          341.240234375
+        ],
+        [
+          181.2496795654297,
+          341.240234375
+        ],
+        [
+          181.2496795654297,
+          352.41998291015625
+        ],
+        [
+          92.61572265625,
+          352.41998291015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50152678_MAN"
+}

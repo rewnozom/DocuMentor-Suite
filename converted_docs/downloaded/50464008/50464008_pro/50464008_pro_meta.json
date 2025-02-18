@@ -1,0 +1,323 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Overview:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.4493408203125,
+          422.73486328125
+        ],
+        [
+          92.17919921875,
+          422.73486328125
+        ],
+        [
+          92.17919921875,
+          435.08349609375
+        ],
+        [
+          35.4493408203125,
+          435.08349609375
+        ]
+      ]
+    },
+    {
+      "title": "Features & Benefits:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.99462890625,
+          121.9427490234375
+        ],
+        [
+          149.5919952392578,
+          121.9427490234375
+        ],
+        [
+          149.5919952392578,
+          135.17498779296875
+        ],
+        [
+          34.99462890625,
+          135.17498779296875
+        ]
+      ]
+    },
+    {
+      "title": "WIRELESS REMOTE COMMUNICATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.17724609375,
+          154.0491943359375
+        ],
+        [
+          255.61566162109375,
+          154.0491943359375
+        ],
+        [
+          255.61566162109375,
+          167.0152587890625
+        ],
+        [
+          37.17724609375,
+          167.0152587890625
+        ]
+      ]
+    },
+    {
+      "title": "SMS REPORTING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.92333984375,
+          268.78857421875
+        ],
+        [
+          143.10693359375,
+          268.78857421875
+        ],
+        [
+          143.10693359375,
+          281.548828125
+        ],
+        [
+          38.92333984375,
+          281.548828125
+        ]
+      ]
+    },
+    {
+      "title": "SMS CONTROL",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.359130859375,
+          345.555908203125
+        ],
+        [
+          131.830078125,
+          345.555908203125
+        ],
+        [
+          131.830078125,
+          358.727783203125
+        ],
+        [
+          37.359130859375,
+          358.727783203125
+        ]
+      ]
+    },
+    {
+      "title": "EASY MOUNTING AND CONFIGURATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.34130859375,
+          420.882568359375
+        ],
+        [
+          269.6875915527344,
+          420.882568359375
+        ],
+        [
+          269.6875915527344,
+          433.50860595703125
+        ],
+        [
+          38.34130859375,
+          433.50860595703125
+        ]
+      ]
+    },
+    {
+      "title": "Additional Features:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          426.1000061035156,
+          283.812744140625
+        ],
+        [
+          526.447265625,
+          283.812744140625
+        ],
+        [
+          526.447265625,
+          295.338134765625
+        ],
+        [
+          426.1000061035156,
+          295.338134765625
+        ]
+      ]
+    },
+    {
+      "title": "Ordering Information:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.031005859375,
+          530.16796875
+        ],
+        [
+          162.38671875,
+          530.16796875
+        ],
+        [
+          162.38671875,
+          544.1630859375
+        ],
+        [
+          35.031005859375,
+          544.1630859375
+        ]
+      ]
+    },
+    {
+      "title": "Vanderbilt International Ltd.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          353.4700012207031,
+          736.39013671875
+        ],
+        [
+          515.388671875,
+          736.39013671875
+        ],
+        [
+          515.388671875,
+          750.38525390625
+        ],
+        [
+          353.4700012207031,
+          750.38525390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464008_pro"
+}

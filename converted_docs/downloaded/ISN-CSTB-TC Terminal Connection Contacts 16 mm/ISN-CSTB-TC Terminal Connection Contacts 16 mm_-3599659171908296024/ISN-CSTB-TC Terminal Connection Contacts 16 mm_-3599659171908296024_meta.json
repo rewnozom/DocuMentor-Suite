@@ -1,0 +1,400 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ISN-CSTB-TC Terminal Connection\nContacts (16 mm)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.1474609375,
+          115.62890625
+        ],
+        [
+          462.71484375,
+          115.62890625
+        ],
+        [
+          462.71484375,
+          169.39019775390625
+        ],
+        [
+          55.1474609375,
+          169.39019775390625
+        ]
+      ]
+    },
+    {
+      "title": "Functions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.36572265625,
+          482.23828125
+        ],
+        [
+          99.74560546875,
+          482.23828125
+        ],
+        [
+          99.74560546875,
+          491.8062438964844
+        ],
+        [
+          55.36572265625,
+          491.8062438964844
+        ]
+      ]
+    },
+    {
+      "title": "Installation/Configuration Notes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.22021484375,
+          535.60546875
+        ],
+        [
+          199.63671875,
+          535.60546875
+        ],
+        [
+          199.63671875,
+          544.9412689208984
+        ],
+        [
+          55.22021484375,
+          544.9412689208984
+        ]
+      ]
+    },
+    {
+      "title": "Compatibility Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.001953125,
+          559.96875
+        ],
+        [
+          164.5693359375,
+          559.96875
+        ],
+        [
+          164.5693359375,
+          569.25
+        ],
+        [
+          55.001953125,
+          569.25
+        ]
+      ]
+    },
+    {
+      "title": "Parts Included",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.7109375,
+          616.81640625
+        ],
+        [
+          120.771484375,
+          616.81640625
+        ],
+        [
+          120.771484375,
+          625.9412689208984
+        ],
+        [
+          54.7109375,
+          625.9412689208984
+        ]
+      ]
+    },
+    {
+      "title": "Technical Specifications",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          319.53515625,
+          388.1292724609375
+        ],
+        [
+          429.6920166015625,
+          388.1292724609375
+        ],
+        [
+          429.6920166015625,
+          397.16015625
+        ],
+        [
+          319.53515625,
+          397.16015625
+        ]
+      ]
+    },
+    {
+      "title": "Specifications for All Models",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          321.28125,
+          409.1484375
+        ],
+        [
+          443.5078125,
+          409.1484375
+        ],
+        [
+          443.5078125,
+          417.8318786621094
+        ],
+        [
+          321.28125,
+          417.8318786621094
+        ]
+      ]
+    },
+    {
+      "title": "Specifications for ISN-CSTB-TCB/W Models",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          321.86328125,
+          593.2878570556641
+        ],
+        [
+          506.3671875,
+          593.2878570556641
+        ],
+        [
+          506.3671875,
+          602.5078125
+        ],
+        [
+          321.86328125,
+          602.5078125
+        ]
+      ]
+    },
+    {
+      "title": "Specifications for ISN-CSTB-TCFB/W Models",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          321.572265625,
+          638.2278594970703
+        ],
+        [
+          509.83203125,
+          638.2278594970703
+        ],
+        [
+          509.83203125,
+          646.7278594970703
+        ],
+        [
+          321.572265625,
+          646.7278594970703
+        ]
+      ]
+    },
+    {
+      "title": "Package Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          322.0149841308594,
+          688.8368530273438
+        ],
+        [
+          408.7659912109375,
+          688.8368530273438
+        ],
+        [
+          408.7659912109375,
+          697.3368530273438
+        ],
+        [
+          322.0149841308594,
+          697.3368530273438
+        ]
+      ]
+    },
+    {
+      "title": "Americas:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          136.06300354003906,
+          693.38671875
+        ],
+        [
+          183.048828125,
+          691.83984375
+        ],
+        [
+          183.048828125,
+          700.34765625
+        ],
+        [
+          136.06300354003906,
+          701.89453125
+        ]
+      ]
+    },
+    {
+      "title": "Asia-Pacific:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          237.9052734375,
+          692.61328125
+        ],
+        [
+          266.9000244140625,
+          692.61328125
+        ],
+        [
+          266.9000244140625,
+          699.7770538330078
+        ],
+        [
+          237.9052734375,
+          699.7770538330078
+        ]
+      ]
+    },
+    {
+      "title": "Represented by",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          340.15802001953125,
+          693.0
+        ],
+        [
+          379.775390625,
+          693.0
+        ],
+        [
+          379.775390625,
+          699.9609375
+        ],
+        [
+          340.15802001953125,
+          699.9609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          141
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ISN-CSTB-TC Terminal Connection Contacts 16 mm_-3599659171908296024"
+}

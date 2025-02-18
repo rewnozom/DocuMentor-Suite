@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.2843017578125,
+          135.159912109375
+        ],
+        [
+          381.521484375,
+          135.159912109375
+        ],
+        [
+          381.521484375,
+          164.967041015625
+        ],
+        [
+          215.2843017578125,
+          164.967041015625
+        ]
+      ]
+    },
+    {
+      "title": "V\u00e4ggf\u00e4ste - WMP1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.376953125,
+          185.112548828125
+        ],
+        [
+          237.9052734375,
+          185.112548828125
+        ],
+        [
+          237.9052734375,
+          209.574951171875
+        ],
+        [
+          36.376953125,
+          209.574951171875
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.14013671875,
+          219.33935546875
+        ],
+        [
+          179.46200561523438,
+          219.33935546875
+        ],
+        [
+          179.46200561523438,
+          237.01806640625
+        ],
+        [
+          35.14013671875,
+          237.01806640625
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.65234375,
+          535.294921875
+        ],
+        [
+          124.263671875,
+          535.294921875
+        ],
+        [
+          124.263671875,
+          552.5625
+        ],
+        [
+          43.65234375,
+          552.5625
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.958251953125,
+          136.0849609375
+        ],
+        [
+          183.630859375,
+          136.0849609375
+        ],
+        [
+          183.630859375,
+          152.5302734375
+        ],
+        [
+          34.958251953125,
+          152.5302734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Produktbladcopiaxsehttpswwwcopiaxse  doc  50156094_pro_-65129275642421537"
+}

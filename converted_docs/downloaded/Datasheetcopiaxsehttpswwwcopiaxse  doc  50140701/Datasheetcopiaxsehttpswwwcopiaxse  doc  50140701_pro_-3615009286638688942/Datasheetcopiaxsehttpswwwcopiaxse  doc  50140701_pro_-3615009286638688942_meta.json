@@ -1,0 +1,239 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Datasheet 1 / 2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.076171875,
+          108.847412109375
+        ],
+        [
+          549.9210205078125,
+          108.847412109375
+        ],
+        [
+          549.9210205078125,
+          135.776611328125
+        ],
+        [
+          59.076171875,
+          135.776611328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          516.84375,
+          104.8388671875
+        ],
+        [
+          552.34765625,
+          104.8388671875
+        ],
+        [
+          552.34765625,
+          131.35693359375
+        ],
+        [
+          516.84375,
+          131.35693359375
+        ]
+      ]
+    },
+    {
+      "title": "IOT826",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.185302734375,
+          170.41455078125
+        ],
+        [
+          124.88600158691406,
+          170.41455078125
+        ],
+        [
+          124.88600158691406,
+          193.02685546875
+        ],
+        [
+          59.185302734375,
+          193.02685546875
+        ]
+      ]
+    },
+    {
+      "title": "Wall Mounted Low Profile Multiband Antenna",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.71240234375,
+          200.01611328125
+        ],
+        [
+          304.2669677734375,
+          200.01611328125
+        ],
+        [
+          304.2669677734375,
+          214.2001953125
+        ],
+        [
+          58.71240234375,
+          214.2001953125
+        ]
+      ]
+    },
+    {
+      "title": "Electrical Specifications:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.713134765625,
+          327.58709716796875
+        ],
+        [
+          162.2412109375,
+          327.58709716796875
+        ],
+        [
+          162.2412109375,
+          339.1845703125
+        ],
+        [
+          60.713134765625,
+          339.1845703125
+        ]
+      ]
+    },
+    {
+      "title": "Datasheet 2 / 2",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.0947265625,
+          109.56689453125
+        ],
+        [
+          549.9210205078125,
+          109.56689453125
+        ],
+        [
+          549.9210205078125,
+          134.8515625
+        ],
+        [
+          60.0947265625,
+          134.8515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Datasheetcopiaxsehttpswwwcopiaxse  doc  50140701_pro_-3615009286638688942"
+}

@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.63964843749999,
+          68.2261962890625
+        ],
+        [
+          316.625,
+          68.2261962890625
+        ],
+        [
+          316.625,
+          116.3858642578125
+        ],
+        [
+          58.63964843749999,
+          116.3858642578125
+        ]
+      ]
+    },
+    {
+      "title": "IP-styrenhet f\u00f6r en \nd\u00f6rr med 2 amp PSU",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.49414062499999,
+          121.222412109375
+        ],
+        [
+          299.74609375,
+          121.222412109375
+        ],
+        [
+          299.74609375,
+          180.041015625
+        ],
+        [
+          58.49414062499999,
+          180.041015625
+        ]
+      ]
+    },
+    {
+      "title": "Introduktion:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.94775390624999,
+          205.5018310546875
+        ],
+        [
+          132.92138671875,
+          205.5018310546875
+        ],
+        [
+          132.92138671875,
+          221.4521484375
+        ],
+        [
+          55.94775390624999,
+          221.4521484375
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.07470703124999,
+          293.691650390625
+        ],
+        [
+          123.89990234374999,
+          293.691650390625
+        ],
+        [
+          123.89990234374999,
+          309.27001953125
+        ],
+        [
+          55.07470703124999,
+          309.27001953125
+        ]
+      ]
+    },
+    {
+      "title": "Produktspecifikation:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.05688476562499,
+          632.66162109375
+        ],
+        [
+          179.7021484375,
+          631.01513671875
+        ],
+        [
+          179.7021484375,
+          646.4000854492188
+        ],
+        [
+          56.05688476562499,
+          647.47998046875
+        ]
+      ]
+    },
+    {
+      "title": "Certifieringar:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.94848632812499,
+          754.9130859375
+        ],
+        [
+          139.10546875,
+          754.9130859375
+        ],
+        [
+          139.10546875,
+          770.5546875
+        ],
+        [
+          57.94848632812499,
+          770.5546875
+        ]
+      ]
+    },
+    {
+      "title": "Elektriska specifikation ACTpro 1520e",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.28564453125,
+          27.8873291015625
+        ],
+        [
+          199.92773437499997,
+          27.8873291015625
+        ],
+        [
+          199.92773437499997,
+          38.89508056640625
+        ],
+        [
+          35.28564453125,
+          38.89508056640625
+        ]
+      ]
+    },
+    {
+      "title": "Orderinformation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.52000045776367,
+          155.18115234375
+        ],
+        [
+          109.6259994506836,
+          155.18115234375
+        ],
+        [
+          109.6259994506836,
+          166.11505126953125
+        ],
+        [
+          35.52000045776367,
+          166.11505126953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          665
+        ],
+        [
+          "TableCell",
+          262
+        ],
+        [
+          "Line",
+          147
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\IP-styrenhet f\u00f6r en d\u00f6rr med 2 amp PSUcopiaxsehttpswwwcopiaxse  doc  50140389_pro_4196725275580729378"
+}

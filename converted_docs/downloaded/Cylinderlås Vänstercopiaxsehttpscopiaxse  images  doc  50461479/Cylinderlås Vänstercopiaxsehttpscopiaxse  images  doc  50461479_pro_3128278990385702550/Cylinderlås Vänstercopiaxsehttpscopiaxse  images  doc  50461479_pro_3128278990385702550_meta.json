@@ -1,0 +1,169 @@
+{
+  "table_of_contents": [
+    {
+      "title": "L\u00e5s\nCylinderl\u00e5s V\u00e4nster",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.8876953125,
+          44.60791015625
+        ],
+        [
+          330.3079833984375,
+          44.60791015625
+        ],
+        [
+          330.3079833984375,
+          107.99578857421875
+        ],
+        [
+          40.8876953125,
+          107.99578857421875
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          345.14453125,
+          170.41455078125
+        ],
+        [
+          508.11328125,
+          170.41455078125
+        ],
+        [
+          508.11328125,
+          191.587890625
+        ],
+        [
+          345.14453125,
+          191.587890625
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.8125,
+          364.263671875
+        ],
+        [
+          178.1015625,
+          364.263671875
+        ],
+        [
+          178.1015625,
+          384.8203125
+        ],
+        [
+          83.8125,
+          384.8203125
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          326.4774169921875,
+          364.6748046875
+        ],
+        [
+          454.275390625,
+          364.6748046875
+        ],
+        [
+          454.275390625,
+          385.2314453125
+        ],
+        [
+          326.4774169921875,
+          385.2314453125
+        ]
+      ]
+    },
+    {
+      "title": "Artikel",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.521484375,
+          666.857421875
+        ],
+        [
+          141.142578125,
+          666.857421875
+        ],
+        [
+          141.142578125,
+          684.9571075439453
+        ],
+        [
+          83.521484375,
+          684.9571075439453
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Cylinderl\u00e5s V\u00e4nstercopiaxsehttpscopiaxse  images  doc  50461479_pro_3128278990385702550"
+}

@@ -1,0 +1,192 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UBI-NS-WM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.68499755859375,
+          88.7532958984375
+        ],
+        [
+          140.65122985839844,
+          88.7532958984375
+        ],
+        [
+          140.65122985839844,
+          105.89617919921875
+        ],
+        [
+          35.68499755859375,
+          105.89617919921875
+        ]
+      ]
+    },
+    {
+      "title": "www.deltaco.se",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          23.789997100830078,
+          788.1416015625
+        ],
+        [
+          113.06498718261719,
+          788.1416015625
+        ],
+        [
+          113.06498718261719,
+          798.9365844726562
+        ],
+        [
+          23.789997100830078,
+          798.9365844726562
+        ]
+      ]
+    },
+    {
+      "title": "Specifikationer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.82696533203125,
+          86.1837158203125
+        ],
+        [
+          160.42349243164062,
+          86.1837158203125
+        ],
+        [
+          160.42349243164062,
+          105.763916015625
+        ],
+        [
+          34.82696533203125,
+          105.763916015625
+        ]
+      ]
+    },
+    {
+      "title": "Logistikdata",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.68499755859375,
+          241.95166015625
+        ],
+        [
+          140.35873413085938,
+          241.95166015625
+        ],
+        [
+          140.35873413085938,
+          261.68603515625
+        ],
+        [
+          35.68499755859375,
+          261.68603515625
+        ]
+      ]
+    },
+    {
+      "title": "www.deltaco.se",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          23.789997100830078,
+          787.73046875
+        ],
+        [
+          113.06498718261719,
+          787.73046875
+        ],
+        [
+          113.06498718261719,
+          799.2421875
+        ],
+        [
+          23.789997100830078,
+          799.2421875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\UBI-NS-WMCopiaxhttpswwwcopiaxse  images  doc  50154309_pro_7619326614842208639"
+}

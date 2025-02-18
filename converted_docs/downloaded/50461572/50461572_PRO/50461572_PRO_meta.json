@@ -1,0 +1,215 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FKR Stopp",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.7294921875,
+          118.20068359375
+        ],
+        [
+          131.248046875,
+          118.20068359375
+        ],
+        [
+          131.248046875,
+          140.03778076171875
+        ],
+        [
+          55.7294921875,
+          140.03778076171875
+        ]
+      ]
+    },
+    {
+      "title": "FKR Stopp",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.658203125,
+          481.025390625
+        ],
+        [
+          111.8368911743164,
+          481.025390625
+        ],
+        [
+          111.8368911743164,
+          495.00390625
+        ],
+        [
+          59.658203125,
+          495.00390625
+        ]
+      ]
+    },
+    {
+      "title": "T\u00c4CLASTOPP ARTIKELNUMMER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          232.521484375,
+          601.8984375
+        ],
+        [
+          364.060546875,
+          601.8984375
+        ],
+        [
+          364.060546875,
+          616.69921875
+        ],
+        [
+          232.521484375,
+          616.69921875
+        ]
+      ]
+    },
+    {
+      "title": "T\u00e4clastopp 2.0",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.748046875,
+          637.6669921875
+        ],
+        [
+          120.771484375,
+          637.6669921875
+        ],
+        [
+          120.771484375,
+          650.581298828125
+        ],
+        [
+          56.748046875,
+          650.581298828125
+        ]
+      ]
+    },
+    {
+      "title": "T\u00e4clastopp",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.330078125,
+          120.873046875
+        ],
+        [
+          167.625,
+          120.873046875
+        ],
+        [
+          167.625,
+          151.7080078125
+        ],
+        [
+          57.330078125,
+          151.7080078125
+        ]
+      ]
+    },
+    {
+      "title": "Varf\u00f6r v\u00e4lja d\u00f6rrstopp fr\u00e5n T\u00e4cla AB?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.75927734375,
+          303.8271484375
+        ],
+        [
+          217.60488891601562,
+          303.8271484375
+        ],
+        [
+          217.60488891601562,
+          319.878173828125
+        ],
+        [
+          37.75927734375,
+          319.878173828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50461572_PRO"
+}

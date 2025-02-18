@@ -1,0 +1,1143 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Monteringsanvisning panikregel ASSA 1125",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.84375,
+          71.4857177734375
+        ],
+        [
+          415.92999267578125,
+          71.4857177734375
+        ],
+        [
+          415.92999267578125,
+          91.9395751953125
+        ],
+        [
+          69.84375,
+          91.9395751953125
+        ]
+      ]
+    },
+    {
+      "title": "Varning!",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          274.25,
+          499.5263671875
+        ],
+        [
+          321.572265625,
+          499.5263671875
+        ],
+        [
+          321.572265625,
+          512.6826171875
+        ],
+        [
+          274.25,
+          512.6826171875
+        ]
+      ]
+    },
+    {
+      "title": "Klassificering enligt SS-EN 1125:2008",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.80810546875,
+          595.3203125
+        ],
+        [
+          268.607421875,
+          595.3203125
+        ],
+        [
+          268.607421875,
+          608.7314605712891
+        ],
+        [
+          71.80810546875,
+          608.7314605712891
+        ]
+      ]
+    },
+    {
+      "title": "Drift- och underh\u00e5llsinstruktion f\u00f6r panikregel ASSA 1125",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.6982421875,
+          71.3829345703125
+        ],
+        [
+          528.3939819335938,
+          71.3829345703125
+        ],
+        [
+          528.3939819335938,
+          92.0423583984375
+        ],
+        [
+          69.6982421875,
+          92.0423583984375
+        ]
+      ]
+    },
+    {
+      "title": "Panikutrymningsbeslag",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.098388671875,
+          119.742431640625
+        ],
+        [
+          195.14402770996094,
+          119.742431640625
+        ],
+        [
+          195.14402770996094,
+          133.515380859375
+        ],
+        [
+          70.098388671875,
+          133.515380859375
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5llsintervall: Minst en g\u00e5ng i m\u00e5naden",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.20751953125,
+          133.20703125
+        ],
+        [
+          310.25,
+          133.20703125
+        ],
+        [
+          310.25,
+          146.44146728515625
+        ],
+        [
+          70.20751953125,
+          146.44146728515625
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e5shus",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.06201171875,
+          257.57470703125
+        ],
+        [
+          110.5400390625,
+          257.57470703125
+        ],
+        [
+          110.5400390625,
+          271.14208984375
+        ],
+        [
+          70.06201171875,
+          271.14208984375
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5llsintervall: Minst tv\u00e5 g\u00e5nger per \u00e5r",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.35302734375,
+          270.73095703125
+        ],
+        [
+          302.947265625,
+          270.73095703125
+        ],
+        [
+          302.947265625,
+          284.44146728515625
+        ],
+        [
+          70.35302734375,
+          284.44146728515625
+        ]
+      ]
+    },
+    {
+      "title": "Slutbleck",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.78955078125,
+          340.62353515625
+        ],
+        [
+          121.82003784179688,
+          340.62353515625
+        ],
+        [
+          121.82003784179688,
+          353.77978515625
+        ],
+        [
+          70.78955078125,
+          353.77978515625
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5llsintervall: Minst tv\u00e5 g\u00e5nger per \u00e5r",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.2802734375,
+          354.60205078125
+        ],
+        [
+          302.81005859375,
+          354.60205078125
+        ],
+        [
+          302.81005859375,
+          367.75830078125
+        ],
+        [
+          70.2802734375,
+          367.75830078125
+        ]
+      ]
+    },
+    {
+      "title": "L\u00e5scylinder",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.78955078125,
+          437.4453125
+        ],
+        [
+          134.5400390625,
+          437.4453125
+        ],
+        [
+          134.5400390625,
+          450.6015625
+        ],
+        [
+          70.78955078125,
+          450.6015625
+        ]
+      ]
+    },
+    {
+      "title": "Underh\u00e5llsintervall: Minst tv\u00e5 g\u00e5nger per \u00e5r",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.35302734375,
+          451.423828125
+        ],
+        [
+          302.8100280761719,
+          451.423828125
+        ],
+        [
+          302.8100280761719,
+          464.580078125
+        ],
+        [
+          70.35302734375,
+          464.580078125
+        ]
+      ]
+    },
+    {
+      "title": "Mounting instruction panic exit device ASSA 1125",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.9892578125,
+          69.1217041015625
+        ],
+        [
+          551.18359375,
+          69.1217041015625
+        ],
+        [
+          551.18359375,
+          91.7340087890625
+        ],
+        [
+          69.9892578125,
+          91.7340087890625
+        ]
+      ]
+    },
+    {
+      "title": "Important!!",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          262.6416015625,
+          374.74755859375
+        ],
+        [
+          325.9375,
+          374.74755859375
+        ],
+        [
+          325.9375,
+          387.90380859375
+        ],
+        [
+          262.6416015625,
+          387.90380859375
+        ]
+      ]
+    },
+    {
+      "title": "Warning!",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          272.57000732421875,
+          512.6826171875
+        ],
+        [
+          323.609375,
+          512.6826171875
+        ],
+        [
+          323.609375,
+          525.9314880371094
+        ],
+        [
+          272.57000732421875,
+          525.9314880371094
+        ]
+      ]
+    },
+    {
+      "title": "Classification according to EN 1125:2008",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.58984375,
+          595.3203125
+        ],
+        [
+          285.1953125,
+          595.3203125
+        ],
+        [
+          285.1953125,
+          608.7314605712891
+        ],
+        [
+          71.58984375,
+          608.7314605712891
+        ]
+      ]
+    },
+    {
+      "title": "Maintenance and operating instruction for panic exit \ndevice ASSA 1125",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.134765625,
+          71.2801513671875
+        ],
+        [
+          483.958984375,
+          71.2801513671875
+        ],
+        [
+          483.958984375,
+          111.85223388671875
+        ],
+        [
+          70.134765625,
+          111.85223388671875
+        ]
+      ]
+    },
+    {
+      "title": "Panic exit device",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.462158203125,
+          139.887939453125
+        ],
+        [
+          159.1400146484375,
+          139.887939453125
+        ],
+        [
+          159.1400146484375,
+          153.660888671875
+        ],
+        [
+          70.462158203125,
+          153.660888671875
+        ]
+      ]
+    },
+    {
+      "title": "Regular intervals of at least: One month",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.20751953125,
+          154.072021484375
+        ],
+        [
+          282.8900146484375,
+          154.072021484375
+        ],
+        [
+          282.8900146484375,
+          167.639404296875
+        ],
+        [
+          70.20751953125,
+          167.639404296875
+        ]
+      ]
+    },
+    {
+      "title": "Lock case",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.42578125,
+          278.3369140625
+        ],
+        [
+          124.0999984741211,
+          278.3369140625
+        ],
+        [
+          124.0999984741211,
+          291.4931640625
+        ],
+        [
+          70.42578125,
+          291.4931640625
+        ]
+      ]
+    },
+    {
+      "title": "Regular intervals of at least: Six months",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.5712890625,
+          291.904296875
+        ],
+        [
+          282.16998291015625,
+          291.904296875
+        ],
+        [
+          282.16998291015625,
+          305.4716796875
+        ],
+        [
+          70.5712890625,
+          305.4716796875
+        ]
+      ]
+    },
+    {
+      "title": "Strike plate",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.134765625,
+          347.4072265625
+        ],
+        [
+          133.45999145507812,
+          347.4072265625
+        ],
+        [
+          133.45999145507812,
+          360.974609375
+        ],
+        [
+          70.134765625,
+          360.974609375
+        ]
+      ]
+    },
+    {
+      "title": "Regular intervals of at least: Six months",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.35302734375,
+          361.3857421875
+        ],
+        [
+          282.16998291015625,
+          361.3857421875
+        ],
+        [
+          282.16998291015625,
+          374.953125
+        ],
+        [
+          70.35302734375,
+          374.953125
+        ]
+      ]
+    },
+    {
+      "title": "Lock cylinder",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.134765625,
+          458.001953125
+        ],
+        [
+          144.86001586914062,
+          458.001953125
+        ],
+        [
+          144.86001586914062,
+          471.158203125
+        ],
+        [
+          70.134765625,
+          471.158203125
+        ]
+      ]
+    },
+    {
+      "title": "Regular intervals of at least: Six months",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          70.64404296875,
+          471.98046875
+        ],
+        [
+          282.1700134277344,
+          471.98046875
+        ],
+        [
+          282.1700134277344,
+          485.13671875
+        ],
+        [
+          70.64404296875,
+          485.13671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50140312_man"
+}

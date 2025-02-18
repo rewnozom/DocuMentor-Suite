@@ -1,0 +1,200 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Uppgraderingskort",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.825927734375,
+          102.269287109375
+        ],
+        [
+          182.8660125732422,
+          102.269287109375
+        ],
+        [
+          182.8660125732422,
+          119.0667724609375
+        ],
+        [
+          70.825927734375,
+          119.0667724609375
+        ]
+      ]
+    },
+    {
+      "title": "M\u00f6jliga kombinationer.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.952880859375,
+          285.326171875
+        ],
+        [
+          153.36599731445312,
+          285.326171875
+        ],
+        [
+          153.36599731445312,
+          296.015625
+        ],
+        [
+          69.952880859375,
+          296.015625
+        ]
+      ]
+    },
+    {
+      "title": "Uppgraderingskort Full-Energy \u2013 bl\u00e5tt / transparent bl\u00e5tt",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.35302734375,
+          397.154296875
+        ],
+        [
+          278.2109375,
+          397.154296875
+        ],
+        [
+          278.2109375,
+          407.515380859375
+        ],
+        [
+          70.35302734375,
+          407.515380859375
+        ]
+      ]
+    },
+    {
+      "title": "Installation av uppgraderingskort",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.134765625,
+          455.9462890625
+        ],
+        [
+          189.7421875,
+          455.9462890625
+        ],
+        [
+          189.7421875,
+          465.8833923339844
+        ],
+        [
+          70.134765625,
+          465.8833923339844
+        ]
+      ]
+    },
+    {
+      "title": "Installation av uppgraderingskortet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.4630126953125,
+          120.975830078125
+        ],
+        [
+          448.15301513671875,
+          120.975830078125
+        ],
+        [
+          448.15301513671875,
+          132.26739501953125
+        ],
+        [
+          318.4630126953125,
+          132.26739501953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50091625_ins"
+}

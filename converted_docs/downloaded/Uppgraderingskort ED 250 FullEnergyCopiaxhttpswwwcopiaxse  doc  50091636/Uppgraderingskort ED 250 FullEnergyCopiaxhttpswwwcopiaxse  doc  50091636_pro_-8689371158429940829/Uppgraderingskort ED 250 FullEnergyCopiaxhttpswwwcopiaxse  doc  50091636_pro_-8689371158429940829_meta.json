@@ -1,0 +1,107 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.12158203125,
+          22.933502197265625
+        ],
+        [
+          178.1015625,
+          22.933502197265625
+        ],
+        [
+          178.1015625,
+          47.5372314453125
+        ],
+        [
+          34.12158203125,
+          47.5372314453125
+        ]
+      ]
+    },
+    {
+      "title": "Uppgraderingskort ED 250 FullEnergy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.8134765625,
+          60.0767822265625
+        ],
+        [
+          490.65234375,
+          60.0767822265625
+        ],
+        [
+          490.65234375,
+          91.6312255859375
+        ],
+        [
+          36.8134765625,
+          91.6312255859375
+        ]
+      ]
+    },
+    {
+      "title": "dormakaba Sverige AB | F O Petersons gata 28, 421 31 V\u00e4stra Fr\u00f6lunda | Sverige | T: +46 31 355 20 00 | info.se@dormakaba.com | www.dormakaba.se\nMed f\u00f6rbeh\u00e5ll f\u00f6r eventuella \u00e4ndringar\nUppgraderingskort ED 250 FullEnergy_PDS_datasheet_sv_0000820_01",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.2685546875,
+          813.6318359375
+        ],
+        [
+          545.0823974609375,
+          813.6318359375
+        ],
+        [
+          545.0823974609375,
+          833.3662109375
+        ],
+        [
+          38.2685546875,
+          833.3662109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Uppgraderingskort ED 250 FullEnergyCopiaxhttpswwwcopiaxse  doc  50091636_pro_-8689371158429940829"
+}

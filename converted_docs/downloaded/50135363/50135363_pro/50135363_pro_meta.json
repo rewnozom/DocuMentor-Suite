@@ -1,0 +1,208 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Smart Cable\nMonitor energy consumption and control electrical devices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.78515625,
+          240.923828125
+        ],
+        [
+          448.6800231933594,
+          240.923828125
+        ],
+        [
+          448.6800231933594,
+          281.70013427734375
+        ],
+        [
+          58.78515625,
+          281.70013427734375
+        ]
+      ]
+    },
+    {
+      "title": "Flexible and smart",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.5275993347168,
+          458.4130859375
+        ],
+        [
+          182.22360229492188,
+          458.4130859375
+        ],
+        [
+          182.22360229492188,
+          474.0361328125
+        ],
+        [
+          59.5275993347168,
+          474.0361328125
+        ]
+      ]
+    },
+    {
+      "title": "Power measurement\nSecure communication\nFlexible plug type usage",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          145.98419189453125,
+          576.408203125
+        ],
+        [
+          310.8046875,
+          576.408203125
+        ],
+        [
+          310.8046875,
+          625.744140625
+        ],
+        [
+          145.98419189453125,
+          625.744140625
+        ]
+      ]
+    },
+    {
+      "title": "Smart Cable - Technical Specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.5275993347168,
+          242.568359375
+        ],
+        [
+          343.107421875,
+          242.568359375
+        ],
+        [
+          343.107421875,
+          263.125
+        ],
+        [
+          59.5275993347168,
+          263.125
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.3671875,
+          275.66455078125
+        ],
+        [
+          104.38349914550781,
+          275.66455078125
+        ],
+        [
+          104.38349914550781,
+          289.656005859375
+        ],
+        [
+          59.3671875,
+          289.656005859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50135363_pro"
+}

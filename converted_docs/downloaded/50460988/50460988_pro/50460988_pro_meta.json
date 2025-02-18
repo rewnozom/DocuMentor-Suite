@@ -1,0 +1,409 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.35302734375,
+          54.2181396484375
+        ],
+        [
+          170.53515625,
+          54.2181396484375
+        ],
+        [
+          170.53515625,
+          76.3165283203125
+        ],
+        [
+          70.35302734375,
+          76.3165283203125
+        ]
+      ]
+    },
+    {
+      "title": "ADD5100, ADD5110, ADD5160, \nADD5190",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          183.60000610351562,
+          378.6533203125
+        ],
+        [
+          426.9779968261719,
+          378.6533203125
+        ],
+        [
+          426.9779968261719,
+          425.5224609375
+        ],
+        [
+          183.60000610351562,
+          425.5224609375
+        ]
+      ]
+    },
+    {
+      "title": "Dual Reader Interface (DRI)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          182.7578125,
+          434.8648376464844
+        ],
+        [
+          396.04803466796875,
+          434.8648376464844
+        ],
+        [
+          396.04803466796875,
+          466.224609375
+        ],
+        [
+          182.7578125,
+          466.224609375
+        ]
+      ]
+    },
+    {
+      "title": "Description",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.9248046875,
+          461.7021484375
+        ],
+        [
+          95.744140625,
+          461.7021484375
+        ],
+        [
+          95.744140625,
+          472.8633117675781
+        ],
+        [
+          42.9248046875,
+          472.8633117675781
+        ]
+      ]
+    },
+    {
+      "title": "ADD5110 \u2013 DRI including base plate and plastic housing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          182.7578125,
+          118.920166015625
+        ],
+        [
+          441.1796875,
+          118.920166015625
+        ],
+        [
+          441.1796875,
+          130.80096435546875
+        ],
+        [
+          182.7578125,
+          130.80096435546875
+        ]
+      ]
+    },
+    {
+      "title": "ADD5190 \u2013 DRI in a cabinet",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          183.048828125,
+          474.447265625
+        ],
+        [
+          309.931640625,
+          474.447265625
+        ],
+        [
+          309.931640625,
+          486.0003967285156
+        ],
+        [
+          183.048828125,
+          486.0003967285156
+        ]
+      ]
+    },
+    {
+      "title": "Details for ordering",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          43.65109634399414,
+          608.0654296875
+        ],
+        [
+          134.44921875,
+          608.0654296875
+        ],
+        [
+          134.44921875,
+          619.5353088378906
+        ],
+        [
+          43.65109634399414,
+          619.5353088378906
+        ]
+      ]
+    },
+    {
+      "title": "www.vanderbiltindustries.com\nDocument no. A24205-A335-B115 Rev 1.3\nEdition 11.2021",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.2529296875,
+          785.5231857299805
+        ],
+        [
+          207.4434356689453,
+          785.5231857299805
+        ],
+        [
+          207.4434356689453,
+          818.3341884613037
+        ],
+        [
+          45.2529296875,
+          818.3341884613037
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          22
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50460988_pro"
+}

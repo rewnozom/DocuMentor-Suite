@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DS-2CC52D9T-AVPIT3ZE\n2 MP Ultra-Low Light PoC Dome Camera",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          10.9130859375,
+          120.153564453125
+        ],
+        [
+          281.412109375,
+          120.153564453125
+        ],
+        [
+          281.412109375,
+          158.04998779296875
+        ],
+        [
+          10.9130859375,
+          158.04998779296875
+        ]
+      ]
+    },
+    {
+      "title": "Key Features",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.880001068115234,
+          342.26806640625
+        ],
+        [
+          129.2109375,
+          342.26806640625
+        ],
+        [
+          129.2109375,
+          358.3600158691406
+        ],
+        [
+          53.880001068115234,
+          358.3600158691406
+        ]
+      ]
+    },
+    {
+      "title": "Specification",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          260.57000732421875,
+          109.56689453125
+        ],
+        [
+          334.91180419921875,
+          109.56689453125
+        ],
+        [
+          334.91180419921875,
+          124.33001708984375
+        ],
+        [
+          260.57000732421875,
+          124.33001708984375
+        ]
+      ]
+    },
+    {
+      "title": "Order Model",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.9462890625,
+          78.115234375
+        ],
+        [
+          128.7744140625,
+          78.115234375
+        ],
+        [
+          128.7744140625,
+          93.1300048828125
+        ],
+        [
+          51.9462890625,
+          93.1300048828125
+        ]
+      ]
+    },
+    {
+      "title": "Dimensions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.32861328125,
+          125.88995361328125
+        ],
+        [
+          122.00830078125,
+          125.88995361328125
+        ],
+        [
+          122.00830078125,
+          139.92999267578125
+        ],
+        [
+          53.32861328125,
+          139.92999267578125
+        ]
+      ]
+    },
+    {
+      "title": "Accessories",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.4013671875,
+          343.91259765625
+        ],
+        [
+          121.353515625,
+          343.91259765625
+        ],
+        [
+          121.353515625,
+          358.3600158691406
+        ],
+        [
+          53.4013671875,
+          358.3600158691406
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.21435546875,
+          646.7119140625
+        ],
+        [
+          87.08642578125,
+          646.7119140625
+        ],
+        [
+          87.08642578125,
+          656.5791015625
+        ],
+        [
+          39.21435546875,
+          656.5791015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50132222_pro"
+}

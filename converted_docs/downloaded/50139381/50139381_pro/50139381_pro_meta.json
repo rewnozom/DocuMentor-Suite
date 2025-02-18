@@ -1,0 +1,277 @@
+{
+  "table_of_contents": [
+    {
+      "title": "2010-2-PIB\nIO-kort 8 ing\u00e5ngar/8 utg\u00e5ngar, \u00f6vervakade + 4 rel\u00e4utg\u00e5ngar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.1201171875,
+          140.1962890625
+        ],
+        [
+          371.91796875,
+          140.1962890625
+        ],
+        [
+          371.91796875,
+          181.5413818359375
+        ],
+        [
+          30.1201171875,
+          181.5413818359375
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6versikt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.6654052734375,
+          199.502197265625
+        ],
+        [
+          75.59130859375,
+          199.502197265625
+        ],
+        [
+          75.59130859375,
+          213.7890625
+        ],
+        [
+          29.6654052734375,
+          213.7890625
+        ]
+      ]
+    },
+    {
+      "title": "Funktion",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.5198974609375,
+          249.96875
+        ],
+        [
+          77.48291015625,
+          249.96875
+        ],
+        [
+          77.48291015625,
+          263.66656494140625
+        ],
+        [
+          29.5198974609375,
+          263.66656494140625
+        ]
+      ]
+    },
+    {
+      "title": "Montering och anslutning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.75634765625,
+          384.4091796875
+        ],
+        [
+          164.9250030517578,
+          384.4091796875
+        ],
+        [
+          164.9250030517578,
+          397.5654296875
+        ],
+        [
+          29.75634765625,
+          397.5654296875
+        ]
+      ]
+    },
+    {
+      "title": "Details",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          313.9369812011719,
+          481.84765625
+        ],
+        [
+          350.0059814453125,
+          481.84765625
+        ],
+        [
+          350.0059814453125,
+          495.74761962890625
+        ],
+        [
+          313.9369812011719,
+          495.74761962890625
+        ]
+      ]
+    },
+    {
+      "title": "2010-2-PIB\nIO-kort 8 ing\u00e5ngar/8 utg\u00e5ngar, \u00f6vervakade + 4 rel\u00e4utg\u00e5ngar",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.974609375,
+          30.9891357421875
+        ],
+        [
+          367.5879211425781,
+          30.9891357421875
+        ],
+        [
+          367.5879211425781,
+          69.27587890625
+        ],
+        [
+          29.974609375,
+          69.27587890625
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.501708984375,
+          85.1558837890625
+        ],
+        [
+          159.4765625,
+          85.1558837890625
+        ],
+        [
+          159.4765625,
+          99.2371826171875
+        ],
+        [
+          29.501708984375,
+          99.2371826171875
+        ]
+      ]
+    },
+    {
+      "title": "Weight\n164 g\nDimensions (W \u00d7 H)\n105 \u00d7 192 mm\nCompatibility",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          281.703125,
+          176.54827880859375
+        ],
+        [
+          519.171875,
+          175.34814453125
+        ],
+        [
+          519.171875,
+          251.40771484375
+        ],
+        [
+          281.703125,
+          253.05224609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "TableCell",
+          92
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50139381_pro"
+}

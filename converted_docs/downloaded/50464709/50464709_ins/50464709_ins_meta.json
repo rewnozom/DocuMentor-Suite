@@ -1,0 +1,266 @@
+{
+  "table_of_contents": [
+    {
+      "title": "XS4 Locker",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          227.628173828125,
+          42.21820068359375
+        ],
+        [
+          356.767578125,
+          42.21820068359375
+        ],
+        [
+          356.767578125,
+          69.77294921875
+        ],
+        [
+          227.628173828125,
+          69.77294921875
+        ]
+      ]
+    },
+    {
+      "title": "XS4 Locker",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          226.611328125,
+          41.935546875
+        ],
+        [
+          356.2714538574219,
+          41.935546875
+        ],
+        [
+          356.2714538574219,
+          69.77294921875
+        ],
+        [
+          226.611328125,
+          69.77294921875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.8497314453125,
+          91.47705078125
+        ],
+        [
+          194.6533203125,
+          91.47705078125
+        ],
+        [
+          194.6533203125,
+          182.33740234375
+        ],
+        [
+          72.8497314453125,
+          182.33740234375
+        ]
+      ]
+    },
+    {
+      "title": "XS4 Locker",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          225.885009765625,
+          42.038330078125
+        ],
+        [
+          356.767578125,
+          42.038330078125
+        ],
+        [
+          356.767578125,
+          69.892578125
+        ],
+        [
+          225.885009765625,
+          69.892578125
+        ]
+      ]
+    },
+    {
+      "title": "XS4 Locker",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          224.57763671875,
+          42.3980712890625
+        ],
+        [
+          356.767578125,
+          42.3980712890625
+        ],
+        [
+          356.767578125,
+          69.77294921875
+        ],
+        [
+          224.57763671875,
+          69.77294921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          475
+        ],
+        [
+          "Line",
+          218
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50464709_ins"
+}

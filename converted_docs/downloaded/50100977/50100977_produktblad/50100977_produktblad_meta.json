@@ -1,0 +1,153 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Allm\u00e4nt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.91650390625,
+          298.482421875
+        ],
+        [
+          115.82400512695312,
+          298.482421875
+        ],
+        [
+          115.82400512695312,
+          312.9114990234375
+        ],
+        [
+          69.91650390625,
+          312.9114990234375
+        ]
+      ]
+    },
+    {
+      "title": "Kompatibla Fj\u00e4rrkontroller",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.6982421875,
+          394.48193359375
+        ],
+        [
+          218.0880126953125,
+          394.48193359375
+        ],
+        [
+          218.0880126953125,
+          408.46044921875
+        ],
+        [
+          69.6982421875,
+          408.46044921875
+        ]
+      ]
+    },
+    {
+      "title": "Lysr\u00f6r",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.370849609375,
+          616.69921875
+        ],
+        [
+          109.10400390625,
+          616.69921875
+        ],
+        [
+          109.10400390625,
+          630.677734375
+        ],
+        [
+          69.370849609375,
+          630.677734375
+        ]
+      ]
+    },
+    {
+      "title": "Led lampor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.91650390625,
+          664.390625
+        ],
+        [
+          134.1840057373047,
+          664.390625
+        ],
+        [
+          134.1840057373047,
+          678.369140625
+        ],
+        [
+          69.91650390625,
+          678.369140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50100977_produktblad"
+}

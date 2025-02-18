@@ -1,0 +1,1692 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SENSE+",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          26.482421875,
+          694.4033203125
+        ],
+        [
+          137.068359375,
+          694.4033203125
+        ],
+        [
+          137.068359375,
+          732.2275390625
+        ],
+        [
+          26.482421875,
+          732.2275390625
+        ]
+      ]
+    },
+    {
+      "title": "Table of content",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.91650390625,
+          109.258544921875
+        ],
+        [
+          225.9956512451172,
+          109.258544921875
+        ],
+        [
+          225.9956512451172,
+          131.048583984375
+        ],
+        [
+          69.91650390625,
+          131.048583984375
+        ]
+      ]
+    },
+    {
+      "title": "LOCKS IN HEALTHCARE SECTOR (PRIVATE MODE)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.80856423173803,
+          87.9310302734375
+        ],
+        [
+          454.857421875,
+          87.9310302734375
+        ],
+        [
+          454.857421875,
+          110.491943359375
+        ],
+        [
+          69.80856423173803,
+          110.491943359375
+        ]
+      ]
+    },
+    {
+      "title": "MANY USERS TO ONE OR SEVERAL LOCKERS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.47998046875,
+          120.71415850400712
+        ],
+        [
+          298.0,
+          120.71415850400712
+        ],
+        [
+          298.0,
+          135.159912109375
+        ],
+        [
+          69.47998046875,
+          135.159912109375
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLE OF OTHER APPLICATIONS.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.9892578125,
+          358.9189453125
+        ],
+        [
+          255.21410579345087,
+          358.9189453125
+        ],
+        [
+          255.21410579345087,
+          372.486328125
+        ],
+        [
+          69.9892578125,
+          372.486328125
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLE 1 - SETUP OF MEDICINE CABINETS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.80856423173803,
+          87.72395369545859
+        ],
+        [
+          489.48828125,
+          87.72395369545859
+        ],
+        [
+          489.48828125,
+          110.5947265625
+        ],
+        [
+          69.80856423173803,
+          110.5947265625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 1. Login.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.80856423173803,
+          219.75048828125
+        ],
+        [
+          132.5576171875,
+          219.75048828125
+        ],
+        [
+          132.5576171875,
+          232.49560546875
+        ],
+        [
+          69.80856423173803,
+          232.49560546875
+        ]
+      ]
+    },
+    {
+      "title": "STEP 2. Create a system.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.80856423173803,
+          455.1240234375
+        ],
+        [
+          176.646484375,
+          455.1240234375
+        ],
+        [
+          176.646484375,
+          467.4580078125
+        ],
+        [
+          69.80856423173803,
+          467.4580078125
+        ]
+      ]
+    },
+    {
+      "title": "STEP 3. Modify the Lock Settings.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.001708984375
+        ],
+        [
+          216.9521484375,
+          85.001708984375
+        ],
+        [
+          216.9521484375,
+          97.23291015625
+        ],
+        [
+          69.80856423173803,
+          97.23291015625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 4. Name the cards.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.80856423173803,
+          301.15478515625
+        ],
+        [
+          178.8291015625,
+          301.15478515625
+        ],
+        [
+          178.8291015625,
+          312.66650390625
+        ],
+        [
+          69.80856423173803,
+          312.66650390625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 5. Connect a lock.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.001708984375
+        ],
+        [
+          173.5908203125,
+          85.001708984375
+        ],
+        [
+          173.5908203125,
+          97.541259765625
+        ],
+        [
+          69.80856423173803,
+          97.541259765625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 6. Read the UID-numbers of the cards.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.80856423173803,
+          346.99609375
+        ],
+        [
+          265.115234375,
+          346.99609375
+        ],
+        [
+          265.115234375,
+          359.7412109375
+        ],
+        [
+          69.80856423173803,
+          359.7412109375
+        ]
+      ]
+    },
+    {
+      "title": "STEP 7. Assign cards to the lock setting.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.207275390625
+        ],
+        [
+          246.490234375,
+          85.207275390625
+        ],
+        [
+          246.490234375,
+          97.64404296875
+        ],
+        [
+          69.80856423173803,
+          97.64404296875
+        ]
+      ]
+    },
+    {
+      "title": "STEP 8. Program Lock.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.80856423173803,
+          355.6298828125
+        ],
+        [
+          170.244140625,
+          355.6298828125
+        ],
+        [
+          170.244140625,
+          367.552734375
+        ],
+        [
+          69.80856423173803,
+          367.552734375
+        ]
+      ]
+    },
+    {
+      "title": "LOCKS IN A SCHOOL / OFFICE (PRIVATE MODE)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.05793450881612,
+          86.97417631344612
+        ],
+        [
+          432.44921875,
+          86.97417631344612
+        ],
+        [
+          432.44921875,
+          110.5947265625
+        ],
+        [
+          69.05793450881612,
+          110.5947265625
+        ]
+      ]
+    },
+    {
+      "title": "ONE USER TO ONE LOCKER",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.3073047858942,
+          119.96438112199465
+        ],
+        [
+          211.859375,
+          119.96438112199465
+        ],
+        [
+          211.859375,
+          134.954345703125
+        ],
+        [
+          68.3073047858942,
+          134.954345703125
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLE OF OTHER APPLICATIONS.",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          69.05793450881612,
+          174.6981300089047
+        ],
+        [
+          256.71536523929467,
+          173.19857524487978
+        ],
+        [
+          256.71536523929467,
+          189.12109375
+        ],
+        [
+          69.05793450881612,
+          189.12109375
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLE 2 \u2013 SETUP OF 10 STUDENT LOCKERS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.80856423173803,
+          86.97417631344612
+        ],
+        [
+          506.3671875,
+          86.97417631344612
+        ],
+        [
+          506.3671875,
+          111.005859375
+        ],
+        [
+          69.80856423173803,
+          111.005859375
+        ]
+      ]
+    },
+    {
+      "title": "STEP 1. Login.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.80856423173803,
+          219.75048828125
+        ],
+        [
+          132.703125,
+          219.75048828125
+        ],
+        [
+          132.703125,
+          232.08447265625
+        ],
+        [
+          69.80856423173803,
+          232.08447265625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 2. Create a system.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.80856423173803,
+          455.1240234375
+        ],
+        [
+          176.9375,
+          455.1240234375
+        ],
+        [
+          176.9375,
+          467.4580078125
+        ],
+        [
+          69.80856423173803,
+          467.4580078125
+        ]
+      ]
+    },
+    {
+      "title": "STEP 3. Modify the Lock Settings.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.1044921875
+        ],
+        [
+          216.9521484375,
+          85.1044921875
+        ],
+        [
+          216.9521484375,
+          97.4384765625
+        ],
+        [
+          69.80856423173803,
+          97.4384765625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 4. Name the cards.",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          69.80856423173803,
+          322.12255859375
+        ],
+        [
+          177.228515625,
+          322.12255859375
+        ],
+        [
+          177.228515625,
+          334.04541015625
+        ],
+        [
+          69.80856423173803,
+          334.04541015625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 5. Connect a lock.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.001708984375
+        ],
+        [
+          173.736328125,
+          85.001708984375
+        ],
+        [
+          173.736328125,
+          97.23291015625
+        ],
+        [
+          69.80856423173803,
+          97.23291015625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 6. Read the UID-numbers of the cards.",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          69.80856423173803,
+          347.61279296875
+        ],
+        [
+          264.9697265625,
+          347.61279296875
+        ],
+        [
+          264.9697265625,
+          359.53564453125
+        ],
+        [
+          69.80856423173803,
+          359.53564453125
+        ]
+      ]
+    },
+    {
+      "title": "STEP 7. Assign cards to the lock settings.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.1044921875
+        ],
+        [
+          250.564453125,
+          85.1044921875
+        ],
+        [
+          250.564453125,
+          97.4384765625
+        ],
+        [
+          69.80856423173803,
+          97.4384765625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 8. Program Lock.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          69.80856423173803,
+          414.0107421875
+        ],
+        [
+          169.953125,
+          414.0107421875
+        ],
+        [
+          169.953125,
+          426.3447265625
+        ],
+        [
+          69.80856423173803,
+          426.3447265625
+        ]
+      ]
+    },
+    {
+      "title": "LOCKS IN A GYM/SWIMMING/OFFICE AREA (PUBLIC MODE)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          69.80856423173803,
+          87.6226806640625
+        ],
+        [
+          527.3203125,
+          87.6226806640625
+        ],
+        [
+          527.3203125,
+          110.286376953125
+        ],
+        [
+          69.80856423173803,
+          110.286376953125
+        ]
+      ]
+    },
+    {
+      "title": "ANY USER TO ANY LOCKER",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          69.80856423173803,
+          121.2841796875
+        ],
+        [
+          211.4228515625,
+          121.2841796875
+        ],
+        [
+          211.4228515625,
+          135.2626953125
+        ],
+        [
+          69.80856423173803,
+          135.2626953125
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLE 3 - SETUP OF LOCKERS FOR A\nSWIMMINGA AREA",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.05793450881612,
+          87.262939453125
+        ],
+        [
+          445.25390625,
+          87.262939453125
+        ],
+        [
+          445.25390625,
+          132.693115234375
+        ],
+        [
+          69.05793450881612,
+          132.693115234375
+        ]
+      ]
+    },
+    {
+      "title": "STEP 1. Login.",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.80856423173803,
+          223.2451171875
+        ],
+        [
+          134.66748046875,
+          223.2451171875
+        ],
+        [
+          134.66748046875,
+          236.8125
+        ],
+        [
+          69.80856423173803,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "STEP 2. Create a system",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          69.80856423173803,
+          498.29296875
+        ],
+        [
+          177.9560546875,
+          498.29296875
+        ],
+        [
+          177.9560546875,
+          511.44921875
+        ],
+        [
+          69.80856423173803,
+          511.44921875
+        ]
+      ]
+    },
+    {
+      "title": "STEP 3. Modify the Lock Settings.",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.001708984375
+        ],
+        [
+          217.09765625,
+          85.001708984375
+        ],
+        [
+          217.09765625,
+          97.541259765625
+        ],
+        [
+          69.80856423173803,
+          97.541259765625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 4. Name the cards.",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.80856423173803,
+          399.62109375
+        ],
+        [
+          178.1015625,
+          399.62109375
+        ],
+        [
+          178.1015625,
+          411.955078125
+        ],
+        [
+          69.80856423173803,
+          411.955078125
+        ]
+      ]
+    },
+    {
+      "title": "STEP 5. Connect a lock.",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          69.80856423173803,
+          84.796142578125
+        ],
+        [
+          173.8818359375,
+          84.796142578125
+        ],
+        [
+          173.8818359375,
+          97.02734375
+        ],
+        [
+          69.80856423173803,
+          97.02734375
+        ]
+      ]
+    },
+    {
+      "title": "STEP 6. Read the UID-numbers of the cards.",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          72.06045340050377,
+          387.6982421875
+        ],
+        [
+          266.861328125,
+          387.6982421875
+        ],
+        [
+          266.861328125,
+          400.0322265625
+        ],
+        [
+          72.06045340050377,
+          400.0322265625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 7. Assign cards to the lock settings.",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          69.80856423173803,
+          85.31005859375
+        ],
+        [
+          250.2734375,
+          85.31005859375
+        ],
+        [
+          250.2734375,
+          97.541259765625
+        ],
+        [
+          69.80856423173803,
+          97.541259765625
+        ]
+      ]
+    },
+    {
+      "title": "STEP 8. Program Lock.",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          69.80856423173803,
+          404.5546875
+        ],
+        [
+          171.2626953125,
+          404.5546875
+        ],
+        [
+          171.2626953125,
+          416.06640625
+        ],
+        [
+          69.80856423173803,
+          416.06640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          21
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "TableCell",
+          17
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          336
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          127
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          97
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          258
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          150
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\SENSEcopiaxsehttpscopiaxse  images  doc  50463566_INS_-9097293729978620866"
+}

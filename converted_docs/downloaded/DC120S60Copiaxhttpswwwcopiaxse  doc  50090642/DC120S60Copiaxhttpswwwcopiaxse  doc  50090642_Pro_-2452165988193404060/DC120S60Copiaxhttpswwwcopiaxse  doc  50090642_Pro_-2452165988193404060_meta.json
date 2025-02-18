@@ -1,0 +1,200 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DC120S60",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.86474609375,
+          142.971435546875
+        ],
+        [
+          131.46630859375,
+          142.971435546875
+        ],
+        [
+          131.46630859375,
+          167.433837890625
+        ],
+        [
+          27.86474609375,
+          167.433837890625
+        ]
+      ]
+    },
+    {
+      "title": "Allm\u00e4nt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.901123046875,
+          216.87255859375
+        ],
+        [
+          62.168212890625,
+          216.87255859375
+        ],
+        [
+          62.168212890625,
+          228.38427734375
+        ],
+        [
+          27.901123046875,
+          228.38427734375
+        ]
+      ]
+    },
+    {
+      "title": "Standardprestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.677734375,
+          389.75390625
+        ],
+        [
+          398.982421875,
+          389.75390625
+        ],
+        [
+          398.982421875,
+          401.01910400390625
+        ],
+        [
+          311.677734375,
+          401.01910400390625
+        ]
+      ]
+    },
+    {
+      "title": "DC120S60",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.7919921875,
+          30.115478515625
+        ],
+        [
+          131.3935546875,
+          30.115478515625
+        ],
+        [
+          131.3935546875,
+          54.0125732421875
+        ],
+        [
+          27.7919921875,
+          54.0125732421875
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.576499938964844,
+          82.0723876953125
+        ],
+        [
+          91.669921875,
+          82.0723876953125
+        ],
+        [
+          91.669921875,
+          94.2008056640625
+        ],
+        [
+          28.576499938964844,
+          94.2008056640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          45
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DC120S60Copiaxhttpswwwcopiaxse  doc  50090642_Pro_-2452165988193404060"
+}

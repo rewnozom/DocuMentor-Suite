@@ -1,0 +1,69 @@
+{
+  "table_of_contents": [
+    {
+      "title": "mounting guide - internal fitting drawing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          875.5488891601562,
+          27.31463623046875
+        ],
+        [
+          1118.818359375,
+          27.31463623046875
+        ],
+        [
+          1118.818359375,
+          45.30169677734375
+        ],
+        [
+          875.5488891601562,
+          45.30169677734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\OLDA 30 HZ - manual flush bolt - AzureWebSitesnet_-5803985164615121716"
+}

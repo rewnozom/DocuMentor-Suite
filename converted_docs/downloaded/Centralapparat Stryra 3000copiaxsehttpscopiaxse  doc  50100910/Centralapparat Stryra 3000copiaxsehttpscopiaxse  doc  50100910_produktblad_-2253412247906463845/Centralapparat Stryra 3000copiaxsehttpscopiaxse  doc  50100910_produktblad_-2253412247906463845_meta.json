@@ -1,0 +1,208 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Styra 3000",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          278.0654296875,
+          143.69091796875
+        ],
+        [
+          399.9064636230469,
+          143.69091796875
+        ],
+        [
+          399.9064636230469,
+          174.11474609375
+        ],
+        [
+          278.0654296875,
+          174.11474609375
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER OCH F\u00d6RDELAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          279.2294921875,
+          193.232421875
+        ],
+        [
+          381.7367858886719,
+          193.232421875
+        ],
+        [
+          381.7367858886719,
+          204.53857421875
+        ],
+        [
+          279.2294921875,
+          204.53857421875
+        ]
+      ]
+    },
+    {
+      "title": "TILLBEH\u00d6R (INTERNA)\nStyra Komkort 4000",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          439.724609375,
+          194.67138671875
+        ],
+        [
+          520.044921875,
+          194.67138671875
+        ],
+        [
+          520.044921875,
+          215.87908935546875
+        ],
+        [
+          439.724609375,
+          215.87908935546875
+        ]
+      ]
+    },
+    {
+      "title": "TILLBEH\u00d6R (EXTERNA)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          442.91339111328125,
+          483.0810546875
+        ],
+        [
+          520.8413696289062,
+          483.0810546875
+        ],
+        [
+          520.8413696289062,
+          492.1259765625
+        ],
+        [
+          442.91339111328125,
+          492.1259765625
+        ]
+      ]
+    },
+    {
+      "title": "www.aptus.se",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.4252014160156,
+          514.6534729003906
+        ],
+        [
+          523.24609375,
+          514.6534729003906
+        ],
+        [
+          523.24609375,
+          552.9736328125
+        ],
+        [
+          318.4252014160156,
+          552.9736328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "TableCell",
+          90
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Centralapparat Stryra 3000copiaxsehttpscopiaxse  doc  50100910_produktblad_-2253412247906463845"
+}

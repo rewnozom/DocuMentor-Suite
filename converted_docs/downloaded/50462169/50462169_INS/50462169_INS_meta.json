@@ -1,0 +1,1884 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FireProtect 2 (Heat/Smoke) Jeweller User\nmanual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.76025390625,
+          77.4471435546875
+        ],
+        [
+          524.98291015625,
+          77.4471435546875
+        ],
+        [
+          524.98291015625,
+          136.38671875
+        ],
+        [
+          71.76025390625,
+          136.38671875
+        ]
+      ]
+    },
+    {
+      "title": "Functional elements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.37680435180664,
+          89.935302734375
+        ],
+        [
+          223.7327117919922,
+          89.935302734375
+        ],
+        [
+          223.7327117919922,
+          112.85595703125
+        ],
+        [
+          57.37680435180664,
+          112.85595703125
+        ]
+      ]
+    },
+    {
+      "title": "Operating principle",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          57.23388671875,
+          280.8037109375
+        ],
+        [
+          213.25204467773438,
+          280.8037109375
+        ],
+        [
+          213.25204467773438,
+          304.6494140625
+        ],
+        [
+          57.23388671875,
+          304.6494140625
+        ]
+      ]
+    },
+    {
+      "title": "How to replace FireProtect 2 RB batteries (Heat/Smoke)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.122314453125,
+          786.4970703125
+        ],
+        [
+          436.953125,
+          786.4970703125
+        ],
+        [
+          436.953125,
+          806.2314453125
+        ],
+        [
+          59.122314453125,
+          806.2314453125
+        ]
+      ]
+    },
+    {
+      "title": "Operation without a hub",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.65283203125,
+          478.1474609375
+        ],
+        [
+          253.02932739257812,
+          478.1474609375
+        ],
+        [
+          253.02932739257812,
+          501.1708984375
+        ],
+        [
+          56.65283203125,
+          501.1708984375
+        ]
+      ]
+    },
+    {
+      "title": "Smoke sensor",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.97967529296875,
+          699.748046875
+        ],
+        [
+          174.40428161621094,
+          699.748046875
+        ],
+        [
+          174.40428161621094,
+          721.94921875
+        ],
+        [
+          56.97967529296875,
+          721.94921875
+        ]
+      ]
+    },
+    {
+      "title": "Temperature sensor",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          56.7254638671875,
+          281.83154296875
+        ],
+        [
+          221.52993774414062,
+          281.83154296875
+        ],
+        [
+          221.52993774414062,
+          302.45684814453125
+        ],
+        [
+          56.7254638671875,
+          302.45684814453125
+        ]
+      ]
+    },
+    {
+      "title": "Test/Mute button",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          57.23388671875,
+          624.099609375
+        ],
+        [
+          200.742431640625,
+          624.099609375
+        ],
+        [
+          200.742431640625,
+          646.30078125
+        ],
+        [
+          57.23388671875,
+          646.30078125
+        ]
+      ]
+    },
+    {
+      "title": "Interconnected Fire Detectors Alarms",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          57.375701904296875,
+          79.0916748046875
+        ],
+        [
+          361.2164611816406,
+          79.0916748046875
+        ],
+        [
+          361.2164611816406,
+          101.1900634765625
+        ],
+        [
+          57.375701904296875,
+          101.1900634765625
+        ]
+      ]
+    },
+    {
+      "title": "How to set Interconnected Fire Detectors Alarms",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          57.379150390625,
+          408.666015625
+        ],
+        [
+          395.1171875,
+          408.666015625
+        ],
+        [
+          395.1171875,
+          427.578125
+        ],
+        [
+          57.379150390625,
+          427.578125
+        ]
+      ]
+    },
+    {
+      "title": "Sending events to the monitoring station",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.943359375,
+          466.6357421875
+        ],
+        [
+          386.8466491699219,
+          466.6357421875
+        ],
+        [
+          386.8466491699219,
+          488.8369140625
+        ],
+        [
+          56.943359375,
+          488.8369140625
+        ]
+      ]
+    },
+    {
+      "title": "Which CMSs Ajax connects to",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.122314453125,
+          612.9990234375
+        ],
+        [
+          280.9591064453125,
+          612.9990234375
+        ],
+        [
+          280.9591064453125,
+          632.7333984375
+        ],
+        [
+          59.122314453125,
+          632.7333984375
+        ]
+      ]
+    },
+    {
+      "title": "Adding to the system",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          56.507568359375,
+          36.488037109375
+        ],
+        [
+          233.34713745117188,
+          36.488037109375
+        ],
+        [
+          233.34713745117188,
+          57.866943359375
+        ],
+        [
+          56.507568359375,
+          57.866943359375
+        ]
+      ]
+    },
+    {
+      "title": "Before adding a device",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          57.375701904296875,
+          95.0230712890625
+        ],
+        [
+          244.32188415527344,
+          95.0230712890625
+        ],
+        [
+          244.32188415527344,
+          116.55615234375
+        ],
+        [
+          57.375701904296875,
+          116.55615234375
+        ]
+      ]
+    },
+    {
+      "title": "How to connect FireProtect 2 to a hub",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          57.375701904296875,
+          609.7099609375
+        ],
+        [
+          364.3511047363281,
+          609.7099609375
+        ],
+        [
+          364.3511047363281,
+          631.9111328125
+        ],
+        [
+          57.375701904296875,
+          631.9111328125
+        ]
+      ]
+    },
+    {
+      "title": "Indication",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          57.088623046875,
+          670.5576171875
+        ],
+        [
+          140.5336151123047,
+          670.5576171875
+        ],
+        [
+          140.5336151123047,
+          691.9365234375
+        ],
+        [
+          57.088623046875,
+          691.9365234375
+        ]
+      ]
+    },
+    {
+      "title": "Detector testing",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.39862060546875,
+          210.0888671875
+        ],
+        [
+          189.6702117919922,
+          210.0888671875
+        ],
+        [
+          189.6702117919922,
+          231.4677734375
+        ],
+        [
+          56.39862060546875,
+          231.4677734375
+        ]
+      ]
+    },
+    {
+      "title": "Functionality testing",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          56.5802001953125,
+          268.880859375
+        ],
+        [
+          224.55345153808594,
+          268.880859375
+        ],
+        [
+          224.55345153808594,
+          291.08203125
+        ],
+        [
+          56.5802001953125,
+          291.08203125
+        ]
+      ]
+    },
+    {
+      "title": "To run the test in the Ajax app:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          57.0159912109375,
+          535.294921875
+        ],
+        [
+          243.17138671875,
+          535.294921875
+        ],
+        [
+          243.17138671875,
+          552.5625
+        ],
+        [
+          57.0159912109375,
+          552.5625
+        ]
+      ]
+    },
+    {
+      "title": "Testing at the place of installation",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          57.088623046875,
+          360.974609375
+        ],
+        [
+          333.83251953125,
+          360.974609375
+        ],
+        [
+          333.83251953125,
+          383.998046875
+        ],
+        [
+          57.088623046875,
+          383.998046875
+        ]
+      ]
+    },
+    {
+      "title": "To run the test in the Ajax app:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          57.0159912109375,
+          506.9267578125
+        ],
+        [
+          244.04296875,
+          506.9267578125
+        ],
+        [
+          244.04296875,
+          525.0166015625
+        ],
+        [
+          57.0159912109375,
+          525.0166015625
+        ]
+      ]
+    },
+    {
+      "title": "Icons",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          56.68914794921875,
+          65.5242919921875
+        ],
+        [
+          104.51545715332031,
+          65.5242919921875
+        ],
+        [
+          104.51545715332031,
+          85.1558837890625
+        ],
+        [
+          56.68914794921875,
+          85.1558837890625
+        ]
+      ]
+    },
+    {
+      "title": "States",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          56.47125244140625,
+          387.90380859375
+        ],
+        [
+          111.96858215332031,
+          387.90380859375
+        ],
+        [
+          111.96858215332031,
+          410.10498046875
+        ],
+        [
+          56.47125244140625,
+          410.10498046875
+        ]
+      ]
+    },
+    {
+      "title": "Settings",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          56.10809326171875,
+          730.5830078125
+        ],
+        [
+          127.02259826660156,
+          730.5830078125
+        ],
+        [
+          127.02259826660156,
+          751.9619140625
+        ],
+        [
+          56.10809326171875,
+          751.9619140625
+        ]
+      ]
+    },
+    {
+      "title": "Selection of installation place",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          56.943359375,
+          798.419921875
+        ],
+        [
+          298.552978515625,
+          798.419921875
+        ],
+        [
+          298.552978515625,
+          819.798828125
+        ],
+        [
+          56.943359375,
+          819.798828125
+        ]
+      ]
+    },
+    {
+      "title": "Signal strength",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          56.798095703125,
+          290.87646484375
+        ],
+        [
+          182.4178466796875,
+          290.87646484375
+        ],
+        [
+          182.4178466796875,
+          313.89990234375
+        ],
+        [
+          56.798095703125,
+          313.89990234375
+        ]
+      ]
+    },
+    {
+      "title": "Do not install the detector:",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          57.088623046875,
+          761.8291015625
+        ],
+        [
+          272.659912109375,
+          761.8291015625
+        ],
+        [
+          272.659912109375,
+          784.0302734375
+        ],
+        [
+          57.088623046875,
+          784.0302734375
+        ]
+      ]
+    },
+    {
+      "title": "Installation",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          57.375701904296875,
+          702.21484375
+        ],
+        [
+          150.56362915039062,
+          702.21484375
+        ],
+        [
+          150.56362915039062,
+          726.060546875
+        ],
+        [
+          57.375701904296875,
+          726.060546875
+        ]
+      ]
+    },
+    {
+      "title": "To install the detector:",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          55.74493408203125,
+          1.605987548828125
+        ],
+        [
+          195.8154296875,
+          1.605987548828125
+        ],
+        [
+          195.8154296875,
+          17.55023193359375
+        ],
+        [
+          55.74493408203125,
+          17.55023193359375
+        ]
+      ]
+    },
+    {
+      "title": "Malfunctions",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          57.375701904296875,
+          756.0732421875
+        ],
+        [
+          166.47637939453125,
+          756.0732421875
+        ],
+        [
+          166.47637939453125,
+          777.4521484375
+        ],
+        [
+          57.375701904296875,
+          777.4521484375
+        ]
+      ]
+    },
+    {
+      "title": "FireProtect 2 (Heat/Smoke) malfunctions:",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          56.65283203125,
+          481.84765625
+        ],
+        [
+          312.89794921875,
+          481.84765625
+        ],
+        [
+          312.89794921875,
+          499.115234375
+        ],
+        [
+          56.65283203125,
+          499.115234375
+        ]
+      ]
+    },
+    {
+      "title": "Maintenance",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          57.375701904296875,
+          719.8935546875
+        ],
+        [
+          165.15565490722656,
+          719.8935546875
+        ],
+        [
+          165.15565490722656,
+          740.4501953125
+        ],
+        [
+          57.375701904296875,
+          740.4501953125
+        ]
+      ]
+    },
+    {
+      "title": "How to replace FireProtect 2 RB batteries (Heat/Smoke)",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          91.080322265625,
+          249.146484375
+        ],
+        [
+          436.7765808105469,
+          249.146484375
+        ],
+        [
+          436.7765808105469,
+          267.236328125
+        ],
+        [
+          91.080322265625,
+          267.236328125
+        ]
+      ]
+    },
+    {
+      "title": "Technical specifications",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          56.5802001953125,
+          535.294921875
+        ],
+        [
+          255.33245849609375,
+          535.294921875
+        ],
+        [
+          255.33245849609375,
+          555.8515625
+        ],
+        [
+          56.5802001953125,
+          555.8515625
+        ]
+      ]
+    },
+    {
+      "title": "Complete set",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          57.3065185546875,
+          684.125
+        ],
+        [
+          166.41812133789062,
+          684.125
+        ],
+        [
+          166.41812133789062,
+          704.681640625
+        ],
+        [
+          57.3065185546875,
+          704.681640625
+        ]
+      ]
+    },
+    {
+      "title": "For FireProtect 2 RB (Heat/Smoke)",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          57.23388671875,
+          724.416015625
+        ],
+        [
+          269.7821044921875,
+          724.416015625
+        ],
+        [
+          269.7821044921875,
+          741.68359375
+        ],
+        [
+          57.23388671875,
+          741.68359375
+        ]
+      ]
+    },
+    {
+      "title": "For FireProtect 2 SB (Heat/Smoke)",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          57.23388671875,
+          105.45556640625
+        ],
+        [
+          269.4521179199219,
+          105.45556640625
+        ],
+        [
+          269.4521179199219,
+          124.162109375
+        ],
+        [
+          57.23388671875,
+          124.162109375
+        ]
+      ]
+    },
+    {
+      "title": "Warranty",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          56.83441162109375,
+          298.68798828125
+        ],
+        [
+          132.41177368164062,
+          298.68798828125
+        ],
+        [
+          132.41177368164062,
+          322.94482421875
+        ],
+        [
+          56.83441162109375,
+          322.94482421875
+        ]
+      ]
+    },
+    {
+      "title": "Subscribe to the newsletter about safe life. No spam\nEmail Subscribe",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          51.278076171875,
+          209.677734375
+        ],
+        [
+          502.6123046875,
+          209.677734375
+        ],
+        [
+          502.6123046875,
+          350.28515625
+        ],
+        [
+          51.278076171875,
+          350.28515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          56
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          11
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          74
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50462169_INS"
+}

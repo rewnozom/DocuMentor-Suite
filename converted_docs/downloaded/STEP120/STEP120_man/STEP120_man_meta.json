@@ -1,0 +1,799 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VIKTIG INFORMATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.37884521484375,
+          32.3936767578125
+        ],
+        [
+          131.1513671875,
+          32.3936767578125
+        ],
+        [
+          131.1513671875,
+          43.4822998046875
+        ],
+        [
+          33.37884521484375,
+          43.4822998046875
+        ]
+      ]
+    },
+    {
+      "title": "N\u00e4r det m\u00e5ste fungera.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          708.3818359375,
+          67.697509765625
+        ],
+        [
+          808.6982421875,
+          67.697509765625
+        ],
+        [
+          808.6982421875,
+          78.6085205078125
+        ],
+        [
+          708.3818359375,
+          78.6085205078125
+        ]
+      ]
+    },
+    {
+      "title": "Installationsanvisning \nSTEP 120TM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          474.447265625,
+          447.58203125
+        ],
+        [
+          730.9701538085938,
+          447.58203125
+        ],
+        [
+          730.9701538085938,
+          505.7169723510742
+        ],
+        [
+          474.447265625,
+          505.7169723510742
+        ]
+      ]
+    },
+    {
+      "title": "INNEH\u00c5LL",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.07049560546875,
+          28.44677734375
+        ],
+        [
+          109.15576171875,
+          28.44677734375
+        ],
+        [
+          109.15576171875,
+          49.3271484375
+        ],
+        [
+          33.07049560546875,
+          49.3271484375
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK SPECIFIKATION STEP 120",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.01580047607422,
+          189.5966796875
+        ],
+        [
+          286.970703125,
+          189.5966796875
+        ],
+        [
+          286.970703125,
+          207.34201049804688
+        ],
+        [
+          34.01580047607422,
+          207.34201049804688
+        ]
+      ]
+    },
+    {
+      "title": "M\u00c5TTSKISS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.9698486328125,
+          220.880859375
+        ],
+        [
+          82.51669311523438,
+          220.880859375
+        ],
+        [
+          82.51669311523438,
+          233.103515625
+        ],
+        [
+          33.9698486328125,
+          233.103515625
+        ]
+      ]
+    },
+    {
+      "title": "AVL\u00c4GSNA TRYCKESPINNEN (g\u00e4ller f\u00f6r art.nr ST120 och ST120-12)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          450.1904296875,
+          32.339111328125
+        ],
+        [
+          743.7392578125,
+          32.339111328125
+        ],
+        [
+          743.7392578125,
+          43.4822998046875
+        ],
+        [
+          450.1904296875,
+          43.4822998046875
+        ]
+      ]
+    },
+    {
+      "title": "UNDERH\u00c5LLSANVISNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          454.712890625,
+          260.0224609375
+        ],
+        [
+          641.3671875,
+          260.0224609375
+        ],
+        [
+          641.3671875,
+          277.4994812011719
+        ],
+        [
+          454.712890625,
+          277.4994812011719
+        ]
+      ]
+    },
+    {
+      "title": "INSTALLATIONSANVISNING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.712890625,
+          31.4114990234375
+        ],
+        [
+          233.1123046875,
+          31.4114990234375
+        ],
+        [
+          233.1123046875,
+          49.31048583984375
+        ],
+        [
+          33.712890625,
+          49.31048583984375
+        ]
+      ]
+    },
+    {
+      "title": "ARTIKELNUMMER OCH TEKNISKA EGENSKAPER",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          454.960693359375,
+          31.4296875
+        ],
+        [
+          664.8017578125,
+          31.4296875
+        ],
+        [
+          664.8017578125,
+          43.14306640625
+        ],
+        [
+          454.960693359375,
+          43.14306640625
+        ]
+      ]
+    },
+    {
+      "title": "STR\u00d6MF\u00d6RBRUKNING OCH KOPPLINGSSCHEMA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          454.9606018066406,
+          350.3828125
+        ],
+        [
+          669.32421875,
+          350.3828125
+        ],
+        [
+          669.32421875,
+          362.0234375
+        ],
+        [
+          454.9606018066406,
+          362.0234375
+        ]
+      ]
+    },
+    {
+      "title": "Str\u00f6mf\u00f6rbrukning i r\u00e4ttv\u00e4nd och omv\u00e4nd funktion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          457.8202819824219,
+          375.119140625
+        ],
+        [
+          633.966796875,
+          375.119140625
+        ],
+        [
+          633.966796875,
+          383.849609375
+        ],
+        [
+          457.8202819824219,
+          383.849609375
+        ]
+      ]
+    },
+    {
+      "title": "TILLBEH\u00d6R",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.83709716796875,
+          27.71923828125
+        ],
+        [
+          115.836669921875,
+          27.71923828125
+        ],
+        [
+          115.836669921875,
+          49.6181640625
+        ],
+        [
+          31.83709716796875,
+          49.6181640625
+        ]
+      ]
+    },
+    {
+      "title": "TRYCKESPINNAR",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.1754150390625,
+          225.24609375
+        ],
+        [
+          107.87249755859375,
+          225.24609375
+        ],
+        [
+          107.87249755859375,
+          236.595703125
+        ],
+        [
+          34.1754150390625,
+          236.595703125
+        ]
+      ]
+    },
+    {
+      "title": "TILLBEH\u00d6R KOMPLETT SET",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.0447998046875,
+          456.603515625
+        ],
+        [
+          230.85107421875,
+          456.603515625
+        ],
+        [
+          230.85107421875,
+          476.392578125
+        ],
+        [
+          33.0447998046875,
+          476.392578125
+        ]
+      ]
+    },
+    {
+      "title": "URTAGSRITNING",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          454.712890625,
+          30.2110595703125
+        ],
+        [
+          575.2605590820312,
+          30.2110595703125
+        ],
+        [
+          575.2605590820312,
+          49.3271484375
+        ],
+        [
+          454.712890625,
+          49.3271484375
+        ]
+      ]
+    },
+    {
+      "title": "SYMMETRISK/OSYMMETRISK L\u00c5SHUSSTOLPE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.787841796875,
+          29.356201171875
+        ],
+        [
+          363.8525390625,
+          29.356201171875
+        ],
+        [
+          363.8525390625,
+          49.581787109375
+        ],
+        [
+          32.787841796875,
+          49.581787109375
+        ]
+      ]
+    },
+    {
+      "title": "BYTE AV L\u00c5SHUSSTOLPE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.74510192871094,
+          203.12890625
+        ],
+        [
+          142.251953125,
+          203.12890625
+        ],
+        [
+          142.251953125,
+          215.3515625
+        ],
+        [
+          33.74510192871094,
+          215.3515625
+        ]
+      ]
+    },
+    {
+      "title": "KABEL\u00d6VERF\u00d6RING",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          454.7272033691406,
+          28.88330078125
+        ],
+        [
+          602.720703125,
+          28.88330078125
+        ],
+        [
+          602.720703125,
+          49.31048583984375
+        ],
+        [
+          454.7272033691406,
+          49.31048583984375
+        ]
+      ]
+    },
+    {
+      "title": "\u00c4NDRA MEKANISKT STYRD SIDA (g\u00e4ller f\u00f6r ST120 och ST120-12) ST\u00c4LLBARA FUNKTIONER",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.2225341796875,
+          29.31982421875
+        ],
+        [
+          733.546630859375,
+          29.31982421875
+        ],
+        [
+          733.546630859375,
+          49.47265625
+        ],
+        [
+          32.2225341796875,
+          49.47265625
+        ]
+      ]
+    },
+    {
+      "title": "\u00c4NDRA FR\u00c5N H\u00d6GER- TILL V\u00c4NSTERH\u00c4NGD D\u00d6RR",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.68505859375,
+          251.5830078125
+        ],
+        [
+          257.7802734375,
+          251.5830078125
+        ],
+        [
+          257.7802734375,
+          265.8427734375
+        ],
+        [
+          32.68505859375,
+          265.8427734375
+        ]
+      ]
+    },
+    {
+      "title": "\u00c4NDRA FR\u00c5N R\u00c4TTV\u00c4ND TILL OMV\u00c4ND FUNKTION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          451.0126953125,
+          310.8046875
+        ],
+        [
+          681.2470703125,
+          310.8046875
+        ],
+        [
+          681.2470703125,
+          323.609375
+        ],
+        [
+          451.0126953125,
+          323.609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\STEP120_man"
+}

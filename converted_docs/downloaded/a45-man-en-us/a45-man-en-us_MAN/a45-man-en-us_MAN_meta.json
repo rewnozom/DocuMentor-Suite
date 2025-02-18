@@ -1,0 +1,525 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Manual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          104.54736328125,
+          129.095703125
+        ],
+        [
+          169.2255859375,
+          129.095703125
+        ],
+        [
+          169.2255859375,
+          147.89019775390625
+        ],
+        [
+          104.54736328125,
+          147.89019775390625
+        ]
+      ]
+    },
+    {
+      "title": "Reader VAKA A45",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.0,
+          206.2806396484375
+        ],
+        [
+          261.5939636230469,
+          206.2806396484375
+        ],
+        [
+          261.5939636230469,
+          230.2806396484375
+        ],
+        [
+          105.0,
+          230.2806396484375
+        ]
+      ]
+    },
+    {
+      "title": "A45 reader for VAKA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.80517578125,
+          69.313720703125
+        ],
+        [
+          274.392333984375,
+          69.313720703125
+        ],
+        [
+          274.392333984375,
+          93.313720703125
+        ],
+        [
+          63.80517578125,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Screw connectors",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          63.36865234375,
+          69.313720703125
+        ],
+        [
+          247.9453125,
+          69.313720703125
+        ],
+        [
+          247.9453125,
+          93.313720703125
+        ],
+        [
+          63.36865234375,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Termination and addressing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.5,
+          275.56365966796875
+        ],
+        [
+          344.46612548828125,
+          275.56365966796875
+        ],
+        [
+          344.46612548828125,
+          299.56365966796875
+        ],
+        [
+          64.5,
+          299.56365966796875
+        ]
+      ]
+    },
+    {
+      "title": "Cable",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.07763671875,
+          69.5328369140625
+        ],
+        [
+          124.72808837890625,
+          69.5328369140625
+        ],
+        [
+          124.72808837890625,
+          91.946533203125
+        ],
+        [
+          63.07763671875,
+          91.946533203125
+        ]
+      ]
+    },
+    {
+      "title": "Maximum cable length between B16/B26 and the reader is 10m. No termination res-\nistor should be used.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.732421875,
+          331.7841796875
+        ],
+        [
+          523.828125,
+          331.7841796875
+        ],
+        [
+          523.828125,
+          365.908203125
+        ],
+        [
+          63.732421875,
+          365.908203125
+        ]
+      ]
+    },
+    {
+      "title": "Reading",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          64.24169921875,
+          395.509765625
+        ],
+        [
+          148.72808837890625,
+          395.509765625
+        ],
+        [
+          148.72808837890625,
+          418.1220703125
+        ],
+        [
+          64.24169921875,
+          418.1220703125
+        ]
+      ]
+    },
+    {
+      "title": "Vandal proof cover C811",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.36865234375,
+          69.313720703125
+        ],
+        [
+          311.48431396484375,
+          69.313720703125
+        ],
+        [
+          311.48431396484375,
+          93.313720703125
+        ],
+        [
+          63.36865234375,
+          93.313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Mounting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.80517578125,
+          282.859375
+        ],
+        [
+          136.94515991210938,
+          282.859375
+        ],
+        [
+          136.94515991210938,
+          300.5380859375
+        ],
+        [
+          63.80517578125,
+          300.5380859375
+        ]
+      ]
+    },
+    {
+      "title": "Tecnical data C811",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.22314453125,
+          489.6591796875
+        ],
+        [
+          211.93948364257812,
+          489.6591796875
+        ],
+        [
+          211.93948364257812,
+          508.3491516113281
+        ],
+        [
+          63.22314453125,
+          508.3491516113281
+        ]
+      ]
+    },
+    {
+      "title": "Technical data",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.0234375,
+          617.5636596679688
+        ],
+        [
+          215.47801208496094,
+          617.5636596679688
+        ],
+        [
+          215.47801208496094,
+          641.5636596679688
+        ],
+        [
+          64.0234375,
+          641.5636596679688
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\a45-man-en-us_MAN"
+}

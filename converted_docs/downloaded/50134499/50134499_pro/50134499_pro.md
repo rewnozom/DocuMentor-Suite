@@ -1,0 +1,142 @@
+![](_page_0_Picture_0.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+# Brandgodkänt elslutbleck med fast urtag
+
+STEP 98 Preload ett brandgodkänt elslutbleck med ett fast urtag där ett dörrlås med hakregel eller rak regel kan låsa ut, och på så sätt spärra dörrens passersystem/kodlås eller dörrautomatik. Brandgodkänd upp till E/EI 120.
+
+### Extra tillåsning med regellås
+
+STEP 98 Preload har möjlighet att låta dörrlåsets hakregel eller raka regel gå in i elslutbleckets fasta urtag. Detta är önskvärt i utrymmen som ska låsas till med vred eller nyckel för att spärra dörren.
+
+### Driftsäkerhet och enkel installation med minimala mått
+
+Kombinationen av STEPs unika listtrycksteknik och små inbyggnadsmått ger elslutblecket en hög driftsäkerhet och enkel installation i så gott som alla dörrmiljöer.
+
+### Stort utval av montagestolpar och regelindikering som tillbehör
+
+STEP 98 Preload delar stolpsortiment med STEP 40/90/48 Preload och STEP 90 Release. Det finns även möjlighet att installera en regelidikering som kan användas för att automatisk blockera dörrens passersystem/kodlås eller dörrautomatik.
+
+![](_page_0_Picture_11.jpeg)
+
+![](_page_1_Figure_0.jpeg)
+
+Måttskiss STEP 98 Preload. F
+
+4 3 2 1
+
+![](_page_1_Picture_2.jpeg)
+
+Kopplingsschema utan och med kolvkontakt.
+
+![](_page_1_Picture_4.jpeg)
+
+This document shall not be copied without owners written allowance and its content shall not be expo
+
+sed for third part nor be used for unauthorized purpose.
+
+C
+
+C
+
+B
+
+sed for third part nor be used for unauthorized purpose.
+
+B
+
+A
+
+Owner
+
+This document shall not be copied without owners written allowance and its content shall not be expo
+
+Stendals El AB
+
+A
+
+Owner
+
+F
+
+E
+
+F
+
+D
+
+E
+
+D
+
+Här har en hakregel låsts ut i elslutbleckets fasta urtag och på så sätt spärrat dörrens passersystem/kodlås eller dörrautomatik.
+
+Surface finish
+
+B
+
+![](_page_1_Picture_6.jpeg)
+
+En separat regelindikering kan monteras på STEP 98 Preload.
+
+## Med STEPs unika listtrycksteknik
+
+STEP 98 Preload är utrustad med STEPs patenterade listtrycksteknik som ger många fördelar: F
+
+- Tätningslister och tryckskillnader listtrycksfunktionen gör att dörren alltid kan låsas upp, trots att dörrlåset spänner mot elslutblecket.
+- Dörrautomatik listtrycksfunktionen i kombination med en snabb upplåsning gör att dörren öppnas snabbt och utan risk för att fastna.
+- Utrymningsdörr listtrycksfunktionen säkerställer att brandlarmet kan frilägga låsningen, trots tryck mot dörren av folkmassa, tätningslister, tryckskillnader eller sneda dörrar.
+
+### Tekniska data D
+
+E
+
+![](_page_1_Picture_14.jpeg)
+
+### Brandgodkänd upp till brandteknisk klass E/EI 120
+
+### Strömförbrukning i rättvänd och omvänd funktion
+
+24 V DC + 15 % - 10 % 12 V DC + 15 % - 10 % 110 mAh / max 300 mA 220 mAh / max 600 mA C
+
+Strömförbrukning 0 mA för vridfall i vila (rättvänd = låst, omvänd = olåst)
+
+| Artikelnummer                              | Benämning                                          |
+|--------------------------------------------|----------------------------------------------------|
+| ST980                                      | Rättvänd funktion 24 V DC.                         |
+| ST980-12<br>B                              | Rättvänd funktion 12 V DC.                         |
+| ST9800                                     | Rättvänd funktion 24 V DC inklusive kolvkontakt.   |
+| ST9800-12                                  | Rättvänd funktion 12 V DC inklusive kolvkontakt.   |
+| ST9801                                     | Omvänd funktion 24 V DC inklusive kolvkontakt.     |
+| ST9801-12                                  | Omvänd funktion 12 V DC inklusive kolvkontakt.     |
+| ST9805                                     | Omställbar funktion 24 V DC inklusive kolvkontakt. |
+| A<br>ST9805-12                             | Omställbar funktion 12 V DC inklusive kolvkontakt. |
+| ST981<br>STEP 48 omställbar med indikering | Omvänd funktion 24 V DC.                           |
+| Revision<br>Sheet<br>ST981-12<br>0         | Omvänd funktion 12 V DC.                           |
+| ST985                                      | Omställbar funktion 24 V DC.                       |
+| ST985-12                                   | Omställbar funktion 12 V DC.                       |
+| ST4880                                     | Regelindikering för STEP 48/98 Preload.            |
+
+- Durability: Grade X enligt SS-EN 14846.
+- Corrosion: Grade M enligt SS-EN 14846.
+- Security: Grade 3 enligt SS-EN 14846.
+- Security electrical manipulation: Grade 1 enligt SS-EN 14846.
+- Brandgodkänd upp till brandteknisk klass E/EI 120.
+- Mikrobrytare enpoligt växlande, max. 30 V DC, 1A.
+- Skyddsdiod finns inbyggd.
+- Indikering för avkänning att dörren är stängd/öppen (gäller produkter med kolvkontakt).
+- Brythållfasthet 9 kN (≈ 900 kg).
+- Garanterar öppning trots listtryck upp till 0,4 kN (≈ 40 kg) i rättvänd och omvänd funktion.
+- Knacksäkrad.
+- Vändbar för att passa höger- och vänsterhängda dörrar.
+- Klarar utlåsning av hakregel eller rak regel.
+
+### Passande låshus
+
+- Fallhakregellås, enkel- och dubbelfallås i Kaba 1400-serien
+- Fallhakregellås, enkel- och dubbelfallås i Connect-serien
+- Fallregellås, enkel- och dubbelfallås i Modul-serien
+- 
+
+![](_page_1_Picture_38.jpeg)

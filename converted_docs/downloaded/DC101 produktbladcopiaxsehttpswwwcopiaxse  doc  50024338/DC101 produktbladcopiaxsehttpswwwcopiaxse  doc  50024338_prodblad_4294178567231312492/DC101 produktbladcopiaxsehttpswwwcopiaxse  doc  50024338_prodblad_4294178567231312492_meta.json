@@ -1,0 +1,112 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tekniska data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.183998107910156,
+          152.838623046875
+        ],
+        [
+          91.951904296875,
+          152.838623046875
+        ],
+        [
+          91.951904296875,
+          163.322509765625
+        ],
+        [
+          40.183998107910156,
+          163.322509765625
+        ]
+      ]
+    },
+    {
+      "title": "Order data",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.28857421875,
+          270.31982421875
+        ],
+        [
+          84.3255615234375,
+          270.31982421875
+        ],
+        [
+          84.3255615234375,
+          280.18701171875
+        ],
+        [
+          43.28857421875,
+          280.18701171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DC101 produktbladcopiaxsehttpswwwcopiaxse  doc  50024338_prodblad_4294178567231312492"
+}

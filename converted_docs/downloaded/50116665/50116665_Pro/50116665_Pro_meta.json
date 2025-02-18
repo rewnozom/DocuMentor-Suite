@@ -1,0 +1,234 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          456.021484375,
+          18.9635009765625
+        ],
+        [
+          567.771484375,
+          18.9635009765625
+        ],
+        [
+          567.771484375,
+          44.710693359375
+        ],
+        [
+          456.021484375,
+          44.710693359375
+        ]
+      ]
+    },
+    {
+      "title": "3-serien\nDC311N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.7010498046875,
+          68.967529296875
+        ],
+        [
+          77.77392578125,
+          68.967529296875
+        ],
+        [
+          77.77392578125,
+          98.2607421875
+        ],
+        [
+          27.7010498046875,
+          98.2607421875
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s portabel d\u00f6rrklocka med tryckknapp - Vit",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.392578125,
+          111.005859375
+        ],
+        [
+          305.28961181640625,
+          111.005859375
+        ],
+        [
+          305.28961181640625,
+          124.77880859375
+        ],
+        [
+          29.392578125,
+          124.77880859375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackningens inneh\u00e5ll:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.938232421875,
+          303.416015625
+        ],
+        [
+          174.5079803466797,
+          303.416015625
+        ],
+        [
+          174.5079803466797,
+          318.9268798828125
+        ],
+        [
+          29.938232421875,
+          318.9268798828125
+        ]
+      ]
+    },
+    {
+      "title": "Viktiga funktioner och f\u00f6rdelar:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.31982421875,
+          358.0966796875
+        ],
+        [
+          205.5779571533203,
+          358.0966796875
+        ],
+        [
+          205.5779571533203,
+          372.6768798828125
+        ],
+        [
+          29.31982421875,
+          372.6768798828125
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.75634765625,
+          33.50732421875
+        ],
+        [
+          107.31201171875,
+          33.50732421875
+        ],
+        [
+          107.31201171875,
+          49.3873291015625
+        ],
+        [
+          29.75634765625,
+          49.3873291015625
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s tryckknapp",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.3583984375,
+          351.5185546875
+        ],
+        [
+          128.919921875,
+          351.5185546875
+        ],
+        [
+          128.919921875,
+          365.4970703125
+        ],
+        [
+          35.3583984375,
+          365.4970703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116665_Pro"
+}

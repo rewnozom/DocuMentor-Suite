@@ -1,0 +1,308 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FATUM FATUM Motorl\u00e5slarm",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          127.58000183105469,
+          39.4127197265625
+        ],
+        [
+          567.189453125,
+          39.4127197265625
+        ],
+        [
+          567.189453125,
+          55.5899658203125
+        ],
+        [
+          127.58000183105469,
+          55.5899658203125
+        ]
+      ]
+    },
+    {
+      "title": "Datablad och monteringsinstruktion 3089",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          24.80908203125,
+          64.5216064453125
+        ],
+        [
+          567.018310546875,
+          64.5216064453125
+        ],
+        [
+          567.018310546875,
+          80.80999755859375
+        ],
+        [
+          24.80908203125,
+          80.80999755859375
+        ]
+      ]
+    },
+    {
+      "title": "DIP4 \u2013 DIP6: Tidsf\u00f6rdr\u00f6jning efter l\u00e5sning (LTMR)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.8499755859375,
+          205.193115234375
+        ],
+        [
+          528.2803955078125,
+          205.193115234375
+        ],
+        [
+          528.2803955078125,
+          221.4200439453125
+        ],
+        [
+          304.8499755859375,
+          221.4200439453125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA SPECIFIKATIONER",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.8499755859375,
+          328.267822265625
+        ],
+        [
+          432.7650451660156,
+          328.267822265625
+        ],
+        [
+          432.7650451660156,
+          341.69000244140625
+        ],
+        [
+          304.8499755859375,
+          341.69000244140625
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.758544921875,
+          312.626220703125
+        ],
+        [
+          100.8369140625,
+          312.626220703125
+        ],
+        [
+          100.8369140625,
+          324.6500244140625
+        ],
+        [
+          35.758544921875,
+          324.6500244140625
+        ]
+      ]
+    },
+    {
+      "title": "BESKRIVNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.904052734375,
+          463.4853515625
+        ],
+        [
+          99.9638671875,
+          463.4853515625
+        ],
+        [
+          99.9638671875,
+          475.3900146484375
+        ],
+        [
+          35.904052734375,
+          475.3900146484375
+        ]
+      ]
+    },
+    {
+      "title": "IN-/UTG\u00c5NGAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.01025390625,
+          19.732086181640625
+        ],
+        [
+          103.01953125,
+          19.732086181640625
+        ],
+        [
+          103.01953125,
+          33.8399658203125
+        ],
+        [
+          28.01025390625,
+          33.8399658203125
+        ]
+      ]
+    },
+    {
+      "title": "LAYOUT OCH KOPPLINGSSCHEMA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.35546875,
+          170.4111328125
+        ],
+        [
+          183.048828125,
+          170.4111328125
+        ],
+        [
+          183.048828125,
+          184.10003662109375
+        ],
+        [
+          27.35546875,
+          184.10003662109375
+        ]
+      ]
+    },
+    {
+      "title": "TILLST\u00c5NDSDIAGRAM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.610107421875,
+          463.4853515625
+        ],
+        [
+          128.919921875,
+          463.4853515625
+        ],
+        [
+          128.919921875,
+          476.6572265625
+        ],
+        [
+          27.610107421875,
+          476.6572265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          510
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "TableCell",
+          115
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          360
+        ],
+        [
+          "TableCell",
+          192
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\FATUM Motorl\u00e5slarmCopiaxhttpswwwcopiaxse  doc  50138857_ins_-259008447411532731"
+}

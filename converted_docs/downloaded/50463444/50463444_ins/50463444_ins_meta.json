@@ -1,0 +1,301 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Anv\u00e4ndarmanual - \u00d6ppnaknapp Touchless",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.7666015625,
+          139.4366455078125
+        ],
+        [
+          455.73046875,
+          139.4366455078125
+        ],
+        [
+          455.73046875,
+          166.19598388671875
+        ],
+        [
+          57.7666015625,
+          166.19598388671875
+        ]
+      ]
+    },
+    {
+      "title": "Terminalkoppling och dip-switch",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.3489990234375,
+          595.2041015625
+        ],
+        [
+          288.2509765625,
+          595.2041015625
+        ],
+        [
+          288.2509765625,
+          614.5799865722656
+        ],
+        [
+          57.3489990234375,
+          614.5799865722656
+        ]
+      ]
+    },
+    {
+      "title": "Kabeldragning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.3486328125,
+          37.663330078125
+        ],
+        [
+          161.513671875,
+          37.663330078125
+        ],
+        [
+          161.513671875,
+          57.89801025390625
+        ],
+        [
+          58.3486328125,
+          57.89801025390625
+        ]
+      ]
+    },
+    {
+      "title": "S\u00e5 fungerar den",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.530517578125,
+          416.97216796875
+        ],
+        [
+          171.69921875,
+          416.97216796875
+        ],
+        [
+          171.69921875,
+          434.8450012207031
+        ],
+        [
+          58.530517578125,
+          434.8450012207031
+        ]
+      ]
+    },
+    {
+      "title": "Inst\u00e4llningar f\u00f6r rel\u00e4/puls",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.18500900268555,
+          624.017578125
+        ],
+        [
+          238.4873046875,
+          624.017578125
+        ],
+        [
+          238.4873046875,
+          642.2350006103516
+        ],
+        [
+          58.18500900268555,
+          642.2350006103516
+        ]
+      ]
+    },
+    {
+      "title": "LED styrning",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.021240234375,
+          27.854248046875
+        ],
+        [
+          147.9814453125,
+          27.854248046875
+        ],
+        [
+          147.9814453125,
+          46.8177490234375
+        ],
+        [
+          58.021240234375,
+          46.8177490234375
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.71240234375,
+          536.5283203125
+        ],
+        [
+          151.5364990234375,
+          536.5283203125
+        ],
+        [
+          151.5364990234375,
+          554.2470092773438
+        ],
+        [
+          58.71240234375,
+          554.2470092773438
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "TableCell",
+          85
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50463444_ins"
+}

@@ -1,0 +1,200 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AS961",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.346500396728516,
+          143.4853515625
+        ],
+        [
+          88.9052734375,
+          143.4853515625
+        ],
+        [
+          88.9052734375,
+          167.94775390625
+        ],
+        [
+          28.346500396728516,
+          167.94775390625
+        ]
+      ]
+    },
+    {
+      "title": "Allm\u00e4nt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.8829345703125,
+          216.87255859375
+        ],
+        [
+          61.61650085449219,
+          216.87255859375
+        ],
+        [
+          61.61650085449219,
+          228.79541015625
+        ],
+        [
+          27.8829345703125,
+          228.79541015625
+        ]
+      ]
+    },
+    {
+      "title": "Standardprestanda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.677734375,
+          391.6489562988281
+        ],
+        [
+          396.654296875,
+          391.6489562988281
+        ],
+        [
+          396.654296875,
+          403.11572265625
+        ],
+        [
+          311.677734375,
+          403.11572265625
+        ]
+      ]
+    },
+    {
+      "title": "AS961",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          27.391845703125,
+          30.3724365234375
+        ],
+        [
+          112.4775390625,
+          30.3724365234375
+        ],
+        [
+          112.4775390625,
+          55.6571044921875
+        ],
+        [
+          27.391845703125,
+          55.6571044921875
+        ]
+      ]
+    },
+    {
+      "title": "Order data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.291015625,
+          83.2030029296875
+        ],
+        [
+          360.27734375,
+          83.2030029296875
+        ],
+        [
+          360.27734375,
+          94.3035888671875
+        ],
+        [
+          312.291015625,
+          94.3035888671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\AS961Copiaxhttpswwwcopiaxse  images  doc  50139370_pro_2030592851786436453"
+}

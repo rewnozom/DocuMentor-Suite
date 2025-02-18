@@ -1,0 +1,73 @@
+{
+  "table_of_contents": [
+    {
+      "title": "IO-5022 GEN2 2 IN/2 \n\nUTG\u00c5NG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.04736328125,
+          134.64599609375
+        ],
+        [
+          246.78125,
+          134.64599609375
+        ],
+        [
+          246.78125,
+          188.298828125
+        ],
+        [
+          30.04736328125,
+          188.298828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\IO-5022 GEN2 2 IN2 UTG\u00c5NGcopiaxsehttpscopiaxse  images  doc  50464712_pro_-7665830646690735653"
+}

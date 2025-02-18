@@ -1,0 +1,119 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Danalock V3 SCANDI Easy install page 1/2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          26.482421875,
+          15.764373779296875
+        ],
+        [
+          565.832763671875,
+          15.764373779296875
+        ],
+        [
+          565.832763671875,
+          44.299560546875
+        ],
+        [
+          26.482421875,
+          44.299560546875
+        ]
+      ]
+    },
+    {
+      "title": "Danalock V3 SCANDI Easy install",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          24.00240135192871,
+          20.081268310546875
+        ],
+        [
+          328.9664611816406,
+          20.081268310546875
+        ],
+        [
+          328.9664611816406,
+          49.4901123046875
+        ],
+        [
+          24.00240135192871,
+          49.4901123046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50138649_ins"
+}

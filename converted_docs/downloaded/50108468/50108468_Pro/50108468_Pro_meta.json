@@ -1,0 +1,338 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Montageinstruktion STEP 50\nmed inf\u00e4llningskassett ST527-5 f\u00f6r industriport \nmed 2 tums skena",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.9306640625,
+          92.71044921875
+        ],
+        [
+          530.1755981445312,
+          92.71044921875
+        ],
+        [
+          530.1755981445312,
+          156.08062744140625
+        ],
+        [
+          58.9306640625,
+          156.08062744140625
+        ]
+      ]
+    },
+    {
+      "title": "Montageinstruktion Portl\u00e5s typ \nSTEP 50",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.472412109375,
+          47.4344482421875
+        ],
+        [
+          510.5003967285156,
+          47.4344482421875
+        ],
+        [
+          510.5003967285156,
+          82.2445068359375
+        ],
+        [
+          300.472412109375,
+          82.2445068359375
+        ]
+      ]
+    },
+    {
+      "title": "Montering av cylinder",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          66.096923828125,
+          512.6826171875
+        ],
+        [
+          173.22659301757812,
+          512.6826171875
+        ],
+        [
+          173.22659301757812,
+          526.0088195800781
+        ],
+        [
+          66.096923828125,
+          526.0088195800781
+        ]
+      ]
+    },
+    {
+      "title": "Urtagsritning f\u00f6r kassett",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          326.55120849609375,
+          42.32098388671875
+        ],
+        [
+          491.81640625,
+          42.32098388671875
+        ],
+        [
+          491.81640625,
+          59.45489501953125
+        ],
+        [
+          326.55120849609375,
+          59.45489501953125
+        ]
+      ]
+    },
+    {
+      "title": "M\u00e5ttskiss STEP 50 med kassett ST527-5",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.54911838790932,
+          32.8392333984375
+        ],
+        [
+          328.84765625,
+          32.8392333984375
+        ],
+        [
+          328.84765625,
+          50.36376953125
+        ],
+        [
+          58.54911838790932,
+          50.36376953125
+        ]
+      ]
+    },
+    {
+      "title": "Elschema STEP 50",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          377.5667506297229,
+          31.5030517578125
+        ],
+        [
+          505.78515625,
+          31.5030517578125
+        ],
+        [
+          505.78515625,
+          48.6678466796875
+        ],
+        [
+          377.5667506297229,
+          48.6678466796875
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska specifikationer",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.050377833753146,
+          619.166015625
+        ],
+        [
+          190.033203125,
+          619.166015625
+        ],
+        [
+          190.033203125,
+          633.14453125
+        ],
+        [
+          60.050377833753146,
+          633.14453125
+        ]
+      ]
+    },
+    {
+      "title": "l f\u00f6rpackning",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.54911838790932,
+          685.3583984375
+        ],
+        [
+          132.11083123425692,
+          685.3583984375
+        ],
+        [
+          132.11083123425692,
+          698.5146484375
+        ],
+        [
+          58.54911838790932,
+          698.5146484375
+        ]
+      ]
+    },
+    {
+      "title": "Stendal El AB",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          223.5,
+          755.2509765625
+        ],
+        [
+          371.5617128463476,
+          755.2509765625
+        ],
+        [
+          371.5617128463476,
+          773.3408203125
+        ],
+        [
+          223.5,
+          773.3408203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50108468_Pro"
+}

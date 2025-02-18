@@ -1,0 +1,85 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SP 1000 INOMHUSSIREN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.71240234375,
+          83.973876953125
+        ],
+        [
+          250.2734375,
+          83.973876953125
+        ],
+        [
+          250.2734375,
+          102.71661376953125
+        ],
+        [
+          58.71240234375,
+          102.71661376953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50131167_pro"
+}

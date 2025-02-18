@@ -1,0 +1,344 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Specification",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.104000091552734,
+          100.1268310546875
+        ],
+        [
+          129.3564453125,
+          100.1268310546875
+        ],
+        [
+          129.3564453125,
+          114.49993896484375
+        ],
+        [
+          46.104000091552734,
+          114.49993896484375
+        ]
+      ]
+    },
+    {
+      "title": "Available Model",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          39.105224609375,
+          82.47857666015625
+        ],
+        [
+          143.0341796875,
+          82.47857666015625
+        ],
+        [
+          143.0341796875,
+          97.4599609375
+        ],
+        [
+          39.105224609375,
+          97.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "\u00b7 Accessory",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          39.032745591939545,
+          84.07479964381122
+        ],
+        [
+          106.0751953125,
+          84.07479964381122
+        ],
+        [
+          106.0751953125,
+          96.26788330078125
+        ],
+        [
+          39.032745591939545,
+          96.26788330078125
+        ]
+      ]
+    },
+    {
+      "title": "\u25aaOptional",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.53400503778337,
+          104.29449462890625
+        ],
+        [
+          91.57682619647355,
+          104.29449462890625
+        ],
+        [
+          91.57682619647355,
+          115.1510009765625
+        ],
+        [
+          40.53400503778337,
+          115.1510009765625
+        ]
+      ]
+    },
+    {
+      "title": "Headquarters",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.28463476070529,
+          593.5576171875
+        ],
+        [
+          83.31989924433249,
+          593.5576171875
+        ],
+        [
+          83.31989924433249,
+          602.0356188780054
+        ],
+        [
+          41.28463476070529,
+          602.0356188780054
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "TableCell",
+          85
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          84
+        ],
+        [
+          "Span",
+          84
+        ],
+        [
+          "Text",
+          32
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DS-2CD2146G2-ISUCopiaxhttpswwwcopiaxse  doc  50156087_pro_-5248641512264090387"
+}

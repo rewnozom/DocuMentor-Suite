@@ -1,0 +1,756 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UDR-Plus \nD\u00f6rrlarm",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.57000732421875,
+          84.693359375
+        ],
+        [
+          411.9880065917969,
+          84.693359375
+        ],
+        [
+          411.9880065917969,
+          169.2099609375
+        ],
+        [
+          215.57000732421875,
+          169.2099609375
+        ]
+      ]
+    },
+    {
+      "title": "Beskrivning av UDR Plus",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.679962158203125,
+          27.4945068359375
+        ],
+        [
+          211.45887756347656,
+          27.4945068359375
+        ],
+        [
+          211.45887756347656,
+          45.121826171875
+        ],
+        [
+          49.679962158203125,
+          45.121826171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.436279296875,
+          132.693115234375
+        ],
+        [
+          125.71875,
+          132.693115234375
+        ],
+        [
+          125.71875,
+          149.960693359375
+        ],
+        [
+          49.436279296875,
+          149.960693359375
+        ]
+      ]
+    },
+    {
+      "title": "Dip-switch: Inst\u00e4llning Larm trigger:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.679962158203125,
+          132.59033203125
+        ],
+        [
+          471.788818359375,
+          132.59033203125
+        ],
+        [
+          471.788818359375,
+          149.85791015625
+        ],
+        [
+          49.679962158203125,
+          149.85791015625
+        ]
+      ]
+    },
+    {
+      "title": "Ing\u00e5ngar / utg\u00e5ngar",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.599609375,
+          57.0960693359375
+        ],
+        [
+          181.81878662109375,
+          57.0960693359375
+        ],
+        [
+          181.81878662109375,
+          73.9525146484375
+        ],
+        [
+          48.599609375,
+          73.9525146484375
+        ]
+      ]
+    },
+    {
+      "title": "1 & 2. Larm trigger-ing\u00e5ng",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.3271484375,
+          89.3699951171875
+        ],
+        [
+          229.90234375,
+          89.3699951171875
+        ],
+        [
+          229.90234375,
+          105.25
+        ],
+        [
+          49.3271484375,
+          105.25
+        ]
+      ]
+    },
+    {
+      "title": "3 & 4. \u00c5terst\u00e4llning (Reset).",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.0361328125,
+          217.078125
+        ],
+        [
+          240.087890625,
+          217.078125
+        ],
+        [
+          240.087890625,
+          233.16998291015625
+        ],
+        [
+          49.0361328125,
+          233.16998291015625
+        ]
+      ]
+    },
+    {
+      "title": "5 & 6. F\u00f6rbikopplings-ing\u00e5ng (By-pass).",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.96337890625,
+          286.35400390625
+        ],
+        [
+          305.1630859375,
+          286.35400390625
+        ],
+        [
+          305.1630859375,
+          302.20001220703125
+        ],
+        [
+          48.96337890625,
+          302.20001220703125
+        ]
+      ]
+    },
+    {
+      "title": "7 & 8. Ing\u00e5ng signal",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265625,
+          395.509765625
+        ],
+        [
+          192.943359375,
+          395.509765625
+        ],
+        [
+          192.943359375,
+          410.7216796875
+        ],
+        [
+          49.47265625,
+          410.7216796875
+        ]
+      ]
+    },
+    {
+      "title": "9 & 10. Matningssp\u00e4nning.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265625,
+          483.9033203125
+        ],
+        [
+          229.06304931640625,
+          483.9033203125
+        ],
+        [
+          229.06304931640625,
+          499.13995361328125
+        ],
+        [
+          49.47265625,
+          499.13995361328125
+        ]
+      ]
+    },
+    {
+      "title": "11 \u2013 13. Rel\u00e4utg\u00e5ng Larmf\u00f6rbikoppling (potentialfri). \n F\u00f6ljer f\u00f6rbikopplings-ing\u00e5ng. Anv\u00e4nds t.ex. f\u00f6r l\u00e5s eller f\u00f6rbikoppling.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.67999267578125,
+          623.0099182128906
+        ],
+        [
+          509.81317138671875,
+          623.0099182128906
+        ],
+        [
+          509.81317138671875,
+          656.990234375
+        ],
+        [
+          49.67999267578125,
+          656.990234375
+        ]
+      ]
+    },
+    {
+      "title": "14 \u2013 16. Rel\u00e4utg\u00e5ng Larm (potentialfri). \n Aktiveras av triggering\u00e5ng.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.67999267578125,
+          691.9365234375
+        ],
+        [
+          294.9630126953125,
+          691.9365234375
+        ],
+        [
+          294.9630126953125,
+          725.8499221801758
+        ],
+        [
+          49.67999267578125,
+          725.8499221801758
+        ]
+      ]
+    },
+    {
+      "title": "Programmering",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.581787109375,
+          28.1112060546875
+        ],
+        [
+          155.9888153076172,
+          28.1112060546875
+        ],
+        [
+          155.9888153076172,
+          45.738525390625
+        ],
+        [
+          49.581787109375,
+          45.738525390625
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrlarm som utl\u00f6ses direkt eller med tidsf\u00f6rdr\u00f6jning av en magnetkontakt som sluts.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.47265625,
+          59.2545166015625
+        ],
+        [
+          553.51171875,
+          59.2545166015625
+        ],
+        [
+          553.51171875,
+          77.0360107421875
+        ],
+        [
+          49.47265625,
+          77.0360107421875
+        ]
+      ]
+    },
+    {
+      "title": "D\u00f6rrlarm som utl\u00f6ses direkt eller med tidsf\u00f6rdr\u00f6jning av en magnetkontakt som bryts.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.7451171875,
+          425.93359375
+        ],
+        [
+          555.77294921875,
+          425.93359375
+        ],
+        [
+          555.77294921875,
+          443.201171875
+        ],
+        [
+          48.7451171875,
+          443.201171875
+        ]
+      ]
+    },
+    {
+      "title": "Inkoppling med kodl\u00e5s och el-l\u00e5s",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.96337890625,
+          46.3038330078125
+        ],
+        [
+          242.38308715820312,
+          46.3038330078125
+        ],
+        [
+          242.38308715820312,
+          61.9268798828125
+        ],
+        [
+          48.96337890625,
+          61.9268798828125
+        ]
+      ]
+    },
+    {
+      "title": "Vaka B26/B27med UDR Plus",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.96337890625,
+          28.54803466796875
+        ],
+        [
+          217.18310546875,
+          28.54803466796875
+        ],
+        [
+          217.18310546875,
+          44.75
+        ],
+        [
+          48.96337890625,
+          44.75
+        ]
+      ]
+    },
+    {
+      "title": "UDR Plus kopplat till ett ASSA utrymningsl\u00e5s",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.679962158203125,
+          28.676513671875
+        ],
+        [
+          310.3231506347656,
+          28.676513671875
+        ],
+        [
+          310.3231506347656,
+          44.916259765625
+        ],
+        [
+          49.679962158203125,
+          44.916259765625
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data: \nSp\u00e4nningsmatning: 10-30V DC \nStr\u00f6mf\u00f6rbrukning: 5 mA i vila, max 100mA (vid 24 VDC) \nM\u00e5tt: 155x100x53mm \nSir\u00e9n: 0-92dB / Signal: 0-81dB (p\u00e5 1 meters avst\u00e5nd).",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          43.57958984375,
+          716.193359375
+        ],
+        [
+          367.4429931640625,
+          716.193359375
+        ],
+        [
+          367.4429931640625,
+          802.2859115600586
+        ],
+        [
+          43.57958984375,
+          802.2859115600586
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          16
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Form",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50130343_man"
+}

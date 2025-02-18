@@ -1,0 +1,242 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PROX-65",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          292.0151062011719,
+          51.46868896484375
+        ],
+        [
+          477.556640625,
+          51.46868896484375
+        ],
+        [
+          477.556640625,
+          101.035888671875
+        ],
+        [
+          292.0151062011719,
+          101.035888671875
+        ]
+      ]
+    },
+    {
+      "title": "Nya l\u00e4sare f\u00f6r anslutning i \nR-CARD 5000 systemet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.6259765625,
+          632.7333984375
+        ],
+        [
+          480.6982116699219,
+          632.7333984375
+        ],
+        [
+          480.6982116699219,
+          699.3369140625
+        ],
+        [
+          120.6259765625,
+          699.3369140625
+        ]
+      ]
+    },
+    {
+      "title": "F\u00d6RDELAR BER\u00d6RINGSFRI L\u00c4SNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.4755859375,
+          51.18603515625
+        ],
+        [
+          335.0813293457031,
+          51.18603515625
+        ],
+        [
+          335.0813293457031,
+          74.00390625
+        ],
+        [
+          57.4755859375,
+          74.00390625
+        ]
+      ]
+    },
+    {
+      "title": "PROX-65KG",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.511962890625,
+          224.68408203125
+        ],
+        [
+          168.6435546875,
+          224.68408203125
+        ],
+        [
+          168.6435546875,
+          247.70751953125
+        ],
+        [
+          57.511962890625,
+          247.70751953125
+        ]
+      ]
+    },
+    {
+      "title": "PROX-65G",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.96875,
+          225.50634765625
+        ],
+        [
+          412.66015625,
+          225.50634765625
+        ],
+        [
+          412.66015625,
+          247.302490234375
+        ],
+        [
+          311.96875,
+          247.302490234375
+        ]
+      ]
+    },
+    {
+      "title": "PROX-65G/65KG Teknisk data KORT OCH TAGGAR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.96630859375,
+          564.07421875
+        ],
+        [
+          508.6717834472656,
+          564.07421875
+        ],
+        [
+          508.6717834472656,
+          583.80859375
+        ],
+        [
+          56.96630859375,
+          583.80859375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          355.0390625,
+          564.896484375
+        ],
+        [
+          511.0234375,
+          564.896484375
+        ],
+        [
+          511.0234375,
+          585.453125
+        ],
+        [
+          355.0390625,
+          585.453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50085941_prodblad"
+}

@@ -1,0 +1,653 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Installationsmanual",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          213.896484375,
+          125.498291015625
+        ],
+        [
+          384.2790832519531,
+          125.498291015625
+        ],
+        [
+          384.2790832519531,
+          148.6300048828125
+        ],
+        [
+          213.896484375,
+          148.6300048828125
+        ]
+      ]
+    },
+    {
+      "title": "LC-100PI \nHusdjursimmun Passiv IR-Detektor",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          150.1640625,
+          175.96484375
+        ],
+        [
+          446.43914794921875,
+          175.96484375
+        ],
+        [
+          446.43914794921875,
+          228.6700439453125
+        ],
+        [
+          150.1640625,
+          228.6700439453125
+        ]
+      ]
+    },
+    {
+      "title": "Produktinformation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.389404296875,
+          101.447021484375
+        ],
+        [
+          187.99609375,
+          101.447021484375
+        ],
+        [
+          187.99609375,
+          117.6099853515625
+        ],
+        [
+          70.389404296875,
+          117.6099853515625
+        ]
+      ]
+    },
+    {
+      "title": "Installationstips",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.134765625,
+          193.232421875
+        ],
+        [
+          166.63304138183594,
+          193.232421875
+        ],
+        [
+          166.63304138183594,
+          209.0499267578125
+        ],
+        [
+          70.134765625,
+          209.0499267578125
+        ]
+      ]
+    },
+    {
+      "title": "Montering av detektorn",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.025634765625,
+          101.858154296875
+        ],
+        [
+          213.703125,
+          101.858154296875
+        ],
+        [
+          213.703125,
+          117.72998046875
+        ],
+        [
+          70.025634765625,
+          117.72998046875
+        ]
+      ]
+    },
+    {
+      "title": "Detektorns kopplingsplint",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.6982421875,
+          100.419189453125
+        ],
+        [
+          224.86312866210938,
+          100.419189453125
+        ],
+        [
+          224.86312866210938,
+          117.72998046875
+        ],
+        [
+          69.6982421875,
+          117.72998046875
+        ]
+      ]
+    },
+    {
+      "title": "Inkopplingar i kopplingsplint (se Figur 3)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.6982421875,
+          130.94580078125
+        ],
+        [
+          239.0693359375,
+          130.94580078125
+        ],
+        [
+          239.0693359375,
+          143.4853515625
+        ],
+        [
+          69.6982421875,
+          143.4853515625
+        ]
+      ]
+    },
+    {
+      "title": "EOL",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.42578125,
+          272.169921875
+        ],
+        [
+          87.595703125,
+          272.169921875
+        ],
+        [
+          87.595703125,
+          284.7098388671875
+        ],
+        [
+          70.42578125,
+          284.7098388671875
+        ]
+      ]
+    },
+    {
+      "title": "Detektorns inst\u00e4llningar",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.025634765625,
+          415.6552734375
+        ],
+        [
+          214.3031463623047,
+          415.6552734375
+        ],
+        [
+          214.3031463623047,
+          431.7998352050781
+        ],
+        [
+          70.025634765625,
+          431.7998352050781
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6versikt av LC100",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.952880859375,
+          472.3916015625
+        ],
+        [
+          177.19308471679688,
+          472.3916015625
+        ],
+        [
+          177.19308471679688,
+          488.9399719238281
+        ],
+        [
+          69.952880859375,
+          488.9399719238281
+        ]
+      ]
+    },
+    {
+      "title": "Figur 6: Detektorns kretskort",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          150.74609375,
+          743.7392578125
+        ],
+        [
+          260.75,
+          743.7392578125
+        ],
+        [
+          260.75,
+          754.4287109375
+        ],
+        [
+          150.74609375,
+          754.4287109375
+        ]
+      ]
+    },
+    {
+      "title": "Detektorns bevakningsomr\u00e5de",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.134765625,
+          130.431884765625
+        ],
+        [
+          252.6015625,
+          130.431884765625
+        ],
+        [
+          252.6015625,
+          147.3699951171875
+        ],
+        [
+          70.134765625,
+          147.3699951171875
+        ]
+      ]
+    },
+    {
+      "title": "G\u00c5NGTEST AV DETEKTORN",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5712890625,
+          527.89453125
+        ],
+        [
+          230.5030975341797,
+          527.89453125
+        ],
+        [
+          230.5030975341797,
+          545.2200012207031
+        ],
+        [
+          70.5712890625,
+          545.2200012207031
+        ]
+      ]
+    },
+    {
+      "title": "VIKTIGA R\u00c5D:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.42578125,
+          557.9072265625
+        ],
+        [
+          134.03506469726562,
+          557.9072265625
+        ],
+        [
+          134.03506469726562,
+          571.1100158691406
+        ],
+        [
+          70.42578125,
+          571.1100158691406
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK SPECIFIKATION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.84375,
+          102.16650390625
+        ],
+        [
+          210.404296875,
+          102.16650390625
+        ],
+        [
+          210.404296875,
+          117.72998046875
+        ],
+        [
+          69.84375,
+          117.72998046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          72
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50090683_ins"
+}

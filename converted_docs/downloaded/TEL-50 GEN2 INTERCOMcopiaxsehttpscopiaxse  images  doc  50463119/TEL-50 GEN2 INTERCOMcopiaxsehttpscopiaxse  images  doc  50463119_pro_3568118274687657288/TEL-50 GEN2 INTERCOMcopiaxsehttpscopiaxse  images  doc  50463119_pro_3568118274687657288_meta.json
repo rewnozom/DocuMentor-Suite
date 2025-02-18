@@ -1,0 +1,73 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TEL-50 GEN2 INTERCOM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.15576171875,
+          134.543212890625
+        ],
+        [
+          288.10546875,
+          134.543212890625
+        ],
+        [
+          288.10546875,
+          161.677978515625
+        ],
+        [
+          28.15576171875,
+          161.677978515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          58
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\TEL-50 GEN2 INTERCOMcopiaxsehttpscopiaxse  images  doc  50463119_pro_3568118274687657288"
+}

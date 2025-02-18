@@ -1,0 +1,123 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          444.962890625,
+          11.89715576171875
+        ],
+        [
+          581.158203125,
+          11.89715576171875
+        ],
+        [
+          581.158203125,
+          51.31451416015625
+        ],
+        [
+          444.962890625,
+          51.31451416015625
+        ]
+      ]
+    },
+    {
+      "title": "Elslutbleck serie 200.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.8779296875,
+          65.3701171875
+        ],
+        [
+          245.4716796875,
+          65.3701171875
+        ],
+        [
+          245.4716796875,
+          89.113037109375
+        ],
+        [
+          63.8779296875,
+          89.113037109375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.55126953125,
+          666.4462890625
+        ],
+        [
+          147.76318359375,
+          666.4462890625
+        ],
+        [
+          147.76318359375,
+          678.7802734375
+        ],
+        [
+          65.55126953125,
+          678.7802734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\10009272_manual"
+}

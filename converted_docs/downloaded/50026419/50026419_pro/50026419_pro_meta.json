@@ -1,0 +1,173 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Codelock",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.09326171875,
+          64.1881103515625
+        ],
+        [
+          137.7667694091797,
+          64.1881103515625
+        ],
+        [
+          137.7667694091797,
+          87.5198974609375
+        ],
+        [
+          56.09326171875,
+          87.5198974609375
+        ]
+      ]
+    },
+    {
+      "title": "Access Control",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.857177734375,
+          97.2349853515625
+        ],
+        [
+          131.2760009765625,
+          97.2349853515625
+        ],
+        [
+          131.2760009765625,
+          113.2349853515625
+        ],
+        [
+          56.857177734375,
+          113.2349853515625
+        ]
+      ]
+    },
+    {
+      "title": "Technical Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.7509765625,
+          75.1099853515625
+        ],
+        [
+          191.1719970703125,
+          75.1099853515625
+        ],
+        [
+          191.1719970703125,
+          99.1099853515625
+        ],
+        [
+          64.7509765625,
+          99.1099853515625
+        ]
+      ]
+    },
+    {
+      "title": "Details for ordering",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.6240234375,
+          390.8599853515625
+        ],
+        [
+          231.53993225097656,
+          390.8599853515625
+        ],
+        [
+          231.53993225097656,
+          414.8599853515625
+        ],
+        [
+          65.6240234375,
+          414.8599853515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50026419_pro"
+}

@@ -1,0 +1,220 @@
+{
+  "table_of_contents": [
+    {
+      "title": "E100 SCAND",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          229.1748046875,
+          16.843597412109375
+        ],
+        [
+          360.859375,
+          16.843597412109375
+        ],
+        [
+          360.859375,
+          39.9312744140625
+        ],
+        [
+          229.1748046875,
+          39.9312744140625
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          231.6484375,
+          90.44921875
+        ],
+        [
+          307.55548095703125,
+          90.44921875
+        ],
+        [
+          307.55548095703125,
+          101.0120849609375
+        ],
+        [
+          231.6484375,
+          101.0120849609375
+        ]
+      ]
+    },
+    {
+      "title": "Leveransomfattning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          232.4409942626953,
+          178.0205078125
+        ],
+        [
+          309.640625,
+          178.0205078125
+        ],
+        [
+          309.640625,
+          187.50909423828125
+        ],
+        [
+          232.4409942626953,
+          187.50909423828125
+        ]
+      ]
+    },
+    {
+      "title": "Tekniska data - Standard d\u00f6rrbladsl\u00e4sare med vred",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          232.4409942626953,
+          217.078125
+        ],
+        [
+          424.8828125,
+          217.078125
+        ],
+        [
+          424.8828125,
+          227.13006591796875
+        ],
+        [
+          232.4409942626953,
+          227.13006591796875
+        ]
+      ]
+    },
+    {
+      "title": "E100 SCAND\nStandard d\u00f6rrbladsl\u00e4sare med vred Skandinavisk profil",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          225.24609375,
+          17.85858154296875
+        ],
+        [
+          404.6559753417969,
+          17.85858154296875
+        ],
+        [
+          404.6559753417969,
+          48.64215087890625
+        ],
+        [
+          225.24609375,
+          48.64215087890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "TableCell",
+          71
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50026475_pro"
+}

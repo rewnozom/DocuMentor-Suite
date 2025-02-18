@@ -1,0 +1,154 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u00d6ppn\na 1100 Ber\u00f6ringsfri l\u00e4s\nare",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          293.6455078125,
+          139.10546875
+        ],
+        [
+          506.3671875,
+          139.10546875
+        ],
+        [
+          506.3671875,
+          174.85824584960938
+        ],
+        [
+          293.6455078125,
+          174.85824584960938
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER OCH F\u00d6RDELAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          292.1796875,
+          195.853515625
+        ],
+        [
+          396.35595703125,
+          195.853515625
+        ],
+        [
+          396.35595703125,
+          206.78555297851562
+        ],
+        [
+          292.1796875,
+          206.78555297851562
+        ]
+      ]
+    },
+    {
+      "title": "www.aptus.se",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          315.48919677734375,
+          519.7644653320312
+        ],
+        [
+          521.9146728515625,
+          519.7644653320312
+        ],
+        [
+          521.9146728515625,
+          556.0724639892578
+        ],
+        [
+          315.48919677734375,
+          556.0724639892578
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\\u00d6ppna 1100 - Spaak S\u00e4kerhet ABcopiaxsehttpscopiaxse  doc  50091847_prodblad_1263766115872322759"
+}

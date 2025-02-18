@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Installation Guide Connect Module",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          7.221679687500001,
+          7.724609375000001
+        ],
+        [
+          191.25,
+          7.724609375000001
+        ],
+        [
+          191.25,
+          21.656494140625
+        ],
+        [
+          7.221679687500001,
+          21.656494140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Installation Guide Connect ModuleCopiaxhttpswwwcopiaxse  doc  50461903_ins_4569753596640898729"
+}

@@ -1,0 +1,1565 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MOTORL\u00c5S 6000",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          259.8606872558594,
+          761.41796875
+        ],
+        [
+          575.4367065429688,
+          761.41796875
+        ],
+        [
+          575.4367065429688,
+          809.109375
+        ],
+        [
+          259.8606872558594,
+          809.109375
+        ]
+      ]
+    },
+    {
+      "title": "VIKTIG INFORMATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.524658203125,
+          46.79205322265625
+        ],
+        [
+          187.5595703125,
+          46.79205322265625
+        ],
+        [
+          187.5595703125,
+          64.7130126953125
+        ],
+        [
+          42.524658203125,
+          64.7130126953125
+        ]
+      ]
+    },
+    {
+      "title": "IMPORTANT NOTICE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.306396484375,
+          439.5009765625
+        ],
+        [
+          177.01229858398438,
+          439.5009765625
+        ],
+        [
+          177.01229858398438,
+          457.3114318847656
+        ],
+        [
+          42.306396484375,
+          457.3114318847656
+        ]
+      ]
+    },
+    {
+      "title": "MONTERINGSANVISNING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.3984375,
+          47.51153564453125
+        ],
+        [
+          214.3330078125,
+          47.51153564453125
+        ],
+        [
+          214.3330078125,
+          64.7130126953125
+        ],
+        [
+          45.3984375,
+          64.7130126953125
+        ]
+      ]
+    },
+    {
+      "title": "Varning!",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.3984375,
+          85.0531005859375
+        ],
+        [
+          90.72412109375,
+          85.0531005859375
+        ],
+        [
+          90.72412109375,
+          97.1815185546875
+        ],
+        [
+          45.3984375,
+          97.1815185546875
+        ]
+      ]
+    },
+    {
+      "title": "SPECIFIKATIONER",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.634521484375,
+          217.69482421875
+        ],
+        [
+          164.8603515625,
+          217.69482421875
+        ],
+        [
+          164.8603515625,
+          234.7916259765625
+        ],
+        [
+          44.634521484375,
+          234.7916259765625
+        ]
+      ]
+    },
+    {
+      "title": "Motorl\u00e5s 6100, 6300 & 6500 uppfyller f\u00f6ljande krav enligt SS-EN 14846:2008",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          42.779296875,
+          306.49951171875
+        ],
+        [
+          423.427734375,
+          306.49951171875
+        ],
+        [
+          423.427734375,
+          317.60009765625
+        ],
+        [
+          42.779296875,
+          317.60009765625
+        ]
+      ]
+    },
+    {
+      "title": "Motorl\u00e5s 6200, 6600 och 3600 uppfyller f\u00f6ljande krav enligt SS-EN 14846:2008",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.1787109375,
+          436.2119140625
+        ],
+        [
+          435.359375,
+          436.2119140625
+        ],
+        [
+          435.359375,
+          447.7236328125
+        ],
+        [
+          41.1787109375,
+          447.7236328125
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6dutrymningsbeh\u00f6r 795 & 796 uppfyller f\u00f6ljande krav enligt SS-EN 179:2008",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.90625,
+          568.185546875
+        ],
+        [
+          433.61328125,
+          568.185546875
+        ],
+        [
+          433.61328125,
+          579.697265625
+        ],
+        [
+          41.90625,
+          579.697265625
+        ]
+      ]
+    },
+    {
+      "title": "REKOMMENDATIONER VID INSTALLATION AV MOTORL\u00c5S",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.5283203125,
+          46.4066162109375
+        ],
+        [
+          427.79296875,
+          46.4066162109375
+        ],
+        [
+          427.79296875,
+          64.7130126953125
+        ],
+        [
+          52.5283203125,
+          64.7130126953125
+        ]
+      ]
+    },
+    {
+      "title": "TILLBEH\u00d6R",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.710205078125,
+          201.8662109375
+        ],
+        [
+          126.4462890625,
+          201.8662109375
+        ],
+        [
+          126.4462890625,
+          222.03570556640625
+        ],
+        [
+          52.710205078125,
+          222.03570556640625
+        ]
+      ]
+    },
+    {
+      "title": "SLUTBLECKSSPECIFIKATIONER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.89208984375,
+          437.8564453125
+        ],
+        [
+          254.638671875,
+          437.8564453125
+        ],
+        [
+          254.638671875,
+          455.89404296875
+        ],
+        [
+          52.89208984375,
+          455.89404296875
+        ]
+      ]
+    },
+    {
+      "title": "G\u00e4ller slutbleck 106 samt 107",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.43995666503906,
+          476.091796875
+        ],
+        [
+          189.6707763671875,
+          476.091796875
+        ],
+        [
+          189.6707763671875,
+          488.42578125
+        ],
+        [
+          52.43995666503906,
+          488.42578125
+        ]
+      ]
+    },
+    {
+      "title": "L\u00c5S",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.6923828125,
+          594.9091796875
+        ],
+        [
+          77.04638671875,
+          594.9091796875
+        ],
+        [
+          77.04638671875,
+          610.7940521240234
+        ],
+        [
+          53.6923828125,
+          610.7940521240234
+        ]
+      ]
+    },
+    {
+      "title": "D\u00d6RRAR",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.8564453125,
+          729.7607421875
+        ],
+        [
+          104.6201171875,
+          729.7607421875
+        ],
+        [
+          104.6201171875,
+          745.4396591186523
+        ],
+        [
+          54.8564453125,
+          745.4396591186523
+        ]
+      ]
+    },
+    {
+      "title": "L\u00c5SHUSETS ANSLUTNING",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.5439453125,
+          43.75994873046875
+        ],
+        [
+          214.88897705078125,
+          43.75994873046875
+        ],
+        [
+          214.88897705078125,
+          64.7130126953125
+        ],
+        [
+          45.5439453125,
+          64.7130126953125
+        ]
+      ]
+    },
+    {
+      "title": "UTBYTE AV ENHET",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.725830078125,
+          287.79296875
+        ],
+        [
+          165.87890625,
+          287.79296875
+        ],
+        [
+          165.87890625,
+          305.65777587890625
+        ],
+        [
+          45.725830078125,
+          305.65777587890625
+        ]
+      ]
+    },
+    {
+      "title": "Utbyte av l\u00e5shus",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.6708984375,
+          326.64501953125
+        ],
+        [
+          130.5205078125,
+          326.64501953125
+        ],
+        [
+          130.5205078125,
+          338.15673828125
+        ],
+        [
+          44.6708984375,
+          338.15673828125
+        ]
+      ]
+    },
+    {
+      "title": "Utbyte av styrenhet",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.925537109375,
+          384.20361328125
+        ],
+        [
+          146.380859375,
+          384.20361328125
+        ],
+        [
+          146.380859375,
+          395.71533203125
+        ],
+        [
+          44.925537109375,
+          395.71533203125
+        ]
+      ]
+    },
+    {
+      "title": "KABELDIMENSIONERING",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          45.107421875,
+          540.6396484375
+        ],
+        [
+          206.4755859375,
+          540.6396484375
+        ],
+        [
+          206.4755859375,
+          557.9413452148438
+        ],
+        [
+          45.107421875,
+          557.9413452148438
+        ]
+      ]
+    },
+    {
+      "title": "O.B.S",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          44.88916015625,
+          738.39453125
+        ],
+        [
+          72.6083984375,
+          738.39453125
+        ],
+        [
+          72.6083984375,
+          750.728515625
+        ],
+        [
+          44.88916015625,
+          750.728515625
+        ]
+      ]
+    },
+    {
+      "title": "L\u00c5SHUSETS DISPLAY",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          46.453369140625,
+          93.8924560546875
+        ],
+        [
+          154.529296875,
+          93.8924560546875
+        ],
+        [
+          154.529296875,
+          106.997314453125
+        ],
+        [
+          46.453369140625,
+          106.997314453125
+        ]
+      ]
+    },
+    {
+      "title": "Fetmarkerad text indikerar fabriksinst\u00e4llt v\u00e4rde.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.61669921875,
+          212.76123046875
+        ],
+        [
+          284.03125,
+          212.76123046875
+        ],
+        [
+          284.03125,
+          224.82861328125
+        ],
+        [
+          45.61669921875,
+          224.82861328125
+        ]
+      ]
+    },
+    {
+      "title": "Forts\u00e4ttning n\u00e4sta sida",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.7655029296875,
+          793.486328125
+        ],
+        [
+          162.9455108642578,
+          793.486328125
+        ],
+        [
+          162.9455108642578,
+          805.1117744445801
+        ],
+        [
+          47.7655029296875,
+          805.1117744445801
+        ]
+      ]
+    },
+    {
+      "title": "MENYVAL DISPLAY STYRENHET",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.32568359375,
+          47.177490234375
+        ],
+        [
+          249.69140625,
+          47.177490234375
+        ],
+        [
+          249.69140625,
+          64.7130126953125
+        ],
+        [
+          45.32568359375,
+          64.7130126953125
+        ]
+      ]
+    },
+    {
+      "title": "Fetmarkerad text indikerar fabriksinst\u00e4llt v\u00e4rde.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.9619140625,
+          80.273681640625
+        ],
+        [
+          283.3037109375,
+          80.273681640625
+        ],
+        [
+          283.3037109375,
+          92.29931640625
+        ],
+        [
+          44.9619140625,
+          92.29931640625
+        ]
+      ]
+    },
+    {
+      "title": "FELKODSMENY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.0629997253418,
+          309.78857421875
+        ],
+        [
+          144.93099975585938,
+          309.78857421875
+        ],
+        [
+          144.93099975585938,
+          326.9176025390625
+        ],
+        [
+          46.0629997253418,
+          326.9176025390625
+        ]
+      ]
+    },
+    {
+      "title": "ERRORLOGG, MENY 7",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.162353515625,
+          403.11572265625
+        ],
+        [
+          149.1455078125,
+          403.11572265625
+        ],
+        [
+          149.1455078125,
+          416.854736328125
+        ],
+        [
+          46.162353515625,
+          416.854736328125
+        ]
+      ]
+    },
+    {
+      "title": "VARNINGSLOGG, MENY 8",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.653076171875,
+          677.1357421875
+        ],
+        [
+          166.40745544433594,
+          677.1357421875
+        ],
+        [
+          166.40745544433594,
+          690.2919921875
+        ],
+        [
+          45.653076171875,
+          690.2919921875
+        ]
+      ]
+    },
+    {
+      "title": "Varningar loggas h\u00e4r.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.653076171875,
+          690.703125
+        ],
+        [
+          157.8759765625,
+          690.703125
+        ],
+        [
+          157.8759765625,
+          701.392578125
+        ],
+        [
+          45.653076171875,
+          701.392578125
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON 6100, 6200, 6300",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          45.653076171875,
+          92.9674072265625
+        ],
+        [
+          187.8505859375,
+          92.9674072265625
+        ],
+        [
+          187.8505859375,
+          105.969482421875
+        ],
+        [
+          45.653076171875,
+          105.969482421875
+        ]
+      ]
+    },
+    {
+      "title": "V\u00c4NDNING AV FALLKOLV (6200/6600)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          44.88916015625,
+          537.3505859375
+        ],
+        [
+          304.984375,
+          537.3505859375
+        ],
+        [
+          304.984375,
+          557.9413452148438
+        ],
+        [
+          44.88916015625,
+          557.9413452148438
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON 6100/6500",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          49.47265625,
+          96.1536865234375
+        ],
+        [
+          158.638916015625,
+          96.1536865234375
+        ],
+        [
+          158.638916015625,
+          109.052978515625
+        ],
+        [
+          49.47265625,
+          109.052978515625
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON 6200/6600",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          46.05322265625,
+          101.858154296875
+        ],
+        [
+          157.2410888671875,
+          101.858154296875
+        ],
+        [
+          157.2410888671875,
+          114.603271484375
+        ],
+        [
+          46.05322265625,
+          114.603271484375
+        ]
+      ]
+    },
+    {
+      "title": "INSTALLATION I D\u00d6RR",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          44.998291015625,
+          46.27813720703125
+        ],
+        [
+          191.197265625,
+          46.27813720703125
+        ],
+        [
+          191.197265625,
+          64.7130126953125
+        ],
+        [
+          44.998291015625,
+          64.7130126953125
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON 6300",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          45.580322265625,
+          102.6290283203125
+        ],
+        [
+          128.60330200195312,
+          102.6290283203125
+        ],
+        [
+          128.60330200195312,
+          114.50048828125
+        ],
+        [
+          45.580322265625,
+          114.50048828125
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON 6100, 6200, 6500 & 6600",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          45.18017578125,
+          77.90966796875
+        ],
+        [
+          224.34774780273438,
+          77.90966796875
+        ],
+        [
+          224.34774780273438,
+          90.44921875
+        ],
+        [
+          45.18017578125,
+          90.44921875
+        ]
+      ]
+    },
+    {
+      "title": "3 \n 26",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          351.837890625,
+          91.374267578125
+        ],
+        [
+          470.572265625,
+          91.374267578125
+        ],
+        [
+          470.572265625,
+          130.496337890625
+        ],
+        [
+          351.837890625,
+          130.496337890625
+        ]
+      ]
+    },
+    {
+      "title": "MAGNETPOSITION STOLPE",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          46.0629997253418,
+          371.2529296875
+        ],
+        [
+          221.462890625,
+          371.2529296875
+        ],
+        [
+          221.462890625,
+          390.6971130371094
+        ],
+        [
+          46.0629997253418,
+          390.6971130371094
+        ]
+      ]
+    },
+    {
+      "title": "UNDERH\u00c5LL AV SAFETRON MOTORL\u00c5S",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          161.29139709472656,
+          137.318359375
+        ],
+        [
+          359.66009521484375,
+          137.318359375
+        ],
+        [
+          359.66009521484375,
+          150.26904296875
+        ],
+        [
+          161.29139709472656,
+          150.26904296875
+        ]
+      ]
+    },
+    {
+      "title": "MAINTENANCE SAFETRON MOTOR LOCK",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          160.349609375,
+          458.82421875
+        ],
+        [
+          368.716796875,
+          458.82421875
+        ],
+        [
+          368.716796875,
+          469.513671875
+        ],
+        [
+          160.349609375,
+          469.513671875
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON AB",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          20.843994140625,
+          721.126953125
+        ],
+        [
+          96.4716796875,
+          721.126953125
+        ],
+        [
+          96.4716796875,
+          733.4609375
+        ],
+        [
+          20.843994140625,
+          733.4609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "TableCell",
+          69
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          74
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\safetron-manual-6000_MAN"
+}

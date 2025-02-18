@@ -1,0 +1,288 @@
+{
+  "table_of_contents": [
+    {
+      "title": "IP-50",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          487.16015625,
+          37.59295654296875
+        ],
+        [
+          550.6015625,
+          37.59295654296875
+        ],
+        [
+          550.6015625,
+          71.56298828125
+        ],
+        [
+          487.16015625,
+          71.56298828125
+        ]
+      ]
+    },
+    {
+      "title": "N\u00c4TVERKSMODUL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          212.5556640625
+        ],
+        [
+          248.7899932861328,
+          212.5556640625
+        ],
+        [
+          248.7899932861328,
+          249.96875
+        ],
+        [
+          36.0,
+          249.96875
+        ]
+      ]
+    },
+    {
+      "title": "ANSLUTNING AV UNDERCENTRAL \nMED IP \u00d6VER N\u00c4TVERK",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.2529296875,
+          401.6767578125
+        ],
+        [
+          257.9715881347656,
+          401.6767578125
+        ],
+        [
+          257.9715881347656,
+          438.8219909667969
+        ],
+        [
+          45.2529296875,
+          438.8219909667969
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISK DATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          328.84765625,
+          481.025390625
+        ],
+        [
+          409.75,
+          481.025390625
+        ],
+        [
+          409.75,
+          497.470703125
+        ],
+        [
+          328.84765625,
+          497.470703125
+        ]
+      ]
+    },
+    {
+      "title": "ANKNYTNING KORSAD N\u00c4TVERKSKABEL\nANSLUTNING AV UC-50 VIA KORSAD N\u00c4TVERKSKABEL TILL R-CARD M5 SERVER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.9404296875,
+          34.56085205078125
+        ],
+        [
+          413.2421875,
+          34.56085205078125
+        ],
+        [
+          413.2421875,
+          71.3699951171875
+        ],
+        [
+          35.9404296875,
+          71.3699951171875
+        ]
+      ]
+    },
+    {
+      "title": "ANKNYTNING MED IP-50",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.6494140625,
+          155.099853515625
+        ],
+        [
+          189.7421875,
+          155.099853515625
+        ],
+        [
+          189.7421875,
+          175.12225341796875
+        ],
+        [
+          35.6494140625,
+          175.12225341796875
+        ]
+      ]
+    },
+    {
+      "title": "ANSLUTNING AV UC-50 MED IP-50 \u00d6VER N\u00c4TVERK TILL R-CARD M5 SERVER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.6494140625,
+          176.684326171875
+        ],
+        [
+          395.7599182128906,
+          176.684326171875
+        ],
+        [
+          395.7599182128906,
+          192.101806640625
+        ],
+        [
+          35.6494140625,
+          192.101806640625
+        ]
+      ]
+    },
+    {
+      "title": "EN ANKNYTNING MED FLER IP-50 (SYSTEMBUSS \u00d6VER IP)\nANSLUTNING AV FLER IP-ANSLUTNA UC-50 P\u00c5 SAMMA IP-ANKNYTNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.921875,
+          403.732421875
+        ],
+        [
+          398.2078857421875,
+          403.732421875
+        ],
+        [
+          398.2078857421875,
+          439.9292297363281
+        ],
+        [
+          34.921875,
+          439.9292297363281
+        ]
+      ]
+    },
+    {
+      "title": "ELEKTRONISKA L\u00c5S F\u00d6R HEM OCH F\u00d6RETAG",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          154.529296875,
+          805.4091796875
+        ],
+        [
+          400.05133056640625,
+          805.4091796875
+        ],
+        [
+          400.05133056640625,
+          824.3212890625
+        ],
+        [
+          154.529296875,
+          824.3212890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\N\u00e4tverksmodul IP-50_-997901107937249706"
+}

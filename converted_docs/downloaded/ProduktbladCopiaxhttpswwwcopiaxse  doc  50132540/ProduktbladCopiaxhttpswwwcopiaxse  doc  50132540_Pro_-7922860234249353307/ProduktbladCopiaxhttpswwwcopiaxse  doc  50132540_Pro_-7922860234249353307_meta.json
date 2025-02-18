@@ -1,0 +1,208 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.2843017578125,
+          135.776611328125
+        ],
+        [
+          381.521484375,
+          135.776611328125
+        ],
+        [
+          381.521484375,
+          165.172607421875
+        ],
+        [
+          215.2843017578125,
+          165.172607421875
+        ]
+      ]
+    },
+    {
+      "title": "Tidur - TH82724V",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.9404296875,
+          185.21533203125
+        ],
+        [
+          230.9208984375,
+          185.21533203125
+        ],
+        [
+          230.9208984375,
+          209.0093994140625
+        ],
+        [
+          35.9404296875,
+          209.0093994140625
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.467529296875,
+          219.544921875
+        ],
+        [
+          179.556640625,
+          219.544921875
+        ],
+        [
+          179.556640625,
+          236.8125
+        ],
+        [
+          35.467529296875,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.742919921875,
+          536.1171875
+        ],
+        [
+          124.845703125,
+          536.1171875
+        ],
+        [
+          124.845703125,
+          553.384765625
+        ],
+        [
+          42.742919921875,
+          553.384765625
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.249267578125,
+          135.05712890625
+        ],
+        [
+          182.9033203125,
+          135.05712890625
+        ],
+        [
+          182.9033203125,
+          152.119140625
+        ],
+        [
+          35.249267578125,
+          152.119140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ProduktbladCopiaxhttpswwwcopiaxse  doc  50132540_Pro_-7922860234249353307"
+}

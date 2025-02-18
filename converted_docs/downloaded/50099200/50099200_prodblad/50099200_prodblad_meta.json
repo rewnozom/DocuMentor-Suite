@@ -1,0 +1,392 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Net2 Passersystem",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.29600143432617,
+          641.7783203125
+        ],
+        [
+          299.455078125,
+          641.7783203125
+        ],
+        [
+          299.455078125,
+          677.9580078125
+        ],
+        [
+          50.29600143432617,
+          677.9580078125
+        ]
+      ]
+    },
+    {
+      "title": "Net2 Passersystem",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          198.9091796875,
+          54.6806640625
+        ],
+        [
+          560.49609375,
+          54.6806640625
+        ],
+        [
+          560.49609375,
+          138.6929931640625
+        ],
+        [
+          198.9091796875,
+          138.6929931640625
+        ]
+      ]
+    },
+    {
+      "title": "Enkel hantering av systemet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.3583984375,
+          390.1650390625
+        ],
+        [
+          287.0869140625,
+          390.1650390625
+        ],
+        [
+          287.0869140625,
+          413.8139343261719
+        ],
+        [
+          35.3583984375,
+          413.8139343261719
+        ]
+      ]
+    },
+    {
+      "title": "H\u00f6g s\u00e4kerhet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.6494140625,
+          598.1982421875
+        ],
+        [
+          155.111328125,
+          598.1982421875
+        ],
+        [
+          155.111328125,
+          624.5107421875
+        ],
+        [
+          35.6494140625,
+          624.5107421875
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6renklad administration",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.14013671875,
+          50.13250732421875
+        ],
+        [
+          259.4320068359375,
+          50.13250732421875
+        ],
+        [
+          259.4320068359375,
+          76.8818359375
+        ],
+        [
+          35.14013671875,
+          76.8818359375
+        ]
+      ]
+    },
+    {
+      "title": "En enda knapptryckning f\u00f6r\nfastighetskontroll",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.55810546875,
+          190.97119140625
+        ],
+        [
+          283.44921875,
+          190.97119140625
+        ],
+        [
+          283.44921875,
+          240.71826171875
+        ],
+        [
+          34.55810546875,
+          240.71826171875
+        ]
+      ]
+    },
+    {
+      "title": "Mobil passerkontroll",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.6494140625,
+          410.10498046875
+        ],
+        [
+          219.50198364257812,
+          410.10498046875
+        ],
+        [
+          219.50198364257812,
+          435.5354309082031
+        ],
+        [
+          35.6494140625,
+          435.5354309082031
+        ]
+      ]
+    },
+    {
+      "title": "Sofistikerad systemintegration",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.84912109375,
+          538.9951171875
+        ],
+        [
+          304.2239990234375,
+          538.9951171875
+        ],
+        [
+          304.2239990234375,
+          563.9556579589844
+        ],
+        [
+          34.84912109375,
+          563.9556579589844
+        ]
+      ]
+    },
+    {
+      "title": "Mjukvaran i Net2 passersystem",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          34.4853515625,
+          48.74493408203125
+        ],
+        [
+          338.3169860839844,
+          48.74493408203125
+        ],
+        [
+          338.3169860839844,
+          76.0595703125
+        ],
+        [
+          34.4853515625,
+          76.0595703125
+        ]
+      ]
+    },
+    {
+      "title": "Net2 Pro",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.416900634765625,
+          151.91357421875
+        ],
+        [
+          240.087890625,
+          151.91357421875
+        ],
+        [
+          240.087890625,
+          210.59527587890625
+        ],
+        [
+          53.416900634765625,
+          210.59527587890625
+        ]
+      ]
+    },
+    {
+      "title": "Nyckelfunktioner Net2 passersystem",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          350.2667236328125,
+          403.11572265625
+        ],
+        [
+          532.0307006835938,
+          403.11572265625
+        ],
+        [
+          532.0307006835938,
+          416.68310546875
+        ],
+        [
+          350.2667236328125,
+          416.68310546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          515
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          666
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListGroup",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50099200_prodblad"
+}

@@ -1,0 +1,200 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Fig1.\n\nMS20SSU/SSM\n\nF\u00f6r\n \nskjutd\u00f6rrar\n \nmed\n \nutanp\u00e5liggande\n \nmonterad\n \nmagnet",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          204.62135314941406,
+          22.95924186706543
+        ],
+        [
+          396.1534423828125,
+          22.95924186706543
+        ],
+        [
+          396.1534423828125,
+          53.5296630859375
+        ],
+        [
+          204.62135314941406,
+          53.5296630859375
+        ]
+      ]
+    },
+    {
+      "title": "MS20SFU/SFM\n\nF\u00f6r\n \nskjutd\u00f6rrar\n \nmed\n \nf\u00f6rs\u00e4nkt\n \nmontering",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          21.807825088500977,
+          139.70004272460938
+        ],
+        [
+          159.4123992919922,
+          139.70004272460938
+        ],
+        [
+          159.4123992919922,
+          159.354248046875
+        ],
+        [
+          21.807825088500977,
+          159.354248046875
+        ]
+      ]
+    },
+    {
+      "title": "Urfr\u00e4snings\n \nm\u00e5tt",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          479.7919921875,
+          186.373291015625
+        ],
+        [
+          555.6174926757812,
+          186.373291015625
+        ],
+        [
+          555.6174926757812,
+          209.906005859375
+        ],
+        [
+          479.7919921875,
+          209.906005859375
+        ]
+      ]
+    },
+    {
+      "title": "Tillbeh\u00f6r.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          454.3017578125,
+          350.3759765625
+        ],
+        [
+          505.2822265625,
+          350.3759765625
+        ],
+        [
+          505.2822265625,
+          369.6502380371094
+        ],
+        [
+          454.3017578125,
+          369.6502380371094
+        ]
+      ]
+    },
+    {
+      "title": "Viktigt.\n \nV\u00e4nligen\n \nl\u00e4s\n \nnedanst\u00e5ende\n \ninnan\n \nmontering\n \nav\n \nmagnet\n \np\u00e5b\u00f6rjas.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          453.4794921875,
+          474.43115234375
+        ],
+        [
+          803.7931518554688,
+          474.43115234375
+        ],
+        [
+          803.7931518554688,
+          486.63330078125
+        ],
+        [
+          453.4794921875,
+          486.63330078125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          549
+        ],
+        [
+          "Span",
+          549
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          432
+        ],
+        [
+          "Span",
+          432
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "Figure",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50115032_man"
+}

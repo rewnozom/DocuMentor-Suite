@@ -1,0 +1,73 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DB-50 GEN2 LIGHT \n\nDELNINGSBOX",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.19287109375,
+          135.673828125
+        ],
+        [
+          231.79098510742188,
+          135.673828125
+        ],
+        [
+          231.79098510742188,
+          188.50439453125
+        ],
+        [
+          30.19287109375,
+          188.50439453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\DB-50 GEN2 LIGHT DELNINGSBOXcopiaxsehttpscopiaxse  images  doc  50464315_pro_-1785912261440664571"
+}

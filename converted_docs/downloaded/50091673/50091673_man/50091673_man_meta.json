@@ -1,0 +1,577 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Kodl\u00e5s 22CL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.31999969482422,
+          21.14764404296875
+        ],
+        [
+          184.3505859375,
+          21.14764404296875
+        ],
+        [
+          184.3505859375,
+          58.17529296875
+        ],
+        [
+          28.31999969482422,
+          58.17529296875
+        ]
+      ]
+    },
+    {
+      "title": "Felslagsblockering (DIP3)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.343505859375,
+          57.1988525390625
+        ],
+        [
+          171.826171875,
+          57.1988525390625
+        ],
+        [
+          171.826171875,
+          71.6912841796875
+        ],
+        [
+          33.343505859375,
+          71.6912841796875
+        ]
+      ]
+    },
+    {
+      "title": "6-siffrig kod (DIP1)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.695556640625,
+          163.733642578125
+        ],
+        [
+          143.60398864746094,
+          163.733642578125
+        ],
+        [
+          143.60398864746094,
+          180.384521484375
+        ],
+        [
+          31.695556640625,
+          180.384521484375
+        ]
+      ]
+    },
+    {
+      "title": "Sifferbelysning (DIP5)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.09130859375,
+          220.7783203125
+        ],
+        [
+          152.7099609375,
+          220.7783203125
+        ],
+        [
+          152.7099609375,
+          235.5791015625
+        ],
+        [
+          31.09130859375,
+          235.5791015625
+        ]
+      ]
+    },
+    {
+      "title": "Kretskortet med inkopplingsplint och \ninst\u00e4llningar",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.574462890625,
+          284.70947265625
+        ],
+        [
+          207.421875,
+          284.70947265625
+        ],
+        [
+          207.421875,
+          311.02197265625
+        ],
+        [
+          32.574462890625,
+          311.02197265625
+        ]
+      ]
+    },
+    {
+      "title": "Kod 7, tillf\u00e4llig passerkod",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          253.5800018310547,
+          410.7216796875
+        ],
+        [
+          393.310546875,
+          410.7216796875
+        ],
+        [
+          393.310546875,
+          426.755859375
+        ],
+        [
+          253.5800018310547,
+          426.755859375
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6verfallskod (DIP2=OFF)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          250.927734375,
+          473.2138671875
+        ],
+        [
+          386.0379638671875,
+          473.2138671875
+        ],
+        [
+          386.0379638671875,
+          489.6591796875
+        ],
+        [
+          250.927734375,
+          489.6591796875
+        ]
+      ]
+    },
+    {
+      "title": "Tv\u00e5 d\u00f6rrar (DIP2=ON)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          251.5869140625,
+          549.2734375
+        ],
+        [
+          370.41632080078125,
+          549.2734375
+        ],
+        [
+          370.41632080078125,
+          564.896484375
+        ],
+        [
+          251.5869140625,
+          564.896484375
+        ]
+      ]
+    },
+    {
+      "title": "1\n \n2\n \n3",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          824.853515625,
+          69.584228515625
+        ],
+        [
+          898.681640625,
+          69.584228515625
+        ],
+        [
+          898.681640625,
+          103.913818359375
+        ],
+        [
+          824.853515625,
+          103.913818359375
+        ]
+      ]
+    },
+    {
+      "title": "Programmering",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          478.564453125,
+          318.6279296875
+        ],
+        [
+          608.642578125,
+          318.6279296875
+        ],
+        [
+          608.642578125,
+          337.12890625
+        ],
+        [
+          478.564453125,
+          337.12890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          482.080078125,
+          450.6015625
+        ],
+        [
+          654.345703125,
+          450.6015625
+        ],
+        [
+          654.345703125,
+          468.69140625
+        ],
+        [
+          482.080078125,
+          468.69140625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          983.69091796875,
+          23.421722412109375
+        ],
+        [
+          1161.87158203125,
+          23.421722412109375
+        ],
+        [
+          1161.87158203125,
+          57.3016357421875
+        ],
+        [
+          983.69091796875,
+          57.3016357421875
+        ]
+      ]
+    },
+    {
+      "title": "Code Lock 22CL",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.31999969482422,
+          25.682952880859375
+        ],
+        [
+          882.7504272460938,
+          25.682952880859375
+        ],
+        [
+          882.7504272460938,
+          59.3572998046875
+        ],
+        [
+          28.31999969482422,
+          59.3572998046875
+        ]
+      ]
+    },
+    {
+      "title": "Erroneous Code Block (DIP3)\n19 incorrect key-presses disables the keypad for\n2 minutes. If the correct code is entered twice the\nkeypad block is removed and the door unlocked.\nThe blocking is indicated by a slow flashing red\nlight that remains until the first correct code \nentry.\nIf erroneous code inhibit is required,\nset DIP3 = ON and perform a MASTER RESET.\n6 Digit Code (DIP1)\n22CL is set for 4 digit codes when\ndelivered. To set it to 6 digit codes,\nDIP1=ON and perform a MASTER RESET\nDigit Light (DIP5)\n22CL is delivered with illuminated\ndigits. If this is wanted, setDIP5 = ON.\nCircuit board with terminal block and settings\n10 9 8 7 6 5 4 3 2 1\nVin RE 0V NO NC\n \nVin RE 0V NO NC\n\nJP4 JP3\n \nJP2 JP1\n\nDoor\n \nAux\n\nTerminal Block Pin Configuration\n1: AC/DC 12-24V\n2: AC/DC 12-24V\n3: Door NO/NC (+)\n4: Door C (-)\n5: 0V\n6: Exit Button\n7: Door Monitor\n8: Code Blocking\n9: Aux NO/NC (+)\n10: Aux c (-)\nDIP\n1: 4 or 6 Digit Code\n2: Duress or Two doors\n3: Erroneous code block\n4: Master reset\n5: Digit light\nTechnical documentation and support\nWe reserve the right to correct printing errors and update the \ninformation after printing.\nMaster Reset (Set default values DIP4)\nAll access codes are erased, the door unlocked \nreset to 000000.\nback to OFF. \nJP1/3 (See table)\n(See table)\nsupply voltage \ndays (1-9)\nprogramming.\nin the\nenter 0. \nData",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.2236328125,
+          47.07470703125
+        ],
+        [
+          462.22491455078125,
+          47.07470703125
+        ],
+        [
+          462.22491455078125,
+          717.837890625
+        ],
+        [
+          29.2236328125,
+          717.837890625
+        ]
+      ]
+    },
+    {
+      "title": "Code 7, temporary code",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          252.24609375,
+          431.2783203125
+        ],
+        [
+          383.5649108886719,
+          431.2783203125
+        ],
+        [
+          383.5649108886719,
+          447.7236328125
+        ],
+        [
+          252.24609375,
+          447.7236328125
+        ]
+      ]
+    },
+    {
+      "title": "Duress code (DIP2 = OFF)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.564453125,
+          522.9609375
+        ],
+        [
+          389.794921875,
+          522.9609375
+        ],
+        [
+          389.794921875,
+          538.583984375
+        ],
+        [
+          253.564453125,
+          538.583984375
+        ]
+      ]
+    },
+    {
+      "title": "Two Doors (DIP2 = ON)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          253.5800018310547,
+          611.765625
+        ],
+        [
+          376.3140869140625,
+          611.765625
+        ],
+        [
+          376.3140869140625,
+          627.388671875
+        ],
+        [
+          253.5800018310547,
+          627.388671875
+        ]
+      ]
+    },
+    {
+      "title": "Programming",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          480.4100036621094,
+          321.9169921875
+        ],
+        [
+          589.3209838867188,
+          321.9169921875
+        ],
+        [
+          589.3209838867188,
+          340.41796875
+        ],
+        [
+          480.4100036621094,
+          340.41796875
+        ]
+      ]
+    },
+    {
+      "title": "Programming examples",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          479.8828125,
+          451.423828125
+        ],
+        [
+          624.0234375,
+          451.423828125
+        ],
+        [
+          624.0234375,
+          469.513671875
+        ],
+        [
+          479.8828125,
+          469.513671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          900.2486572265625,
+          673.0244140625
+        ],
+        [
+          975.73388671875,
+          673.0244140625
+        ],
+        [
+          975.73388671875,
+          690.2919921875
+        ],
+        [
+          900.2486572265625,
+          690.2919921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          644
+        ],
+        [
+          "Line",
+          363
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Text",
+          21
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          676
+        ],
+        [
+          "Line",
+          369
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50091673_man"
+}

@@ -1,0 +1,165 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Programvara | KeyCredits",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.2529296875,
+          94.1494140625
+        ],
+        [
+          253.9111328125,
+          94.1494140625
+        ],
+        [
+          253.9111328125,
+          121.07861328125
+        ],
+        [
+          45.2529296875,
+          121.07861328125
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6retag med anl\u00e4ggningar p\u00e5 olika platser",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.111328125,
+          136.29052734375
+        ],
+        [
+          534.595703125,
+          136.29052734375
+        ],
+        [
+          534.595703125,
+          153.14697265625
+        ],
+        [
+          304.111328125,
+          153.14697265625
+        ]
+      ]
+    },
+    {
+      "title": "Obegr\u00e4nsade KeyCredits",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.95928955078125,
+          159.51953125
+        ],
+        [
+          456.89453125,
+          159.51953125
+        ],
+        [
+          456.89453125,
+          175.75927734375
+        ],
+        [
+          304.95928955078125,
+          175.75927734375
+        ]
+      ]
+    },
+    {
+      "title": "Obegr\u00e4nsade KeyCredits i 12 m\u00e5nader",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.90321350097656,
+          409.0771484375
+        ],
+        [
+          337.578125,
+          409.0771484375
+        ],
+        [
+          337.578125,
+          421.47564697265625
+        ],
+        [
+          177.90321350097656,
+          421.47564697265625
+        ]
+      ]
+    },
+    {
+      "title": "Obegr\u00e4nsade KeyCredits i 36 m\u00e5nader",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.90321350097656,
+          547.62890625
+        ],
+        [
+          337.287109375,
+          547.62890625
+        ],
+        [
+          337.287109375,
+          558.4654846191406
+        ],
+        [
+          177.90321350097656,
+          558.4654846191406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50143061_pro"
+}

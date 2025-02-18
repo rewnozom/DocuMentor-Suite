@@ -1,0 +1,227 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.2843017578125,
+          135.87939453125
+        ],
+        [
+          379.99627685546875,
+          135.87939453125
+        ],
+        [
+          379.99627685546875,
+          164.453125
+        ],
+        [
+          215.2843017578125,
+          164.453125
+        ]
+      ]
+    },
+    {
+      "title": "Radiomottagare - SEL2641R433-RC",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.794921875,
+          185.62646484375
+        ],
+        [
+          426.337890625,
+          185.62646484375
+        ],
+        [
+          426.337890625,
+          209.0093994140625
+        ],
+        [
+          35.794921875,
+          209.0093994140625
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.322021484375,
+          219.9560546875
+        ],
+        [
+          180.138671875,
+          219.9560546875
+        ],
+        [
+          180.138671875,
+          235.990234375
+        ],
+        [
+          35.322021484375,
+          235.990234375
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.724365234375,
+          535.7060546875
+        ],
+        [
+          123.97265625,
+          535.7060546875
+        ],
+        [
+          123.97265625,
+          552.9736328125
+        ],
+        [
+          41.724365234375,
+          552.9736328125
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.6494140625,
+          135.365478515625
+        ],
+        [
+          182.3800048828125,
+          135.365478515625
+        ],
+        [
+          182.3800048828125,
+          152.016357421875
+        ],
+        [
+          35.6494140625,
+          152.016357421875
+        ]
+      ]
+    },
+    {
+      "title": "Tillbeh\u00f6r",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.6312255859375,
+          424.2890625
+        ],
+        [
+          103.310546875,
+          424.2890625
+        ],
+        [
+          103.310546875,
+          441.556640625
+        ],
+        [
+          35.6312255859375,
+          441.556640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50457419_pro"
+}

@@ -1,0 +1,211 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          456.3125,
+          18.88641357421875
+        ],
+        [
+          568.0625,
+          18.88641357421875
+        ],
+        [
+          568.0625,
+          44.68499755859375
+        ],
+        [
+          456.3125,
+          44.68499755859375
+        ]
+      ]
+    },
+    {
+      "title": "3-serien\nDC313N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.8829345703125,
+          68.86474609375
+        ],
+        [
+          78.35595703125,
+          68.86474609375
+        ],
+        [
+          78.35595703125,
+          98.05517578125
+        ],
+        [
+          27.8829345703125,
+          98.05517578125
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackningens inneh\u00e5ll:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.8291015625,
+          299.7158203125
+        ],
+        [
+          174.900390625,
+          299.7158203125
+        ],
+        [
+          174.900390625,
+          316.01287841796875
+        ],
+        [
+          29.8291015625,
+          316.01287841796875
+        ]
+      ]
+    },
+    {
+      "title": "Viktiga funktioner och f\u00f6rdelar:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.2470703125,
+          354.8076171875
+        ],
+        [
+          205.5779571533203,
+          354.8076171875
+        ],
+        [
+          205.5779571533203,
+          370.01953125
+        ],
+        [
+          29.2470703125,
+          370.01953125
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.792724609375,
+          33.43023681640625
+        ],
+        [
+          107.31099700927734,
+          33.43023681640625
+        ],
+        [
+          107.31099700927734,
+          49.31024169921875
+        ],
+        [
+          29.792724609375,
+          49.31024169921875
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s tryckknapp",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.28564453125,
+          351.5185546875
+        ],
+        [
+          128.84716796875,
+          351.5185546875
+        ],
+        [
+          128.84716796875,
+          365.4970703125
+        ],
+        [
+          35.28564453125,
+          365.4970703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116664_Pro"
+}

@@ -1,0 +1,315 @@
+{
+  "table_of_contents": [
+    {
+      "title": "E LT R Y C K E S L \u00c5 S \nSL 531",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.50559997558594,
+          372.486328125
+        ],
+        [
+          163.68560791015625,
+          372.486328125
+        ],
+        [
+          163.68560791015625,
+          427.419189453125
+        ],
+        [
+          64.50559997558594,
+          427.419189453125
+        ]
+      ]
+    },
+    {
+      "title": "Ell\u00e5s f\u00f6r d\u00f6rrautomatiker",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.84249877929688,
+          370.01953125
+        ],
+        [
+          515.6796875,
+          370.01953125
+        ],
+        [
+          515.6796875,
+          405.7880859375
+        ],
+        [
+          199.84249877929688,
+          405.7880859375
+        ]
+      ]
+    },
+    {
+      "title": "Inbyggd d\u00f6rravk\u00e4nning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          197.599609375,
+          508.5712890625
+        ],
+        [
+          298.0,
+          508.5712890625
+        ],
+        [
+          298.0,
+          520.0830078125
+        ],
+        [
+          197.599609375,
+          520.0830078125
+        ]
+      ]
+    },
+    {
+      "title": "N\u00f6dutrymning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          197.30859375,
+          557.0849609375
+        ],
+        [
+          261.6236877441406,
+          557.0849609375
+        ],
+        [
+          261.6236877441406,
+          568.0254516601562
+        ],
+        [
+          197.30859375,
+          568.0254516601562
+        ]
+      ]
+    },
+    {
+      "title": "E LT R Y C K E S L \u00c5 S \nSL 531",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          78.25360107421875,
+          53.138916015625
+        ],
+        [
+          178.1015625,
+          53.138916015625
+        ],
+        [
+          178.1015625,
+          109.97802734375
+        ],
+        [
+          78.25360107421875,
+          109.97802734375
+        ]
+      ]
+    },
+    {
+      "title": "EGENSKAPER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          243.21258544921875,
+          40.5479736328125
+        ],
+        [
+          300.037109375,
+          40.5479736328125
+        ],
+        [
+          300.037109375,
+          53.2930908203125
+        ],
+        [
+          243.21258544921875,
+          53.2930908203125
+        ]
+      ]
+    },
+    {
+      "title": "TEKNISKA DATA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          243.21258544921875,
+          160.7529296875
+        ],
+        [
+          309.640625,
+          160.7529296875
+        ],
+        [
+          309.640625,
+          172.88134765625
+        ],
+        [
+          243.21258544921875,
+          172.88134765625
+        ]
+      ]
+    },
+    {
+      "title": "BEN\u00c4MNING ART NR",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          243.21258544921875,
+          233.1123046875
+        ],
+        [
+          454.0285949707031,
+          233.1123046875
+        ],
+        [
+          454.0285949707031,
+          244.6632080078125
+        ],
+        [
+          243.21258544921875,
+          244.6632080078125
+        ]
+      ]
+    },
+    {
+      "title": "R\u00e4tt till \u00e4ndringar av katalogens inneh\u00e5ll och sortiment f\u00f6rbeh\u00e5lls. Vi reserverar oss f\u00f6r eventuella tryckfel.\nSAFETRON\u2122 \u00e4r ett registrerat varum\u00e4rke.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          546.236328125,
+          540.3348693847656
+        ],
+        [
+          567.189453125,
+          540.3348693847656
+        ],
+        [
+          567.189453125,
+          814.865234375
+        ],
+        [
+          546.236328125,
+          814.865234375
+        ]
+      ]
+    },
+    {
+      "title": "SAFETRON AB",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.1947021484375,
+          750.728515625
+        ],
+        [
+          89.56005859375,
+          750.728515625
+        ],
+        [
+          89.56005859375,
+          760.9708633422852
+        ],
+        [
+          35.1947021484375,
+          760.9708633422852
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\SL 531Copiaxhttpswwwcopiaxse  doc  50022930_Pro_5697424956302257337"
+}

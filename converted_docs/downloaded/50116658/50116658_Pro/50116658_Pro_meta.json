@@ -1,0 +1,238 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          455.73046875,
+          19.04058837890625
+        ],
+        [
+          568.0625,
+          19.04058837890625
+        ],
+        [
+          568.0625,
+          44.53082275390625
+        ],
+        [
+          455.73046875,
+          44.53082275390625
+        ]
+      ]
+    },
+    {
+      "title": "9-serien\nDC915N",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          28.15576171875,
+          69.892578125
+        ],
+        [
+          78.50146484375,
+          69.892578125
+        ],
+        [
+          78.50146484375,
+          98.46630859375
+        ],
+        [
+          28.15576171875,
+          98.46630859375
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackningens inneh\u00e5ll:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.0,
+          353.9853515625
+        ],
+        [
+          174.5079803466797,
+          353.9853515625
+        ],
+        [
+          174.5079803466797,
+          369.197265625
+        ],
+        [
+          30.0,
+          369.197265625
+        ]
+      ]
+    },
+    {
+      "title": "Viktiga funktioner och f\u00f6rdelar:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          29.46533203125,
+          407.22705078125
+        ],
+        [
+          205.748046875,
+          407.22705078125
+        ],
+        [
+          205.748046875,
+          422.64788818359375
+        ],
+        [
+          29.46533203125,
+          422.64788818359375
+        ]
+      ]
+    },
+    {
+      "title": "Specifikation:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.75634765625,
+          33.404541015625
+        ],
+        [
+          107.31201171875,
+          33.404541015625
+        ],
+        [
+          107.31201171875,
+          49.3359375
+        ],
+        [
+          29.75634765625,
+          49.3359375
+        ]
+      ]
+    },
+    {
+      "title": "Tr\u00e5dl\u00f6s tryckknapp",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.55810546875,
+          398.3876953125
+        ],
+        [
+          128.25,
+          398.3876953125
+        ],
+        [
+          128.25,
+          411.5439453125
+        ],
+        [
+          34.55810546875,
+          411.5439453125
+        ]
+      ]
+    },
+    {
+      "title": "F\u00f6rpackning",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.6304931640625,
+          646.7119140625
+        ],
+        [
+          96.01000213623047,
+          646.7119140625
+        ],
+        [
+          96.01000213623047,
+          658.2236328125
+        ],
+        [
+          33.6304931640625,
+          658.2236328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50116658_Pro"
+}

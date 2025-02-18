@@ -1,0 +1,246 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Data Sheet",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.310546875,
+          128.992919921875
+        ],
+        [
+          200.509765625,
+          128.992919921875
+        ],
+        [
+          200.509765625,
+          150.78790283203125
+        ],
+        [
+          103.310546875,
+          150.78790283203125
+        ]
+      ]
+    },
+    {
+      "title": "C16 Motor Lock Module ASSA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.7470703125,
+          207.00537109375
+        ],
+        [
+          390.8399353027344,
+          207.00537109375
+        ],
+        [
+          390.8399353027344,
+          232.62646484375
+        ],
+        [
+          103.7470703125,
+          232.62646484375
+        ]
+      ]
+    },
+    {
+      "title": "Functions and application",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.0,
+          82.4835205078125
+        ],
+        [
+          295.611083984375,
+          82.4835205078125
+        ],
+        [
+          295.611083984375,
+          101.62957763671875
+        ],
+        [
+          105.0,
+          101.62957763671875
+        ]
+      ]
+    },
+    {
+      "title": "Technical Data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.69287109375,
+          240.923828125
+        ],
+        [
+          216.515625,
+          240.923828125
+        ],
+        [
+          216.515625,
+          259.87957763671875
+        ],
+        [
+          104.69287109375,
+          259.87957763671875
+        ]
+      ]
+    },
+    {
+      "title": "ASSA motor lock 841C-50 VAKA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.6201171875,
+          400.9595947265625
+        ],
+        [
+          338.985107421875,
+          400.9595947265625
+        ],
+        [
+          338.985107421875,
+          419.6296081542969
+        ],
+        [
+          104.6201171875,
+          419.6296081542969
+        ]
+      ]
+    },
+    {
+      "title": "ASSA motorlock 840C-50 VAKA with drop bolt",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.0,
+          484.2096252441406
+        ],
+        [
+          440.59765625,
+          484.2096252441406
+        ],
+        [
+          440.59765625,
+          502.879638671875
+        ],
+        [
+          105.0,
+          502.879638671875
+        ]
+      ]
+    },
+    {
+      "title": "ASSA motor lock 841C-35 VAKA slim",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          105.0,
+          567.4595947265625
+        ],
+        [
+          374.9823913574219,
+          567.4595947265625
+        ],
+        [
+          374.9823913574219,
+          586.1295928955078
+        ],
+        [
+          105.0,
+          586.1295928955078
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\c16-data-en-us_PRO"
+}

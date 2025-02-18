@@ -1,0 +1,115 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Certifikat\nProdukter | WEEE\n2024",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          84.13919830322266,
+          80.9931640625
+        ],
+        [
+          445.8359375,
+          80.9931640625
+        ],
+        [
+          445.8359375,
+          232.2900390625
+        ],
+        [
+          84.13919830322266,
+          232.2900390625
+        ]
+      ]
+    },
+    {
+      "title": "Certificate",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          344.853515625,
+          230.1580810546875
+        ],
+        [
+          513.5805053710938,
+          230.1580810546875
+        ],
+        [
+          513.5805053710938,
+          276.6923828125
+        ],
+        [
+          344.853515625,
+          276.6923828125
+        ]
+      ]
+    },
+    {
+      "title": "Copiax AB",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          253.474609375,
+          331.98974609375
+        ],
+        [
+          344.8680114746094,
+          331.98974609375
+        ],
+        [
+          344.8680114746094,
+          352.13525390625
+        ],
+        [
+          253.474609375,
+          352.13525390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\elkretsen-certifikat-2024"
+}

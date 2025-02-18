@@ -1,0 +1,208 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Produktblad",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          215.2843017578125,
+          135.159912109375
+        ],
+        [
+          381.8125,
+          135.159912109375
+        ],
+        [
+          381.8125,
+          165.378173828125
+        ],
+        [
+          215.2843017578125,
+          165.378173828125
+        ]
+      ]
+    },
+    {
+      "title": "Stolpe - RPSS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.8134765625,
+          185.318115234375
+        ],
+        [
+          186.3955078125,
+          185.318115234375
+        ],
+        [
+          186.3955078125,
+          209.0093994140625
+        ],
+        [
+          36.8134765625,
+          209.0093994140625
+        ]
+      ]
+    },
+    {
+      "title": "Produktbeskrivning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.50390625,
+          218.72265625
+        ],
+        [
+          179.46200561523438,
+          218.72265625
+        ],
+        [
+          179.46200561523438,
+          236.8125
+        ],
+        [
+          35.50390625,
+          236.8125
+        ]
+      ]
+    },
+    {
+      "title": "Funktioner",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.815673828125,
+          532.4169921875
+        ],
+        [
+          125.2822265625,
+          532.4169921875
+        ],
+        [
+          125.2822265625,
+          552.5112609863281
+        ],
+        [
+          42.815673828125,
+          552.5112609863281
+        ]
+      ]
+    },
+    {
+      "title": "Teknisk information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.84912109375,
+          135.776611328125
+        ],
+        [
+          183.33984375,
+          135.776611328125
+        ],
+        [
+          183.33984375,
+          152.221923828125
+        ],
+        [
+          34.84912109375,
+          152.221923828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Produktbladcopiaxsehttpscopiaxse  images  doc  50132551_pro_6898569999552904674"
+}

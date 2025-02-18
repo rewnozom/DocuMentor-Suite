@@ -1,0 +1,208 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Panic Button \nAlert button for emergencies",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.5126953125,
+          240.923828125
+        ],
+        [
+          250.90481567382812,
+          240.923828125
+        ],
+        [
+          250.90481567382812,
+          283.2705078125
+        ],
+        [
+          59.5126953125,
+          283.2705078125
+        ]
+      ]
+    },
+    {
+      "title": "Independence and security of the elderly and disabled",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.3486328125,
+          450.6015625
+        ],
+        [
+          423.13671875,
+          450.6015625
+        ],
+        [
+          423.13671875,
+          467.869140625
+        ],
+        [
+          58.3486328125,
+          467.869140625
+        ]
+      ]
+    },
+    {
+      "title": "Mounting and use options",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.71240234375,
+          655.7568359375
+        ],
+        [
+          232.23046875,
+          655.7568359375
+        ],
+        [
+          232.23046875,
+          673.0244140625
+        ],
+        [
+          58.71240234375,
+          673.0244140625
+        ]
+      ]
+    },
+    {
+      "title": "Panic Button - Technical specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.3671875,
+          243.59619140625
+        ],
+        [
+          341.943359375,
+          243.59619140625
+        ],
+        [
+          341.943359375,
+          263.33056640625
+        ],
+        [
+          59.3671875,
+          263.33056640625
+        ]
+      ]
+    },
+    {
+      "title": "General",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.222412109375,
+          296.837890625
+        ],
+        [
+          107.966796875,
+          296.837890625
+        ],
+        [
+          107.966796875,
+          311.638671875
+        ],
+        [
+          61.222412109375,
+          311.638671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Panic Button_816798904554371303"
+}

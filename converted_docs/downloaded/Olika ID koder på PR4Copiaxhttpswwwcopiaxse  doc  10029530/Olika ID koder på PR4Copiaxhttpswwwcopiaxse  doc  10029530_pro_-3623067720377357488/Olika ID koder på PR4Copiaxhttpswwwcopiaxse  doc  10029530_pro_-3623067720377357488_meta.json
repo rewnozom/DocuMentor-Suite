@@ -1,0 +1,88 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Olika ID koder p\u00e5 PR4",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          363.421875,
+          67.7855224609375
+        ],
+        [
+          558.3935546875,
+          67.7855224609375
+        ],
+        [
+          558.3935546875,
+          89.9866943359375
+        ],
+        [
+          363.421875,
+          89.9866943359375
+        ]
+      ]
+    },
+    {
+      "title": "Ber\u00f6ringsfri Bricka PR4",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.4724006652832,
+          174.011962890625
+        ],
+        [
+          240.992431640625,
+          174.011962890625
+        ],
+        [
+          240.992431640625,
+          192.78778076171875
+        ],
+        [
+          57.4724006652832,
+          192.78778076171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Olika ID koder p\u00e5 PR4Copiaxhttpswwwcopiaxse  doc  10029530_pro_-3623067720377357488"
+}

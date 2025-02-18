@@ -1,0 +1,444 @@
+{
+  "table_of_contents": [
+    {
+      "title": "IRC551",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          349.21875,
+          77.49853515625
+        ],
+        [
+          445.3725891113281,
+          77.49853515625
+        ],
+        [
+          445.3725891113281,
+          105.352783203125
+        ],
+        [
+          349.21875,
+          105.352783203125
+        ]
+      ]
+    },
+    {
+      "title": "INNEH\u00c5LLSF\u00d6RTECKNING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          97.85400390625,
+          610.12109375
+        ],
+        [
+          285.77734375,
+          610.12109375
+        ],
+        [
+          285.77734375,
+          629.033203125
+        ],
+        [
+          97.85400390625,
+          629.033203125
+        ]
+      ]
+    },
+    {
+      "title": "I. PRODUKTINFORMATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.552734375,
+          59.203125
+        ],
+        [
+          262.86810302734375,
+          59.203125
+        ],
+        [
+          262.86810302734375,
+          76.573486328125
+        ],
+        [
+          69.552734375,
+          76.573486328125
+        ]
+      ]
+    },
+    {
+      "title": "A. ATT T\u00c4NKA P\u00c5 VID INSTALLATIONEN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.09912109375,
+          222.833984375
+        ],
+        [
+          286.94140625,
+          222.833984375
+        ],
+        [
+          286.94140625,
+          236.4013671875
+        ],
+        [
+          72.09912109375,
+          236.4013671875
+        ]
+      ]
+    },
+    {
+      "title": "B. ANVISNINGAR VID INSTALLATION OCH DRIFTS\u00c4TTNING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.880859375,
+          466.6357421875
+        ],
+        [
+          385.595703125,
+          466.6357421875
+        ],
+        [
+          385.595703125,
+          480.6142578125
+        ],
+        [
+          71.880859375,
+          480.6142578125
+        ]
+      ]
+    },
+    {
+      "title": "C. DIP-SWITCHARNAS FUNKTION, SW1",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.462890625,
+          59.4600830078125
+        ],
+        [
+          290.86572265625,
+          59.4600830078125
+        ],
+        [
+          290.86572265625,
+          72.9246826171875
+        ],
+        [
+          72.462890625,
+          72.9246826171875
+        ]
+      ]
+    },
+    {
+      "title": "D. INFORMATION FR\u00c5N IR-\u00d6GATS LYSDIODER",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.95361328125,
+          260.86376953125
+        ],
+        [
+          320.990234375,
+          260.86376953125
+        ],
+        [
+          320.990234375,
+          274.02001953125
+        ],
+        [
+          71.95361328125,
+          274.02001953125
+        ]
+      ]
+    },
+    {
+      "title": "E. TEKNISK SPECIFIKATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.53564453125,
+          437.0341796875
+        ],
+        [
+          227.865234375,
+          437.0341796875
+        ],
+        [
+          227.865234375,
+          450.1904296875
+        ],
+        [
+          72.53564453125,
+          450.1904296875
+        ]
+      ]
+    },
+    {
+      "title": "II. KOPPLINGSSCHEMA",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.9892578125,
+          60.128173828125
+        ],
+        [
+          239.95213317871094,
+          60.128173828125
+        ],
+        [
+          239.95213317871094,
+          76.162353515625
+        ],
+        [
+          69.9892578125,
+          76.162353515625
+        ]
+      ]
+    },
+    {
+      "title": "A. INSTALLATION MOT BEFINTLIGT KODL\u00c5S ELLER PORTTELEFON",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.58984375,
+          88.8560791015625
+        ],
+        [
+          419.64453125,
+          88.8560791015625
+        ],
+        [
+          419.64453125,
+          102.4234619140625
+        ],
+        [
+          71.58984375,
+          102.4234619140625
+        ]
+      ]
+    },
+    {
+      "title": "B. INSTALLATION MOT ELSLUTBLECK",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          73.3359375,
+          414.62744140625
+        ],
+        [
+          269.48046875,
+          414.62744140625
+        ],
+        [
+          269.48046875,
+          427.9892578125
+        ],
+        [
+          73.3359375,
+          427.9892578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "TableCell",
+          47
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\IRC551copiaxsehttpscopiaxse  images  doc  50019365_Man_-2846803348662973176"
+}

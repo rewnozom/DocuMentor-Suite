@@ -1,0 +1,72 @@
+## Produktblad
+
+![](_page_0_Picture_1.jpeg)
+
+# DP721RT
+
+Kombinerad optisk rök- och värmedetektor med växlande relä
+
+### DP721RT
+
+DP721RT är en kombinerad optisk rök- och värmedetektor med växlande relä avsedd för anslutning till konventionella centralapparater som till exempel UTC Fire & Securitys 1Xserie. Detektorn uppfyller kraven enligt EN54.
+
+#### Unik mätkammare
+
+DP721RT arbetar efter principen med reflekterat ljus och den patenterade mätkammaren ger en säker detektering även i ett tidigt stadium av ett brandförlopp. En gång per dygn sker en fullständig egentest av elektronik och mätkammare. Vid fel tänds en gul lysdiod på detektorn och det behövs ej någon speciell testutrustning.
+
+#### Kompensering
+
+Förändringar av detektorns känslighet förorsakad av till exempel nedsmutsning kompenseras automatiskt. På så sätt bibehålles den känslighet som ursprungligen kalibrerats enligt specifikationen i EN54 och risken för obefogade larm minimeras.
+
+#### Servicevänlig
+
+Tack vare att mätkammaren är lätt utbytbar kan service och underhåll effektiviseras. Detektorns status och behov av rengöring kan kontrolleras med hjälp av den inbyggda testfunktionen. För vissa av UTC Fire & Securitys centralapparater sker även en automatisk felindikering.
+
+![](_page_0_Picture_12.jpeg)
+
+#### Standardprestanda
+
+- EAutomatisk egendiagnostik
+- ETest på plats utan extra mätutrustning
+- EOptisk sensor med kammare som kan bytas på plats och lämnas för återvinning (miljövänlig)
+- ESeparata lysdioder för brand och fel
+- EKan matas med 12-24 VDC
+- EInte polaritetskänslig
+- EFlera detektortyper – optisk, värme och kombinerad optisk/ värme
+- EHög immunitet mot falsklarm
+- EGodkänd enligt EN54 och CPR-certifierad
+
+# DP721RT
+
+Kombinerad optisk rök- och värmedetektor med växlande relä
+
+### Tekniska data
+
+| Drivspänning               | 8,5-33 VDC                      |
+|----------------------------|---------------------------------|
+| Strömförbrukning           |                                 |
+| I vila vid 24 V            | 100 µA max                      |
+| Vid larm vid 24 V          | 60 mA                           |
+| Larmindikering             | Vit lysdiod (röd vid larm)      |
+| Felindikering              | Gul lysdiod                     |
+| Utgång för fjärrindikering | 30 mA                           |
+| Reläkontakt, data          | 2 A vid 30 VDC, 1 A vid 120 VAC |
+| Luftfuktighet              | 0-95 %, icke kondenserande      |
+| IP-klass                   | IP43                            |
+| Specifikation, värme       |                                 |
+| Max                        | 57 °C +/- 1,5 °C                |
+| Differential               | 8°/min och >40 °C               |
+| Mått                       | Ø 10 cm, H = 5 cm               |
+| Temperaturområde           | -10 °C till +60 °C              |
+
+| Order data    |                                                                                     |
+|---------------|-------------------------------------------------------------------------------------|
+| Artikelnummer | Beskrivning                                                                         |
+| DP721RT       | Kombinerad optisk rök- och värmedetektor med växlande relä                          |
+| DP721I        | Optisk rökdetektor med indikeringsutgång                                            |
+| DP721R        | Optisk rökdetektor med växlande reläutgång                                          |
+| DP721RTA      | Kombinerad optisk rök- och värmedetektor växlande reläutgång<br>& autoåterställning |
+| DB702         | Sockel för detektorer i 700-serien                                                  |
+| 211           | Sats om 10 optiska rökkammare för utbyte                                            |
+
+![](_page_1_Picture_5.jpeg)

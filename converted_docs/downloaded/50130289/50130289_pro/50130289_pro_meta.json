@@ -1,0 +1,185 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SP200T, SP203",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.83856201171875,
+          58.09002685546875
+        ],
+        [
+          185.9375,
+          58.09002685546875
+        ],
+        [
+          185.9375,
+          83.30181884765625
+        ],
+        [
+          39.83856201171875,
+          83.30181884765625
+        ]
+      ]
+    },
+    {
+      "title": "Inomhussiren",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.2938232421875,
+          98.7890625
+        ],
+        [
+          112.10399627685547,
+          98.7890625
+        ],
+        [
+          112.10399627685547,
+          112.56005859375
+        ],
+        [
+          39.2938232421875,
+          112.56005859375
+        ]
+      ]
+    },
+    {
+      "title": "SP200T, SP203",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          38.63999938964844,
+          58.39874267578125
+        ],
+        [
+          184.48486328125,
+          58.39874267578125
+        ],
+        [
+          184.48486328125,
+          83.30181884765625
+        ],
+        [
+          38.63999938964844,
+          83.30181884765625
+        ]
+      ]
+    },
+    {
+      "title": "Best\u00e4llningsinformation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          16.88690185546875,
+          516.58447265625
+        ],
+        [
+          131.59799194335938,
+          516.58447265625
+        ],
+        [
+          131.59799194335938,
+          527.4850463867188
+        ],
+        [
+          16.88690185546875,
+          527.4850463867188
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\50130289_pro"
+}
