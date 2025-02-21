@@ -1,0 +1,34 @@
+# Vilka fält som ska inkluderas i utskrifter
+include_article_number: true
+include_ean: true
+include_supplier_article: true
+include_technical_requirements: true
+include_conditions: true
+include_certification: true
+include_compatibility_notes: true
+
+# Inställningar för konfidensberäkning
+confidence_multipliers:
+  no_article_number: 0.9
+  conditions: 0.95
+  technical_requirements: 0.98
+  certification: 1.1
+  max_confidence: 1.0
+
+# Rubriker för olika relationstyper (använd RelationType-namnen)
+relation_titles:
+  DIRECT: "Passar till"
+  CONDITIONAL: "Passar till (med villkor)"
+  CERTIFIED: "Certifierad kompatibilitet"
+  REQUIRES: "Kräver"
+  REPLACES: "Ersätter"
+  REPLACED_BY: "Ersätts av"
+  ACCESSORY: "Tillbehör"
+
+# Vilka identifierare som ska användas vid skapande av träningsdata
+training_examples:
+  article_number: true
+  ean: true
+  supplier_article: true
+  product_name: true
+  product_name_confidence_factor: 0.9

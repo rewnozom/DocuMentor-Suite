@@ -1,0 +1,5 @@
+# filter_config.yaml
+input_directory: "./data_with_cutted_tokens/"
+output_directory: "./filtered_trainingdata/"
+exclude_command: "-f"
+log_level: "INFO"

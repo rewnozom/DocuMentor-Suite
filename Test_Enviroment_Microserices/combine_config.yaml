@@ -1,0 +1,6 @@
+# combine_config.yaml
+parquet_files:
+  - "./combined_dedup_ALL.parquet"
+  - "./combined_dedup.parquet"
+output_parquet: "./combined_dedup_final.parquet"
+log_level: "INFO"

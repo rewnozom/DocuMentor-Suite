@@ -1,0 +1,10 @@
+# conversion_config.yaml
+json_input_directory: "./omformaterad_data_klar"
+json_output_directory: "./converted_to_parquet"
+parquet_input_directory: "./parquet_input"
+parquet_output_directory: "./converted_to_json"
+log_level: "INFO"
+
+combine_files: True
+combined_parquet_filename: "combined.parquet"
+log_level: "INFO"

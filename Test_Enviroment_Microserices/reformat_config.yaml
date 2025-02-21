@@ -1,0 +1,4 @@
+# reformat_config.yaml
+input_directory: "./data"
+output_directory: "./omformaterad_data_klar"
+log_level: "INFO"

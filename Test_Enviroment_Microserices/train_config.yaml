@@ -1,0 +1,48 @@
+# -------------------------
+# Träningskonfiguration för Copiax LoRA-modellen
+# -------------------------
+
+# Träningsdata (Parquet-fil som innehåller de sammanslagna och deduplicerade data)
+parquet_dataset_path: "./combined_dedup_final.parquet"
+
+# Output-kataloger
+processed_dataset_path: "processed_dataset"
+output_dir: "./output2"
+compiled_dir: "./output2/compiled"
+
+# Modellinställningar
+max_seq_length: 6666
+load_in_4bit: True
+
+# LoRA-inställningar
+lora:
+  r: 16
+  lora_alpha: 16
+  lora_dropout: 0.05
+  target_modules:
+    - "q_proj"
+    - "k_proj"
+    - "v_proj"
+    - "o_proj"
+    - "gate_proj"
+    - "up_proj"
+    - "down_proj"
+
+# Träningsparametrar
+num_epochs: 33
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 4
+learning_rate: 3e-4
+warmup_ratio: 0.1
+
+# Modellnamn och Hugging Face-repo (ändrat för att inkludera "Copiax")
+output_model_repo: "rewnozom/Copiax_V1a.1"
+
+# Hugging Face-token (använd din egna!)
+hf_token: "xxx"
+
+# Loggningsnivå
+log_level: "INFO"
+
+# Chat-template (styr hur prompts formatteras för träning)
+chat_template: "llama-3.1"
