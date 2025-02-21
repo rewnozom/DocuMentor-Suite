@@ -1,5 +1,0 @@
-![](_page_0_Figure_0.jpeg)
-
-Denna handling får inte kopieras utan vårt skriftliga medgivande och dess innehåll får inte yppas för tredje man och inte heller användas för något obehörigt ändamål.
-
-![](_page_0_Figure_1.jpeg)
