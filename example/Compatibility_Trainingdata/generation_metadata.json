@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-02-19T21:01:35.824806",
+  "source_directory": "converted_docs",
+  "statistics": {
+    "total_files": 3011,
+    "total_relations": 3449,
+    "total_examples": 558,
+    "error_files": 0,
+    "stats": {}
+  }
+}

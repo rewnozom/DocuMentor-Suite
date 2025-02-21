@@ -1,0 +1,1220 @@
+[
+  {
+    "user_input": "-c 50138662",
+    "ai_output": "# Kompatibilitetsinformation för 3. Paketets innehåll\n\n**Artikelnummer:** 50138662  \n",
+    "source": "**3. Paketets innehåll**",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"**3. Paketets innehåll**\"",
+    "ai_output": "# Kompatibilitetsinformation för 3. Paketets innehåll\n\n**Artikelnummer:** 50138663  \n",
+    "source": "**3. Paketets innehåll**",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 50138663",
+    "ai_output": "# Kompatibilitetsinformation för 3. Paketets innehåll\n\n**Artikelnummer:** 50138663  \n",
+    "source": "**3. Paketets innehåll**",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 62368",
+    "ai_output": "# Kompatibilitetsinformation för 2. Installation\n\n**Artikelnummer:** 62368  \n\n### Passar till\n- avbrottsfri strömförsörjning av 8 IP-enheter  \n- löpande drift är den inte utrustad med en strömbrytare och därför måste ett lämpligt överbelastningsskydd tillämpas i strömförsörjningskretsen  \n- oavbruten strömförsörjning av 4 IP-enheter  \n",
+    "source": "**2. Installation**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**2. Installation**\"",
+    "ai_output": "# Kompatibilitetsinformation för 2. Installation\n\n**Artikelnummer:** 62368  \n\n### Passar till\n- avbrottsfri strömförsörjning av 8 IP-enheter  \n- löpande drift är den inte utrustad med en strömbrytare och därför måste ett lämpligt överbelastningsskydd tillämpas i strömförsörjningskretsen  \n- oavbruten strömförsörjning av 4 IP-enheter  \n",
+    "source": "**2. Installation**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50151788",
+    "ai_output": "# Kompatibilitetsinformation för SWITCHENS PARAMETRAR\n\n**Artikelnummer:** 50151788  \n\n### Passar till\n- avbrottsfri strömförsörjning av 8 IP-enheter  \n",
+    "source": "**SWITCHENS PARAMETRAR**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**SWITCHENS PARAMETRAR**\"",
+    "ai_output": "# Kompatibilitetsinformation för SWITCHENS PARAMETRAR\n\n**Artikelnummer:** 50151789  \n\n### Passar till\n- oavbruten strömförsörjning av 4 IP-enheter  \n",
+    "source": "**SWITCHENS PARAMETRAR**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50151789",
+    "ai_output": "# Kompatibilitetsinformation för SWITCHENS PARAMETRAR\n\n**Artikelnummer:** 50151789  \n\n### Passar till\n- oavbruten strömförsörjning av 4 IP-enheter  \n",
+    "source": "**SWITCHENS PARAMETRAR**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 01000",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 01000\n\n**Artikelnummer:** 01000  \n\n### Passar till\n- NEO Serien  eller NOVA Serien  \n",
+    "source": "Produkt 01000",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50131",
+    "ai_output": "# Kompatibilitetsinformation för Sensor Data Fusion\n\n**Artikelnummer:** 50131  \n\n### Passar till\n- inbrottslarmsanäggningar  \n- sabotagesektion  \n",
+    "source": "Om Redundancy Panel 1HE",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Om Redundancy Panel 1HE\"",
+    "ai_output": "# Kompatibilitetsinformation för Sensor Data Fusion\n\n**Artikelnummer:** 50131  \n\n### Passar till\n- inbrottslarmsanäggningar  \n- sabotagesektion  \n",
+    "source": "Om Redundancy Panel 1HE",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 12101",
+    "ai_output": "# Kompatibilitetsinformation för Test av avbrottsfri strömförsörjning\n\n**Artikelnummer:** 12101  \n",
+    "source": "Test av avbrottsfri strömförsörjning",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"Test av avbrottsfri strömförsörjning\"",
+    "ai_output": "# Kompatibilitetsinformation för Test av avbrottsfri strömförsörjning\n\n**Artikelnummer:** 12101  \n",
+    "source": "Test av avbrottsfri strömförsörjning",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 60950",
+    "ai_output": "# Kompatibilitetsinformation för 1 Symbolernas betydelse\n\n**Artikelnummer:** 60950  \n\n### Passar till\n- COMM1 på SPCP355 Smart<br>PSU , ström- och dataanslutning, med en direktkabel  \n- X-bussen  flyttas den tilldelade sektionen från tvådörrscentralen till nästa lediga sektionsnummer  \n- X-bussen , flyttas den tilldelade sektionen från tvådörrscentralen till nästa lediga sektionsnummer  \n- bygeln för användning av 17 Ah-batteri och ta bort för 7 Ah<br>batteri  \n- denna 2-stiftsanslutning via en<br>transformator som finns i SPC inkapsling  \n- dessa<br>godkända centraler  \n- en dator via en standard USB-kabel typ A eller typ B  \n- n korrekt i hålen på uttaget och tryck det på plats försiktigt men säkert  \n- punkt 32, ström- och<br>dataanslutning enligt bilden ovan, med en direktkabel  \n- standardprotokollet för SMS-telefoner  \n",
+    "source": "BS-Medium 24V",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c \"BS-Medium 24V\"",
+    "ai_output": "# Kompatibilitetsinformation för 1 Symbolernas betydelse\n\n**Artikelnummer:** 60950  \n\n### Passar till\n- COMM1 på SPCP355 Smart<br>PSU , ström- och dataanslutning, med en direktkabel  \n- X-bussen  flyttas den tilldelade sektionen från tvådörrscentralen till nästa lediga sektionsnummer  \n- X-bussen , flyttas den tilldelade sektionen från tvådörrscentralen till nästa lediga sektionsnummer  \n- bygeln för användning av 17 Ah-batteri och ta bort för 7 Ah<br>batteri  \n- denna 2-stiftsanslutning via en<br>transformator som finns i SPC inkapsling  \n- dessa<br>godkända centraler  \n- en dator via en standard USB-kabel typ A eller typ B  \n- n korrekt i hålen på uttaget och tryck det på plats försiktigt men säkert  \n- punkt 32, ström- och<br>dataanslutning enligt bilden ovan, med en direktkabel  \n- standardprotokollet för SMS-telefoner  \n",
+    "source": "BS-Medium 24V",
+    "confidence": 0.9
+  },
+  {
+    "user_input": "-c 15684",
+    "ai_output": "# Kompatibilitetsinformation för IT-struktur i R-CARD M5\n\n**Artikelnummer:** 15684  \n\n### Passar till\n- AirKey-cylindern även för befintliga dörrar i kulturminnesmärkta byggnader  \n- Microsoft SQL Server 2012 och senare  \n- aktivering av motordrivna lås  \n- alla typer av dörrar, kulturmärkta byggnader och dörrar med metallkarm  \n- alla typer av nödutgångar med patenterad funktion för återställning av låsfuntionen  \n- alla vanliga\n- dörrbladstjocklekar  › Monteringsvideor och\n- monteringsanvisningar finns att tillgå\n\n(_page_52_Picture_21  \n- alla vanliga\n- dörrbladstjocklekar  › Monteringsvideor och\n- monteringsanvisningar finns att tillgå\n(_page_52_Picture_21  \n- användning både inom- och utomhus  \n- att styra andra maskiner än Electrolux samt annan typ av utrustning där man vill förhindra att utrustningen kan nyttjas utan aktiverat pass  \n- branddörrar  \n- de tuffaste väderförhållandena  \n- dörrar enligt<br>EN 179/1125 )  <br>SKG  \n- dörrar med skandinaviska lås på insidan  \n- dörrar med skandinaviska lås på utsidan  \n- funktion och grafiskt gränssnitt beroende på användare som hanterar larmet  \n- för aktivering av motordrivna lås  \n- för användning både inom- och utomhus  \n- för branddörrar  \n- för installation i  \n- för installation i branddörrar  \n- för installation i manöverskåp  \n- för installation i nyckelbrytare  \n- för installation i nyckelfacksrör  \n- för installation i<br>branddörrar  \n- för montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765, 410 eller DORMA 912,919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- för montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\n\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- för montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- hänglåset för användning inom- och utomhus, och är skyddat mot vatten och damm  \n- ingång för dörravkänning på DB-50  \n- ingång för dörrövervakning på DIO-5084  \n- ingång på centralapparat eller anslutningsenhet för det externa larmsystemet  \n- installation i  \n- installation i branddörrar  \n- installation i manöverskåp  \n- installation i nyckelbrytare  \n- installation i nyckelfacksrör  \n- installation i<br>branddörrar  \n- kulturhistoriskt värdefulla dörrar där endast cylinderna kan bytas ut av bevarandeskäl  \n- ledig ingång på DIO:n som \"Dörravkänning\"  \n- ledig ingång på en DIO-5084 som \"Låskolvsläge olåst\"  \n- montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765, 410 eller DORMA 912,919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\n\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- nner- och ytterdörrar med höga säkerhetskrav som  \n- nner- och ytterdörrar med höga säkerhetskrav som<br>utsätts för tuffa väderförhållanden  \n- nner- och ytterdörrar med höga<br>säkerhetskrav som utsätts för tuffa<br>väderförhållanden  \n- nnerdörrar med höga säkerhetskrav<br>som utsätts för tuffa väderförhållanden  \n- nstallation i branddörrar  \n- olika dörrmiljöer, till exempel garagedörrar  \n- styrenheten   4 mm tjock glaspanel  <br>Händelselogg   Integrerat EAL5+-certifierat säkerhetselement  <br>ECDSA- och AES-kryptering  \n- säkerhetsområden  \n- utmärkt för alla typer av dörrar, kulturmärkta byggnader och dörrar med metallkarm  \n- utmärkt för dörrar som avgränsar två områden  \n- utomhus\n- › Passar alla konventionella lås\n- › Passar flerpunktslås\n- › Drivs med vanliga CR2 batterier\n- › 90 minuters brandskydd\n- › ECDSA- och AES-kryptering för säker anslutning mellan komponenter\n\n(_page_52_Picture_9  \n- utomhus\n- › Passar alla konventionella lås\n- › Passar flerpunktslås\n- › Drivs med vanliga CR2 batterier\n- › 90 minuters brandskydd\n- › ECDSA- och AES-kryptering för säker anslutning mellan komponenter\n(_page_52_Picture_9  \n- vanliga inner- och ytterdörrar med modullåshus av nordisk standard och behöver varken DB eller annan elektronik för att ansluta till undercentral UC-50  \n- ytterdörrar med höga säkerhetskrav som<br>utsätts för tuffa väderförhållanden  \n- ytterdörrar med höga säkerhetskrav<br>som utsätts för tuffa väderförhållanden  \n",
+    "source": "**IT-struktur i R-CARD M5**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**IT-struktur i R-CARD M5**\"",
+    "ai_output": "# Kompatibilitetsinformation för IT-struktur i R-CARD M5\n\n**Artikelnummer:** 15684  \n\n### Passar till\n- AirKey-cylindern även för befintliga dörrar i kulturminnesmärkta byggnader  \n- Microsoft SQL Server 2012 och senare  \n- aktivering av motordrivna lås  \n- alla typer av dörrar, kulturmärkta byggnader och dörrar med metallkarm  \n- alla typer av nödutgångar med patenterad funktion för återställning av låsfuntionen  \n- alla vanliga\n- dörrbladstjocklekar  › Monteringsvideor och\n- monteringsanvisningar finns att tillgå\n\n(_page_52_Picture_21  \n- alla vanliga\n- dörrbladstjocklekar  › Monteringsvideor och\n- monteringsanvisningar finns att tillgå\n(_page_52_Picture_21  \n- användning både inom- och utomhus  \n- att styra andra maskiner än Electrolux samt annan typ av utrustning där man vill förhindra att utrustningen kan nyttjas utan aktiverat pass  \n- branddörrar  \n- de tuffaste väderförhållandena  \n- dörrar enligt<br>EN 179/1125 )  <br>SKG  \n- dörrar med skandinaviska lås på insidan  \n- dörrar med skandinaviska lås på utsidan  \n- funktion och grafiskt gränssnitt beroende på användare som hanterar larmet  \n- för aktivering av motordrivna lås  \n- för användning både inom- och utomhus  \n- för branddörrar  \n- för installation i  \n- för installation i branddörrar  \n- för installation i manöverskåp  \n- för installation i nyckelbrytare  \n- för installation i nyckelfacksrör  \n- för installation i<br>branddörrar  \n- för montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765, 410 eller DORMA 912,919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- för montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\n\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- för montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- hänglåset för användning inom- och utomhus, och är skyddat mot vatten och damm  \n- ingång för dörravkänning på DB-50  \n- ingång för dörrövervakning på DIO-5084  \n- ingång på centralapparat eller anslutningsenhet för det externa larmsystemet  \n- installation i  \n- installation i branddörrar  \n- installation i manöverskåp  \n- installation i nyckelbrytare  \n- installation i nyckelfacksrör  \n- installation i<br>branddörrar  \n- kulturhistoriskt värdefulla dörrar där endast cylinderna kan bytas ut av bevarandeskäl  \n- ledig ingång på DIO:n som \"Dörravkänning\"  \n- ledig ingång på en DIO-5084 som \"Låskolvsläge olåst\"  \n- montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765, 410 eller DORMA 912,919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\n\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765, 410 eller DORMA 912\noch behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50  \n- nner- och ytterdörrar med höga säkerhetskrav som  \n- nner- och ytterdörrar med höga säkerhetskrav som<br>utsätts för tuffa väderförhållanden  \n- nner- och ytterdörrar med höga<br>säkerhetskrav som utsätts för tuffa<br>väderförhållanden  \n- nnerdörrar med höga säkerhetskrav<br>som utsätts för tuffa väderförhållanden  \n- nstallation i branddörrar  \n- olika dörrmiljöer, till exempel garagedörrar  \n- styrenheten   4 mm tjock glaspanel  <br>Händelselogg   Integrerat EAL5+-certifierat säkerhetselement  <br>ECDSA- och AES-kryptering  \n- säkerhetsområden  \n- utmärkt för alla typer av dörrar, kulturmärkta byggnader och dörrar med metallkarm  \n- utmärkt för dörrar som avgränsar två områden  \n- utomhus\n- › Passar alla konventionella lås\n- › Passar flerpunktslås\n- › Drivs med vanliga CR2 batterier\n- › 90 minuters brandskydd\n- › ECDSA- och AES-kryptering för säker anslutning mellan komponenter\n\n(_page_52_Picture_9  \n- utomhus\n- › Passar alla konventionella lås\n- › Passar flerpunktslås\n- › Drivs med vanliga CR2 batterier\n- › 90 minuters brandskydd\n- › ECDSA- och AES-kryptering för säker anslutning mellan komponenter\n(_page_52_Picture_9  \n- vanliga inner- och ytterdörrar med modullåshus av nordisk standard och behöver varken DB eller annan elektronik för att ansluta till undercentral UC-50  \n- ytterdörrar med höga säkerhetskrav som<br>utsätts för tuffa väderförhållanden  \n- ytterdörrar med höga säkerhetskrav<br>som utsätts för tuffa väderförhållanden  \n",
+    "source": "**IT-struktur i R-CARD M5**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 52230",
+    "ai_output": "# Kompatibilitetsinformation för 3.2 Synlig indikation av switchens drift (se Tabell 8).\n\n**Artikelnummer:** 52230  \n\n### Passar till\n- löpande drift är den inte utrustad med en strömbrytare och därför måste ett lämpligt överbelastningsskydd tillämpas i strömförsörjningskretsen  \n- oavbruten strömförsörjning av 4 IP-enheter  \n",
+    "source": "**3.2 Synlig indikation av switchens drift (se Tabell 8).**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**3.2 Synlig indikation av switchens drift (se Tabell 8).**\"",
+    "ai_output": "# Kompatibilitetsinformation för 3.2 Synlig indikation av switchens drift (se Tabell 8).\n\n**Artikelnummer:** 52230  \n\n### Passar till\n- löpande drift är den inte utrustad med en strömbrytare och därför måste ett lämpligt överbelastningsskydd tillämpas i strömförsörjningskretsen  \n- oavbruten strömförsörjning av 4 IP-enheter  \n",
+    "source": "**3.2 Synlig indikation av switchens drift (se Tabell 8).**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 3004850",
+    "ai_output": "# Kompatibilitetsinformation för Tabell1. (Se bild. 2)\n\n**Artikelnummer:** 3004850  \n\n### Passar till\n- avbrottsfri strömförsörjning av 8 IP-enheter  \n- löpande drift är den inte utrustad med en strömbrytare och därför måste ett lämpligt överbelastningsskydd tillämpas i strömförsörjningskretsen  \n",
+    "source": "**Tabell1. (Se bild. 2)**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Tabell1. (Se bild. 2)**\"",
+    "ai_output": "# Kompatibilitetsinformation för Tabell1. (Se bild. 2)\n\n**Artikelnummer:** 3004850  \n\n### Passar till\n- avbrottsfri strömförsörjning av 8 IP-enheter  \n- löpande drift är den inte utrustad med en strömbrytare och därför måste ett lämpligt överbelastningsskydd tillämpas i strömförsörjningskretsen  \n",
+    "source": "**Tabell1. (Se bild. 2)**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 002404",
+    "ai_output": "# Kompatibilitetsinformation för Fire Module 4 Outputs\n\n**Artikelnummer:** 002404  \n\n### Passar till\n- enheten innan montering sker  \n- kortet i<br>samtliga batteribackuper FLX S, FLX M<br>och FLX L samt för 19 rack DIN module<br>holder, se nedan  \n- med enheten innan montering sker  \n- mekanisk är det inte säkert att det stödjs elektriskt  \n- plint P3 + och P4 -  \n- även i  \n",
+    "source": "Fire Module 4 Outputs",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Fire Module 4 Outputs\"",
+    "ai_output": "# Kompatibilitetsinformation för Fire Module 4 Outputs\n\n**Artikelnummer:** 002404  \n\n### Passar till\n- enheten innan montering sker  \n- kortet i<br>samtliga batteribackuper FLX S, FLX M<br>och FLX L samt för 19 rack DIN module<br>holder, se nedan  \n- med enheten innan montering sker  \n- mekanisk är det inte säkert att det stödjs elektriskt  \n- plint P3 + och P4 -  \n- även i  \n",
+    "source": "Fire Module 4 Outputs",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 10024",
+    "ai_output": "# Kompatibilitetsinformation för NEO FLX M Display\n\n**Artikelnummer:** 10024  \n\n### Passar till\n- både AGM-batterier och litium LiFePO4-batterier  \n",
+    "source": "NEO FLX M Display",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"NEO FLX M Display\"",
+    "ai_output": "# Kompatibilitetsinformation för NEO FLX M Display\n\n**Artikelnummer:** 10024  \n\n### Passar till\n- både AGM-batterier och litium LiFePO4-batterier  \n",
+    "source": "NEO FLX M Display",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 5172451",
+    "ai_output": "# Kompatibilitetsinformation för Ungefärliga batteritider\n\n**Artikelnummer:** 5172451  \n\n### Passar till\n- PoE-switchens batterianslutning \n# Ungefärliga batteritider\nEn dörrmiljö med läsarterminal med inaktivt elektriskt lås motsvarar normalt en last på mindre än 6W  \n- batterianslutningen, koppla batterierna i serie med medföljande kablage  \n",
+    "source": "Ungefärliga batteritider",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Ungefärliga batteritider\"",
+    "ai_output": "# Kompatibilitetsinformation för Ungefärliga batteritider\n\n**Artikelnummer:** 5172451  \n\n### Passar till\n- PoE-switchens batterianslutning \n# Ungefärliga batteritider\nEn dörrmiljö med läsarterminal med inaktivt elektriskt lås motsvarar normalt en last på mindre än 6W  \n- batterianslutningen, koppla batterierna i serie med medföljande kablage  \n",
+    "source": "Ungefärliga batteritider",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 001001",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 001001\n\n**Artikelnummer:** 001001  \n\n### Passar till\n- PoE-switchens batterianslutning \n\n# Ungefärliga batteritider\n\nEn dörrmiljö med läsarterminal med inaktivt elektriskt lås motsvarar normalt en last på mindre än 6W  \n- batterianslutningen, koppla batterierna i serie med medföljande kablage  \n",
+    "source": "Produkt 001001",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 61000",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 61000\n\n**Artikelnummer:** 61000  \n",
+    "source": "Produkt 61000",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 62040",
+    "ai_output": "# Kompatibilitetsinformation för SINUS UPS\n\n**Artikelnummer:** 62040  \n\n### Passar till\n- NÖDLJUSSTYRNING\n\nTändfas saknas  \n- NÖDLJUSSTYRNING\nTändfas saknas  \n- fast installation  \n",
+    "source": "SINUS UPS",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"SINUS UPS\"",
+    "ai_output": "# Kompatibilitetsinformation för SINUS UPS\n\n**Artikelnummer:** 62040  \n\n### Passar till\n- NÖDLJUSSTYRNING\n\nTändfas saknas  \n- NÖDLJUSSTYRNING\nTändfas saknas  \n- fast installation  \n",
+    "source": "SINUS UPS",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50464773",
+    "ai_output": "# Kompatibilitetsinformation för 7. ANSLUT TILL PRO3-KORT\n\n**Artikelnummer:** 50464773  \n\n### Passar till\n- alla enheter i produktserien  \n",
+    "source": "7. ANSLUT TILL PRO3-KORT",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"7. ANSLUT TILL PRO3-KORT\"",
+    "ai_output": "# Kompatibilitetsinformation för 7. ANSLUT TILL PRO3-KORT\n\n**Artikelnummer:** 50464774  \n\n### Passar till\n- alla enheter i produktserien  \n",
+    "source": "7. ANSLUT TILL PRO3-KORT",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50464774",
+    "ai_output": "# Kompatibilitetsinformation för 7. ANSLUT TILL PRO3-KORT\n\n**Artikelnummer:** 50464774  \n\n### Passar till\n- alla enheter i produktserien  \n",
+    "source": "7. ANSLUT TILL PRO3-KORT",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50464883",
+    "ai_output": "# Kompatibilitetsinformation för SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER\n\n**Artikelnummer:** 50464883  \n",
+    "source": "SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER\"",
+    "ai_output": "# Kompatibilitetsinformation för SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER\n\n**Artikelnummer:** 50464884  \n",
+    "source": "SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 50464884",
+    "ai_output": "# Kompatibilitetsinformation för SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER\n\n**Artikelnummer:** 50464884  \n",
+    "source": "SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 161207",
+    "ai_output": "# Kompatibilitetsinformation för USERMANUAL\n\n**Artikelnummer:** 161207  \n\n### Passar till\n- att släcka bränder i exempelvis datarum, elektriska installationer, storkök etc  \n- ditt bruksområde enligt informationen på brandsläckarens etikett  \n- släckning av bränder i olika material såsom brandfarliga vätskor och kemikalier  \n- till ditt bruksområde enligt informationen på brandsläckarens etikett  \n",
+    "source": "USERMANUAL",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"USERMANUAL\"",
+    "ai_output": "# Kompatibilitetsinformation för USERMANUAL\n\n**Artikelnummer:** 161207  \n\n### Passar till\n- att släcka bränder i exempelvis datarum, elektriska installationer, storkök etc  \n- ditt bruksområde enligt informationen på brandsläckarens etikett  \n- släckning av bränder i olika material såsom brandfarliga vätskor och kemikalier  \n- till ditt bruksområde enligt informationen på brandsläckarens etikett  \n",
+    "source": "USERMANUAL",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 14406",
+    "ai_output": "# Kompatibilitetsinformation för HANDLING VED BRUK AV BRANNSLOKKEREN\n\n**Artikelnummer:** 14406  \n\n### Passar till\n- ditt bruksområde enligt informationen på brandsläckarens etikett  \n- till ditt bruksområde enligt informationen på brandsläckarens etikett  \n",
+    "source": "HANDLING VED BRUK AV BRANNSLOKKEREN",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"HANDLING VED BRUK AV BRANNSLOKKEREN\"",
+    "ai_output": "# Kompatibilitetsinformation för HANDLING VED BRUK AV BRANNSLOKKEREN\n\n**Artikelnummer:** 14406  \n\n### Passar till\n- ditt bruksområde enligt informationen på brandsläckarens etikett  \n- till ditt bruksområde enligt informationen på brandsläckarens etikett  \n",
+    "source": "HANDLING VED BRUK AV BRANNSLOKKEREN",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 210705",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 210705\n\n**Artikelnummer:** 210705  \n\n### Passar till\n- ditt bruksområde enligt informationen på brandsläckarens etikett  \n- till ditt bruksområde enligt informationen på brandsläckarens etikett  \n",
+    "source": "Produkt 210705",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 817121",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 817121\n\n**Artikelnummer:** 817121  \n",
+    "source": "Produkt 817121",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 40040",
+    "ai_output": "# Kompatibilitetsinformation för 2. ANVÄNDNINGSOMRÅDE\n\n**Artikelnummer:** 40040  \n\n### Passar till\n- en matningsspänning och har en reläutgång som ansluts till larmslingan på vanligt sätt  \n- ett och samma interface  \n- valfri centralapparat  \n",
+    "source": "**2. ANVÄNDNINGSOMRÅDE**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**2. ANVÄNDNINGSOMRÅDE**\"",
+    "ai_output": "# Kompatibilitetsinformation för 2. ANVÄNDNINGSOMRÅDE\n\n**Artikelnummer:** 40040  \n\n### Passar till\n- en matningsspänning och har en reläutgång som ansluts till larmslingan på vanligt sätt  \n- ett och samma interface  \n- valfri centralapparat  \n",
+    "source": "**2. ANVÄNDNINGSOMRÅDE**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 168434",
+    "ai_output": "# Kompatibilitetsinformation för Säkerhetsdatablad enligt rådets förordning (EG) nr 1907/2006\n\n**Artikelnummer:** 168434  \n",
+    "source": "**Säkerhetsdatablad enligt rådets förordning (EG) nr 1907/2006**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Säkerhetsdatablad enligt rådets förordning (EG) nr 1907/2006**\"",
+    "ai_output": "# Kompatibilitetsinformation för Säkerhetsdatablad enligt rådets förordning (EG) nr 1907/2006\n\n**Artikelnummer:** 168434  \n",
+    "source": "**Säkerhetsdatablad enligt rådets förordning (EG) nr 1907/2006**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 1647200",
+    "ai_output": "# Kompatibilitetsinformation för LIMSATS GDK 100 (E-NR 1647200)\n\n**Artikelnummer:** 1647200  \n",
+    "source": "**LIMSATS GDK 100 (E-NR 1647200)**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**LIMSATS GDK 100 (E-NR 1647200)**\"",
+    "ai_output": "# Kompatibilitetsinformation för LIMSATS GDK 100 (E-NR 1647200)\n\n**Artikelnummer:** 1647200  \n",
+    "source": "**LIMSATS GDK 100 (E-NR 1647200)**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50025666",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50025666\n\n**Artikelnummer:** 50025666  \n\n### Passar till\n- all inredning  \n- alla miljöer och användare\n\n1X-systemets mångsidighet gynnar fastighetsägare och installatörer  \n- alla miljöer och användare\n1X-systemets mångsidighet gynnar fastighetsägare och installatörer  \n- med all inredning  \n",
+    "source": "Produkt 50025666",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 28010",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 28010\n\n**Artikelnummer:** 28010  \n\n### Passar till\n- att övervaka två sektioner som du ansluter med normalt öppna eller normalt slutna kontakter  \n- kompatibla multiplexsystem, använder två multiplex sektionsadresser och övervakar upp till två separata sektioner  \n",
+    "source": "Produkt 28010",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 0000281",
+    "ai_output": "# Kompatibilitetsinformation för Ett dokumenterat tryggt val\n\n**Artikelnummer:** 0000281  \n\n### Passar till\n- dormakabas paniksortiment PHA och PHB\n- Passar till dormkaba nödutrymningsplatta Exit pad\n- Montering av PHM påverkar inte Exit pad / PHA / PHBs certifiering  \n- en-, två- och trepunktslåsning\n- Passar till dormakabas paniksortiment PHA och PHB\n- Passar till dormkaba nödutrymningsplatta Exit pad\n- Montering av PHM påverkar inte Exit pad / PHA / PHBs certifiering  \n- till dormakabas paniksortiment PHA och PHB\n- Passar till dormkaba nödutrymningsplatta Exit pad\n- Montering av PHM påverkar inte Exit pad / PHA / PHBs certifiering  \n",
+    "source": "Ett dokumenterat tryggt val",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Ett dokumenterat tryggt val\"",
+    "ai_output": "# Kompatibilitetsinformation för Ett dokumenterat tryggt val\n\n**Artikelnummer:** 0000281  \n\n### Passar till\n- dormakabas paniksortiment PHA och PHB\n- Passar till dormkaba nödutrymningsplatta Exit pad\n- Montering av PHM påverkar inte Exit pad / PHA / PHBs certifiering  \n- en-, två- och trepunktslåsning\n- Passar till dormakabas paniksortiment PHA och PHB\n- Passar till dormkaba nödutrymningsplatta Exit pad\n- Montering av PHM påverkar inte Exit pad / PHA / PHBs certifiering  \n- till dormakabas paniksortiment PHA och PHB\n- Passar till dormkaba nödutrymningsplatta Exit pad\n- Montering av PHM påverkar inte Exit pad / PHA / PHBs certifiering  \n",
+    "source": "Ett dokumenterat tryggt val",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 415006",
+    "ai_output": "# Kompatibilitetsinformation för 1X-F-serien installationsmanualen\n\n**Artikelnummer:** 415006  \n\n### Passar till\n- 110 V och 60 Hz eller 240 V och 50 Hz  \n- att konfigurera kontrollpaneler att upprepa status för kontrollpaneler i nätverket med sektions-LED  \n- att snabbt kunna konfigurera installationsalternativ som täcker de flesta applikationerna  \n- installatörer för konfiguration av väldigt specifika applikationer där alla avancerade funktioner som finns tillgängliga på kontrollpanelen erfordras  \n",
+    "source": "1X-F-serien installationsmanualen",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"1X-F-serien installationsmanualen\"",
+    "ai_output": "# Kompatibilitetsinformation för 1X-F-serien installationsmanualen\n\n**Artikelnummer:** 415006  \n\n### Passar till\n- 110 V och 60 Hz eller 240 V och 50 Hz  \n- att konfigurera kontrollpaneler att upprepa status för kontrollpaneler i nätverket med sektions-LED  \n- att snabbt kunna konfigurera installationsalternativ som täcker de flesta applikationerna  \n- installatörer för konfiguration av väldigt specifika applikationer där alla avancerade funktioner som finns tillgängliga på kontrollpanelen erfordras  \n",
+    "source": "1X-F-serien installationsmanualen",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 429200",
+    "ai_output": "# Kompatibilitetsinformation för *1.1 Nyheter och förbättringar*\n\n**Artikelnummer:** 429200  \n\n### Passar till\n- Control Medi  \n- Control Medi26  \n- uttaget på sidan av Control Medi  \n- uttaget på sidan av Control Medi Multi  \n",
+    "source": "*1.1 Nyheter och förbättringar*",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"*1.1 Nyheter och förbättringar*\"",
+    "ai_output": "# Kompatibilitetsinformation för *1.1 Nyheter och förbättringar*\n\n**Artikelnummer:** 429200  \n\n### Passar till\n- Control Medi  \n- Control Medi26  \n- uttaget på sidan av Control Medi  \n- uttaget på sidan av Control Medi Multi  \n",
+    "source": "*1.1 Nyheter och förbättringar*",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50026456",
+    "ai_output": "# Kompatibilitetsinformation för ASSA LCU9101\n\n**Artikelnummer:** 50026456  \n",
+    "source": "ASSA LCU9101",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"ASSA LCU9101\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA LCU9101\n\n**Artikelnummer:** 50026456  \n",
+    "source": "ASSA LCU9101",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 6332877",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 6332877\n\n**Artikelnummer:** 6332877  \n\n### Passar till\n- de flesta typer av säkerhetsinstallationer  \n- drar reläet  \n- till de flesta typer av säkerhetsinstallationer  \n",
+    "source": "Produkt 6332877",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50090682",
+    "ai_output": "# Kompatibilitetsinformation för Passiv IR-detektor BRAVO 6\n\n**Artikelnummer:** 50090682  \n\n### Passar till\n- detektorn tänds lysdioden och indikerar att uppvärmning pågår  \n",
+    "source": "Passiv IR-detektor BRAVO 6",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Passiv IR-detektor BRAVO 6\"",
+    "ai_output": "# Kompatibilitetsinformation för Passiv IR-detektor BRAVO 6\n\n**Artikelnummer:** 50090682  \n\n### Passar till\n- detektorn tänds lysdioden och indikerar att uppvärmning pågår  \n",
+    "source": "Passiv IR-detektor BRAVO 6",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 65002",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 65002\n\n**Artikelnummer:** 65002  \n",
+    "source": "Produkt 65002",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 00275",
+    "ai_output": "# Kompatibilitetsinformation för AIRBORNE DC\n\n**Artikelnummer:** 00275  \n\n### Passar till\n- larmsändaren  \n",
+    "source": "AIRBORNE DC",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"AIRBORNE DC\"",
+    "ai_output": "# Kompatibilitetsinformation för AIRBORNE DC\n\n**Artikelnummer:** 00275  \n\n### Passar till\n- larmsändaren  \n",
+    "source": "AIRBORNE DC",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 00293",
+    "ai_output": "# Kompatibilitetsinformation för AIRBORNE DC8\n\n**Artikelnummer:** 00293  \n\n### Passar till\n- huvudkortet  \n- larmsändaren  \n- nya och befintliga anläggningar  \n- till nya och befintliga anläggningar  \n- traditionella telefonuppringare, larmgivare med relä och digitala signaler  \n",
+    "source": "AIRBORNE DC8",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"AIRBORNE DC8\"",
+    "ai_output": "# Kompatibilitetsinformation för AIRBORNE DC8\n\n**Artikelnummer:** 00293  \n\n### Passar till\n- huvudkortet  \n- larmsändaren  \n- nya och befintliga anläggningar  \n- till nya och befintliga anläggningar  \n- traditionella telefonuppringare, larmgivare med relä och digitala signaler  \n",
+    "source": "AIRBORNE DC8",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50091858",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50091858\n\n**Artikelnummer:** 50091858  \n\n### Passar till\n- J8 på antenndelen  \n- bäst  \n- centralen med partvinnad kabel, t  \n- dörr med låscylinder och består av antenndel, läsardel och ellås  \n- montering på dörrbladet  \n",
+    "source": "Produkt 50091858",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 115200",
+    "ai_output": "# Kompatibilitetsinformation för INGÅNGAR OCH UTGÅNGAR\n\n**Artikelnummer:** 115200  \n\n### Passar till\n- 2 dörrar, 4: Avsedd för 4 dörrar, 2+2: 2 porttelefondörrar och 2 läsardörrar  \n- J5 och J6  \n- bokningstavla Boka 1306 eller Boka 1316  \n- den krypterade Aptus485 bussen,så är den bestyckad med ett interface-kort som innehåller anslutning för Aptus485-buss  \n- porttelefon Ringa 1307 eller Ringa 1707  \n",
+    "source": "**INGÅNGAR OCH UTGÅNGAR**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**INGÅNGAR OCH UTGÅNGAR**\"",
+    "ai_output": "# Kompatibilitetsinformation för INGÅNGAR OCH UTGÅNGAR\n\n**Artikelnummer:** 115200  \n\n### Passar till\n- 2 dörrar, 4: Avsedd för 4 dörrar, 2+2: 2 porttelefondörrar och 2 läsardörrar  \n- J5 och J6  \n- bokningstavla Boka 1306 eller Boka 1316  \n- den krypterade Aptus485 bussen,så är den bestyckad med ett interface-kort som innehåller anslutning för Aptus485-buss  \n- porttelefon Ringa 1307 eller Ringa 1707  \n",
+    "source": "**INGÅNGAR OCH UTGÅNGAR**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50091865",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50091865\n\n**Artikelnummer:** 50091865  \n\n### Passar till\n- bakstyckets genomföringshål  \n- centralen med partvinnad kabel  \n- till bakstyckets genomföringshål  \n- utanpåliggande montage  \n",
+    "source": "Produkt 50091865",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50093109",
+    "ai_output": "# Kompatibilitetsinformation för ASSA PCR45\n\n**Artikelnummer:** 50093109  \n\n### Passar till\n- LCU9016, LCU9017\n\n### Övrigt\n\n- Lästeknologi Mifare sektor\n- Har inbyggd sabotagekontakt\n- Låsbar kapsling\n\n#### Artikelnummer\n\n- S556 545 085 E58 761 68 Vit\n- S556 545 084 E58 761 67 Svart\n- S556 545 086 E58 761 99 Silver\n- \n\n#### www  \n- LCU9016, LCU9017\n### Övrigt\n- Lästeknologi Mifare sektor\n- Har inbyggd sabotagekontakt\n- Låsbar kapsling\n#### Artikelnummer\n- S556 545 085 E58 761 68 Vit\n- S556 545 084 E58 761 67 Svart\n- S556 545 086 E58 761 99 Silver\n-\n#### www  \n",
+    "source": "ASSA PCR45",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA PCR45\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA PCR45\n\n**Artikelnummer:** 50093109  \n\n### Passar till\n- LCU9016, LCU9017\n\n### Övrigt\n\n- Lästeknologi Mifare sektor\n- Har inbyggd sabotagekontakt\n- Låsbar kapsling\n\n#### Artikelnummer\n\n- S556 545 085 E58 761 68 Vit\n- S556 545 084 E58 761 67 Svart\n- S556 545 086 E58 761 99 Silver\n- \n\n#### www  \n- LCU9016, LCU9017\n### Övrigt\n- Lästeknologi Mifare sektor\n- Har inbyggd sabotagekontakt\n- Låsbar kapsling\n#### Artikelnummer\n- S556 545 085 E58 761 68 Vit\n- S556 545 084 E58 761 67 Svart\n- S556 545 086 E58 761 99 Silver\n-\n#### www  \n",
+    "source": "ASSA PCR45",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50093111",
+    "ai_output": "# Kompatibilitetsinformation för ASSA PCR45 Kompakt Mifareläsare med knappsats\n\n**Artikelnummer:** 50093111  \n\n### Passar till\n- LCU9016, LCU9017\n\n#### Övrigt\n\n- • Lästeknologi Mifare sektor\n- • Har inbyggd sabotagekontakt\n- • Låsbar kapsling\n\n## Artikelnummer\n\n- • S556 545 085 E58 761 68 Vit\n- • S556 545 084 E58 761 67 Svart\n- • S556 545 086 E58 761 99 Silver  \n- LCU9016, LCU9017\n#### Övrigt\n- • Lästeknologi Mifare sektor\n- • Har inbyggd sabotagekontakt\n- • Låsbar kapsling\n## Artikelnummer\n- • S556 545 085 E58 761 68 Vit\n- • S556 545 084 E58 761 67 Svart\n- • S556 545 086 E58 761 99 Silver  \n",
+    "source": "ASSA PCR45 Kompakt Mifareläsare med knappsats",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA PCR45 Kompakt Mifareläsare med knappsats\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA PCR45 Kompakt Mifareläsare med knappsats\n\n**Artikelnummer:** 50093111  \n\n### Passar till\n- LCU9016, LCU9017\n\n#### Övrigt\n\n- • Lästeknologi Mifare sektor\n- • Har inbyggd sabotagekontakt\n- • Låsbar kapsling\n\n## Artikelnummer\n\n- • S556 545 085 E58 761 68 Vit\n- • S556 545 084 E58 761 67 Svart\n- • S556 545 086 E58 761 99 Silver  \n- LCU9016, LCU9017\n#### Övrigt\n- • Lästeknologi Mifare sektor\n- • Har inbyggd sabotagekontakt\n- • Låsbar kapsling\n## Artikelnummer\n- • S556 545 085 E58 761 68 Vit\n- • S556 545 084 E58 761 67 Svart\n- • S556 545 086 E58 761 99 Silver  \n",
+    "source": "ASSA PCR45 Kompakt Mifareläsare med knappsats",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50097839",
+    "ai_output": "# Kompatibilitetsinformation för Passiv IR-detektor OPTEX SX-360Z\n\n**Artikelnummer:** 50097839  \n\n### Passar till\n- eller från med \"LED\" brytaren på detektorn  \n- minus  är lysdioden inkopplad  \n",
+    "source": "Passiv IR-detektor OPTEX SX-360Z",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Passiv IR-detektor OPTEX SX-360Z\"",
+    "ai_output": "# Kompatibilitetsinformation för Passiv IR-detektor OPTEX SX-360Z\n\n**Artikelnummer:** 50097839  \n\n### Passar till\n- eller från med \"LED\" brytaren på detektorn  \n- minus  är lysdioden inkopplad  \n",
+    "source": "Passiv IR-detektor OPTEX SX-360Z",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 00309",
+    "ai_output": "# Kompatibilitetsinformation för AIRBORNE DC DUAL\n\n**Artikelnummer:** 00309  \n\n### Passar till\n- larmsändaren  \n- två oberoende kommunikationsvägar  \n",
+    "source": "AIRBORNE DC DUAL",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"AIRBORNE DC DUAL\"",
+    "ai_output": "# Kompatibilitetsinformation för AIRBORNE DC DUAL\n\n**Artikelnummer:** 00309  \n\n### Passar till\n- larmsändaren  \n- två oberoende kommunikationsvägar  \n",
+    "source": "AIRBORNE DC DUAL",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50100910",
+    "ai_output": "# Kompatibilitetsinformation för www.aptus.se\n\n**Artikelnummer:** 50100910  \n",
+    "source": "**www.aptus.se**",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"**www.aptus.se**\"",
+    "ai_output": "# Kompatibilitetsinformation för www.aptus.se\n\n**Artikelnummer:** 50100910  \n",
+    "source": "**www.aptus.se**",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 18662",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 18662\n\n**Artikelnummer:** 18662  \n\n### Passar till\n- olika ringsignaler hos dörrklockan som dörrsignal eller larmsignal  \n- samtliga sändare i System Nexa  \n- självlärande kodsändare, till exempel tryckknappsenheten LMLT-711 eller rörelsedetektorn LMDT-609/LMDT-810/MDT-507 och magnetgivaren LMST-606 som larmsystem  \n",
+    "source": "Produkt 18662",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 000000",
+    "ai_output": "# Kompatibilitetsinformation för 3 Programmeringsmetoder\n\n**Artikelnummer:** 000000  \n\n### Passar till\n- att aktivera sirenen, öppna/stänga garagedörrar och mycket mera  \n- centralens sektionsingångsterminaler  \n- säkerhetssystemet  \n",
+    "source": "**3 Programmeringsmetoder**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**3 Programmeringsmetoder**\"",
+    "ai_output": "# Kompatibilitetsinformation för 3 Programmeringsmetoder\n\n**Artikelnummer:** 000000  \n\n### Passar till\n- att aktivera sirenen, öppna/stänga garagedörrar och mycket mera  \n- centralens sektionsingångsterminaler  \n- säkerhetssystemet  \n",
+    "source": "**3 Programmeringsmetoder**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 113018",
+    "ai_output": "# Kompatibilitetsinformation för AMAX panel 4000\n\n**Artikelnummer:** 113018  \n\n### Passar till\n- användning i hemmiljö och på små till medelstora företag  \n- branddetektorer med fyra ledare\n- Alla sektioner kan användas för signalläge \n- Alla sektioner kan användas för att upptäcka sensorsabotage \n- Sektioner kan förbikopplas av namn\n- Testläge för utgångar och sektioner\n\n## Tillvalsfunktioner\n\n- Trådlösa enheter  RADION från Bosch\n- Sektionsingångar på expansionsmoduler \n- Reläutgångar på expansionsmoduler \n- Anslut utomhussirener och IP-kameror till en tillvalsmodul med 8 reläer \n- Programmeringsnyckel\n\n## Larmöverföring som tillval\n\n- IP-kommunikation med Bosch Conettix IP, SIA DC09 UDP och SIA DC 09 TCP-protokoll via B426 och B450 med B442- eller B443-moduler\n- GPRS-kommunikation med Bosch Conettix IP, GPRS SIA DC09 och SIA DC 09 TCP-protokoll via B450 med B442- eller B443-moduler\n\n#### Fjärrprogrammering som tillval via A-Link Plus\n\n- IP-kommunikation \n- GPRS-kommunikation \n\n## Videolarmsverifiering som tillval\n\nExtra videolarmsverifiering är möjlig i kombination med en DX3010 8-relämodul och en IP-kamera med analog larmingång och en reläutgång  \n- branddetektorer med fyra ledare\n- Alla sektioner kan användas för signalläge \n- Alla sektioner kan användas för att upptäcka sensorsabotage \n- Sektioner kan förbikopplas av namn\n- Testläge för utgångar och sektioner\n## Tillvalsfunktioner\n- Trådlösa enheter  RADION från Bosch\n- Sektionsingångar på expansionsmoduler \n- Reläutgångar på expansionsmoduler \n- Anslut utomhussirener och IP-kameror till en tillvalsmodul med 8 reläer \n- Programmeringsnyckel\n## Larmöverföring som tillval\n- IP-kommunikation med Bosch Conettix IP, SIA DC09 UDP och SIA DC 09 TCP-protokoll via B426 och B450 med B442- eller B443-moduler\n- GPRS-kommunikation med Bosch Conettix IP, GPRS SIA DC09 och SIA DC 09 TCP-protokoll via B450 med B442- eller B443-moduler\n#### Fjärrprogrammering som tillval via A-Link Plus\n- IP-kommunikation \n- GPRS-kommunikation \n## Videolarmsverifiering som tillval\nExtra videolarmsverifiering är möjlig i kombination med en DX3010 8-relämodul och en IP-kamera med analog larmingång och en reläutgång  \n- både RADION trådlös kringutrustning som använder frekvensen 433 Mhz och fast anslutna detektorer från Bosch  \n",
+    "source": "AMAX panel 4000",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"AMAX panel 4000\"",
+    "ai_output": "# Kompatibilitetsinformation för AMAX panel 4000\n\n**Artikelnummer:** 113018  \n\n### Passar till\n- användning i hemmiljö och på små till medelstora företag  \n- branddetektorer med fyra ledare\n- Alla sektioner kan användas för signalläge \n- Alla sektioner kan användas för att upptäcka sensorsabotage \n- Sektioner kan förbikopplas av namn\n- Testläge för utgångar och sektioner\n\n## Tillvalsfunktioner\n\n- Trådlösa enheter  RADION från Bosch\n- Sektionsingångar på expansionsmoduler \n- Reläutgångar på expansionsmoduler \n- Anslut utomhussirener och IP-kameror till en tillvalsmodul med 8 reläer \n- Programmeringsnyckel\n\n## Larmöverföring som tillval\n\n- IP-kommunikation med Bosch Conettix IP, SIA DC09 UDP och SIA DC 09 TCP-protokoll via B426 och B450 med B442- eller B443-moduler\n- GPRS-kommunikation med Bosch Conettix IP, GPRS SIA DC09 och SIA DC 09 TCP-protokoll via B450 med B442- eller B443-moduler\n\n#### Fjärrprogrammering som tillval via A-Link Plus\n\n- IP-kommunikation \n- GPRS-kommunikation \n\n## Videolarmsverifiering som tillval\n\nExtra videolarmsverifiering är möjlig i kombination med en DX3010 8-relämodul och en IP-kamera med analog larmingång och en reläutgång  \n- branddetektorer med fyra ledare\n- Alla sektioner kan användas för signalläge \n- Alla sektioner kan användas för att upptäcka sensorsabotage \n- Sektioner kan förbikopplas av namn\n- Testläge för utgångar och sektioner\n## Tillvalsfunktioner\n- Trådlösa enheter  RADION från Bosch\n- Sektionsingångar på expansionsmoduler \n- Reläutgångar på expansionsmoduler \n- Anslut utomhussirener och IP-kameror till en tillvalsmodul med 8 reläer \n- Programmeringsnyckel\n## Larmöverföring som tillval\n- IP-kommunikation med Bosch Conettix IP, SIA DC09 UDP och SIA DC 09 TCP-protokoll via B426 och B450 med B442- eller B443-moduler\n- GPRS-kommunikation med Bosch Conettix IP, GPRS SIA DC09 och SIA DC 09 TCP-protokoll via B450 med B442- eller B443-moduler\n#### Fjärrprogrammering som tillval via A-Link Plus\n- IP-kommunikation \n- GPRS-kommunikation \n## Videolarmsverifiering som tillval\nExtra videolarmsverifiering är möjlig i kombination med en DX3010 8-relämodul och en IP-kamera med analog larmingång och en reläutgång  \n- både RADION trådlös kringutrustning som använder frekvensen 433 Mhz och fast anslutna detektorer från Bosch  \n",
+    "source": "AMAX panel 4000",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50108134",
+    "ai_output": "# Kompatibilitetsinformation för TEKNISKA DATA\n\n**Artikelnummer:** 50108134  \n\n### Passar till\n- plint 3 på VD 400  \n",
+    "source": "**TEKNISKA DATA**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**TEKNISKA DATA**\"",
+    "ai_output": "# Kompatibilitetsinformation för TEKNISKA DATA\n\n**Artikelnummer:** 50108134  \n\n### Passar till\n- plint 3 på VD 400  \n",
+    "source": "**TEKNISKA DATA**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 934749",
+    "ai_output": "# Kompatibilitetsinformation för SMARTair System\n\n**Artikelnummer:** 934749  \n\n### Passar till\n- andra utsidor/insidor  \n- både vänster/höger dörrar  \n- de flesta av ASSAs fallhakregel- och fallregellås  \n- dörrar i fuktiga miljöer eller utomhus  \n- inomhusbruk  \n- invändiga dörrar, 0-65 ºC  \n- läsaren och auktoriseringsnyckeln måste sitta i Programmeringsenheten  \n",
+    "source": "SMARTair System",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"SMARTair System\"",
+    "ai_output": "# Kompatibilitetsinformation för SMARTair System\n\n**Artikelnummer:** 934749  \n\n### Passar till\n- andra utsidor/insidor  \n- både vänster/höger dörrar  \n- de flesta av ASSAs fallhakregel- och fallregellås  \n- dörrar i fuktiga miljöer eller utomhus  \n- inomhusbruk  \n- invändiga dörrar, 0-65 ºC  \n- läsaren och auktoriseringsnyckeln måste sitta i Programmeringsenheten  \n",
+    "source": "SMARTair System",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50111647",
+    "ai_output": "# Kompatibilitetsinformation för ASSA motorlås – smalprofil 841C-35, 851C-35\n\n**Artikelnummer:** 50111647  \n\n### Passar till\n- bra som natt- och säkerhetslåsning i dörrar med höga säkerhetskrav inom handel, kontor och industri  \n- en DAC564 eller till en DAC530  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n(_page_0_Picture_29  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n(_page_0_Picture_29  \n",
+    "source": "ASSA motorlås – smalprofil 841C-35, 851C-35",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA motorlås – smalprofil 841C-35, 851C-35\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA motorlås – smalprofil 841C-35, 851C-35\n\n**Artikelnummer:** 62549688  \n\n### Passar till\n- bra som natt- och säkerhetslåsning i dörrar med höga säkerhetskrav inom handel, kontor och industri  \n- en DAC564 eller till en DAC530  \n- inomhusbruk  \n- karm/dörrblad  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n(_page_0_Picture_29  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n(_page_0_Picture_29  \n- valfritt passer och säkerhetssystem där relevanta in och utgångsfunktioner finns  \n",
+    "source": "ASSA motorlås – smalprofil 841C-35, 851C-35",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 14846",
+    "ai_output": "# Kompatibilitetsinformation för ASSA motorlås 840C-50, 841C-50\n\n**Artikelnummer:** 14846  \n\n### Passar till\n- 813C,815C  \n- 813C,815C<br>820C,825C,835C  \n- 813C,815C<br>Om I/0 Box350  \n- R245/15/15 innebär att slutblecket passar ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- anslutningscentralen  \n- bra som natt- och säkerhetslåsning i dörrar med höga säkerhetskrav inom handel, kontor och industri  \n- både höger- och vänsterhängd dörr  \n- de flesta godkända regel-, hakregel- och fallregellås  \n- dörrautomatik måste funktionen öppningsfördröjning finnas och användas i dörrautomatiken  \n- en DAC564 alternativt DAC530  \n- ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- inkommande plintrad, märkt IN, i Doskortet  \n- plint 1 = + 24V DC stabiliserad och\n\nAnsluts till plint 1 = + 24V DC stabiliserad och\n\nÖppnasignal med slutning \n\nDC stabiliserad och filtrerad likspänning  \n- plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 2 = 0V\n\nAnsluts till plint 2 = 0V Obs! *stabiliserad likspänning  \n- plint 1 och 5  \n- plint 2 = 0V\n\nfiltrerad likspänning Ansluts till plint 2 = 0V\n\nObs!\n\nObs!\n\nplint 2 och 4  \n- plint 6 och 7  \n- samtliga<br>av våra<br>monteringsstolpar  \n- skyddsjord  \n- slutbleck 1487-x\n-\n-\n- SS3522, utg  \n- slutbleck 1487-x\n- \n- \n- SS3522, utg  \n- slutbleck 1487-x\n- Certifierad enl  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 840C-50, 841C-50\n\n## Elektromekanisk låsning\n\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 840C-50, 841C-50\n## Elektromekanisk låsning\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n\n# Elektromekanisk låsning\n\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n\n## Elektromekanisk låsning\n\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n# Elektromekanisk låsning\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n## Elektromekanisk låsning\n(_page_1_Picture_2  \n- så väl vänster- som höger-\n\nOm V eller H saknas i artikelnumret betyder det att slutblecket är vändbart och passar så väl vänster- som höger-\n\när vändbart och passar både vänster-\n\när vändbart och passar både vänster-\n\nPlösmått\n\nPlösmått\n\nTotal längd\n\nTotal längd\n\nAnger slutbleckets plösmått i mm  \n- till 813C,815C  \n- till 813C,815C<br>820C,825C,835C  \n- till 813C,815C<br>Om I/0 Box350  \n- utgående plintrad, märkt OUT, med lämplig kabel  \n",
+    "source": "ASSA motorlås 840C-50, 841C-50",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c \"ASSA motorlås 840C-50, 841C-50\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA motorlås 840C-50, 841C-50\n\n**Artikelnummer:** 14846  \n\n### Passar till\n- 813C,815C  \n- 813C,815C<br>820C,825C,835C  \n- 813C,815C<br>Om I/0 Box350  \n- R245/15/15 innebär att slutblecket passar ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- anslutningscentralen  \n- bra som natt- och säkerhetslåsning i dörrar med höga säkerhetskrav inom handel, kontor och industri  \n- både höger- och vänsterhängd dörr  \n- de flesta godkända regel-, hakregel- och fallregellås  \n- dörrautomatik måste funktionen öppningsfördröjning finnas och användas i dörrautomatiken  \n- en DAC564 alternativt DAC530  \n- ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- inkommande plintrad, märkt IN, i Doskortet  \n- plint 1 = + 24V DC stabiliserad och\n\nAnsluts till plint 1 = + 24V DC stabiliserad och\n\nÖppnasignal med slutning \n\nDC stabiliserad och filtrerad likspänning  \n- plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 2 = 0V\n\nAnsluts till plint 2 = 0V Obs! *stabiliserad likspänning  \n- plint 1 och 5  \n- plint 2 = 0V\n\nfiltrerad likspänning Ansluts till plint 2 = 0V\n\nObs!\n\nObs!\n\nplint 2 och 4  \n- plint 6 och 7  \n- samtliga<br>av våra<br>monteringsstolpar  \n- skyddsjord  \n- slutbleck 1487-x\n-\n-\n- SS3522, utg  \n- slutbleck 1487-x\n- \n- \n- SS3522, utg  \n- slutbleck 1487-x\n- Certifierad enl  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 840C-50, 841C-50\n\n## Elektromekanisk låsning\n\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 840C-50, 841C-50\n## Elektromekanisk låsning\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n\n# Elektromekanisk låsning\n\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n\n## Elektromekanisk låsning\n\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n# Elektromekanisk låsning\n(_page_1_Picture_2  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n# ASSA motorlås 850C-50, 851C-50\n## Elektromekanisk låsning\n(_page_1_Picture_2  \n- så väl vänster- som höger-\n\nOm V eller H saknas i artikelnumret betyder det att slutblecket är vändbart och passar så väl vänster- som höger-\n\när vändbart och passar både vänster-\n\när vändbart och passar både vänster-\n\nPlösmått\n\nPlösmått\n\nTotal längd\n\nTotal längd\n\nAnger slutbleckets plösmått i mm  \n- till 813C,815C  \n- till 813C,815C<br>820C,825C,835C  \n- till 813C,815C<br>Om I/0 Box350  \n- utgående plintrad, märkt OUT, med lämplig kabel  \n",
+    "source": "ASSA motorlås 840C-50, 841C-50",
+    "confidence": 0.9
+  },
+  {
+    "user_input": "-c 50111706",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50111706\n\n**Artikelnummer:** 50111706  \n\n### Passar till\n- bra både för företaget och hemmet\n- All mekanik på insidan för högre säkerhet\n- Flera olika modeller för alla behov\n\n(_page_3_Picture_24  \n- bra både för företaget och hemmet\n- All mekanik på insidan för högre säkerhet\n- Flera olika modeller för alla behov\n(_page_3_Picture_24  \n- både inner- och ytterdörrar och är mycket enkelt att montera på exempelvis kontorsdörrar, datarum, arkiv och lager  \n- enkla inner- och ytterdörrar och är helt utan cylinder och vred  \n- exempelvis butiker men kan även sitta på entrédörrar eftersom man kan låsa säkert med cylinder och på så sätt uppnå högre säkerhet  \n- för både inner- och ytterdörrar och är mycket enkelt att montera på exempelvis kontorsdörrar, datarum, arkiv och lager  \n- för exempelvis butiker men kan även sitta på entrédörrar eftersom man kan låsa säkert med cylinder och på så sätt uppnå högre säkerhet  \n",
+    "source": "Produkt 50111706",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 20180025",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 20180025\n\n**Artikelnummer:** 20180025  \n\n### Passar till\n- dörrar med modul / Connect lås  \n",
+    "source": "Produkt 20180025",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 20180045",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 20180045\n\n**Artikelnummer:** 20180045  \n\n### Passar till\n- dörrar med modul / Connect lås  \n",
+    "source": "Produkt 20180045",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50113948",
+    "ai_output": "# Kompatibilitetsinformation för 11 Extra funktioner\n\n**Artikelnummer:** 50113948  \n\n### Passar till\n- den trådlösa knappsatsen urkopplas batterisparläget automatiskt  \n",
+    "source": "**11 Extra funktioner**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**11 Extra funktioner**\"",
+    "ai_output": "# Kompatibilitetsinformation för 11 Extra funktioner\n\n**Artikelnummer:** 50113948  \n\n### Passar till\n- den trådlösa knappsatsen urkopplas batterisparläget automatiskt  \n",
+    "source": "**11 Extra funktioner**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 090915",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 090915\n\n**Artikelnummer:** 090915  \n\n### Passar till\n- den trådlösa knappsatsen urkopplas batterisparläget automatiskt  \n",
+    "source": "Produkt 090915",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 58300",
+    "ai_output": "# Kompatibilitetsinformation för ABUS\n\n**Artikelnummer:** 58300  \n\n### Passar till\n- att låsa bland annat maskiner, ventiler, stickkontakter och strömbrytare på ett sådant sätt att de inte kan manövreras vid t  \n- enskilda lås, nycklar som passar till grupper av lås och en generalhuvudnyckel  \n- nte fi nns till hands  \n- till enskilda lås, nycklar som passar till grupper av lås och en generalhuvudnyckel  \n",
+    "source": "**ABUS**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**ABUS**\"",
+    "ai_output": "# Kompatibilitetsinformation för ABUS\n\n**Artikelnummer:** 58300  \n\n### Passar till\n- att låsa bland annat maskiner, ventiler, stickkontakter och strömbrytare på ett sådant sätt att de inte kan manövreras vid t  \n- enskilda lås, nycklar som passar till grupper av lås och en generalhuvudnyckel  \n- nte fi nns till hands  \n- till enskilda lås, nycklar som passar till grupper av lås och en generalhuvudnyckel  \n",
+    "source": "**ABUS**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50119248",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50119248\n\n**Artikelnummer:** 50119248  \n\n### Passar till\n- utanpåliggande montage  \n- varje interface  \n",
+    "source": "Produkt 50119248",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50126336",
+    "ai_output": "# Kompatibilitetsinformation för ASSA Pando™ Display\n\n**Artikelnummer:** 50126336  \n\n### Passar till\n- ASSAs säkerhetsystem ASSA ARX  \n- Hi-O fungerar den både som läsare och manöverpanel och vid anslutning via SIO som manöverpanel  \n",
+    "source": "ASSA Pando™ Display",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA Pando™ Display\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA Pando™ Display\n\n**Artikelnummer:** 50126336  \n\n### Passar till\n- ASSAs säkerhetsystem ASSA ARX  \n- Hi-O fungerar den både som läsare och manöverpanel och vid anslutning via SIO som manöverpanel  \n",
+    "source": "ASSA Pando™ Display",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 14443",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 14443\n\n**Artikelnummer:** 14443  \n\n### Passar till\n- den monterade bottenplattan innan läsardelen sätts på plats  \n- lika bra ute som inne  \n",
+    "source": "Produkt 14443",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50218400",
+    "ai_output": "# Kompatibilitetsinformation för 10.1. Functional Checks\n\n**Artikelnummer:** 50218400  \n",
+    "source": "**10.1. Functional Checks**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**10.1. Functional Checks**\"",
+    "ai_output": "# Kompatibilitetsinformation för 10.1. Functional Checks\n\n**Artikelnummer:** 50218400  \n",
+    "source": "**10.1. Functional Checks**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 55022",
+    "ai_output": "# Kompatibilitetsinformation för 2 Direktiv och standarder\n\n**Artikelnummer:** 55022  \n\n### Passar till\n- standardprotokollet för SMS-telefoner  \n",
+    "source": "2 Direktiv och standarder",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"2 Direktiv och standarder\"",
+    "ai_output": "# Kompatibilitetsinformation för 2 Direktiv och standarder\n\n**Artikelnummer:** 55022  \n\n### Passar till\n- standardprotokollet för SMS-telefoner  \n",
+    "source": "2 Direktiv och standarder",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 10271030",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 10271030\n\n**Artikelnummer:** 10271030  \n\n### Passar till\n- standardprotokollet för SMS-telefoner  \n",
+    "source": "Produkt 10271030",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50130115",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50130115\n\n**Artikelnummer:** 50130115  \n\n### Passar till\n- COMM1 på SPCP355 Smart<br>PSU , ström- och dataanslutning, med en direktkabel  \n- X-bussen  flyttas den tilldelade sektionen från tvådörrscentralen till nästa lediga sektionsnummer  \n- X-bussen , flyttas den tilldelade sektionen från tvådörrscentralen till nästa lediga sektionsnummer  \n- bygeln för användning av 17 Ah-batteri och ta bort för 7 Ah<br>batteri  \n- denna 2-stiftsanslutning via en<br>transformator som finns i SPC inkapsling  \n- dessa<br>godkända centraler  \n- en dator via en standard USB-kabel typ A eller typ B  \n- n korrekt i hålen på uttaget och tryck det på plats försiktigt men säkert  \n- punkt 32, ström- och<br>dataanslutning enligt bilden ovan, med en direktkabel  \n- standardprotokollet för SMS-telefoner  \n",
+    "source": "Produkt 50130115",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c 10223041",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 10223041\n\n**Artikelnummer:** 10223041  \n\n### Passar till\n- standardprotokollet för SMS-telefoner  \n",
+    "source": "Produkt 10223041",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 153501",
+    "ai_output": "# Kompatibilitetsinformation för 2.2 Märkningsuppgifter\n\n**Artikelnummer:** 153501  \n",
+    "source": "**2.2 Märkningsuppgifter**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**2.2 Märkningsuppgifter**\"",
+    "ai_output": "# Kompatibilitetsinformation för 2.2 Märkningsuppgifter\n\n**Artikelnummer:** 153501  \n",
+    "source": "**2.2 Märkningsuppgifter**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50130493",
+    "ai_output": "# Kompatibilitetsinformation för 11 Innemiljö\n\n**Artikelnummer:** 50130493  \n",
+    "source": "**11 Innemiljö**",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"**11 Innemiljö**\"",
+    "ai_output": "# Kompatibilitetsinformation för 11 Innemiljö\n\n**Artikelnummer:** 50130493  \n",
+    "source": "**11 Innemiljö**",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 556477",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 556477\n\n**Artikelnummer:** 556477  \n",
+    "source": "Produkt 556477",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 20031",
+    "ai_output": "# Kompatibilitetsinformation för Inkoppling skruvplint:\n\n**Artikelnummer:** 20031  \n",
+    "source": "**Inkoppling skruvplint:**",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"**Inkoppling skruvplint:**\"",
+    "ai_output": "# Kompatibilitetsinformation för Inkoppling skruvplint:\n\n**Artikelnummer:** 20031  \n",
+    "source": "**Inkoppling skruvplint:**",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 817345",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 817345\n\n**Artikelnummer:** 817345  \n\n### Passar till\n- anslutningscentralen  \n- inkommande plintrad, märkt IN, i Doskortet  \n- utgående plintrad, märkt OUT, med lämplig kabel  \n",
+    "source": "Produkt 817345",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 18252",
+    "ai_output": "# Kompatibilitetsinformation för Transpondrar MobileKey\n\n**Artikelnummer:** 18252  \n\n### Passar till\n- I/O-boxen via dragavlastande kabelingångar  \n- både våra diigitala cylindrar\n\nTekniska specifikationer  \n- både våra diigitala cylindrar\nTekniska specifikationer  \n- en standardbox på 10 × 10 cm\n- x Bestyckad med instickbara och polvändningssäkra skruvplintar s  \n- konfiguration och underhåll av motorvredet och I/O-boxen  \n",
+    "source": "Produkt 18252",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 222222",
+    "ai_output": "# Kompatibilitetsinformation för 6124 & 6125\n\n**Artikelnummer:** 222222  \n\n### Passar till\n- Enkelkommando  alternativt Dubbelkommando  \n",
+    "source": "6124 & 6125",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"6124 & 6125\"",
+    "ai_output": "# Kompatibilitetsinformation för 6124 & 6125\n\n**Artikelnummer:** 222222  \n\n### Passar till\n- Enkelkommando  alternativt Dubbelkommando  \n",
+    "source": "6124 & 6125",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50138942",
+    "ai_output": "# Kompatibilitetsinformation för ASSA Pando Touch Hi-O™\n\n**Artikelnummer:** 50138942  \n\n### Passar till\n- systemet, spänning och busskommunikation  \n",
+    "source": "ASSA Pando Touch Hi-O™",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA Pando Touch Hi-O™\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA Pando Touch Hi-O™\n\n**Artikelnummer:** 50138942  \n\n### Passar till\n- systemet, spänning och busskommunikation  \n",
+    "source": "ASSA Pando Touch Hi-O™",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 066004",
+    "ai_output": "# Kompatibilitetsinformation för Especificações\n\n**Artikelnummer:** 066004  \n\n### Passar till\n- os efeitos mecânicos do envio e do armazenamento recomendamos que rode primeiro cada botão no sentido anti-horário  e, em seguida, no sentido horário  antes de definir o endereço necessário  \n",
+    "source": "**Especificações**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Especificações**\"",
+    "ai_output": "# Kompatibilitetsinformation för Especificações\n\n**Artikelnummer:** 066004  \n\n### Passar till\n- os efeitos mecânicos do envio e do armazenamento recomendamos que rode primeiro cada botão no sentido anti-horário  e, em seguida, no sentido horário  antes de definir o endereço necessário  \n",
+    "source": "**Especificações**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50139368",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50139368\n\n**Artikelnummer:** 50139368  \n",
+    "source": "Produkt 50139368",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 00003",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 00003\n\n**Artikelnummer:** 00003  \n",
+    "source": "Produkt 00003",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 405306",
+    "ai_output": "# Kompatibilitetsinformation för 2X-serien Kompaktrepeater handhavande manual\n\n**Artikelnummer:** 405306  \n",
+    "source": "2X-serien Kompaktrepeater handhavande manual",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"2X-serien Kompaktrepeater handhavande manual\"",
+    "ai_output": "# Kompatibilitetsinformation för 2X-serien Kompaktrepeater handhavande manual\n\n**Artikelnummer:** 405306  \n",
+    "source": "2X-serien Kompaktrepeater handhavande manual",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 50139375",
+    "ai_output": "# Kompatibilitetsinformation för 2X-FR-D-C\n\n**Artikelnummer:** 50139375  \n\n### Passar till\n- brandlarmcentraler i 2X-serien  \n- till brandlarmcentraler i 2X-serien  \n",
+    "source": "2X-FR-D-C",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"2X-FR-D-C\"",
+    "ai_output": "# Kompatibilitetsinformation för 2X-FR-D-C\n\n**Artikelnummer:** 50139375  \n\n### Passar till\n- brandlarmcentraler i 2X-serien  \n- till brandlarmcentraler i 2X-serien  \n",
+    "source": "2X-FR-D-C",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50139376",
+    "ai_output": "# Kompatibilitetsinformation för Installationssnabbguide 2X-serien\n\n**Artikelnummer:** 50139376  \n",
+    "source": "Installationssnabbguide 2X-serien",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"Installationssnabbguide 2X-serien\"",
+    "ai_output": "# Kompatibilitetsinformation för Installationssnabbguide 2X-serien\n\n**Artikelnummer:** 50139376  \n",
+    "source": "Installationssnabbguide 2X-serien",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 50140388",
+    "ai_output": "# Kompatibilitetsinformation för pro 1500e\n\n**Artikelnummer:** 50140388  \n\n### Passar till\n- alla ACTpro-system\n- Spänningsövervakning\n- Glaskrossövervakning\n- Övervakning av nätspänningsnärvaro, utmatningsspänning och sabotage\n- Fel rapporterade på webbgränssnittet och programvaran till ACT Enterprise\n- Anti-passback\n- Brandåsidosättning\n- Sluss/Interlock\n- Larma/larma av centralapparat för inkräktarlarm\n- IO-modulsupport \n- Hisskontroll\n- TCP/IP DHCP/Statiska IP-adresser\n- Extra rättigheter och dörrplaner ingår\n- Webserver inuti\n- Statuslysdioder\n- Utrymme i inneslutningen för kabelhantering\n- Stöder dörrhanteringsteknik med upp till 32 dörrar\n- Kompatibel med alla ACT-läsare\n\n[AS1]\n\n#### Produktspecifikation:  \n- alla ACTpro-system\n- Spänningsövervakning\n- Glaskrossövervakning\n- Övervakning av nätspänningsnärvaro, utmatningsspänning och sabotage\n- Fel rapporterade på webbgränssnittet och programvaran till ACT Enterprise\n- Anti-passback\n- Brandåsidosättning\n- Sluss/Interlock\n- Larma/larma av centralapparat för inkräktarlarm\n- IO-modulsupport \n- Hisskontroll\n- TCP/IP DHCP/Statiska IP-adresser\n- Extra rättigheter och dörrplaner ingår\n- Webserver inuti\n- Statuslysdioder\n- Utrymme i inneslutningen för kabelhantering\n- Stöder dörrhanteringsteknik med upp till 32 dörrar\n- Kompatibel med alla ACT-läsare\n[AS1]\n#### Produktspecifikation:  \n",
+    "source": "pro 1500e",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"pro 1500e\"",
+    "ai_output": "# Kompatibilitetsinformation för pro 1500e\n\n**Artikelnummer:** 50140388  \n\n### Passar till\n- alla ACTpro-system\n- Spänningsövervakning\n- Glaskrossövervakning\n- Övervakning av nätspänningsnärvaro, utmatningsspänning och sabotage\n- Fel rapporterade på webbgränssnittet och programvaran till ACT Enterprise\n- Anti-passback\n- Brandåsidosättning\n- Sluss/Interlock\n- Larma/larma av centralapparat för inkräktarlarm\n- IO-modulsupport \n- Hisskontroll\n- TCP/IP DHCP/Statiska IP-adresser\n- Extra rättigheter och dörrplaner ingår\n- Webserver inuti\n- Statuslysdioder\n- Utrymme i inneslutningen för kabelhantering\n- Stöder dörrhanteringsteknik med upp till 32 dörrar\n- Kompatibel med alla ACT-läsare\n\n[AS1]\n\n#### Produktspecifikation:  \n- alla ACTpro-system\n- Spänningsövervakning\n- Glaskrossövervakning\n- Övervakning av nätspänningsnärvaro, utmatningsspänning och sabotage\n- Fel rapporterade på webbgränssnittet och programvaran till ACT Enterprise\n- Anti-passback\n- Brandåsidosättning\n- Sluss/Interlock\n- Larma/larma av centralapparat för inkräktarlarm\n- IO-modulsupport \n- Hisskontroll\n- TCP/IP DHCP/Statiska IP-adresser\n- Extra rättigheter och dörrplaner ingår\n- Webserver inuti\n- Statuslysdioder\n- Utrymme i inneslutningen för kabelhantering\n- Stöder dörrhanteringsteknik med upp till 32 dörrar\n- Kompatibel med alla ACT-läsare\n[AS1]\n#### Produktspecifikation:  \n",
+    "source": "pro 1500e",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50140481",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50140481\n\n**Artikelnummer:** 50140481  \n\n### Passar till\n- samma läsare\n- » Levereras färdigmonterade i fastighetsbox, värdefack och laddskåp\n- » Typ: Solenoid\n- » Aktiv öppningstid: 5 st\n- » Strömförsörjning: 12 V 250 mA \n- » Driftstemperatur: -20 till +60 \n- » Spolresistans: 55 Ohm vid +20 \n- » Driftspääning: 10 V\n- » Max spänning: 26 V\n\n#### Artikel  \n- samma läsare\n- » Levereras färdigmonterade i fastighetsbox, värdefack och laddskåp\n- » Typ: Solenoid\n- » Aktiv öppningstid: 5 st\n- » Strömförsörjning: 12 V 250 mA \n- » Driftstemperatur: -20 till +60 \n- » Spolresistans: 55 Ohm vid +20 \n- » Driftspääning: 10 V\n- » Max spänning: 26 V\n#### Artikel  \n",
+    "source": "Produkt 50140481",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50142401",
+    "ai_output": "# Kompatibilitetsinformation för ASSA ARX Passersystem\n\n**Artikelnummer:** 50142401  \n\n### Passar till\n- en växel på ett företag eller direkt till de boende i ett flerbostadshus via ARX TELE  \n- entrén kan man enkelt styra vilka som får komma in beroende på tid på dygnet  \n",
+    "source": "ASSA ARX Passersystem",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA ARX Passersystem\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA ARX Passersystem\n\n**Artikelnummer:** 50142401  \n\n### Passar till\n- en växel på ett företag eller direkt till de boende i ett flerbostadshus via ARX TELE  \n- entrén kan man enkelt styra vilka som får komma in beroende på tid på dygnet  \n",
+    "source": "ASSA ARX Passersystem",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 5871089",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 5871089\n\n**Artikelnummer:** 5871089  \n",
+    "source": "Produkt 5871089",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 13787",
+    "ai_output": "# Kompatibilitetsinformation för Fjädervred\n\n**Artikelnummer:** 13787  \n\n### Passar till\n- R245/15/15 innebär att slutblecket passar ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- både höger- och vänsterhängd dörr  \n- de flesta godkända regel-, hakregel- och fallregellås  \n- dörrautomatik måste funktionen öppningsfördröjning finnas och användas i dörrautomatiken  \n- ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- plint 1 = + 24V DC stabiliserad och\nAnsluts till plint 1 = + 24V DC stabiliserad och\nÖppnasignal med slutning \nDC stabiliserad och filtrerad likspänning  \n- plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 2 = 0V\nAnsluts till plint 2 = 0V Obs! *stabiliserad likspänning  \n- plint 1 och 5  \n- plint 2 = 0V\nfiltrerad likspänning Ansluts till plint 2 = 0V\nObs!\nObs!\nplint 2 och 4  \n- plint 6 och 7  \n- samtliga<br>av våra<br>monteringsstolpar  \n- skyddsjord  \n- så väl vänster- som höger-\nOm V eller H saknas i artikelnumret betyder det att slutblecket är vändbart och passar så väl vänster- som höger-\när vändbart och passar både vänster-\när vändbart och passar både vänster-\nPlösmått\nPlösmått\nTotal längd\nTotal längd\nAnger slutbleckets plösmått i mm  \n",
+    "source": "**Fjädervred**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Fjädervred**\"",
+    "ai_output": "# Kompatibilitetsinformation för Fjädervred\n\n**Artikelnummer:** 13787  \n\n### Passar till\n- R245/15/15 innebär att slutblecket passar ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- både höger- och vänsterhängd dörr  \n- de flesta godkända regel-, hakregel- och fallregellås  \n- dörrautomatik måste funktionen öppningsfördröjning finnas och användas i dörrautomatiken  \n- ett regel- eller fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- fallregellås, har 15 mm plösmått och är ett vinkelslutbleck med 15 mm vinkel  \n- plint 1 = + 24V DC stabiliserad och\nAnsluts till plint 1 = + 24V DC stabiliserad och\nÖppnasignal med slutning \nDC stabiliserad och filtrerad likspänning  \n- plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 1 = + 24V DC stabiliserad och filtrerad likspänning Ansluts till plint 2 = 0V\nAnsluts till plint 2 = 0V Obs! *stabiliserad likspänning  \n- plint 1 och 5  \n- plint 2 = 0V\nfiltrerad likspänning Ansluts till plint 2 = 0V\nObs!\nObs!\nplint 2 och 4  \n- plint 6 och 7  \n- samtliga<br>av våra<br>monteringsstolpar  \n- skyddsjord  \n- så väl vänster- som höger-\nOm V eller H saknas i artikelnumret betyder det att slutblecket är vändbart och passar så väl vänster- som höger-\när vändbart och passar både vänster-\när vändbart och passar både vänster-\nPlösmått\nPlösmått\nTotal längd\nTotal längd\nAnger slutbleckets plösmått i mm  \n",
+    "source": "**Fjädervred**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 00177",
+    "ai_output": "# Kompatibilitetsinformation för 48 LCU9101\n\n**Artikelnummer:** 00177  \n\n### Passar till\n- \"plug and play\" teknik  \n- en dator med rätt drivrutin installerad  \n",
+    "source": "**48** LCU9101",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**48** LCU9101\"",
+    "ai_output": "# Kompatibilitetsinformation för 48 LCU9101\n\n**Artikelnummer:** 00177  \n\n### Passar till\n- \"plug and play\" teknik  \n- en dator med rätt drivrutin installerad  \n",
+    "source": "**48** LCU9101",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 00068",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 00068\n\n**Artikelnummer:** 00068  \n\n### Passar till\n- \"plug and play\" teknik  \n- en dator med rätt drivrutin installerad  \n- kortet  \n",
+    "source": "Produkt 00068",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50149375",
+    "ai_output": "# Kompatibilitetsinformation för DBL360/DBL362 ASSA ABLOY\n\n**Artikelnummer:** 50149375  \n\n### Passar till\n- ARX, RX WEB\n#### Övrigt\n\n- Valbar rättvänd/omvänd funktion\n- Vändbar höger/vänster\n- Har inbyggd sabotagekontakt\n- Gjutna kåpor\n- Kompletteras med trycke, cylinder och cylinderbehör\n\n#### Material\n\n- Mattborstad krom\n#### Artikelnummer\n\n- DBL360 med låshus  S556 724 000\n- DBL362 med låshus  S556 724 001\n\n(_page_1_Picture_39  \n- ARX, RX WEB\n#### Övrigt\n- Valbar rättvänd/omvänd funktion\n- Vändbar höger/vänster\n- Har inbyggd sabotagekontakt\n- Gjutna kåpor\n- Kompletteras med trycke, cylinder och cylinderbehör\n#### Material\n- Mattborstad krom\n#### Artikelnummer\n- DBL360 med låshus  S556 724 000\n- DBL362 med låshus  S556 724 001\n(_page_1_Picture_39  \n- ett SELV klassat aggregat)  \n",
+    "source": "DBL360/DBL362 **ASSA ABLOY**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"DBL360/DBL362 **ASSA ABLOY**\"",
+    "ai_output": "# Kompatibilitetsinformation för DBL360/DBL362 ASSA ABLOY\n\n**Artikelnummer:** 13396558  \n\n### Passar till\n- ett SELV klassat aggregat)  \n",
+    "source": "DBL360/DBL362 **ASSA ABLOY**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 1014113",
+    "ai_output": "# Kompatibilitetsinformation för Installations- och servicehandbok Originalinstruktioner\n\n**Artikelnummer:** 1014113  \n\n### Passar till\n- både tryckande och dragande armsystem  \n- både vänster- och högerhängda dörrar och är inte beroende av gångjärnens placering  \n- den grundläggande styrmodulen CSDB  \n- praktiskt taget alla typer av yttre och inre slagdörrar  \n- rörelsehindrade: Art  \n- sig i förhållande till påverkan från normala väderväxlingar och mindre friktionsförändringar orsakade av t  \n- slavenheten CSDA-S  \n",
+    "source": "Installations- och servicehandbok Originalinstruktioner",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Installations- och servicehandbok Originalinstruktioner\"",
+    "ai_output": "# Kompatibilitetsinformation för Installations- och servicehandbok Originalinstruktioner\n\n**Artikelnummer:** 1011706  \n\n### Passar till\n- 24 V DC och kopplas in i EXU-SA-reläets utgångsterminal  \n- Normal dörröppnare  \n- både tryckande och dragande armsystem  \n- både vänster- och högerhängda dörrar och är inte beroende av gångjärnens placering  \n- kopplingsplint nr 8 och jord  \n- n i spåren  \n- praktiskt taget alla typer av yttre och inre slagdörrar  \n- rörelsehindrade:\n\n(_page_31_Picture_11  \n- rörelsehindrade:\n(_page_31_Picture_11  \n- sig i förhållande till påverkan från normala väderväxlingar och mindre friktionsförändringar orsakade av t  \n",
+    "source": "Installations- och servicehandbok Originalinstruktioner",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 1011706",
+    "ai_output": "# Kompatibilitetsinformation för Installations- och servicehandbok Originalinstruktioner\n\n**Artikelnummer:** 1011706  \n\n### Passar till\n- 24 V DC och kopplas in i EXU-SA-reläets utgångsterminal  \n- Normal dörröppnare  \n- både tryckande och dragande armsystem  \n- både vänster- och högerhängda dörrar och är inte beroende av gångjärnens placering  \n- kopplingsplint nr 8 och jord  \n- n i spåren  \n- praktiskt taget alla typer av yttre och inre slagdörrar  \n- rörelsehindrade:\n\n(_page_31_Picture_11  \n- rörelsehindrade:\n(_page_31_Picture_11  \n- sig i förhållande till påverkan från normala väderväxlingar och mindre friktionsförändringar orsakade av t  \n",
+    "source": "Installations- och servicehandbok Originalinstruktioner",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 31020",
+    "ai_output": "# Kompatibilitetsinformation för *Förklaring*\n\n**Artikelnummer:** 31020  \n\n### Passar till\n- att sätta service intervallen och den kan återställas efter att servicen är utförd  \n- ett passersystem för att få ett mail  \n- hålen på armen när dörren är stängd, skruva därefter fast medföljande M6x16 bult för att fästa armen  \n- sig efter aktuella dörregenskaper  \n- yrkesmässigt kompetent personal med lämplig utbildning  \n",
+    "source": "*Förklaring*",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"*Förklaring*\"",
+    "ai_output": "# Kompatibilitetsinformation för *Förklaring*\n\n**Artikelnummer:** 31020  \n\n### Passar till\n- att sätta service intervallen och den kan återställas efter att servicen är utförd  \n- ett passersystem för att få ett mail  \n- hålen på armen när dörren är stängd, skruva därefter fast medföljande M6x16 bult för att fästa armen  \n- sig efter aktuella dörregenskaper  \n- yrkesmässigt kompetent personal med lämplig utbildning  \n",
+    "source": "*Förklaring*",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 78056",
+    "ai_output": "# Kompatibilitetsinformation för dormakaba c-lever compact HAC\n\n**Artikelnummer:** 78056  \n\n### Passar till\n- endast den användning som anges i kapitlet Produktbeskrivning  \n",
+    "source": "dormakaba c-lever compact HAC",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"dormakaba c-lever compact HAC\"",
+    "ai_output": "# Kompatibilitetsinformation för dormakaba c-lever compact HAC\n\n**Artikelnummer:** 78056  \n\n### Passar till\n- endast den användning som anges i kapitlet Produktbeskrivning  \n",
+    "source": "dormakaba c-lever compact HAC",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 10020144",
+    "ai_output": "# Kompatibilitetsinformation för TEKNISK SPECIFIKATION\n\n**Artikelnummer:** 10020144  \n\n### Passar till\n- att användas tillsammans med centralapparater i lares 4  \n- det lokala nätverket  via en nätverkskabel till en nätverks- switch, helst av PoE typ som har en spännings- backup med batteri  \n",
+    "source": "**TEKNISK SPECIFIKATION**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**TEKNISK SPECIFIKATION**\"",
+    "ai_output": "# Kompatibilitetsinformation för TEKNISK SPECIFIKATION\n\n**Artikelnummer:** 10020144  \n\n### Passar till\n- att användas tillsammans med centralapparater i lares 4  \n- det lokala nätverket  via en nätverkskabel till en nätverks- switch, helst av PoE typ som har en spännings- backup med batteri  \n",
+    "source": "**TEKNISK SPECIFIKATION**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 2100040",
+    "ai_output": "# Kompatibilitetsinformation för KSI2100040.302 KSI2100041.302 TOUCHMANÖVERPANEL\n\n**Artikelnummer:** 2100040  \n\n### Passar till\n- att användas tillsammans med centralapparater i lares 4  \n- det lokala nätverket  via en nätverkskabel till en nätverks- switch, helst av PoE typ som har en spännings- backup med batteri  \n",
+    "source": "KSI2100040.302 KSI2100041.302 **TOUCHMANÖVERPANEL**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"KSI2100040.302 KSI2100041.302 **TOUCHMANÖVERPANEL**\"",
+    "ai_output": "# Kompatibilitetsinformation för KSI2100040.302 KSI2100041.302 TOUCHMANÖVERPANEL\n\n**Artikelnummer:** 2100040  \n\n### Passar till\n- att användas tillsammans med centralapparater i lares 4  \n- det lokala nätverket  via en nätverkskabel till en nätverks- switch, helst av PoE typ som har en spännings- backup med batteri  \n",
+    "source": "KSI2100040.302 KSI2100041.302 **TOUCHMANÖVERPANEL**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50155284",
+    "ai_output": "# Kompatibilitetsinformation för ASSA Pando™ Secure Generisk läsare med knappsats\n\n**Artikelnummer:** 50155284  \n\n### Passar till\n- ASSAs passersystem ARX eller RX WEB  \n",
+    "source": "ASSA Pando™ Secure Generisk läsare med knappsats",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA Pando™ Secure Generisk läsare med knappsats\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA Pando™ Secure Generisk läsare med knappsats\n\n**Artikelnummer:** 50155284  \n\n### Passar till\n- ASSAs passersystem ARX eller RX WEB  \n",
+    "source": "ASSA Pando™ Secure Generisk läsare med knappsats",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 27675",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 27675\n\n**Artikelnummer:** 27675  \n\n### Passar till\n- AC/DC-adaptern  \n- din dator  \n- för din dator  \n- produkten och datorn  \n",
+    "source": "Produkt 27675",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 333566",
+    "ai_output": "# Kompatibilitetsinformation för Installation Guide User Manual\n\n**Artikelnummer:** 333566  \n\n### Passar till\n- bara åt ett håll  \n- bäst  \n",
+    "source": "Installation Guide User Manual",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Installation Guide User Manual\"",
+    "ai_output": "# Kompatibilitetsinformation för Installation Guide User Manual\n\n**Artikelnummer:** 333566  \n\n### Passar till\n- bara åt ett håll  \n- bäst  \n",
+    "source": "Installation Guide User Manual",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50457166",
+    "ai_output": "# Kompatibilitetsinformation för Centralenhet DCU-2\n\n**Artikelnummer:** 50457166  \n\n### Passar till\n- alla Dinbox elektroniska produkter  \n- till alla Dinbox elektroniska produkter  \n",
+    "source": "Centralenhet DCU-2",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Centralenhet DCU-2\"",
+    "ai_output": "# Kompatibilitetsinformation för Centralenhet DCU-2\n\n**Artikelnummer:** 50457166  \n\n### Passar till\n- alla Dinbox elektroniska produkter  \n- till alla Dinbox elektroniska produkter  \n",
+    "source": "Centralenhet DCU-2",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 7207580",
+    "ai_output": "# Kompatibilitetsinformation för Manöverpaneler\n\n**Artikelnummer:** 7207580  \n\n### Passar till\n- EN50131: Om systemet inte är klart för tillkoppling så kommer systemet inte att tillkopplas och händelsen \"Fel vid tillkoppling\" att genereras  \n",
+    "source": "**Manöverpaneler**",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c \"**Manöverpaneler**\"",
+    "ai_output": "# Kompatibilitetsinformation för Manöverpaneler\n\n**Artikelnummer:** 7207580  \n\n### Passar till\n- EN50131: Om systemet inte är klart för tillkoppling så kommer systemet inte att tillkopplas och händelsen \"Fel vid tillkoppling\" att genereras  \n",
+    "source": "**Manöverpaneler**",
+    "confidence": 0.9
+  },
+  {
+    "user_input": "-c 123456",
+    "ai_output": "# Kompatibilitetsinformation för Programmeringsmanual\n\n**Artikelnummer:** 123456  \n\n### Passar till\n- EN50131: Om systemet inte är klart för tillkoppling så kommer systemet inte att tillkopplas och händelsen \"Fel vid tillkoppling\" att genereras  \n- användare, utgångar, sektioner och enheter som används av användare , och kan användas att styra separat upptill åtta utgångar som kan aktiveras för varje händelse  \n- en åtgärd (exempel, att skicka ett e-post meddelande eller utföra en tillkoppling  \n",
+    "source": "**Programmeringsmanual**",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c \"**Programmeringsmanual**\"",
+    "ai_output": "# Kompatibilitetsinformation för Programmeringsmanual\n\n**Artikelnummer:** 123456  \n\n### Passar till\n- EN50131: Om systemet inte är klart för tillkoppling så kommer systemet inte att tillkopplas och händelsen \"Fel vid tillkoppling\" att genereras  \n- användare, utgångar, sektioner och enheter som används av användare , och kan användas att styra separat upptill åtta utgångar som kan aktiveras för varje händelse  \n- en åtgärd (exempel, att skicka ett e-post meddelande eller utföra en tillkoppling  \n",
+    "source": "**Programmeringsmanual**",
+    "confidence": 0.9
+  },
+  {
+    "user_input": "-c 50461025",
+    "ai_output": "# Kompatibilitetsinformation för 3. INSTALLATION\n\n**Artikelnummer:** 50461025  \n",
+    "source": "**3. INSTALLATION**",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"**3. INSTALLATION**\"",
+    "ai_output": "# Kompatibilitetsinformation för 3. INSTALLATION\n\n**Artikelnummer:** 50461025  \n",
+    "source": "**3. INSTALLATION**",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 20200302",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 20200302\n\n**Artikelnummer:** 20200302  \n",
+    "source": "Produkt 20200302",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 345678",
+    "ai_output": "# Kompatibilitetsinformation för Programmeringsguide Touch Pro\n\n**Artikelnummer:** 345678  \n\n### Passar till\n- dörren & dörrkarmens urfräsning  \n- en av nödnycklarna innan du stänger dörren  \n",
+    "source": "**Programmeringsguide Touch Pro**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Programmeringsguide Touch Pro**\"",
+    "ai_output": "# Kompatibilitetsinformation för Programmeringsguide Touch Pro\n\n**Artikelnummer:** 345678  \n\n### Passar till\n- dörren & dörrkarmens urfräsning  \n- en av nödnycklarna innan du stänger dörren  \n",
+    "source": "**Programmeringsguide Touch Pro**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 817383",
+    "ai_output": "# Kompatibilitetsinformation för Touch Pro\n\n**Artikelnummer:** 817383  \n\n### Passar till\n- dörren & dörrkarmens urfräsning  \n- en av nödnycklarna innan du stänger dörren  \n",
+    "source": "**Touch Pro**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Touch Pro**\"",
+    "ai_output": "# Kompatibilitetsinformation för Touch Pro\n\n**Artikelnummer:** 817383  \n\n### Passar till\n- dörren & dörrkarmens urfräsning  \n- en av nödnycklarna innan du stänger dörren  \n",
+    "source": "**Touch Pro**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50462223",
+    "ai_output": "# Kompatibilitetsinformation för ASSA ABLOY DAC630\n\n**Artikelnummer:** 50462223  \n\n### Passar till\n- valfritt passer och säkerhetssystem där relevanta in och utgångsfunktioner finns  \n",
+    "source": "ASSA ABLOY DAC630",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"ASSA ABLOY DAC630\"",
+    "ai_output": "# Kompatibilitetsinformation för ASSA ABLOY DAC630\n\n**Artikelnummer:** 50462223  \n\n### Passar till\n- valfritt passer och säkerhetssystem där relevanta in och utgångsfunktioner finns  \n",
+    "source": "ASSA ABLOY DAC630",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 50463120",
+    "ai_output": "# Kompatibilitetsinformation för Driftsätta\n\n**Artikelnummer:** 50463120  \n",
+    "source": "**Driftsätta**",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c \"**Driftsätta**\"",
+    "ai_output": "# Kompatibilitetsinformation för Driftsätta\n\n**Artikelnummer:** 50463120  \n",
+    "source": "**Driftsätta**",
+    "confidence": 0.648
+  },
+  {
+    "user_input": "-c 50463333",
+    "ai_output": "# Kompatibilitetsinformation för Produktbeskrivning\n\n**Artikelnummer:** 50463333  \n\n### Passar till\n- ett onlinesystem eller som ett offlinelås  \n",
+    "source": "Produktbeskrivning",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"Produktbeskrivning\"",
+    "ai_output": "# Kompatibilitetsinformation för Produktbeskrivning\n\n**Artikelnummer:** 50463333  \n\n### Passar till\n- ett onlinesystem eller som ett offlinelås  \n",
+    "source": "Produktbeskrivning",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 310335",
+    "ai_output": "# Kompatibilitetsinformation för Lysdiodsindikeringar\n\n**Artikelnummer:** 310335  \n\n### Passar till\n- anläggningen\n\n(_page_20_Figure_8  \n- modul PIM eller EDM  \n- pardörrar med överlappning  \n- till anläggningen\n\n(_page_20_Figure_8  \n- till pardörrar med överlappning  \n",
+    "source": "**Lysdiodsindikeringar**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Lysdiodsindikeringar**\"",
+    "ai_output": "# Kompatibilitetsinformation för Lysdiodsindikeringar\n\n**Artikelnummer:** 310335  \n\n### Passar till\n- anläggningen\n\n(_page_20_Figure_8  \n- modul PIM eller EDM  \n- pardörrar med överlappning  \n- till anläggningen\n\n(_page_20_Figure_8  \n- till pardörrar med överlappning  \n",
+    "source": "**Lysdiodsindikeringar**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 300330",
+    "ai_output": "# Kompatibilitetsinformation för Säkerhet\n\n**Artikelnummer:** 300330  \n\n### Passar till\n- 433 MHz  \n- P1 och oavsett hur den är polariserad  \n- P8/1, 4  \n- RS485 A resp  \n- aktivering av<br>bildskärm via t  \n- anslutning till kortläsare med interface av Wiegand-typ  \n- det publika telenätet  \n- elnätet  \n- exempelvis P4/13 kommer även P2/5 att mata<br>ut plus – viktigt vid användning av vibrationsdetektor  \n- inomhusmiljö  \n- lokalbussen på undercentral UC-50 och upptar en kortläsarplats  \n- montage i UC-50  \n- mot den 10-poliga hylskontakten på RS-50  \n- mot undercentralens stiftlist P14  \n- plint P6  enligt nedanstående schema  \n- porttelefon PA-519  \n- porttelefon PA-59 eller PA-519  \n- slitsplintarna P1/P9, P2/P10 … P8/P16 och är avsäkrade två och två på plussidan med säkringarna FU3–FU6  på plintkortet  \n- telenätet  \n- undercentralen med bifogad kabel  \n- vibrationsdetektorn  \n",
+    "source": "**Säkerhet**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"**Säkerhet**\"",
+    "ai_output": "# Kompatibilitetsinformation för Säkerhet\n\n**Artikelnummer:** 300330  \n\n### Passar till\n- 433 MHz  \n- P1 och oavsett hur den är polariserad  \n- P8/1, 4  \n- RS485 A resp  \n- aktivering av<br>bildskärm via t  \n- anslutning till kortläsare med interface av Wiegand-typ  \n- det publika telenätet  \n- elnätet  \n- exempelvis P4/13 kommer även P2/5 att mata<br>ut plus – viktigt vid användning av vibrationsdetektor  \n- inomhusmiljö  \n- lokalbussen på undercentral UC-50 och upptar en kortläsarplats  \n- montage i UC-50  \n- mot den 10-poliga hylskontakten på RS-50  \n- mot undercentralens stiftlist P14  \n- plint P6  enligt nedanstående schema  \n- porttelefon PA-519  \n- porttelefon PA-59 eller PA-519  \n- slitsplintarna P1/P9, P2/P10 … P8/P16 och är avsäkrade två och två på plussidan med säkringarna FU3–FU6  på plintkortet  \n- telenätet  \n- undercentralen med bifogad kabel  \n- vibrationsdetektorn  \n",
+    "source": "**Säkerhet**",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 40035",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 40035\n\n**Artikelnummer:** 40035  \n\n### Passar till\n- 433 MHz  \n- P1 och oavsett hur den är polariserad  \n- P8/1, 4  \n- RS485 A resp  \n- aktivering av<br>bildskärm via t  \n- anslutning till kortläsare med interface av Wiegand-typ  \n- det publika telenätet  \n- elnätet  \n- exempelvis P4/13 kommer även P2/5 att mata<br>ut plus – viktigt vid användning av vibrationsdetektor  \n- inomhusmiljö  \n- lokalbussen på undercentral UC-50 och upptar en kortläsarplats  \n- montage i UC-50  \n- mot den 10-poliga hylskontakten på RS-50  \n- mot undercentralens stiftlist P14  \n- plint P6  enligt nedanstående schema  \n- porttelefon PA-519  \n- porttelefon PA-59 eller PA-519  \n- slitsplintarna P1/P9, P2/P10 … P8/P16 och är avsäkrade två och två på plussidan med säkringarna FU3–FU6  på plintkortet  \n- telenätet  \n- undercentralen med bifogad kabel  \n- vibrationsdetektorn  \n",
+    "source": "Produkt 40035",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50464167",
+    "ai_output": "# Kompatibilitetsinformation för MINIAIR 2\n\n**Artikelnummer:** 50464167  \n\n### Passar till\n- analoga uppringare via dial capture  \n",
+    "source": "MINIAIR 2",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c \"MINIAIR 2\"",
+    "ai_output": "# Kompatibilitetsinformation för MINIAIR 2\n\n**Artikelnummer:** 50464167  \n\n### Passar till\n- analoga uppringare via dial capture  \n",
+    "source": "MINIAIR 2",
+    "confidence": 0.7200000000000001
+  },
+  {
+    "user_input": "-c 62549688",
+    "ai_output": "# Kompatibilitetsinformation för ASSA motorlås – smalprofil 841C-35, 851C-35\n\n**Artikelnummer:** 62549688  \n\n### Passar till\n- bra som natt- och säkerhetslåsning i dörrar med höga säkerhetskrav inom handel, kontor och industri  \n- en DAC564 eller till en DAC530  \n- inomhusbruk  \n- karm/dörrblad  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n\n(_page_0_Picture_29  \n- spänningsmatning\n- Ska installeras inomhus på den skyddade sidan av dörren inom 10 m från motorlåset\n- Om DAC564/DAC530 integreras med ARX passersystem skapas en totalintegrerad lösning med stor flexibilitet\n(_page_0_Picture_29  \n- valfritt passer och säkerhetssystem där relevanta in och utgångsfunktioner finns  \n",
+    "source": "ASSA motorlås – smalprofil 841C-35, 851C-35",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 225510",
+    "ai_output": "# Kompatibilitetsinformation för 301 / 303 / 3031 / 307 / 317 Ovala cylindrar med \"HH profil\"\n\n**Artikelnummer:** 225510  \n\n### Passar till\n- 55032 och 55034  \n- 55131, 55137, 55134, 55136  \n- JK-06,15 271  \n- JK-06,15<br>271  \n- MU 1200-serien samt ASSA Classic  \n- alla aluminiumdörrprofiler  \n- alla cylinderlås med svensk standard  \n- bra för utomhusbruk  \n- centralenhet samt till signalmottagare  \n- daghem, fritidshem, äldrevård, läkarmottagningar samt sjukhus  \n- dörrar upp till 2350 mm  \n- dörrtjocklek från 12 till 19 mm  \n- efter gamla standardslutblecken för dessa lås  \n- elektriska slutbleck i 100 och 300-serien och är förberedd för dubbelfallås  \n- elektriska slutbleck i 100 och 300-serien och är förberedd för enkelfallås  \n- elektriska slutbleck i 100 och 300-serien och är förberedda för enkelfallås  \n- elektriska slutbleck i 100- och 300-serien  \n- elektriska slutbleck i 400- serien och är förberedda för enkelfallås  \n- elektriska slutbleck i 400-serien och är förberedda för enkelfallås  \n- elslutbleck i 100 och 300-serien och är förberedd för enkelfallås  \n- elslutbleck i 100 serien och är förberedd för dubbelfallås  \n- elslutbleck i 100- och 300 serien och är förberedd för enkelfallås  \n- elslutbleck i 100- och 300-serien och är förberedd för enkelfallås  \n- elslutbleck i 100- serien och är förberedd för dubbelfallås  \n- elslutbleck i 100-serien och är förberedd för dubbelfallås  \n- elslutbleck i 100-serien och är förberedda för dubbelfallås  \n- enkel / dubbelfallslås samt fallregellås  \n- enkel/dubbelfallslås samt fallregellås  \n- enkla och dubbla skjutdörrar  \n- för enkel / dubbelfallslås samt fallregellås  \n- för enkel/dubbelfallslås samt fallregellås  \n- lätta mindre fönster\n\n#### Utförande:\n\nStål glansförzinkat med löphjul av manganbrons  \n- lätta mindre fönster\n#### Utförande:\nStål glansförzinkat med löphjul av manganbrons  \n- modullåsurtag  \n- också andra metallprofiler  \n- också till andra aluminiumprofiler  \n- också till andra metallprofiler  \n- också till vissa andra aluminiumprofiler  \n- också till vissa andra metallprofiler  \n- samtliga vertikala fönsterhängningar  \n- säkerhetsslutbleck  \n- till 55032 och 55034  \n- till 55131, 55137, 55134, 55136  \n- till daghem, fritidshem, äldrevård, läkarmottagningar samt sjukhus  \n- till enkla och dubbla skjutdörrar  \n- till vänster- och högerdörrar  \n- till vänster- och högerportar  \n- till: JA80F, JA80S, JA80D, JA85P, JA85B & JA89P  \n- vänster- och högerdörrar  \n- vänster- och högerportar  \n- Även andra metallprofiler  \n",
+    "source": "**301 / 303 / 3031 / 307 / 317 Ovala cylindrar med \"HH profil\"**",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c \"**301 / 303 / 3031 / 307 / 317 Ovala cylindrar med \"HH profil\"**\"",
+    "ai_output": "# Kompatibilitetsinformation för 301 / 303 / 3031 / 307 / 317 Ovala cylindrar med \"HH profil\"\n\n**Artikelnummer:** 225510  \n\n### Passar till\n- 55032 och 55034  \n- 55131, 55137, 55134, 55136  \n- JK-06,15 271  \n- JK-06,15<br>271  \n- MU 1200-serien samt ASSA Classic  \n- alla aluminiumdörrprofiler  \n- alla cylinderlås med svensk standard  \n- bra för utomhusbruk  \n- centralenhet samt till signalmottagare  \n- daghem, fritidshem, äldrevård, läkarmottagningar samt sjukhus  \n- dörrar upp till 2350 mm  \n- dörrtjocklek från 12 till 19 mm  \n- efter gamla standardslutblecken för dessa lås  \n- elektriska slutbleck i 100 och 300-serien och är förberedd för dubbelfallås  \n- elektriska slutbleck i 100 och 300-serien och är förberedd för enkelfallås  \n- elektriska slutbleck i 100 och 300-serien och är förberedda för enkelfallås  \n- elektriska slutbleck i 100- och 300-serien  \n- elektriska slutbleck i 400- serien och är förberedda för enkelfallås  \n- elektriska slutbleck i 400-serien och är förberedda för enkelfallås  \n- elslutbleck i 100 och 300-serien och är förberedd för enkelfallås  \n- elslutbleck i 100 serien och är förberedd för dubbelfallås  \n- elslutbleck i 100- och 300 serien och är förberedd för enkelfallås  \n- elslutbleck i 100- och 300-serien och är förberedd för enkelfallås  \n- elslutbleck i 100- serien och är förberedd för dubbelfallås  \n- elslutbleck i 100-serien och är förberedd för dubbelfallås  \n- elslutbleck i 100-serien och är förberedda för dubbelfallås  \n- enkel / dubbelfallslås samt fallregellås  \n- enkel/dubbelfallslås samt fallregellås  \n- enkla och dubbla skjutdörrar  \n- för enkel / dubbelfallslås samt fallregellås  \n- för enkel/dubbelfallslås samt fallregellås  \n- lätta mindre fönster\n\n#### Utförande:\n\nStål glansförzinkat med löphjul av manganbrons  \n- lätta mindre fönster\n#### Utförande:\nStål glansförzinkat med löphjul av manganbrons  \n- modullåsurtag  \n- också andra metallprofiler  \n- också till andra aluminiumprofiler  \n- också till andra metallprofiler  \n- också till vissa andra aluminiumprofiler  \n- också till vissa andra metallprofiler  \n- samtliga vertikala fönsterhängningar  \n- säkerhetsslutbleck  \n- till 55032 och 55034  \n- till 55131, 55137, 55134, 55136  \n- till daghem, fritidshem, äldrevård, läkarmottagningar samt sjukhus  \n- till enkla och dubbla skjutdörrar  \n- till vänster- och högerdörrar  \n- till vänster- och högerportar  \n- till: JA80F, JA80S, JA80D, JA85P, JA85B & JA89P  \n- vänster- och högerdörrar  \n- vänster- och högerportar  \n- Även andra metallprofiler  \n",
+    "source": "**301 / 303 / 3031 / 307 / 317 Ovala cylindrar med \"HH profil\"**",
+    "confidence": 0.9
+  },
+  {
+    "user_input": "-c 11846",
+    "ai_output": "# Kompatibilitetsinformation för SÄKERHETSDATABLAD Secwise Låsspray COPIAX\n\n**Artikelnummer:** 11846  \n",
+    "source": "SÄKERHETSDATABLAD Secwise Låsspray COPIAX",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c \"SÄKERHETSDATABLAD Secwise Låsspray COPIAX\"",
+    "ai_output": "# Kompatibilitetsinformation för SÄKERHETSDATABLAD Secwise Låsspray COPIAX\n\n**Artikelnummer:** 11846  \n",
+    "source": "SÄKERHETSDATABLAD Secwise Låsspray COPIAX",
+    "confidence": 0.9
+  },
+  {
+    "user_input": "-c 104092",
+    "ai_output": "# Kompatibilitetsinformation för ZERTIFIKAT CERTIFICATE GS-0803-104092-000\n\n**Artikelnummer:** 104092  \n",
+    "source": "ZERTIFIKAT CERTIFICATE GS-0803-104092-000",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c \"ZERTIFIKAT CERTIFICATE GS-0803-104092-000\"",
+    "ai_output": "# Kompatibilitetsinformation för ZERTIFIKAT CERTIFICATE GS-0803-104092-000\n\n**Artikelnummer:** 104092  \n",
+    "source": "ZERTIFIKAT CERTIFICATE GS-0803-104092-000",
+    "confidence": 0.9
+  },
+  {
+    "user_input": "-c 376860",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 376860\n\n**Artikelnummer:** 376860  \n",
+    "source": "Produkt 376860",
+    "confidence": 1.0
+  },
+  {
+    "user_input": "-c 20100152",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 20100152\n\n**Artikelnummer:** 20100152  \n",
+    "source": "Produkt 20100152",
+    "confidence": 0.72
+  },
+  {
+    "user_input": "-c 13396558",
+    "ai_output": "# Kompatibilitetsinformation för DBL360/DBL362 ASSA ABLOY\n\n**Artikelnummer:** 13396558  \n\n### Passar till\n- ett SELV klassat aggregat)  \n",
+    "source": "DBL360/DBL362 **ASSA ABLOY**",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 12040250",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 12040250\n\n**Artikelnummer:** 12040250  \n\n### Passar till\n- enkla dörrar och är helt utan cylinder och vred  \n- för *innerdörrar* och är mycket enkelt att montera på exempelvis kontorsdörrar, datarum, arkiv och lager  \n- innerdörrar* och är mycket enkelt att montera på exempelvis kontorsdörrar, datarum, arkiv och lager  \n",
+    "source": "Produkt 12040250",
+    "confidence": 0.8
+  },
+  {
+    "user_input": "-c 50132596",
+    "ai_output": "# Kompatibilitetsinformation för Produkt 50132596\n\n**Artikelnummer:** 50132596  \n\n### Passar till\n- utmärkt till skolor, idrottshallar och andra offentliga lokaler  \n",
+    "source": "Produkt 50132596",
+    "confidence": 0.8
+  }
+]
