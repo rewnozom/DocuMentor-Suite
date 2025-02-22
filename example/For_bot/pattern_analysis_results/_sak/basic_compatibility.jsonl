@@ -1,0 +1,1 @@
+{"pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.]+)", "example": {"file": "50132277_sak.md", "match": "lämplig för denna gas, dess tryck och<br>temperatur", "captured": ["denna gas, dess tryck och<br>temperatur"]}}

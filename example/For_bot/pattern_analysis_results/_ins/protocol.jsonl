@@ -1,0 +1,16 @@
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152563_ins.md", "match": "kommunikation: I2C", "captured": ["I2C"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152570_ins.md", "match": "kommunikation: I2C", "captured": ["I2C"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152573_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152573_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152574_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152574_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152575_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152575_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152576_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152576_ins.md", "match": "kommunikation: I2", "captured": ["I2"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152583_ins.md", "match": "kommunikation:I2C", "captured": ["I2C"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152584_ins.md", "match": "kommunikation:I2C", "captured": ["I2C"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152586_ins.md", "match": "kommunikation:I2C", "captured": ["I2C"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50152588_ins.md", "match": "kommunikation:I2C", "captured": ["I2C"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50156071_ins.md", "match": "kommunikation: I2C", "captured": ["I2C"]}}
+{"pattern": "(?i)(?:kommunikation|communication):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50156072_ins.md", "match": "kommunikation: I2C", "captured": ["I2C"]}}

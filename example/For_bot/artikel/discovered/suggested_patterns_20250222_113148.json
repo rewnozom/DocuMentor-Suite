@@ -1,0 +1,50 @@
+[
+  {
+    "keyword": "id",
+    "suggested_pattern": "r'(?i)id[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 356,
+    "potential_type": "Produkt-ID"
+  },
+  {
+    "keyword": "number",
+    "suggested_pattern": "r'(?i)number[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 10,
+    "potential_type": "Okänd identifierare"
+  },
+  {
+    "keyword": "product",
+    "suggested_pattern": "r'(?i)product[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 5,
+    "potential_type": "Okänd identifierare"
+  },
+  {
+    "keyword": "item",
+    "suggested_pattern": "r'(?i)item[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 4,
+    "potential_type": "Okänd identifierare"
+  },
+  {
+    "keyword": "modell",
+    "suggested_pattern": "r'(?i)modell[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 4,
+    "potential_type": "Okänd identifierare"
+  },
+  {
+    "keyword": "produkt",
+    "suggested_pattern": "r'(?i)produkt[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 3,
+    "potential_type": "Okänd identifierare"
+  },
+  {
+    "keyword": "ean",
+    "suggested_pattern": "r'(?i)ean[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 2,
+    "potential_type": "EAN-13"
+  },
+  {
+    "keyword": "code",
+    "suggested_pattern": "r'(?i)code[:\\s]+([A-Z0-9\\-\\.]+)'",
+    "occurrences": 2,
+    "potential_type": "Produktkod"
+  }
+]

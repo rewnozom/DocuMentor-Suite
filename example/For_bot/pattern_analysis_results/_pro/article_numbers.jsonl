@@ -1,0 +1,219 @@
+{"pattern": "(?i)(50\\d{6})", "example": {"file": "50022452_pro.md", "match": "50650300", "captured": ["50650300"]}}
+{"pattern": "(?i)(50\\d{6})", "example": {"file": "50153338_pro.md", "match": "50440559", "captured": ["50440559"]}}
+{"pattern": "(?i)(50\\d{6})", "example": {"file": "50153346_pro.md", "match": "50440559", "captured": ["50440559"]}}
+{"pattern": "(?i)(50\\d{6})", "example": {"file": "8380076_Pro.md", "match": "50650300", "captured": ["50650300"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50022452_pro.md", "match": "EAN: 4891199006999", "captured": ["4891199006999"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50153338_pro.md", "match": "EAN: 4891199170997", "captured": ["4891199170997"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50153346_pro.md", "match": "EAN: 4891199190766", "captured": ["4891199190766"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "8380076_Pro.md", "match": "EAN: 4891199001086", "captured": ["4891199001086"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074974034", "captured": ["4260074974034"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074974966", "captured": ["4260074974966"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074974300", "captured": ["4260074974300"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074975703", "captured": ["4260074975703"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074977424", "captured": ["4260074977424"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074974959", "captured": ["4260074974959"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074977820", "captured": ["4260074977820"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074977837", "captured": ["4260074977837"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074977844", "captured": ["4260074977844"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135345_pro.md", "match": "EAN: 4260074977417", "captured": ["4260074977417"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074974034", "captured": ["4260074974034"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074974966", "captured": ["4260074974966"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074974300", "captured": ["4260074974300"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074975703", "captured": ["4260074975703"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074977424", "captured": ["4260074977424"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074974959", "captured": ["4260074974959"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074977820", "captured": ["4260074977820"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074977837", "captured": ["4260074977837"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074977844", "captured": ["4260074977844"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135346_pro.md", "match": "EAN: 4260074977417", "captured": ["4260074977417"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074974034", "captured": ["4260074974034"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074974966", "captured": ["4260074974966"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074974300", "captured": ["4260074974300"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074975703", "captured": ["4260074975703"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074977424", "captured": ["4260074977424"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074974959", "captured": ["4260074974959"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074977820", "captured": ["4260074977820"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074977837", "captured": ["4260074977837"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074977844", "captured": ["4260074977844"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50135347_pro.md", "match": "EAN: 4260074977417", "captured": ["4260074977417"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50129792_pro.md", "match": "EAN: 4895149079170", "captured": ["4895149079170"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50129793_pro.md", "match": "EAN: 4895149079163", "captured": ["4895149079163"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50153337_pro.md", "match": "EAN: 4891199183874", "captured": ["4891199183874"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50153352_pro.md", "match": "EAN: 4891199190223", "captured": ["4891199190223"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50025313_pro.md", "match": "EAN: 7320896000544", "captured": ["7320896000544"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50025314_pro.md", "match": "EAN: 7320896020245", "captured": ["7320896020245"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50026088_pro.md", "match": "EAN: 7320896020283", "captured": ["7320896020283"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50091812_pro.md", "match": "EAN: 7320896170049", "captured": ["7320896170049"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50132277_pro.md", "match": "EAN: 7320890010600", "captured": ["7320890010600"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50134803_pro.md", "match": "EAN: 7320896020252", "captured": ["7320896020252"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50152689_pro.md", "match": "EAN: 7320896001220", "captured": ["7320896001220"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50461470_PRO.md", "match": "EAN: 7320896001770", "captured": ["7320896001770"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50463335_PRO.md", "match": "EAN: 7320896001817", "captured": ["7320896001817"]}}
+{"pattern": "(?i)EAN:\\s*(\\d{13})", "example": {"file": "50463336_PRO.md", "match": "EAN: 7320896001794", "captured": ["7320896001794"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "8743012", "captured": ["8743012"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "40763161", "captured": ["40763161"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "02110", "captured": ["02110"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "21100", "captured": ["21100"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "85000", "captured": ["85000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "02000", "captured": ["02000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "01000", "captured": ["01000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "15000", "captured": ["15000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "50000", "captured": ["50000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "01000", "captured": ["01000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "05403", "captured": ["05403"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "00012", "captured": ["00012"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50022452_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50134801_pro.md", "match": "28122", "captured": ["28122"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142574_pro.md", "match": "26866", "captured": ["26866"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142574_pro.md", "match": "14001", "captured": ["14001"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142575_pro.md", "match": "26866", "captured": ["26866"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142575_pro.md", "match": "14001", "captured": ["14001"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142583_pro.md", "match": "26866", "captured": ["26866"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142587_pro.md", "match": "26866", "captured": ["26866"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142587_pro.md", "match": "14001", "captured": ["14001"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142588_pro.md", "match": "14001", "captured": ["14001"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142589_pro.md", "match": "14001", "captured": ["14001"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50142590_pro.md", "match": "14001", "captured": ["14001"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143003_pro.md", "match": "5233743", "captured": ["5233743"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143003_pro.md", "match": "26650", "captured": ["26650"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143004_pro.md", "match": "5233741", "captured": ["5233741"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143004_pro.md", "match": "26650", "captured": ["26650"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143005_pro.md", "match": "5233739", "captured": ["5233739"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143005_pro.md", "match": "26650", "captured": ["26650"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143006_pro.md", "match": "5233737", "captured": ["5233737"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143006_pro.md", "match": "18650", "captured": ["18650"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143007_pro.md", "match": "5233735", "captured": ["5233735"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50143007_pro.md", "match": "18650", "captured": ["18650"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50149810_pro.md", "match": "61960", "captured": ["61960"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50149921_pro.md", "match": "12140", "captured": ["12140"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50149921_pro.md", "match": "11056", "captured": ["11056"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "405148", "captured": ["405148"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "70000", "captured": ["70000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "85000", "captured": ["85000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "08500", "captured": ["08500"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "08500", "captured": ["08500"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "45600", "captured": ["45600"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "22800", "captured": ["22800"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "02280", "captured": ["02280"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "02280", "captured": ["02280"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "01443", "captured": ["01443"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "00072", "captured": ["00072"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153338_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "405173", "captured": ["405173"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "5720720", "captured": ["5720720"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "5720720", "captured": ["5720720"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "56673025", "captured": ["56673025"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "95000", "captured": ["95000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "97500", "captured": ["97500"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "09750", "captured": ["09750"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "09750", "captured": ["09750"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "26000", "captured": ["26000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "63000", "captured": ["63000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "06300", "captured": ["06300"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "06300", "captured": ["06300"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00667", "captured": ["00667"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00033", "captured": ["00033"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50153346_pro.md", "match": "00000", "captured": ["00000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50155012_pro.md", "match": "12170", "captured": ["12170"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50155012_pro.md", "match": "60950", "captured": ["60950"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50155012_pro.md", "match": "12170", "captured": ["12170"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50155012_pro.md", "match": "12170", "captured": ["12170"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50155012_pro.md", "match": "103145", "captured": ["103145"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50155012_pro.md", "match": "12170", "captured": ["12170"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50155012_pro.md", "match": "54545", "captured": ["54545"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50462601_PRO.md", "match": "24843111", "captured": ["24843111"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50462601_PRO.md", "match": "12597", "captured": ["12597"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50464888_pro.md", "match": "12140", "captured": ["12140"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50464888_pro.md", "match": "11056", "captured": ["11056"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50464975_pro.md", "match": "34615", "captured": ["34615"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50464975_pro.md", "match": "34615", "captured": ["34615"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50464975_pro.md", "match": "14001", "captured": ["14001"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "50464975_pro.md", "match": "34615", "captured": ["34615"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "8380076_Pro.md", "match": "8743011", "captured": ["8743011"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "8380076_Pro.md", "match": "40763153", "captured": ["40763153"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "8380076_Pro.md", "match": "02700", "captured": ["02700"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "8380076_Pro.md", "match": "22200", "captured": ["22200"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "8380076_Pro.md", "match": "35000", "captured": ["35000"]}}
+{"pattern": "(?<!\\d)(\\d{5,8})(?!\\d)", "example": {"file": "8380076_Pro.md", "match": "02700", "captured": ["02700"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50153338_pro.md", "match": "Art.no: 405148", "captured": ["405148"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50153346_pro.md", "match": "Art.no: 405173", "captured": ["405173"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50129792_pro.md", "match": "Art.no: 473065", "captured": ["473065"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50129793_pro.md", "match": "Art.no: 473064", "captured": ["473064"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50153337_pro.md", "match": "Art.no: 450052", "captured": ["450052"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50153352_pro.md", "match": "Art.no: 450058", "captured": ["450058"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50025313_pro.md", "match": "Art.no: 600054", "captured": ["600054"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50025314_pro.md", "match": "Art.no: 602024", "captured": ["602024"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50026088_pro.md", "match": "Art.no: 602028", "captured": ["602028"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50091812_pro.md", "match": "Art.no: 617004", "captured": ["617004"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50132277_pro.md", "match": "Artnr: 600010", "captured": ["600010"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50134803_pro.md", "match": "Art.no: 602025", "captured": ["602025"]}}
+{"pattern": "(?i)art\\.?\\s*n[ro]\\.?\\s*:?\\s*(\\d{5,8})", "example": {"file": "50152689_pro.md", "match": "Artnr: 600122", "captured": ["600122"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50153338_pro.md", "match": "Art.no: 405148", "captured": ["405148"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50153346_pro.md", "match": "Art.no: 405173", "captured": ["405173"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50129792_pro.md", "match": "Art.no: 473065", "captured": ["473065"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50129793_pro.md", "match": "Art.no: 473064", "captured": ["473064"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50153337_pro.md", "match": "Art.no: 450052", "captured": ["450052"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50153352_pro.md", "match": "Art.no: 450058", "captured": ["450058"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50025313_pro.md", "match": "Art.no: 600054", "captured": ["600054"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50025314_pro.md", "match": "Art.no: 602024", "captured": ["602024"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50026088_pro.md", "match": "Art.no: 602028", "captured": ["602028"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50091812_pro.md", "match": "Art.no: 617004", "captured": ["617004"]}}
+{"pattern": "(?i)Art\\.no:\\s*(\\d{6})", "example": {"file": "50134803_pro.md", "match": "Art.no: 602025", "captured": ["602025"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50153346_pro.md", "match": "E-nummer: 5720720", "captured": ["5720720"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50101242_pro.md", "match": "E-nummer: 5877328", "captured": ["5877328"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50142389_pro.md", "match": "E-nummer: 5870842", "captured": ["5870842"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152084_pro.md", "match": "E-nummer: 5213589", "captured": ["5213589"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152610_pro.md", "match": "E-nummer: 5257461", "captured": ["5257461"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152610_pro.md", "match": "E-nummer: 5257462", "captured": ["5257462"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152611_pro.md", "match": "E-nummer: 5257461", "captured": ["5257461"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152611_pro.md", "match": "E-nummer: 5257462", "captured": ["5257462"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152612_pro.md", "match": "E-nummer: 5257461", "captured": ["5257461"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152612_pro.md", "match": "E-nummer: 5257462", "captured": ["5257462"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152613_pro.md", "match": "E-nummer: 5257461", "captured": ["5257461"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152613_pro.md", "match": "E-nummer: 5257462", "captured": ["5257462"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152614_pro.md", "match": "E-nummer: 5257461", "captured": ["5257461"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152614_pro.md", "match": "E-nummer: 5257462", "captured": ["5257462"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152628_pro.md", "match": "E-nummer: 5213589", "captured": ["5213589"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152629_pro.md", "match": "E-nummer: 5213589", "captured": ["5213589"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152630_pro.md", "match": "E-nummer: 5257461", "captured": ["5257461"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152630_pro.md", "match": "E-nummer: 5257462", "captured": ["5257462"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152723_PRO.md", "match": "E-nummer: 6310034", "captured": ["6310034"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152724_pro.md", "match": "E-nummer: 6310033", "captured": ["6310033"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152729_pro.md", "match": "E-nummer: 6310039", "captured": ["6310039"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152730_pro.md", "match": "E-nummer: 5257457", "captured": ["5257457"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152731_pro.md", "match": "E-nummer: 5257456", "captured": ["5257456"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152732_pro.md", "match": "E-nummer: 5257455", "captured": ["5257455"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152733_pro.md", "match": "E-nummer: 5257454", "captured": ["5257454"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50152734_pro.md", "match": "E-nummer: 5257460", "captured": ["5257460"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50155379_pro.md", "match": "E-nummer: 5213589", "captured": ["5213589"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "BT-1520FLX20LARGE20COM_PRO.md", "match": "E-nummer: 5257458", "captured": ["5257458"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "BT-2520FLX20LARGE20COM_PRO.md", "match": "E-nummer: 5257459", "captured": ["5257459"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "BT-Box20FLX20ML_PRO.md", "match": "E-nummer: 5257452", "captured": ["5257452"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "BT-Box20FLX20SMALL_PRO.md", "match": "E-nummer: 5257453", "captured": ["5257453"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "BT-Fuse-10_PRO.md", "match": "E-nummer: 6310078", "captured": ["6310078"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "BT-Fuse-5_PRO.md", "match": "E-nummer: 6310037", "captured": ["6310037"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50129792_pro.md", "match": "E-nummer: 7702950", "captured": ["7702950"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50129793_pro.md", "match": "E-nummer: 7702949", "captured": ["7702949"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50153337_pro.md", "match": "E-nummer: 9451708", "captured": ["9451708"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50153352_pro.md", "match": "E-nummer: 9451781", "captured": ["9451781"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50464984_pro.md", "match": "E-nummer: 6302327", "captured": ["6302327"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50025313_pro.md", "match": "E-nummer: 1693269", "captured": ["1693269"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50025314_pro.md", "match": "E-nummer: 1693830", "captured": ["1693830"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50026088_pro.md", "match": "E-nummer: 1693358", "captured": ["1693358"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50091812_pro.md", "match": "E-nummer: 1695152", "captured": ["1695152"]}}
+{"pattern": "(?i)E-nummer:\\s*(\\d{7})", "example": {"file": "50134803_pro.md", "match": "E-nummer: 1693820", "captured": ["1693820"]}}

@@ -1,0 +1,1 @@
+{"pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50132277_man.md", "match": "Vikt: 15 kg", "captured": ["15"]}}

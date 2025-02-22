@@ -1,0 +1,269 @@
+{
+  "timestamp": "20250222_113209",
+  "total_patterns": 239,
+  "patterns_with_matches": 34,
+  "individual_pattern_performance": {
+    "151": {
+      "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",
+      "count": 66,
+      "group": "connection",
+      "percentage": 16.296296296296298
+    },
+    "43": {
+      "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",
+      "count": 62,
+      "group": "electrical",
+      "percentage": 15.308641975308642
+    },
+    "123": {
+      "pattern": "(?i)(?:färg|color)\\s*:\\s*([^\\.]+)",
+      "count": 55,
+      "group": "color",
+      "percentage": 13.580246913580247
+    },
+    "52": {
+      "pattern": "(?i)(?:skyddsklass|protection class)\\s*:\\s*([^\\.]+)",
+      "count": 52,
+      "group": "electrical",
+      "percentage": 12.839506172839506
+    },
+    "113": {
+      "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",
+      "count": 28,
+      "group": "material",
+      "percentage": 6.91358024691358
+    },
+    "2": {
+      "pattern": "(?i)mått\\s*:\\s*([^\\.]+)",
+      "count": 17,
+      "group": "dimensions",
+      "percentage": 4.197530864197531
+    },
+    "21": {
+      "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+      "count": 16,
+      "group": "electrical",
+      "percentage": 3.950617283950617
+    },
+    "6": {
+      "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",
+      "count": 11,
+      "group": "dimensions",
+      "percentage": 2.7160493827160495
+    },
+    "1": {
+      "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",
+      "count": 10,
+      "group": "dimensions",
+      "percentage": 2.4691358024691357
+    },
+    "111": {
+      "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",
+      "count": 10,
+      "group": "environmental",
+      "percentage": 2.4691358024691357
+    },
+    "171": {
+      "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",
+      "count": 10,
+      "group": "certification",
+      "percentage": 2.4691358024691357
+    },
+    "139": {
+      "pattern": "(?i)(?:kryptering|encryption)\\s*:\\s*([^\\.]+)",
+      "count": 8,
+      "group": "network",
+      "percentage": 1.9753086419753085
+    },
+    "8": {
+      "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+      "count": 8,
+      "group": "dimensions",
+      "percentage": 1.9753086419753085
+    },
+    "204": {
+      "pattern": "(?i)(?:effektivitetsklass|efficiency class)\\s*:\\s*([^\\.]+)",
+      "count": 6,
+      "group": "performance_class",
+      "percentage": 1.4814814814814816
+    },
+    "138": {
+      "pattern": "(?i)(?:protokoll|protocol)\\s*:\\s*([^\\.]+)",
+      "count": 5,
+      "group": "network",
+      "percentage": 1.2345679012345678
+    },
+    "152": {
+      "pattern": "(?i)(?:ingångar|inputs)\\s*:\\s*([^\\.]+)",
+      "count": 5,
+      "group": "connection",
+      "percentage": 1.2345679012345678
+    },
+    "140": {
+      "pattern": "(?i)(?:nätverksport|network port)\\s*:\\s*([^\\.]+)",
+      "count": 5,
+      "group": "network",
+      "percentage": 1.2345679012345678
+    },
+    "145": {
+      "pattern": "(?i)(?:kontakter|connectors)\\s*:\\s*([^\\.]+)",
+      "count": 3,
+      "group": "connection",
+      "percentage": 0.7407407407407408
+    },
+    "53": {
+      "pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:kg|g)",
+      "count": 3,
+      "group": "weight",
+      "percentage": 0.7407407407407408
+    },
+    "65": {
+      "pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:[.,]\\d+)?)\\s*°?C",
+      "count": 2,
+      "group": "temperature",
+      "percentage": 0.49382716049382713
+    },
+    "37": {
+      "pattern": "(?i)(?:frekvens|frequency)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:Hz|kHz|MHz)",
+      "count": 2,
+      "group": "electrical",
+      "percentage": 0.49382716049382713
+    },
+    "22": {
+      "pattern": "(?i)(?:matningsspänning|supply voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+      "count": 2,
+      "group": "electrical",
+      "percentage": 0.49382716049382713
+    },
+    "9": {
+      "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+      "count": 2,
+      "group": "dimensions",
+      "percentage": 0.49382716049382713
+    },
+    "10": {
+      "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+      "count": 2,
+      "group": "dimensions",
+      "percentage": 0.49382716049382713
+    },
+    "26": {
+      "pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A|mA)",
+      "count": 2,
+      "group": "electrical",
+      "percentage": 0.49382716049382713
+    },
+    "210": {
+      "pattern": "(?i)(?:driftsförhållanden|operating conditions)\\s*:\\s*([^\\.]+)",
+      "count": 2,
+      "group": "operating_conditions",
+      "percentage": 0.49382716049382713
+    },
+    "49": {
+      "pattern": "(?i)(?:säkring|fuse)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A)",
+      "count": 2,
+      "group": "electrical",
+      "percentage": 0.49382716049382713
+    },
+    "4": {
+      "pattern": "(?i)storlek\\s*:\\s*([^\\.]+)",
+      "count": 2,
+      "group": "dimensions",
+      "percentage": 0.49382716049382713
+    },
+    "136": {
+      "pattern": "(?i)(?:räckvidd|range)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:m)",
+      "count": 2,
+      "group": "network",
+      "percentage": 0.49382716049382713
+    },
+    "128": {
+      "pattern": "(?i)(?:finish|finish)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "color",
+      "percentage": 0.24691358024691357
+    },
+    "105": {
+      "pattern": "(?i)(?:vatten(?:tät|skydd)|water(?:proof|protection))\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "environmental",
+      "percentage": 0.24691358024691357
+    },
+    "163": {
+      "pattern": "(?i)(?:ljuskälla|light source)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "lighting",
+      "percentage": 0.24691358024691357
+    },
+    "92": {
+      "pattern": "(?i)(?:batteritid|battery life)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:h|timmar|min)",
+      "count": 1,
+      "group": "performance",
+      "percentage": 0.24691358024691357
+    },
+    "115": {
+      "pattern": "(?i)(?:ytbehandling|surface treatment)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "material",
+      "percentage": 0.24691358024691357
+    }
+  },
+  "pattern_group_performance": {
+    "dimensions": {
+      "total_matches": 52,
+      "percentage_of_all_matches": 12.839506172839506
+    },
+    "electrical": {
+      "total_matches": 138,
+      "percentage_of_all_matches": 34.074074074074076
+    },
+    "weight": {
+      "total_matches": 3,
+      "percentage_of_all_matches": 0.7407407407407408
+    },
+    "temperature": {
+      "total_matches": 2,
+      "percentage_of_all_matches": 0.49382716049382713
+    },
+    "performance": {
+      "total_matches": 1,
+      "percentage_of_all_matches": 0.24691358024691357
+    },
+    "environmental": {
+      "total_matches": 11,
+      "percentage_of_all_matches": 2.7160493827160495
+    },
+    "material": {
+      "total_matches": 29,
+      "percentage_of_all_matches": 7.160493827160494
+    },
+    "color": {
+      "total_matches": 56,
+      "percentage_of_all_matches": 13.82716049382716
+    },
+    "network": {
+      "total_matches": 20,
+      "percentage_of_all_matches": 4.938271604938271
+    },
+    "connection": {
+      "total_matches": 74,
+      "percentage_of_all_matches": 18.271604938271604
+    },
+    "lighting": {
+      "total_matches": 1,
+      "percentage_of_all_matches": 0.24691358024691357
+    },
+    "certification": {
+      "total_matches": 10,
+      "percentage_of_all_matches": 2.4691358024691357
+    },
+    "performance_class": {
+      "total_matches": 6,
+      "percentage_of_all_matches": 1.4814814814814816
+    },
+    "operating_conditions": {
+      "total_matches": 2,
+      "percentage_of_all_matches": 0.49382716049382713
+    }
+  }
+}

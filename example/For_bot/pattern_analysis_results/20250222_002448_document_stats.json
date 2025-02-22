@@ -1,0 +1,103 @@
+{
+  "document_counts": {
+    "_pro": 369,
+    "_TEK": 4,
+    "_sak": 55,
+    "_man": 55,
+    "_ins": 80,
+    "_CERT": 35,
+    "_BRO": 32,
+    "_PRE": 14,
+    "_mdek": 1
+  },
+  "pattern_stats": {
+    "_pro": {
+      "article_numbers": 245,
+      "dimensions": 42,
+      "electrical": 315,
+      "condition": 247,
+      "temperature": 3,
+      "basic_compatibility": 123,
+      "recommended_compatibility": 42,
+      "direct_compatibility": 35,
+      "protocol": 5,
+      "requires_compatibility": 53,
+      "certification": 42,
+      "weight": 4,
+      "replacement": 6
+    },
+    "_TEK": {
+      "article_numbers": 4,
+      "dimensions": 1,
+      "electrical": 3,
+      "condition": 2,
+      "certification": 1
+    },
+    "_sak": {
+      "requires_compatibility": 36,
+      "condition": 52,
+      "electrical": 43,
+      "article_numbers": 20,
+      "basic_compatibility": 1,
+      "recommended_compatibility": 1
+    },
+    "_man": {
+      "article_numbers": 37,
+      "requires_compatibility": 15,
+      "condition": 55,
+      "electrical": 53,
+      "recommended_compatibility": 5,
+      "basic_compatibility": 27,
+      "direct_compatibility": 8,
+      "replacement": 13,
+      "dimensions": 13,
+      "certification": 2,
+      "weight": 1,
+      "temperature": 1
+    },
+    "_ins": {
+      "article_numbers": 58,
+      "basic_compatibility": 22,
+      "direct_compatibility": 5,
+      "requires_compatibility": 29,
+      "condition": 79,
+      "electrical": 77,
+      "recommended_compatibility": 7,
+      "replacement": 32,
+      "dimensions": 32,
+      "certification": 20,
+      "protocol": 12
+    },
+    "_CERT": {
+      "article_numbers": 29,
+      "condition": 18,
+      "electrical": 13,
+      "certification": 2
+    },
+    "_BRO": {
+      "basic_compatibility": 27,
+      "recommended_compatibility": 12,
+      "condition": 32,
+      "article_numbers": 20,
+      "electrical": 20,
+      "requires_compatibility": 3
+    },
+    "_PRE": {
+      "article_numbers": 14,
+      "basic_compatibility": 14,
+      "direct_compatibility": 14,
+      "requires_compatibility": 14,
+      "recommended_compatibility": 14,
+      "replacement": 14,
+      "condition": 14,
+      "electrical": 14,
+      "certification": 14
+    },
+    "_mdek": {
+      "article_numbers": 1,
+      "condition": 1,
+      "electrical": 1,
+      "certification": 1
+    }
+  }
+}

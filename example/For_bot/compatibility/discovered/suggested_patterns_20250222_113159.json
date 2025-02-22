@@ -1,0 +1,44 @@
+[
+  {
+    "phrase": "#### **Kontraster** Prisma Button är designad för att skapa kontraster i sig själv.",
+    "keyword": "designad",
+    "suggested_pattern": "(?i)#### **kontraster** prisma button är designad för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 12,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "**vanderbiltindustries.com** @VanderbiltInd Vanderbilt Industries ## **Vanderbilt International Ltd.** Clonshaugh Business and Technology Park Clonshaugh, Dublin D17 KV 84, Ireland +353 1 437 2560 ![](_page_3_Picture_0.jpeg) ## **Tillbehör:** ### **PR1 - Reläkort till Omnis PSU 5A-10A** Utökningskort för installationer där busskommunikation ej används.",
+    "keyword": "tillbehör",
+    "suggested_pattern": "(?i)**vanderbiltindustries.com** @vanderbiltind vanderbilt industries ## **vanderbilt international ltd.** clonshaugh business and technology park clonshaugh, dublin d17 kv 84, ireland +353 1 437 2560 ![](_page_3_picture_0.jpeg) ## **tillbehör:** ### **pr1 - reläkort till omnis psu 5a-10a** utökningskort för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 5,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "ECO-serien kan användas både med AGM-batterier och Lithium LiFePO4-batterier.",
+    "keyword": "användas",
+    "suggested_pattern": "(?i)eco-serien kan användas både med ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 4,
+    "relation_type": "direct"
+  },
+  {
+    "phrase": "Kan användas för styrning av port eller vidaresändning av larmsignal.",
+    "keyword": "användas",
+    "suggested_pattern": "(?i)kan användas för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 3,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "Designad för att uppfylla höga säkerhetskrav.",
+    "keyword": "designad",
+    "suggested_pattern": "(?i)designad för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 2,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "## Användningsområde PowerWatch kan användas för att enkelt uppdatera en produkt eller för diagnostik vid dimensionering och felsökning.",
+    "keyword": "användas",
+    "suggested_pattern": "(?i)## användningsområde powerwatch kan användas för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 2,
+    "relation_type": "designed_for"
+  }
+]

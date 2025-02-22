@@ -1,0 +1,4 @@
+{"pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:\\.\\d+)?)\\s*°?C", "example": {"file": "50025380_produktblad.md", "match": "temperature : -40°C", "captured": ["-40"]}}
+{"pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:\\.\\d+)?)\\s*°?C", "example": {"file": "50142576_pro.md", "match": "Temperature:20 C", "captured": ["20"]}}
+{"pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:\\.\\d+)?)\\s*°?C", "example": {"file": "50142585_pro.md", "match": "Temperature:20 C", "captured": ["20"]}}
+{"pattern": "(?i)(?:drifttemperatur|operating temperature)\\s*:\\s*(-?\\d+(?:\\.\\d+)?)\\s*°?C", "example": {"file": "50025380_produktblad.md", "match": "Operating temperature : -40°C", "captured": ["-40"]}}

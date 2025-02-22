@@ -1,0 +1,3 @@
+{"pattern": "(?i)kräver\\s+([^\\.]+)", "example": {"file": "50464770_bro.md", "match": "kräver mer än 13 W", "captured": ["mer än 13 W"]}}
+{"pattern": "(?i)kräver\\s+([^\\.]+)", "example": {"file": "50464771_bro.md", "match": "kräver mer än 13 W", "captured": ["mer än 13 W"]}}
+{"pattern": "(?i)kräver\\s+([^\\.]+)", "example": {"file": "50464772_bro.md", "match": "kräver mer än 13 W", "captured": ["mer än 13 W"]}}

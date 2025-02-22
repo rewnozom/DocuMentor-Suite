@@ -1,0 +1,7 @@
+{"pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50155072_pro.md", "match": "vikt: 5kg", "captured": ["5"]}}
+{"pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50155073_pro.md", "match": "vikt: 4kg", "captured": ["4"]}}
+{"pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50155074_pro.md", "match": "vikt: 3kg", "captured": ["3"]}}
+{"pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50026450_Pro.md", "match": "Weight: 91 g", "captured": ["91"]}}
+{"pattern": "(?i)(?:nettovikt|net weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50155072_pro.md", "match": "Nettovikt: 5kg", "captured": ["5"]}}
+{"pattern": "(?i)(?:nettovikt|net weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50155073_pro.md", "match": "Nettovikt: 4kg", "captured": ["4"]}}
+{"pattern": "(?i)(?:nettovikt|net weight)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:kg|g)", "example": {"file": "50155074_pro.md", "match": "Nettovikt: 3kg", "captured": ["3"]}}

@@ -1,0 +1,2 @@
+{"pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:\\.\\d+)?)\\s*°?C", "example": {"file": "50132277_man.md", "match": "temperatur:-30 °C", "captured": ["-30"]}}
+{"pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:\\.\\d+)?)\\s*°?C", "example": {"file": "50132277_man.md", "match": "temperatur: -30 °C", "captured": ["-30"]}}

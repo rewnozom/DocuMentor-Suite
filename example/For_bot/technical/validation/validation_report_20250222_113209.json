@@ -1,0 +1,70 @@
+{
+  "timestamp": "20250222_113209",
+  "validation_summary": {
+    "valid": 405,
+    "invalid": 0,
+    "unknown": 0
+  },
+  "validation_per_category": {
+    "DIMENSIONS": {
+      "valid": 52,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "MATERIAL": {
+      "valid": 29,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "TEMPERATURE": {
+      "valid": 2,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "ELECTRICAL": {
+      "valid": 138,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "NETWORK": {
+      "valid": 20,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "CONNECTION": {
+      "valid": 74,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "COLOR": {
+      "valid": 56,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "WEIGHT": {
+      "valid": 3,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "ENVIRONMENTAL": {
+      "valid": 13,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "MISCELLANEOUS": {
+      "valid": 10,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "LIGHTING": {
+      "valid": 1,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "PERFORMANCE": {
+      "valid": 7,
+      "invalid": 0,
+      "validation_issues": []
+    }
+  }
+}

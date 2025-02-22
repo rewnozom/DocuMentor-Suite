@@ -1,0 +1,356 @@
+{
+  "timestamp": "20250222_113148",
+  "validation_summary": {
+    "valid": 216,
+    "invalid": 548,
+    "unknown": 0
+  },
+  "validation_per_type": {
+    "EAN-13": {
+      "valid": 107,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "Artikelnummer": {
+      "valid": 16,
+      "invalid": 471,
+      "validation_issues": [
+        {
+          "product_id": "unknown",
+          "identifier": "erences",
+          "original": "erences",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "erence",
+          "original": "erence",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "nummer",
+          "original": "nummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "ikelnummer",
+          "original": "ikelnummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "nummer",
+          "original": "nummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "ikelnummer",
+          "original": "ikelnummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "nummer",
+          "original": "nummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "ikelnummer",
+          "original": "ikelnummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "nummer",
+          "original": "nummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "ikelnummer",
+          "original": "ikelnummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "nummer",
+          "original": "nummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "ikelnummer",
+          "original": "ikelnummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "nummer",
+          "original": "nummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "ikelnummer",
+          "original": "ikelnummer",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "erences",
+          "original": "erences",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "Summary",
+          "original": "Summary",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "erences",
+          "original": "erences",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "erence",
+          "original": "erence",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "erences",
+          "original": "erences",
+          "validation_message": "För kort artikelnummer"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "erence",
+          "original": "erence",
+          "validation_message": "För kort artikelnummer"
+        }
+      ]
+    },
+    "E-nummer": {
+      "valid": 92,
+      "invalid": 0,
+      "validation_issues": []
+    },
+    "UPC-A": {
+      "valid": 0,
+      "invalid": 64,
+      "validation_issues": [
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "556289017701",
+          "original": "556289017701",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)"
+        }
+      ]
+    },
+    "EAN-8": {
+      "valid": 1,
+      "invalid": 13,
+      "validation_issues": [
+        {
+          "product_id": "unknown",
+          "identifier": "28160172",
+          "original": "28160172",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 5, faktisk: 2)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160170",
+          "original": "28160170",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 5, faktisk: 0)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160154",
+          "original": "28160154",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 7, faktisk: 4)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160152",
+          "original": "28160152",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 7, faktisk: 2)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160142",
+          "original": "28160142",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 2)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160122",
+          "original": "28160122",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 0, faktisk: 2)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160113",
+          "original": "28160113",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 1, faktisk: 3)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160156",
+          "original": "28160156",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 7, faktisk: 6)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160158",
+          "original": "28160158",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 7, faktisk: 8)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160162",
+          "original": "28160162",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 6, faktisk: 2)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160160",
+          "original": "28160160",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 6, faktisk: 0)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160196",
+          "original": "28160196",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 3, faktisk: 6)"
+        },
+        {
+          "product_id": "unknown",
+          "identifier": "28160194",
+          "original": "28160194",
+          "validation_message": "Felaktig kontrollsiffra (förväntad: 3, faktisk: 4)"
+        }
+      ]
+    }
+  }
+}

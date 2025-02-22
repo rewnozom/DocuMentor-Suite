@@ -1,0 +1,12 @@
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50026397_TEK.md", "match": "1.5 Volt", "captured": ["1.5"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50026397_TEK.md", "match": "1.0 V", "captured": ["1.0"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "6 V", "captured": ["6"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "3 V", "captured": ["3"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "0 V", "captured": ["0"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "0 V", "captured": ["0"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "5V", "captured": ["5"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "13.6 V", "captured": ["13.6"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "27.3 V", "captured": ["27.3"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464438_tek.md", "match": "5V", "captured": ["5"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464812_tek.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464812_tek.md", "match": "12V", "captured": ["12"]}}

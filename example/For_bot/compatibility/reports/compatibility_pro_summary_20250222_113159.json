@@ -1,0 +1,167 @@
+{
+  "timestamp": "20250222_113159",
+  "total_pro_files": 363,
+  "total_files_processed": 363,
+  "documents_with_compatibility": 342,
+  "documents_without_compatibility": 21,
+  "compatibility_coverage_percentage": 94.21487603305785,
+  "total_compatibility_relations_found": 4049,
+  "average_relations_per_document": 11.839181286549708,
+  "pattern_group_counts": {
+    "basic": 272,
+    "direct": 48,
+    "requires": 145,
+    "recommended": 52,
+    "fits": 22,
+    "designed_for": 14,
+    "accessory": 15,
+    "replacement": 65,
+    "condition": 1887,
+    "family": 0,
+    "version": 1526,
+    "negative": 0,
+    "article_relation": 3,
+    "list_relation": 0
+  },
+  "relation_type_distribution": {
+    "version": 1526,
+    "condition": 1887,
+    "basic": 272,
+    "recommended": 52,
+    "requires": 145,
+    "replacement": 65,
+    "direct": 48,
+    "accessory": 15,
+    "fits": 22,
+    "article_relation": 3,
+    "designed_for": 14
+  },
+  "pattern_performance_summary": {
+    "top_patterns": [
+      {
+        "pattern_index": 101,
+        "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "condition",
+        "matches": 1483
+      },
+      {
+        "pattern_index": 125,
+        "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 809
+      },
+      {
+        "pattern_index": 102,
+        "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "condition",
+        "matches": 361
+      },
+      {
+        "pattern_index": 124,
+        "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 243
+      },
+      {
+        "pattern_index": 128,
+        "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 239
+      },
+      {
+        "pattern_index": 9,
+        "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "basic",
+        "matches": 114
+      },
+      {
+        "pattern_index": 38,
+        "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "requires",
+        "matches": 79
+      },
+      {
+        "pattern_index": 126,
+        "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 75
+      },
+      {
+        "pattern_index": 1,
+        "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "basic",
+        "matches": 63
+      },
+      {
+        "pattern_index": 94,
+        "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "replacement",
+        "matches": 53
+      }
+    ],
+    "low_performing_patterns": [
+      {
+        "pattern_index": 54,
+        "pattern": "(?i)ideal\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "recommended",
+        "matches": 1
+      },
+      {
+        "pattern_index": 14,
+        "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "basic",
+        "matches": 1
+      },
+      {
+        "pattern_index": 79,
+        "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "accessory",
+        "matches": 1
+      },
+      {
+        "pattern_index": 97,
+        "pattern": "(?i)(?:endast|bara)\\s+(?:vid|för|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "condition",
+        "matches": 2
+      },
+      {
+        "pattern_index": 145,
+        "pattern": "(?i)passar\\s+(?:till|med|för)\\s+(?:[^\\.;]*?)((?:\\d{5,8}|E-\\s*\\d{7})(?:\\s*,\\s*(?:\\d{5,8}|E-\\s*\\d{7}))*)",
+        "group": "article_relation",
+        "matches": 3
+      },
+      {
+        "pattern_index": 3,
+        "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "basic",
+        "matches": 3
+      },
+      {
+        "pattern_index": 18,
+        "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "direct",
+        "matches": 3
+      },
+      {
+        "pattern_index": 12,
+        "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "basic",
+        "matches": 3
+      },
+      {
+        "pattern_index": 45,
+        "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "recommended",
+        "matches": 3
+      },
+      {
+        "pattern_index": 55,
+        "pattern": "(?i)perfekt\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "recommended",
+        "matches": 3
+      }
+    ]
+  },
+  "suggested_patterns_count": 6,
+  "discovered_patterns_count": 0
+}

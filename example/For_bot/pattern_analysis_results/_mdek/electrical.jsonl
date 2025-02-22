@@ -1,0 +1,1 @@
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50464812_mdek.md", "match": "230 V", "captured": ["230"]}}

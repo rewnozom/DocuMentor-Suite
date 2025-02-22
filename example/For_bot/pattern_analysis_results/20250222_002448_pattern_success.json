@@ -1,0 +1,596 @@
+{
+  "_pro": {
+    "article_numbers": {
+      "success": 245,
+      "total": 369
+    },
+    "basic_compatibility": {
+      "success": 123,
+      "total": 369
+    },
+    "direct_compatibility": {
+      "success": 35,
+      "total": 369
+    },
+    "requires_compatibility": {
+      "success": 53,
+      "total": 369
+    },
+    "recommended_compatibility": {
+      "success": 42,
+      "total": 369
+    },
+    "replacement": {
+      "success": 6,
+      "total": 369
+    },
+    "condition": {
+      "success": 247,
+      "total": 369
+    },
+    "family": {
+      "success": 0,
+      "total": 369
+    },
+    "dimensions": {
+      "success": 42,
+      "total": 369
+    },
+    "electrical": {
+      "success": 315,
+      "total": 369
+    },
+    "weight": {
+      "success": 4,
+      "total": 369
+    },
+    "temperature": {
+      "success": 3,
+      "total": 369
+    },
+    "humidity": {
+      "success": 0,
+      "total": 369
+    },
+    "protection": {
+      "success": 0,
+      "total": 369
+    },
+    "protocol": {
+      "success": 5,
+      "total": 369
+    },
+    "certification": {
+      "success": 42,
+      "total": 369
+    }
+  },
+  "_TEK": {
+    "article_numbers": {
+      "success": 4,
+      "total": 4
+    },
+    "basic_compatibility": {
+      "success": 0,
+      "total": 4
+    },
+    "direct_compatibility": {
+      "success": 0,
+      "total": 4
+    },
+    "requires_compatibility": {
+      "success": 0,
+      "total": 4
+    },
+    "recommended_compatibility": {
+      "success": 0,
+      "total": 4
+    },
+    "replacement": {
+      "success": 0,
+      "total": 4
+    },
+    "condition": {
+      "success": 2,
+      "total": 4
+    },
+    "family": {
+      "success": 0,
+      "total": 4
+    },
+    "dimensions": {
+      "success": 1,
+      "total": 4
+    },
+    "electrical": {
+      "success": 3,
+      "total": 4
+    },
+    "weight": {
+      "success": 0,
+      "total": 4
+    },
+    "temperature": {
+      "success": 0,
+      "total": 4
+    },
+    "humidity": {
+      "success": 0,
+      "total": 4
+    },
+    "protection": {
+      "success": 0,
+      "total": 4
+    },
+    "protocol": {
+      "success": 0,
+      "total": 4
+    },
+    "certification": {
+      "success": 1,
+      "total": 4
+    }
+  },
+  "_sak": {
+    "article_numbers": {
+      "success": 20,
+      "total": 55
+    },
+    "basic_compatibility": {
+      "success": 1,
+      "total": 55
+    },
+    "direct_compatibility": {
+      "success": 0,
+      "total": 55
+    },
+    "requires_compatibility": {
+      "success": 36,
+      "total": 55
+    },
+    "recommended_compatibility": {
+      "success": 1,
+      "total": 55
+    },
+    "replacement": {
+      "success": 0,
+      "total": 55
+    },
+    "condition": {
+      "success": 52,
+      "total": 55
+    },
+    "family": {
+      "success": 0,
+      "total": 55
+    },
+    "dimensions": {
+      "success": 0,
+      "total": 55
+    },
+    "electrical": {
+      "success": 43,
+      "total": 55
+    },
+    "weight": {
+      "success": 0,
+      "total": 55
+    },
+    "temperature": {
+      "success": 0,
+      "total": 55
+    },
+    "humidity": {
+      "success": 0,
+      "total": 55
+    },
+    "protection": {
+      "success": 0,
+      "total": 55
+    },
+    "protocol": {
+      "success": 0,
+      "total": 55
+    },
+    "certification": {
+      "success": 0,
+      "total": 55
+    }
+  },
+  "_man": {
+    "article_numbers": {
+      "success": 37,
+      "total": 55
+    },
+    "basic_compatibility": {
+      "success": 27,
+      "total": 55
+    },
+    "direct_compatibility": {
+      "success": 8,
+      "total": 55
+    },
+    "requires_compatibility": {
+      "success": 15,
+      "total": 55
+    },
+    "recommended_compatibility": {
+      "success": 5,
+      "total": 55
+    },
+    "replacement": {
+      "success": 13,
+      "total": 55
+    },
+    "condition": {
+      "success": 55,
+      "total": 55
+    },
+    "family": {
+      "success": 0,
+      "total": 55
+    },
+    "dimensions": {
+      "success": 13,
+      "total": 55
+    },
+    "electrical": {
+      "success": 53,
+      "total": 55
+    },
+    "weight": {
+      "success": 1,
+      "total": 55
+    },
+    "temperature": {
+      "success": 1,
+      "total": 55
+    },
+    "humidity": {
+      "success": 0,
+      "total": 55
+    },
+    "protection": {
+      "success": 0,
+      "total": 55
+    },
+    "protocol": {
+      "success": 0,
+      "total": 55
+    },
+    "certification": {
+      "success": 2,
+      "total": 55
+    }
+  },
+  "_ins": {
+    "article_numbers": {
+      "success": 58,
+      "total": 80
+    },
+    "basic_compatibility": {
+      "success": 22,
+      "total": 80
+    },
+    "direct_compatibility": {
+      "success": 5,
+      "total": 80
+    },
+    "requires_compatibility": {
+      "success": 29,
+      "total": 80
+    },
+    "recommended_compatibility": {
+      "success": 7,
+      "total": 80
+    },
+    "replacement": {
+      "success": 32,
+      "total": 80
+    },
+    "condition": {
+      "success": 79,
+      "total": 80
+    },
+    "family": {
+      "success": 0,
+      "total": 80
+    },
+    "dimensions": {
+      "success": 32,
+      "total": 80
+    },
+    "electrical": {
+      "success": 77,
+      "total": 80
+    },
+    "weight": {
+      "success": 0,
+      "total": 80
+    },
+    "temperature": {
+      "success": 0,
+      "total": 80
+    },
+    "humidity": {
+      "success": 0,
+      "total": 80
+    },
+    "protection": {
+      "success": 0,
+      "total": 80
+    },
+    "protocol": {
+      "success": 12,
+      "total": 80
+    },
+    "certification": {
+      "success": 20,
+      "total": 80
+    }
+  },
+  "_CERT": {
+    "article_numbers": {
+      "success": 29,
+      "total": 35
+    },
+    "basic_compatibility": {
+      "success": 0,
+      "total": 35
+    },
+    "direct_compatibility": {
+      "success": 0,
+      "total": 35
+    },
+    "requires_compatibility": {
+      "success": 0,
+      "total": 35
+    },
+    "recommended_compatibility": {
+      "success": 0,
+      "total": 35
+    },
+    "replacement": {
+      "success": 0,
+      "total": 35
+    },
+    "condition": {
+      "success": 18,
+      "total": 35
+    },
+    "family": {
+      "success": 0,
+      "total": 35
+    },
+    "dimensions": {
+      "success": 0,
+      "total": 35
+    },
+    "electrical": {
+      "success": 13,
+      "total": 35
+    },
+    "weight": {
+      "success": 0,
+      "total": 35
+    },
+    "temperature": {
+      "success": 0,
+      "total": 35
+    },
+    "humidity": {
+      "success": 0,
+      "total": 35
+    },
+    "protection": {
+      "success": 0,
+      "total": 35
+    },
+    "protocol": {
+      "success": 0,
+      "total": 35
+    },
+    "certification": {
+      "success": 2,
+      "total": 35
+    }
+  },
+  "_BRO": {
+    "article_numbers": {
+      "success": 20,
+      "total": 32
+    },
+    "basic_compatibility": {
+      "success": 27,
+      "total": 32
+    },
+    "direct_compatibility": {
+      "success": 0,
+      "total": 32
+    },
+    "requires_compatibility": {
+      "success": 3,
+      "total": 32
+    },
+    "recommended_compatibility": {
+      "success": 12,
+      "total": 32
+    },
+    "replacement": {
+      "success": 0,
+      "total": 32
+    },
+    "condition": {
+      "success": 32,
+      "total": 32
+    },
+    "family": {
+      "success": 0,
+      "total": 32
+    },
+    "dimensions": {
+      "success": 0,
+      "total": 32
+    },
+    "electrical": {
+      "success": 20,
+      "total": 32
+    },
+    "weight": {
+      "success": 0,
+      "total": 32
+    },
+    "temperature": {
+      "success": 0,
+      "total": 32
+    },
+    "humidity": {
+      "success": 0,
+      "total": 32
+    },
+    "protection": {
+      "success": 0,
+      "total": 32
+    },
+    "protocol": {
+      "success": 0,
+      "total": 32
+    },
+    "certification": {
+      "success": 0,
+      "total": 32
+    }
+  },
+  "_PRE": {
+    "article_numbers": {
+      "success": 14,
+      "total": 14
+    },
+    "basic_compatibility": {
+      "success": 14,
+      "total": 14
+    },
+    "direct_compatibility": {
+      "success": 14,
+      "total": 14
+    },
+    "requires_compatibility": {
+      "success": 14,
+      "total": 14
+    },
+    "recommended_compatibility": {
+      "success": 14,
+      "total": 14
+    },
+    "replacement": {
+      "success": 14,
+      "total": 14
+    },
+    "condition": {
+      "success": 14,
+      "total": 14
+    },
+    "family": {
+      "success": 0,
+      "total": 14
+    },
+    "dimensions": {
+      "success": 0,
+      "total": 14
+    },
+    "electrical": {
+      "success": 14,
+      "total": 14
+    },
+    "weight": {
+      "success": 0,
+      "total": 14
+    },
+    "temperature": {
+      "success": 0,
+      "total": 14
+    },
+    "humidity": {
+      "success": 0,
+      "total": 14
+    },
+    "protection": {
+      "success": 0,
+      "total": 14
+    },
+    "protocol": {
+      "success": 0,
+      "total": 14
+    },
+    "certification": {
+      "success": 14,
+      "total": 14
+    }
+  },
+  "_mdek": {
+    "article_numbers": {
+      "success": 1,
+      "total": 1
+    },
+    "basic_compatibility": {
+      "success": 0,
+      "total": 1
+    },
+    "direct_compatibility": {
+      "success": 0,
+      "total": 1
+    },
+    "requires_compatibility": {
+      "success": 0,
+      "total": 1
+    },
+    "recommended_compatibility": {
+      "success": 0,
+      "total": 1
+    },
+    "replacement": {
+      "success": 0,
+      "total": 1
+    },
+    "condition": {
+      "success": 1,
+      "total": 1
+    },
+    "family": {
+      "success": 0,
+      "total": 1
+    },
+    "dimensions": {
+      "success": 0,
+      "total": 1
+    },
+    "electrical": {
+      "success": 1,
+      "total": 1
+    },
+    "weight": {
+      "success": 0,
+      "total": 1
+    },
+    "temperature": {
+      "success": 0,
+      "total": 1
+    },
+    "humidity": {
+      "success": 0,
+      "total": 1
+    },
+    "protection": {
+      "success": 0,
+      "total": 1
+    },
+    "protocol": {
+      "success": 0,
+      "total": 1
+    },
+    "certification": {
+      "success": 1,
+      "total": 1
+    }
+  }
+}

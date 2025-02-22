@@ -1,0 +1,35 @@
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50463477_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50463494_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50463495_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50463496_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50463497_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50463498_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50464763_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50464763_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50464763_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50464763_man.md", "match": "55 mm x 52 mm", "captured": ["55", "52", null]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50463477_man.md", "match": "Höjd: 222 mm", "captured": ["222"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50463494_man.md", "match": "Höjd: 444 mm", "captured": ["444"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50463495_man.md", "match": "Höjd: 444 mm", "captured": ["444"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50463496_man.md", "match": "Höjd: 224 mm", "captured": ["224"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50463497_man.md", "match": "Höjd: 224 mm", "captured": ["224"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50463498_man.md", "match": "Höjd: 222 mm", "captured": ["222"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "Höjd: 230 mm", "captured": ["230"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "Höjd: 272 mm", "captured": ["272"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "Height: 230 mm", "captured": ["230"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "Height: 242 mm", "captured": ["242"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464764_man.md", "match": "Höjd: 224 mm", "captured": ["224"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464767_man.md", "match": "Höjd: 444 mm", "captured": ["444"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464768_man.md", "match": "Höjd: 224 mm", "captured": ["224"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464769_man.md", "match": "Höjd: 224 mm", "captured": ["224"]}}
+{"pattern": "(?i)(?:height|höjd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464812_man.md", "match": "Höjd: 222 mm", "captured": ["222"]}}
+{"pattern": "(?i)(?:width|bredd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "bredd: 216 mm", "captured": ["216"]}}
+{"pattern": "(?i)(?:width|bredd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "bredd: 344 mm", "captured": ["344"]}}
+{"pattern": "(?i)(?:width|bredd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "width: 216 mm", "captured": ["216"]}}
+{"pattern": "(?i)(?:width|bredd)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "width: 350 mm", "captured": ["350"]}}
+{"pattern": "(?i)(?:depth|djup)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "djup: 85 mm", "captured": ["85"]}}
+{"pattern": "(?i)(?:depth|djup)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "djup: 115 mm", "captured": ["115"]}}
+{"pattern": "(?i)(?:depth|djup)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "depth: 85 mm", "captured": ["85"]}}
+{"pattern": "(?i)(?:depth|djup)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)", "example": {"file": "50464763_man.md", "match": "depth: 150 mm", "captured": ["150"]}}
+{"pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)", "example": {"file": "50464894_man.md", "match": "Dimensions : 56 x 38 x 39 mm Battery : Lithium polymer |\n| Material | : PC + POM    | Battery protection: Over-charge and over-discharge     |\n\n# Usage and Care\n\n- · Do not dismantle headlamp, as this can cause harm to the headlamp and the berson will void the warranty", "captured": ["56 x 38 x 39 mm Battery : Lithium polymer |\n| Material | : PC + POM    | Battery protection: Over-charge and over-discharge     |\n\n# Usage and Care\n\n- · Do not dismantle headlamp, as this can cause harm to the headlamp and the berson will void the warranty"]}}
+{"pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)", "example": {"file": "50464894_man.md", "match": "Dimensions : 56 x 38 x 39 mm Batterie I FD CREE / SMD ", "captured": ["56 x 38 x 39 mm Batterie I FD CREE / SMD "]}}

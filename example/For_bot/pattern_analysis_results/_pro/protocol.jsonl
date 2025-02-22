@@ -1,0 +1,5 @@
+{"pattern": "(?i)(?:protokoll|protocol):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50097986_pro.md", "match": "PROTOKOLL: kommande", "captured": ["kommande"]}}
+{"pattern": "(?i)(?:protokoll|protocol):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50097987_pro.md", "match": "PROTOKOLL: kommande", "captured": ["kommande"]}}
+{"pattern": "(?i)(?:protokoll|protocol):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50097989_pro.md", "match": "PROTOKOLL: kommande", "captured": ["kommande"]}}
+{"pattern": "(?i)(?:protokoll|protocol):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50097999_pro.md", "match": "PROTOKOLL: kommande", "captured": ["kommande"]}}
+{"pattern": "(?i)(?:protokoll|protocol):\\s*([A-Za-z0-9\\-]+)", "example": {"file": "50098000_pro.md", "match": "PROTOKOLL: kommande", "captured": ["kommande"]}}

@@ -1,0 +1,371 @@
+{
+  "timestamp": "20250222_113159",
+  "total_patterns": 155,
+  "patterns_with_matches": 53,
+  "individual_pattern_performance": {
+    "101": {
+      "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1483,
+      "group": "condition",
+      "percentage": 36.62632748826871
+    },
+    "125": {
+      "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 809,
+      "group": "version",
+      "percentage": 19.98024203507039
+    },
+    "102": {
+      "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 361,
+      "group": "condition",
+      "percentage": 8.915781674487528
+    },
+    "124": {
+      "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 243,
+      "group": "version",
+      "percentage": 6.001481847369721
+    },
+    "128": {
+      "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 239,
+      "group": "version",
+      "percentage": 5.902692022721659
+    },
+    "9": {
+      "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 114,
+      "group": "basic",
+      "percentage": 2.8155100024697455
+    },
+    "38": {
+      "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 79,
+      "group": "requires",
+      "percentage": 1.9510990367992098
+    },
+    "126": {
+      "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 75,
+      "group": "version",
+      "percentage": 1.8523092121511482
+    },
+    "1": {
+      "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 63,
+      "group": "basic",
+      "percentage": 1.5559397382069649
+    },
+    "94": {
+      "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 53,
+      "group": "replacement",
+      "percentage": 1.3089651765868116
+    },
+    "127": {
+      "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 51,
+      "group": "version",
+      "percentage": 1.2595702642627808
+    },
+    "129": {
+      "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 38,
+      "group": "version",
+      "percentage": 0.9385033341565818
+    },
+    "35": {
+      "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 33,
+      "group": "requires",
+      "percentage": 0.8150160533465054
+    },
+    "10": {
+      "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 29,
+      "group": "basic",
+      "percentage": 0.7162262286984441
+    },
+    "132": {
+      "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 29,
+      "group": "version",
+      "percentage": 0.7162262286984441
+    },
+    "48": {
+      "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 27,
+      "group": "recommended",
+      "percentage": 0.6668313163744134
+    },
+    "122": {
+      "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 26,
+      "group": "version",
+      "percentage": 0.6421338602123982
+    },
+    "4": {
+      "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 26,
+      "group": "basic",
+      "percentage": 0.6421338602123982
+    },
+    "21": {
+      "pattern": "(?i)(?:kan|can)\\s+användas\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 25,
+      "group": "direct",
+      "percentage": 0.6174364040503828
+    },
+    "106": {
+      "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 21,
+      "group": "condition",
+      "percentage": 0.5186465794023215
+    },
+    "58": {
+      "pattern": "(?i)passar\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 18,
+      "group": "fits",
+      "percentage": 0.4445542109162756
+    },
+    "31": {
+      "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 15,
+      "group": "requires",
+      "percentage": 0.37046184243022967
+    },
+    "98": {
+      "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 15,
+      "group": "condition",
+      "percentage": 0.37046184243022967
+    },
+    "8": {
+      "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 14,
+      "group": "basic",
+      "percentage": 0.3457643862682144
+    },
+    "69": {
+      "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 14,
+      "group": "designed_for",
+      "percentage": 0.3457643862682144
+    },
+    "37": {
+      "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 13,
+      "group": "requires",
+      "percentage": 0.3210669301061991
+    },
+    "47": {
+      "pattern": "(?i)(?:bäst|optimal)\\s+(?:med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 12,
+      "group": "recommended",
+      "percentage": 0.2963694739441837
+    },
+    "23": {
+      "pattern": "(?i)ansluts\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 11,
+      "group": "direct",
+      "percentage": 0.27167201778216843
+    },
+    "81": {
+      "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 11,
+      "group": "accessory",
+      "percentage": 0.27167201778216843
+    },
+    "2": {
+      "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 9,
+      "group": "basic",
+      "percentage": 0.2222771054581378
+    },
+    "17": {
+      "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 9,
+      "group": "direct",
+      "percentage": 0.2222771054581378
+    },
+    "131": {
+      "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 9,
+      "group": "version",
+      "percentage": 0.2222771054581378
+    },
+    "130": {
+      "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 7,
+      "group": "version",
+      "percentage": 0.1728821931341072
+    },
+    "89": {
+      "pattern": "(?i)replacement\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 6,
+      "group": "replacement",
+      "percentage": 0.14818473697209186
+    },
+    "53": {
+      "pattern": "(?i)idealisk(?:t)?\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 6,
+      "group": "recommended",
+      "percentage": 0.14818473697209186
+    },
+    "84": {
+      "pattern": "(?i)ersättning\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 6,
+      "group": "replacement",
+      "percentage": 0.14818473697209186
+    },
+    "32": {
+      "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 5,
+      "group": "requires",
+      "percentage": 0.12348728081007657
+    },
+    "104": {
+      "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 5,
+      "group": "condition",
+      "percentage": 0.12348728081007657
+    },
+    "0": {
+      "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 4,
+      "group": "basic",
+      "percentage": 0.09878982464806124
+    },
+    "57": {
+      "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 4,
+      "group": "fits",
+      "percentage": 0.09878982464806124
+    },
+    "5": {
+      "pattern": "(?i)(?:monteras|installeras)\\s+tillsammans\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.07409236848604593
+    },
+    "11": {
+      "pattern": "(?i)tillbehör\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.07409236848604593
+    },
+    "75": {
+      "pattern": "(?i)tillbehör\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "accessory",
+      "percentage": 0.07409236848604593
+    },
+    "145": {
+      "pattern": "(?i)passar\\s+(?:till|med|för)\\s+(?:[^\\.;]*?)((?:\\d{5,8}|E-\\s*\\d{7})(?:\\s*,\\s*(?:\\d{5,8}|E-\\s*\\d{7}))*)",
+      "count": 3,
+      "group": "article_relation",
+      "percentage": 0.07409236848604593
+    },
+    "3": {
+      "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.07409236848604593
+    },
+    "18": {
+      "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "direct",
+      "percentage": 0.07409236848604593
+    },
+    "12": {
+      "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.07409236848604593
+    },
+    "45": {
+      "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "recommended",
+      "percentage": 0.07409236848604593
+    },
+    "55": {
+      "pattern": "(?i)perfekt\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "recommended",
+      "percentage": 0.07409236848604593
+    },
+    "97": {
+      "pattern": "(?i)(?:endast|bara)\\s+(?:vid|för|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 2,
+      "group": "condition",
+      "percentage": 0.04939491232403062
+    },
+    "54": {
+      "pattern": "(?i)ideal\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "recommended",
+      "percentage": 0.02469745616201531
+    },
+    "14": {
+      "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "basic",
+      "percentage": 0.02469745616201531
+    },
+    "79": {
+      "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "accessory",
+      "percentage": 0.02469745616201531
+    }
+  },
+  "pattern_group_performance": {
+    "basic": {
+      "total_matches": 272,
+      "percentage_of_all_matches": 6.717708076068166
+    },
+    "direct": {
+      "total_matches": 48,
+      "percentage_of_all_matches": 1.185477895776735
+    },
+    "requires": {
+      "total_matches": 145,
+      "percentage_of_all_matches": 3.58113114349222
+    },
+    "recommended": {
+      "total_matches": 52,
+      "percentage_of_all_matches": 1.2842677204247963
+    },
+    "fits": {
+      "total_matches": 22,
+      "percentage_of_all_matches": 0.5433440355643369
+    },
+    "designed_for": {
+      "total_matches": 14,
+      "percentage_of_all_matches": 0.3457643862682144
+    },
+    "accessory": {
+      "total_matches": 15,
+      "percentage_of_all_matches": 0.37046184243022967
+    },
+    "replacement": {
+      "total_matches": 65,
+      "percentage_of_all_matches": 1.6053346505309953
+    },
+    "condition": {
+      "total_matches": 1887,
+      "percentage_of_all_matches": 46.604099777722894
+    },
+    "version": {
+      "total_matches": 1526,
+      "percentage_of_all_matches": 37.68831810323537
+    },
+    "article_relation": {
+      "total_matches": 3,
+      "percentage_of_all_matches": 0.07409236848604593
+    }
+  }
+}

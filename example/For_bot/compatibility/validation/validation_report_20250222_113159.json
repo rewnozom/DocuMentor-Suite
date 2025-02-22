@@ -1,0 +1,20 @@
+{
+  "timestamp": "20250222_113159",
+  "validation_summary": {
+    "total_relations": 4049,
+    "potential_issues": 0
+  },
+  "relation_type_summary": {
+    "version": 1526,
+    "condition": 1887,
+    "basic": 272,
+    "recommended": 52,
+    "requires": 145,
+    "replacement": 65,
+    "direct": 48,
+    "accessory": 15,
+    "fits": 22,
+    "article_relation": 3,
+    "designed_for": 14
+  }
+}

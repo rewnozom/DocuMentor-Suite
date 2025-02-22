@@ -1,0 +1,112 @@
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12.8 V", "captured": ["12.8"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12.8 V", "captured": ["12.8"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50149810_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240 V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "200V", "captured": ["200"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "208V", "captured": ["208"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "220V", "captured": ["220"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "230V", "captured": ["230"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "127 V", "captured": ["127"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "100V", "captured": ["100"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240 V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "7V", "captured": ["7"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "24V", "captured": ["24"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "127 V", "captured": ["127"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "3V", "captured": ["3"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "6V", "captured": ["6"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240 V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "7V", "captured": ["7"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "24V", "captured": ["24"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "127 V", "captured": ["127"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "3V", "captured": ["3"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "12V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "6V", "captured": ["6"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240 V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "230V", "captured": ["230"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "264V", "captured": ["264"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "264V", "captured": ["264"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "127 V", "captured": ["127"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "115V", "captured": ["115"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "132V", "captured": ["132"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "132V", "captured": ["132"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240 V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "170V", "captured": ["170"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "220V", "captured": ["220"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "170V", "captured": ["170"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "127 V", "captured": ["127"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "95V", "captured": ["95"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "110V", "captured": ["110"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "95V", "captured": ["95"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "1000 V", "captured": ["1000"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "2000 V", "captured": ["2000"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "3000 V", "captured": ["3000"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "160V", "captured": ["160"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "140V", "captured": ["140"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "120V", "captured": ["120"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "110V", "captured": ["110"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "175V", "captured": ["175"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "155V", "captured": ["155"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "135V", "captured": ["135"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "125V", "captured": ["125"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "300 V", "captured": ["300"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "290 V", "captured": ["290"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "12 V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "12 V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "12 V", "captured": ["12"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "27.4 V", "captured": ["27.4"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "54.7 V", "captured": ["54.7"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "82.1 V", "captured": ["82.1"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "27.4 V", "captured": ["27.4"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "41.0V", "captured": ["41.0"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "54.7 V", "captured": ["54.7"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "82.1V", "captured": ["82.1"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "109.4V", "captured": ["109.4"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "82.1V", "captured": ["82.1"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "109.4V", "captured": ["109.4"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "208V", "captured": ["208"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "240 V", "captured": ["240"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "170V", "captured": ["170"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "220V", "captured": ["220"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "170V", "captured": ["170"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "127 V", "captured": ["127"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "95V", "captured": ["95"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "110V", "captured": ["110"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "95V", "captured": ["95"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "1000 V", "captured": ["1000"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "2000 V", "captured": ["2000"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "3000 V", "captured": ["3000"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "85V", "captured": ["85"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "75V", "captured": ["75"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "65V", "captured": ["65"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "55V", "captured": ["55"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "160V", "captured": ["160"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "140V", "captured": ["140"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "120V", "captured": ["120"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "110V", "captured": ["110"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "95V", "captured": ["95"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "85V", "captured": ["85"]}}
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*V(?:olt)?", "example": {"file": "50135345_man.md", "match": "75V", "captured": ["75"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50135351_man.md", "match": "voltage:\n\n24V", "captured": ["24"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50135352_man.md", "match": "voltage:\n\n24V", "captured": ["24"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50135353_man.md", "match": "voltage:\n\n24V", "captured": ["24"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50464767_man.md", "match": "spänning: 230 V", "captured": ["230"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50464767_man.md", "match": "spänning: 230 V", "captured": ["230"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50464767_man.md", "match": "spänning: 230 V", "captured": ["230"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50464769_man.md", "match": "spänning: 230 V", "captured": ["230"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50464769_man.md", "match": "spänning: 230 V", "captured": ["230"]}}
+{"pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:V|kV|mV)", "example": {"file": "50464769_man.md", "match": "spänning: 230 V", "captured": ["230"]}}
+{"pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:A|mA)", "example": {"file": "50464770_man.md", "match": "ström: 10 A", "captured": ["10"]}}
+{"pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:A|mA)", "example": {"file": "50464771_man.md", "match": "ström: 10 A", "captured": ["10"]}}
+{"pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:\\.\\d+)?)\\s*(?:A|mA)", "example": {"file": "50464772_man.md", "match": "ström: 10 A", "captured": ["10"]}}

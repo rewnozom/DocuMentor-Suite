@@ -1,0 +1,1 @@
+{"pattern": "(?i)(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:\\.\\d+)?)\\s*(?:mm|cm|m)(?:\\s*x\\s*(\\d+(?:\\.\\d+)?))?", "example": {"file": "50026397_TEK.md", "match": "14.5 mm x 50.5 mm", "captured": ["14.5", "50.5", null]}}
