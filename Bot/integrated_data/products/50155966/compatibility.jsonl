@@ -1,0 +1,429 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "passage - portelefon och bilder",  
+  "context": "MBIT/ kanal CE-märkt enligt *EN61000-6-3:2001 EN61000-6-2:2005.* ## ANVÄNDNING Batteribackup med PoE- switch speciellt a**npassad för passage - portelefon och bilder. **Power-over-Ethernet innebär en enkelt, säker och kostnadseffektiv strömförsörjning i ett nätverk. Vid installation av e",  
+  "position": [  
+    693,  
+    738  
+  ],  
+  "pattern_index": 8,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "kompletteras med plintkablage för att vidarekoppla larm",  
+  "context": "Indikeringar och larm: Nätspänning indikeras med grön lysdiod på fronten och batterifellarm med röd blinkande lysdiod. B**ehöver kompletteras med plintkablage för att vidarekoppla larm. **### TEKNISKA DATA Inspänning 88-265VAC +/- 15% 1 fas 50-60Hz Reglering max 0,6 % Batterispänn. 48VDC (54,6V) Temp.omr-",  
+  "position": [  
+    345,  
+    409  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "designed_for",  
+  "related_product": "passage - portelefon och bilder",  
+  "context": "MBIT/ kanal CE-märkt enligt *EN61000-6-3:2001 EN61000-6-2:2005.* ## ANVÄNDNING Batteribackup med PoE- switch speciellt a**npassad för passage - portelefon och bilder. **Power-over-Ethernet innebär en enkelt, säker och kostnadseffektiv strömförsörjning i ett nätverk. Vid installation av e",  
+  "position": [  
+    693,  
+    738  
+  ],  
+  "pattern_index": 69,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är avsett att användas som ingång (utan POE)",  
+  "context": "e samt med 4-36 portar, med inbyggd batteribackup. Bestyckad med ett RJ45 8-pol uttag utöver det ordinarie portantalet s**om är avsett att användas som ingång (utan POE).** Övriga portar är RJ45 8 pol som är försedda med led för datatrafik och status. | E-Nummer | Typ | Beskrivning | HxBxD m",  
+  "position": [  
+    1629,  
+    1677  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är försedda med led för datatrafik och status",  
+  "context": "l uttag utöver det ordinarie portantalet som är avsett att användas som ingång (utan POE). Övriga portar är RJ45 8 pol s**om är försedda med led för datatrafik och status.** | E-Nummer | Typ | Beskrivning | HxBxD mm | |----------|-------------|-------------------------------------------------",  
+  "position": [  
+    1707,  
+    1756  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är kopplad till en plint och tre lösa batteribyglar",  
+  "context": "aceras på botten i enheten och kopplas i serie till 48V vilket är systemspänningen. Det färdiga kablaget, en röd/svart s**om är kopplad till en plint och tre lösa batteribyglar.** Anslut den svarta kabeln, från plinten till minus på det första batteriet och en batteribygel till plus på batteriet. S",  
+  "position": [  
+    3011,  
+    3066  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ihåg att batterier är alltid elektrokemiskt aktiva",  
+  "context": "er fast i sin hållare. Nu är batterierna installerade och kommer automatiskt kopplas in när aggregatet spänningssatts. K**om ihåg att batterier är alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. # Väggmodellen # INKOPPLING OCH START - Montera aggregatet fritt. Minst 40mm på varje sid",  
+  "position": [  
+    3627,  
+    3681  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "att bekräfta installationen. - Kontrollera gärna laddningsspänningen. Spänningsjustering görs direkt på likriktaren. - O**m lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. **- Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. ![](images/_page_1_Picture_17.jpeg) Postadress/Po",  
+  "position": [  
+    4153,  
+    4237  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "luckan till höger på enheten och kopplas i serie till 48V vilket är systemspänningen",  
+  "context": "re_1.jpeg) ![](images/_page_2_Picture_2.jpeg) # Rackmodellen # INKOPPLING AV BATTERI Batterierna (4st 12V max 9Ah) placeras bak**om luckan till höger på enheten och kopplas i serie till 48V vilket är systemspänningen.** Luckan öppnas med de två skruvarna upptill och fälls ned. Där bakom ligger batterikablarna, en röd/svart som är kopplad",  
+  "position": [  
+    4699,  
+    4787  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ligger batterikablarna en röd/svart som är kopplad till en plint och tre lösa batteribyglar",  
+  "context": "h kopplas i serie till 48V vilket är systemspänningen. Luckan öppnas med de två skruvarna upptill och fälls ned. Där bak**om ligger batterikablarna, en röd/svart som är kopplad till en plint och tre lösa batteribyglar.** Anslut den svarta kabeln, från plinten till minus på det första batteriet och en batteribygel till plus på batteriet. S",  
+  "position": [  
+    4853,  
+    4949  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ihåg att batterier är alltid elektrokemiskt aktiva",  
+  "context": "er fast i sin hållare. Nu är batterierna installerade och kommer automatiskt kopplas in när aggregatet spänningssatts. K**om ihåg att batterier är alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. # INKOPPLING OCH START - Montera aggregatet fritt. Minst 40mm på varje sida. - Anslut bat",  
+  "position": [  
+    5521,  
+    5575  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "att bekräfta installationen. - Kontrollera gärna laddningsspänningen. Spänningsjustering görs direkt på likriktaren. - O**m lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. **- Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. Postadress/Postal address **Swansons Telem",  
+  "position": [  
+    6038,  
+    6122  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": ".se e-post info@swtm.se VAT.NO SE556289017701 ![](images/_page_3_Picture_1.jpeg) ## SÄKERHET Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Endast",  
+  "position": [  
+    6472,  
+    6525  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "SÄKERHET Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet o**m systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. **Endast auktoriserad och erfaren personal inom AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.",  
+  "position": [  
+    6548,  
+    6638  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+  "context": "ppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.** **SM40 Strömförsörjning med plats för batteri** Endast isolerade verktyg får användas i enheten. Observera att farliga",  
+  "position": [  
+    6682,  
+    6757  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "både när interna säkringarna är av eller på. Kontrollera att kretskort sitter fast och inga delar är transportskadade. O**m batterier används är dessa alltid elektrokemiskt aktiva. **Kortslut inte batteripolerna. ## SÄKRINGAR Det finns säkringar både i power modulen och på själva switchen. Går säkring",  
+  "position": [  
+    7043,  
+    7102  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den ungefärliga driftiden med batteri vid olika medelvärden på lasten",  
+  "context": "atet bytas. Säkringen på Switchen kan lödas loss ock ersättas med en ny. # BATTERIDRIFT Denna tabell ger en uppfattning **om den ungefärliga driftiden med batteri, vid olika medelvärden på lasten.** Om man önskar längre drifttid vid batteridrift så finns det batteriboxar, både för rack och vägg, att ansluta till POE",  
+  "position": [  
+    7381,  
+    7455  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "man önskar längre drifttid vid batteridrift så finns det batteriboxar både för rack och vägg att ansluta till POE switchen",  
+  "context": "BATTERIDRIFT Denna tabell ger en uppfattning om den ungefärliga driftiden med batteri, vid olika medelvärden på lasten. **Om man önskar längre drifttid vid batteridrift så finns det batteriboxar, både för rack och vägg, att ansluta till POE switchen.** Det finns en färdig utgång på batteriplinten där man ansluter den nya boxen. | Utgångar | Batteri | 30W/utg | 15W/utg |",  
+  "position": [  
+    7456,  
+    7584  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "aggregatet spänningssatts",  
+  "context": "na plinten på batterikabeln sitter fast i sin hållare. Nu är batterierna installerade och kommer automatiskt kopplas in **när aggregatet spänningssatts.** Kom ihåg att batterier är alltid elektrokemiskt aktiva. Kortslut inte batteripolerna. # Väggmodellen # INKOPPLING OCH S",  
+  "position": [  
+    3595,  
+    3625  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "aggregatet spänningssatts",  
+  "context": "na plinten på batterikabeln sitter fast i sin hållare. Nu är batterierna installerade och kommer automatiskt kopplas in **när aggregatet spänningssatts.** Kom ihåg att batterier är alltid elektrokemiskt aktiva. Kortslut inte batteripolerna. # INKOPPLING OCH START - Montera",  
+  "position": [  
+    5489,  
+    5519  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Kontrollera att kretskort sitter fast och inga delar är transportskadade. Om batterier används är dessa alltid elektrok",  
+  "position": [  
+    6929,  
+    6968  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djup-urladdning av batterierna",  
+  "context": "_page_0_Picture_1.jpeg) ![](images/_page_0_Picture_2.jpeg) #### Skydd: Aggregatet är skyddad mot överbelastning och kortslutnin**g. Inbyggt skydd mot djup-urladdning av batterierna.** Nät, last och batteri skyddas av säkringar. #### Indikeringar och larm: Nätspänning indikeras med grön lysdiod på front",  
+  "position": [  
+    124,  
+    176  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Högeffektiv – 85% vid nätdrift – 98% vid batteridrift High Power – 30W/utgång - kontinuerlig drift på alla portar samtidigt",  
+  "context": "r portsystem används endast en standard ethernet kabel (UTP KAT5/6) för både bild, datakommunikation och spänningsmatnin**g. Högeffektiv – 85% vid nätdrift – 98% vid batteridrift High Power – 30W/utgång - kontinuerlig drift på alla portar samtidigt.** Övervakad batteriladdare – hög säkerhet. Batterier, nät och utgångar övervakade med larmrelä, LED indikering. #### UTFÖ",  
+  "position": [  
+    1005,  
+    1132  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### UTFÖRANDE POE-48/xx 30W/port IEEE802",  
+  "context": "r samtidigt. Övervakad batteriladdare – hög säkerhet. Batterier, nät och utgångar övervakade med larmrelä, LED indikerin**g. #### UTFÖRANDE: POE-48/xx 30W/port, IEEE802.**3at, PoE Plus är en strömförsörjning med batteriladdare, batterier och switch i en enhet. Uppfyller både IEEE802.3af och",  
+  "position": [  
+    1240,  
+    1287  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Det färdiga kablaget en röd/svart som är kopplad till en plint och tre lösa batteribyglar",  
+  "context": "BATTERI Batterierna (4st 12V max 9Ah) placeras på botten i enheten och kopplas i serie till 48V vilket är systemspänning**en. Det färdiga kablaget, en röd/svart som är kopplad till en plint och tre lösa batteribyglar. **Anslut den svarta kabeln, från plinten till minus på det första batteriet och en batteribygel till plus på batteriet. S",  
+  "position": [  
+    2970,  
+    3066  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Spänningsjustering görs direkt på likriktaren",  
+  "context": "er några sekunder – tryck in den vita resetknappen för att bekräfta installationen. - Kontrollera gärna laddningsspännin**gen. Spänningsjustering görs direkt på likriktaren.** - Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. - Löser utgångssäkringarna, kont",  
+  "position": [  
+    4099,  
+    4150  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Luckan öppnas med de två skruvarna upptill och fälls ned",  
+  "context": "ierna (4st 12V max 9Ah) placeras bakom luckan till höger på enheten och kopplas i serie till 48V vilket är systemspännin**gen. Luckan öppnas med de två skruvarna upptill och fälls ned.** Där bakom ligger batterikablarna, en röd/svart som är kopplad till en plint och tre lösa batteribyglar. Anslut den svar",  
+  "position": [  
+    4783,  
+    4845  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Spänningsjustering görs direkt på likriktaren",  
+  "context": "er några sekunder – tryck in den vita resetknappen för att bekräfta installationen. - Kontrollera gärna laddningsspännin**gen. Spänningsjustering görs direkt på likriktaren.** - Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. - Löser utgångssäkringarna, kont",  
+  "position": [  
+    5984,  
+    6035  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Säkring<br>F1 Nät | Säkring F2-<br>OUT 24VAC | Batteri | Säkring F4 | |----------|-------------------|--------------------------|---------|------------| | POE48-4 | 2A Cer | --- | 10AS | | | POE48-8 | 4A Cer | --- | 10AS | | | POE48-12 | 63A Cer | --- | 10AS | | ![](images/_page_3_Figure_15",  
+  "context": ",5tim | 6,3tim | | | | | | | | 12 | 9Ah | 55min | 1,8tim | 4,9tim | | | | | | | | 23 | 12Ah | 40min | 1,4tim | 4tim | | **Modell | Säkring<br>F1 Nät | Säkring F2-<br>OUT 24VAC | Batteri | Säkring F4 | |----------|-------------------|--------------------------|---------|------------| | POE48-4 | 2A Cer | --- | 10AS | | | POE48-8 | 4A Cer | --- | 10AS | | | POE48-12 | 6,3A Cer | --- | 10AS | | ![](images/_page_3_Figure_15.**jpeg) Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +",  
+  "position": [  
+    7955,  
+    8250  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155966"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Beskrivning | HxBxD mm | |----------|-------------|---------------------------------------------------|-------------| | 5172434 | POE48- 4/R | POE 48V 150W<br>4 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172435 | POE48- 8/R | POE 48V 320W<br>8 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172436 | POE48- 12/R | POE 48V 500W<br>12 PORTAR 19\" max 4x9Ah | 132x480x320 | | 5172437 | POE48- 24/R | POE 48V 600W<br>23 PORTAR 19\" max 4x9Ah | 132x480x320 | | | | | | | 5172431 | POE48- 4/V | POE 48V 150W<br>4 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172432 | POE48- 8/V | POE 48V 320W<br>8 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172433 | POE48- 12/V | POE 48V 600W<br>12 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | | SBX197 | Batteribox 3 19\" max 8x 7-9Ah m säkring o kablage | 132x480x320 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "ndas som ingång (utan POE). Övriga portar är RJ45 8 pol som är försedda med led för datatrafik och status. | E-Nummer | **Typ | Beskrivning | HxBxD mm | |----------|-------------|---------------------------------------------------|-------------| | 5172434 | POE48- 4/R | POE 48V 150W<br>4 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172435 | POE48- 8/R | POE 48V 320W<br>8 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172436 | POE48- 12/R | POE 48V 500W<br>12 PORTAR 19\" max 4x9Ah | 132x480x320 | | 5172437 | POE48- 24/R | POE 48V 600W<br>23 PORTAR 19\" max 4x9Ah | 132x480x320 | | | | | | | 5172431 | POE48- 4/V | POE 48V 150W<br>4 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172432 | POE48- 8/V | POE 48V 320W<br>8 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172433 | POE48- 12/V | POE 48V 600W<br>12 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | | SBX197 | Batteribox 3 19\" max 8x 7-9Ah m säkring o kablage | 132x480x320 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se e-post info@swtm.se VAT.NO SE556289017701 ![](images/_page_1_Picture_1.jpeg) ![](images/_page_1_Picture_2.jpeg) # INKOPPLING A",  
+  "position": [  
+    1770,  
+    2729  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5172434",  
+    "5172435",  
+    "5172436",  
+    "5172437",  
+    "5172431",  
+    "5172432",  
+    "5172433"  
+  ],  
+  "product_id": "50155966"  
+}
+

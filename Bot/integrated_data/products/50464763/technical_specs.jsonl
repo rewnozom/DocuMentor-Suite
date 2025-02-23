@@ -1,0 +1,484 @@
+{  
+  "name": "Dimensions",  
+  "raw_value": "55",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "55",  
+    "unit": null,  
+    "normalized_value": 55.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "är ett driftsäkert<br>hjärta i enklare batteribackuper med färre komponenter än tidigare vilket minskar miljöpåverkan. | | Mått | 120 x 55 mm x 52 mm | | Egenförbrukning | 50 mA",  
+  "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",  
+  "pattern_index": 6,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "Höjd",  
+  "raw_value": "230",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "230",  
+    "unit": null,  
+    "normalized_value": 230.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "---| | Namn | S | | Kapslingsklass | IP 20 | | Mått | Höjd: 230 mm, bredd: 216 mm, djup: 85 mm. | | Höjdenheter | - | | Montering | Vägg",  
+  "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 8,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "Höjd",  
+  "raw_value": "272",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "272",  
+    "unit": null,  
+    "normalized_value": 272.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Kapslingsklass | IP 20 | | Mått | Höjd: 272 mm, bredd: 344 mm, djup: 115 mm. | | Höjdenheter | -",  
+  "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 8,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "Height",  
+  "raw_value": "230",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "230",  
+    "unit": null,  
+    "normalized_value": 230.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "me | S | | Enclosure class | IP 20 | | Measure | Height: 230 mm, width: 216 mm, depth: 85 mm. | | Height units | - | <span id=\"page-48-0\"></span> | Info",  
+  "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 8,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "Height",  
+  "raw_value": "242",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "242",  
+    "unit": null,  
+    "normalized_value": 242.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Enclosure class | IP 20 | | Measure | Height: 242 mm, width: 350 mm, depth: 150 mm. | | Height units | - | | Mo",  
+  "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 8,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "bredd",  
+  "raw_value": "216",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "216",  
+    "unit": null,  
+    "normalized_value": 216.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| S | | Kapslingsklass | IP 20 | | Mått | Höjd: 230 mm, bredd: 216 mm, djup: 85 mm. | | Höjdenheter | - | | Montering | Vägg | <span",  
+  "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 9,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "bredd",  
+  "raw_value": "344",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "344",  
+    "unit": null,  
+    "normalized_value": 344.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Kapslingsklass | IP 20 | | Mått | Höjd: 272 mm, bredd: 344 mm, djup: 115 mm. | | Höjdenheter | - | | Montering",  
+  "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 9,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "width",  
+  "raw_value": "216",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "216",  
+    "unit": null,  
+    "normalized_value": 216.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "S | | Enclosure class | IP 20 | | Measure | Height: 230 mm, width: 216 mm, depth: 85 mm. | | Height units | - | <span id=\"page-48-0\"></span> | Info | Explanat",  
+  "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 9,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "width",  
+  "raw_value": "350",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "350",  
+    "unit": null,  
+    "normalized_value": 350.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Enclosure class | IP 20 | | Measure | Height: 242 mm, width: 350 mm, depth: 150 mm. | | Height units | - | | Mounting",  
+  "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 9,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "djup",  
+  "raw_value": "85",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "85",  
+    "unit": null,  
+    "normalized_value": 85.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Kapslingsklass | IP 20 | | Mått | Höjd: 230 mm, bredd: 216 mm, djup: 85 mm. | | Höjdenheter | - | | Montering | Vägg | <span id=\"page-22-0",  
+  "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 10,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "djup",  
+  "raw_value": "115",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "115",  
+    "unit": null,  
+    "normalized_value": 115.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "lingsklass | IP 20 | | Mått | Höjd: 272 mm, bredd: 344 mm, djup: 115 mm. | | Höjdenheter | - | | Montering",  
+  "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 10,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "depth",  
+  "raw_value": "85",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "85",  
+    "unit": null,  
+    "normalized_value": 85.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Enclosure class | IP 20 | | Measure | Height: 230 mm, width: 216 mm, depth: 85 mm. | | Height units | - | <span id=\"page-48-0\"></span> | Info | Explanation",  
+  "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 10,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "depth",  
+  "raw_value": "150",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "150",  
+    "unit": null,  
+    "normalized_value": 150.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| Enclosure class | IP 20 | | Measure | Height: 242 mm, width: 350 mm, depth: 150 mm. | | Height units | - | | Mounting | Wall",  
+  "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 10,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC Direktivet 2014/30EU           |\n|------|------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU |\n| CE: | CE direktivet enligt:765/2008      |\n\n## 8",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC Direktivet 2014/30EU           |\n|------|------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU |\n| CE: | CE direktivet enligt:765/2008      |\n\n## 8",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ontören ej är behörig elektriker men ändå vill kunna prova systemet. ## 8.2. Regelverk och certifieringar ## 8.2.1. Krav som produkten uppfyller | EMC**: | EMC Direktivet 2014/30EU | |------|---------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC Directive 2014 / 30EU           |  |  |\n|--------------|-------------------------------------|--|--|\n| Electricity: | Low voltage directive: 2014/35 / EU |  |  |\n|              | EN 60950-1                          |  |  |\n| CE: | CE directive according to: 765/2008 |  |  |\n\n## 8",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC Directive 2014 / 30EU           |  |  |\n|--------------|-------------------------------------|--|--|\n| Electricity: | Low voltage directive: 2014/35 / EU |  |  |\n|              | EN 60950-1                          |  |  |\n| CE: | CE directive according to: 765/2008 |  |  |\n\n## 8",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "electrician but still wants to be able to test the system. ## 8.2. Regulations and certifications ## 8.2.1. Requirements that the product meets | EMC:** | EMC Directive 2014 / 30EU | | | |------------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC-direktivet 2014/30EU           |  |\n|------|------------------------------------|--|\n| El: | Lavspenningsdirektivet: 2014/35/EU |  |\n| CE: | CE-direktivet ifølge: 765/2008     |  |\n\n## 8",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC-direktivet 2014/30EU           |  |\n|------|------------------------------------|--|\n| El: | Lavspenningsdirektivet: 2014/35/EU |  |\n| CE: | CE-direktivet ifølge: 765/2008     |  |\n\n## 8",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "tøren ikke er elektriker, men likevel ønsker å kunne teste systemet. ## 8.2. Regelverk og sertifiseringer ## 8.2.1. Krav som produktet oppfyller | EMC**: | EMC-direktivet 2014/30EU | | |------|-------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC-direktiivi 2014/30EU          |\n|--------|-----------------------------------|\n| Sähkö: | Pienjännitedirektiivi: 2014/35/EU |\n| CE: | CE-direktiivi 765/2008            |\n\n## 8",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC-direktiivi 2014/30EU          |\n|--------|-----------------------------------|\n| Sähkö: | Pienjännitedirektiivi: 2014/35/EU |\n| CE: | CE-direktiivi 765/2008            |\n\n## 8",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ettu sähköasentaja, mutta haluaa silti pystyä testaamaan järjestelmän. ## 8.2. Määräykset ja sertifioinnit ## 8.2.1. Määräykset ja sertifioinnit | EMC**: | EMC-direktiivi 2014/30EU | |--------|-------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "outputs",  
+  "raw_value": "Sum alarm in case of fuse fault, see indication below",  
+  "category": "CONNECTION",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "Sum alarm in case of fuse fault, see indication below",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Alarm outputs | Alarm outputs: Sum alarm in case of fuse fault, see indication below. Alarm on potential-free relay contact.",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE direktivet enligt:765/2008      |\n\n## 8",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| CE direktivet enligt:765/2008      |\n\n## 8",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "uppfyller | EMC: | EMC Direktivet 2014/30EU | |------|------------------------------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | CE: | CE di**rektivet enligt:765/2008 | ## 8.3. Förväntad dri...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE directive according to: 765/2008 |  |  |\n\n## 8",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| CE directive according to: 765/2008 |  |  |\n\n## 8",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "------------------|--|--| | Electricity: | Low voltage directive: 2014/35 / EU | | | | | EN 60950-1 | | | | CE: | CE directive according to: 765/2008 **| | | ## 8.3. Expected operating time in the eve...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE-direktivet ifølge: 765/2008     |  |\n\n## 8",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| CE-direktivet ifølge: 765/2008     |  |\n\n## 8",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| EMC: | EMC-direktivet 2014/30EU | | |------|------------------------------------|--| | El: | Lavspenningsdirektivet: 2014/35/EU | | | CE: | CE-direk**tivet ifølge: 765/2008 | | ## 8.3. Forventet dri...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE-direktiivi 765/2008            |\n\n## 8",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| CE-direktiivi 765/2008            |\n\n## 8",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ioinnit | EMC: | EMC-direktiivi 2014/30EU | |--------|-----------------------------------| | Sähkö: | Pienjännitedirektiivi: 2014/35/EU | | CE: | CE-d**irektiivi 765/2008 | ## 8.3. Odotettu toiminta-*...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464763"  
+}
+

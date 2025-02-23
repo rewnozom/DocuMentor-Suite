@@ -1,0 +1,54 @@
+{  
+  "product_id": "50153351",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Plug the USB end into a power source\nuch\n\n- charger\nLED indicator light:\nGreen LED: Charging\n- completed\n- \n- Red LED: Charging in progress\n5. Disoonned the USB cable when fully charged and some of the thanklight\n6. In the event you want to battery unscrew the charging base (B) an\n- and replace charging base (E\nScrew on tail cap securely\n\n## Operation:\n\n- e Poll pross witch on tail cap for On/Off\n Full pross switch -> High -> Half press switch -> Medium -> Half press switch -> Low\n > Half press switch -> Eco -> Half press\nSafety Instructions and Warnings\nUse the device in a temperature range between 0 and 40°C and avoid exposure to direct heat and constant sunlight.",  
+  "key_specifications": [  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "ce",  
+      "value": "Never throw out cells in a fire or expose to high temperatures",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "the battery cell is strong alkali can cause severe irritation and | | 眼睛接觸 | chemical burns",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "residues)** 產品(殘留廢棄物) Do not throw out a used battery cell",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "a battery cell contaminates them dispose them as industrial wastes subject to special control",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "American Conference of Governmental Industrial Hygienists Threshold Limit Value 美國政府工業衛生學家會議所 提供暴露閥值 OSHA PEL Occupational Safety & Health Administration Permissible Exposure Limit 職業安全和健康署所允許暴露閥值 ![](images/_page_7_Picture_1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | | 吸入 | 吸入電解液會導致呼吸過敏並且有可能致癌 | | | | Document Number RRS0541 Revision 27 Date of prepared 01/Jan/2020 | Skin contact | The electrolyte can cause skin irritation chemical burns",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Do not damage or remove the external tube",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erred",  
+      "ificial",  
+      "ition"  
+    ]  
+  }  
+}
+

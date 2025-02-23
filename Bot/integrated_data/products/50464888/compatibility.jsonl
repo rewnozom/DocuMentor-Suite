@@ -1,0 +1,154 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "that batteries being transported by air must be protected from short-circuiting and protected from movement that could lead to short-circuiting",  
+  "context": "ner that prevents the dangerous evolution of heat (For example, by the effective insulation of exposed terminals). IATA **requires that batteries being transported by air must be protected from short-circuiting and protected from movement that could lead to short-circuiting.** ### **Section XV – Regulatory Information** Special requirement be according to the local regulatories. ### **Section X",  
+  "position": [  
+    7842,  
+    7995  
+  ],  
+  "pattern_index": 32,  
+  "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "short-circuiting and protected from movement that could lead to short-circuiting",  
+  "context": "e effective insulation of exposed terminals). IATA requires that batteries being transported by air must be protected fr**om short-circuiting and protected from movement that could lead to short-circuiting.** ### **Section XV – Regulatory Information** Special requirement be according to the local regulatories. ### **Section X",  
+  "position": [  
+    7911,  
+    7995  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "they are offered for transportation in a manner that prevents the dangerous evolution of heat (For example by the effective insulation of exposed terminals)",  
+  "context": "batteries is special provision 130 which states: \"Batteries, dry are not subject to the requirements of this subchapter **only when they are offered for transportation in a manner that prevents the dangerous evolution of heat (For example, by the effective insulation of exposed terminals).** IATA requires that batteries being transported by air must be protected from short-circuiting and protected from moveme",  
+  "position": [  
+    7668,  
+    7836  
+  ],  
+  "pattern_index": 103,  
+  "pattern": "(?i)only\\s+(?:with|for|when)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "that batteries being transported by air must be protected from short-circuiting and protected from movement that could lead to short-circuiting",  
+  "context": "ner that prevents the dangerous evolution of heat (For example, by the effective insulation of exposed terminals). IATA **requires that batteries being transported by air must be protected from short-circuiting and protected from movement that could lead to short-circuiting.** ### **Section XV – Regulatory Information** Special requirement be according to the local regulatories. ### **Section X",  
+  "position": [  
+    7842,  
+    7995  
+  ],  
+  "pattern_index": 104,  
+  "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the requirements of this subchapter only when they are offered for transportation in a manner that prevents the dangerous evolution of heat (For example by the effective insulation of exposed terminals)",  
+  "context": "). The only DOT requirement for shipping these batteries is special provision 130 which states: \"Batteries, dry are not **subject to the requirements of this subchapter only when they are offered for transportation in a manner that prevents the dangerous evolution of heat (For example, by the effective insulation of exposed terminals).** IATA requires that batteries being transported by air must be protected from short-circuiting and protected from moveme",  
+  "position": [  
+    7621,  
+    7836  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "### **Section XV – Regulatory Information** Special requirement be according to the local regulatories",  
+  "context": "ransported by air must be protected from short-circuiting and protected from movement that could lead to short-circuitin**g. ### **Section XV – Regulatory Information** Special requirement be according to the local regulatories.** ### **Section XVI – Other Information** The data in this Material Safety Data Sheet relates only to the specific materi",  
+  "position": [  
+    7993,  
+    8099  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "14 Page 1 of 6 Note Blank spaces are not permitted if any item is not applicable or no information is available the space must be marked to indicate that",  
+  "context": "# **Material Safety Data Sheet Model No.: 1604A** Product Name : 9V Alkaline Battery Document Number: RPKS0112 **Revision : 14 Page 1 of 6 Note: Blank spaces are not permitted if any item is not applicable or no information is available, the space must be marked to indicate that.** IDENTITY (As Used on Label and List) | Section I – Information of Manufacturer | | | | | | |---------------------------",  
+  "position": [  
+    111,  
+    278  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | Tampoi | | | | | | | Johor Bahru Malaysia | 01",  
+  "context": "and ZIP Code) | | | | | | | No.5, Jalan Tampoi 7, | 07-3300033 | | | | | | Kawasan Perindustrian | Date of prepared and **revision | | | | | | Tampoi, | | | | | | | Johor Bahru, Malaysia | 01.**01.2021 | | | | | | | Signature of Preparer (optional) | | | | | | | TF Lai | | | | | # **Section II - Hazardous Ingredi",  
+  "position": [  
+    759,  
+    829  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "14 | | Page 2 of 6 | | | | |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------|---------------|--------------------------|-------------|-----------------|-----|----------------------| | Section V1 - Health Hazard Data | | | | | | | | | | Route(s) of<br>Entry | Inhalation?<br>(N",  
+  "context": "| | | Will Not Occur | | | | (X) | | **Material Safety Data Sheet Model No.: 1604A** | Document Number: RPKS0112 | | | R**evision : 14 | | Page 2 of 6 | | | | |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------|---------------|--------------------------|-------------|-----------------|-----|----------------------| | Section V1 - Health Hazard Data | | | | | | | | | | Route(s) of<br>Entry | Inhalation?<br>(N.A**.) | | | | | Skin?<br>(N.A.) | | Ingestion?<br>(N.A.) | | Health Hazard (Acute and Chronic) / Toxicological information",  
+  "position": [  
+    2806,  
+    3299  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "14 | Page 3 of 6 | | | | | | Section XI – Exposure Controls / Person Protection | | | | | | | | Occupational Exposure Limits LTEP | STEP | | | | | | | N",  
+  "context": "-----------------------------------------|------------------|----------------|--|--|--| | | Document Number: RPKS0112 | **Revision: 14 | Page 3 of 6 | | | | | | Section XI – Exposure Controls / Person Protection | | | | | | | | Occupational Exposure Limits: LTEP | STEP | | | | | | | N.**A. | | N.A. | | | | | | Respiratory Protection (Specify Type) | | | | | | | Ventilation | N.A.<br>Local Exhausts | | Spe",  
+  "position": [  
+    6047,  
+    6211  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Special Provision A123 and International Maritime Dangerous Goods Regulations (IMDG)",  
+  "context": "ortation (DOT), International Civil Aviation Administration (ICAO), International Air Transport Association (IATA) 62nd **edition Special Provision A123 and International Maritime Dangerous Goods Regulations (IMDG).** The only DOT requirement for shipping these batteries is special provision 130 which states: \"Batteries, dry are not su",  
+  "position": [  
+    7410,  
+    7503  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464888"  
+}
+

@@ -1,0 +1,70 @@
+{  
+  "product_id": "50464812",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\nPRODUKTBLAD - STRÖMFÖRSÖRJNING FRÅN MILLETEK-\n\n### **namn, artikelnummer, e-nummer och certifikatsnummer**\n\nNIK\n\n| Namn                                      | Artikelnum<br>mer | E-nummer  |\n|-------------------------------------------|-------------------|-----------|\n| BT-5 FLX SMALL COM<br>t.o.m 20231015      | 28160120          | 52 574 54 |\n| BT-5 FLX Small COM<br>Gen2 från 20231016  | 28160121          | 52 576 96 |\n| BT-10 FLX SMALL COM                       | 28160122          | 52 574 55 |\n| BT-10 FLX Small COM<br>Gen2 från 20240101 | 28160123          | 52 576 97 |\n\n# **ssf1014 certifierad batteribackup med kommunikation**\n\n![](images/_page_0_Picture_4.jpeg)\n\n## **spänning, ström och effekt**\n\nSpänning ut: 27,3 VDC, (24 V). Laddström: 10 A. Strömuttag: 5A.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "ström",  
+      "value": "10",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "12 V, AGM blysyra batteri, underhållsfritt",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC Direktivet 2014/30EU                                                                         |\n|-----------|--------------------------------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                                               |\n| CE: | CE direktivet enligt:765/2008                                                                    |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000,<br>A2:2003 Klass B, EN61000-3-2:2001                      |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6,<br>-11<br>SS-EN 50 130-4:2011 Edition 2, EN50131-6 |\n|           |                                                                                                  |\n\n![](images/_page_1_Picture_0",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE direktivet enligt:765/2008                                                                    |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000,<br>A2:2003 Klass B, EN61000-3-2:2001                      |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6,<br>-11<br>SS-EN 50 130-4:2011 Edition 2, EN50131-6 |\n|           |                                                                                                  |\n\n![](images/_page_1_Picture_0",  
+      "unit": "EN"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "our suppliers and external verifications we can confirm that we comply with the latest European requirements for REACH Regulation (EC) No 1907/2006 RoHS Directive 2011/65/EU ( RoHS II) and (EU)2015/863 (RoHS III)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the REACH directive since the installation and use of the products makes it difficult for children up to 3 years of age to reach or ingest the products",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "RoHS directive in Annex III 6(a) 6(b) and 6(c) due to the difficulty to find suitable alternative materials or manufacturing methods at this point in time",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of the REACH Candidate list of SVHC's can be found here <https//echa",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Product Description | Concentration >0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Product Description | Concentration >0",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "ercnce"  
+    ]  
+  }  
+}
+

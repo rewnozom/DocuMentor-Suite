@@ -1,0 +1,70 @@
+{  
+  "identifier": "lokalt",  
+  "original": "lokalt",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "tillgång till systemet genom att ansluta till en webbserver, antigen publikt via internet eller enba**rt lokalt **via det egna trådlösa nätverket. Kommunikationen mellan webbserver och telefon krypteras med SSL Ce",  
+  "source": "regex",  
+  "product_id": "50152720"  
+}
+
+{  
+  "identifier": "vinnat",  
+  "original": "vinnat",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "k). Välj kabel för CAN-bussen med hänsyn till avstånd och antal enheter. Kabeln skall vara ett par p**artvinnat** och har inget krav på skärm. Längd på kabeln är max 1 000 meter. Se kabelguide sist i detta dokumen",  
+  "source": "regex",  
+  "product_id": "50152720"  
+}
+
+{  
+  "identifier": "vinnad",  
+  "original": "vinnad",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "klocksignal på separata ledningar. Signalerna ska aldrig ingå i samma par i en kabel, varför icke-pa**rtvinnad **(fyrskruv) kabel rekommenderas. Om partvinnad kabel används ska plusmatning (eller minus) kopplas i",  
+  "source": "regex",  
+  "product_id": "50152720"  
+}
+
+{  
+  "identifier": "exempel",  
+  "original": "exempel",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| ● | ■ | | | Angivna kabeltyper i tabellen ovan är enbart exempel på lämpliga kablar för installati**onen. Kabla**rnas beteckning kan avvika beroende på vald tillverkare",  
+  "source": "regex",  
+  "product_id": "50152720"  
+}
+
+{  
+  "identifier": "Delar",  
+  "original": "Delar",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "trera M5-databaser\". Klienten sköter i de flesta fall själv sina inställningar vid första programsta**rt. Delar i** R-CARD M5-klienten, som exempelvis ODM och Planritningsverktyget, nyttjar Windows-tjänsten R-CARD",  
+  "source": "regex",  
+  "product_id": "50152720"  
+}
+

@@ -1,0 +1,49 @@
+{  
+  "product_id": "50135438",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri skyddas av säkringar. **Indikeringar och larm:** Nätspänning indikeras med grön lysdiod på fronten\n\nÄr försedd med larmrelä för nätavbrott.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "är avsett att användas som ingång (utan POE)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är försedda med led för datatrafik och status",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Beskrivning | HxBxD mm | |----------|---------|-----------------------------------------------------------|-----------------| | 5172438 | POE40-1 | POE 24V 25W<br>1 PORTAR Injektor inkl 21Ah (max 2x 5Ah) | 210 x 310 x 80 | | 5172439 | POE40-4 | POE 48V 150W<br>4 PORTAR Switch<br>max 4x 9Ah | 300 x 360 x 110 | | | | | | | | | | | Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5172438",  
+        "5172439"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "**Högeffektiv** – 85% vid nätdrift – 98% vid batteridrift **High Power** – 30W/utgång - kontinuerlig drift på alla portar samtidigt",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

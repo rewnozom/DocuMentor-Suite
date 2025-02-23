@@ -1,0 +1,33 @@
+{  
+  "product_id": "50026397",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "| NO MERCURY ADDED   |                                                                                                                 |  |  |  |\n|--------------------|-----------------------------------------------------------------------------------------------------------------|--|--|--|\n| Description        | : Mercury & Cadmium Free Lithium / Iron                                                                         |  |  |  |\n|                    | Disulfide battery AA Size                                                                                       |  |  |  |\n| Chemical System    | : Lithium / Iron Disulfide (Li/FeS2)                                                                            |  |  |  |\n| Nominal Voltage    | : 1.5 Volts                                                                                                     |  |  |  |\n| Nominal Dimensions | : Ø14.5 mm x 50.5 mm                                                                                            |  |  |  |\n| Terminals          | : Protruded positive(+) and flat negative(-)<br>contacts                                                        |  |  |  |\n| Jacket             | : Foil jacket                                                                                                   |  |  |  |\n| Applications       | : All electronic devices, e.g. Digital cameras,<br>photoflash, toys, shavers, universal<br>handheld GPS devices |  |  |  |\n| Shelf life         | : 10 years at 21°C (80% rated capacity)                                                                         |  |  |  |\n| Average Weight     | : 14.5g                                                                                                         |  |  |  |\n\n# **Cross References:**\n\n| GP   | JIS | IEC | Energizer | Duracell |\n|------|-----|-----|-----------|----------|\n| 15LF | FR6 | FR6 | L91       | LF1500   |\n\n![](images/_page_0_Figure_5.jpeg)\n\n**Constant Current Performance (21°C)** \n\n### **Constant Power Performance (21°C)**  Typical Characteristics to 1.0 V\n\n![](images/_page_0_Figure_7.jpeg)\n\nThe information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty. For applications other than those described here, please consult your nearest GP Sales and Marketing Office or Distributors.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimensions",  
+      "value": "14.5",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Digital cameras<br>photoflash toys shavers universal<br>handheld GPS devices | | | | | Shelf life | 10 years at 21°C (80% rated capacity) | | | | | Average Weight | 14",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "and specification without prior notice",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

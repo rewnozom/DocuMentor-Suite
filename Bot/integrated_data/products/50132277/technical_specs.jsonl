@@ -1,0 +1,44 @@
+{  
+  "name": "material",  
+  "raw_value": "| Stål                 |\n| Effektivitetsklass: | 89B           | Vikt: | 14,8 kg              |\n| Temperaturområde: | -30°C/+60°C   | Mått dia/höjd (mm): | 145 x 700            |\n| Drivgas: | CO2           | Certifiering: | EN3-7, CE, WheelMark |\n| Släckmedel: | CO2           |                                                                   |                      |\n| Mängd: | 5 kg          | Service/Kontroll skall utföras enligt Svensk<br>Standard SS-3656",  
+  "category": "MATERIAL",  
+  "unit": "B",  
+  "value": {  
+    "raw_value": "| Stål                 |\n| Effektivitetsklass: | 89B           | Vikt: | 14,8 kg              |\n| Temperaturområde: | -30°C/+60°C   | Mått dia/höjd (mm): | 145 x 700            |\n| Drivgas: | CO2           | Certifiering: | EN3-7, CE, WheelMark |\n| Släckmedel: | CO2           |                                                                   |                      |\n| Mängd: | 5 kg          | Service/Kontroll skall utföras enligt Svensk<br>Standard SS-3656",  
+    "unit": "B",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "---------------|----------------------| | Licensnummer: | 126.1060.4-01 | Provtryck: | 315 BAR | | Brandklass: | B | Cylindermaterial: | Stål | | Effektivitetsklass: | 89B | Vikt: | 14,8 kg | | Temper...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50132277"  
+}
+
+{  
+  "name": "Effektivitetsklass",  
+  "raw_value": "| 89B           | Vikt: | 14,8 kg              |\n| Temperaturområde: | -30°C/+60°C   | Mått dia/höjd (mm): | 145 x 700            |\n| Drivgas: | CO2           | Certifiering: | EN3-7, CE, WheelMark |\n| Släckmedel: | CO2           |                                                                   |                      |\n| Mängd: | 5 kg          | Service/Kontroll skall utföras enligt Svensk<br>Standard SS-3656",  
+  "category": "PERFORMANCE",  
+  "unit": "B",  
+  "value": {  
+    "raw_value": "| 89B           | Vikt: | 14,8 kg              |\n| Temperaturområde: | -30°C/+60°C   | Mått dia/höjd (mm): | 145 x 700            |\n| Drivgas: | CO2           | Certifiering: | EN3-7, CE, WheelMark |\n| Släckmedel: | CO2           |                                                                   |                      |\n| Mängd: | 5 kg          | Service/Kontroll skall utföras enligt Svensk<br>Standard SS-3656",  
+    "unit": "B",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "-| | Licensnummer: | 126.1060.4-01 | Provtryck: | 315 BAR | | Brandklass: | B | Cylindermaterial: | Stål | | Effektivitetsklass: | 89B | Vikt: | 14,8 kg | | Temperaturområde: | -30°C/+60°C | Mått dia/...",  
+  "pattern": "(?i)(?:effektivitetsklass|efficiency class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 204,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50132277"  
+}
+

@@ -1,0 +1,55 @@
+{  
+  "product_id": "50463469",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n### BESKRIVNING SPM905\n\nSäkringsmodul med 8 utgångar som är individuellt styrbara från tex brandalarm\n\n#### Montage\n\nL-modul eller Din-skena, bara att snäppa in i strömförsörjningsaggregat eller kapslingar med anpassad hålbild. (se blad 3)\n\n## Funktion  **SM40**\n\nSäkringsmodulen är avsedd att säkra och distribuera strömförbrukningen i lågspänningslarmsystem som kräver en likspänning i området: 10V - 30. SPM905 har två ingångar, en för spänning och en för styrning från brandmanöver.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "en likspänning i området 10V - 30",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "en likspänning i området 10V - 30",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är individuellt styrbara från tex brandalarm #### Montage L-modul eller Din-skena bara att snäppa in i strömförsörjningsaggregat eller kapslingar med anpassad hålbild",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kräver en likspänning i området 10V - 30",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Beskrivning | Mått H x B x D<br>(mm) | |----------|------------|--------------------------------------------------|------------------------| | 5247561 | SPM905-L | Säkringskort 8st styrbara utgångar | 37x86x25 | | 5256991 | SPM BOX 7 | Kopplingsbox 7 SPM900 Serien | 230X365X45 | | 5257243 | SPM900-DS | Plast kapsling med plats för ett eller två kort",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5247561",  
+        "5256991",  
+        "5257243"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Det finns totalt 8 säkrade utgångar som alla är säkrade med PTC-säkringar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Säkringen återställs automatiskt när belastningen justeras eller felet åtgärdas",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

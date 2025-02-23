@@ -1,0 +1,22 @@
+{  
+  "name": "Dimensions",  
+  "raw_value": "10.5",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "10.5",  
+    "unit": null,  
+    "normalized_value": 10.5,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | | Nominal Dimensions | : Ø10.5 mm x 44.5 mm | | | | Terminals | : Protruded positive(+) and flat negative(-)<br>contacts",  
+  "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",  
+  "pattern_index": 6,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024358"  
+}
+

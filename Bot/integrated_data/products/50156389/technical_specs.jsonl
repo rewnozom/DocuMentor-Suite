@@ -1,0 +1,88 @@
+{  
+  "name": "Höjd",  
+  "raw_value": "366",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "366",  
+    "unit": null,  
+    "normalized_value": 366.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "• LK 2, *LK 3/4 Security Grade 4, MK 1 Environment Class 1. EN50131-1-A1 - EN 62368-1 SE - SBSC intyg 16-130 ## **Mått och vikt** - Bredd: 444mm - Höj**d: 366mm - **Djup: 108mm - Vikt: 5,15kg utan bat...",  
+  "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 8,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156389"  
+}
+
+{  
+  "name": "Bredd",  
+  "raw_value": "444",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "444",  
+    "unit": null,  
+    "normalized_value": 444.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "*Certifikat** • LK 2, *LK 3/4 Security Grade 4, MK 1 Environment Class 1. EN50131-1-A1 - EN 62368-1 SE - SBSC intyg 16-130 ## **Mått och vikt** - Bred**d: 444mm - H**öjd: 366mm - Djup: 108mm - Vikt: 5...",  
+  "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 9,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156389"  
+}
+
+{  
+  "name": "Djup",  
+  "raw_value": "108",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "108",  
+    "unit": null,  
+    "normalized_value": 108.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "4 Security Grade 4, MK 1 Environment Class 1. EN50131-1-A1 - EN 62368-1 SE - SBSC intyg 16-130 ## **Mått och vikt** - Bredd: 444mm - Höjd: 366mm - Dju**p: 108mm - **Vikt: 5,15kg utan batterier *För la...",  
+  "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 10,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156389"  
+}
+
+{  
+  "name": "Vikt",  
+  "raw_value": "5,15",  
+  "category": "WEIGHT",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "5,15",  
+    "unit": null,  
+    "normalized_value": 5.15,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "de 4, MK 1 Environment Class 1. EN50131-1-A1 - EN 62368-1 SE - SBSC intyg 16-130 ## **Mått och vikt** - Bredd: 444mm - Höjd: 366mm - Djup: 108mm - Vik**t: 5,15kg ut**an batterier *För larmklass 3/4 Kr...",  
+  "pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:kg|g)",  
+  "pattern_index": 53,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156389"  
+}
+

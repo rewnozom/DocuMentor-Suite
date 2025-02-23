@@ -1,0 +1,44 @@
+{  
+  "name": "Batterityp",  
+  "raw_value": "| 12V AGM                                       |\n| Testad och godkänd med: | UPLUS 10+ Design Life 7,2Ah or 14Ah batteries |\n| Benämning producent (SBSC): | ECO 24V 5A M                                  |",  
+  "category": "ELECTRICAL",  
+  "unit": "V",  
+  "value": {  
+    "raw_value": "| 12V AGM                                       |\n| Testad och godkänd med: | UPLUS 10+ Design Life 7,2Ah or 14Ah batteries |\n| Benämning producent (SBSC): | ECO 24V 5A M                                  |",  
+    "unit": "V",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Matningsspänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah or 2x 14Ah | | Batterityp: | 12V AGM | | Testad och godkänd med: | UPLUS 10+ Design Life 7,2Ah or 14Ah batteries | | Benämning pr...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152734"  
+}
+
+{  
+  "name": "Utgångar",  
+  "raw_value": "| 1 st                                          |\n| Miljöklass: | Klass 1                                       |\n| Kapslingsklassning: | IP20                                          |\n| Temperaturområde: | 5-40°C                                        |\n| Montering: | Vägg                                          |\n| Mått (BxHxD): | 242x350x150mm                                 |\n| Vikt: | 4kg                                           |\n| Antal kabelgenomföringar: | 3                                             |\n| Inbygd fläkt: | Ja                                            |\n| Matningsspänning: | 110V-264VAC/47-63Hz                           |\n| Max",  
+  "category": "CONNECTION",  
+  "unit": "st",  
+  "value": {  
+    "raw_value": "| 1 st                                          |\n| Miljöklass: | Klass 1                                       |\n| Kapslingsklassning: | IP20                                          |\n| Temperaturområde: | 5-40°C                                        |\n| Montering: | Vägg                                          |\n| Mått (BxHxD): | 242x350x150mm                                 |\n| Vikt: | 4kg                                           |\n| Antal kabelgenomföringar: | 3                                             |\n| Inbygd fläkt: | Ja                                            |\n| Matningsspänning: | 110V-264VAC/47-63Hz                           |\n| Max",  
+    "unit": "st",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Utförande: | VIt | |-----------------------------------|-----------------------------------------------| | Utgångar: | 1 st | | Miljöklass: | Klass 1 | | Kapslingsklassning: | IP20 | | Temperaturområd...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152734"  
+}
+

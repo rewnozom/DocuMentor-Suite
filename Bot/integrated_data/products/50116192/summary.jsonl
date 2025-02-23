@@ -1,0 +1,26 @@
+{  
+  "product_id": "50116192",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_6.jpeg)\n\n#### Standardprestanda\n\n- EUnderhållsfritt\n- E Lång livslängd\n\n- ETemperaturokänslig\n- EUppladdningsbart\n- ELäckagefri konstruktion\n\n# BS129N\n\nUnderhållsfri ackumulator 12 V, 26 Ah\n\n### Tekniska data\n\n| Strömförsörjning      | 12 VDC            |\n|-----------------------|-------------------|\n| Kapacitet             | 26 Ah             |\n| Max laddning vid +20° | 13,8 VDC          |\n| Max laddningsström    | 7,8 A             |\n| Max urladdning        | 130 A             |\n| Resistans             | 10 mohm           |\n| Temperatur            |                   |\n| Laddning              | 0 till 40 °C      |\n| Drift                 | -15 till +50 °C   |\n| Lagring               | -15 till +40 °C   |\n| Anslutningar          | MS skruv & mutter |\n| Materiel              | ABS               |\n| Vikt                  | 9,528 kg          |\n| Dimension (BxHxD)     | 166x175x125 mm    |\n\nOrder data\n\nArtikelnummer Beskrivning BS129N Underhållsfri ackumulator 12 V, 26 Ah.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "kontinuerlig underhållsladdning exempelvis inbrottlarms- och brandlarmscentraler",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "kontinuerlig underhållsladdning exempelvis inbrottlarms- och brandlarmscentraler",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

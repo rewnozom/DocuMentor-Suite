@@ -1,0 +1,65 @@
+{  
+  "product_id": "50135352",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "The models are either available with internal batteries (TG) or alternatively with stronger charger for external batteries (TGS). All VFI TG(S) series are detected as HID Power Device by the internal O/S drivers and can be managed without additional software. It finds its application in all dedicated systems for kiosks, ATMs as well as in high security level systems, where additional software is not allowed (i.e.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "voltage",  
+      "value": "24",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| VFI 1000 TG | VFI 2000 TG | VFI 3000 TG | VFI 1000 TGS | VFI 2000 TGS | VFI 3000 TGS | | | |-----------------------|---------------|-------------|----------------|---------------------------------------|--------------|--------------|--|--| | Item Number | 10122041 | 10122042 | 10122043 | 10122044 | 10122045 | 10122046 | | | | Power (kVA) | 1000VA | 2000VA | 3000VA | 1000VA | 2000VA | 3000VA | | | | Power (kW) | 900W | 1800W | 2700W | 900W | 1800W | 2700W | | | | BATTERIES | | | | | | | | | | Batteries | 2x 12V/9Ah | 4x 12V/9Ah | 6x 12V/9Ah | Not included compatible with 5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "10122041",  
+        "10122042",  
+        "10122043",  
+        "10122044",  
+        "10122045",  
+        "10122046",  
+        "10122041",  
+        "10122042",  
+        "10122043",  
+        "10122044",  
+        "10122045",  
+        "10122046"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "VFI 1000-3000 TGS offer a professional solution for home and office environment",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | | | | | | | | | | | | | | | | Fan Logic | Always ON<br>Low speed bypass/ECO or line mode with load below 70%<br>High speed Battery mode or line mode with load above 70% | | | | | | | | | COMMUNICATION AND CONNECTIONS | | | | | | | | | | Software | WinPower | | | | | | | | | USB | Yes with HID support | | | | | | | | | RS-232 | Yes | | | | | | | | | Intelligent Slot | Yes | | | | | | | | | EPO | Yes | | | | | | | | ![](images/_page_0_Picture_11",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "battery",  
+      "ung34",  
+      "ENDEN",  
+      "ungsfreien",  
+      "Batterie"  
+    ]  
+  }  
+}
+

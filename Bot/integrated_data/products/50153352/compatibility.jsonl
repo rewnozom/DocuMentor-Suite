@@ -1,0 +1,14 @@
+{  
+  "relation_type": "version",  
+  "related_product": "Hög låg COB sidljus - Striltät (IPX4) #### **ARTICLE INFORMATION** Art",  
+  "context": "ändan. - Storlek: M - Räckvidd: 110 m - Styrka fram: 350 lumen - Styrka sidoljus: 550 lumen - Batteritid 20 h - • Ljuslä**gen: Hög, låg, COB sidljus - Striltät (IPX4) #### **ARTICLE INFORMATION:** Art.**no: 450058 EAN: 4891199190223 E-nummer: 9451781 ![](images/_page_0_Picture_14.jpeg) ![](images/_page_0_Picture_15.jpeg) ![](images/_page_0_Pi",  
+  "position": [  
+    333,  
+    412  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153352"  
+}
+

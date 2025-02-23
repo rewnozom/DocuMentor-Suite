@@ -1,0 +1,88 @@
+{  
+  "name": "mått",  
+  "raw_value": "2+2 output module 5 output module 10 output module Fire module 4 outputs Rekommenderad miljö: Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet Omgivningstemperatur: +5 °C - 40 °C Dimension (HxBxD): 30x40x89mm 30x40x89mm 24x55x120mm 52x55x120mm Elektrisk information: Inspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Utspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Antal spänningsingångar: 2 st 2 st 2 st 2 st Antal lastutgångar: 4 st 5 st 10 st 4 st Antal proriterade / oprioriterade utgångar: 2 / 2 5 / - 7 / 3 4 / - Typ av säkring som standard: 4xF2A (glas) enkelpoligt 5xF2A (glas) enkelpoligt 10xF2A (glas) enkelpoligt 4xF2A (glas) enkelpoligt Max last per utgång: 10A 10A 10A 5A Total max last: 10A 10A 16A 16A Larmfunktioner: Säkringsfel Säkringsfel Säkringsfel Säkringsfel eller slingfel Larm via: Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Möjlig för montering i följande produkter: ECO Serien: Medium Medium - - NEO Serien: 2x; FLX S",  
+  "category": "DIMENSIONS",  
+  "unit": "output",  
+  "value": {  
+    "raw_value": "2+2 output module 5 output module 10 output module Fire module 4 outputs Rekommenderad miljö: Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet Omgivningstemperatur: +5 °C - 40 °C Dimension (HxBxD): 30x40x89mm 30x40x89mm 24x55x120mm 52x55x120mm Elektrisk information: Inspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Utspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Antal spänningsingångar: 2 st 2 st 2 st 2 st Antal lastutgångar: 4 st 5 st 10 st 4 st Antal proriterade / oprioriterade utgångar: 2 / 2 5 / - 7 / 3 4 / - Typ av säkring som standard: 4xF2A (glas) enkelpoligt 5xF2A (glas) enkelpoligt 10xF2A (glas) enkelpoligt 4xF2A (glas) enkelpoligt Max last per utgång: 10A 10A 10A 5A Total max last: 10A 10A 16A 16A Larmfunktioner: Säkringsfel Säkringsfel Säkringsfel Säkringsfel eller slingfel Larm via: Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Möjlig för montering i följande produkter: ECO Serien: Medium Medium - - NEO Serien: 2x; FLX S",  
+    "unit": "output",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "och konfigurering. Kan monteras i NEO FLX M / L Serien, NOVA FLX M / L Serien, EN54 FLX M Serien och i 19 rack module holder. Rekommenderad miljö och **mått: 2+2 output module 5 output module 10 outpu...",  
+  "pattern": "(?i)mått\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 2,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152084"  
+}
+
+{  
+  "name": "spänning",  
+  "raw_value": "24",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "24",  
+    "unit": null,  
+    "normalized_value": 24.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "~ 90% relativ fuktighet Omgivningstemperatur: +5 °C - 40 °C Dimension (HxBxD): 30x40x89mm 30x40x89mm 24x55x120mm 52x55x120mm Elektrisk information: In**spänning: 24V**DC 12VDC/24VDC 24VDC 24VDC Utspän...",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152084"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "4 st 5 st 10 st 4 st Antal proriterade / oprioriterade utgångar: 2 / 2 5 / - 7 / 3 4 / - Typ av säkring som standard: 4xF2A (glas) enkelpoligt 5xF2A (glas) enkelpoligt 10xF2A (glas) enkelpoligt 4xF2A (glas) enkelpoligt Max last per utgång: 10A 10A 10A 5A Total max last: 10A 10A 16A 16A Larmfunktioner: Säkringsfel Säkringsfel Säkringsfel Säkringsfel eller slingfel Larm via: Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Möjlig för montering i följande produkter: ECO Serien: Medium Medium - - NEO Serien: 2x; FLX S",  
+  "category": "CONNECTION",  
+  "unit": "st",  
+  "value": {  
+    "raw_value": "4 st 5 st 10 st 4 st Antal proriterade / oprioriterade utgångar: 2 / 2 5 / - 7 / 3 4 / - Typ av säkring som standard: 4xF2A (glas) enkelpoligt 5xF2A (glas) enkelpoligt 10xF2A (glas) enkelpoligt 4xF2A (glas) enkelpoligt Max last per utgång: 10A 10A 10A 5A Total max last: 10A 10A 16A 16A Larmfunktioner: Säkringsfel Säkringsfel Säkringsfel Säkringsfel eller slingfel Larm via: Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Möjlig för montering i följande produkter: ECO Serien: Medium Medium - - NEO Serien: 2x; FLX S",  
+    "unit": "st",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "formation: Inspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Utspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Antal spänningsingångar: 2 st 2 st 2 st 2 st Antal last**utgångar: 4 st 5 st 10 st 4 st Antal proriterade...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152084"  
+}
+
+{  
+  "name": "ingångar",  
+  "raw_value": "2 st 2 st 2 st 2 st Antal lastutgångar: 4 st 5 st 10 st 4 st Antal proriterade / oprioriterade utgångar: 2 / 2 5 / - 7 / 3 4 / - Typ av säkring som standard: 4xF2A (glas) enkelpoligt 5xF2A (glas) enkelpoligt 10xF2A (glas) enkelpoligt 4xF2A (glas) enkelpoligt Max last per utgång: 10A 10A 10A 5A Total max last: 10A 10A 16A 16A Larmfunktioner: Säkringsfel Säkringsfel Säkringsfel Säkringsfel eller slingfel Larm via: Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Möjlig för montering i följande produkter: ECO Serien: Medium Medium - - NEO Serien: 2x; FLX S",  
+  "category": "CONNECTION",  
+  "unit": "st",  
+  "value": {  
+    "raw_value": "2 st 2 st 2 st 2 st Antal lastutgångar: 4 st 5 st 10 st 4 st Antal proriterade / oprioriterade utgångar: 2 / 2 5 / - 7 / 3 4 / - Typ av säkring som standard: 4xF2A (glas) enkelpoligt 5xF2A (glas) enkelpoligt 10xF2A (glas) enkelpoligt 4xF2A (glas) enkelpoligt Max last per utgång: 10A 10A 10A 5A Total max last: 10A 10A 16A 16A Larmfunktioner: Säkringsfel Säkringsfel Säkringsfel Säkringsfel eller slingfel Larm via: Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Växlande relä eller pin list Möjlig för montering i följande produkter: ECO Serien: Medium Medium - - NEO Serien: 2x; FLX S",  
+    "unit": "st",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "9mm 24x55x120mm 52x55x120mm Elektrisk information: Inspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Utspänning: 24VDC 12VDC/24VDC 24VDC 24VDC Antal spännings**ingångar: 2 st 2 st 2 st 2 st Antal lastutgångar...",  
+  "pattern": "(?i)(?:ingångar|inputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 152,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152084"  
+}
+

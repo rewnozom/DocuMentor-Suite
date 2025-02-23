@@ -1,0 +1,200 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "kunna ansluta till USB-A",  
+  "context": "visas i batteribackup visas i Power-Watch. Indikeringar och kommunikation Kommunikation över adapterkablage till PC. PC **behöver kunna ansluta till USB-A.** # Kapsling, utförande Produkten monteras som tillval/tillbehör i existerande kapsling. | Mått, höjd x bredd x djup | IP",  
+  "position": [  
+    842,  
+    875  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gör det möjligt att uppdatera mjukvara i batteribackup läsa status ställa vissa parametrar och statistik",  
+  "context": "eg) ![](images/_page_0_Picture_7.jpeg) ## Benämning PowerWatch är en mjukvara, med tillhörande adapterkabel, från Milleteknik s**om gör det möjligt att uppdatera mjukvara i batteribackup, läsa status, ställa vissa parametrar och statistik.** ## Användningsområde PowerWatch kan användas för att enkelt uppdatera en produkt eller för diagnostik vid dimensionerin",  
+  "position": [  
+    457,  
+    567  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visas i batteribackup visas i Power-Watch",  
+  "context": "kan användas för att enkelt uppdatera en produkt eller för diagnostik vid dimensionering och felsökning. ## Larm Larm so**m visas i batteribackup visas i Power-Watch. **Indikeringar och kommunikation Kommunikation över adapterkablage till PC. PC behöver kunna ansluta till USB-A. # Kapsli",  
+  "position": [  
+    719,  
+    764  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tillval/tillbehör i existerande kapsling",  
+  "context": "mmunikation över adapterkablage till PC. PC behöver kunna ansluta till USB-A. # Kapsling, utförande Produkten monteras s**om tillval/tillbehör i existerande kapsling.** | Mått, höjd x bredd x djup | IP-klass | |---------------------------|----------| | Produkten saknar kapsling | | Vikt",  
+  "position": [  
+    918,  
+    962  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller | EMC | EMC Direktivet 2014/30EU | |-------|-------------------------------------------------------------------------------------------------------------------------| | El | Lågspänningsdirektivet 2014/35/EU | | CE | CE direktivet enligt765/2008 | | Miljö | REACH Regulation Directive 1907/2006 WEEE<br>Regulation Directive 20021961E RoHS Regula<br>tion Directive 2015/863 | | | | ## Begränsningar Firmware Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+  "context": "Windows 7 eller senare och internetuppkoppling vid aktivering. Internetuppkopppling krävs ej vid användning. #### Krav s**om produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |-------|-------------------------------------------------------------------------------------------------------------------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | CE: | CE direktivet enligt:765/2008 | | Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 | | | | ## Begränsningar Firmware: Uppdatering kan endast göras till samma kommunikationsprotokoll.** Det går alltså inte att uppdatera till ett annat kommunikationsprotokoll. Konfiguration: Det går bara att uppdatera til",  
+  "position": [  
+    1602,  
+    2107  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20021961",  
+    "20021961"  
+  ],  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppstår i samband med felaktigt utnyttjande av mjukvara",  
+  "context": "Mjukvara omfattas inte av garanti. Felaktigt användande kan resultera i obrukbar produkt. Garanti gäller inte för fel so**m uppstår i samband med felaktigt utnyttjande av mjukvara. **Det är alltid Milleteknik som avgör om eventuella fel och eller skador som uppkommer i samband med användande av mjukva",  
+  "position": [  
+    2417,  
+    2476  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "avgör om eventuella fel och eller skador som uppkommer i samband med användande av mjukvara skall omfattas av garanti eller kan ersättas",  
+  "context": "kt. Garanti gäller inte för fel som uppstår i samband med felaktigt utnyttjande av mjukvara. Det är alltid Milleteknik s**om avgör om eventuella fel och eller skador som uppkommer i samband med användande av mjukvara skall omfattas av garanti eller kan ersättas.** Det går att ställa batterikapacietet men det är inte möjligt inte att ändra på typ av produkt utan produkten är vad mär",  
+  "position": [  
+    2504,  
+    2644  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel",  
+  "context": "www.milleteknik.se/)[nik.se.](https://www.milleteknik.se/) ## [PowerWatch](https://www.milleteknik.se/powerwatch/) #### **Om dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel.** Uppdateras utan föregående meddelande.",  
+  "position": [  
+    3432,  
+    3512  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## Larm Larm som visas i batteribackup visas i Power-Watch",  
+  "context": "område PowerWatch kan användas för att enkelt uppdatera en produkt eller för diagnostik vid dimensionering och felsöknin**g. ## Larm Larm som visas i batteribackup visas i Power-Watch.** Indikeringar och kommunikation Kommunikation över adapterkablage till PC. PC behöver kunna ansluta till USB-A. # Kapsli",  
+  "position": [  
+    702,  
+    764  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Mått höjd x bredd x djup | IP-klass | |---------------------------|----------| | Produkten saknar kapsling | | Vikt | Namn | Nettovikt | Vikt m förp",  
+  "context": "C behöver kunna ansluta till USB-A. # Kapsling, utförande Produkten monteras som tillval/tillbehör i existerande kapslin**g. | Mått, höjd x bredd x djup | IP-klass | |---------------------------|----------| | Produkten saknar kapsling | | Vikt | Namn | Nettovikt | Vikt m förp.** | |------------------|-----------|--------------| | PowerWatch | 0,1 kg | 0,1 kg | | PowerWatch RS485 | 0,1 kg | 0,1 kg",  
+  "position": [  
+    960,  
+    1115  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Internetuppkopppling krävs ej vid användning",  
+  "context": "backup med PRO1-, PRO2- eller PRO3 kort. För mjukvara krävs Windows 7 eller senare och internetuppkoppling vid aktiverin**g. Internetuppkopppling krävs ej vid användning.** Batteribackup med 1HE- kort. För mjukvara krävs Windows 7 eller senare och internetuppkoppling vid aktivering. Internet",  
+  "position": [  
+    1385,  
+    1433  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Internetuppkopppling krävs ej vid användning",  
+  "context": "användning. Batteribackup med 1HE- kort. För mjukvara krävs Windows 7 eller senare och internetuppkoppling vid aktiverin**g. Internetuppkopppling krävs ej vid användning.** #### Krav som produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |-------|----------------------------------------",  
+  "position": [  
+    1542,  
+    1590  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "All mjukvara används på egen risk",  
+  "context": "a till ett annat kommunikationsprotokoll. Konfiguration: Det går bara att uppdatera till samma enhetstyp, ström, spännin**g. All mjukvara används på egen risk.** Mjukvara omfattas inte av garanti. Felaktigt användande kan resultera i obrukbar produkt. Garanti gäller inte för fel s",  
+  "position": [  
+    2260,  
+    2297  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av produkt utan produkten är vad märkskylten anger",  
+  "context": "omfattas av garanti eller kan ersättas. Det går att ställa batterikapacietet men det är inte möjligt inte att ändra på t**yp av produkt utan produkten är vad märkskylten anger. **Exempel: byter du batterier från 14 Ah batterier till 20 Ah batterier i en NOVA 24V 15A FLX M så ställer du ny batterik",  
+  "position": [  
+    2724,  
+    2779  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+

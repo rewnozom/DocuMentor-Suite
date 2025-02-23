@@ -1,0 +1,88 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "minimalt saneringsarbete",  
+  "context": "läcka mindre bränder på spisen, sängen, i möbler eller kläder. Att kväva eld med en brandfilt är väldigt effektivt, och **kräver minimalt saneringsarbete.** Placeras på ett sätt som gör den lättillgänglig på de platser en brand kan tänkas uppstå, tex i närheten av kök. Houseg",  
+  "position": [  
+    293,  
+    325  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025314"  
+}
+
+{  
+  "relation_type": "accessory",  
+  "related_product": "brandsläckaren och då främst för att släcka mindre bränder på spisen sängen i möbler eller kläder",  
+  "context": "![](images/_page_0_Picture_1.jpeg) ## Housegard brandfilt, 120x120 cm, röd ![](images/_page_0_Picture_3.jpeg) Brandfilten är ett bra **komplement till brandsläckaren och då främst för att släcka mindre bränder på spisen, sängen, i möbler eller kläder.** Att kväva eld med en brandfilt är väldigt effektivt, och kräver minimalt saneringsarbete. Placeras på ett sätt som gör",  
+  "position": [  
+    119,  
+    235  
+  ],  
+  "pattern_index": 81,  
+  "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025314"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "minimalt saneringsarbete",  
+  "context": "läcka mindre bränder på spisen, sängen, i möbler eller kläder. Att kväva eld med en brandfilt är väldigt effektivt, och **kräver minimalt saneringsarbete.** Placeras på ett sätt som gör den lättillgänglig på de platser en brand kan tänkas uppstå, tex i närheten av kök. Houseg",  
+  "position": [  
+    293,  
+    325  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025314"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gör den lättillgänglig på de platser en brand kan tänkas uppstå tex i närheten av kök",  
+  "context": "kläder. Att kväva eld med en brandfilt är väldigt effektivt, och kräver minimalt saneringsarbete. Placeras på ett sätt s**om gör den lättillgänglig på de platser en brand kan tänkas uppstå, tex i närheten av kök.** Housegard brandfilt 120 x 120 cm är ett bra budgetalternativ för hem och kontor. Placeras på ett sätt som gör den lätti",  
+  "position": [  
+    348,  
+    438  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025314"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gör den lättillgänglig på platser där en brand kan tänkas uppstå tex i närheten av kök",  
+  "context": "närheten av kök. Housegard brandfilt 120 x 120 cm är ett bra budgetalternativ för hem och kontor. Placeras på ett sätt s**om gör den lättillgänglig på platser där en brand kan tänkas uppstå, tex i närheten av kök.** - Silikonbeläggning - 5 års garanti - • Certifiering: EN 1869:1997 **ARTICLE INFORMATION:** Art.no: 602024 EAN: 7320896",  
+  "position": [  
+    542,  
+    633  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025314"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "EN 18691997 **ARTICLE INFORMATION** Art",  
+  "context": "ig på platser där en brand kan tänkas uppstå, tex i närheten av kök. - Silikonbeläggning - 5 års garanti - • Certifierin**g: EN 1869:1997 **ARTICLE INFORMATION:** Art.**no: 602024 EAN: 7320896020245 E-nummer: 1693830 ![](images/_page_0_Picture_9.jpeg) **Page 1/2** ![](images/_page_0_Picture_11.jpeg) ![",  
+  "position": [  
+    685,  
+    730  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "18691997",  
+    "18691997"  
+  ],  
+  "product_id": "50025314"  
+}
+

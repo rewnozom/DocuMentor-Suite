@@ -1,0 +1,126 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| ECO 24V 10A FLX S | | | | | Artikelnummer: | FS01C10112P100",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "NUMMER",  
+  "original": "NUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMM**ER: | MAX MÖJ**LIGT ANTAL: | |----------------------------------------------|---",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "funktion",  
+  "original": "funktion",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "_0_Picture_3.jpeg) • √ Enkel och pålitlig batteribackup • √ Controlled charging funktion • √ Cold st**art funktion** • √ Kan kompletteras med flera olika tillbehör • √ Väggmontage eller 19\" rack montage ![](images/_page_0_",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "vilket",  
+  "original": "vilket",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "as både med AGM-batterier och Lithium LiFePO4-batterier. ECO Serien erbjuder också såkallad COLD STA**RT vilket **innebär att batteribackupen kan driftsättas med endast batterierna anslutna utan att enheten är ans",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | | Artikelnamn: | ECO 12V 10A FLX S",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| ECO 24V 10A FLX S | | | | | Artikelnummer: | FS01C10112P100",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "IKELTYP",  
+  "original": "IKELTYP",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMM**ER: | MAX **MÖJLIGT ANTAL: | |------------------",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "IKELNAMN",  
+  "original": "IKELNAMN",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMM**ER: | MAX M**ÖJLIGT ANTAL: | |---------------------------------",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+
+{  
+  "identifier": "IKELNUMMER",  
+  "original": "IKELNUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMM**ER: | MAX MÖJ**LIGT ANTAL: | |----------------------------------------------|---",  
+  "source": "regex",  
+  "product_id": "50457191"  
+}
+

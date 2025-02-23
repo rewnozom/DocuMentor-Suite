@@ -1,0 +1,154 @@
+{  
+  "name": "dimensioner",  
+  "raw_value": "Se sidan 2 Vikt utan batterier: A1 ca 9",  
+  "category": "DIMENSIONS",  
+  "unit": "Vikt",  
+  "value": {  
+    "raw_value": "Se sidan 2 Vikt utan batterier: A1 ca 9",  
+    "unit": "Vikt",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "batteritest: SDT bygel, tillfällig bygling Miljöklass enligt EN 50130-5:1998: Class II Safety: EN 62368-1:2014/AC:2015 EMC: EN 61000-6-3 Lådans ytterd**imensioner: Se sidan 2 Vikt utan batterier: A1 c...",  
+  "pattern": "(?i)dimensioner\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 0,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462347"  
+}
+
+{  
+  "name": "ström",  
+  "raw_value": "0.5",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "0.5",  
+    "unit": null,  
+    "normalized_value": 0.5,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ss 3 0.4 A (30 tim. batteridrift med 12 Ah batteri) Max ström i säkerhetsklass 2 1 A (12 tim. batteridrift med 12 Ah batteri) Maximal batteriladdnings**ström: 0.5 A** i säkerhetsklass 3 ger en återupp...",  
+  "pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A|mA)",  
+  "pattern_index": 26,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462347"  
+}
+
+{  
+  "name": "Batterityp",  
+  "raw_value": "1-2st 12 V/7 Ah-40 Ah blyackumulatorer (slutna) i parallellkoppling",  
+  "category": "ELECTRICAL",  
+  "unit": "st",  
+  "value": {  
+    "raw_value": "1-2st 12 V/7 Ah-40 Ah blyackumulatorer (slutna) i parallellkoppling",  
+    "unit": "st",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "al batteriladdningsström: 0.5 A i säkerhetsklass 3 ger en återuppladdning på ca 24 tim. 0.2 A i säkerhetsklass 2 ger en återuppladdning på ca 72 tim. **Batterityp: 1-2st 12 V/7 Ah-40 Ah blyackumulator...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462347"  
+}
+
+{  
+  "name": "EMC",  
+  "raw_value": "EN 61000-6-3\n\nLådans ytterdimensioner: Se sidan 2 Vikt utan batterier: A1 ca 9",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "L",  
+  "value": {  
+    "raw_value": "EN 61000-6-3\n\nLådans ytterdimensioner: Se sidan 2 Vikt utan batterier: A1 ca 9",  
+    "unit": "L",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "batteritest: APS utgång Lokalt batteritest: SDT bygel, tillfällig bygling Miljöklass enligt EN 50130-5:1998: Class II Safety: EN 62368-1:2014/AC:2015 **EMC: EN 61000-6-3 Lådans ytterdimensioner: Se si...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462347"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "EPS – Nätspänningsfel\n\nLogisk data på statusutgångar: Sluten – inget fel (OK)\n\nBekräftelse på fjärrstyrd batteritest: APS utgång Lokalt batteritest: SDT bygel, tillfällig bygling Miljöklass enligt EN 50130-5:1998: Class II Safety: EN 62368-1:2014/AC:2015 EMC: EN 61000-6-3\n\nLådans ytterdimensioner: Se sidan 2 Vikt utan batterier: A1 ca 9",  
+  "category": "CONNECTION",  
+  "unit": "EMC",  
+  "value": {  
+    "raw_value": "EPS – Nätspänningsfel\n\nLogisk data på statusutgångar: Sluten – inget fel (OK)\n\nBekräftelse på fjärrstyrd batteritest: APS utgång Lokalt batteritest: SDT bygel, tillfällig bygling Miljöklass enligt EN 50130-5:1998: Class II Safety: EN 62368-1:2014/AC:2015 EMC: EN 61000-6-3\n\nLådans ytterdimensioner: Se sidan 2 Vikt utan batterier: A1 ca 9",  
+    "unit": "EMC",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": ". | Batterispänning som aktiverar APS fel: 11 V Batterispänning som aktiverar DDP krets: 10.6 V Utspänning som aktiverar OUT fel: 12.5 V Övervakningsu**tgångar: EPS – Nätspänningsfel Logisk data på st...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462347"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "Optoreläer för EPS, APS, OUT, max ström 100mA",  
+  "category": "CONNECTION",  
+  "unit": "mA",  
+  "value": {  
+    "raw_value": "Optoreläer för EPS, APS, OUT, max ström 100mA",  
+    "unit": "mA",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": ": Initialt konstant ström, sedan konstant spänning APS – Batterifel OUT – Utspänning låg, Nätdelsfel SAB – Kapslingssabotage Elektriska data på status**utgångar: Optoreläer för EPS, APS, OUT, max strö...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462347"  
+}
+
+{  
+  "name": "Certifieringar",  
+  "raw_value": "SSF1014-5 Larmklass 3, Miljöklass II EN 50131-6:2017 Grade 3 B1 ca 4 kg B2 ca 5 kg B3 ca 7 kg\n\nPSV 12V serien 2113se 6 ©2021 Alarmtech\n\nR1 ca 7",  
+  "category": "MISCELLANEOUS",  
+  "unit": "Larmklass",  
+  "value": {  
+    "raw_value": "SSF1014-5 Larmklass 3, Miljöklass II EN 50131-6:2017 Grade 3 B1 ca 4 kg B2 ca 5 kg B3 ca 7 kg\n\nPSV 12V serien 2113se 6 ©2021 Alarmtech\n\nR1 ca 7",  
+    "unit": "Larmklass",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "tans Automatisk batteritest: Aktiveras automatiskt var 10:e timme Arbetstemperatur och luftfuktighet: -10° C…+40° C, RH till 90 %, ingen kondensering **Certifieringar: SSF1014-5 Larmklass 3, Miljöklas...",  
+  "pattern": "(?i)(?:certifieringar|certifications)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 169,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462347"  
+}
+

@@ -1,0 +1,15 @@
+{
+    "timestamp": "2025-02-23T00:29:19.607056",
+    "statistics": {
+        "total_products": 404,
+        "validated_products": 8,
+        "products_with_issues": 0,
+        "total_issues": 0,
+        "issues_by_command": {},
+        "issues_by_type": {},
+        "issue_percentage": 0.0
+    },
+    "top_products_with_issues": [],
+    "issue_counts_by_type": {},
+    "issue_counts_by_command": {}
+}

@@ -1,0 +1,28 @@
+{  
+  "relation_type": "recommended",  
+  "related_product": "användning i CCTV- passer- och icke godkända brandlarmanläggningar",  
+  "context": "![](images/_page_0_Picture_1.jpeg) # PM862 Strömförsörjning switchat 24 V, 2 A ### Allmänt Denna effektiva strömförsörjning är **idealisk för användning i CCTV-, passer- och icke godkända brandlarmanläggningar.** Med en reglerad 27,6 VDC utgång levereras kontinuerlig full märkström 1,5 A, plus ytterligare 0,5 A för laddning av två",  
+  "position": [  
+    135,  
+    216  
+  ],  
+  "pattern_index": 53,  
+  "pattern": "(?i)idealisk(?:t)?\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50106004"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Den modulära konstruktionen förenklar underhållet",  
+  "context": "tskostnader, genererar mindre värme och med ett litet kretskort ökar utrymmet för ytterligare PCB eller kablar i kapslin**gen. Den modulära konstruktionen förenklar underhållet.** ![](images/_page_0_Picture_8.jpeg) #### Standardprestanda - ENät- och felindikeringar - EUrladdningsskydd - ESabotageskyddad -",  
+  "position": [  
+    550,  
+    605  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50106004"  
+}
+

@@ -1,0 +1,42 @@
+{  
+  "relation_type": "version",  
+  "related_product": "- •Plats för 4 st",  
+  "context": "O FLX S Batteribackuper för att erhålla möjlighet till längre reservdrifttid alt. högre medellast i en klassad anläggnin**g. - •Plats för 4 st.** 14Ah batterier - •Snabbanslutningskabel - •Larmklass 3/4 Ansluts enkelt till huvudenheten via en snabbanslutningskabel.",  
+  "position": [  
+    262,  
+    283  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20SMALL"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| IP32 | | Temperaturområde | 5 °C - 40 °C (optimalt 15 - 20 °C) | | Montering | Under aggregaten | | Mått (BxHxD) | 215x430x220mm | | Vikt | 3kg | | Antal kabelgenomföringar | 9 st | | Inbygd fläkt | Yes | | Utgångsspänning | 273VDC | | Batterikombination | 4x 72Ah / 4x 14Ah | | Batterityp | 12V AGM-batteri | | SBSC Certifierad | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC) | Batterybox 24V-XS2 |",  
+  "context": "art | |-----------------------------|------------------------------------| | Miljöklass: | Klass 1 | | Kapslingsklassnin**g: | IP32 | | Temperaturområde: | 5 °C - 40 °C (optimalt 15 - 20 °C) | | Montering: | Under aggregaten | | Mått (BxHxD): | 215x430x220mm | | Vikt: | 3kg | | Antal kabelgenomföringar: | 9 st | | Inbygd fläkt: | Yes | | Utgångsspänning: | 27,3VDC | | Batterikombination: | 4x 7,2Ah / 4x 14Ah | | Batterityp: | 12V AGM-batteri | | SBSC Certifierad: | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC): | Batterybox 24V-XS2 |**",  
+  "position": [  
+    988,  
+    1413  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20SMALL"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V AGM-batteri | | SBSC Certifierad | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC) | Batterybox 24V-XS2 |",  
+  "context": ": | 9 st | | Inbygd fläkt: | Yes | | Utgångsspänning: | 27,3VDC | | Batterikombination: | 4x 7,2Ah / 4x 14Ah | | Batteri**typ: | 12V AGM-batteri | | SBSC Certifierad: | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC): | Batterybox 24V-XS2 |**",  
+  "position": [  
+    1289,  
+    1413  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20SMALL"  
+}
+

@@ -1,0 +1,44 @@
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC Direktivet 2014/30EU                                                 |\n|-----------|--------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                       |\n| CE: | CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11 |\n|-----------|---------------------------------------------------|\n|           | SS-EN 50 130-4:2011 Edition 2, EN50131-6          |\n\n# FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER)\n\n| Systems<br>pänning                                                                                                                        | Antal<br>batterier | Batteri<br>typ | Enhet +<br>batteri<br>box* | Last:<br>2 A | Last:<br>4 A | Last:<br>8 A | Last:<br>10 A | Last:<br>14 A | Last:<br>18 A |\n|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------|----------------------------|--------------|--------------|--------------|---------------|---------------|---------------|\n| *Exempel: 1+2 betyder att det är 1 batteribackup med 2 batteriboxar anslutna",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC Direktivet 2014/30EU                                                 |\n|-----------|--------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                       |\n| CE: | CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11 |\n|-----------|---------------------------------------------------|\n|           | SS-EN 50 130-4:2011 Edition 2, EN50131-6          |\n\n# FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER)\n\n| Systems<br>pänning                                                                                                                        | Antal<br>batterier | Batteri<br>typ | Enhet +<br>batteri<br>box* | Last:<br>2 A | Last:<br>4 A | Last:<br>8 A | Last:<br>10 A | Last:<br>14 A | Last:<br>18 A |\n|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------|----------------------------|--------------|--------------|--------------|---------------|---------------|---------------|\n| *Exempel: 1+2 betyder att det är 1 batteribackup med 2 batteriboxar anslutna",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "vsedd för fast installation. Installation skall utföras av behörig installatör. # REGELVERK OCH CERTIFIERINGAR #### Krav som produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |-----------|------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463477"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11 |\n|-----------|---------------------------------------------------|\n|           | SS-EN 50 130-4:2011 Edition 2, EN50131-6          |\n\n# FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER)\n\n| Systems<br>pänning                                                                                                                        | Antal<br>batterier | Batteri<br>typ | Enhet +<br>batteri<br>box* | Last:<br>2 A | Last:<br>4 A | Last:<br>8 A | Last:<br>10 A | Last:<br>14 A | Last:<br>18 A |\n|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------|----------------------------|--------------|--------------|--------------|---------------|---------------|---------------|\n| *Exempel: 1+2 betyder att det är 1 batteribackup med 2 batteriboxar anslutna",  
+  "category": "MISCELLANEOUS",  
+  "unit": "EN",  
+  "value": {  
+    "raw_value": "| CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11 |\n|-----------|---------------------------------------------------|\n|           | SS-EN 50 130-4:2011 Edition 2, EN50131-6          |\n\n# FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER)\n\n| Systems<br>pänning                                                                                                                        | Antal<br>batterier | Batteri<br>typ | Enhet +<br>batteri<br>box* | Last:<br>2 A | Last:<br>4 A | Last:<br>8 A | Last:<br>10 A | Last:<br>14 A | Last:<br>18 A |\n|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------|----------------------------|--------------|--------------|--------------|---------------|---------------|---------------|\n| *Exempel: 1+2 betyder att det är 1 batteribackup med 2 batteriboxar anslutna",  
+    "unit": "EN",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "---------------------------------------------------------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | CE: | CE direktivet enligt:765/2008 | | Emission: | EN61000-6-:2001 EN55022:1998:-A1:200...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463477"  
+}
+

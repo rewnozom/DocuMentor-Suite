@@ -1,0 +1,42 @@
+{  
+  "relation_type": "version",  
+  "related_product": "PHR17** Revision History | Revision | Date | Initiator | Reason for Change | |----------|------------|-------------|-------------------| | R1 | 1 Mar 2022 | Patrick Lee | First release | | | | | | | | | | | | | | | | | | | | | | Prepared By | Approved By | |------------------|------------------| | Patrick Lee | Antonio Arancio | | Date 1 Mar 2022 | Date 1 Mar 2022 | ![](images/_page_1_Picture_0",  
+  "context": "![](images/_page_0_Picture_0.jpeg) # **PRODUCT SPECIFICATIONS** ## **XPLOR Compact Headlamp (Trail Running) **Model: PHR17** Revision History | Revision | Date | Initiator | Reason for Change | |----------|------------|-------------|-------------------| | R1 | 1 Mar 2022 | Patrick Lee | First release | | | | | | | | | | | | | | | | | | | | | | Prepared By | Approved By | |------------------|------------------| | Patrick Lee | Antonio Arancio | | Date: 1 Mar 2022 | Date: 1 Mar 2022 | ![](images/_page_1_Picture_0.**jpeg) # **Product Specification Model no.: PHR17** ![](images/_page_1_Picture_3.jpeg) #### **Basic information** | Product Name",  
+  "position": [  
+    101,  
+    501  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Built-in 1600 mAh Lithium Polymer rechargeable battery | | Charging Port | | USB-C | | Charging Time | | 140min",  
+  "context": "---------------| | Dimension | : | 56 x 38 x 39mm | | Weight | : | 59.5g | | Housing material | : | Plastic | | Battery **Type | : | Built-in 1600 mAh Lithium Polymer rechargeable battery | | Charging Port | : | USB-C | | Charging Time | : | 140min.** | #### **Per ANSI FL1 Standard** | Spot LED chip | : | CREE XPG3 S3 CRI70 6500K | |---------------------|---|----------",  
+  "position": [  
+    854,  
+    981  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "History | Revision | Date | Initiator | Reason for Change | |----------|------------|-------------|-------------------| | R1 | 1 Mar 2022 | Patrick Lee | First release | | | | | | | | | | | | | | | | | | | | | | Prepared By | Approved By | |------------------|------------------| | Patrick Lee | Antonio Arancio | | Date 1 Mar 2022 | Date 1 Mar 2022 | ![](images/_page_1_Picture_0",  
+  "context": "![](images/_page_0_Picture_0.jpeg) # **PRODUCT SPECIFICATIONS** ## **XPLOR Compact Headlamp (Trail Running) Model: PHR17** **Revision History | Revision | Date | Initiator | Reason for Change | |----------|------------|-------------|-------------------| | R1 | 1 Mar 2022 | Patrick Lee | First release | | | | | | | | | | | | | | | | | | | | | | Prepared By | Approved By | |------------------|------------------| | Patrick Lee | Antonio Arancio | | Date: 1 Mar 2022 | Date: 1 Mar 2022 | ![](images/_page_1_Picture_0.**jpeg) # **Product Specification Model no.: PHR17** ![](images/_page_1_Picture_3.jpeg) #### **Basic information** | Product Name",  
+  "position": [  
+    116,  
+    501  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+

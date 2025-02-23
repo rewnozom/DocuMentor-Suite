@@ -1,0 +1,84 @@
+{  
+  "identifier": "5785143875090",  
+  "original": "5785143875090",  
+  "type": "EAN-13",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 2, faktisk: 0)",  
+  "group": "ean13",  
+  "pattern_index": 5,  
+  "pattern": "(?<!\\d)(\\d{13})(?!\\d)",  
+  "context": "ej överskridas. Maxström står angiven på [märkskylt](https://milleteknik.zendesk.com/hc/sv/articles/**5785143875090**-CE-märkning-märkskylt) på enheten. ![](images/_page_9_Picture_12.jpeg) #### **FARA** Nätspänning skall",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "identifier": "erred",  
+  "original": "erred",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "Use the following DNS server addresses: | | | | | | | Preferred DNS server: | 8<br>8<br>8<br>8 | | |** | | | A**lternate DNS server: |",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "identifier": "kabel",  
+  "original": "kabel",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ripolerna utåt, mot skåpluckan. • 2. Anslut batterikablaget till batteriet. Röd kabel på plus och sv**art kabel** på minus. • Bryt, om möjligt, nätspänning vid inkoppling och batteribyte. Figur 3. Kopplingsschema",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "identifier": "icles",  
+  "original": "icles",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "tröm får ej överskridas. Maxström står angiven på [märkskylt](https://milleteknik.zendesk.com/hc/sv/**articles**/5785143875090-CE-märkning-märkskylt) på enheten. ![](images/_page_9_Picture_12.jpeg) #### **FARA** Näts",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "identifier": "kommer",  
+  "original": "kommer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "cture_1.jpeg) #### **VARNING** Omstart görs av PoE-switch, batteribackup startas inte om. Vid omstar**t kommer a**nslutna enheter att tappa kontakten. Larm kan sättas till batteribackup, men det försvinner när Po",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "identifier": "mjukvara",  
+  "original": "mjukvara",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "-0\"></span>11.5.3. Ladda upp ny mjukvara ![](images/_page_34_Picture_1.jpeg) #### **VARNING** Använd enbart** mjukvara du** fått av Milletekniks support. Milleteknik tar inget ansvar för mjukvara eller följder som skada",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+

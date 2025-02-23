@@ -1,0 +1,44 @@
+{  
+  "name": "Material",  
+  "raw_value": "| Aluminium                                                                      |\n| Kontakter: | 2x NO                                                                          |\n\n![](images/_page_1_Picture_0",  
+  "category": "MATERIAL",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| Aluminium                                                                      |\n| Kontakter: | 2x NO                                                                          |\n\n![](images/_page_1_Picture_0",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | IP klass: | IP67 | | Material: | Aluminium | | Kontakter: | 2x NO | ![](images/_page_1_Picture_0.jpeg) | Laddström: | 0 | |------------------|---------------| | Strömförbrukning | 0 | | (mA): | | | Egens...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50142389"  
+}
+
+{  
+  "name": "Kontakter",  
+  "raw_value": "| 2x NO                                                                          |\n\n![](images/_page_1_Picture_0",  
+  "category": "CONNECTION",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| 2x NO                                                                          |\n\n![](images/_page_1_Picture_0",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Material: | Aluminium | | Kontakter: | 2x NO | ![](images/_page_1_Picture_0.jpeg) | Laddström: | 0 | |------------------|---------------| | Strömförbrukning | 0 | | (mA): | | | Egenskape",  
+  "pattern": "(?i)(?:kontakter|connectors)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 145,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50142389"  
+}
+

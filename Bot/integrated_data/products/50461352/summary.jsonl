@@ -1,0 +1,28 @@
+{  
+  "product_id": "50461352",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": null,  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "ABS - Plast\n\n## Rengöring: Kontakten går att rengöra med alla förekommande rengörningsmedel",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "Kontakten går att rengöra med alla förekommande rengörningsmedel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "![](images/_page_0_Figure_9",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

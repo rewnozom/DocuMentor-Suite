@@ -1,0 +1,53 @@
+{  
+  "product_id": "50140421",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "För att användas ihop med tex vår 19\" likriktare SM3000/SM3100 eller som batteribank i 230VAC UPS-system. För batteri 7-45Ah beroende på modell. Internkablage och batterisäkring av MCB typ ingår för enkel anslutning till likriktare och batterifästen.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "ger ett enkelt och professionellt montage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "batteribank i 230VAC UPS-system",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Benämning | H x B (Innerbredd) x D<br>mm | |----------|--------|----------------------------------------------------|------------------------------| | 5247160 | SBX193 | Batteribox 1 19\" max 4x12Ah m säkring o kablage | 132x480x200 | | 5247161 | SBX196 | Batteribox 2 19\" max 2x45Ah m säkring o kablage | 264x480x200 | | 5247185 | SBB20 | Batteribox för vägg max 2x20Ah m säkring o kablar | 300x360x110 | | 5247186 | SBB45 | Batteribox för vägg 2x45Ah m säkring o kablar | 320x420x180 | | 5247187 | SBB100 | Batteribox för vägg 2x100Ah m säkring o kablar | 600x400x220 | | 5247163 | SBH110 | Batterihylla 2 19\" max 2x120Ah | 280x480(420)x400 | | 5247164 | SBH120 | Batterihylla 3 19\" max 2x120Ah m säkring o kablage | 280x480(420)x400 | | 5247165 | SBH50 | Batterihylla 4 19\" max 2x45Ah | 280x480(420)x200 | | 5247166 | SBH52 | Batterihylla 5 19\" max 2x45Ah m säkring o kablage | 280x480(420)x200 | | 5247197 | SBH150 | Batterihylla 6 19\" max 2x150Ah | 280x480(420)x500 | | 5247198 | SBH152 | Batterihylla 7 19\" max 2x150Ah m säkring o kablage | 280x480(420)x500 | Postadress/Postal address Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5247160",  
+        "5247161",  
+        "5247185",  
+        "5247186",  
+        "5247187",  
+        "5247163",  
+        "5247164",  
+        "5247165",  
+        "5247166",  
+        "5247197",  
+        "5247198"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "För batteri 7-45Ah beroende på modell",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Passande batteri är 17-150Ah batterier beroende på modell",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

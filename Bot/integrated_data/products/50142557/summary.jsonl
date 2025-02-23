@@ -1,0 +1,63 @@
+{  
+  "product_id": "50142557",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Discharge Current | 1400 (5s)                                                                                                                                   |                                          |  |  |  |  |  |\n| Internal Resistance    | Approx 3.6mΩ(Fully charged)                                                                                                                 |                                          |  |  |  |  |  |\n|                        | o<br>o<br>o<br>o<br>Discharge : -40 C~65 C (-40 F~149 F)                                                                                    |                                          |  |  |  |  |  |\n| Operating Temp.Range   | o<br>o<br>o<br>o<br>Charge<br>:<br>0 C~40 C (32 F~104 F)                                                                                    |                                          |  |  |  |  |  |\n|                        | o<br>o<br>Storage<br>: -20 C~40 C(-4 F~104 F)                                                                                               | o<br>o<br>103%<br>100%<br>86%            |  |  |  |  |  |\n| Capacity affected by   | o<br>o<br>40 C<br>(104 F)                                                                                                                   |                                          |  |  |  |  |  |\n| Temperature            | o<br>o<br>25 C<br>( 77 F )                                                                                                                  |                                          |  |  |  |  |  |\n|                        | o<br>o<br>0 C<br>( 32 F )                                                                                                                   |                                          |  |  |  |  |  |\n|                        | UPBH series batteries can be stored up to 24 months<br>at 25°C(77°F), For higher temperatures the time<br>interval will be shorter. |                                          |  |  |  |  |  |\n| Storage                | Battery needs to be given a freshening charge<br>when the OCV approach 2.10V/cell or when the<br>maximum storage time is reached, whichever |                                          |  |  |  |  |  |\n\noccurs first. - High quality AGM separators minimize electrical resistance to allow high current discharging properties.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "Acrylonitrile<br>Butadine Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                  |\n\n# **SECTION 3: PHYSICAL DATA**\n\n| COMPONENTS                                                   | DENSITY<br>g/cm3 | MELTING/BOILING<br>(M/B) POINT     | SOLUBILITY<br>(H2O)       | ODOR                                | APPEARANCE                  |\n|--------------------------------------------------------------|------------------|------------------------------------|---------------------------|-------------------------------------|-----------------------------|\n| Lead                                                         | 11",  
+      "unit": "O"  
+    },  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | 1",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "proper packaging and paperwork including the nature and quantity of goods per applicable origin/destination/customs points as-shipped",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the | | | | | battery",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "battery charging area",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "a battery most often occurs during lead reclamation operations through the breathing or ingestion of lead dust or fumes",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of sulfuric acid mist",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Acute ingestion should be treated by a physician",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The toxic effects of lead are cumulative and slow to appear",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "icles"  
+    ]  
+  }  
+}
+

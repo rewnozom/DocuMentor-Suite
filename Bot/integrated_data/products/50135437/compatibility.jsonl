@@ -1,0 +1,42 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "even longer backup time please check our bigger battery packs with inside 12x or even 18x of 12V/9Ah batteries inside",  
+  "context": ".jpeg) ### **Runtime Curve´s** ![](images/_page_1_Figure_3.jpeg) ![](images/_page_1_Figure_4.jpeg) #### **Longer backup time** If you **need even longer backup time, please check our bigger battery packs with inside 12x or even 18x of 12V/9Ah batteries inside.** Link to Battery Pack with 12x 12V/9Ah batteries: Link Link to Battery Pack with 18x 12V/9Ah batteries: Link Version: EN",  
+  "position": [  
+    1656,  
+    1780  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135437"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "EN 21/05/2014 We reserve the right for technical changes and mistakes",  
+  "context": "ies inside. Link to Battery Pack with 12x 12V/9Ah batteries: Link Link to Battery Pack with 18x 12V/9Ah batteries: Link **Version: EN 21/05/2014 We reserve the right for technical changes and mistakes**",  
+  "position": [  
+    1889,  
+    1967  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135437"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| ANEN (Anderson) | |-------------------|---------------------------------| | Battery type/qty",  
+  "context": "time curve´s **Supports following models:** VFI Series: VFI 2000 LCD, VFI 3000 LCD #### **Product Details** | Connector **type | ANEN (Anderson) | |-------------------|---------------------------------| | Battery type/qty.** | 6x 12V/9Ah | | String Voltage | 72V | | Dimensions | 397 x 126 x 221 mm | | Weight | 20.00kg | | Package Content | |",  
+  "position": [  
+    872,  
+    972  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135437"  
+}
+

@@ -1,0 +1,56 @@
+{  
+  "identifier": "variant",  
+  "original": "variant",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 16,  
+  "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| 5213639 | 5213640 | | | | | | Artikelnummervariant (levereras exkl. reläkort): | FM01P30024P050-DS1",  
+  "source": "regex",  
+  "product_id": "50156071"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| NOVA 24V 15A FLX M | NOVA 24V 25A FLX M | | | | | | Artikelnummer: | FM01P30024P050-SSF",  
+  "source": "regex",  
+  "product_id": "50156071"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | | | | Artikelnamn: | NOVA 24V 5A FLX M",  
+  "source": "regex",  
+  "product_id": "50156071"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| NOVA 24V 15A FLX M | NOVA 24V 25A FLX M | | | | | | Artikelnummer: | FM01P30024P050-SSF",  
+  "source": "regex",  
+  "product_id": "50156071"  
+}
+

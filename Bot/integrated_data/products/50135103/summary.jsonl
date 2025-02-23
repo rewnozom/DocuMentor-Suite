@@ -1,0 +1,35 @@
+{  
+  "product_id": "50135103",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Kombinationen ger en idealisk lampa till många olika sammanhang och miljöer. Lampan kan hängas i krok, fästas i byxlinning ställas på golv eller på vinklad yta med hjälp av utfällbart vinkelstöd för precis rätt riktad ljusbild, den kan även fästas i magnet på ex. insida av motorhuv.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "ger mycket god ljusspridning i vidvinkel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Med extra knapptryckning växlas mellan tänd topled eller COB",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "## **Teknisk specifikation** Mått LxBxH 122x61x22 mm",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "3xAAA (ingår ej)",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "vinkelst"  
+    ]  
+  }  
+}
+

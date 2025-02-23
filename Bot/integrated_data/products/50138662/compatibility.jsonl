@@ -1,0 +1,154 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "VI modellerna till bankomater kiosker små industri- och kontorstillämpningar",  
+  "context": "fekthanteringssystem stöds av datorns interna strömhanterings program, som finns som standard. Med sina kompakta format **passar VI modellerna till bankomater, kiosker, små industri- och kontorstillämpningar.** - Simulerad sinusvågs ut vid batteriläge - Övervakningsprogrammet ingår - Utrustad med Boost och Buck AVR för att stabi",  
+  "position": [  
+    597,  
+    683  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "krävande IT miljö och där risken för ett instabilt nät finns",  
+  "context": "dar all inre elektronik. Detta sker utan avbrott och inkopplad last kan drivas vidare under detta arbetsläge. Produkten **rekommenderas för krävande IT miljö och där risken för ett instabilt nät finns.** - Lättavläst LCD-display som visar uttagen effekt i % och återstående batterikapacitet. - Output power factor 0,9 - App",  
+  "position": [  
+    1518,  
+    1597  
+  ],  
+  "pattern_index": 12,  
+  "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "krävande IT miljö och där risken för ett instabilt nät finns",  
+  "context": "dar all inre elektronik. Detta sker utan avbrott och inkopplad last kan drivas vidare under detta arbetsläge. Produkten **rekommenderas för krävande IT miljö och där risken för ett instabilt nät finns.** - Lättavläst LCD-display som visar uttagen effekt i % och återstående batterikapacitet. - Output power factor 0,9 - App",  
+  "position": [  
+    1518,  
+    1597  
+  ],  
+  "pattern_index": 45,  
+  "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan övervaka UPS-statusen på Windows Mac OS Linux-system utan att installera ytterligare programvara",  
+  "context": "tdrift och modifierad sinus vid batteridrift. Designad för att uppfylla höga säkerhetskrav. En HID-kompatibel USB-port s**om kan övervaka UPS-statusen på Windows, Mac OS, Linux-system utan att installera ytterligare programvara.** HID - effekthanteringssystem stöds av datorns interna strömhanterings program, som finns som standard. Med sina kompakt",  
+  "position": [  
+    362,  
+    468  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "finns som standard",  
+  "context": "att installera ytterligare programvara. HID - effekthanteringssystem stöds av datorns interna strömhanterings program, s**om finns som standard.** Med sina kompakta format passar VI modellerna till bankomater, kiosker, små industri- och kontorstillämpningar. - Simul",  
+  "position": [  
+    549,  
+    571  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är kapslad som Tower",  
+  "context": "atteribyte ![](images/_page_0_Picture_15.jpeg) VF I 1000 TG ## VFI 1000/2000/3000TG LCD En äkta On-Line double Conversion UPS s**om är kapslad som Tower .** Med On-Line teknologi erbjuds användaren ett komplett skydd för alla typer av problem på nätet såsom: avbrott, över och",  
+  "position": [  
+    1077,  
+    1102  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är den försedd med en inre statisk switch vilket innebär att vid överlast så förbikopplas den och skyddar all inre elektronik",  
+  "context": "yper av problem på nätet såsom: avbrott, över och underspänning, transienter, frekvensvariationer, mikroavbrott . Dessut**om är den försedd med en inre statisk switch vilket innebär att vid överlast så förbikopplas den och skyddar all inre elektronik.** Detta sker utan avbrott och inkopplad last kan drivas vidare under detta arbetsläge. Produkten rekommenderas för krävan",  
+  "position": [  
+    1293,  
+    1422  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visar uttagen effekt i % och återstående batterikapacitet",  
+  "context": "ge. Produkten rekommenderas för krävande IT miljö och där risken för ett instabilt nät finns. - Lättavläst LCD-display s**om visar uttagen effekt i % och återstående batterikapacitet.** - Output power factor 0,9 - Apparatuttagsanslutning (IEC320) mellan UPS och dator. (1-3kVA). - Ljus och ljudsignal vid",  
+  "position": [  
+    1624,  
+    1685  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "knapptryck på fronten",  
+  "context": "ratuttagsanslutning (IEC320) mellan UPS och dator. (1-3kVA). - Ljus och ljudsignal vid spänningsavbrott. - Självtest gen**om knapptryck på fronten.** - Enkel installation av kommunikationskort. - ECO funktion för energi spar läge - Intelligent fläkt kontroll minskar lj",  
+  "position": [  
+    1838,  
+    1863  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "UPS som är kapslad som Tower",  
+  "context": "gnos - Lätt batteribyte ![](images/_page_0_Picture_15.jpeg) VF I 1000 TG ## VFI 1000/2000/3000TG LCD En äkta On-Line double Con**version UPS som är kapslad som Tower .** Med On-Line teknologi erbjuds användaren ett komplett skydd för alla typer av problem på nätet såsom: avbrott, över och",  
+  "position": [  
+    1064,  
+    1102  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "En HID-kompatibel USB-port som kan övervaka UPS-statusen på Windows Mac OS Linux-system utan att installera ytterligare programvara",  
+  "context": "UPS med ren sinusvågs ut vid nätdrift och modifierad sinus vid batteridrift. Designad för att uppfylla höga säkerhetskra**v. En HID-kompatibel USB-port som kan övervaka UPS-statusen på Windows, Mac OS, Linux-system utan att installera ytterligare programvara.** HID - effekthanteringssystem stöds av datorns interna strömhanterings program, som finns som standard. Med sina kompakt",  
+  "position": [  
+    331,  
+    468  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+

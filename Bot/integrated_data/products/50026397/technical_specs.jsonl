@@ -1,0 +1,22 @@
+{  
+  "name": "Dimensions",  
+  "raw_value": "14.5",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "14.5",  
+    "unit": null,  
+    "normalized_value": 14.5,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": ": 1.5 Volts | | | | | Nominal Dimensions | : Ø14.5 mm x 50.5 mm | | | | | Terminals | : Protruded positive(+) and flat negative(-)<br>contacts | |",  
+  "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",  
+  "pattern_index": 6,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50026397"  
+}
+

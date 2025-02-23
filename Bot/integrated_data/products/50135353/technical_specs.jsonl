@@ -1,0 +1,22 @@
+{  
+  "name": "voltage",  
+  "raw_value": "24",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "24",  
+    "unit": null,  
+    "normalized_value": 24.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "kup time model** When connecting the external batteries it's recommended to pay attention to these following items: #### ★ Use the battery pack with v**oltage: 24VD**C for 1000 TG(S) (2 pcs of 12V bat...",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135353"  
+}
+

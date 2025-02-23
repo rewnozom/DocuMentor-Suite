@@ -1,0 +1,49 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "change without notice",  
+  "context": "d should be cross referenced with the swedish original before use. User manual article number: 350-243 This document is **subject to change without notice.** All information is published subject to typographical errors. ## ADDRESS AND CONTACT DETAILS - Milleteknik AB Ögärdesvä",  
+  "position": [  
+    3002,  
+    3035  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464572"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "typographical errors",  
+  "context": "se. User manual article number: 350-243 This document is subject to change without notice. All information is published **subject to typographical errors.** ## ADDRESS AND CONTACT DETAILS - Milleteknik AB Ögärdesvägen 8 B S-433 30 Partille +46 31 340 02 30 www.milleteknik.se",  
+  "position": [  
+    3065,  
+    3097  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464572"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Nätavbrott NC/CO/NO | | | | | | | Tekniska data | | | | Rekommenderad miljö | Miljöklass 1 Inomhus 20% ~ 90% relativ fuktighet | | | Produkterna möter kraven enligt | EMC Directive 2014/30EU Low Voltage directive 2014/35/EU CE directive according<br>to 765/2008 Emission EN61000-6-2001 EN550221998-A12000 A22003 Klass B<br>EN61000-3-22001",  
+  "context": "å växlande relä. | | | Mått | 21 x 55 x 42 mm | | | Egenförbrukning | N/A | | | Spänning, in | 27,3 V DC | | | Larmutgån**g: | Nätavbrott NC/CO/NO | | | | | | | Tekniska data | | | | Rekommenderad miljö | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet | | | Produkterna möter kraven enligt | EMC Directive 2014/30EU, Low Voltage directive: 2014/35/EU CE directive according<br>to 765/2008, Emission: EN61000-6-:2001, EN55022:1998:-A1:2000, A2:2003 Klass B,<br>EN61000-3-2:2001.** Immunity: EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | | Garanti | 2 år | | Tillverkad i Milletekniks fabrik",  
+  "position": [  
+    728,  
+    1087  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "61000",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001"  
+  ],  
+  "product_id": "50464572"  
+}
+

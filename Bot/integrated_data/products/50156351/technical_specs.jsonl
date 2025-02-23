@@ -1,0 +1,88 @@
+{  
+  "name": "MÅTT",  
+  "raw_value": "|                                                                                                                                                                                                                                                  |\n|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Rekommenderad miljö: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                               |\n| Omgivningstemperatur: | +5 °C - 40 °C                                                                                                                                                                                                                                    |\n| Dimension (HxBxD): | 117x155x135 mm                                                                                                                                                                                                                                   |\n| ELEKTRISK INFORMATION: |                                                                                                                                                                                                                                                  |\n| Inspänning: | 27,3VDC                                                                                                                                                                                                                                          |\n| Utspänning: | PoE (54,6VDC)                                                                                                                                                                                                                                    |\n| Antal LAN / PoE portar: | 4 st",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "|                                                                                                                                                                                                                                                  |\n|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Rekommenderad miljö: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                               |\n| Omgivningstemperatur: | +5 °C - 40 °C                                                                                                                                                                                                                                    |\n| Dimension (HxBxD): | 117x155x135 mm                                                                                                                                                                                                                                   |\n| ELEKTRISK INFORMATION: |                                                                                                                                                                                                                                                  |\n| Inspänning: | 27,3VDC                                                                                                                                                                                                                                          |\n| Utspänning: | PoE (54,6VDC)                                                                                                                                                                                                                                    |\n| Antal LAN / PoE portar: | 4 st",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "r - √ Matningsspänning: 24 VDC - √ Stöder IEEE 802.3af/15,4W & IEEE 802.3at/30,8W - √ Kan monteras på vägg eller DIN skena | REKOMMENDERAD MILJÖ OCH MÅTT: | | |--------------------------------|-------...",  
+  "pattern": "(?i)mått\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 2,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156351"  
+}
+
+{  
+  "name": "spänning",  
+  "raw_value": "24",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "24",  
+    "unit": null,  
+    "normalized_value": 24.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "![](images/_page_0_Picture_0.jpeg) PoE ## PoE injector 4p ![](images/_page_0_Picture_3.jpeg) - √ PoE injector, 4 Ethernet / 4 PoE portar - √ Matningsspän**ning: 24 VDC -** √ Stöder IEEE 802.3af/15,4W & IEEE 802.3at...",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156351"  
+}
+
+{  
+  "name": "Matningsspänning",  
+  "raw_value": "24",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "24",  
+    "unit": null,  
+    "normalized_value": 24.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "![](images/_page_0_Picture_0.jpeg) PoE ## PoE injector 4p ![](images/_page_0_Picture_3.jpeg) - √ PoE injector, 4 Ethernet / 4 PoE portar - √ Matn**ingsspänning: 24 VDC -** √ Stöder IEEE 802.3af/15,4W & IEEE 802.3at...",  
+  "pattern": "(?i)(?:matningsspänning|supply voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 22,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156351"  
+}
+
+{  
+  "name": "nätverksport",  
+  "raw_value": "| 10 / 100 PoE+                                                                                                                                                                                                                                    |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                 |\n| Stöd för standard enligt: | IEEE 802",  
+  "category": "NETWORK",  
+  "unit": "PoE",  
+  "value": {  
+    "raw_value": "| 10 / 100 PoE+                                                                                                                                                                                                                                    |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                 |\n| Stöd för standard enligt: | IEEE 802",  
+    "unit": "PoE",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Typ av nätverksport: | 10 / 100 PoE+ | | Gränssnit: | 1000Base-T RJ-45 | | Stöd för standard enligt: | IEEE 802.3at, IEEE 802.3af",  
+  "pattern": "(?i)(?:nätverksport|network port)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 140,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156351"  
+}
+

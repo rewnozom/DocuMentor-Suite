@@ -1,0 +1,63 @@
+{  
+  "product_id": "50142582",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## USL12-45 (12V45AH) **USL SERIES**\n\n![](images/_page_0_Picture_2.jpeg)\n\n## **General Features**\n\n- *UPS and EPS*\n- *Emergency light*\n- *Railway signal and aircraft signal system*\n- *Marine and power stations*\n- *Alarm and security system*\n- *Electronic apparatus and equipment*\n- *Communication power supply,*\n\n*DC power supply*\n\n| VdS |  |  |  | 9 | tested<br>Germ any |\n|-----|--|--|--|---|--------------------|\n|-----|--|--|--|---|--------------------|\n\n| Battery Type         | Valve-Regulated,Absorbed Glass Mat(AGM) Technology   |  |                    |                                                            |                                    |                   |  |  |  |  |\n|----------------------|------------------------------------------------------|--|--------------------|------------------------------------------------------------|------------------------------------|-------------------|--|--|--|--|\n| Nomial Voltage       | 12V                                                  |  |                    |                                                            |                                    |                   |  |  |  |  |\n|                      | 20HR(2.25A,1.8V/cell)                                |  | 10HR(4.20A,1.80V)  | 5HR(7.31A,1.75V)                                           |                                    | 1HR(26.0A,1.60V)  |  |  |  |  |\n| 0 25 C)<br>Capacity( | 45.0AH                                               |  | 42.0AH             | 36.55AH                                                    |                                    | 26.0AH            |  |  |  |  |\n|                      | Length                                               |  | Width              | Height                                                     |                                    | Total Height      |  |  |  |  |\n| Dimensions           | 197mm(7.76inches)                                    |  | 165mm(6.50inches)  | 170mm(6.69inches)                                          |                                    | 170mm(6.69inches) |  |  |  |  |\n| Approx Weight        | Approx 14.5 kg (31.97lbs)                            |  |                    |                                                            |                                    |                   |  |  |  |  |\n| Internal Resistance  | 0<br>Full Charged at<br>25 C : Approx 9mΩ            |  |                    |                                                            |                                    |                   |  |  |  |  |\n| Self Discharge       | 0<br>3% of capacity declined per month at<br>25 C    |  |                    |                                                            |                                    |                   |  |  |  |  |\n| Capacity affected by | o<br>40 C                                            |  | 0<br>25 C          | 0<br>0 C                                                   |                                    | 0<br>-15 C        |  |  |  |  |\n| Temperature(20HR)    | 103%                                                 |  | 100%               | 86%                                                        |                                    | 65%               |  |  |  |  |\n|                      | Cycle use                                            |  |                    | Float use                                                  |                                    |                   |  |  |  |  |\n| Charging Voltage (V) | 0<br>14.4V~15.0V at 25 C. Temp. Coefficient -30mV/ C |  | 0                  | 0<br>0<br>13.5V~13.8V at 25 C.Temp.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "Acrylonitrile<br>Butadine Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                  |\n\n# **SECTION 3: PHYSICAL DATA**\n\n| COMPONENTS                                                   | DENSITY<br>g/cm3 | MELTING/BOILING<br>(M/B) POINT     | SOLUBILITY<br>(H2O)       | ODOR                                | APPEARANCE                  |\n|--------------------------------------------------------------|------------------|------------------------------------|---------------------------|-------------------------------------|-----------------------------|\n| Lead                                                         | 11",  
+      "unit": "O"  
+    },  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | 1",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "proper packaging and paperwork including the nature and quantity of goods per applicable origin/destination/customs points as-shipped",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the | | | | | battery",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "battery charging area",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "a battery most often occurs during lead reclamation operations through the breathing or ingestion of lead dust or fumes",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of sulfuric acid mist",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Acute ingestion should be treated by a physician",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The toxic effects of lead are cumulative and slow to appear",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "icles"  
+    ]  
+  }  
+}
+

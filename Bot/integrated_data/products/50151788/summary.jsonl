@@ -1,0 +1,46 @@
+{  
+  "product_id": "50151788",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n**APS108** v.1.1/II **APS108 10-port switch 8x30W med reservkraft** PRODUKTKODE TYP: : **SV**\n\n![](images/_page_0_Picture_4.jpeg)\n\nW H D W1 H1 D1\n\n#### **Egenskaper:**\n\n- ź Avbrottsfri strömförsörjning för 8 IP-enheter (54 V DC)\n- ź Switch med 10 portar 8 PoE-portar 10/100Mb/s, (data och strömförsörjning) 2 portar 10/100Mb/s (UpLink)\n- ź Läge med **Lång räckvidd** (upp till 250m)\n- ź 30 W för varje PoE-port, stöder enheter som uppfyller standarden IEEE802.3af/at vid **(PoE +)**\n- ź Lysdioder för indikering\n- ź Metallhölje färg vit RAL 9003 med plats för fyra 7 Ah/12 V-batterier\n- ź Stöder automatisk inlärning och automatiskt åldrande av MAC-adresser (1K storlek)\n\n### **BESKRIVNING**\n\nAPS108 är avsedd för avbrottsfri strömförsörjning av 8 IP-enheter (54 V DC-försörjning). Systemets huvudsakliga komponenter inkluderar:\n\n- PoE-switch med 10 portar\n- 54 V (PSB-48V5A) buffertströmförsörjning med fyra 7 Ah / 12V-batterier\n\nVid strömavbrott aktiveras omedelbart reservkraft(batterier)\n\n Automatisk upptäckt av enheter som drivs med standarden PoE/PoE+ aktiveras vid portar 1-8 på switchen. Up Link-portarna används för anslutning till en annan nätverksenhet.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "avbrottsfri strömförsörjning av 8 IP-enheter (54 V DC-försörjning)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 150 mA/54 V DC | | Batteriets laddningsström | 05 A max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 150 mA/54 V DC | | Batteriets laddningsström | 05 A max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "uppfyller standarden IEEE802",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "drivs med standarden PoE/PoE+ aktiveras vid portar 1-8 på switchen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Φ 063-250 (AWG 22-10)<br>Batteriutgång BAT 63F-25<br>MANIPULERINGS-utgång ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna dras",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "**SV** ![](images/_page_0_Picture_4",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

@@ -1,0 +1,67 @@
+{  
+  "product_id": "50142592",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# XLT Series - General Purpose XLT12-17 12V 17.5Ah\n\n| Specifications                  |                                                                                                                         |                                                                 |  |  |  |  |  |  |  |\n|---------------------------------|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--|--|--|--|--|--|--|\n| Nominal Voltage                 | 12V                                                                                                                     |                                                                 |  |  |  |  |  |  |  |\n| Nominal Capacity(20HR)          | 17.5AH                                                                                                                  |                                                                 |  |  |  |  |  |  |  |\n|                                 | Length                                                                                                                  | 181.5<br>1mm (7.14 inches )                                     |  |  |  |  |  |  |  |\n|                                 | W idth                                                                                                                  | 77<br>1mm (3.03 inches )                                        |  |  |  |  |  |  |  |\n| Dimens ion                      | C ontainer Height                                                                                                       | 167.5<br>1mm (6.59 inches )                                     |  |  |  |  |  |  |  |\n|                                 | Total Height (with Terminal)                                                                                            | 167.5<br>1mm (6.59 inches )                                     |  |  |  |  |  |  |  |\n| Approx Weight                   | Approx 5.32kg (11.73lbs )                                                                                               |                                                                 |  |  |  |  |  |  |  |\n| Terminal                        | T3                                                                                                                      |                                                                 |  |  |  |  |  |  |  |\n| Container Ma terial             | ABS                                                                                                                     |                                                                 |  |  |  |  |  |  |  |\n|                                 | 17.5 A H/0.873A                                                                                                         | 0<br>0<br>(20hr ,1.80V/cell,20<br>C/68 F)                       |  |  |  |  |  |  |  |\n|                                 | 16.2 A H/1.62A                                                                                                          | 0<br>0<br>(10hr,1.80V/cell,20<br>C/68 F)                        |  |  |  |  |  |  |  |\n| Rated Cap acity                 | 14.7 A H/2.94A                                                                                                          | 0<br>0<br>(5hr,1.75V/cell,20<br>C/68 F)                         |  |  |  |  |  |  |  |\n|                                 | 13.2 A H/4.41A                                                                                                          | 0<br>0<br>(3hr,1.75V/cell,20<br>C/68 F)                         |  |  |  |  |  |  |  |\n|                                 | 10.7 A H/10.7A                                                                                                          | 0<br>0<br>(1hr,1.60V/cell,20<br>C/68 F)                         |  |  |  |  |  |  |  |\n| Ma x. Dis charge C urrent       | 270A (5s)                                                                                                               |                                                                 |  |  |  |  |  |  |  |\n| Internal Re sistance            | Approx 16m Ù                                                                                                            |                                                                 |  |  |  |  |  |  |  |\n|                                 | 0<br>0<br>Discharge : -15<br>50 C (5<br>122 F)                                                                          |                                                                 |  |  |  |  |  |  |  |\n| Ope rating Temp. Ra nge         | 0<br>0<br>Charge<br>: 0<br>40 C (32<br>104 F)                                                                           |                                                                 |  |  |  |  |  |  |  |\n|                                 | 0<br>0<br>Storage<br>: -15<br>40 C (5<br>104 F)                                                                         |                                                                 |  |  |  |  |  |  |  |\n| Nominal O perating Temp.",  
+  "key_specifications": [  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "Capacity",  
+      "value": "** 0",  
+      "unit": null  
+    },  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                |\n\n## SECTION 4: FIRST AID MEASURES\n\n## Battery Electrolyte\n\n#### *Eyes*\n\nImmediately flush eyes with plenty of water for at least 15 minutes, occasionally lifting the upper and lower eyelids",  
+      "unit": "minutes"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "proper packaging and paperwork including the nature and quantity of goods per applicable origin/destination/customs points as-shipped",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "systems Power systems UPSStandby power Solar system Electric mobility Portable power tools Electric vehicles and motorcycles etc",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "a battery most often occurs during lead reclaim operations through the breathing or ingestion of lead dusts and fumes",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ventilation is required for batteries utilized for standby power generation",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of sulfuric acid mist",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "spark may cause battery explosion with dispersion of casing fragments and corrosive liquid electrolyte",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Ventilate area well",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "ighting",  
+      "erred",  
+      "erably",  
+      "icles",  
+      "icular"  
+    ]  
+  }  
+}
+

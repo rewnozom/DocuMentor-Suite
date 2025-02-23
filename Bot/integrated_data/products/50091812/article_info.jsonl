@@ -1,0 +1,42 @@
+{  
+  "identifier": "7320896170049",  
+  "original": "7320896170049",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 0,  
+  "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",  
+  "context": "st Kärra 1 st Brandfilt 120 x 180 cm 1 par Svetshandskar • *ARTICLE INFORMATION:** Art.no: 617004 EA**N: 7320896170049 E**-nummer: 1695152 ![](images/_page_0_Picture_7.jpeg) ![](images/_page_0_Picture_8.jpeg) ![](images/_page_0_Picture_9.",  
+  "source": "regex",  
+  "product_id": "50091812"  
+}
+
+{  
+  "identifier": "1695152",  
+  "original": "1695152",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "dfilt 120 x 180 cm 1 par Svetshandskar • *ARTICLE INFORMATION:** Art.no: 617004 EAN: 7320896170049 E**-nummer: 1695152 **![](images/_page_0_Picture_7.jpeg) ![](images/_page_0_Picture_8.jpeg) ![](images/_page_0_Picture_9.jpeg) • *Page 1/2*",  
+  "source": "regex",  
+  "product_id": "50091812"  
+}
+
+{  
+  "identifier": "617004",  
+  "original": "617004",  
+  "type": "Artikelnummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt artikelnummerformat",  
+  "group": "article",  
+  "pattern_index": 14,  
+  "pattern": "(?i)Art(?:ikel)?\\.?n[ro]\\.?[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "cture_3.jpeg) 1 st Kärra 1 st Brandfilt 120 x 180 cm 1 par Svetshandskar • *ARTICLE INFORMATION:** A**rt.no: 617004 **EAN: 7320896170049 E-nummer: 1695152 ![](images/_page_0_Picture_7.jpeg) ![](images/_page_0_Picture_8.jpeg) ![",  
+  "source": "regex",  
+  "product_id": "50091812"  
+}
+

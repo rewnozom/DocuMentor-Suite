@@ -1,0 +1,28 @@
+{  
+  "product_id": "50155016",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Tillval:\n\n![](images/_page_0_Figure_10.jpeg)\n\n### Går att beställa med:\n\n- * 2 Mikrobrytare\n- * NO/NC Mikrobrytare\n- * Radiostyrning\n- * Universiella symboler:\n\n1. Dörrsymbol\n\n![](images/_page_0_Figure_17.jpeg)\n\n2. Rullstolsymbol\n\n![](images/_page_0_Picture_19.jpeg)\n\n3.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "Alu",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Plast (Acetalplast) ### Rengöring Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

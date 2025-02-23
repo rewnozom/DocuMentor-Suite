@@ -1,0 +1,42 @@
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | Ursprungsland | Kina | | | |",  
+  "context": "EN61000-3-2:2001. Immunity: EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | Garantiperiod: | 2 år | | Designad av: | Milleteknik AB | | Ursprungsland: | Kina | | | |",  
+  "position": [  
+    1871,  
+    1924  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156348"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 546VDC | | Utspänning | PoE (546VDC) | | Antal LAN / PoE portar | 2 st",  
+  "context": "Omgivningstemperatur: | +5 °C - 40 °C | | Dimension (HxBxD): | 20x130x100 mm | | ELEKTRISK INFORMATION: | | | Inspänning**: | 54,6VDC | | Utspänning: | PoE (54,6VDC) | | Antal LAN / PoE portar: | 2 st. **/ 4 st. | | Max effekt per port: | 30,8W @54,6VDC / 22W@41VDC | | PoE Budget: | 320W | | Ethernettyp: | Fast Ethernet M",  
+  "position": [  
+    842,  
+    922  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156348"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Fast Ethernet Mbit PoE switch | | Typ av nätverksport | 10 / 100 PoE+ | | Gränssnit | 1000Base-T RJ-45 | | Stöd för standard enligt | IEEE 802",  
+  "context": "/ PoE portar: | 2 st. / 4 st. | | Max effekt per port: | 30,8W @54,6VDC / 22W@41VDC | | PoE Budget: | 320W | | Ethernett**yp: | Fast Ethernet Mbit PoE switch | | Typ av nätverksport: | 10 / 100 PoE+ | | Gränssnit: | 1000Base-T RJ-45 | | Stöd för standard enligt: | IEEE 802.3**at, IEEE 802.3af | | Funktioner: | Auto-negotiation, Auto-uplink (auto MDI/MDI-X) | | Managerbar: | Nej | | MÖJLIG FÖR",  
+  "position": [  
+    1020,  
+    1173  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156348"  
+}
+

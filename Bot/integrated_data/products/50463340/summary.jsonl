@@ -1,0 +1,62 @@
+{  
+  "product_id": "50463340",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Viktigt vid släckning av brand i litiumjonbatterier. Se alltid efter utrymningsmöjligheter först. Närma dig aldrig en brand som snabbt sprider sig eller då utrymningsvägarna kan bli blockerade.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "material",  
+      "value": "| Stål     |          |                                    |\n| Drivgas: | Nitrogen |          |                                    |\n| Bruttovikt (kg): | 10",  
+      "unit": null  
+    },  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "Effektivitetsklass",  
+      "value": "| 13A      | Artikel: | 600228-60                          |\n| Temperaturområde: +5 °C / +60 °C |          | EAN: | 7320890228609                      |\n| Släckmedel: | 6L AVD   |          | Certifiering: EN3-7, CE, Wheelmark |\n| Storlek släckare: | 6 L      |          |                                    |\n| Tömningstid: | <120 s   |          |                                    |\n| Kastlängd: | 2-3 m    |          |                                    |\n| Arbetstryck: | 15 Bar   |          |                                    |\n| Arbetstryck: | 15 Bar   |          |                                    |\n| Cylindermaterial: | Stål     |          |                                    |\n| Drivgas: | Nitrogen |          |                                    |\n| Bruttovikt (kg): | 10",  
+      "unit": "A"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "snabbt sprider sig eller då utrymningsvägarna kan bli blockerade",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "du närmar dig en brand speciellt vid släckning av batteribränder på grund av det explosiva förlopp som kan uppstå",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "möjligt",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| LITHEX6 | |----------------------------------|----------|----------|------------------------------------| | Effektivitetsklass | 13A | Artikel | 600228-60 | | Temperaturområde +5 °C / +60 °C | | EAN | 7320890228609 | | Släckmedel | 6L AVD | | Certifiering EN3-7 CE Wheelmark | | Storlek släckare | 6 L | | | | Tömningstid | <120 s | | | | Kastlängd | 2-3 m | | | | Arbetstryck | 15 Bar | | | | Arbetstryck | 15 Bar | | | | Cylindermaterial | Stål | | | | Drivgas | Nitrogen | | | | Bruttovikt (kg) | 10",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "600228",  
+        "7320890228609"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Viktigt vid släckning av brand i litiumjonbatterier! Se alltid efter utrymningsmöjligheter först",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Om släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "7320890228609"  
+    ]  
+  }  
+}
+

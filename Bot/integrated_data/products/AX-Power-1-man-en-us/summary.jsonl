@@ -1,0 +1,16 @@
+{  
+  "product_id": "AX-Power-1-man-en-us",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n#### Manual\n\nUpdated 11/23/2020\n\n# **AX-Power 1**\n\nPower supply unit with PoE injector and batteries for uninterrupted power supply. ![](images/_page_0_Picture_5.jpeg)\n\n### Introduction\n\nAX-Power 1 is a power supply unit (injector) PoE (Power over Ethernet) according to the standard IEEE 802.3at, with uninterruptible power as the unit includes 2 pcs. batteries (12V 1.3 Ah).",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Axema runs with four batteries",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

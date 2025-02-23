@@ -1,0 +1,268 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+  "context": "ömförsörjningsaggregat med kompakta dimensioner och enkel inkoppling. Har plats för batterier från 7Ah upp till 100 Ah. **Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passagesystem.** SM2100 är primärwitchad, högeffektiv och har mycket lågt rippel och noggrann utspänning. **Strömförsörjning med plats f",  
+  "position": [  
+    1172,  
+    1297  
+  ],  
+  "pattern_index": 10,  
+  "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+  "context": "ömförsörjningsaggregat med kompakta dimensioner och enkel inkoppling. Har plats för batterier från 7Ah upp till 100 Ah. **Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passagesystem.** SM2100 är primärwitchad, högeffektiv och har mycket lågt rippel och noggrann utspänning. **Strömförsörjning med plats f",  
+  "position": [  
+    1172,  
+    1297  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "elektronikutrustningar telecom larm styr och passagesystem",  
+  "context": "nkoppling. Har plats för batterier från 7Ah upp till 100 Ah. Lämplig för drift av alla typer av svagströmsanläggningar s**om elektronikutrustningar, telecom, larm, styr, och passagesystem.** SM2100 är primärwitchad, högeffektiv och har mycket lågt rippel och noggrann utspänning. **Strömförsörjning med plats f",  
+  "position": [  
+    1231,  
+    1297  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "snäppes fast på DIN-skena",  
+  "context": "nätavbrottslarm. Fyra stycken genomförningar uppåt. Aggregaten kan även förses med avsäkringskort och DC/DC omvandlare s**om snäppes fast på DIN-skena.** ### **TEKNISKA DATA** | Inspänning | 88-265VAC +/- 15% | |------------|---------------------------------------------| |",  
+  "position": [  
+    1731,  
+    1760  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta **SM40 Strömförsörjning med plats för batteri** serva/underhålla installera denna enhet",  
+  "context": "IKTARE MED PLATS FÖR BATTERIER ![](images/_page_1_Picture_1.jpeg) #### **SÄKERHET** Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, **SM40 Strömförsörjning med plats för batteri** serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    3685,  
+    3808  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "ngar och strömmar förekommer i apparaten både när interna säkringarna är av eller på. Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    4006,  
+    4059  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "eller på. Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade **INKOPPLING SM2100 5-10A** # **INKOPPLING** - Monte",  
+  "position": [  
+    4082,  
+    4172  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "tspänning tänds. Kontrollera att utspänningen är riktig. - Vid behov justera utspänningen med V1 på likriktarkortet.. - **Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna.** - Anslut batterierna och därefter lasten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater**",  
+  "position": [  
+    4500,  
+    4584  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "växlar",  
+  "context": "DC03/05<br>Utgång för<br>extra<br>utrustning | Nätavbrottslarm indikeras med röd<br>lysdiod på fronten och larmrelä<br>s**om växlar.**<br>A-larm<br>B-larm<br>Plats för<br>larmkort<br>Tex.<br>SM205<br>Larmkort<br>lågbatteri<br>batteri<br>kretsfel | | P1-O",  
+  "position": [  
+    5415,  
+    5425  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet om system",  
+  "position": [  
+    3932,  
+    3971  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "DC3/5** Ger 2st 2-poligt utgångar med 12VDC 3A alt",  
+  "context": "-poligt avsäkrade utgångar med indikering och reläutgång med växlande kontakter. \"Klickas\" fast på DIN-skena. **DC/DC om**v. DC3/5:** Ger 2st 2-poligt utgångar med 12VDC 3A alt.** 5A. Utspänningen är justerbar mellan 5-20V. \"Klickas\" fast på DIN-skena. **Sabotageskydd:** Sabotagekontakt monteras i",  
+  "position": [  
+    724,  
+    779  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "\"Klickas\" fast på DIN-skena",  
+  "context": "å DIN-skena. **DC/DC omv. DC3/5:** Ger 2st 2-poligt utgångar med 12VDC 3A alt. 5A. Utspänningen är justerbar mellan 5-20**V. \"Klickas\" fast på DIN-skena.** **Sabotageskydd:** Sabotagekontakt monteras i förborrade hål. **Högre kapslingsklass:** Alla modeller kan beställas i I",  
+  "position": [  
+    821,  
+    852  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "![](images/_page_0_Picture_1.jpeg) ![](images/_page_0_Picture_2.jpeg) Skydd: Aggregatet är skyddad mot överbelastning och kortslutning**. Inbyggt skydd mot djupurladdning av batterierna. **Nät, last och batteri skyddas av säkringar. Indikeringar och larm: Nätspänning indikeras med grön lysdiod på fronten oc",  
+  "position": [  
+    173,  
+    224  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Har plats för batterier från 7Ah upp till 100 Ah",  
+  "context": "rlekarna avvika från tabellen. ## **BESKRIVNING** Strömförsörjningsaggregat med kompakta dimensioner och enkel inkopplin**g. Har plats för batterier från 7Ah upp till 100 Ah.** Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passages",  
+  "position": [  
+    1119,  
+    1171  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "**Strömförsörjning med plats för batteri** > **Utförande** Aggregatet är utfört i robust vit plåtkapsling med nätindikering på fronten",  
+  "context": "m, larm, styr, och passagesystem. SM2100 är primärwitchad, högeffektiv och har mycket lågt rippel och noggrann utspännin**g. **Strömförsörjning med plats för batteri** > **Utförande:** Aggregatet är utfört i robust vit plåtkapsling med nätindikering på fronten.** Kan enkelt förses med larmkort för olika typer av fellarm. Är vid leverans försedd med nätavbrottslarm. Fyra stycken ge",  
+  "position": [  
+    1384,  
+    1523  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Vid behov justera utspänningen med V1 på likriktarkortet",  
+  "context": "inst 100mm på varje sida. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. Kontrollera att utspänningen är rikti**g. - Vid behov justera utspänningen med V1 på likriktarkortet.**. - Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. - Anslut batterierna och däreft",  
+  "position": [  
+    4434,  
+    4496  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Säkring F1 F2 | Säkring S3 S4<br>BATTERI | Säkring S5 S6 LAST | |-----------------|----------------|---------------------------|---------------------| | SM2000 12V 5A | 1AT Cer | 6AT | 5AT | | SM2000 12V 10A | 2AT Cer | 13AT | 10AT | | SM2000 12V 20A | 4AT Cer | 25AT | 20AT | | SM2000 24V 5A | 2AT Cer | 6AT | 5AT | | SM2000 24V 10A | 4AT Cer | 13AT | 10AT | | SM2000 24V 20A | 63AT Cer | 20AT | 25AT | | SM2000 48V 25A | 2AT Cer | 6AT | 4AT | | SM2000 48V 5A | 4AT Cer | 6AT | 5AT | | SM2000 48V 10A | 63AT Cer | 13AT | 10AT | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "56289017701 SM2100 LADDNINGSLIKRIKTARE MED PLATS FÖR BATTERIER ![](images/_page_2_Picture_2.jpeg) ![](images/_page_2_Figure_3.jpeg) | **Modell | Säkring F1, F2 | Säkring S3, S4<br>BATTERI | Säkring S5, S6 LAST | |-----------------|----------------|---------------------------|---------------------| | SM2000 12V 5A | 1AT Cer | 6AT | 5AT | | SM2000 12V 10A | 2AT Cer | 13AT | 10AT | | SM2000 12V 20A | 4AT Cer | 25AT | 20AT | | SM2000 24V 5A | 2AT Cer | 6AT | 5AT | | SM2000 24V 10A | 4AT Cer | 13AT | 10AT | | SM2000 24V 20A | 6,3AT Cer | 20AT | 25AT | | SM2000 48V 2,5A | 2AT Cer | 6AT | 4AT | | SM2000 48V 5A | 4AT Cer | 6AT | 5AT | | SM2000 48V 10A | 6,3AT Cer | 13AT | 10AT | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se e-post info@swtm.se VAT.NO SE556289017701",  
+  "position": [  
+    5912,  
+    6604  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097991"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Beskrivning | Utspänning ström batteriplats<br>HxBxDj mm | |----------|--------|-------------|--------------------------------------------------------------| | 5247170 | 210 54 | | 320x320x150<br>LADDN LIKR SM2100 12V 5A utan batt max 24AH | | 5247171 | 210 56 | | 400x400x210<br>LADDN LIKR SM2100 12V 10A utan batt max 90AH | | 5247172 | 210 58 | | 400x400x210<br>LADDN LIKR SM2100 12V 20A utan batt max 90AH | | 5247174 | 210 62 | | 320x320x150<br>LADDN LIKR SM2100 24V 5A utan batt max 12Ah | | 5247175 | 210 64 | | 400x400x210<br>LADDN LIKR SM2100 24V 5A utan batt max 45Ah | | 5247176 | 210 65 | | 600x400x260<br>LADDN LIKR SM2100 24V 5A utan batt max 100Ah | | 5247177 | 210 66 | | 400x400x210<br>LADDN LIKR SM2100 24V 10A utan batt max 45Ah | | 5247178 | 210 68 | | 600x400x260<br>LADDN LIKR SM2100 24V 10A utan batt max 100Ah | | 5247179 | 21070 | | LADDN LIKR SM2100 24V 20A utan batt max 45Ah<br>400x400x210 | | 5247180 | 210 72 | | LADDN LIKR SM2100 24V 20A utan batt max 100Ah<br>600x400x260 | | 5247181 | 210 74 | | LADDN LIKR SM2100 48V 25A utan batt max 12AH<br>400x400x210 | | 5247182 | 210 77 | | LADDN LIKR SM2100 48V 5A utan batt max 33AH<br>600x400x260 | | 5247183 | 210 80 | | 600x400x260<br>LADDN LIKR SM2100 48V 10A utan batt max 33AH | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "0,5 % av | | | utspänningen | | Temp.omr- | -20 – 50 C | | | CE-märkt enligt EN61000-6-2 och EN61000-6-3 | | E-Nummer | **Typ | Beskrivning | Utspänning, ström, batteriplats<br>HxBxDj mm | |----------|--------|-------------|--------------------------------------------------------------| | 5247170 | 210 54 | | 320x320x150<br>LADDN LIKR SM2100 12V 5A utan batt max 24AH | | 5247171 | 210 56 | | 400x400x210<br>LADDN LIKR SM2100 12V 10A utan batt max 90AH | | 5247172 | 210 58 | | 400x400x210<br>LADDN LIKR SM2100 12V 20A utan batt max 90AH | | 5247174 | 210 62 | | 320x320x150<br>LADDN LIKR SM2100 24V 5A utan batt max 12Ah | | 5247175 | 210 64 | | 400x400x210<br>LADDN LIKR SM2100 24V 5A utan batt max 45Ah | | 5247176 | 210 65 | | 600x400x260<br>LADDN LIKR SM2100 24V 5A utan batt max 100Ah | | 5247177 | 210 66 | | 400x400x210<br>LADDN LIKR SM2100 24V 10A utan batt max 45Ah | | 5247178 | 210 68 | | 600x400x260<br>LADDN LIKR SM2100 24V 10A utan batt max 100Ah | | 5247179 | 21070 | | LADDN LIKR SM2100 24V 20A utan batt max 45Ah<br>400x400x210 | | 5247180 | 210 72 | | LADDN LIKR SM2100 24V 20A utan batt max 100Ah<br>600x400x260 | | 5247181 | 210 74 | | LADDN LIKR SM2100 48V 2,5A utan batt max 12AH<br>400x400x210 | | 5247182 | 210 77 | | LADDN LIKR SM2100 48V 5A utan batt max 33AH<br>600x400x260 | | 5247183 | 210 80 | | 600x400x260<br>LADDN LIKR SM2100 48V 10A utan batt max 33AH | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se e-post info@swtm.se VAT.NO SE556289017701 # SM2100 LADDNINGSLIKRIKTARE MED PLATS FÖR BATTERIER ![](images/_page_1_Pictu",  
+  "position": [  
+    2066,  
+    3493  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5247170",  
+    "5247171",  
+    "5247172",  
+    "5247174",  
+    "5247175",  
+    "5247176",  
+    "5247177",  
+    "5247178",  
+    "5247179",  
+    "21070",  
+    "5247180",  
+    "5247181",  
+    "5247182",  
+    "5247183"  
+  ],  
+  "product_id": "50097991"  
+}
+

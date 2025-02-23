@@ -1,0 +1,28 @@
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakten går att rengöra med alla förekommande rengörningsmedel",  
+  "context": "Lägsta märkström 1mA/4 V DC ![](images/_page_0_Picture_4.jpeg) Material: ABS - Plast ![](images/_page_0_Picture_6.jpeg) #### Rengöring**: Kontakten går att rengöra med alla förekommande rengörningsmedel. **# Hålbildsritning: ![](images/_page_0_Figure_10.jpeg) ### Tillval: Går att beställa med: - * 2 Mikrobrytare - * NO/NC Mikrobry",  
+  "position": [  
+    268,  
+    336  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50102082"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_0_Figure_10",  
+  "context": "age_0_Picture_6.jpeg) #### Rengöring: Kontakten går att rengöra med alla förekommande rengörningsmedel. # Hålbildsritnin**g: ![](images/_page_0_Figure_10.**jpeg) ### Tillval: Går att beställa med: - * 2 Mikrobrytare - * NO/NC Mikrobrytare - * Radiostyrning - * Reläkort med 2",  
+  "position": [  
+    353,  
+    378  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50102082"  
+}
+

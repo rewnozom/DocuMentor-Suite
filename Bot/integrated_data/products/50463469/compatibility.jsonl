@@ -1,0 +1,173 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "en likspänning i området 10V - 30",  
+  "context": "# Funktion **SM40** Säkringsmodulen är avsedd att säkra och distribuera strömförbrukningen i lågspänningslarmsystem som **kräver en likspänning i området: 10V - 30.** SPM905 har två ingångar, en för spänning och en för styrning från brandmanöver. Det finns totalt 8 säkrade utgångar, so",  
+  "position": [  
+    414,  
+    456  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en likspänning i området 10V - 30",  
+  "context": "# Funktion **SM40** Säkringsmodulen är avsedd att säkra och distribuera strömförbrukningen i lågspänningslarmsystem som **kräver en likspänning i området: 10V - 30.** SPM905 har två ingångar, en för spänning och en för styrning från brandmanöver. Det finns totalt 8 säkrade utgångar, so",  
+  "position": [  
+    414,  
+    456  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är individuellt styrbara från tex brandalarm #### Montage L-modul eller Din-skena bara att snäppa in i strömförsörjningsaggregat eller kapslingar med anpassad hålbild",  
+  "context": "![](images/_page_0_Picture_1.jpeg) ![](images/_page_0_Picture_2.jpeg) ### BESKRIVNING SPM905 Säkringsmodul med 8 utgångar s**om är individuellt styrbara från tex brandalarm #### Montage L-modul eller Din-skena, bara att snäppa in i strömförsörjningsaggregat eller kapslingar med anpassad hålbild.** (se blad 3) ## Funktion **SM40** Säkringsmodulen är avsedd att säkra och distribuera strömförbrukningen i lågspänningsl",  
+  "position": [  
+    109,  
+    280  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kräver en likspänning i området 10V - 30",  
+  "context": ") ## Funktion **SM40** Säkringsmodulen är avsedd att säkra och distribuera strömförbrukningen i lågspänningslarmsystem s**om kräver en likspänning i området: 10V - 30.** SPM905 har två ingångar, en för spänning och en för styrning från brandmanöver. Det finns totalt 8 säkrade utgångar, so",  
+  "position": [  
+    411,  
+    456  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "alla är säkrade med PTC-säkringar",  
+  "context": ". SPM905 har två ingångar, en för spänning och en för styrning från brandmanöver. Det finns totalt 8 säkrade utgångar, s**om alla är säkrade med PTC-säkringar.** Spänning på utgången indikeras med grön lysdiod och fel indikeras med en röd lysdiod som lyser vid aktuell utgång. Säkr",  
+  "position": [  
+    575,  
+    612  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lyser vid aktuell utgång",  
+  "context": "lla är säkrade med PTC-säkringar. Spänning på utgången indikeras med grön lysdiod och fel indikeras med en röd lysdiod s**om lyser vid aktuell utgång.** Säkringen återställs automatiskt när belastningen justeras eller felet åtgärdas. **Strömförsörjning med plats för batte",  
+  "position": [  
+    699,  
+    727  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "man valt skall öppnas vid brand",  
+  "context": "r felet åtgärdas. **Strömförsörjning med plats för batteri** > Signalen från brandlarmscentralen (NO) styr de utgångar s**om man valt skall öppnas vid brand.** På dipswitchen kan man välja vilka dörrar som skall vara öppna och vilka som ska styras. # TEKNISKA DATA | Inspänning<b",  
+  "position": [  
+    911,  
+    946  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skall vara öppna och vilka som ska styras",  
+  "context": "andlarmscentralen (NO) styr de utgångar som man valt skall öppnas vid brand. På dipswitchen kan man välja vilka dörrar s**om skall vara öppna och vilka som ska styras.** # TEKNISKA DATA | Inspänning<br>DC | 10-30VDC | |------------------|----------| | Avsäkring grupp | 1,5A | | Max ström/",  
+  "position": [  
+    990,  
+    1035  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "belastningen justeras eller felet åtgärdas",  
+  "context": "as med grön lysdiod och fel indikeras med en röd lysdiod som lyser vid aktuell utgång. Säkringen återställs automatiskt **när belastningen justeras eller felet åtgärdas.** **Strömförsörjning med plats för batteri** > Signalen från brandlarmscentralen (NO) styr de utgångar som man valt skall",  
+  "position": [  
+    761,  
+    808  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Det finns totalt 8 säkrade utgångar som alla är säkrade med PTC-säkringar",  
+  "context": "m kräver en likspänning i området: 10V - 30. SPM905 har två ingångar, en för spänning och en för styrning från brandmanö**ver. Det finns totalt 8 säkrade utgångar, som alla är säkrade med PTC-säkringar.** Spänning på utgången indikeras med grön lysdiod och fel indikeras med en röd lysdiod som lyser vid aktuell utgång. Säkr",  
+  "position": [  
+    532,  
+    612  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Säkringen återställs automatiskt när belastningen justeras eller felet åtgärdas",  
+  "context": "ringar. Spänning på utgången indikeras med grön lysdiod och fel indikeras med en röd lysdiod som lyser vid aktuell utgån**g. Säkringen återställs automatiskt när belastningen justeras eller felet åtgärdas.** **Strömförsörjning med plats för batteri** > Signalen från brandlarmscentralen (NO) styr de utgångar som man valt skall",  
+  "position": [  
+    725,  
+    808  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463469"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Beskrivning | Mått H x B x D<br>(mm) | |----------|------------|--------------------------------------------------|------------------------| | 5247561 | SPM905-L | Säkringskort 8st styrbara utgångar | 37x86x25 | | 5256991 | SPM BOX 7 | Kopplingsbox 7 SPM900 Serien | 230X365X45 | | 5257243 | SPM900-DS | Plast kapsling med plats för ett eller två kort",  
+  "context": "---------| | Avsäkring grupp | 1,5A | | Max ström/kort | 10A | CE-märkt enligt EN61000-1-2 och EN61000-3-4 | E-Nummer | **Typ | Beskrivning | Mått H x B x D<br>(mm) | |----------|------------|--------------------------------------------------|------------------------| | 5247561 | SPM905-L | Säkringskort 8st styrbara utgångar | 37x86x25 | | 5256991 | SPM BOX 7 | Kopplingsbox 7 SPM900 Serien | 230X365X45 | | 5257243 | SPM900-DS | Plast kapsling med plats för ett eller två kort.** | 120x120x40 | | 5257244 | SPM900-ENC | Plåt kapsling med plats för ett till fem kort | 216x155x45 | | | SPM900-SAB | S",  
+  "position": [  
+    1225,  
+    1583  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5247561",  
+    "5256991",  
+    "5257243"  
+  ],  
+  "product_id": "50463469"  
+}
+

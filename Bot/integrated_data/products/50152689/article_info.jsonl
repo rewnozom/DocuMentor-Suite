@@ -1,0 +1,56 @@
+{  
+  "identifier": "erenser",  
+  "original": "erenser",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "mg/m³<br>Anmärkning<br>Anmärkning: C, M | | | Övrig information om gränsvärden | | Referenser (lagar**/förordnin**gar): Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "identifier": "filter",  
+  "original": "filter",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "---| | Rekommenderad | Hänvisning till relevanta standarder: SS-EN 143 (Andningsskydd - Partikelfilt**er - | | andn**ingsskyddsutrustning | Fordringar, provning, märkning).",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "identifier": "ikelnr",  
+  "original": "ikelnr",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| Synonymer | Vattendispersion av vermikulit | | Artikelnr. | 600217-60, 600121, 600122, 600228-60 |** # **1.2 **Rele",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "identifier": "ikelfilter",  
+  "original": "ikelfilter",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "---| | Rekommenderad | Hänvisning till relevanta standarder: SS-EN 143 (Andningsskydd - Partikelfilt**er - | | andn**ingsskyddsutrustning | Fordringar, provning, märkning).",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+

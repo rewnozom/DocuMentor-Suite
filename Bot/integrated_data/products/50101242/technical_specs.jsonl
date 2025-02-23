@@ -1,0 +1,44 @@
+{  
+  "name": "Material",  
+  "raw_value": "| Aluminium    |\n| Maxström (VAC): | 10A / 250VDC |\n| Kontakter: | 2x NO        |\n| Laddström: | 0            |",  
+  "category": "MATERIAL",  
+  "unit": "A",  
+  "value": {  
+    "raw_value": "| Aluminium    |\n| Maxström (VAC): | 10A / 250VDC |\n| Kontakter: | 2x NO        |\n| Laddström: | 0            |",  
+    "unit": "A",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "-----------|--------------| | Bredd (mm): | 80 | | Höjd (mm): | 245 | | Vikt (kg): | 0.4 | | IP klass: | | | Material: | Aluminium | | Maxström (VAC): | 10A / 250VDC | | Kontakter: | 2x NO | | Laddstr...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50101242"  
+}
+
+{  
+  "name": "Kontakter",  
+  "raw_value": "| 2x NO        |\n| Laddström: | 0            |",  
+  "category": "CONNECTION",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| 2x NO        |\n| Laddström: | 0            |",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "d (mm): | 245 | | Vikt (kg): | 0.4 | | IP klass: | | | Material: | Aluminium | | Maxström (VAC): | 10A / 250VDC | | Kontakter: | 2x NO | | Laddström: | 0 |",  
+  "pattern": "(?i)(?:kontakter|connectors)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 145,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50101242"  
+}
+

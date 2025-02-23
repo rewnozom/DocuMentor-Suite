@@ -1,0 +1,66 @@
+{  
+  "name": "Storlek",  
+  "raw_value": "S\n- Räckvidd: 100 m\n- Styrka: 300 lumen\n- Batteritid: 15 h\n- Ljuslägen: Hög, låg, SOS\n- Variabel ljusbild\n- Striltät (IPX4)\n\n### **ARTICLE INFORMATION:** Art",  
+  "category": "DIMENSIONS",  
+  "unit": "m",  
+  "value": {  
+    "raw_value": "S\n- Räckvidd: 100 m\n- Styrka: 300 lumen\n- Batteritid: 15 h\n- Ljuslägen: Hög, låg, SOS\n- Variabel ljusbild\n- Striltät (IPX4)\n\n### **ARTICLE INFORMATION:** Art",  
+    "unit": "m",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "_Picture_3.jpeg) Stark, liten och robust. En räddare i nöden. Vrid på lamphuvudet och ändra ljusbilden. Två ljuslägen och SOS-läge. Handledsrem. - Sto**rlek: S - Räckvidd: 100 m - Styrka: 300 lumen - ...",  
+  "pattern": "(?i)storlek\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 4,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153337"  
+}
+
+{  
+  "name": "Batteritid",  
+  "raw_value": "15",  
+  "category": "PERFORMANCE",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "15",  
+    "unit": null,  
+    "normalized_value": 15.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "re i nöden. Vrid på lamphuvudet och ändra ljusbilden. Två ljuslägen och SOS-läge. Handledsrem. - Storlek: S - Räckvidd: 100 m - Styrka: 300 lumen - Ba**tteritid: 15 h -** Ljuslägen: Hög, låg, SOS - Va...",  
+  "pattern": "(?i)(?:batteritid|battery life)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:h|timmar|min)",  
+  "pattern_index": 92,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153337"  
+}
+
+{  
+  "name": "Räckvidd",  
+  "raw_value": "100",  
+  "category": "NETWORK",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "100",  
+    "unit": null,  
+    "normalized_value": 100.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "eg) Stark, liten och robust. En räddare i nöden. Vrid på lamphuvudet och ändra ljusbilden. Två ljuslägen och SOS-läge. Handledsrem. - Storlek: S - Räc**kvidd: 100 m - **Styrka: 300 lumen - Batteritid:...",  
+  "pattern": "(?i)(?:räckvidd|range)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:m)",  
+  "pattern_index": 136,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153337"  
+}
+

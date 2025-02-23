@@ -1,0 +1,28 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "_page_3_Picture_12.jpeg) #### Omnis Batteribox 24V Large ## **Orderinformation:** | Typ | Artikelnum**mer | E-numme**r | Beskrivning | |------------|------------------|---------",  
+  "source": "regex",  
+  "product_id": "50458760"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "_page_3_Picture_12.jpeg) #### Omnis Batteribox 24V Large ## **Orderinformation:** | Typ | Artikelnum**mer | E-numme**r | Beskrivning | |------------|------------------|---------",  
+  "source": "regex",  
+  "product_id": "50458760"  
+}
+

@@ -1,0 +1,110 @@
+{  
+  "name": "Dimensions",  
+  "raw_value": "56 x 38 x 39 mm Battery : Lithium polymer |\n| Material | : PC + POM    | Battery protection: Over-charge and over-discharge     |\n\n# Usage and Care\n\n- · Do not dismantle headlamp, as this can cause harm to the headlamp and the berson will void the warranty",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "56 x 38 x 39 mm Battery : Lithium polymer |\n| Material | : PC + POM    | Battery protection: Over-charge and over-discharge     |\n\n# Usage and Care\n\n- · Do not dismantle headlamp, as this can cause harm to the headlamp and the berson will void the warranty",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "equlated | |----------|---------------|--------------------------------------------------------| | LED | : CREE / SMD | Dimensions : 56 x 38 x 39 mm B**attery : Lithium polymer | | Material | : PC + P...",  
+  "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 1,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464894"  
+}
+
+{  
+  "name": "Dimensions",  
+  "raw_value": "56 x 38 x 39 mm Batterie I FD CREE / SMD ",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "56 x 38 x 39 mm Batterie I FD CREE / SMD ",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "95 q | Circuit | : régulation digitale | |-------|---------|---------|-----------------------| | | | | | Dimensions : 56 x 38 x 39 mm Batterie I FD CR**EE / SMD ..... : PC + POM Matériaux : lithium po...",  
+  "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 1,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464894"  
+}
+
+{  
+  "name": "Material",  
+  "raw_value": "PC + POM\n\n- · No desmontar la linterna frontal; esto podría producir daños en el dispositivo y en la persona que lo manipula y anular la garantía",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "PC + POM\n\n- · No desmontar la linterna frontal; esto podría producir daños en el dispositivo y en la persona que lo manipula y anular la garantía",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| Peso : 59.5 g - - Medidas : 56 x 38 x 38 x 39 mm LED - - Batería : Polímero de litio Protección de la batería: Sobrecarga y sobredescarga Material :** PC + POM - · No desmontar la linterna frontal; ...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464894"  
+}
+
+{  
+  "name": "Material",  
+  "raw_value": "PC + POM          |\n\nCircuit reglat digital\n\nProteția acumulatorului: împotriva supraîncărcării și supra-descărcării\n\n#### Utilizare și îngrijire\n\n- Nu dezasamblati lanterna frontală, deoarece acest lucru poate duce la deteriorarea acesteia, rănirea corpului și pierderea garantiei,\n- ",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "PC + POM          |\n\nCircuit reglat digital\n\nProteția acumulatorului: împotriva supraîncărcării și supra-descărcării\n\n#### Utilizare și îngrijire\n\n- Nu dezasamblati lanterna frontală, deoarece acest lucru poate duce la deteriorarea acesteia, rănirea corpului și pierderea garantiei,\n- ",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "--------------------| | | Dimensiuni : 56 x 38 x 39 mm | | LED | : CREE / SMD | | | Material : PC + POM | Circuit reglat digital Proteția acumulatorul**ui: împotriva supraîncărcării și supra-descărcăr...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464894"  
+}
+
+{  
+  "name": "Material",  
+  "raw_value": "PC + POM |\n\n<sup>:</sup> digitalno krmiljeno : Baterija Litijev polimer\n\nZaščita baterije : pred čezmerno napolnitvijo in čezmerno izpraznitvilo\n\n# Uporaba in nega\n\n- Naglavne svetilke ne razstavljajte, ker lahko s tem poškodujete svetilko ali povzročite telesno poškodbo ter razveljavitev garancije\n- ",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "PC + POM |\n\n<sup>:</sup> digitalno krmiljeno : Baterija Litijev polimer\n\nZaščita baterije : pred čezmerno napolnitvijo in čezmerno izpraznitvilo\n\n# Uporaba in nega\n\n- Naglavne svetilke ne razstavljajte, ker lahko s tem poškodujete svetilko ali povzročite telesno poškodbo ter razveljavitev garancije\n- ",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | Teža | : 59.5 g | |------|---------------------| | Mere | : 56 x 38 x 39 mm | | LED | : CREE / SMD | | | Material : PC + POM | <sup>:</sup> digi**talno krmiljeno : Baterija Litijev polimer Zašči...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464894"  
+}
+

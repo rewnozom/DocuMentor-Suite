@@ -1,0 +1,210 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "väggmontage",  
+  "context": "utökas med<br>ytterligare ett tillval av typ Fire module 4 outputs eller avsäkringskort 10 output module. Kapslingen är **avsedd för väggmontage.** | | | | | | 10 output module Mini | Avsäkringskort 10 output module som levereras i en låsbar kapsling. Kapslingen leve",  
+  "position": [  
+    2485,  
+    2508  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "väggmontage",  
+  "context": "en levereras med en modul monterad och kan utökas med ytterligare ett<br>avsäkringskort 10 output module. Kapslingen är **avsedd för väggmontage.** | | | | | | DIN module holder | Används för att montera; 2 output module, 5 output module,DC converter 24V-12V2A eller",  
+  "position": [  
+    2741,  
+    2764  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "20 mm emot vägg",  
+  "context": "opplingsplintar eller Sentrion DSS moduler. Kablage stripas i kapslingens ryggparti, vid väggmontage erhålls en distans **om 20 mm emot vägg.** Kapslingen<br>levereras inkl. låsbart lock i plexiglas samt sabotagekontakt. För montering i 19 rack alternativt på väg",  
+  "position": [  
+    1535,  
+    1554  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "standard levere<br>ras produkten för rackmontage",  
+  "context": "sbart lock i plexiglas samt sabotagekontakt. För montering i 19 rack alternativt på vägg (vändbara vinklar medföljer). S**om standard levere<br>ras produkten för rackmontage.** | | | | | | 19 rack DIN module holder | Modul för montering av upp till 20 st automatsäkringar eller andra produkter fö",  
+  "position": [  
+    1707,  
+    1759  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "20 mm emot vägg",  
+  "context": "r eller andra produkter för DIN montage. Kablage stripas i kapslingens ryggparti, vid väggmontage<br>erhålls en distans **om 20 mm emot vägg.** Kapslingen levereras inkl. låsbart lock i plexiglas samt sabotagekontakt. För montering i 19 rack alternativt på vägg<b",  
+  "position": [  
+    1973,  
+    1992  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "standard levereras produkten för rackmontage",  
+  "context": "rt lock i plexiglas samt sabotagekontakt. För montering i 19 rack alternativt på vägg<br>(vändbara vinklar medföljer). S**om standard levereras produkten för rackmontage.** | | | | | | Fire module 4 outputs S | Larmdonsövervakningskort Fire module 4 outputs som levereras monterad i kapsling.",  
+  "position": [  
+    2145,  
+    2193  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "levereras monterad i kapsling",  
+  "context": "ereras produkten för rackmontage. | | | | | | Fire module 4 outputs S | Larmdonsövervakningskort Fire module 4 outputs s**om levereras monterad i kapsling.** Kapslingen levereras med en modul monterad och kan utökas med<br>ytterligare ett tillval av typ Fire module 4 outputs e",  
+  "position": [  
+    2280,  
+    2313  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "levereras i en låsbar kapsling",  
+  "context": "tput module. Kapslingen är avsedd för väggmontage. | | | | | | 10 output module Mini | Avsäkringskort 10 output module s**om levereras i en låsbar kapsling.** Kapslingen levereras med en modul monterad och kan utökas med ytterligare ett<br>avsäkringskort 10 output module. Kapsl",  
+  "position": [  
+    2578,  
+    2612  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | | | Linjator | | Ursprungsland | Sverige | | | | Sverige | | | | | | | | POWER SUPPLIES - MADE IN SWEDEN **Milleteknik AB** Ögärdesvägen 8B 433 30 Partille Sweden För order order@milleteknik",  
+  "context": "-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | | | | | Garantiperiod: | 2 år | | | | 2 år | | Designad och producerad a**v: | Milleteknik AB | | | | Linjator | | Ursprungsland: | Sverige | | | | Sverige | | | | | | | | POWER SUPPLIES - MADE IN SWEDEN **Milleteknik AB** Ögärdesvägen 8B 433 30 Partille Sweden För order: order@milleteknik.**se För sälj support: sales@milleteknik.se För teknisk support: support@milleteknik.se Telefonnummer: +46 31 34 00 230",  
+  "position": [  
+    4045,  
+    4262  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------------|-----------------------|-------------------| | 19 rack module holder | Modul för montering av upp till",  
+  "context": "ts S ![](images/_page_0_Picture_7.jpeg) 10 output module Mini ![](images/_page_0_Picture_9.jpeg) DIN module holder | Produktbeskrvinin**g: | | | | | | |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------------|-----------------------|-------------------| | 19 rack module holder | Modul för montering av upp till;** 8x 2+2 output module & eller 8x 5 output module & eller 8x DC converter 24V-12V2A & eller<br>8x DC converter 24V-12V 6A",  
+  "position": [  
+    332,  
+    1166  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kapslingen<br>levereras inkl",  
+  "context": "ller Sentrion DSS moduler. Kablage stripas i kapslingens ryggparti, vid väggmontage erhålls en distans om 20 mm emot väg**g. Kapslingen<br>levereras inkl.** låsbart lock i plexiglas samt sabotagekontakt. För montering i 19 rack alternativt på vägg (vändbara vinklar medföljer)",  
+  "position": [  
+    1552,  
+    1584  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kapslingen levereras inkl",  
+  "context": "dukter för DIN montage. Kablage stripas i kapslingens ryggparti, vid väggmontage<br>erhålls en distans om 20 mm emot väg**g. Kapslingen levereras inkl.** låsbart lock i plexiglas samt sabotagekontakt. För montering i 19 rack alternativt på vägg<br>(vändbara vinklar medfölj",  
+  "position": [  
+    1990,  
+    2019  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kapslingen levereras med en modul monterad och kan utökas med<br>ytterligare ett tillval av typ Fire module 4 outputs eller avsäkringskort 10 output module",  
+  "context": "e. | | | | | | Fire module 4 outputs S | Larmdonsövervakningskort Fire module 4 outputs som levereras monterad i kapslin**g. Kapslingen levereras med en modul monterad och kan utökas med<br>ytterligare ett tillval av typ Fire module 4 outputs eller avsäkringskort 10 output module.** Kapslingen är avsedd för väggmontage. | | | | | | 10 output module Mini | Avsäkringskort 10 output module som levereras",  
+  "position": [  
+    2311,  
+    2470  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kapslingen levereras med en modul monterad och kan utökas med ytterligare ett<br>avsäkringskort 10 output module",  
+  "context": "d för väggmontage. | | | | | | 10 output module Mini | Avsäkringskort 10 output module som levereras i en låsbar kapslin**g. Kapslingen levereras med en modul monterad och kan utökas med ytterligare ett<br>avsäkringskort 10 output module.** Kapslingen är avsedd för väggmontage. | | | | | | DIN module holder | Används för att montera; 2 output module, 5 outpu",  
+  "position": [  
+    2610,  
+    2726  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Fire module 4 outputs eller avsäkringskort 10 output module",  
+  "context": "ereras monterad i kapsling. Kapslingen levereras med en modul monterad och kan utökas med<br>ytterligare ett tillval av **typ Fire module 4 outputs eller avsäkringskort 10 output module.** Kapslingen är avsedd för väggmontage. | | | | | | 10 output module Mini | Avsäkringskort 10 output module som levereras",  
+  "position": [  
+    2406,  
+    2470  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155388"  
+}
+

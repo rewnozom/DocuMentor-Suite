@@ -1,0 +1,46 @@
+{  
+  "product_id": "50464888",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# **Model No.:GP1604AUP**\n\n| NO MERCURY ADDED    |                                                                                             |  |  |  |\n|---------------------|---------------------------------------------------------------------------------------------|--|--|--|\n| Description         | : Alkaline Manganese 9V Battery                                                             |  |  |  |\n| Chemical System     | : Alkaline Manganese Dioxide                                                                |  |  |  |\n| Nominal Voltage     | : 9.0 Volts                                                                                 |  |  |  |\n| Nominal Dimensions  | : 25.5 (L)mm x 16.5 (W)mm x 47.5 (H)mm                                                      |  |  |  |\n| Operating Temp. | : -20 - 60 °C , 65 % RH Max                                                                 |  |  |  |\n| Storage Temp. | : 15 - 25 °C , 45 - 75 % RH                                                                 |  |  |  |\n| Terminal            | : Nickel plated miniature snap fasteners                                                    |  |  |  |\n| Jacket              | : Printed metal jacket                                                                      |  |  |  |\n| Internal Connection | : Welding                                                                                   |  |  |  |\n| Application         | : All electronics devices                                                                   |  |  |  |\n| Nominal Weight      | : 48g                                                                                       |  |  |  |\n| Date Code           | : Unless otherwise specified, every battery will<br>carry a 6 digits (MM-YYYY) expiry code.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "that batteries being transported by air must be protected from short-circuiting and protected from movement that could lead to short-circuiting",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "short-circuiting and protected from movement that could lead to short-circuiting",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "they are offered for transportation in a manner that prevents the dangerous evolution of heat (For example by the effective insulation of exposed terminals)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "that batteries being transported by air must be protected from short-circuiting and protected from movement that could lead to short-circuiting",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "### **Section XV – Regulatory Information** Special requirement be according to the local regulatories",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "14 Page 1 of 6 Note Blank spaces are not permitted if any item is not applicable or no information is available the space must be marked to indicate that",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | | | Tampoi | | | | | | | Johor Bahru Malaysia | 01",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

@@ -1,0 +1,14 @@
+{  
+  "relation_type": "version",  
+  "related_product": "Hög låg SOS - Variabel ljusbild - Striltät (IPX4) ### **ARTICLE INFORMATION** Art",  
+  "context": "Två ljuslägen och SOS-läge. Handledsrem. - Storlek: S - Räckvidd: 100 m - Styrka: 300 lumen - Batteritid: 15 h - Ljusläg**en: Hög, låg, SOS - Variabel ljusbild - Striltät (IPX4) ### **ARTICLE INFORMATION:** Art.n**o: 450052 EAN: 4891199183874 E-nummer: 9451708 ![](images/_page_0_Picture_14.jpeg) ![](images/_page_0_Picture_15.jpeg) ![](images/_page_0_Pi",  
+  "position": [  
+    265,  
+    355  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153337"  
+}
+

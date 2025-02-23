@@ -1,0 +1,28 @@
+{  
+  "relation_type": "accessory",  
+  "related_product": "en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+  "context": "## **TRYGGA HEM** ## **FB-120 RM** BRANDFILT SILIKON, 120 CM ![](images/_page_0_Picture_2.jpeg) En brandfilt rekommenderas som **komplement till en brandsläckare, för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl.** En silikonbelagd brandfilt kväver branden ännu snabbare än en vanlig brandfilt och minskar risken för återantändning av",  
+  "position": [  
+    120,  
+    231  
+  ],  
+  "pattern_index": 81,  
+  "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50461556"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "komplement till en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+  "context": "## **TRYGGA HEM** ## **FB-120 RM** BRANDFILT SILIKON, 120 CM ![](images/_page_0_Picture_2.jpeg) En brandfilt rekommenderas s**om komplement till en brandsläckare, för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl.** En silikonbelagd brandfilt kväver branden ännu snabbare än en vanlig brandfilt och minskar risken för återantändning av",  
+  "position": [  
+    117,  
+    231  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50461556"  
+}
+

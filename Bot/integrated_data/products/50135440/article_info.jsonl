@@ -1,0 +1,14 @@
+{  
+  "identifier": "aluminium",  
+  "original": "aluminium",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ör automatik<br>GEZE GC 306 (med hånd-piktogram) | alpinhvid<br>alpinhvid<br>Natureloxerat och<br>sv**art aluminium**<br>alpinhvid | 164059<br>163028<br>180259<br>163029 | • *Betegnelse Udførelse Id.nr.** Montagekass",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+

@@ -1,0 +1,22 @@
+{  
+  "name": "standarder",  
+  "raw_value": "SS-EN 143 (Andningsskydd - Partikelfilter - |\n| andningsskyddsutrustning | Fordringar, provning, märkning)",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "SS-EN 143 (Andningsskydd - Partikelfilter - |\n| andningsskyddsutrustning | Fordringar, provning, märkning)",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "---------|-----------------------------------------------------------------------------------| | Rekommenderad | Hänvisning till relevanta standarder:** SS-EN 143 (Andningsskydd - Partikelfilter - | |...",  
+  "pattern": "(?i)(?:standarder|standards)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 170,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152689"  
+}
+

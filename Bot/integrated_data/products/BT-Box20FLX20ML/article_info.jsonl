@@ -1,0 +1,56 @@
+{  
+  "identifier": "5257452",  
+  "original": "5257452",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX M/L Artikelnummer: 28160162, E-**nummer: 5257452 !**[](_page_0_Picture_3.jpeg) Används som tillval till BT-FLX M/L för att erhålla möjlighet till lä",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "identifier": "28160162",  
+  "original": "28160162",  
+  "type": "EAN-8",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 6, faktisk: 2)",  
+  "group": "article",  
+  "pattern_index": 16,  
+  "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX M/L Ar**tikelnummer: 28160162, **E-nummer: 5257452 ![](images/_page_0_Picture_3.jpeg) Används som tillval till BT-FLX M/L för att erhåll",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX M/L Ar**tikelnummer: **28160162, E-nummer: 5257452 ![](images/_page_0_Picture_3.jpeg) Används som tillval till BT-FLX M/L för",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX M/L Ar**tikelnummer: **28160162, E-nummer: 5257452 ![](images/_page_0_Picture_3.jpeg) Används som tillval till BT-FLX M/L för",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+

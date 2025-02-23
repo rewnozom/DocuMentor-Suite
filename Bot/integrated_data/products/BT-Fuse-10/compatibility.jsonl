@@ -1,0 +1,14 @@
+{  
+  "relation_type": "version",  
+  "related_product": "| 24V |",  
+  "context": "råde: | 5 °C - 40 °C | | Mått (BxHxD): | 30x55x120 mm | | Vikt: | 0,2 kg | | Max. utgångsström: | 16A | | Utgångsspännin**g: | 24V |**",  
+  "position": [  
+    535,  
+    545  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-10"  
+}
+

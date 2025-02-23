@@ -1,0 +1,14 @@
+{  
+  "identifier": "556289017701",  
+  "original": "556289017701",  
+  "type": "UPC-A",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)",  
+  "group": "upc",  
+  "pattern_index": 40,  
+  "pattern": "(?<!\\d)(\\d{12})(?!\\d)",  
+  "context": "nr/Telephone no +46(0)303-746 320 Hemsida/Webb swansonstelemekanik.se e-post info@swtm.se VAT.NO SE5**56289017701 **## UPS AVBROTTSFRI KRAFT 1000-10000VA ![](images/_page_1_Picture_1.jpeg) ![](images/_page_1_Picture_3.jpeg) |",  
+  "source": "regex",  
+  "product_id": "50138662"  
+}
+

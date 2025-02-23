@@ -1,0 +1,39 @@
+{  
+  "product_id": "50464572",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Larmkortet kan sättas i 24 V batteribackuper ECO M och ECO FLX S. Larm på växlande relä. |  |\n| Mått                            | 21 x 55 x 42 mm                                                                                                                                                                                                                                        |  |\n| Egenförbrukning                 | N/A                                                                                                                                                                                                                                                    |  |\n| Spänning, in                    | 27,3 V DC                                                                                                                                                                                                                                              |  |\n| Larmutgång:                     | Nätavbrott NC/CO/NO                                                                                                                                                                                                                                    |  |\n|                                 |                                                                                                                                                                                                                                                        |  |\n| Tekniska data                   |                                                                                                                                                                                                                                                        |  |\n| Rekommenderad miljö             | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                                     |  |\n| Produkterna möter kraven enligt | EMC Directive 2014/30EU, Low Voltage directive: 2014/35/EU CE directive according<br>to 765/2008, Emission: EN61000-6-:2001, EN55022:1998:-A1:2000, A2:2003 Klass B,<br>EN61000-3-2:2001.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "change without notice",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "typographical errors",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Nätavbrott NC/CO/NO | | | | | | | Tekniska data | | | | Rekommenderad miljö | Miljöklass 1 Inomhus 20% ~ 90% relativ fuktighet | | | Produkterna möter kraven enligt | EMC Directive 2014/30EU Low Voltage directive 2014/35/EU CE directive according<br>to 765/2008 Emission EN61000-6-2001 EN550221998-A12000 A22003 Klass B<br>EN61000-3-22001",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "61000",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erenced",  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

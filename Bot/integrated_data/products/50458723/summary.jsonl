@@ -1,0 +1,58 @@
+{  
+  "product_id": "50458723",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n#### Manual\n\nUppdaterad 2021-10-19\n\n## **AX-Power 4 (Med patchpanel)**\n\nStrömförsörjningsaggregat med PoE-switch, 4 portar samt möjlighet till reservkraft. Dokumentet gäller för AX-Power 4 fr.o.m. serienummer 001001.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "direct",  
+      "related_product": "batterianslutningen koppla batterierna i serie med medföljande kablage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "PoE-switchens batterianslutning (röd + svart -) # Ungefärliga batteritider En dörrmiljö med läsarterminal med inaktivt elektriskt lås motsvarar normalt en last på mindre än 6W",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "behövs till dörrmiljön",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "in-/utgång)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "i sin helhet av all handhavande personal",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Tips Om batterisäkringen utlöser kontrollera kopplingar och ansluten utrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "AX-Power 1 har två batterier alla övriga PoE-switchar från Axema har fyra batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "15W/utg",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5172451"  
+    ],  
+    "Artikelnummer": [  
+      "erminal"  
+    ]  
+  }  
+}
+

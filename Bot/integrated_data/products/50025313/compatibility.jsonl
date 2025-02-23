@@ -1,0 +1,42 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "PE6GEB PE6TEA PE6TJ **ARTICLE INFORMATION** Art",  
+  "context": "![](images/_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](images/_page_0_Picture_3.jpeg) **Passar till PE6GEB, PE6TEA PE6TJ **ARTICLE INFORMATION:** Art.**no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](images/_page_0_Picture_6.jpeg) ![](images/_page_0_Picture_8.jpeg) **Page 1/2** ##",  
+  "position": [  
+    117,  
+    179  
+  ],  
+  "pattern_index": 0,  
+  "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025313"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "till PE6GEB PE6TEA PE6TJ **ARTICLE INFORMATION** Art",  
+  "context": "![](images/_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](images/_page_0_Picture_3.jpeg) **Passar till PE6GEB, PE6TEA PE6TJ **ARTICLE INFORMATION:** Art.**no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](images/_page_0_Picture_6.jpeg) ![](images/_page_0_Picture_8.jpeg) **Page 1/2** ##",  
+  "position": [  
+    117,  
+    179  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025313"  
+}
+
+{  
+  "relation_type": "fits",  
+  "related_product": "PE6GEB PE6TEA PE6TJ **ARTICLE INFORMATION** Art",  
+  "context": "![](images/_page_0_Picture_1.jpeg) ## Housegard fordonshållare till 6 kg pulversläckare, PEB6GE ![](images/_page_0_Picture_3.jpeg) **Passar till PE6GEB, PE6TEA PE6TJ **ARTICLE INFORMATION:** Art.**no: 600054 EAN: 7320896000544 E-nummer: 1693269 ![](images/_page_0_Picture_6.jpeg) ![](images/_page_0_Picture_8.jpeg) **Page 1/2** ##",  
+  "position": [  
+    117,  
+    179  
+  ],  
+  "pattern_index": 57,  
+  "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025313"  
+}
+

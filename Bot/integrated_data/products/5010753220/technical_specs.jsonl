@@ -1,0 +1,88 @@
+{  
+  "name": "ström",  
+  "raw_value": "0,2",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "0,2",  
+    "unit": null,  
+    "normalized_value": 0.2,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "tning med laddningsbara batterier - Utspänning 27,6 V - Totalt maximalt strömuttag: 3,5 A - Max ström till anläggningen 3 A - Maximal batteriladdnings**ström: 0,2 A** - ViP (Voltage-in-Parallel) funkt...",  
+  "pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A|mA)",  
+  "pattern_index": 26,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "5010753220"  
+}
+
+{  
+  "name": "Batterityp",  
+  "raw_value": "| Två 12 V/7 Ah blyackumulatorer (slutna) i serie med Flam        |\n|                                          | klass minst V-2 enligt UL",  
+  "category": "ELECTRICAL",  
+  "unit": "V/7",  
+  "value": {  
+    "raw_value": "| Två 12 V/7 Ah blyackumulatorer (slutna) i serie med Flam        |\n|                                          | klass minst V-2 enligt UL",  
+    "unit": "V/7",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Maximal rippel: | < 50mV | | Batterityp: | Två 12 V/7 Ah blyackumulatorer (slutna) i serie med Flam | | | klass minst V-2 enligt UL. | | Batteriladdningsmetod: | Konstant ström – begränsad spännin...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "5010753220"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "| EPS – Nätspänningsfel                                           |\n|                                          | APS – Batteri låg spänning, batterifel                          |\n|                                          | OUT – Utspänning låg, Nätdelsfel                                |\n|                                          | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                          | för EPS, APS, OUT, max ström 100mA                              |\n|                                          | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+  "category": "CONNECTION",  
+  "unit": "mA",  
+  "value": {  
+    "raw_value": "| EPS – Nätspänningsfel                                           |\n|                                          | APS – Batteri låg spänning, batterifel                          |\n|                                          | OUT – Utspänning låg, Nätdelsfel                                |\n|                                          | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                          | för EPS, APS, OUT, max ström 100mA                              |\n|                                          | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+    "unit": "mA",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Utspänning som aktiverar OUT fel: | 18 V | | Övervakningsutgångar: | EPS – Nätspänningsfel | | | APS – Batteri låg spänning, batterifel | | | OUT – Utspänning låg, Nätdelsfel | | | SAB – Kapslings...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "5010753220"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "| Sluten – inget fel (OK)                                         |\n|                                          | Öppen – fel (LARM)                                              |\n| Ingång för fjärrstyrd batteritest: | -SDT* - slutning mellan (-) och (*) aktiverar 30 sek test av in |\n|                                          | tern batteriresistans                                           |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                      |\n| Lokalt batteritest: | LBD bygel, tillfällig bygling                                   |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                            |\n| Arbetstemperatur och luftfuktighet: | -10º C…+40º C, RH till 90%, ingen kondensering                  |\n| Miljöklass enligt EN 50130-5:1998: | Miljöklass II                                                   |\n| Uppfyller kraven: | SBSC säkerhetsklass 3, EN 50131-6:2008 Grade 3, Class II        |\n| Lådans ytterdimensioner                  | 325x275x80 mm (BxHxD)                                           |\n| Vikt utan batterier                      | 2,9 kg                                                          |",  
+  "category": "CONNECTION",  
+  "unit": "sek",  
+  "value": {  
+    "raw_value": "| Sluten – inget fel (OK)                                         |\n|                                          | Öppen – fel (LARM)                                              |\n| Ingång för fjärrstyrd batteritest: | -SDT* - slutning mellan (-) och (*) aktiverar 30 sek test av in |\n|                                          | tern batteriresistans                                           |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                      |\n| Lokalt batteritest: | LBD bygel, tillfällig bygling                                   |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                            |\n| Arbetstemperatur och luftfuktighet: | -10º C…+40º C, RH till 90%, ingen kondensering                  |\n| Miljöklass enligt EN 50130-5:1998: | Miljöklass II                                                   |\n| Uppfyller kraven: | SBSC säkerhetsklass 3, EN 50131-6:2008 Grade 3, Class II        |\n| Lådans ytterdimensioner                  | 325x275x80 mm (BxHxD)                                           |\n| Vikt utan batterier                      | 2,9 kg                                                          |",  
+    "unit": "sek",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | Microswitchar för öppningsskydd och bortbrytningsskydd. | | Logiska data på statusutgångar: | Sluten – inget fel (OK) | | | Öppen – fel (LARM) | | Ingång för fjärrstyrd batteritest: | -SDT* - sl...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "5010753220"  
+}
+

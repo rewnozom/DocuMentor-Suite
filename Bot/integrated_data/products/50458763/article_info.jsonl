@@ -1,0 +1,28 @@
+{  
+  "identifier": "knappen",  
+  "original": "knappen",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "h koppla in batteriet innan nätspänningen slås till. Enheten startar ej utan batteri. • Tryck ned st**artknappen** (ca 3 sek) tills det piper och röd + grön lampa tänds. • UPS20 går att starta i batteridrift/nätdri",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "identifier": "556289017701",  
+  "original": "556289017701",  
+  "type": "UPC-A",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)",  
+  "group": "upc",  
+  "pattern_index": 40,  
+  "pattern": "(?<!\\d)(\\d{12})(?!\\d)",  
+  "context": "03-746 320 Hemsida/Webb www.swtm.se Teknisk support +46(0)707-345121 e-post info@swtm.se VAT.NO SE55**6289017701 #** **UPS20 UPS MED INBYGGDA BATTERIER** ![](images/_page_1_Picture_1.jpeg) ## SÄKERHET Denna instruktio",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+

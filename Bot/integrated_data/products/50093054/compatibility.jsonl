@@ -1,0 +1,144 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "är försedda med 2A säkringar",  
+  "context": "BESKRIVNING SM925** Säkringskort avsedda att fästas på DIN-skena i strömförsörjningsaggregatet. SM925 har 5st grupper, s**om är försedda med 2A säkringar.** Kan vid behov bytas till max 6,3 A säkringar , dock får det totala strömuttag på kortet ej överstiga 10A. Varje säkrnin",  
+  "position": [  
+    234,  
+    266  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är försedda med 2A säkringa",  
+  "context": "NG SM926** Säkringskort avsedda att fästas på DIN-skena i strömförsörjningsaggregatet. Kortet har 5st 1 poliga grupper s**om är försedda med 2A säkringa.** Max strömuttag på kortet är 6. Säkringarna är av autofuse som återställer sig själv när felet försvinner. Varje säkring",  
+  "position": [  
+    846,  
+    877  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "återställer sig själv när felet försvinner",  
+  "context": "et har 5st 1 poliga grupper som är försedda med 2A säkringa. Max strömuttag på kortet är 6. Säkringarna är av autofuse s**om återställer sig själv när felet försvinner.** Varje säkringsgrupp har separat LED-indikering av utspänningen. Utlöst säkring indikeras med att lysdioden för gruppen",  
+  "position": [  
+    937,  
+    983  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för spänningsindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "ruppsäkringskortet och spänningskällan. - Kontrollera att utspänningen är riktig och att den gröna lysdioderna tänds. - **Om lysdiod för spänningsindikering ej tänds kontrollera inspänning och ingångssäkringarna.** - Löser säkringarna, kontrollera inkoppling och inkopplade apparater. UTG - Anslut lasten UTG ### **INKOPPLINGSANVISNIN",  
+  "position": [  
+    2137,  
+    2227  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för spänningsindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "ruppsäkringskortet och spänningskällan. - Kontrollera att utspänningen är riktig och att den gröna lysdioderna tänds. - **Om lysdiod för spänningsindikering ej tänds kontrollera inspänning och ingångssäkringarna.** - Löser säkringarna, kontrollera inkoppling och inkopplade apparater. När felet är borta återställer sig säkringen auto",  
+  "position": [  
+    2509,  
+    2599  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "felet försvinner",  
+  "context": "er som är försedda med 2A säkringa. Max strömuttag på kortet är 6. Säkringarna är av autofuse som återställer sig själv **när felet försvinner.** Varje säkringsgrupp har separat LED-indikering av utspänningen. Utlöst säkring indikeras med att lysdioden för gruppen",  
+  "position": [  
+    962,  
+    983  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "felet är borta återställer sig säkringen automatiskt",  
+  "context": "ds kontrollera inspänning och ingångssäkringarna. - Löser säkringarna, kontrollera inkoppling och inkopplade apparater. **När felet är borta återställer sig säkringen automatiskt.** - Anslut lasten ![](images/_page_1_Figure_14.jpeg) Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-44",  
+  "position": [  
+    2670,  
+    2727  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Utlöst säkring indikeras med att lysdioden för gruppen slocknar och ett summalarmsrelä aktiveras",  
+  "context": "dock får det totala strömuttag på kortet ej överstiga 10A. Varje säkrningsgrupp har separat LED-indikering av utspänning**en. Utlöst säkring indikeras med att lysdioden för gruppen slocknar och ett summalarmsrelä aktiveras. **CE-märkt enligt EN61000-1-2 och EN61000-3-4 | TEKNISKA DATA | | |-----------------|---------| | Inspänning DC | 9-32VDC",  
+  "position": [  
+    433,  
+    535  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Utlöst säkring indikeras med att lysdioden för gruppen slocknar och ett summalarmsrelä aktiveras",  
+  "context": "av autofuse som återställer sig själv när felet försvinner. Varje säkringsgrupp har separat LED-indikering av utspänning**en. Utlöst säkring indikeras med att lysdioden för gruppen slocknar och ett summalarmsrelä aktiveras. **CE-märkt enligt EN61000-1-2 och EN61000-3-4 ## **TEKNISKA DATA** | Inspänning DC | 9-32VDC | | |-----------------|-----",  
+  "position": [  
+    1043,  
+    1145  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50093054"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Beskrivning | Mått H x B x D (mm) | |--------------|-------|--------------------------------------------|---------------------| | 5257065 | SM925 | AVSÄKRINGSKORT 5 GRUPPER 2-POL LARM 12-24V | 115 x 57 x 73 | | 5257066 | SM926 | AVSÄKRINGSKORT 5 GRUPPER 1-POL LARM 12-24V | 83 x 58 x 42 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "nning DC | 9-32VDC | | |-----------------|---------|--| | Avsäkring grupp | 2A | | | Max ström/kort | 6A | | | E-Nummer **Typ | | Beskrivning | Mått H x B x D (mm) | |--------------|-------|--------------------------------------------|---------------------| | 5257065 | SM925 | AVSÄKRINGSKORT 5 GRUPPER 2-POL LARM 12-24V | 115 x 57 x 73 | | 5257066 | SM926 | AVSÄKRINGSKORT 5 GRUPPER 1-POL LARM 12-24V | 83 x 58 x 42 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se Telefax nr/Telefax no +46(0)303-748 490 e-post info@swtm.se VAT.NO SE556289017701 **SM40** ![](images/_page_1_Picture_1",  
+  "position": [  
+    1338,  
+    1783  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5257065",  
+    "5257066"  
+  ],  
+  "product_id": "50093054"  
+}
+

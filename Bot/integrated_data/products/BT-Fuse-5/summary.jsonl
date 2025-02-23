@@ -1,0 +1,42 @@
+{  
+  "product_id": "BT-Fuse-5",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\nBT-FUSE-5\n\nArtikelnummer: 28160194, E-nummer: 6310037\n\n![](images/_page_0_Picture_3.jpeg)\n\nBT Fuse 5 är ett avsäkringskort 5 utgångar. 5 st 1-poligt avsäkrade utgångar som standard med F2A. Max.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "alla batteribackupper upp till 10A",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "standard med F2A",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kortet jackas)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 24V | | Benämning producent (SBSC) | 5 output module |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "6310037"  
+    ],  
+    "EAN-8": [  
+      "28160194"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

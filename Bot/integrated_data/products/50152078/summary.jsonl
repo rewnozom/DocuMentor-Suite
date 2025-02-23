@@ -1,0 +1,57 @@
+{  
+  "product_id": "50152078",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n![](images/_page_0_Picture_3.jpeg)\n\n### SKYDD\n\nAggregatet är skyddat mot överbelastning och kortslutning. Skyddad mot djupurladdning av batterierna. Nät, last och batteri skyddas av säkringar.",  
+  "key_specifications": [  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "In- och utgångar skall vara konfigurerade enligt rekommendation i kapitel 3",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "bytas ut",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "inbrottslarm och passagesystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "konfigureras för olika funktionalitet samt kommunikationskanaler för interaktion med centralutrustningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ansluter över USB",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Skyddad mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- Smart-Charge Unik 3-stegs laddning 1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Ut/laddning - Last Aktuell Genomsnitt 1h 4h 24h - Batteri Backuptid Batteriålder Faktisk batterikapacitet Aktuell ladd",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

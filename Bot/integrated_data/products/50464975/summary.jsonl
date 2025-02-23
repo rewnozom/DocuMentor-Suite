@@ -1,0 +1,30 @@
+{  
+  "product_id": "50464975",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# UHR-ER34615-H: D size spiral cell (power type)\n\n## Technical Datasheet\n\n![](images/_page_0_Picture_3.jpeg)\n\n#### Features\n\n- High and stable operating voltage\n- Superior drain capability\n- Low self-discharge rate (less than 2% after 1year of storage at 23°C)\n- Hermetic glass-to-metal sealing\n- Non-flammable electrolyte\n- Finished product with PTC to avoid short circuit\n\n### Applications\n\n- Radio communication and other military applications\n- Alarms and security systems\n- Transmitters\n- GPS\n- LED lighting applications\n- Others\n\n| Technical Specifications  |                                                                                                                                                                                                                                                                                                                              |\n|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Part No                   | UHR-ER34615-H                                                                                                                                                                                                                                                                                                                |\n| Cell Type                 | Primary, non-rechargeable                                                                                                                                                                                                                                                                                                    |\n| Chemistry                 | Lithium Thionyl Chloride                                                                                                                                                                                                                                                                                                     |\n| Voltage Range             | 2.0 to 3.7V                                                                                                                                                                                                                                                                                                                  |\n| Nominal Voltage           | 3.6V                                                                                                                                                                                                                                                                                                                         |\n| Nominal Capacity 1        | 14.5Ah                                                                                                                                                                                                                                                                                                                       |\n| Max. Continuous Discharge | 2000mA                                                                                                                                                                                                                                                                                                                       |\n| Max. Pulse Discharge      | Up to 3000mA<br>(life, temperature and application dependent)                                                                                                                                                                                                                                                                |\n| Weight                    | 107g                                                                                                                                                                                                                                                                                                                         |\n| Operating Temperature 2   | -55°C to +85°C                                                                                                                                                                                                                                                                                                               |\n| Storage Temperature 3     | +30°C max.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "• All information is subject to change without notice",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "change without notice",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Primary non-rechargeable | | Chemistry | Lithium Thionyl Chloride | | Voltage Range | 2",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erence"  
+    ]  
+  }  
+}
+

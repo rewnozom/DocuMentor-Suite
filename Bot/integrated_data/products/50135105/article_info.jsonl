@@ -1,0 +1,14 @@
+{  
+  "identifier": "Batterik",  
+  "original": "Batterik",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "riluftsliv. ## **Specifikation** Ljuskälla:COB-diod, mkt energisnål, utökad brinntid. Färg: Mattsvar**t Batterikäl**la: 3xAAA (medföljer ej) Dimension: H41xB56xD38. Ställbar ljusvinkel: Ja Ljusstyrka: Hög ca 130 lu",  
+  "source": "regex",  
+  "product_id": "50135105"  
+}
+

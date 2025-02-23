@@ -1,0 +1,44 @@
+{  
+  "name": "material",  
+  "raw_value": "| Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 4                |\n| Höjd (mm): | 367              |\n| Bredd (mm): | 110              |\n\nModell: PE2HR-A Artikel: 600177 EAN: 7320896001770 Certifiering: CE\n\n*VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+  "category": "MATERIAL",  
+  "unit": "HR",  
+  "value": {  
+    "raw_value": "| Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 4                |\n| Höjd (mm): | 367              |\n| Bredd (mm): | 110              |\n\nModell: PE2HR-A Artikel: 600177 EAN: 7320896001770 Certifiering: CE\n\n*VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+    "unit": "HR",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Tömningstid: | 10 s | | Kastlängd: | 3-5 m | | Arbetstryck: | 15 Bar | | Arbetstryck: | 15 Bar | | Cylindermaterial: | Stål | | Drivgas: | Nitrogen | **| Bruttovikt (kg): | 4 | | Höjd (mm): | 367 | | ...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50461470"  
+}
+
+{  
+  "name": "Effektivitetsklass",  
+  "raw_value": "| 13A 89B C        |\n| Temperaturområde: -30 °C / +60 °C |                  |\n| Släckmedel: | SUN ABC Standard |\n| Storlek släckare: | 2 kg             |\n| Tömningstid: | 10 s             |\n| Kastlängd: | 3-5 m            |\n| Arbetstryck: | 15 Bar           |\n| Arbetstryck: | 15 Bar           |\n| Cylindermaterial: | Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 4                |\n| Höjd (mm): | 367              |\n| Bredd (mm): | 110              |\n\nModell: PE2HR-A Artikel: 600177 EAN: 7320896001770 Certifiering: CE\n\n*VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+  "category": "PERFORMANCE",  
+  "unit": "A",  
+  "value": {  
+    "raw_value": "| 13A 89B C        |\n| Temperaturområde: -30 °C / +60 °C |                  |\n| Släckmedel: | SUN ABC Standard |\n| Storlek släckare: | 2 kg             |\n| Tömningstid: | 10 s             |\n| Kastlängd: | 3-5 m            |\n| Arbetstryck: | 15 Bar           |\n| Arbetstryck: | 15 Bar           |\n| Cylindermaterial: | Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 4                |\n| Höjd (mm): | 367              |\n| Bredd (mm): | 110              |\n\nModell: PE2HR-A Artikel: 600177 EAN: 7320896001770 Certifiering: CE\n\n*VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+    "unit": "A",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "´s serviceinstruktioner. ## **TEKNISK SPECIFIKATION** | Brandklass: | ABC | |-----------------------------------|------------------| | Effektivitetsklass: | 13A 89B C | | Temperaturområde: -30 °C / +6...",  
+  "pattern": "(?i)(?:effektivitetsklass|efficiency class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 204,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50461470"  
+}
+

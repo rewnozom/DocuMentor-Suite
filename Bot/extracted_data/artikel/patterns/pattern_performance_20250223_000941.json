@@ -1,0 +1,85 @@
+{
+  "timestamp": "20250223_000941",
+  "total_patterns": 49,
+  "patterns_with_matches": 10,
+  "individual_pattern_performance": {
+    "25": {
+      "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+      "count": 566,
+      "group": "article",
+      "percentage": 50.580875781948166
+    },
+    "24": {
+      "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+      "count": 153,
+      "group": "article",
+      "percentage": 13.672922252010725
+    },
+    "23": {
+      "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+      "count": 93,
+      "group": "article",
+      "percentage": 8.310991957104557
+    },
+    "9": {
+      "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",
+      "count": 91,
+      "group": "enummer",
+      "percentage": 8.132260947274352
+    },
+    "5": {
+      "pattern": "(?<!\\d)(\\d{13})(?!\\d)",
+      "count": 65,
+      "group": "ean13",
+      "percentage": 5.808757819481681
+    },
+    "40": {
+      "pattern": "(?<!\\d)(\\d{12})(?!\\d)",
+      "count": 65,
+      "group": "upc",
+      "percentage": 5.808757819481681
+    },
+    "0": {
+      "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",
+      "count": 48,
+      "group": "ean13",
+      "percentage": 4.289544235924933
+    },
+    "16": {
+      "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+      "count": 24,
+      "group": "article",
+      "percentage": 2.1447721179624666
+    },
+    "14": {
+      "pattern": "(?i)Art(?:ikel)?\\.?n[ro]\\.?[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+      "count": 13,
+      "group": "article",
+      "percentage": 1.161751563896336
+    },
+    "13": {
+      "pattern": "(?<![a-zA-Z0-9])E(\\d{7})(?!\\d)",
+      "count": 1,
+      "group": "enummer",
+      "percentage": 0.08936550491510277
+    }
+  },
+  "pattern_group_performance": {
+    "ean13": {
+      "total_matches": 113,
+      "percentage_of_all_matches": 10.098302055406613
+    },
+    "enummer": {
+      "total_matches": 92,
+      "percentage_of_all_matches": 8.221626452189454
+    },
+    "article": {
+      "total_matches": 849,
+      "percentage_of_all_matches": 75.87131367292224
+    },
+    "upc": {
+      "total_matches": 65,
+      "percentage_of_all_matches": 5.808757819481681
+    }
+  }
+}

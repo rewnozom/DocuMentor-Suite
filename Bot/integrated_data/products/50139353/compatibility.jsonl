@@ -1,0 +1,154 @@
+{  
+  "relation_type": "recommended",  
+  "related_product": "användning i brandlarmsinstallationer",  
+  "context": "+ 0,85 A Intelligent strömförsörjning #### Allmänt STX2405-E är en fullt utrustad och EN54-4 godkänd strömförsörjning, i**dealisk för användning i brandlarmsinstallationer. **Den har intelligent batteriladdning, övervakning och signalering. Den reglerade utgången ger 27,6 VDC, klarar en last p",  
+  "position": [  
+    198,  
+    249  
+  ],  
+  "pattern_index": 53,  
+  "pattern": "(?i)idealisk(?:t)?\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kontinuerlig övervakning och två olika laddningsnivåer Snabbladdning och temperaturkompenserad flödesladdning",  
+  "context": "och ger samtidigt upp till 0,85 A för att ladda reservkraftsbatterierna. Maximal livslängd på batterierna garanteras gen**om kontinuerlig övervakning och två olika laddningsnivåer: Snabbladdning och temperaturkompenserad flödesladdning.** Vid full laddning går enheten över i Eco energisparläge, varvid batterierna laddas i 4 timmar varje 24 timmarsperiod me",  
+  "position": [  
+    495,  
+    609  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "blinkar olika beroende på typ av fel",  
+  "context": "t respektive fel är synliga utifrån när kapslingen är stängd. På insidan finns en orange LED-indikering för diagnostik s**om blinkar olika beroende på typ av fel.** Dessa indikeringar är till hjälp för att på ett enkelt sätt kunna identifiera och åtgärda olika typer av fel på plats.",  
+  "position": [  
+    1730,  
+    1770  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "24 tim | | | Flytande ladning till 100 % inom 48 tim | | Djupurladdningsskydd | Batterierna frånkopplas vid 21 V | | Tröskelvärde för lågt batteri 23 V | | | Indikeringar | | | På fronten | Grön LED – spänning | | | Gul LED – fel | | På insidan av enheten | Orange LED – fault diagnostics | | Signalutgångar | | | Felrelä | 100 mA @ 60 VDC N/C (brytande kontakt) | | Nätfelsrelä | 100 mA @ 60 VDC N/C (brytande kontakt) | | Mekaniska data | | | Mått | 400 x 420 x 80 mm | | Vikt | 59 kg (exklusive batterier) | | | 185 kg (inklusive 17 Ah batterier) | | Temperatur | -10 till +40 °C (drift) | | | -20 till +80 °C (förvaring) | | Luftfuktighet | 75 % Relativ fuktighet icke kondenserande | | Material | 12 mm stål | | Färg | Vit | #### Order data | Artikelnummer | Beskrivning | |---------------|-----------------------------------------------------------------| | STX2401-C | EN 54-4 godkänd 24 V 1 A + 03 A Intelligent strömförsörjning | | STX2402-E | EN 54-4 godkänd 24 V 2 A + 07 A Intelligent strömförsörjning | | STX2405-E | EN 54-4 godkänd 24 V 5 A + 085 A Intelligent strömförsörjning | ![](images/_page_1_Picture_7",  
+  "context": "erier | | | Batterikapacitet (i kapsling) | Upp till 2 x 17 Ah | | Batteriladdning | Konstant strömladdning till 80 % in**om 24 tim | | | Flytande ladning till 100 % inom 48 tim | | Djupurladdningsskydd | Batterierna frånkopplas vid 21 V | | Tröskelvärde för lågt batteri 23 V | | | Indikeringar | | | På fronten | Grön LED – spänning | | | Gul LED – fel | | På insidan av enheten | Orange LED – fault diagnostics | | Signalutgångar | | | Felrelä | 100 mA @ 60 VDC N/C (brytande kontakt) | | Nätfelsrelä | 100 mA @ 60 VDC N/C (brytande kontakt) | | Mekaniska data | | | Mått | 400 x 420 x 80 mm | | Vikt | 5,9 kg (exklusive batterier) | | | 18,5 kg (inklusive 17 Ah batterier) | | Temperatur | -10 till +40 °C (drift) | | | -20 till +80 °C (förvaring) | | Luftfuktighet | 75 % Relativ fuktighet icke kondenserande | | Material | 1,2 mm stål | | Färg | Vit | #### Order data | Artikelnummer | Beskrivning | |---------------|-----------------------------------------------------------------| | STX2401-C | EN 54-4 godkänd, 24 V 1 A + 0,3 A Intelligent strömförsörjning | | STX2402-E | EN 54-4 godkänd, 24 V 2 A + 0,7 A Intelligent strömförsörjning | | STX2405-E | EN 54-4 godkänd, 24 V 5 A + 0,85 A Intelligent strömförsörjning | ![](images/_page_1_Picture_7.**jpeg)",  
+  "position": [  
+    3526,  
+    4654  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ett batteri är korrekt anslutet och spänningen är högre än 14 V",  
+  "context": "pporteras till övervakningsutrustningen så att lämpliga åtgärder kan vidtagas. Batteriladdningskretsen aktiveras endast **när ett batteri är korrekt anslutet och spänningen är högre än 14 V.** En grön och en gul LED-indikering för nät respektive fel är synliga utifrån när kapslingen är stängd. På insidan finns",  
+  "position": [  
+    1501,  
+    1569  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kapslingen är stängd",  
+  "context": "t anslutet och spänningen är högre än 14 V. En grön och en gul LED-indikering för nät respektive fel är synliga utifrån **när kapslingen är stängd.** På insidan finns en orange LED-indikering för diagnostik som blinkar olika beroende på typ av fel. Dessa indikeringar ä",  
+  "position": [  
+    1646,  
+    1671  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "En grön och en gul LED-indikering för nät respektive fel är synliga utifrån när kapslingen är stängd",  
+  "context": "an vidtagas. Batteriladdningskretsen aktiveras endast när ett batteri är korrekt anslutet och spänningen är högre än 14 **V. En grön och en gul LED-indikering för nät respektive fel är synliga utifrån när kapslingen är stängd.** På insidan finns en orange LED-indikering för diagnostik som blinkar olika beroende på typ av fel. Dessa indikeringar ä",  
+  "position": [  
+    1567,  
+    1671  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Den reglerade utgången ger 276 VDC klarar en last på 5 A och ger samtidigt upp till 085 A för att ladda reservkraftsbatterierna",  
+  "context": "ing, idealisk för användning i brandlarmsinstallationer. Den har intelligent batteriladdning, övervakning och signalerin**g. Den reglerade utgången ger 27,6 VDC, klarar en last på 5 A och ger samtidigt upp till 0,85 A för att ladda reservkraftsbatterierna.** Maximal livslängd på batterierna garanteras genom kontinuerlig övervakning och två olika laddningsnivåer: Snabbladdning",  
+  "position": [  
+    313,  
+    447  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid full laddning går enheten över i Eco energisparläge varvid batterierna laddas i 4 timmar varje 24 timmarsperiod medan de kontinuerligt övervakas",  
+  "context": "eras genom kontinuerlig övervakning och två olika laddningsnivåer: Snabbladdning och temperaturkompenserad flödesladdnin**g. Vid full laddning går enheten över i Eco energisparläge, varvid batterierna laddas i 4 timmar varje 24 timmarsperiod medan de kontinuerligt övervakas.** Ett djupurladdningsskydd förebygger förtida batterifel vid drift i standby under längre perioder. Enheten är försedd me",  
+  "position": [  
+    607,  
+    760  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Det finns två potentalfria reläutgångar för fel",  
+  "context": "ats för 7 Ah batterier (ingår ej). Kapslingen är av vitlackerad metall och försedd med hål för enkel installation på väg**g. Det finns två potentalfria reläutgångar för fel.** Den ena utgången aktiveras vid fel på utspänning, batterifel, laddningsfel eller internt fel. Den andra utgången aktive",  
+  "position": [  
+    1136,  
+    1187  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av fel",  
+  "context": "tifrån när kapslingen är stängd. På insidan finns en orange LED-indikering för diagnostik som blinkar olika beroende på **typ av fel.** Dessa indikeringar är till hjälp för att på ett enkelt sätt kunna identifiera och åtgärda olika typer av fel på plats.",  
+  "position": [  
+    1759,  
+    1770  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139353"  
+}
+

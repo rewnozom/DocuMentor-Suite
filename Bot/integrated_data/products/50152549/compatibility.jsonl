@@ -1,0 +1,112 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "säkerställer drift",  
+  "context": "# T-LARMKORT V1 ![](images/_page_0_Picture_2.jpeg) ![](images/_page_0_Picture_3.jpeg) # T-LARMKORT Milleteknik ger reservkraft s**om säkerställer drift.** Alla våra produkter är designade för bästa driftsäkerhet och lång livslängd - för såväl elektronik som batterier. T-LAR",  
+  "position": [  
+    114,  
+    136  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier",  
+  "context": "säkerställer drift. Alla våra produkter är designade för bästa driftsäkerhet och lång livslängd - för såväl elektronik s**om batterier.** T-LARMKORT utökar funktionalitet för TEQ-COM PRO med tre externa larmutgångar. ### SÄKERHET - LÄS DET TA FÖRST! - Korte",  
+  "position": [  
+    237,  
+    250  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PRO med tre externa larmutgångar",  
+  "context": "bästa driftsäkerhet och lång livslängd - för såväl elektronik som batterier. T-LARMKORT utökar funktionalitet för TEQ-CO**M PRO med tre externa larmutgångar. **### SÄKERHET - LÄS DET TA FÖRST! - Kortet skall monteras av behörig person. - Dokument som medföljer systemet skall för",  
+  "position": [  
+    293,  
+    329  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "medföljer systemet skall förvaras i det eller i dess omedelbara närhet",  
+  "context": "O med tre externa larmutgångar. ### SÄKERHET - LÄS DET TA FÖRST! - Kortet skall monteras av behörig person. - Dokument s**om medföljer systemet skall förvaras i det eller i dess omedelbara närhet.** - Systemet bör ej vara ansluten till nät vid montering. - Alla uppgifter med reservation för ändringar. ![](images/_page_1_Pic",  
+  "position": [  
+    418,  
+    492  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PRO ## T-LARMKORT monteras på TEQ-COM kortet på **R19** se nedan",  
+  "context": "O/NO. J14:7-9 Nätavbrottlarm. NC/CO/NO. Anslut nätavbrottslarm på **J14:7-9**. NC/CO/NO. # T-LARMKORT Montering på TEQ-C**OM PRO ## T-LARMKORT monteras på TEQ-COM kortet på **R19**, se nedan.** ![](images/_page_2_Picture_2.jpeg) ![](images/_page_2_Picture_3.jpeg) ![](images/_page_2_Picture_4.jpeg) Milleteknik ger reservkraft som säk",  
+  "position": [  
+    937,  
+    1006  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkerställer drift för Passagesystem (nödutgångar) hållmagneter kameraövervakning rökluckor talat utrymning externa larmdon integrerade säkerhetssystem inbrottslarm* brandlarm** och mer",  
+  "context": "nedan. ![](images/_page_2_Picture_2.jpeg) ![](images/_page_2_Picture_3.jpeg) ![](images/_page_2_Picture_4.jpeg) Milleteknik ger reservkraft s**om säkerställer drift för: Passagesystem, (nödutgångar), hållmagneter, kameraövervakning, rökluckor, talat utrymning, externa larmdon, integrerade säkerhetssystem, inbrottslarm*, brandlarm** och mer.** Våra produktserier fyller behoven för såväl små som stora installationer av batteribackuper till alla typer av säkerhet",  
+  "position": [  
+    1120,  
+    1319  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "stora installationer av batteribackuper till alla typer av säkerhetssystem",  
+  "context": "mdon, integrerade säkerhetssystem, inbrottslarm*, brandlarm** och mer. Våra produktserier fyller behoven för såväl små s**om stora installationer av batteribackuper till alla typer av säkerhetssystem.** Mer information hittar du på: www.milleteknik.se ![](images/_page_3_Figure_1.jpeg) ![](images/_page_3_Figure_2.jpeg) Milleteknik AB Ö",  
+  "position": [  
+    1369,  
+    1447  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Alla uppgifter med reservation för ändringar",  
+  "context": "ljer systemet skall förvaras i det eller i dess omedelbara närhet. - Systemet bör ej vara ansluten till nät vid monterin**g. - Alla uppgifter med reservation för ändringar.** ![](images/_page_1_Picture_8.jpeg) #### KRETSKORTSÖVERSIKT ### Anslutningar låg batterispänning vid nätavbrott, åldrat batteri",  
+  "position": [  
+    546,  
+    596  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152549"  
+}
+

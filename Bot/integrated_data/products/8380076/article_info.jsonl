@@ -1,0 +1,42 @@
+{  
+  "identifier": "4891199001086",  
+  "original": "4891199001086",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 0,  
+  "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",  
+  "context": "a • Inbyggd säkerhetsmekanism • Fungerar i -40° C till 60° C • *ARTICLE INFORMATION:** Art.no: 3702 **EAN: 4891199001086** ![](images/_page_0_Picture_9.jpeg) ![](images/_page_0_Picture_11.jpeg) • *Page 1/2** ## GP fotobatteri, Lithiu",  
+  "source": "regex",  
+  "product_id": "8380076"  
+}
+
+{  
+  "identifier": "4891199001611",  
+  "original": "4891199001611",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 5,  
+  "pattern": "(?<!\\d)(\\d{13})(?!\\d)",  
+  "context": "----|---------------|---------------|---------------|---------| | EAN kod | 4891199001086 | 48911990**01611 | 48911**99001628 | | | Längd (mm) | 120.000 | 122.000 | 490.000 | 0.0",  
+  "source": "regex",  
+  "product_id": "8380076"  
+}
+
+{  
+  "identifier": "4891199001628",  
+  "original": "4891199001628",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 5,  
+  "pattern": "(?<!\\d)(\\d{13})(?!\\d)",  
+  "context": "----|---------------|---------------|---------| | EAN kod | 4891199001086 | 4891199001611 | 48911990**01628 | | | L**ängd (mm) | 120.000 | 122.000 | 490.000 | 0.000 | | Höjd (m",  
+  "source": "regex",  
+  "product_id": "8380076"  
+}
+

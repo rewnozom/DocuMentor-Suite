@@ -1,0 +1,31 @@
+{  
+  "relation_type": "version",  
+  "related_product": "Indikering för nätbortfall lågutspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+  "context": "40 Ah ackumulatorer samt säkringskort PSV 24FC-6. Sabotagekontakt. Enheten har skydd mot kortslutning och överbelastning**. Indikering för nätbortfall, lågutspänning, batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer. **| BESTÄLLINGSINFORMATION | | | | | | |------------------------|---------|-----------------------------------|--|--|--|",  
+  "position": [  
+    934,  
+    1064  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108132"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| E-nr | Beskrivning | | | | | PSV 2465-40 | 5240042 | Strömförsörjning VIP 24 V 65 A | | | | ### **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1",  
+  "context": "BESTÄLLINGSINFORMATION | | | | | | |------------------------|---------|-----------------------------------|--|--|--| | T**yp | E-nr | Beskrivning | | | | | PSV 2465-40 | 5240042 | Strömförsörjning, VIP, 24 V 6,5 A | | | | ### **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1.j**peg) ### **Relaterade produkter och tillbehör:** | 28097<br>Power X1,<br>DC/DC<br>Omvandlare MIN<br>I<br>5-32 V -> 3.3-",  
+  "position": [  
+    1186,  
+    1337  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240042"  
+  ],  
+  "product_id": "50108132"  
+}
+

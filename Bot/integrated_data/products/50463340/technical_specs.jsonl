@@ -1,0 +1,44 @@
+{  
+  "name": "material",  
+  "raw_value": "| Stål     |          |                                    |\n| Drivgas: | Nitrogen |          |                                    |\n| Bruttovikt (kg): | 10",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| Stål     |          |                                    |\n| Drivgas: | Nitrogen |          |                                    |\n| Bruttovikt (kg): | 10",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "k: | 15 Bar | | | | Arbetstryck: | 15 Bar | | | | Cylindermaterial: | Stål | | | | Drivgas: | Nitrogen | | | | Bruttovikt (kg): | 10.75 | | | | Höjd (mm): | 522 | | | | Bredd (mm): | 170",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463340"  
+}
+
+{  
+  "name": "Effektivitetsklass",  
+  "raw_value": "| 13A      | Artikel: | 600228-60                          |\n| Temperaturområde: +5 °C / +60 °C |          | EAN: | 7320890228609                      |\n| Släckmedel: | 6L AVD   |          | Certifiering: EN3-7, CE, Wheelmark |\n| Storlek släckare: | 6 L      |          |                                    |\n| Tömningstid: | <120 s   |          |                                    |\n| Kastlängd: | 2-3 m    |          |                                    |\n| Arbetstryck: | 15 Bar   |          |                                    |\n| Arbetstryck: | 15 Bar   |          |                                    |\n| Cylindermaterial: | Stål     |          |                                    |\n| Drivgas: | Nitrogen |          |                                    |\n| Bruttovikt (kg): | 10",  
+  "category": "PERFORMANCE",  
+  "unit": "A",  
+  "value": {  
+    "raw_value": "| 13A      | Artikel: | 600228-60                          |\n| Temperaturområde: +5 °C / +60 °C |          | EAN: | 7320890228609                      |\n| Släckmedel: | 6L AVD   |          | Certifiering: EN3-7, CE, Wheelmark |\n| Storlek släckare: | 6 L      |          |                                    |\n| Tömningstid: | <120 s   |          |                                    |\n| Kastlängd: | 2-3 m    |          |                                    |\n| Arbetstryck: | 15 Bar   |          |                                    |\n| Arbetstryck: | 15 Bar   |          |                                    |\n| Cylindermaterial: | Stål     |          |                                    |\n| Drivgas: | Nitrogen |          |                                    |\n| Bruttovikt (kg): | 10",  
+    "unit": "A",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| Modell: | LITHEX6 | |----------------------------------|----------|----------|------------------------------------| | Effektivitetsklass: | 13A | Artikel: | 600228-60 | | Temperaturområde: +5 °C / +...",  
+  "pattern": "(?i)(?:effektivitetsklass|efficiency class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 204,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463340"  
+}
+

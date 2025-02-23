@@ -1,0 +1,28 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "for 4 pcs",  
+  "context": "over Ethernet) according to the standard IEEE 802.3at, with the possibility of uninterruptible power as the unit has roo**m for 4 pcs. **batteries (12V 7.2-9 Ah). A single Ethernet cable (CAT6 UTP) is all that is needed for the door environment. AX-Power 4",  
+  "position": [  
+    407,  
+    420  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "AX-Power-4-Plus-man-en-us"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "Axema runs with four batteries",  
+  "context": "are to be connected in serial to achieve the operational voltage. AX-Power 1 has two batteries, all other PoEswitches fr**om Axema runs with four batteries.** - 1. Connection cable - 2. Connect to battery connector of the PoE-switch (red +, black -) # Approximate battery times",  
+  "position": [  
+    3145,  
+    3179  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "AX-Power-4-Plus-man-en-us"  
+}
+

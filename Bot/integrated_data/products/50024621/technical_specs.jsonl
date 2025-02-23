@@ -1,0 +1,88 @@
+{  
+  "name": "ström",  
+  "raw_value": "0,5",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "0,5",  
+    "unit": null,  
+    "normalized_value": 0.5,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "till anläggning 1,0A - För Säkerhetsklass 3, gäller 0,30A (30tim med 12Ah) - För Säkerhetsklass 2 gäller 0,74A (12tim med 12Ah) - Max batteriladdnings**ström: 0,5 A**. - ViP (Voltage-in-Parallell) fun...",  
+  "pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A|mA)",  
+  "pattern_index": 26,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024621"  
+}
+
+{  
+  "name": "Batterityp",  
+  "raw_value": "| Två 12 V/12 Ah blyackumulatorer (slutna) i serie                |\n| Batteriladdningsmetod: | Konstant ström – begränsad spänning                             |\n| Tid för återuppladdning av batterierna: | Max 24 timmar                                                   |\n| Batterispänning som aktiverar APS fel: | 22 V                                                            |\n| Batterispänning som aktiverar DDP krets: | 20 V                                                            |\n| Utspänning som aktiverar OUT fel: | 18 V                                                            |\n| Övervakningsutgångar: | EPS – Nätspänningsfel                                           |\n|                                                | APS – Batterifel                                                |\n|                                                | OUT – Utspänning låg, Nätdelsfel                                |\n|                                                | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                                | för EPS, APS, OUT, max ström 100mA                              |\n|                                                | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+  "category": "ELECTRICAL",  
+  "unit": "V/12",  
+  "value": {  
+    "raw_value": "| Två 12 V/12 Ah blyackumulatorer (slutna) i serie                |\n| Batteriladdningsmetod: | Konstant ström – begränsad spänning                             |\n| Tid för återuppladdning av batterierna: | Max 24 timmar                                                   |\n| Batterispänning som aktiverar APS fel: | 22 V                                                            |\n| Batterispänning som aktiverar DDP krets: | 20 V                                                            |\n| Utspänning som aktiverar OUT fel: | 18 V                                                            |\n| Övervakningsutgångar: | EPS – Nätspänningsfel                                           |\n|                                                | APS – Batterifel                                                |\n|                                                | OUT – Utspänning låg, Nätdelsfel                                |\n|                                                | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                                | för EPS, APS, OUT, max ström 100mA                              |\n|                                                | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+    "unit": "V/12",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "eridrift med 12 Ah batterier) | | Maximal batteriladdningsström: | 0.5 A | | Batterityp: | Två 12 V/12 Ah blyackumulatorer (slutna) i serie | | Batteriladdningsmetod: | Konstant ström – begränsad spän...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024621"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "| EPS – Nätspänningsfel                                           |\n|                                                | APS – Batterifel                                                |\n|                                                | OUT – Utspänning låg, Nätdelsfel                                |\n|                                                | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                                | för EPS, APS, OUT, max ström 100mA                              |\n|                                                | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+  "category": "CONNECTION",  
+  "unit": "mA",  
+  "value": {  
+    "raw_value": "| EPS – Nätspänningsfel                                           |\n|                                                | APS – Batterifel                                                |\n|                                                | OUT – Utspänning låg, Nätdelsfel                                |\n|                                                | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                                | för EPS, APS, OUT, max ström 100mA                              |\n|                                                | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+    "unit": "mA",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Utspänning som aktiverar OUT fel: | 18 V | | Övervakningsutgångar: | EPS – Nätspänningsfel | | | APS – Batterifel | | | OUT – Utspänning låg, Nätdelsfel | | | SAB – Kapslingssabotage | | Elektrisk...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024621"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "| Sluten – inget fel (OK)                                         |\n|                                                | Öppen – fel (LARM)                                              |\n| Ingång för fjärrstyrd batteritest: | -SDT* - slutning mellan (-) och (*) aktiverar 30 sek test av in |\n|                                                | tern batteriresistans                                           |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                      |\n| Lokalt batteritest: | LBD bygel, tillfällig bygling                                   |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                            |\n| Arbetstemperatur och luftfuktighet: | -10º C…+55º C, RH till 90%, ingen kondensering                  |\n| Miljöklass enligt EN 50130-5:1998: | Class II                                                        |\n| Uppfyller kraven men är ännu inte certifierad: | SBSC säkerhetsklass 3, EN 50131-6:2008 Grade 3, Class II        |\n| Lådans ytterdimensioner                        | 345x325x130 mm (BxHxD)                                          |\n| Vikt utan batterier                            | 3,3 kg                                                          |",  
+  "category": "CONNECTION",  
+  "unit": "sek",  
+  "value": {  
+    "raw_value": "| Sluten – inget fel (OK)                                         |\n|                                                | Öppen – fel (LARM)                                              |\n| Ingång för fjärrstyrd batteritest: | -SDT* - slutning mellan (-) och (*) aktiverar 30 sek test av in |\n|                                                | tern batteriresistans                                           |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                      |\n| Lokalt batteritest: | LBD bygel, tillfällig bygling                                   |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                            |\n| Arbetstemperatur och luftfuktighet: | -10º C…+55º C, RH till 90%, ingen kondensering                  |\n| Miljöklass enligt EN 50130-5:1998: | Class II                                                        |\n| Uppfyller kraven men är ännu inte certifierad: | SBSC säkerhetsklass 3, EN 50131-6:2008 Grade 3, Class II        |\n| Lådans ytterdimensioner                        | 345x325x130 mm (BxHxD)                                          |\n| Vikt utan batterier                            | 3,3 kg                                                          |",  
+    "unit": "sek",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | Microswitchar för öppningsskydd och bortbrytningsskydd. | | Logiska data på statusutgångar: | Sluten – inget fel (OK) | | | Öppen – fel (LARM) | | Ingång för fjärrstyrd batteritest: | -SDT* - sl...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024621"  
+}
+

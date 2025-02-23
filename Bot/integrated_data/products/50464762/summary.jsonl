@@ -1,0 +1,59 @@
+{  
+  "product_id": "50464762",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Kortet monteras i serie med inkommande elnätets matning. Vid onaturligt hög spänning på matningen, leds spänningen ner i denna i skyddsjord och glassäkringenlöser ut. T-SPD L skyddar komponenter i batteribackupen och säkerställer därmed hög driftsäkerhet.",  
+  "key_specifications": [  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC Direktivet 2014/30EU                                                                                                |\n|-------|-------------------------------------------------------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                                                                      |\n| CE: | CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n### Garanti\n\nProdukten har två års garanti för tillverkningsfel",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n### Garanti\n\nProdukten har två års garanti för tillverkningsfel",  
+      "unit": "E"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Åskskydd T-SPD L är ett kretskort med funktionen åsk- / överspänningsskydd",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "bilden visar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "möter moderkort i batteribackup | | | 2 | Plint för inkommande elnät",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Vid onaturligt hög spänning på matningen leds spänningen ner i denna i skyddsjord och glassäkringenlöser ut",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "#### Tekniska data | | Artikelnummer | T-SPD-L | |--|-----------------------------------|---------------------------------------------------------------------------| | | Produkbeskrivning | Åskskydd och överspänningsskydd ansluts påmoder<br>kortets 230 V ingång",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| T2",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

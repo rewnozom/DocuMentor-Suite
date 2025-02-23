@@ -1,0 +1,308 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "avbrottsfri kraft",  
+  "context": "väggmontage lämplig drift av alla typer av utrustningar som tex datorer, larm, portstyrningar och trygghetssystem, som b**ehöver avbrottsfri kraft. ****Strömförsörjning med plats för batteri** > **UPS2200-900** är en online UPS 1-fas med inbyggda underhållsfria blybatt",  
+  "position": [  
+    763,  
+    789  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ger en slutning vid nätavbrott",  
+  "context": "erna. Nät, last och batteri skyddas av säkringar. Dvärgbrytare finns för att bryta inspänning och utspänning. Larmrelä s**om ger en slutning vid nätavbrott.** Kan användas för styrning av port eller vidaresändning av larmsignal. Som separat tillbehör finns en larmkort med poten",  
+  "position": [  
+    351,  
+    385  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "separat tillbehör finns en larmkort med potentialfria växlande kontakter eller via nätverk för överföring av larm för nätavbrott och låg batterispänning",  
+  "context": "ng. Larmrelä som ger en slutning vid nätavbrott. Kan användas för styrning av port eller vidaresändning av larmsignal. S**om separat tillbehör finns en larmkort med potentialfria växlande kontakter eller via nätverk, för överföring av larm för nätavbrott och låg batterispänning.** #### **BESKRIVNING** UPS för väggmontage lämplig drift av alla typer av utrustningar som tex datorer, larm, portstyrnin",  
+  "position": [  
+    457,  
+    614  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tex datorer larm portstyrningar och trygghetssystem som behöver avbrottsfri kraft",  
+  "context": "tavbrott och låg batterispänning. #### **BESKRIVNING** UPS för väggmontage lämplig drift av alla typer av utrustningar s**om tex datorer, larm, portstyrningar och trygghetssystem, som behöver avbrottsfri kraft.** **Strömförsörjning med plats för batteri** > **UPS2200-900** är en online UPS 1-fas med inbyggda underhållsfria blybatt",  
+  "position": [  
+    701,  
+    789  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta **UPS2100** serva/underhålla installera denna enhet",  
+  "context": "för industri och krävande miljö ![](images/_page_1_Picture_1.jpeg) ### **SÄKERHET** Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, **UPS2100** serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    2741,  
+    2828  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "r i apparaten både när interna säkringarna är av eller på. UPS MED INBYGGDA BATTERIER Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    3053,  
+    3106  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "BATTERIER Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort och delar sitter fast och inte är transportskadade. Om batterier används är dessa alltid elek",  
+  "position": [  
+    3129,  
+    3219  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "mt säkerhet skall leverantören kontaktas. Kontrollera att kretskort och delar sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. ### **INKOPPLING** - Montera aggregatet fritt. Minst 100mm på varje sida. - Anslut först",  
+  "position": [  
+    3298,  
+    3357  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna är tillslagna",  
+  "context": "varje sida. - Anslut först 230V AC. - Starta UPS-en med knappen på ovansidan. Kontrollera att utspänningen är riktig. - **Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna är tillslagna.** - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater**.** ![](images/_page_1_Picture_15.jpeg) Telefon n",  
+  "position": [  
+    3570,  
+    3668  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta **UPS2100** serva/underhålla installera denna enhet",  
+  "context": "nsonstelemekanik.se info@swtm.se ![](images/_page_2_Picture_1.jpeg) ## **SÄKERHET** Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, **UPS2100** serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    3944,  
+    4031  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "r i apparaten både när interna säkringarna är av eller på. UPS MED INBYGGDA BATTERIER Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    4256,  
+    4309  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "BATTERIER Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort och delar sitter fast och inte är transportskadade. Om batterier används är dessa alltid elek",  
+  "position": [  
+    4332,  
+    4422  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "mt säkerhet skall leverantören kontaktas. Kontrollera att kretskort och delar sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. #### **INKOPPLING** - Montera aggregatet fritt. Minst 100mm på varje sida. - Anslut först",  
+  "position": [  
+    4501,  
+    4560  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna är tillslagna",  
+  "context": "ngen och slå till dvärgbrytaren. Kontrollera att utspänningen är riktig och att grön led för nät tänds på styrkortet. - **Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna är tillslagna.** - Löser säkringarna, kontrollera inkoppling och inkopplade apparater**.** ![](images/_page_2_Figure_16.jpeg) **Swansons Teleme",  
+  "position": [  
+    4985,  
+    5083  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** UPS MED INBYGGDA BATTERIER Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid",  
+  "position": [  
+    2952,  
+    2991  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** UPS MED INBYGGDA BATTERIER Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid",  
+  "position": [  
+    4155,  
+    4194  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "ture_1.jpeg) ![](images/_page_0_Picture_2.jpeg) **SM40** **SÄKERHET:** Aggregatet är skyddad mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri skyddas av säkringar. Dvärgbrytare finns för att bryta inspänning och utspänning. Larmrelä som ge",  
+  "position": [  
+    185,  
+    236  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Larmrelä som ger en slutning vid nätavbrott",  
+  "context": "ng av batterierna. Nät, last och batteri skyddas av säkringar. Dvärgbrytare finns för att bryta inspänning och utspännin**g. Larmrelä som ger en slutning vid nätavbrott.** Kan användas för styrning av port eller vidaresändning av larmsignal. Som separat tillbehör finns en larmkort med poten",  
+  "position": [  
+    338,  
+    385  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### **BESKRIVNING** UPS för väggmontage lämplig drift av alla typer av utrustningar som tex datorer larm portstyrningar och trygghetssystem som behöver avbrottsfri kraft",  
+  "context": "ort med potentialfria växlande kontakter eller via nätverk, för överföring av larm för nätavbrott och låg batterispännin**g. #### **BESKRIVNING** UPS för väggmontage lämplig drift av alla typer av utrustningar som tex datorer, larm, portstyrningar och trygghetssystem, som behöver avbrottsfri kraft.** **Strömförsörjning med plats för batteri** > **UPS2200-900** är en online UPS 1-fas med inbyggda underhållsfria blybatt",  
+  "position": [  
+    612,  
+    789  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Aggregatet i vit plåtkapsling IP44 med genomförningar neråt",  
+  "context": "**UPS2200-3-1200** är en off-line UPS 3-fas med inbyggda underhållsfria blybatterier. Trepolig dvärgbrytare 10A på ingån**gen. Aggregatet i vit plåtkapsling, IP44, med genomförningar neråt.** Inspänning och utspänning ansluts på plint i kapslingen max 10mm2 . Levereras med 3m gummikabel ansluten till ingången.",  
+  "position": [  
+    1340,  
+    1407  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### **TEKNISKA DATA** | Inspänning | 188-265VAC 1 fas 40-70Hz | |------------------|------------------------------------| | Temp",  
+  "context": "råt. Inspänning och utspänning ansluts på plint i kapslingen max 10mm2 . Levereras med 3m gummikabel ansluten till ingån**gen. #### **TEKNISKA DATA** | Inspänning | 188-265VAC 1 fas 40-70Hz | |------------------|------------------------------------| | Temp.**omr- | -10 – 30 C | | | Power Factor >0.98 @ full RCD load | | AC Mode | 89 % | | Battery Mode | 83 % | | Recharge | 7h",  
+  "position": [  
+    1523,  
+    1658  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna är tillslagna",  
+  "context": "m på varje sida. - Anslut först 230V AC. - Starta UPS-en med knappen på ovansidan. Kontrollera att utspänningen är rikti**g. - Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna är tillslagna.** - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater**.** ![](images/_page_1_Picture_15.jpeg) Telefon n",  
+  "position": [  
+    3565,  
+    3668  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152068"  
+}
+

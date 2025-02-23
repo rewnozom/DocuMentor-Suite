@@ -1,0 +1,55 @@
+{  
+  "product_id": "50152062",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Strömförsörjningsaggregat anpassad för drift av brandlarmsutrustning. Certifierad av tredje part enl. EN54-4; 1997/A2:2006 +EN 12101-10 Primärswitch teknik som är högeffektiv och är strömsnål och har mycket stabil utspänning. Egenförbrukningen är mycket låg på alla aggregat.\n\nHar två utgångar som har övervakning och larm.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "drift av brandlarmsutrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "designed_for",  
+      "related_product": "drift av brandlarmsutrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är högeffektiv och är strömsnål och har mycket stabil utspänning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "har övervakning och larm",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "#### Indikeringar och larm Normaldrift Indikeras med 2st gröna lysdioder",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Certifierad av tredje part enl",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

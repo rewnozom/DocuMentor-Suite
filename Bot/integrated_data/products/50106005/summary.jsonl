@@ -1,0 +1,21 @@
+{  
+  "product_id": "50106005",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n## Strömförsörjning switchat 24 V, 3 A\n\nPM863\n\n## Strömförsörjning switchat 24 V, 3 A Denna effektiva strömförsörjning är idealisk för användning i\n\nCCTV-, passer- och icke godkända brandlarmanläggningar. Med en reglerad 27,6 VDC utgång levereras kontinuerlig full märkström 2 A, plus ytterligare 1 A för laddning av två stycken 12 V backup batterier. Den högeffektiva switchade konstruktionen garanterar låga driftskostnader, genererar mindre värme och med ett litet kretskort ökar utrymmet för ytterligare PCB eller kablar i kapslingen.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "recommended",  
+      "related_product": "användning i CCTV- passer- och icke godkända brandlarmanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Den modulära konstruktionen förenklar underhållet",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

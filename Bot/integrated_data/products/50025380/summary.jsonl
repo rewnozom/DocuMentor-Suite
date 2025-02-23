@@ -1,0 +1,50 @@
+{  
+  "product_id": "50025380",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## NO MERCURY ADDED\n\n| Description        | : Lithium Battery, 9V Size                                                                                                                                                                                                     |\n|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Chemical System    | : Lithium Manganese Dioxide                                                                                                                                                                                                    |\n| Nominal Voltage    | : 9 Volts                                                                                                                                                                                                                      |\n| Nominal Capacity   | : 800mAh @ 600Ω to 5.4V                                                                                                                                                                                                        |\n| Nominal Dimensions | : 26 mm x 16.5 mm x 44.7 mm                                                                                                                                                                                                    |\n| Terminals          | : Standard snap fastener stud(+) and socket(-)                                                                                                                                                                                 |\n| Shelf life         | : up to 10 years                                                                                                                                                                                                               |\n| Average Weight     | : App 34grams                                                                                                                                                                                                                  |\n| Application        | : Smoke detectors, security devices, medical<br>equipment, carbon monoxide alarms, explosion<br>qas alarms, meters (qas/electric/water), metal<br>detectors, wireless transmitters, electronic<br>toll collection system, etc. |\n\nOperating temperature : -40°C to 60°C\n\n## Cross References:\n\n| ANSI   | Ultralife |\n|--------|-----------|\n| 1604LC | U9VL      |\n\n![](images/_page_0_Figure_6.jpeg)\n\n![](images/_page_0_Figure_7.jpeg)\n\nThe information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty. For applications other than those described here, please consult your nearest GP Sales and Marketing Office or Distributors.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimensions",  
+      "value": "26",  
+      "unit": null  
+    },  
+    {  
+      "category": "TEMPERATURE",  
+      "name": "temperature",  
+      "value": "-40",  
+      "unit": null  
+    },  
+    {  
+      "category": "TEMPERATURE",  
+      "name": "Operating temperature",  
+      "value": "-40",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Manufacturer reserves the right to alter or amend the design model and specification without prior notice",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "and specification without prior notice",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erences",  
+      "erence"  
+    ]  
+  }  
+}
+

@@ -1,0 +1,56 @@
+{  
+  "identifier": "6310039",  
+  "original": "6310039",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-10 FLX LARGE COM Artikelnummer: 28160154, E-**nummer: 6310039 !**[](_page_0_Picture_3.jpeg) Batteribox BT-10 FLX L COM ur BT-COM-serien som används främst i säke",  
+  "source": "regex",  
+  "product_id": "50152729"  
+}
+
+{  
+  "identifier": "28160154",  
+  "original": "28160154",  
+  "type": "EAN-8",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 7, faktisk: 4)",  
+  "group": "article",  
+  "pattern_index": 16,  
+  "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-10 FLX LARGE COM Ar**tikelnummer: 28160154, **E-nummer: 6310039 ![](images/_page_0_Picture_3.jpeg) Batteribox BT-10 FLX L COM ur BT-COM-serien som an",  
+  "source": "regex",  
+  "product_id": "50152729"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-10 FLX LARGE COM Ar**tikelnummer: **28160154, E-nummer: 6310039 ![](images/_page_0_Picture_3.jpeg) Batteribox BT-10 FLX L COM ur BT-COM-ser",  
+  "source": "regex",  
+  "product_id": "50152729"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-10 FLX LARGE COM Ar**tikelnummer: **28160154, E-nummer: 6310039 ![](images/_page_0_Picture_3.jpeg) Batteribox BT-10 FLX L COM ur BT-COM-ser",  
+  "source": "regex",  
+  "product_id": "50152729"  
+}
+

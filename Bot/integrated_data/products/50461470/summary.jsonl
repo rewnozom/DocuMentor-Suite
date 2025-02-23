@@ -1,0 +1,64 @@
+{  
+  "product_id": "50461470",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Brandsläckaren kan också användas vid bränder i elektriska installationer som uppgår till 1000 Volt. Vid släckning av bränder i elektriska installationer skall du hålla ett säkerhetsavstånd på minst 1 meter. **Typiska användningsområde:** Industri, offentlig verksamhet, verkstäder, jordbruk, sjöfart, offshore, transport, fordon, fritidsbåtar och andra platser där hög prestanda är avgörande.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "material",  
+      "value": "| Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 4                |\n| Höjd (mm): | 367              |\n| Bredd (mm): | 110              |\n\nModell: PE2HR-A Artikel: 600177 EAN: 7320896001770 Certifiering: CE\n\n*VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+      "unit": "HR"  
+    },  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "Effektivitetsklass",  
+      "value": "| 13A 89B C        |\n| Temperaturområde: -30 °C / +60 °C |                  |\n| Släckmedel: | SUN ABC Standard |\n| Storlek släckare: | 2 kg             |\n| Tömningstid: | 10 s             |\n| Kastlängd: | 3-5 m            |\n| Arbetstryck: | 15 Bar           |\n| Arbetstryck: | 15 Bar           |\n| Cylindermaterial: | Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 4                |\n| Höjd (mm): | 367              |\n| Bredd (mm): | 110              |\n\nModell: PE2HR-A Artikel: 600177 EAN: 7320896001770 Certifiering: CE\n\n*VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+      "unit": "A"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "hygieniska gränsvärden \"Hygieniska gränsvärden\" AFS 20181 med senare<br>Förklaring av anmärkningarna<br>V = Vägledande korttidsgränsvärde | | #### **8",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20181"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "yrkesmässigt bruk | #### **1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ändring av Europaparlamentets och rådets förordning (EG) nr 1907/2006 om registrering utvärdering godkännande och begränsning av kemikalier (Reach) ## **AVSNITT 1 Namnet på ämnet / blandningen och bolaget / företaget** | Utgivningsdatum | 17",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "av säkerhetsdatabladet<br>anges med linjemarkeringar i vänstra marginalen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 5 | |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "<br>kontaktlinser",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erenser",  
+      "filter",  
+      "ikelnr",  
+      "ikelfilter"  
+    ]  
+  }  
+}
+

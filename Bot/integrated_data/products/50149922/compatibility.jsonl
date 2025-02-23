@@ -1,0 +1,14 @@
+{  
+  "relation_type": "version",  
+  "related_product": "toys photographic<br>equipment data banks calculators audio<br>appliances remote controls paging machines",  
+  "context": "and flat negative(-)<br>contacts | | | | | Jacket | : Foil jacket | | | | | Applications | . All electronic devices, e.g**. toys, photographic<br>equipment, data banks, calculators, audio<br>appliances, remote controls, paging machines. **| | | | | | | | | | | Average Welght | : 24g | | | | | | | Cross References: | |--|--|-------------------| |--|--|-----",  
+  "position": [  
+    635,  
+    750  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149922"  
+}
+

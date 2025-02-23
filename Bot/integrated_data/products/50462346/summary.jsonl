@@ -1,0 +1,68 @@
+{  
+  "product_id": "50462346",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n## PSV 1265-B1\n\n## Strömförsörjningsaggregat SBSC godkänd i larmklass 3 med ViP (voltage in Parallel) funktion, 12 VDC 6,5A. ![](images/_page_0_Picture_4.jpeg)\n\n## **Produktdetajler:**\n\n| Godkännanden                     | EN-ST-000279/ Grade 3, Safety EN<br>62368-1:2014/AC 2015 No:<br>SE-100168, EMC EN 61000-6-3,<br>SE-100168, EN 50131-6 Grade 3, EN<br>50130-5 Class II, 21-203 Larmklass<br>3 |\n|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Matningsspänning                 | 230 VAC                                                                                                                                                                      |\n| Utspänning                       | 13,8 VDC                                                                                                                                                                     |\n| Belastning                       | 6,5 A                                                                                                                                                                        |\n| Plats för ackumulator (ingår ej) | 12 V/7Ah eller 12V/12Ah eller<br>12V/18Ah                                                                                                                                    |\n| Sabotageskydd                    | Öppnings- samt bortbrytningsskydd,<br>max 48V / 100 mA                                                                                                                       |\n| Kapsling                         | Metall                                                                                                                                                                       |\n| Färg                             | Grå                                                                                                                                                                          |\n| Mått (L x B x H) mm              | 265x385x115                                                                                                                                                                  |\n| Grade                            | 3                                                                                                                                                                            |\n\n![](images/_page_0_Picture_7.jpeg)\n\nStrömförsörjningsaggregat med ViP funktion kan parallellkopplas för att ge mer ström, redundans samt kompensera för spänningsfall i kablaget. Plats för en 12V/ 7Ah, 12 V/ 12 Ah eller 12V/18Ah ackumulator.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "dimensioner",  
+      "value": "Se sidan 2 Vikt utan batterier: A1 ca 9",  
+      "unit": "Vikt"  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "ström",  
+      "value": "0.5",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "1-2st 12 V/7 Ah-40 Ah blyackumulatorer (slutna) i parallellkoppling",  
+      "unit": "st"  
+    },  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "EN 61000-6-3\n\nLådans ytterdimensioner: Se sidan 2 Vikt utan batterier: A1 ca 9",  
+      "unit": "L"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "EPS – Nätspänningsfel\n\nLogisk data på statusutgångar: Sluten – inget fel (OK)\n\nBekräftelse på fjärrstyrd batteritest: APS utgång Lokalt batteritest: SDT bygel, tillfällig bygling Miljöklass enligt EN 50130-5:1998: Class II Safety: EN 62368-1:2014/AC:2015 EMC: EN 61000-6-3\n\nLådans ytterdimensioner: Se sidan 2 Vikt utan batterier: A1 ca 9",  
+      "unit": "EMC"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "Optoreläer för EPS, APS, OUT, max ström 100mA",  
+      "unit": "mA"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "Certifieringar",  
+      "value": "SSF1014-5 Larmklass 3, Miljöklass II EN 50131-6:2017 Grade 3 B1 ca 4 kg B2 ca 5 kg B3 ca 7 kg\n\nPSV 12V serien 2113se 6 ©2021 Alarmtech\n\nR1 ca 7",  
+      "unit": "Larmklass"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "Indikering för nätbortfall lågutspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "E-nr Beskrivning** Powered by TCPDF (www",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "bygel"  
+    ]  
+  }  
+}
+

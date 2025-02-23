@@ -1,0 +1,70 @@
+{  
+  "identifier": "5257461",  
+  "original": "5257461",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "ra anläggningar kan vi erbjuda detta polskydd avsedd för M6 bult.<br>Artikelnummer: A-0000000TM601. **E-nummer: 5257461**",  
+  "source": "regex",  
+  "product_id": "50152630"  
+}
+
+{  
+  "identifier": "5257462",  
+  "original": "5257462",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "ra anläggningar kan vi erbjuda detta polskydd avsedd för M8 bult.<br>Artikelnummer: A-0000000TM801. **E-nummer: 5257462**",  
+  "source": "regex",  
+  "product_id": "50152630"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd avsedd för M6 bult.<br>A**rtikelnummer:** A-0000000TM601. E-nummer: 5257461",  
+  "source": "regex",  
+  "product_id": "50152630"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd avsedd för M6 bult.<br>A**rtikelnummer:** A-0000000TM601. E-nummer: 5257461",  
+  "source": "regex",  
+  "product_id": "50152630"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | Artikelnamn: | Adapter FLX to<br>Battery shelfs",  
+  "source": "regex",  
+  "product_id": "50152630"  
+}
+

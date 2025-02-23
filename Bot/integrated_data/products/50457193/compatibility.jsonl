@@ -1,0 +1,360 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "eriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NOVA serien **kan användas med både AGM-batterier och litium LiFePO4-batterier.** NOVA FLX L serien kan kompletteras med upp till 4 batteriboxar vid behov. Batteriboxarna ansluts via en 9-polig kontakt",  
+  "position": [  
+    2159,  
+    2224  
+  ],  
+  "pattern_index": 4,  
+  "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "eriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NOVA serien **kan användas med både AGM-batterier och litium LiFePO4-batterier.** NOVA FLX L serien kan kompletteras med upp till 4 batteriboxar vid behov. Batteriboxarna ansluts via en 9-polig kontakt",  
+  "position": [  
+    2159,  
+    2224  
+  ],  
+  "pattern_index": 21,  
+  "pattern": "(?i)(?:kan|can)\\s+användas\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "strömuttag dock max 6A | | | | | | | | Nominell effekt | 150W | 150W | 240W | 336W | 648W | | | | Rippel i normalläge | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | Effektivitet | 875% | 89% | 89% | 87% | 88% | | | | Värmegenerering vid 50% / 80% av märkeffekten | 10W / 16W | 8W / 13W | 17W / 27W | 31W / 49W | 50W / 80W | | | | Ingångsström | 17A | 17A | 2A | 2A | 36A | | | | Antal avsäkrade utgångar | 2 st",  
+  "context": "| | | | | Utspänning: | 13,6 VDC | | 27,3 VDC | | | | | | Max ström: | 10A | 5A | 10A | 15A | 25A | | | | Ladd ström: | **Beroende av strömuttag, dock max 6A | | | | | | | | Nominell effekt: | 150W | 150W | 240W | 336W | 648W | | | | Rippel i normalläge: | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | Effektivitet: | 87,5% | 89% | 89% | 87% | 88% | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 10W / 16W | 8W / 13W | 17W / 27W | 31W / 49W | 50W / 80W | | | | Ingångsström: | 1,7A | 1,7A | 2A | 2A | 3,6A | | | | Antal avsäkrade utgångar: | 2 st.** | 2 st. | 2 st. | 2 st. | 2 st. | | | | Typ av säkring på utgång: | 2 st. F10A (glas) | 2 st. F5A (glas) | 2 st. F10A (",  
+  "position": [  
+    5127,  
+    5577  
+  ],  
+  "pattern_index": 35,  
+  "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "hantera högre laster",  
+  "context": "är kraven är högre gällande; högre flexibilitet, fler larmfunktioner, längre reservdrifttider eller när batteribackupen **behöver hantera högre laster.** NOVA Serien är systemcertifierad enligt SSF1014 tillsammans med flertalet system på den svenska marknaden. Milleteknik",  
+  "position": [  
+    676,  
+    705  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "p till 20 dagar eller när batterierna har nått 26,7V (24V). Genom att ladda ur batterierna och ladda dem kontinuerligt (**istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NOVA serien kan användas med både AGM-batterie",  
+  "position": [  
+    1980,  
+    2073  
+  ],  
+  "pattern_index": 94,  
+  "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "meddelar när batterierna måste bytas ut innan batterierna åldras",  
+  "context": "ckså utrustade med interna effektmotstånd (anpassade för systemtestat batteri) för kvalificerat batterikapacitetstest, s**om meddelar när batterierna måste bytas ut innan batterierna åldras.** NOVA serien är systemcertifierad tillsammans med / & skall användas tillsammans med UPLUS 10+ Design Life AGM batterier",  
+  "position": [  
+    1496,  
+    1564  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "er de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V). Gen**om att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NOVA serien kan användas med både AGM-batterie",  
+  "position": [  
+    1923,  
+    2073  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteribackupen behöver hantera högre laster",  
+  "context": "backup krävs eller där kraven är högre gällande; högre flexibilitet, fler larmfunktioner, längre reservdrifttider eller **när batteribackupen behöver hantera högre laster.** NOVA Serien är systemcertifierad enligt SSF1014 tillsammans med flertalet system på den svenska marknaden. Milleteknik",  
+  "position": [  
+    656,  
+    705  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna måste bytas ut innan batterierna åldras",  
+  "context": "de med interna effektmotstånd (anpassade för systemtestat batteri) för kvalificerat batterikapacitetstest, som meddelar **när batterierna måste bytas ut innan batterierna åldras.** NOVA serien är systemcertifierad tillsammans med / & skall användas tillsammans med UPLUS 10+ Design Life AGM batterier",  
+  "position": [  
+    1508,  
+    1564  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 267V (24V)",  
+  "context": "UPLUS 10+ Design Life AGM batterier enligt SSF1014. NOVA serien erbjuder också INTELLIGENT CHARGING, vilket innebär att **när batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V).** Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batt",  
+  "position": [  
+    1769,  
+    1919  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "NOVA serien kan användas med både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "r systemet batteriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid beho**v. NOVA serien kan användas med både AGM-batterier och litium LiFePO4-batterier.** NOVA FLX L serien kan kompletteras med upp till 4 batteriboxar vid behov. Batteriboxarna ansluts via en 9-polig kontakt",  
+  "position": [  
+    2144,  
+    2224  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Batteriboxarna ansluts via en 9-polig kontakt",  
+  "context": "både AGM-batterier och litium LiFePO4-batterier. NOVA FLX L serien kan kompletteras med upp till 4 batteriboxar vid beho**v. Batteriboxarna ansluts via en 9-polig kontakt.** Batteriboxen har plats för upp till 2x 45Ah batterier per batteribox. Observera att NOVA 12V 10A FLX L uppfyller kraven",  
+  "position": [  
+    2296,  
+    2345  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | | | | | | | Ursprungsland | | | Sverige | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER | | | | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | | Möjliga batterier för montering i kapsling | 2 st",  
+  "context": "av nätaggregatets märkkapacitet, omgivningstemperatur skall ej överstiga 32°. | | | | | | | | Designad och producerad av**: | Milleteknik AB | | | | | | | | Ursprungsland: | | | Sverige | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER: | | | | | | | | | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | | Möjliga batterier för montering i kapsling: | 2 st. **45 Ah batterier | | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 45Ah batteri | | | | | | | | Artikelnumm",  
+  "position": [  
+    7993,  
+    8287  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | | | | Rekommenderad miljö / Skyddsklass | Miljöklass 1 Inomhus 20% ~ 90% relativ fuktighet / IP32 | | | | | | | | Omgivningstemperatur | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | | | Rekommenderad montering | | | Vägg alt",  
+  "context": "----------------------------------------|--------------------|--------------------|--|--| | INFORMATION GÄLLANDE KAPSLIN**G: | | | | | | | | | Rekommenderad miljö / Skyddsklass: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet / IP32 | | | | | | | | Omgivningstemperatur: | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | | | Rekommenderad montering: | | | Vägg alt.** Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väggen. | | | | | | Dimension (Höjd x Bre",  
+  "position": [  
+    4240,  
+    4513  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | Dimension (Höjd x Bredd x Djup) | 444x437x212mm (10HE) | | | | | | | | Nettovikt | 12 kg | 12 kg | 13 kg | 14 kg | 15 kg | | | | Antal kabelgenomföringar | 3 st",  
+  "context": "kommenderad montering: | | | Vägg alt. Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väg**gen. | | | | | | Dimension (Höjd x Bredd x Djup): | 444x437x212mm (10HE) | | | | | | | | Nettovikt: | 12 kg | 12 kg | 13 kg | 14 kg | 15 kg | | | | Antal kabelgenomföringar: | 3 st.** + möjlighet till 1 st. utslagshål i ryggen | | | | | | | | Kapslingens färg: | Svart | | | | | | | | Inbyggd fläkt för",  
+  "position": [  
+    4595,  
+    4776  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Svart | | | | | | | | Inbyggd fläkt för kylning | | | Ja | | | | | | ELEKTRISK INFORMATION | | | | | | | | | Inspänning | 110V-264VAC/47-63Hz | | | | | | | | Utspänning | 136 VDC | | 273 VDC | | | | | | Max ström | 10A | 5A | 10A | 15A | 25A | | | | Ladd ström | Beroende av strömuttag dock max 6A | | | | | | | | Nominell effekt | 150W | 150W | 240W | 336W | 648W | | | | Rippel i normalläge | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | Effektivitet | 875% | 89% | 89% | 87% | 88% | | | | Värmegenerering vid 50% / 80% av märkeffekten | 10W / 16W | 8W / 13W | 17W / 27W | 31W / 49W | 50W / 80W | | | | Ingångsström | 17A | 17A | 2A | 2A | 36A | | | | Antal avsäkrade utgångar | 2 st",  
+  "context": "kg | | | | Antal kabelgenomföringar: | 3 st. + möjlighet till 1 st. utslagshål i ryggen | | | | | | | | Kapslingens färg**: | Svart | | | | | | | | Inbyggd fläkt för kylning: | | | Ja | | | | | | ELEKTRISK INFORMATION: | | | | | | | | | Inspänning: | 110V-264VAC/47-63Hz | | | | | | | | Utspänning: | 13,6 VDC | | 27,3 VDC | | | | | | Max ström: | 10A | 5A | 10A | 15A | 25A | | | | Ladd ström: | Beroende av strömuttag, dock max 6A | | | | | | | | Nominell effekt: | 150W | 150W | 240W | 336W | 648W | | | | Rippel i normalläge: | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | Effektivitet: | 87,5% | 89% | 89% | 87% | 88% | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 10W / 16W | 8W / 13W | 17W / 27W | 31W / 49W | 50W / 80W | | | | Ingångsström: | 1,7A | 1,7A | 2A | 2A | 3,6A | | | | Antal avsäkrade utgångar: | 2 st. **| 2 st. | 2 st. | 2 st. | 2 st. | | | | Typ av säkring på utgång: | 2 st. F10A (glas) | 2 st. F5A (glas) | 2 st. F10A (",  
+  "position": [  
+    4851,  
+    5577  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 2 st",  
+  "context": "2A | 2A | 3,6A | | | | Antal avsäkrade utgångar: | 2 st. | 2 st. | 2 st. | 2 st. | 2 st. | | | | Typ av säkring på utgån**g: | 2 st.** F10A (glas) | 2 st. F5A (glas) | 2 st. F10A (glas) | 2x 15A (flatstift) | 2x 25A (flatstift) | | | | Djupurladdning av",  
+  "position": [  
+    5641,  
+    5651  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 2 st",  
+  "context": "| 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | | Möjliga batterier för montering i kapsling**: | 2 st. **45 Ah batterier | | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 45Ah batteri | | | | | | | | Artikelnumm",  
+  "position": [  
+    8277,  
+    8287  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| E-NUMMER | MAX MÖJLIGT ANTAL | |----------------------------------------------|-----------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 2x 45Ah batterier | Battery box 24V FLX M | FM010000024BB01 | 24V | 5213573 | 4x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 3x | | Avsäkringskort 10 utgångar | 10 output module | A-FU002410OP01 | 24V | 5213590 | 2x | | Panel för extern montering av avsäkringskort | 19 rack module holder | 4U01000P00019P01 | - | 5001063 | - |",  
+  "context": "batteri: | | | MT113-12V45-01 | | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER: | MAX MÖJLIGT ANTAL: | |----------------------------------------------|-----------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 2x 45Ah batterier | Battery box 24V FLX M | FM010000024BB01 | 24V | 5213573 | 4x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 3x | | Avsäkringskort 10 utgångar | 10 output module | A-FU002410OP01 | 24V | 5213590 | 2x | | Panel för extern montering av avsäkringskort | 19 rack module holder | 4U01000P00019P01 | - | 5001063 | - |",  
+  "position": [  
+    8548,  
+    9126  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5213573",  
+    "12245",  
+    "5213588",  
+    "002410",  
+    "5213590",  
+    "01000",  
+    "00019",  
+    "5001063"  
+  ],  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av säkring på utgång | 2 st",  
+  "context": "ström: | 1,7A | 1,7A | 2A | 2A | 3,6A | | | | Antal avsäkrade utgångar: | 2 st. | 2 st. | 2 st. | 2 st. | 2 st. | | | | **Typ av säkring på utgång: | 2 st.** F10A (glas) | 2 st. F5A (glas) | 2 st. F10A (glas) | 2x 15A (flatstift) | 2x 25A (flatstift) | | | | Djupurladdning av",  
+  "position": [  
+    5618,  
+    5651  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | | Möjliga batterier för montering i kapsling | 2 st",  
+  "context": "rungsland: | | | Sverige | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER: | | | | | | | | | Rekommenderad batteri**typ: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | | Möjliga batterier för montering i kapsling: | 2 st.** 45 Ah batterier | | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 45Ah batteri | | | | | | | | Artikelnumm",  
+  "position": [  
+    8153,  
+    8287  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| ARTIKELNAMN | ARTIKELNUMMER | SPÄNNING | E-NUMMER | MAX MÖJLIGT ANTAL | |----------------------------------------------|-----------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 2x 45Ah batterier | Battery box 24V FLX M | FM010000024BB01 | 24V | 5213573 | 4x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 3x | | Avsäkringskort 10 utgångar | 10 output module | A-FU002410OP01 | 24V | 5213590 | 2x | | Panel för extern montering av avsäkringskort | 19 rack module holder | 4U01000P00019P01 | - | 5001063 | - |",  
+  "context": "| | | | | | | Artikelnummer rekommenderat 20Ah batteri: | | | MT113-12V45-01 | | | | | #### Exempel på tillval | ARTIKEL**TYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER: | MAX MÖJLIGT ANTAL: | |----------------------------------------------|-----------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 2x 45Ah batterier | Battery box 24V FLX M | FM010000024BB01 | 24V | 5213573 | 4x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 3x | | Avsäkringskort 10 utgångar | 10 output module | A-FU002410OP01 | 24V | 5213590 | 2x | | Panel för extern montering av avsäkringskort | 19 rack module holder | 4U01000P00019P01 | - | 5001063 | - |**",  
+  "position": [  
+    8502,  
+    9126  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5213573",  
+    "12245",  
+    "5213588",  
+    "002410",  
+    "5213590",  
+    "01000",  
+    "00019",  
+    "5001063"  
+  ],  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "5 / 20-117 | | | | | | | | Garantiperiod | 5 år (observera garantivillkor) | | | | | | | | Garantivillkor | Batteribackupen skall användas tillsammans med UPLUS 10+ Design Life batterier fläkten skall rengöras årligen och bytas om<br>nödvändigt medellast får ej överstiga 80% av nätaggregatets märkkapacitet omgivningstemperatur skall ej överstiga 32°",  
+  "context": "EU | | | | | | | | Certifierad enligt / Certifikatsnummer: | -<br>EN50131-6 & SSF1014, Uppfyller larmklass 4, SSF 1014, **utgåva 5 / 20-117 | | | | | | | | Garantiperiod: | 5 år (observera garantivillkor) | | | | | | | | Garantivillkor: | Batteribackupen skall användas tillsammans med UPLUS 10+ Design Life batterier, fläkten skall rengöras årligen och bytas om<br>nödvändigt, medellast får ej överstiga 80% av nätaggregatets märkkapacitet, omgivningstemperatur skall ej överstiga 32°.** | | | | | | | | Designad och producerad av: | Milleteknik AB | | | | | | | | Ursprungsland: | | | Sverige | | | | | | I",  
+  "position": [  
+    7587,  
+    7951  
+  ],  
+  "pattern_index": 131,  
+  "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 EN50131-6 &<br>SSF1014 Larmklass 1-4 (Inbrottslarm) Lågspännings direktivet 2014/35/EU | | | | | | | | Certifierad enligt / Certifikatsnummer | -<br>EN50131-6 & SSF1014 Uppfyller larmklass 4 SSF 1014 utgåva 5 / 20-117 | | | | | | | | Garantiperiod | 5 år (observera garantivillkor) | | | | | | | | Garantivillkor | Batteribackupen skall användas tillsammans med UPLUS 10+ Design Life batterier fläkten skall rengöras årligen och bytas om<br>nödvändigt medellast får ej överstiga 80% av nätaggregatets märkkapacitet omgivningstemperatur skall ej överstiga 32°",  
+  "context": "A2:2003 Klass B,<br>EN61000-3-2:2001, Immunity: EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. SS-EN 50 130-4:2011 E**dition 2, EN50131-6 &<br>SSF1014 Larmklass 1-4 (Inbrottslarm), Lågspännings direktivet: 2014/35/EU | | | | | | | | Certifierad enligt / Certifikatsnummer: | -<br>EN50131-6 & SSF1014, Uppfyller larmklass 4, SSF 1014, utgåva 5 / 20-117 | | | | | | | | Garantiperiod: | 5 år (observera garantivillkor) | | | | | | | | Garantivillkor: | Batteribackupen skall användas tillsammans med UPLUS 10+ Design Life batterier, fläkten skall rengöras årligen och bytas om<br>nödvändigt, medellast får ej överstiga 80% av nätaggregatets märkkapacitet, omgivningstemperatur skall ej överstiga 32°. **| | | | | | | | Designad och producerad av: | Milleteknik AB | | | | | | | | Ursprungsland: | | | Sverige | | | | | | I",  
+  "position": [  
+    7370,  
+    7951  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "50131",  
+    "50131"  
+  ],  
+  "product_id": "50457193"  
+}
+

@@ -1,0 +1,16 @@
+{  
+  "product_id": "50134801",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "recommended continuous current<br>(Higher current can be available upon consulting) | 30mA         |\n| Max. pulse current capability★                                                           | 60mA         |\n| Operating temperature range                                                              | -55 ~+85     |\n| Lithium metal content                                                                    | approx. 0.3g |\n| Weight                                                                                   | 9g           |\n| Volume                                                                                   | 4.3㎤         |\n| UL Approval                                                                              | MH28122      |\n\n#### **Max Pulse Capability**\n\nMaximum Pulse capability reading over 3.0V at 60mA/0.1sec.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "actual conditions of usage and not warranties of future performance",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

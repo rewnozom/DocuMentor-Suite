@@ -1,0 +1,14 @@
+{  
+  "identifier": "icles",  
+  "original": "icles",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "clothing is necessary. During water application, caution is advised as burning pieces of flammable p**articles** may be ejected from the fire. 异常着火和爆炸危险**:** 电池爆炸或漏液可能是由以下原因导致: 暴露于高温环境 (超过 制造商规定的最大额定温度) 或者火中,电池过",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+

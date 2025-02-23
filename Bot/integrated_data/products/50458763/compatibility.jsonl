@@ -1,0 +1,196 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "väggmontage",  
+  "context": "ing – detta sparar energikostnader och miljö. Utförande: Aggregatet är utfört i en vit självventilerad plåtkapsling och **avsedd för väggmontage.** Det finns 4st genomföringar uppåt och en genomföring från baksidan (knockout). Är försedd med underhållsfria blybatteri",  
+  "position": [  
+    1077,  
+    1100  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "avbrottsfri kraft",  
+  "context": "med små dimensioner och lång backup tid. Perfekt för drift av dörrautomatik, nödljusanläggningar eller andra system som **behöver avbrottsfri kraft.** **Strömförsörjning med plats för batteri** > UPS20 är en 1-fas standby /offline UPS med inbyggt underhållsfritt blybatt",  
+  "position": [  
+    508,  
+    534  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "drift av dörrautomatik nödljusanläggningar eller andra system som behöver avbrottsfri kraft",  
+  "context": "t spänning både vid nätdrift och vid batteridrift. ## BESKRIVNING UPS aggregat med små dimensioner och lång backup tid. **Perfekt för drift av dörrautomatik, nödljusanläggningar eller andra system som behöver avbrottsfri kraft.** **Strömförsörjning med plats för batteri** > UPS20 är en 1-fas standby /offline UPS med inbyggt underhållsfritt blybatt",  
+  "position": [  
+    429,  
+    534  
+  ],  
+  "pattern_index": 55,  
+  "pattern": "(?i)perfekt\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "behöver avbrottsfri kraft",  
+  "context": "at med små dimensioner och lång backup tid. Perfekt för drift av dörrautomatik, nödljusanläggningar eller andra system s**om behöver avbrottsfri kraft.** **Strömförsörjning med plats för batteri** > UPS20 är en 1-fas standby /offline UPS med inbyggt underhållsfritt blybatt",  
+  "position": [  
+    505,  
+    534  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gör det möjligt att använda UPS ens fulla kraft oberoende vilken sorts last som används och det gör att den även kan driva större laster",  
+  "context": "opplingstid, 2-8mS till UPS läge och snabb uppladdningstid (7 tim) av batteriet. DS-serien är utrustad med APFC teknik s**om gör det möjligt att använda UPS: ens fulla kraft, oberoende vilken sorts last som används och det gör att den även kan driva större laster.** Den har låg effektförbrukning – detta sparar energikostnader och miljö. Utförande: Aggregatet är utfört i en vit självv",  
+  "position": [  
+    788,  
+    930  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "017701 # **UPS20 UPS MED INBYGGDA BATTERIER** ![](images/_page_1_Picture_1.jpeg) ## SÄKERHET Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Endast auktoriserad och erfaren personal inom AC och DC får använda, arbeta, underhålla, installera denna enhet. **SM40",  
+  "position": [  
+    2283,  
+    2336  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta underhålla installera denna enhet",  
+  "context": "uktion skall läsas igenom grundligt och förstås av all handhavande personal. Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, underhålla, installera denna enhet.** **SM40 Strömförsörjning med plats för batteri** Endast isolerade verktyg får användas i enheten. Observera att farliga",  
+  "position": [  
+    2380,  
+    2449  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "er och jord. Vid batteribyte stäng av UPS20 och bryt inkommande spänning och vänta i 30 sekunder. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Batterierna är alltid elektrokemiskt aktiva. Kortslut inte batteripolerna. # INKOPPLING - Montera aggregatet fritt. Min",  
+  "position": [  
+    2828,  
+    2918  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "fast installation",  
+  "context": "inte batteripolerna. # INKOPPLING - Montera aggregatet fritt. Minst 100mm på varje sida. - Denna UPS måste installeras s**om fast installation.** Använd ej stickpropp. - Anslut 230VAC-kabeln och koppla in batteriet innan nätspänningen slås till. Enheten startar ej",  
+  "position": [  
+    3093,  
+    3114  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Livsfarlig spänning existerar mellan batteripoler och jord. Vid batteribyte stäng av UPS20 och bryt inkommande spänning",  
+  "position": [  
+    2621,  
+    2660  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterispänningen sjunker",  
+  "context": "id batteridrift larmar/piper UPS20 med jämna intervaller och grön lysdiod blinkar med samma intervall. Intervallen ökar **när batterispänningen sjunker.** - Röd lysdiod indikerar ett alvarligt fel. Bryt spänning och kontakta teknisk support. - Löser utgångssäkringen, kontro",  
+  "position": [  
+    3499,  
+    3529  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "[](_page_0_Picture_1.jpeg) ![](images/_page_0_Picture_2.jpeg) ## SKYDD Aggregatet är skyddat mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och skyddas av 1-poliga säkringar. ## FUNKTION UPS20 har en utgång. - UTGÅNG 1 en ren UPS utgång där det är k",  
+  "position": [  
+    132,  
+    183  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- UTGÅNG 1 en ren UPS utgång där det är konstant spänning både vid nätdrift och vid batteridrift",  
+  "context": "ggt skydd mot djupurladdning av batterierna. Nät, last och skyddas av 1-poliga säkringar. ## FUNKTION UPS20 har en utgån**g. - UTGÅNG 1 en ren UPS utgång där det är konstant spänning både vid nätdrift och vid batteridrift.** ## BESKRIVNING UPS aggregat med små dimensioner och lång backup tid. Perfekt för drift av dörrautomatik, nödljusanläggn",  
+  "position": [  
+    259,  
+    359  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Utsp",  
+  "context": "Verkningsgrad Batt-mode | 80% | | Laddtid 7 timer | 90% | | | | CE-märkt enligt EN61000-1-2 och EN61000-3-4 | Art.nr. | **Typ | Utsp.** och effekt och batteri | Effekt i 60 minuter | HxBxD mm | |---------|-----------|----------------------------------|---",  
+  "position": [  
+    1676,  
+    1687  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50458763"  
+}
+

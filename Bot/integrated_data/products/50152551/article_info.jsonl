@@ -1,0 +1,42 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "A Mini | Rack PSU 24V 15A 1U | Redundancy panel 1U | | | Artikelnummer: | AGG 12 20-B2",  
+  "source": "regex",  
+  "product_id": "50152551"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | Artikelnamn: | AGG 12 20-B2",  
+  "source": "regex",  
+  "product_id": "50152551"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "A Mini | Rack PSU 24V 15A 1U | Redundancy panel 1U | | | Artikelnummer: | AGG 12 20-B2",  
+  "source": "regex",  
+  "product_id": "50152551"  
+}
+

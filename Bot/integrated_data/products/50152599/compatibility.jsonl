@@ -1,0 +1,126 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "både AGM-batterier och Litium LiFePO4-batterier",  
+  "context": "ella batterikapaciteten. Detta förhindrar att batterierna överladdas och förlänger deras livslängd avsevärt. ECO-serien **kan användas med både AGM-batterier och Litium LiFePO4-batterier.** **ECO-serien** (Small & Medium) erbjuder så kallad *\"COLD START\"*, vilket innebär att batteribackupen kan driftsättas m",  
+  "position": [  
+    547,  
+    612  
+  ],  
+  "pattern_index": 4,  
+  "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "både AGM-batterier och Litium LiFePO4-batterier",  
+  "context": "ella batterikapaciteten. Detta förhindrar att batterierna överladdas och förlänger deras livslängd avsevärt. ECO-serien **kan användas med både AGM-batterier och Litium LiFePO4-batterier.** **ECO-serien** (Small & Medium) erbjuder så kallad *\"COLD START\"*, vilket innebär att batteribackupen kan driftsättas m",  
+  "position": [  
+    547,  
+    612  
+  ],  
+  "pattern_index": 21,  
+  "pattern": "(?i)(?:kan|can)\\s+användas\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den person som utför installationen av till exempel passersystemet inte är kvalificerad elektriker men ändå vill kunna testa systemet innan en kvalificerad elektriker utför en permanent installation",  
+  "context": "backupen kan driftsättas med endast batterierna anslutna utan att enheten är ansluten till 230V. Detta kan vara viktigt **om den person som utför installationen av till exempel passersystemet inte är kvalificerad elektriker men ändå vill kunna testa systemet innan en kvalificerad elektriker utför en permanent installation.** #### **Larmfunktioner (1 summa larmutgång):** Fördröjt nätaavbrottslarm eller låg batterispänning, frånkopplade batteri",  
+  "position": [  
+    826,  
+    1028  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Detta kan vara viktigt om den person som utför installationen av till exempel passersystemet inte är kvalificerad elektriker men ändå vill kunna testa systemet innan en kvalificerad elektriker utför en permanent installation",  
+  "context": "vilket innebär att batteribackupen kan driftsättas med endast batterierna anslutna utan att enheten är ansluten till 230**V. Detta kan vara viktigt om den person som utför installationen av till exempel passersystemet inte är kvalificerad elektriker men ändå vill kunna testa systemet innan en kvalificerad elektriker utför en permanent installation.** #### **Larmfunktioner (1 summa larmutgång):** Fördröjt nätaavbrottslarm eller låg batterispänning, frånkopplade batteri",  
+  "position": [  
+    800,  
+    1028  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | Milleteknik AB | | | | | | Ursprungsland | | | Sverige | | | | | | Information och val av batteri / batterier | | | | | | | | | Rekommenderad batterityp | | | 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | Möjliga batterier för montering i kapsling | | | 2x 72Ah eller 2x 14Ah | | | | | | Rekommenderat batteri | | | UPLUS 10+ Design Life 14Ah batteri | | | | | | Artikelnummer rekommenderat 72Ah batteri | | | MT113-12V07-01 | | | | | | Artikelnummer rekommenderat 14Ah batteri | | | MT113-12V14-01 | | | | | ![](images/_page_1_Picture_2",  
+  "context": "000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | | | | Garantiperiod: | | | 2 år | | | | | | Designad och producerad a**v: | | | Milleteknik AB | | | | | | Ursprungsland: | | | Sverige | | | | | | Information och val av batteri / batterier: | | | | | | | | | Rekommenderad batterityp: | | | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | Möjliga batterier för montering i kapsling: | | | 2x 7,2Ah eller 2x 14Ah | | | | | | Rekommenderat batteri: | | | UPLUS 10+ Design Life 14Ah batteri | | | | | | Artikelnummer rekommenderat 7,2Ah batteri: | | | MT113-12V07-01 | | | | | | Artikelnummer rekommenderat 14Ah batteri: | | | MT113-12V14-01 | | | | | ![](images/_page_1_Picture_2.**jpeg) ![](images/_page_1_Picture_3.jpeg) ![](images/_page_1_Picture_4.jpeg)",  
+  "position": [  
+    4944,  
+    5519  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | Vägg | | | | | | Dimension (HxBxD) | | | 242x350x150mm | | | | | | Nettovikt | 4kg | 5kg | 4kg | 5kg | 7kg | | | | Antal kabelgenomföringar | | | 3 st | | 6 st | | | | Kapslingens färg | | | Vit | | | | | | Inbyggd fläkt för kylning | Nej | Nej | Nej | Nej | Ja | | | | Elektrisk information | | | | | | | | | Inspänning | | | 110V-264VAC/47-63Hz | | | | | | Utspänning | 136VDC | | | 273VDC | | | | | Max ström | 5A | 10A | 3A | 5A | 10A | | | | Ladd ström | 1A | 1A | 1A | 1A | 1A | | | | Nominell effekt | 75W | 150W | 75W | 156W | 240W | | | | Rippel i normalläge | 120mVp-p | 150mVp-p | 150mVp-p | 200mVp-p | 200mVp-p | | | | Effektivitet | 86% | 875% | 885% | 89% | 89% | | | | Värmegenerering vid 50% / 80% av märkeffekten | 6W / 9W | 10W / 16W | 5W / 9W | 8W / 13W | 17W / 27W | | | | Ingångsström | 12A | 17A | 12A | 17A | 2A | | | | Antal avsäkrade utgångar | | | 1 st | | | | | | Typ av säkring på utgång | 1xF5A (glas) | 1xF10A (glas) | 1xF3A (glas) | 1xF5A (glas) | 1xF10A (glas) | | | | Djupurladdning av batterier sker vid | 105V | | | 21V | | | | | Möjlig att parallellkoppla | | | Ja | | | | | | Skydd mot | | | | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (1 summalarmutgång) | | | | Fördröjt nätavbrottslarm (265V) eller låg batterispänning (24V) frånkopplade batterier vid start och säkringsfel",  
+  "context": "°C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | Skyddsklass: | | | IP20 | | | | | | Rekommenderad monterin**g: | | | Vägg | | | | | | Dimension (HxBxD): | | | 242x350x150mm | | | | | | Nettovikt: | 4kg | 5kg | 4kg | 5kg | 7kg | | | | Antal kabelgenomföringar: | | | 3 st | | 6 st | | | | Kapslingens färg: | | | Vit | | | | | | Inbyggd fläkt för kylning: | Nej | Nej | Nej | Nej | Ja | | | | Elektrisk information: | | | | | | | | | Inspänning: | | | 110V-264VAC/47-63Hz | | | | | | Utspänning: | 13,6VDC | | | 27,3VDC | | | | | Max ström: | 5A | 10A | 3A | 5A | 10A | | | | Ladd ström: | 1A | 1A | 1A | 1A | 1A | | | | Nominell effekt: | 75W | 150W | 75W | 156W | 240W | | | | Rippel i normalläge: | 120mVp-p | 150mVp-p | 150mVp-p | 200mVp-p | 200mVp-p | | | | Effektivitet: | 86% | 87,5% | 88,5% | 89% | 89% | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 6W / 9W | 10W / 16W | 5W / 9W | 8W / 13W | 17W / 27W | | | | Ingångsström: | 1,2A | 1,7A | 1,2A | 1,7A | 2A | | | | Antal avsäkrade utgångar: | | | 1 st | | | | | | Typ av säkring på utgång: | 1xF5A (glas) | 1xF10A (glas) | 1xF3A (glas) | 1xF5A (glas) | 1xF10A (glas) | | | | Djupurladdning av batterier sker vid: | 10,5V | | | 21V | | | | | Möjlig att parallellkoppla: | | | Ja | | | | | | Skydd mot: | | | | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (1 summalarmutgång): | | | | Fördröjt nätavbrottslarm (26,5V) eller låg batterispänning (24V), frånkopplade batterier vid start och säkringsfel.** | | | | | Larm via: | | | Växlande relä | | | | | | Artikel information: | | | | | | | | | Artikelnamn: | ECO 12V 5A M",  
+  "position": [  
+    2805,  
+    4226  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | 2x 72Ah eller 2x 14Ah | | | | | | Rekommenderat batteri | | | UPLUS 10+ Design Life 14Ah batteri | | | | | | Artikelnummer rekommenderat 72Ah batteri | | | MT113-12V07-01 | | | | | | Artikelnummer rekommenderat 14Ah batteri | | | MT113-12V14-01 | | | | | ![](images/_page_1_Picture_2",  
+  "context": "| | | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | Möjliga batterier för montering i kapsling**: | | | 2x 7,2Ah eller 2x 14Ah | | | | | | Rekommenderat batteri: | | | UPLUS 10+ Design Life 14Ah batteri | | | | | | Artikelnummer rekommenderat 7,2Ah batteri: | | | MT113-12V07-01 | | | | | | Artikelnummer rekommenderat 14Ah batteri: | | | MT113-12V14-01 | | | | | ![](images/_page_1_Picture_2.j**peg) ![](images/_page_1_Picture_3.jpeg) ![](images/_page_1_Picture_4.jpeg)",  
+  "position": [  
+    5228,  
+    5519  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av säkring på utgång | 1xF5A (glas) | 1xF10A (glas) | 1xF3A (glas) | 1xF5A (glas) | 1xF10A (glas) | | | | Djupurladdning av batterier sker vid | 105V | | | 21V | | | | | Möjlig att parallellkoppla | | | Ja | | | | | | Skydd mot | | | | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (1 summalarmutgång) | | | | Fördröjt nätavbrottslarm (265V) eller låg batterispänning (24V) frånkopplade batterier vid start och säkringsfel",  
+  "context": "W / 27W | | | | Ingångsström: | 1,2A | 1,7A | 1,2A | 1,7A | 2A | | | | Antal avsäkrade utgångar: | | | 1 st | | | | | | **Typ av säkring på utgång: | 1xF5A (glas) | 1xF10A (glas) | 1xF3A (glas) | 1xF5A (glas) | 1xF10A (glas) | | | | Djupurladdning av batterier sker vid: | 10,5V | | | 21V | | | | | Möjlig att parallellkoppla: | | | Ja | | | | | | Skydd mot: | | | | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (1 summalarmutgång): | | | | Fördröjt nätavbrottslarm (26,5V) eller låg batterispänning (24V), frånkopplade batterier vid start och säkringsfel.** | | | | | Larm via: | | | Växlande relä | | | | | | Artikel information: | | | | | | | | | Artikelnamn: | ECO 12V 5A M",  
+  "position": [  
+    3729,  
+    4226  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | Möjliga batterier för montering i kapsling | | | 2x 72Ah eller 2x 14Ah | | | | | | Rekommenderat batteri | | | UPLUS 10+ Design Life 14Ah batteri | | | | | | Artikelnummer rekommenderat 72Ah batteri | | | MT113-12V07-01 | | | | | | Artikelnummer rekommenderat 14Ah batteri | | | MT113-12V14-01 | | | | | ![](images/_page_1_Picture_2",  
+  "context": "rungsland: | | | Sverige | | | | | | Information och val av batteri / batterier: | | | | | | | | | Rekommenderad batteri**typ: | | | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | Möjliga batterier för montering i kapsling: | | | 2x 7,2Ah eller 2x 14Ah | | | | | | Rekommenderat batteri: | | | UPLUS 10+ Design Life 14Ah batteri | | | | | | Artikelnummer rekommenderat 7,2Ah batteri: | | | MT113-12V07-01 | | | | | | Artikelnummer rekommenderat 14Ah batteri: | | | MT113-12V14-01 | | | | | ![](images/_page_1_Picture_2.**jpeg) ![](images/_page_1_Picture_3.jpeg) ![](images/_page_1_Picture_4.jpeg)",  
+  "position": [  
+    5104,  
+    5519  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152599"  
+}
+

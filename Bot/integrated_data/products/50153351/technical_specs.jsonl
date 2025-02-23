@@ -1,0 +1,22 @@
+{  
+  "name": "ce",  
+  "raw_value": "Never throw out cells in a fire or expose to high temperatures",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "Never throw out cells in a fire or expose to high temperatures",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "處理時的安全提醒:不要破壞和移動外部的管道設備 | | | Specific safe handling advice: Never throw out cells in a fire or expose to high temperatures. Do not | | | soak cells i**n water and seawater. Do not expose to strong ox...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153351"  
+}
+

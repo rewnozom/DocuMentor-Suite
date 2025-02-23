@@ -1,0 +1,110 @@
+{  
+  "name": "batterityp",  
+  "raw_value": "| 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4                                                                                                                                                                                     |  |  |  |  |  |\n| Möjliga batterier för montering i kapsling: | 4 st",  
+  "category": "ELECTRICAL",  
+  "unit": "V",  
+  "value": {  
+    "raw_value": "| 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4                                                                                                                                                                                     |  |  |  |  |  |\n| Möjliga batterier för montering i kapsling: | 4 st",  
+    "unit": "V",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | | | | | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapsling: | 4 st. 7,2Ah batterier alt. 4x 14Ah bat...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156349"  
+}
+
+{  
+  "name": "Skyddsklass",  
+  "raw_value": "20",  
+  "category": "ELECTRICAL",  
+  "unit": "%",  
+  "value": {  
+    "raw_value": "20",  
+    "unit": "%",  
+    "normalized_value": 20.0,  
+    "is_valid": true,  
+    "validation_message": "Antas vara rimligt (ingen specifik valideringsregel)"  
+  },  
+  "context": "| | | | | | | Rekommenderad miljö / Skyddsklass: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet / IP32 | | | | | | | Omgivningstemperatur: | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - ...",  
+  "pattern": "(?i)(?:skyddsklass|protection class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 52,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Antas vara rimligt (ingen specifik valideringsregel)",  
+  "product_id": "50156349"  
+}
+
+{  
+  "name": "färg",  
+  "raw_value": "| Svart                                                                                                                                                                                                                                           |  |  |  |  |  |\n| Inbyggd fläkt för kylning: | Ja                                                                                                                                                                                                                                              |  |  |  |  |  |\n| Förberedd för utbyggnad av fler PoE switchar: | Ja, ytterligare 4x LAN & 8 PoE portar kan erhållas via tillvalet PoE switch 4p expansion kit",  
+  "category": "COLOR",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| Svart                                                                                                                                                                                                                                           |  |  |  |  |  |\n| Inbyggd fläkt för kylning: | Ja                                                                                                                                                                                                                                              |  |  |  |  |  |\n| Förberedd för utbyggnad av fler PoE switchar: | Ja, ytterligare 4x LAN & 8 PoE portar kan erhållas via tillvalet PoE switch 4p expansion kit",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | | | | | Kapslingens färg: | Svart | | | | | | | Inbyggd fläkt för kylning: | Ja | | | | | | | Förberedd för utbyggnad av fler PoE switchar: | Ja, ytterligare 4x LAN & 8 PoE portar kan erhållas v...",  
+  "pattern": "(?i)(?:färg|color)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 123,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156349"  
+}
+
+{  
+  "name": "nätverksport",  
+  "raw_value": "| 10 / 100 PoE+                                                                                                                                                                                                                                   |  |  |  |  |  |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |  |  |  |  |  |\n| Stöd för standard enligt: | IEEE 802",  
+  "category": "NETWORK",  
+  "unit": "PoE",  
+  "value": {  
+    "raw_value": "| 10 / 100 PoE+                                                                                                                                                                                                                                   |  |  |  |  |  |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |  |  |  |  |  |\n| Stöd för standard enligt: | IEEE 802",  
+    "unit": "PoE",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | | | | | Typ av nätverksport: | 10 / 100 PoE+ | | | | | | | Gränssnit: | 1000Base-T RJ-45 | | | | | | | Stöd för standard enligt: | IEEE 802.3at, IEEE 802.3af",  
+  "pattern": "(?i)(?:nätverksport|network port)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 140,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156349"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "| 1 st",  
+  "category": "CONNECTION",  
+  "unit": "st",  
+  "value": {  
+    "raw_value": "| 1 st",  
+    "unit": "st",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | | | | | Antal avsäkrade utgångar: | 1 st.",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156349"  
+}
+

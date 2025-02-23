@@ -1,0 +1,519 @@
+{
+  "timestamp": "20250222_235136",
+  "total_patterns": 155,
+  "patterns_with_matches": 77,
+  "individual_pattern_performance": {
+    "101": {
+      "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 10455,
+      "group": "condition",
+      "percentage": 49.096031932378494
+    },
+    "125": {
+      "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 4299,
+      "group": "version",
+      "percentage": 20.18783752054473
+    },
+    "102": {
+      "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1142,
+      "group": "condition",
+      "percentage": 5.362761211552008
+    },
+    "124": {
+      "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 974,
+      "group": "version",
+      "percentage": 4.573843625264146
+    },
+    "128": {
+      "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 850,
+      "group": "version",
+      "percentage": 3.991547311575487
+    },
+    "38": {
+      "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 392,
+      "group": "requires",
+      "percentage": 1.8408077013383424
+    },
+    "129": {
+      "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 261,
+      "group": "version",
+      "percentage": 1.2256398215543556
+    },
+    "1": {
+      "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 193,
+      "group": "basic",
+      "percentage": 0.9063160366283166
+    },
+    "127": {
+      "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 186,
+      "group": "version",
+      "percentage": 0.8734444705329889
+    },
+    "31": {
+      "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 186,
+      "group": "requires",
+      "percentage": 0.8734444705329889
+    },
+    "98": {
+      "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 186,
+      "group": "condition",
+      "percentage": 0.8734444705329889
+    },
+    "9": {
+      "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 167,
+      "group": "basic",
+      "percentage": 0.7842216482742428
+    },
+    "130": {
+      "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 155,
+      "group": "version",
+      "percentage": 0.727870392110824
+    },
+    "126": {
+      "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 123,
+      "group": "version",
+      "percentage": 0.5776003756750411
+    },
+    "94": {
+      "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 99,
+      "group": "replacement",
+      "percentage": 0.4648978633482038
+    },
+    "106": {
+      "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 93,
+      "group": "condition",
+      "percentage": 0.43672223526649445
+    },
+    "131": {
+      "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 92,
+      "group": "version",
+      "percentage": 0.4320262972528762
+    },
+    "122": {
+      "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 90,
+      "group": "version",
+      "percentage": 0.4226344212256398
+    },
+    "132": {
+      "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 89,
+      "group": "version",
+      "percentage": 0.4179384832120216
+    },
+    "23": {
+      "pattern": "(?i)ansluts\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 87,
+      "group": "direct",
+      "percentage": 0.4085466071847852
+    },
+    "103": {
+      "pattern": "(?i)only\\s+(?:with|for|when)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 71,
+      "group": "condition",
+      "percentage": 0.33341159896689365
+    },
+    "35": {
+      "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 64,
+      "group": "requires",
+      "percentage": 0.3005400328715661
+    },
+    "95": {
+      "pattern": "(?i)alternativ\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 56,
+      "group": "replacement",
+      "percentage": 0.26297252876262034
+    },
+    "32": {
+      "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 50,
+      "group": "requires",
+      "percentage": 0.23479690068091102
+    },
+    "104": {
+      "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 50,
+      "group": "condition",
+      "percentage": 0.23479690068091102
+    },
+    "123": {
+      "pattern": "(?i)generation(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 48,
+      "group": "version",
+      "percentage": 0.22540502465367454
+    },
+    "84": {
+      "pattern": "(?i)ersättning\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 48,
+      "group": "replacement",
+      "percentage": 0.22540502465367454
+    },
+    "83": {
+      "pattern": "(?i)ersätter\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 48,
+      "group": "replacement",
+      "percentage": 0.22540502465367454
+    },
+    "4": {
+      "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 48,
+      "group": "basic",
+      "percentage": 0.22540502465367454
+    },
+    "0": {
+      "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 47,
+      "group": "basic",
+      "percentage": 0.22070908664005634
+    },
+    "57": {
+      "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 47,
+      "group": "fits",
+      "percentage": 0.22070908664005634
+    },
+    "48": {
+      "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 41,
+      "group": "recommended",
+      "percentage": 0.19253345855834703
+    },
+    "58": {
+      "pattern": "(?i)passar\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 39,
+      "group": "fits",
+      "percentage": 0.1831415825311106
+    },
+    "81": {
+      "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 39,
+      "group": "accessory",
+      "percentage": 0.1831415825311106
+    },
+    "37": {
+      "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 35,
+      "group": "requires",
+      "percentage": 0.1643578304766377
+    },
+    "34": {
+      "pattern": "(?i)förutsätter\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 32,
+      "group": "requires",
+      "percentage": 0.15027001643578305
+    },
+    "99": {
+      "pattern": "(?i)förutsätter\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 32,
+      "group": "condition",
+      "percentage": 0.15027001643578305
+    },
+    "21": {
+      "pattern": "(?i)(?:kan|can)\\s+användas\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 31,
+      "group": "direct",
+      "percentage": 0.14557407842216483
+    },
+    "10": {
+      "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 30,
+      "group": "basic",
+      "percentage": 0.1408781404085466
+    },
+    "14": {
+      "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 26,
+      "group": "basic",
+      "percentage": 0.12209438835407373
+    },
+    "79": {
+      "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 26,
+      "group": "accessory",
+      "percentage": 0.12209438835407373
+    },
+    "47": {
+      "pattern": "(?i)(?:bäst|optimal)\\s+(?:med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 24,
+      "group": "recommended",
+      "percentage": 0.11270251232683727
+    },
+    "8": {
+      "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 24,
+      "group": "basic",
+      "percentage": 0.11270251232683727
+    },
+    "69": {
+      "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 24,
+      "group": "designed_for",
+      "percentage": 0.11270251232683727
+    },
+    "97": {
+      "pattern": "(?i)(?:endast|bara)\\s+(?:vid|för|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 20,
+      "group": "condition",
+      "percentage": 0.09391876027236441
+    },
+    "12": {
+      "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 17,
+      "group": "basic",
+      "percentage": 0.07983094623150974
+    },
+    "45": {
+      "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 17,
+      "group": "recommended",
+      "percentage": 0.07983094623150974
+    },
+    "6": {
+      "pattern": "(?i)fungerar\\s+(?:med|tillsammans\\s+med)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 14,
+      "group": "basic",
+      "percentage": 0.06574313219065508
+    },
+    "19": {
+      "pattern": "(?i)fungerar\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 14,
+      "group": "direct",
+      "percentage": 0.06574313219065508
+    },
+    "2": {
+      "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 11,
+      "group": "basic",
+      "percentage": 0.05165531814980042
+    },
+    "17": {
+      "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 11,
+      "group": "direct",
+      "percentage": 0.05165531814980042
+    },
+    "61": {
+      "pattern": "(?i)(?:can\\s+be|är)\\s+installerad\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 10,
+      "group": "fits",
+      "percentage": 0.046959380136182206
+    },
+    "53": {
+      "pattern": "(?i)idealisk(?:t)?\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 7,
+      "group": "recommended",
+      "percentage": 0.03287156609532754
+    },
+    "24": {
+      "pattern": "(?i)connects\\s+(?:to|with)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 7,
+      "group": "direct",
+      "percentage": 0.03287156609532754
+    },
+    "142": {
+      "pattern": "(?i)(?:inte|ej)\\s+avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 7,
+      "group": "negative",
+      "percentage": 0.03287156609532754
+    },
+    "89": {
+      "pattern": "(?i)replacement\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 6,
+      "group": "replacement",
+      "percentage": 0.028175628081709318
+    },
+    "59": {
+      "pattern": "(?i)fits\\s+(?:on|in|with)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 6,
+      "group": "fits",
+      "percentage": 0.028175628081709318
+    },
+    "75": {
+      "pattern": "(?i)tillbehör\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 5,
+      "group": "accessory",
+      "percentage": 0.023479690068091103
+    },
+    "55": {
+      "pattern": "(?i)perfekt\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 5,
+      "group": "recommended",
+      "percentage": 0.023479690068091103
+    },
+    "145": {
+      "pattern": "(?i)passar\\s+(?:till|med|för)\\s+(?:[^\\.;]*?)((?:\\d{5,8}|E-\\s*\\d{7})(?:\\s*,\\s*(?:\\d{5,8}|E-\\s*\\d{7}))*)",
+      "count": 4,
+      "group": "article_relation",
+      "percentage": 0.018783752054472882
+    },
+    "5": {
+      "pattern": "(?i)(?:monteras|installeras)\\s+tillsammans\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.014087814040854659
+    },
+    "11": {
+      "pattern": "(?i)tillbehör\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.014087814040854659
+    },
+    "56": {
+      "pattern": "(?i)perfect\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "recommended",
+      "percentage": 0.014087814040854659
+    },
+    "16": {
+      "pattern": "(?i)specifically\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.014087814040854659
+    },
+    "3": {
+      "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "basic",
+      "percentage": 0.014087814040854659
+    },
+    "18": {
+      "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 3,
+      "group": "direct",
+      "percentage": 0.014087814040854659
+    },
+    "46": {
+      "pattern": "(?i)recommended\\s+(?:for|with)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 2,
+      "group": "recommended",
+      "percentage": 0.009391876027236441
+    },
+    "67": {
+      "pattern": "(?i)specially\\s+designed\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 2,
+      "group": "designed_for",
+      "percentage": 0.009391876027236441
+    },
+    "33": {
+      "pattern": "(?i)måste\\s+ha\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 2,
+      "group": "requires",
+      "percentage": 0.009391876027236441
+    },
+    "60": {
+      "pattern": "(?i)(?:can\\s+be|är)\\s+monterad\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 2,
+      "group": "fits",
+      "percentage": 0.009391876027236441
+    },
+    "22": {
+      "pattern": "(?i)kan\\s+kopplas\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 2,
+      "group": "direct",
+      "percentage": 0.009391876027236441
+    },
+    "76": {
+      "pattern": "(?i)accessor(?:y|ies)\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 2,
+      "group": "accessory",
+      "percentage": 0.009391876027236441
+    },
+    "85": {
+      "pattern": "(?i)ersätts\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "replacement",
+      "percentage": 0.0046959380136182205
+    },
+    "135": {
+      "pattern": "(?i)(?:passar|fungerar)\\s+(?:inte|ej)\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "negative",
+      "percentage": 0.0046959380136182205
+    },
+    "54": {
+      "pattern": "(?i)ideal\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "recommended",
+      "percentage": 0.0046959380136182205
+    },
+    "110": {
+      "pattern": "(?i)förut?sättning(?:ar)?:\\s*([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "condition",
+      "percentage": 0.0046959380136182205
+    },
+    "143": {
+      "pattern": "(?i)not\\s+intended\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+      "count": 1,
+      "group": "negative",
+      "percentage": 0.0046959380136182205
+    }
+  },
+  "pattern_group_performance": {
+    "basic": {
+      "total_matches": 589,
+      "percentage_of_all_matches": 2.7659074900211316
+    },
+    "direct": {
+      "total_matches": 155,
+      "percentage_of_all_matches": 0.727870392110824
+    },
+    "requires": {
+      "total_matches": 761,
+      "percentage_of_all_matches": 3.5736088283634655
+    },
+    "recommended": {
+      "total_matches": 100,
+      "percentage_of_all_matches": 0.46959380136182205
+    },
+    "fits": {
+      "total_matches": 104,
+      "percentage_of_all_matches": 0.4883775534162949
+    },
+    "designed_for": {
+      "total_matches": 26,
+      "percentage_of_all_matches": 0.12209438835407373
+    },
+    "accessory": {
+      "total_matches": 72,
+      "percentage_of_all_matches": 0.3381075369805119
+    },
+    "replacement": {
+      "total_matches": 258,
+      "percentage_of_all_matches": 1.211552007513501
+    },
+    "condition": {
+      "total_matches": 12050,
+      "percentage_of_all_matches": 56.58605306409955
+    },
+    "version": {
+      "total_matches": 7167,
+      "percentage_of_all_matches": 33.655787743601785
+    },
+    "negative": {
+      "total_matches": 9,
+      "percentage_of_all_matches": 0.042263442122563985
+    },
+    "article_relation": {
+      "total_matches": 4,
+      "percentage_of_all_matches": 0.018783752054472882
+    }
+  }
+}

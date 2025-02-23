@@ -1,0 +1,199 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "drift av brandlarmsutrustning",  
+  "context": "tentialfritt larmrelä | | | | | | | (1A 50V). | | | | | ## **BESKRIVNING** Smidigt och snyggt strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning.** Certifierad av tredje part enl. EN54-4 AESI är primärswitchad och har mycket stabil och noggrann utspänning. Har två ut",  
+  "position": [  
+    1095,  
+    1138  
+  ],  
+  "pattern_index": 8,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "designed_for",  
+  "related_product": "drift av brandlarmsutrustning",  
+  "context": "tentialfritt larmrelä | | | | | | | (1A 50V). | | | | | ## **BESKRIVNING** Smidigt och snyggt strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning.** Certifierad av tredje part enl. EN54-4 AESI är primärswitchad och har mycket stabil och noggrann utspänning. Har två ut",  
+  "position": [  
+    1095,  
+    1138  
+  ],  
+  "pattern_index": 69,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har övervakning och larm och försedd med nätavbrotts- och batterilarm",  
+  "context": "erad av tredje part enl. EN54-4 AESI är primärswitchad och har mycket stabil och noggrann utspänning. Har två utgångar s**om har övervakning och larm och försedd med nätavbrotts- och batterilarm.** 99 00 40 är försedd med fördröjning av larm för nätfel. #### **Utförande:** Aggregaten är utförda i kiselgrå självventi",  
+  "position": [  
+    1266,  
+    1339  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+  "context": "t info@swtm.se VAT.NO SE556289017701 ![](images/_page_1_Picture_1.jpeg) ## SÄKERHET Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.** **SM40 Strömförsörjning med plats för batteri** > Endast isolerade verktyg får användas i enheten. Observera att farlig",  
+  "position": [  
+    2822,  
+    2897  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "ngar och strömmar förekommer i apparaten både när interna säkringarna är av eller på. Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    3145,  
+    3198  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "eller på. Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt",  
+  "position": [  
+    3221,  
+    3311  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "onenter samt säkerhet skall leverantören kontaktas. Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. ## INKOPPLING - Montera aggregatet fritt. Minst 100mm på varje sida. - Lossa de två skruv",  
+  "position": [  
+    3380,  
+    3439  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet om system",  
+  "position": [  
+    3071,  
+    3110  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "e_0_Picture_1.jpeg) ![](images/_page_0_Picture_3.jpeg) #### **Skydd**: Aggregatet är skyddat mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri är skyddas av säkring. #### **Indikeringar och larm** | Drift: | Indikeras med 3st gröna lysdiode",  
+  "position": [  
+    128,  
+    179  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### **Indikeringar och larm** | Drift | Indikeras med 3st gröna lysdioder",  
+  "context": "belastning och kortslutning. Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri är skyddas av säkrin**g. #### **Indikeringar och larm** | Drift: | Indikeras med 3st gröna lysdioder.** | | | | | |---------------------------------------------------|-------------------------------------|--|--|--|--| | Nät",  
+  "position": [  
+    222,  
+    301  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Certifierad av tredje part enl",  
+  "context": "0V). | | | | | ## **BESKRIVNING** Smidigt och snyggt strömförsörjningsaggregat anpassad för drift av brandlarmsutrustnin**g. Certifierad av tredje part enl.** EN54-4 AESI är primärswitchad och har mycket stabil och noggrann utspänning. Har två utgångar som har övervakning och l",  
+  "position": [  
+    1136,  
+    1170  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Har två utgångar som har övervakning och larm och försedd med nätavbrotts- och batterilarm",  
+  "context": "msutrustning. Certifierad av tredje part enl. EN54-4 AESI är primärswitchad och har mycket stabil och noggrann utspännin**g. Har två utgångar som har övervakning och larm och försedd med nätavbrotts- och batterilarm.** 99 00 40 är försedd med fördröjning av larm för nätfel. #### **Utförande:** Aggregaten är utförda i kiselgrå självventi",  
+  "position": [  
+    1245,  
+    1339  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Anslut därefter lasten",  
+  "context": "ablarna. - Anslut först 230V AC. Spänningsätt. - 3st gröna LED tänds på fronten. - Kontrollera att utspänningen är rikti**g. - Anslut därefter lasten.** - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. - Larmrelä ritade i olarmat läge. ![](_pag",  
+  "position": [  
+    3835,  
+    3863  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134625"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Utspänning | Utström | Batterikapacitet<br>I kapslingen / Max | Verkningsgrad | Egenförbrukning<br>vid batteridrift | HxBxD | |-----------|------------------------|------------|---------|----------------------------------------|---------------|-------------------------------------|-----------------| | 5240095 | AESI 24-3 C24 SB | 273V | 3A | 7-14 / 7-38Ah | 085 | 75mA | 248 x 322 x 126 | | 99 00 40 | AESI 24-3 C24 SB",  
+  "context": "EN61000-6-3:2001 | | | EN61000-6-2:2005 | | Certifieringar | EN54-4/A2 | | | EN12101-10 | | | | NFS 61940 | E: nummer | **Typ | Utspänning | Utström | Batterikapacitet<br>I kapslingen / Max | Verkningsgrad | Egenförbrukning<br>vid batteridrift | HxBxD | |-----------|------------------------|------------|---------|----------------------------------------|---------------|-------------------------------------|-----------------| | 5240095 | AESI 24-3, C24 SB | 27,3V | 3A | 7-14 / 7-38Ah | 0,85 | 75mA | 248 x 322 x 126 | | 99 00 40 | AESI 24-3 C24 SB.** LF30 | 27,3V | 3A | 7-12Ah / 7-38Ah | 0,84 | 75mA | 248 x 322 x 126 | | | | | | | | | | Postadress/Postal address **Swa",  
+  "position": [  
+    2022,  
+    2452  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240095"  
+  ],  
+  "product_id": "50134625"  
+}
+

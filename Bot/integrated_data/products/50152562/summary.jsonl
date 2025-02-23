@@ -1,0 +1,88 @@
+{  
+  "product_id": "50152562",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| NOVA 24V 5A FLX S",  
+  "description": "Vägg eller 19 \"rackmonteras. Möjligt att komplettera upp till 2x batteriboxar för upp till 70Ah batterikapacitet.**\n\n**NOVA-serien** används främst i säkerhetssystem där en SSF 1014* godkänd batteribackup krävs eller där kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen behöver hantera högre belastningar. **NOVA-serien** är systemcertifierad enligt SSF1014 tillsammans med flera säkerhetssystem på den nordiska marknaden.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "batterityp",  
+      "value": "| 12V Underhållsfria batterier, typ AGM                                                                                                                                                                                                                                                                                    |                    |  |  |\n| Möjliga batterier för montering i kapsling: | 2x 14Ah                                                                                                                                                                                                                                                                                                                  |                    |  |  |\n| System certifierad tillsammans med: | UPLUS 10+ Design Life14Ah batterier                                                                                                                                                                                                                                                                                      |                    |  |  |\n| Artikelnummer rekommenderat 14Ah batteri: | MT113-12V14-01                                                                                                                                                                                                                                                                                                           |                    |  |  |\n| Tillåten medellast enligt SSF1014 Larmklass 1-3: |                                                                                                                                                                                                                                                                                                                          |                    |  |  |\n| Artikelnamn: | NOVA 24V 5A FLX S                                                                                                                                                                                                                                                                                                        | NOVA 24V 10A FLX S |  |  |\n| exkl",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Skyddsklass",  
+      "value": "| IP32                                                                                                                                                                                                                                                                                                                     |                    |  |  |\n| Rekommenderad montering: | Vägg alt",  
+      "unit": null  
+    },  
+    {  
+      "category": "COLOR",  
+      "name": "färg",  
+      "value": "| Svart                                                                                                                                                                                                                                                                                                                    |                    |  |  |\n| Inbyggd fläkt för kylning: | Ja                                                                                                                                                                                                                                                                                                                       |                    |  |  |\n| Elektrisk information: |                                                                                                                                                                                                                                                                                                                          |                    |  |  |\n| Inspänning: | 110V-264VAC/47-63Hz                                                                                                                                                                                                                                                                                                      |                    |  |  |\n| Utspänning: | 27,3VDC                                                                                                                                                                                                                                                                                                                  |                    |  |  |\n| Max ström: | 5A                                                                                                                                                                                                                                                                                                                       | 10A                |  |  |\n| Ladd ström: | Beroende av strömuttag, dock max 4A                                                                                                                                                                                                                                                                                      |                    |  |  |\n| Nominell effekt: | 150W                                                                                                                                                                                                                                                                                                                     | 240W               |  |  |\n| Rippel i normalläge: | 200mVp-p                                                                                                                                                                                                                                                                                                                 | 200mVp-p           |  |  |\n| Effektivitet: | 89%                                                                                                                                                                                                                                                                                                                      | 89%                |  |  |\n| Värmegenerering vid 50% / 80% av märkeffekten: | 8W / 13W                                                                                                                                                                                                                                                                                                                 | 17W / 27W          |  |  |\n| Ingångsström: | 1,7A                                                                                                                                                                                                                                                                                                                     | 2A                 |  |  |\n| Antal avsäkrade utgångar: | 2 st                                                                                                                                                                                                                                                                                                                     | 2 st               |  |  |\n| Typ av säkring på utgång: | 2xF5A (glas)                                                                                                                                                                                                                                                                                                             | 2xF10A (glas)      |  |  |\n| Djupurladdning av batterier sker vid: | 21V                                                                                                                                                                                                                                                                                                                      |                    |  |  |\n| Möjlig att parallellkoppla: | Ja                                                                                                                                                                                                                                                                                                                       |                    |  |  |\n| Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier                                                                                                                                                                                                                                       |                    |  |  |\n| Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek), låg batterispänning, över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning, sabotage",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| 2 st                                                                                                                                                                                                                                                                                                                     | 2 st               |  |  |\n| Typ av säkring på utgång: | 2xF5A (glas)                                                                                                                                                                                                                                                                                                             | 2xF10A (glas)      |  |  |\n| Djupurladdning av batterier sker vid: | 21V                                                                                                                                                                                                                                                                                                                      |                    |  |  |\n| Möjlig att parallellkoppla: | Ja                                                                                                                                                                                                                                                                                                                       |                    |  |  |\n| Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier                                                                                                                                                                                                                                       |                    |  |  |\n| Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek), låg batterispänning, över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning, sabotage",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "strömuttag dock max 4A | | | | | Nominell effekt | 150W | 240W | | | | Rippel i normalläge | 200mVp-p | 200mVp-p | | | | Effektivitet | 89% | 89% | | | | Värmegenerering vid 50% / 80% av märkeffekten | 8W / 13W | 17W / 27W | | | | Ingångsström | 17A | 2A | | | | Antal avsäkrade utgångar | 2 st | 2 st | | | | Typ av säkring på utgång | 2xF5A (glas) | 2xF10A (glas) | | | | Djupurladdning av batterier sker vid | 21V | | | | | Möjlig att parallellkoppla | Ja | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (3 utgångar) | Fördröjt nätavbrottslarm (10 sek) låg batterispänning över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning sabotage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "hantera högre belastningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "meddelar när batterierna måste bytas ut innan batterierna åldras",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "medföljer batteriboxen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "NOVA-serien ska användas med AGM-batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Batteriboxen ska placeras under batteribackupen och ansluts via en kabel som medföljer batteriboxen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Milleteknik AB | | | | | Ursprungsland | Sverige | | | | | Information och val av batteri / batterier | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM | | | | | Möjliga batterier för montering i kapsling | 2x 14Ah | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life14Ah batterier | | | | | Artikelnummer rekommenderat 14Ah batteri | MT113-12V14-01 | | | | | Tillåten medellast enligt SSF1014 Larmklass 1-3 | | | | | | Artikelnamn | NOVA 24V 5A FLX S | NOVA 24V 10A FLX S | | | | exkl",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "variant",  
+      "nummer",  
+      "ikelnamn",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

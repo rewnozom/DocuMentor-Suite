@@ -1,0 +1,14 @@
+{  
+  "identifier": "Summary",  
+  "original": "Summary",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ckaging Instructions 968 – 970 (section II) | Document Number: MSDS-CR-001 Revision:1 Page 5 of 5 Re**f: Summary o**f Packing Instruction (2021 IATA Dangerous Goods Regulations 62nd Edition) the minimum requirement",  
+  "source": "regex",  
+  "product_id": "50462183"  
+}
+

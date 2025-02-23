@@ -1,0 +1,26 @@
+{  
+  "product_id": "50154969",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "En pulversläckare är frostbeständig och leder ej elektricitet vilket innebär att du även kan släcka bränder i elektrisk utrustning upp till 1000 V. Tänk på att en pulversläckare bara går att använda en gång, sedan måste den laddas om. Släckaren är återfyllningsbar av behörig servicetekniker.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "accessory",  
+      "related_product": "en 6 kg brandsläckare i hemmamiljöer eller i husvagnen husbilen och båten",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "komplement till en 6 kg brandsläckare i hemmamiljöer eller i husvagnen husbilen och båten",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "En pulversläckare är frostbeständig och leder ej elektricitet vilket innebär att du även kan släcka bränder i elektrisk utrustning upp till 1000 V",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

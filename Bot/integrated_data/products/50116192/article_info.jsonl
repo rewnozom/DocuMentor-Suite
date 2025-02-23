@@ -1,0 +1,28 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "t | 9,528 kg | | Dimension (BxHxD) | 166x175x125 mm | Order data Artikelnummer Beskrivning BS129N Un**derhållsfri a**ckumulator 12 V, 26 Ah",  
+  "source": "regex",  
+  "product_id": "50116192"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "t | 9,528 kg | | Dimension (BxHxD) | 166x175x125 mm | Order data Artikelnummer Beskrivning BS129N Un**derhållsfri a**ckumulator 12 V, 26 Ah",  
+  "source": "regex",  
+  "product_id": "50116192"  
+}
+

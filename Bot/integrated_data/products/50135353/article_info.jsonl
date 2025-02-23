@@ -1,0 +1,70 @@
+{  
+  "identifier": "battery",  
+  "original": "battery",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "e communication cable. #### **11.2 USB for HID power device** The USB interface offers feature \"smar**t battery\" **which supports HID (Human Interface Device) Power Device Class, no more software installation is n",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "identifier": "ung34",  
+  "original": "ung34",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | 9. Wartung34",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "identifier": "ENDEN",  
+  "original": "ENDEN",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "r von qualifiziertem Servicepersonal gewartet werden. Es befinden sich KEINE DURCH DEN ANWENDER ZU W**ARTENDEN** TEILE im Inneren der USV. • ★ Entfernen Sie die Schutztafel nur, nachdem Sie die Anschlussverbindun",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "identifier": "ungsfreien",  
+  "original": "ungsfreien",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "en somit komplett durch Netzspannung betrieben. Im Falle eines Stromausfalls wird der Inverter von w**artungsfreien** Batterien betrieben. Diese Bedienungsanleitung deckt, die folgenden aufgeführten USVs ab. Bitte be",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "identifier": "Batterie",  
+  "original": "Batterie",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "### **11.2 USB für HID Leistungseinrichtung** Die USB-Schnittstelle verfügt über die Funktion \"Smart** Batterie\", **die HID Geräte (Human Interface Device) unterstützt. Eine Software-Installation ist nicht erforde",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+

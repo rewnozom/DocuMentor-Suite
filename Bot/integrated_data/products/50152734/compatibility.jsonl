@@ -1,0 +1,56 @@
+{  
+  "relation_type": "version",  
+  "related_product": "BT-5 Medium kan kompletteras med en batterilåda batterilådan placeras under batteribackupen och ansluts via en snabbanslutningskabel",  
+  "context": "utningskabel En avsäkrad utgång, stabiliserad spänning, skydd mot överlast, överspänning, kortslutning och djupurladdnin**g. BT-5 Medium kan kompletteras med en batterilåda, batterilådan placeras under batteribackupen och ansluts via en snabbanslutningskabel.** Batterilådan har plats för 4x 14Ah-batterier per batterilåda. Batterityper (2x): 7,2Ah alt. 14Ah, **Ingår ej.** ![](_pa",  
+  "position": [  
+    575,  
+    712  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152734"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| IP20 | | Temperaturområde | 5-40°C | | Montering | Vägg | | Mått (BxHxD) | 242x350x150mm | | Vikt | 4kg | | Antal kabelgenomföringar | 3 | | Inbygd fläkt | Ja | | Matningsspänning | 110V-264VAC/47-63Hz | | Max",  
+  "context": "----|-----------------------------------------------| | Utgångar: | 1 st | | Miljöklass: | Klass 1 | | Kapslingsklassnin**g: | IP20 | | Temperaturområde: | 5-40°C | | Montering: | Vägg | | Mått (BxHxD): | 242x350x150mm | | Vikt: | 4kg | | Antal kabelgenomföringar: | 3 | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max.** utgångsström: | 5 | | Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspä",  
+  "position": [  
+    1026,  
+    1248  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152734"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah or 2x 14Ah | | Batterityp | 12V AGM | | Testad och godkänd med | UPLUS 10+ Design Life 72Ah or 14Ah batteries | | Benämning producent (SBSC) | ECO 24V 5A M |",  
+  "context": "Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max. utgångsström: | 5 | | Typ av försörjningsspännin**g: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah or 2x 14Ah | | Batterityp: | 12V AGM | | Testad och godkänd med: | UPLUS 10+ Design Life 7,2Ah or 14Ah batteries | | Benämning producent (SBSC): | ECO 24V 5A M |**",  
+  "position": [  
+    1297,  
+    1589  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152734"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah or 2x 14Ah | | Batterityp | 12V AGM | | Testad och godkänd med | UPLUS 10+ Design Life 72Ah or 14Ah batteries | | Benämning producent (SBSC) | ECO 24V 5A M |",  
+  "context": "belgenomföringar: | 3 | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max. utgångsström: | 5 | | **Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah or 2x 14Ah | | Batterityp: | 12V AGM | | Testad och godkänd med: | UPLUS 10+ Design Life 7,2Ah or 14Ah batteries | | Benämning producent (SBSC): | ECO 24V 5A M |**",  
+  "position": [  
+    1271,  
+    1589  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152734"  
+}
+

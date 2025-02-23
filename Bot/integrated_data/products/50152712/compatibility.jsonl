@@ -1,0 +1,658 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "sig för att kunna fungera som vanligt",  
+  "context": "att kunna fungera i många år till. Skulle det bildas någon form av buckla eller deformering kalibrerar den om sig och an**passar sig, för att kunna fungera som vanligt.** ### **Sparka på den** Med Kick-inställningen aktiverad på en DIP-switch kan du vara hårdhänt i ditt dörröppnande. Spark",  
+  "position": [  
+    601,  
+    647  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "sig till eventuella bucklor och fungerar sedan som vanligt igen",  
+  "context": "risma Button så lär man bli lite förvånad. Vår konstruktion håller för kraftigt yttre våld. Prisma Button startar om, an**passar sig till eventuella bucklor, och fungerar sedan som vanligt igen.** Detta gäller oavsett om den är inställd på \"Push\" – tryck – eller \"Kick\" – spark. #### **Push and Hold-dekal** Dekal so",  
+  "position": [  
+    2407,  
+    2479  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "bäst för att få plats under kortläsaren på väggen",  
+  "context": "m. Vill du täcka en större yta använder du den långa 1200 mm aktiveringslisten. Ibland är det mellanmodellen 800 mm som **passar bäst för att få plats under kortläsaren på väggen.** Istället för flera installationer, som egentligen gör samma sak, räcker det med en Prisma Button. #### **Kontraster** P",  
+  "position": [  
+    4148,  
+    4205  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "den och går med på hur du behöver behandla den för att du ska ta dig dit du vill",  
+  "context": ". Man kan vara lång, man kan vara kort. Man kan ha händerna fria, man kan ha händerna fulla. Prisma Button finns där du **behöver den och går med på hur du behöver behandla den, för att du ska ta dig dit du vill.** #### **Hela fronten tryckkänslig** Du kan trycka eller sparka var du vill på fronten. Prisma Button är tryckkänslig på",  
+  "position": [  
+    3238,  
+    3328  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "att få plats under kortläsaren på väggen",  
+  "context": "du täcka en större yta använder du den långa 1200 mm aktiveringslisten. Ibland är det mellanmodellen 800 mm som passar b**äst för att få plats under kortläsaren på väggen. **Istället för flera installationer, som egentligen gör samma sak, räcker det med en Prisma Button. #### **Kontraster** P",  
+  "position": [  
+    4155,  
+    4205  
+  ],  
+  "pattern_index": 47,  
+  "pattern": "(?i)(?:bäst|optimal)\\s+(?:med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "flera installationer som egentligen gör samma sak räcker det med en Prisma Button",  
+  "context": "mm aktiveringslisten. Ibland är det mellanmodellen 800 mm som passar bäst för att få plats under kortläsaren på väggen. **Istället för flera installationer, som egentligen gör samma sak, räcker det med en Prisma Button.** #### **Kontraster** Prisma Button är designad för att skapa kontraster i sig själv. Den naturanodiserade ytterprofilen",  
+  "position": [  
+    4206,  
+    4303  
+  ],  
+  "pattern_index": 94,  
+  "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att kunna fungera i många år till",  
+  "context": "ydd gör att Prisma Button inte kommer att tillåta onödigt mycket våld. Då stänger den elektroniken för att försäkra sig **om att kunna fungera i många år till.** Skulle det bildas någon form av buckla eller deformering kalibrerar den om sig och anpassar sig, för att kunna fungera",  
+  "position": [  
+    478,  
+    515  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "sig och anpassar sig för att kunna fungera som vanligt",  
+  "context": "säkra sig om att kunna fungera i många år till. Skulle det bildas någon form av buckla eller deformering kalibrerar den **om sig och anpassar sig, för att kunna fungera som vanligt.** ### **Sparka på den** Med Kick-inställningen aktiverad på en DIP-switch kan du vara hårdhänt i ditt dörröppnande. Spark",  
+  "position": [  
+    588,  
+    647  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "bland annat kan ställas på sjukhus",  
+  "context": "ande till dörrautomatiken. ### **För tuffa krav** **...OCH** Prisma Button är utvecklad för att möta de krav på hygien s**om bland annat kan ställas på sjukhus.** Släta ytor och avsaknaden av rörliga delar motverkar bakterieansamlingar. Tillverkad av aluminium och polyamid. **TUFFA",  
+  "position": [  
+    961,  
+    999  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gör livet enklare för personal inom vården",  
+  "context": "lingar. Tillverkad av aluminium och polyamid. **TUFFA MILJÖER** #### **Nurse Bed** Prisma Button innehåller funktioner s**om gör livet enklare för personal inom vården.** De dubbla reläerna skapar möjligheter som Nurse Bed-öppningar, för att man ska kunna öppna dörrarna på olika sätt. Inst",  
+  "position": [  
+    1186,  
+    1232  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "Nurse Bed-öppningar för att man ska kunna öppna dörrarna på olika sätt",  
+  "context": "sma Button innehåller funktioner som gör livet enklare för personal inom vården. De dubbla reläerna skapar möjligheter s**om Nurse Bed-öppningar, för att man ska kunna öppna dörrarna på olika sätt.** Inställningarna görs enkelt på plats med DIP-switchar på armbågskontakten. ![](images/_page_2_Picture_0.jpeg) ![](images/_page_2_Pict",  
+  "position": [  
+    1272,  
+    1347  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "infinner sig när man ser en dörröppnare på vägen genom livet",  
+  "context": "page_2_Picture_1.jpeg) # **TILLSLAGSFÖRDRÖJNING FÖRHINDRAR BUS** #### **Frestande** Alla vet. En del minns. Frestelsen s**om infinner sig när man ser en dörröppnare på vägen genom livet.** Ett tryck, när man passerar, fast man inte behöver. Prisma Button kan när som helst anpassas efter busigheten i omgivni",  
+  "position": [  
+    1576,  
+    1640  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "helst anpassas efter busigheten i omgivningen",  
+  "context": "man ser en dörröppnare på vägen genom livet. Ett tryck, när man passerar, fast man inte behöver. Prisma Button kan när s**om helst anpassas efter busigheten i omgivningen.** Under chassit finns små strömbrytare, DIP-switchar, som enkelt bestämmer hur lång fördröjning som ska gälla. #### **Så",  
+  "position": [  
+    1716,  
+    1765  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "enkelt bestämmer hur lång fördröjning som ska gälla",  
+  "context": "Button kan när som helst anpassas efter busigheten i omgivningen. Under chassit finns små strömbrytare, DIP-switchar, so**m enkelt bestämmer hur lång fördröjning som ska gälla. **#### **Så här fungerar det** När tillslagsfördröjning är inställd – 1.5, 3 eller 6 sekunder – så trycker du på frontpan",  
+  "position": [  
+    1819,  
+    1874  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "styrningen av Prisma Button är avsedd att utföra",  
+  "context": "len lite längre helt enkelt. När trycket motsvarar antalet inställda sekunder så öppnas dörren, ljuset tänds eller det s**om styrningen av Prisma Button är avsedd att utföra.** Ett bra sätt att förhindra onödig öppning som inte har ett syfte. #### **Vandalsäker** Om någon vill utöva våld på en P",  
+  "position": [  
+    2115,  
+    2167  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "inte har ett syfte",  
+  "context": "ljuset tänds eller det som styrningen av Prisma Button är avsedd att utföra. Ett bra sätt att förhindra onödig öppning s**om inte har ett syfte.** #### **Vandalsäker** Om någon vill utöva våld på en Prisma Button så lär man bli lite förvånad. Vår konstruktion håller",  
+  "position": [  
+    2211,  
+    2233  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "någon vill utöva våld på en Prisma Button så lär man bli lite förvånad",  
+  "context": "sma Button är avsedd att utföra. Ett bra sätt att förhindra onödig öppning som inte har ett syfte. #### **Vandalsäker** **Om någon vill utöva våld på en Prisma Button så lär man bli lite förvånad.** Vår konstruktion håller för kraftigt yttre våld. Prisma Button startar om, anpassar sig till eventuella bucklor, och fu",  
+  "position": [  
+    2255,  
+    2329  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "vanligt igen",  
+  "context": "ion håller för kraftigt yttre våld. Prisma Button startar om, anpassar sig till eventuella bucklor, och fungerar sedan s**om vanligt igen.** Detta gäller oavsett om den är inställd på \"Push\" – tryck – eller \"Kick\" – spark. #### **Push and Hold-dekal** Dekal so",  
+  "position": [  
+    2463,  
+    2479  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den är inställd på \"Push\" – tryck – eller \"Kick\" – spark",  
+  "context": "isma Button startar om, anpassar sig till eventuella bucklor, och fungerar sedan som vanligt igen. Detta gäller oavsett **om den är inställd på \"Push\" – tryck – eller \"Kick\" – spark.** #### **Push and Hold-dekal** Dekal som instruerar om tillslagsfördröjningen. Fästes på tryckfronten. ![](images/_page_2_Pictur",  
+  "position": [  
+    2501,  
+    2561  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "instruerar om tillslagsfördröjningen",  
+  "context": ". Detta gäller oavsett om den är inställd på \"Push\" – tryck – eller \"Kick\" – spark. #### **Push and Hold-dekal** Dekal s**om instruerar om tillslagsfördröjningen.** Fästes på tryckfronten. ![](images/_page_2_Picture_11.jpeg) ![](images/_page_3_Picture_1.jpeg) # **TILLGÄNGLIGHET FÖR ALLA** #### **T",  
+  "position": [  
+    2598,  
+    2638  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du har händerna fulla är du välkommen att sparka på Prisma Button för att aktivera dörrautomatiken",  
+  "context": "**TILLGÄNGLIGHET FÖR ALLA** #### **Tryck, sparka eller kör på den** Prisma Button tål hårda tag. Och registrerar lätta. **Om du har händerna fulla är du välkommen att sparka på Prisma Button, för att aktivera dörrautomatiken.** Eller kör in i den. Man kan ha olika förutsättningar. Det kan vara permanenta förutsättningar, eller förutsättningar so",  
+  "position": [  
+    2842,  
+    2945  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skiljer sig för stunden",  
+  "context": ". Eller kör in i den. Man kan ha olika förutsättningar. Det kan vara permanenta förutsättningar, eller förutsättningar s**om skiljer sig för stunden.** Man kan sitta, man kan stå. Man kan vara lång, man kan vara kort. Man kan ha händerna fria, man kan ha händerna fulla.",  
+  "position": [  
+    3064,  
+    3091  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "bekräftar att du tryckt på armbågskontakten? Förutom att dörren öppnas givetvis",  
+  "context": "en. Prisma Button är tryckkänslig på hela den svartanodiserade aluminiumfronten. #### **Kvittens** Saknar du någonting s**om bekräftar att du tryckt på armbågskontakten? Förutom att dörren öppnas, givetvis.** Med en dip-switch på armbågskontaktens insida kan du enkelt slå på en kvittenston. Prisma Button kommer att svara med e",  
+  "position": [  
+    3531,  
+    3615  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "passar bäst för att få plats under kortläsaren på väggen",  
+  "context": "0 mm. Vill du täcka en större yta använder du den långa 1200 mm aktiveringslisten. Ibland är det mellanmodellen 800 mm s**om passar bäst för att få plats under kortläsaren på väggen.** Istället för flera installationer, som egentligen gör samma sak, räcker det med en Prisma Button. #### **Kontraster** P",  
+  "position": [  
+    4145,  
+    4205  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "egentligen gör samma sak räcker det med en Prisma Button",  
+  "context": "mellanmodellen 800 mm som passar bäst för att få plats under kortläsaren på väggen. Istället för flera installationer, s**om egentligen gör samma sak, räcker det med en Prisma Button.** #### **Kontraster** Prisma Button är designad för att skapa kontraster i sig själv. Den naturanodiserade ytterprofilen",  
+  "position": [  
+    4242,  
+    4303  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du vill",  
+  "context": "nen. Detta gör att du slipper krav på en kontrasterande bakgrund och kan designa miljön runt din armbågskontakt precis s**om du vill.** Kontrasten mellan ytterprofil och tryckfront har ett uppmätt värde av 0.8 NCS och skapar tillgänglighet genom att under",  
+  "position": [  
+    4647,  
+    4658  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att underlätta för personer med nedsatt syn att hitta dörröppnaren",  
+  "context": "som du vill. Kontrasten mellan ytterprofil och tryckfront har ett uppmätt värde av 0.8 NCS och skapar tillgänglighet gen**om att underlätta för personer med nedsatt syn att hitta dörröppnaren.** ## **ALTERNATIV MONTERING** ![](images/_page_5_Figure_2.jpeg) | | Standard<br>Tillval | Prisma Button<br>300 | Prisma Button<b",  
+  "position": [  
+    4766,  
+    4836  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att slå på kaffebryggaren",  
+  "context": "MA BUTTON SKA GÖRA FÖR DIG?** Prisma Button, inställd på \"Kick\", blev just överkörd - gav därför signal till kollegorna **om att slå på kaffebryggaren.** # **DÄRFÖR PRISMATIBRO** ## **KVALITÉ & SÄKERHET GARANTI 5 ÅR** Prisma Button använder samma trådtöjningsgivarteknik so",  
+  "position": [  
+    6460,  
+    6489  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "man finner i Prisma Daps övergångssignalen som också utvecklas och tillverkas av Prisma Tibro Sweden",  
+  "context": ". # **DÄRFÖR PRISMATIBRO** ## **KVALITÉ & SÄKERHET GARANTI 5 ÅR** Prisma Button använder samma trådtöjningsgivarteknik s**om man finner i Prisma Daps, övergångssignalen, som också utvecklas och tillverkas av Prisma Tibro, Sweden.** En pålitligt konstruktion och funktion som uppskattas särskilt mycket av våra slutkunder då reparationer och utbyten är",  
+  "position": [  
+    6608,  
+    6715  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppskattas särskilt mycket av våra slutkunder då reparationer och utbyten är ovanliga",  
+  "context": "övergångssignalen, som också utvecklas och tillverkas av Prisma Tibro, Sweden. En pålitligt konstruktion och funktion so**m uppskattas särskilt mycket av våra slutkunder då reparationer och utbyten är ovanliga. **Prisma Button sköter sin uppgift år efter år oavsett väder, vind och utsatthet. Chassi av aluminium, lock i polyamid, f",  
+  "position": [  
+    6756,  
+    6845  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att få visa Guds kärlek för varje enskild människa",  
+  "context": "gt ställda mål när det gäller att nå och hjälpa behövande i Sverige och runt omkring i världen. Bakgrunden är en önskan **om att få visa Guds kärlek för varje enskild människa.** Exempel på projekt: vattenrening, skolgång, brottsförebyggande åtgärder. I vår egen region är vi huvudsponsor för ett s",  
+  "position": [  
+    7973,  
+    8027  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kundsupport",  
+  "context": "hoven är stora och vi bidrar helhjärtat och gör skillnad. ISO 9001 garanterar hög kvalitet i såväl produkter, tjänster s**om kundsupport.** ![](images/_page_7_Picture_13.jpeg)",  
+  "position": [  
+    8299,  
+    8314  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "man ser en dörröppnare på vägen genom livet",  
+  "context": ".jpeg) # **TILLSLAGSFÖRDRÖJNING FÖRHINDRAR BUS** #### **Frestande** Alla vet. En del minns. Frestelsen som infinner sig **när man ser en dörröppnare på vägen genom livet.** Ett tryck, när man passerar, fast man inte behöver. Prisma Button kan när som helst anpassas efter busigheten i omgivni",  
+  "position": [  
+    1592,  
+    1640  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "man passerar fast man inte behöver",  
+  "context": "tande** Alla vet. En del minns. Frestelsen som infinner sig när man ser en dörröppnare på vägen genom livet. Ett tryck, **när man passerar, fast man inte behöver.** Prisma Button kan när som helst anpassas efter busigheten i omgivningen. Under chassit finns små strömbrytare, DIP-swit",  
+  "position": [  
+    1652,  
+    1692  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "som helst anpassas efter busigheten i omgivningen",  
+  "context": "när man ser en dörröppnare på vägen genom livet. Ett tryck, när man passerar, fast man inte behöver. Prisma Button kan n**är som helst anpassas efter busigheten i omgivningen. **Under chassit finns små strömbrytare, DIP-switchar, som enkelt bestämmer hur lång fördröjning som ska gälla. #### **Så",  
+  "position": [  
+    1711,  
+    1765  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tillslagsfördröjning är inställd – 1",  
+  "context": "s små strömbrytare, DIP-switchar, som enkelt bestämmer hur lång fördröjning som ska gälla. #### **Så här fungerar det** **När tillslagsfördröjning är inställd – 1.**5, 3 eller 6 sekunder – så trycker du på frontpanelen lite längre helt enkelt. När trycket motsvarar antalet inställda s",  
+  "position": [  
+    1904,  
+    1945  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "trycket motsvarar antalet inställda sekunder så öppnas dörren ljuset tänds eller det som styrningen av Prisma Button är avsedd att utföra",  
+  "context": "När tillslagsfördröjning är inställd – 1.5, 3 eller 6 sekunder – så trycker du på frontpanelen lite längre helt enkelt. **När trycket motsvarar antalet inställda sekunder så öppnas dörren, ljuset tänds eller det som styrningen av Prisma Button är avsedd att utföra.** Ett bra sätt att förhindra onödig öppning som inte har ett syfte. #### **Vandalsäker** Om någon vill utöva våld på en P",  
+  "position": [  
+    2024,  
+    2167  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det gäller att nå och hjälpa behövande i Sverige och runt omkring i världen",  
+  "context": "r, mätinstrument för motorer, LED gatubelysning. CSR, corporate social responsibility: PrismaTibro har högt ställda mål **när det gäller att nå och hjälpa behövande i Sverige och runt omkring i världen.** Bakgrunden är en önskan om att få visa Guds kärlek för varje enskild människa. Exempel på projekt: vattenrening, skolgå",  
+  "position": [  
+    7868,  
+    7948  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Prisma Button kan när som helst anpassas efter busigheten i omgivningen",  
+  "context": "telsen som infinner sig när man ser en dörröppnare på vägen genom livet. Ett tryck, när man passerar, fast man inte behö**ver. Prisma Button kan när som helst anpassas efter busigheten i omgivningen.** Under chassit finns små strömbrytare, DIP-switchar, som enkelt bestämmer hur lång fördröjning som ska gälla. #### **Så",  
+  "position": [  
+    1688,  
+    1765  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Den naturanodiserade ytterprofilen och den svartanodiserade tryckfronten av aluminium gör armbågskontakten synlig trots den stilrena designen",  
+  "context": "sak, räcker det med en Prisma Button. #### **Kontraster** Prisma Button är designad för att skapa kontraster i sig själv**. Den naturanodiserade ytterprofilen och den svartanodiserade tryckfronten av aluminium gör armbågskontakten synlig, trots den stilrena designen. **Detta gör att du slipper krav på en kontrasterande bakgrund och kan designa miljön runt din armbågskontakt precis som d",  
+  "position": [  
+    4385,  
+    4531  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Under chassit finns små strömbrytare DIP-switchar som enkelt bestämmer hur lång fördröjning som ska gälla",  
+  "context": "Ett tryck, när man passerar, fast man inte behöver. Prisma Button kan när som helst anpassas efter busigheten i omgivnin**gen. Under chassit finns små strömbrytare, DIP-switchar, som enkelt bestämmer hur lång fördröjning som ska gälla.** #### **Så här fungerar det** När tillslagsfördröjning är inställd – 1.5, 3 eller 6 sekunder – så trycker du på frontpan",  
+  "position": [  
+    1761,  
+    1874  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Detta gäller oavsett om den är inställd på \"Push\" – tryck – eller \"Kick\" – spark",  
+  "context": "ör kraftigt yttre våld. Prisma Button startar om, anpassar sig till eventuella bucklor, och fungerar sedan som vanligt i**gen. Detta gäller oavsett om den är inställd på \"Push\" – tryck – eller \"Kick\" – spark.** #### **Push and Hold-dekal** Dekal som instruerar om tillslagsfördröjningen. Fästes på tryckfronten. ![](images/_page_2_Pictur",  
+  "position": [  
+    2475,  
+    2561  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Fästes på tryckfronten",  
+  "context": "tälld på \"Push\" – tryck – eller \"Kick\" – spark. #### **Push and Hold-dekal** Dekal som instruerar om tillslagsfördröjnin**gen. Fästes på tryckfronten.** ![](images/_page_2_Picture_11.jpeg) ![](images/_page_3_Picture_1.jpeg) # **TILLGÄNGLIGHET FÖR ALLA** #### **Tryck, sparka eller kör p",  
+  "position": [  
+    2634,  
+    2662  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Och registrerar lätta",  
+  "context": "_page_3_Picture_1.jpeg) # **TILLGÄNGLIGHET FÖR ALLA** #### **Tryck, sparka eller kör på den** Prisma Button tål hårda ta**g. Och registrerar lätta.** Om du har händerna fulla är du välkommen att sparka på Prisma Button, för att aktivera dörrautomatiken. Eller kör in i",  
+  "position": [  
+    2816,  
+    2841  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Istället för flera installationer som egentligen gör samma sak räcker det med en Prisma Button",  
+  "context": "1200 mm aktiveringslisten. Ibland är det mellanmodellen 800 mm som passar bäst för att få plats under kortläsaren på väg**gen. Istället för flera installationer, som egentligen gör samma sak, räcker det med en Prisma Button.** #### **Kontraster** Prisma Button är designad för att skapa kontraster i sig själv. Den naturanodiserade ytterprofilen",  
+  "position": [  
+    4201,  
+    4303  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Prisma Button fyller sin funktion dygnet runt året runt år efter år",  
+  "context": "isma Button är vandalsäkra och näst intill omöjliga att förstöra. Prisma Button från Prisma Tibro är en säker investerin**g. Prisma Button fyller sin funktion dygnet runt, året runt, år efter år.** ## **30 ÅRS ERFARENHET** ## **GLOBALT OCH LOKALT** I dagsläget levereras Prisma Button till de nordiska länderna. Prism",  
+  "position": [  
+    7119,  
+    7192  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "CSR corporate social responsibility PrismaTibro har högt ställda mål när det gäller att nå och hjälpa behövande i Sverige och runt omkring i världen",  
+  "context": "18 i Addtech-koncernen. Produktområden: övergångssignaler, armbågskontakter, mätinstrument för motorer, LED gatubelysnin**g. CSR, corporate social responsibility: PrismaTibro har högt ställda mål när det gäller att nå och hjälpa behövande i Sverige och runt omkring i världen.** Bakgrunden är en önskan om att få visa Guds kärlek för varje enskild människa. Exempel på projekt: vattenrening, skolgå",  
+  "position": [  
+    7794,  
+    7948  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152712"  
+}
+

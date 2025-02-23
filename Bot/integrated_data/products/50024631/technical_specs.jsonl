@@ -1,0 +1,66 @@
+{  
+  "name": "Storlek",  
+  "raw_value": "| 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "g | | Vikt med batteri (18 Ah): | Ca 8 kg | | Storlek: | 230 x 300 x 100 mm (B x H x D) | PSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+  "pattern": "(?i)storlek\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 4,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024631"  
+}
+
+{  
+  "name": "Batterityp",  
+  "raw_value": "| 12 V, 18 Ah batteri                                          |\n| Laddningsmetod batteri: | Konstant ström – begränsad spänning                          |\n| Maximal batteriladdningsström: | 0,25 A                                                       |\n| Tid för återuppladdning av 18 Ah batteri till 80%: | Max 58 timmar                                                |\n| Batterispänning som aktiverar APS fel: | 11 V                                                         |\n| Batterispänning som aktiverar DDP krets: | 10 V                                                         |\n| Utspänning som aktiverar OUT fel: | 9 V                                                          |\n| Övervakningsutgångar: | EPS – Nätspänningsfel                                        |\n|                                                      | APS – Batteri låg spänning, batterifel                       |\n|                                                      | OUT – Utspänning låg, Nätdelsfel                             |\n|                                                      | SAB – Kapslingssabotage                                      |\n| Elektriska data på statusutgångar: | - Optoisolerade halvledarreläer för EPS, APS, OUT            |\n|                                                      | - Microswitch för sabotage                                   |\n| Logiska data på statusutgångar: | Sluten – inget fel (OK)                                      |\n|                                                      | Öppen – fel (LARM)                                           |\n| Ingång för fjärrstyrd batteritest: | -RBD* - slutning mellan (-) och (*) aktiverar 30 sek test av |\n|                                                      | intern batteriresistans                                      |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                   |\n| Lokal batteritest: | LBD bygel, tillfällig bygling                                |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                         |\n| Arbetstemperatur och luftfuktighet: | +5ºC…+40ºC, RH till 90 %, ingen kondensering                 |\n| Miljöklass enligt EN 50130-5:1998: | Klass I                                                      |\n| Vikt utan batteri: | Ca 2,5 kg                                                    |\n| Vikt med batteri (18 Ah): | Ca 8 kg                                                      |\n| Storlek: | 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+  "category": "ELECTRICAL",  
+  "unit": "V",  
+  "value": {  
+    "raw_value": "| 12 V, 18 Ah batteri                                          |\n| Laddningsmetod batteri: | Konstant ström – begränsad spänning                          |\n| Maximal batteriladdningsström: | 0,25 A                                                       |\n| Tid för återuppladdning av 18 Ah batteri till 80%: | Max 58 timmar                                                |\n| Batterispänning som aktiverar APS fel: | 11 V                                                         |\n| Batterispänning som aktiverar DDP krets: | 10 V                                                         |\n| Utspänning som aktiverar OUT fel: | 9 V                                                          |\n| Övervakningsutgångar: | EPS – Nätspänningsfel                                        |\n|                                                      | APS – Batteri låg spänning, batterifel                       |\n|                                                      | OUT – Utspänning låg, Nätdelsfel                             |\n|                                                      | SAB – Kapslingssabotage                                      |\n| Elektriska data på statusutgångar: | - Optoisolerade halvledarreläer för EPS, APS, OUT            |\n|                                                      | - Microswitch för sabotage                                   |\n| Logiska data på statusutgångar: | Sluten – inget fel (OK)                                      |\n|                                                      | Öppen – fel (LARM)                                           |\n| Ingång för fjärrstyrd batteritest: | -RBD* - slutning mellan (-) och (*) aktiverar 30 sek test av |\n|                                                      | intern batteriresistans                                      |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                   |\n| Lokal batteritest: | LBD bygel, tillfällig bygling                                |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                         |\n| Arbetstemperatur och luftfuktighet: | +5ºC…+40ºC, RH till 90 %, ingen kondensering                 |\n| Miljöklass enligt EN 50130-5:1998: | Klass I                                                      |\n| Vikt utan batteri: | Ca 2,5 kg                                                    |\n| Vikt med batteri (18 Ah): | Ca 8 kg                                                      |\n| Storlek: | 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+    "unit": "V",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Maximalt utspänningsrippel Vpp: | <5% av nominell utspänning | | Batterityp: | 12 V, 18 Ah batteri | | Laddningsmetod batteri: | Konstant ström – begränsad spänning | | Maximal batteriladdningsstr...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024631"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "| EPS – Nätspänningsfel                                        |\n|                                                      | APS – Batteri låg spänning, batterifel                       |\n|                                                      | OUT – Utspänning låg, Nätdelsfel                             |\n|                                                      | SAB – Kapslingssabotage                                      |\n| Elektriska data på statusutgångar: | - Optoisolerade halvledarreläer för EPS, APS, OUT            |\n|                                                      | - Microswitch för sabotage                                   |\n| Logiska data på statusutgångar: | Sluten – inget fel (OK)                                      |\n|                                                      | Öppen – fel (LARM)                                           |\n| Ingång för fjärrstyrd batteritest: | -RBD* - slutning mellan (-) och (*) aktiverar 30 sek test av |\n|                                                      | intern batteriresistans                                      |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                   |\n| Lokal batteritest: | LBD bygel, tillfällig bygling                                |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                         |\n| Arbetstemperatur och luftfuktighet: | +5ºC…+40ºC, RH till 90 %, ingen kondensering                 |\n| Miljöklass enligt EN 50130-5:1998: | Klass I                                                      |\n| Vikt utan batteri: | Ca 2,5 kg                                                    |\n| Vikt med batteri (18 Ah): | Ca 8 kg                                                      |\n| Storlek: | 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+  "category": "CONNECTION",  
+  "unit": "sek",  
+  "value": {  
+    "raw_value": "| EPS – Nätspänningsfel                                        |\n|                                                      | APS – Batteri låg spänning, batterifel                       |\n|                                                      | OUT – Utspänning låg, Nätdelsfel                             |\n|                                                      | SAB – Kapslingssabotage                                      |\n| Elektriska data på statusutgångar: | - Optoisolerade halvledarreläer för EPS, APS, OUT            |\n|                                                      | - Microswitch för sabotage                                   |\n| Logiska data på statusutgångar: | Sluten – inget fel (OK)                                      |\n|                                                      | Öppen – fel (LARM)                                           |\n| Ingång för fjärrstyrd batteritest: | -RBD* - slutning mellan (-) och (*) aktiverar 30 sek test av |\n|                                                      | intern batteriresistans                                      |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                   |\n| Lokal batteritest: | LBD bygel, tillfällig bygling                                |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                         |\n| Arbetstemperatur och luftfuktighet: | +5ºC…+40ºC, RH till 90 %, ingen kondensering                 |\n| Miljöklass enligt EN 50130-5:1998: | Klass I                                                      |\n| Vikt utan batteri: | Ca 2,5 kg                                                    |\n| Vikt med batteri (18 Ah): | Ca 8 kg                                                      |\n| Storlek: | 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+    "unit": "sek",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Utspänning som aktiverar OUT fel: | 9 V | | Övervakningsutgångar: | EPS – Nätspänningsfel | | | APS – Batteri låg spänning, batterifel | | | OUT – Utspänning låg, Nätdelsfel | | | SAB – Kapslingss...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50024631"  
+}
+

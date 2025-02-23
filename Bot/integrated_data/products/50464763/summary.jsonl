@@ -1,0 +1,116 @@
+{  
+  "product_id": "50464763",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Figure_0.jpeg)\n\n![](images/_page_0_Picture_1.jpeg)\n\n# ECO\n\nECO 12V 5A S, ECO 24V 3A S, ECO 12V 10A M, ECO 24V 5A M, ECO 24V 10A M\n\n351-087 - Bruksanvisning i original, Operating instructions, Bruksanvisning, Käyttöohjeet Publiceringsdatum 2023-03-07 Copyright © 2023 Milleteknik AB\n\n| 1. Om  4                                                             |  |\n|----------------------------------------------------------------------|--|\n| 1.1. Se installationsfilm  4                                         |  |\n| 1.2.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimensions",  
+      "value": "55",  
+      "unit": null  
+    },  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Höjd",  
+      "value": "230",  
+      "unit": null  
+    },  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC Direktivet 2014/30EU           |\n|------|------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU |\n| CE: | CE direktivet enligt:765/2008      |\n\n## 8",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC-direktivet 2014/30EU           |  |\n|------|------------------------------------|--|\n| El: | Lavspenningsdirektivet: 2014/35/EU |  |\n| CE: | CE-direktivet ifølge: 765/2008     |  |\n\n## 8",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "outputs",  
+      "value": "Sum alarm in case of fuse fault, see indication below",  
+      "unit": null  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE direktivet enligt:765/2008      |\n\n## 8",  
+      "unit": null  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE directive according to: 765/2008 |  |  |\n\n## 8",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "fast installation",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "more information you should firstly turn to retailers who will also be able to answer questions about warranty and support",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "help with installation or connections? Our support phone is available Monday-Thursday 08 00-16 00 and Fridays 08 00-15 00",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "to be replaced after 2-3 years",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "the wall to mount the cabinet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "the wall to set up the cabinet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "res- och eller arbetstid i samband med lokalisering av fel installerande av reparerad eller utbytt vara ingår ej i garantin",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "4 | | |----------------------------------------------------------------------|--| | 1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "detta dokuments utgåva 5 | | | 2",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "visas på skåplucka / indikeringsdiod 14 | | | 8",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "5785143875090"  
+    ],  
+    "Artikelnummer": [  
+      "erably",  
+      "kabel",  
+      "icles",  
+      "ikelben",  
+      "ikelnamn",  
+      "ikkelnavn"  
+    ]  
+  }  
+}
+

@@ -1,0 +1,129 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "RELAY CARD NOVA SERIES (PRO3) Med 4 st",  
+  "context": "## **OM RELAY CARD NOVA SERIES (PRO3) Med 4 st.** reläutgångar för system som levererats med PRO3-moderkort. # TEKNISKA DATA, RELAY CARD NOVA SERIES (PRO3/NEO3) | Info |",  
+  "position": [  
+    3,  
+    45  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464438"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "levererats med PRO3-moderkort",  
+  "context": "## OM RELAY CARD NOVA SERIES (PRO3) Med 4 st. reläutgångar för system s**om levererats med PRO3-moderkort.** # TEKNISKA DATA, RELAY CARD NOVA SERIES (PRO3/NEO3) | Info | Förklaring | |-------------------------------|------------",  
+  "position": [  
+    71,  
+    104  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464438"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 1",  
+  "context": "--------------------------------------------------------------------------------------| | Kortnamn: | PRO3 larmkort | | **Version: | 1.**2 | | Produktbeskrivning | Larmkort för PRO3 eller NEO 3 med larm på växlande relä. Alla reläer är normalt spänningssat<",  
+  "position": [  
+    528,  
+    541  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464438"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 1",  
+  "context": "---------------------------------------------------------------------------------------------| | Card name: | PRO 3 | | **Version: | 1.**2 | | Product description | Motherboard in battery backup with advanced functions and communication to<br>superior syste",  
+  "position": [  
+    4827,  
+    4840  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464438"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "5 | | Certifikatsnummer (SBSC) | 20-117 | | Produkten möter kraven enligt | CE direktivet enligt 765/2008 EMC Direktiv 2014/30EU Emission EN61000-6-2001<br>EN550221998-A12000 A22003 Klass B EN61000-3-22001 Immunity EN61000-6-22005<br>EN61000-4-2 -3 4 -5 -6 -11",  
+  "context": "| Antal larmutgångar | 4 st. | | Certifierad enligt | EN 50131-6, SBF 110:8, SSF1014, Uppfyller larmklass 4, SSF 1014, u**tgåva 5 | | Certifikatsnummer (SBSC) | 20-117 | | Produkten möter kraven enligt | CE direktivet enligt: 765/2008, EMC Direktiv 2014/30EU, Emission: EN61000-6-:2001,<br>EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001, Immunity: EN61000-6-2:2005,<br>EN61000-4-2, -3, 4, -5, -6, -11. **SS-EN 50 130-4:2011 Edition 2 & SSF1014 Larmklass 1-4<br>(Inbrottslarm). | | Producent | Milleteknik AB | | Ursprungsla",  
+  "position": [  
+    1089,  
+    1379  
+  ],  
+  "pattern_index": 131,  
+  "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "61000",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001",  
+    "61000",  
+    "22005",  
+    "61000"  
+  ],  
+  "product_id": "50464438"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 & SSF1014 Larmklass 1-4<br>(Inbrottslarm)",  
+  "context": "A2:2003 Klass B, EN61000-3-2:2001, Immunity: EN61000-6-2:2005,<br>EN61000-4-2, -3, 4, -5, -6, -11. SS-EN 50 130-4:2011 E**dition 2 & SSF1014 Larmklass 1-4<br>(Inbrottslarm). **| | Producent | Milleteknik AB | | Ursprungsland | Sverige | Tillverkad i Milletekniks fabrik i Partille, Sverige. ###",  
+  "position": [  
+    1400,  
+    1452  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464438"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "5 | | Certificate number (SBSC) | 20-117 | | The product meets the requirements ac<br>cording to | CE directive according to 765/2008 EMC Directive 2014 / 30EU Emission<br>EN61000-6- 2001 EN55022 1998 -A1 2000 A2 2003 Class B EN61000-3-2<br>2001 Immunity EN61000- 6-2 2005 EN61000-4-2 -3 4 -5 -6 -11",  
+  "context": "r of alarm outputs | 4 pcs | | Certified according to | EN 50131-6, SBF 110: 8, SSF1014, Meets alarm class 4, SSF 1014, **edition 5 | | Certificate number (SBSC) | 20-117 | | The product meets the requirements ac<br>cording to | CE directive according to: 765/2008, EMC Directive 2014 / 30EU, Emission:<br>EN61000-6-: 2001, EN55022: 1998: -A1: 2000, A2: 2003 Class B, EN61000-3-2:<br>2001, Immunity: EN61000- 6-2: 2005, EN61000-4-2, -3, 4, -5, -6, -11.** SS-EN 50<br>130-4: 2011 Edition 2 & SSF1014 Alarm class 1-4 (Burglar alarm). | | Producer | Milleteknik AB | | Country",  
+  "position": [  
+    5373,  
+    5703  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "61000",  
+    "55022",  
+    "61000",  
+    "61000",  
+    "61000"  
+  ],  
+  "product_id": "50464438"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 & SSF1014 Alarm class 1-4 (Burglar alarm)",  
+  "context": "3 Class B, EN61000-3-2:<br>2001, Immunity: EN61000- 6-2: 2005, EN61000-4-2, -3, 4, -5, -6, -11. SS-EN 50<br>130-4: 2011 **Edition 2 & SSF1014 Alarm class 1-4 (Burglar alarm).** | | Producer | Milleteknik AB | | Country of origin | Sweden | Manufactured in Milleteknik's factory in Partille, Swede",  
+  "position": [  
+    5728,  
+    5780  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464438"  
+}
+

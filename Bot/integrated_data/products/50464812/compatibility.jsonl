@@ -1,0 +1,84 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "our suppliers and external verifications we can confirm that we comply with the latest European requirements for REACH Regulation (EC) No 1907/2006 RoHS Directive 2011/65/EU ( RoHS II) and (EU)2015/863 (RoHS III)",  
+  "context": "SVHC's can be found here: <https://echa.europa.eu/en/candidate-list-table> Based on the recent data we have received fro**m our suppliers and external verifications we can confirm that we comply with the latest European requirements for REACH Regulation (EC) No 1907/2006, RoHS Directive 2011/65/EU ( RoHS II) and (EU)2015/863 (RoHS III). **Products sold by Milleteknik AB where the concentrations of SVHC's listed in the candidate list exceed the maximum leve",  
+  "position": [  
+    839,  
+    1056  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464812"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the REACH directive since the installation and use of the products makes it difficult for children up to 3 years of age to reach or ingest the products",  
+  "context": "es 3 and 36 months who exhibit \"mouthing behavior\". The majority of Milleteknik Products containing lead are exempted fr**om the REACH directive since the installation and use of the products makes it difficult for children up to 3 years of age to reach or ingest the products.** The products are therefore safe to use, and complies with the latest REACH directive. Lead is also one of the restricte",  
+  "position": [  
+    1476,  
+    1631  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464812"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "RoHS directive in Annex III 6(a) 6(b) and 6(c) due to the difficulty to find suitable alternative materials or manufacturing methods at this point in time",  
+  "context": "oncentrations exceed the maximum levels are products that contain electronic components. These materials are exempted fr**om RoHS directive in Annex III, 6(a), 6(b) and 6(c) due to the difficulty to find suitable alternative materials or manufacturing methods at this point in time.** The products are therefore RoHS compliant. Milleteknik AB committed to complying with existing and emerging environment",  
+  "position": [  
+    1949,  
+    2109  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464812"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of the REACH Candidate list of SVHC's can be found here <https//echa",  
+  "context": "candidate list for Substances of Very High Concern (SVHC), and the 10 substances listed in RoHS II and III. The latest v**ersion of the REACH Candidate list of SVHC's can be found here: <https://echa.e**uropa.eu/en/candidate-list-table> Based on the recent data we have received from our suppliers and external verificatio",  
+  "position": [  
+    681,  
+    760  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464812"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Product Description | Concentration >0",  
+  "context": "needs. Feel free to contact us for further information at info@milleteknik.se Elias Bylund Product specialist | Product **type | Product Description | Concentration >0.**1% w/w | SCIP refercnce number | |----------------|--------------------------------------|------------------------------",  
+  "position": [  
+    2445,  
+    2491  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464812"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Product Description | Concentration >0",  
+  "context": "USF Lead Acid<br>Battery | Lead 7439-92-1 (contained in<br>battery) | 0f8abe71-4ea2-4622-879d-68497a8b12d5 | | Product t**ype | Product Description | Concentration >0.1**% w/w | SCIP refercnce number | |----------------|------------------------------------|--------------------------------",  
+  "position": [  
+    3484,  
+    3530  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464812"  
+}
+

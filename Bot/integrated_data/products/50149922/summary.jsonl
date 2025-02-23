@@ -1,0 +1,27 @@
+{  
+  "product_id": "50149922",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## DATA SHEET\n\n| NO MERCURY ADDED   |                                                                                                                                                 |  |  |  |\n|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|\n| Description        | : Mercury & Cadmium Free Alkaline<br>Manganese Battery, AA Size                                                                                 |  |  |  |\n| Chemical System    | : Alkaline Manganese                                                                                                                            |  |  |  |\n| Nominal Voltage    | : 1.5 Volts                                                                                                                                     |  |  |  |\n| Nominal Dimensions | : Ø14.5 mm x 50.5 mm                                                                                                                            |  |  |  |\n| Terminals          | : Protruded positive(+) and flat negative(-)<br>contacts                                                                                        |  |  |  |\n| Jacket             | : Foil jacket                                                                                                                                   |  |  |  |\n| Applications       |. All electronic devices, e.g. toys, photographic<br>equipment, data banks, calculators, audio<br>appliances, remote controls, paging machines.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimensions",  
+      "value": "14.5",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "toys photographic<br>equipment data banks calculators audio<br>appliances remote controls paging machines",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erences"  
+    ]  
+  }  
+}
+

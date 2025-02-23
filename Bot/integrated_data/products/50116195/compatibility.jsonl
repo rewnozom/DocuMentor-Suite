@@ -1,0 +1,28 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "kontinuerlig underhållsladdning exempelvis inbrottslarms- och brandlarmscentraler ![](images/_page_0_Picture_6",  
+  "context": "oduktblad ![](images/_page_0_Picture_1.jpeg) # BS121N Underhållsfri ackumulator 1,2 Ah ### BS121N Underhållsfri blyackumulator **lämplig för kontinuerlig underhållsladdning, exempelvis inbrottslarms- och brandlarmscentraler ![](images/_page_0_Picture_6.**jpeg) #### Standardprestanda - EUnderhållsfritt - E Lång livslängd - ETemperaturokänslig - EUppladdningsbart - ELäckagef",  
+  "position": [  
+    125,  
+    242  
+  ],  
+  "pattern_index": 10,  
+  "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50116195"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "kontinuerlig underhållsladdning exempelvis inbrottslarms- och brandlarmscentraler ![](images/_page_0_Picture_6",  
+  "context": "oduktblad ![](images/_page_0_Picture_1.jpeg) # BS121N Underhållsfri ackumulator 1,2 Ah ### BS121N Underhållsfri blyackumulator **lämplig för kontinuerlig underhållsladdning, exempelvis inbrottslarms- och brandlarmscentraler ![](images/_page_0_Picture_6.**jpeg) #### Standardprestanda - EUnderhållsfritt - E Lång livslängd - ETemperaturokänslig - EUppladdningsbart - ELäckagef",  
+  "position": [  
+    125,  
+    242  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50116195"  
+}
+

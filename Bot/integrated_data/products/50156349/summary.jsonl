@@ -1,0 +1,99 @@
+{  
+  "product_id": "50156349",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| PoE switch 4p FLX M+",  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## PoE switch 4p FLX M+\n\n![](images/_page_0_Picture_3.jpeg)\n\n- √ Enkel och pålitlig batteribackup med inbyggd 4 portars PoE switch\n- √ Kan byggas ut med ytterligare 2x 4 PoE portar, totalt maximalt 12 portar\n- √ 2 LAN switch IN, 4 PoE port UT\n- √ PoE Budget: 320W / Max 30,8W per port\n- √ Väggmontage eller 19\" rack montage\n- √ Rymmer upp till 4x 14Ah batteri\n\nPoE FLX M används huvudsakligen i säkerhetssystem där en enkel och pålitlig strömförsörjning med batteribackup & PoE funktion behövs. PoE FLX M erbjuder CONTROLLED CHARGING vilket innebär att batterierna aldrig laddas med mer än 30% av dess märkkapacitet, vilket förhindrar att batterierna överladdas och förlänger deras livslängd betydligt. PoE FLX M kan användas både med AGM-batterier och Lithium LiFePO4-batterier.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "batterityp",  
+      "value": "| 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4                                                                                                                                                                                     |  |  |  |  |  |\n| Möjliga batterier för montering i kapsling: | 4 st",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Skyddsklass",  
+      "value": "20",  
+      "unit": "%"  
+    },  
+    {  
+      "category": "COLOR",  
+      "name": "färg",  
+      "value": "| Svart                                                                                                                                                                                                                                           |  |  |  |  |  |\n| Inbyggd fläkt för kylning: | Ja                                                                                                                                                                                                                                              |  |  |  |  |  |\n| Förberedd för utbyggnad av fler PoE switchar: | Ja, ytterligare 4x LAN & 8 PoE portar kan erhållas via tillvalet PoE switch 4p expansion kit",  
+      "unit": "x"  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "nätverksport",  
+      "value": "| 10 / 100 PoE+                                                                                                                                                                                                                                   |  |  |  |  |  |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |  |  |  |  |  |\n| Stöd för standard enligt: | IEEE 802",  
+      "unit": "PoE"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| 1 st",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "personen som utför installationen av till exempel passerystemet ej är en behörig elektriker men ändå vill kunna prova av systemet innan behörig elektriker utför en fast installation",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "INBYGGD POE SWITCH | | | | | | | | Antal LAN / PoE portar | 2 st",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| F6A | | | | | | | Djupurladdning av batterier sker vid | 41 VDC | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | Larmfunktioner (1 utgång) | Fördröjt nätavbrottslarm / eller låg batterispänning bortkopplade batterier (vid uppstart) säkringsfel | | | | | | | Larm via | Växlande relä | | | | | | | ARTIKEL INFORMATION | | | | | | | | Artikelnamn | PoE switch 4p FLX M+ | | | | | | | Artikelnummer | FM01C10048P05004PU | | | | | | | E-nummer | 5171953 | | | | | | | Produkten möter kraven enligt | CE direktivet enligt765/2008 EMC Direktiv 2014/30EU Emission EN61000-6-2001 EN550221998-A12000 A22003 Klass B<br>EN61000-3-22001 Immunity EN61000-6-22005 EN61000-4-2 -3 4 -5 -6 -11 Lågspännings direktivet 2014/35/EU | | | | | | | Garantiperiod | 2 år | | | | | | | Designad och producerad av | Milleteknik AB | | | | | | | Ursprungsland | Sverige | | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER | | | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapsling | 4 st",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "10048",  
+        "05004",  
+        "5171953",  
+        "61000",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001",  
+        "61000",  
+        "22005",  
+        "61000"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "av säkring på utgång | F6A | | | | | | | Djupurladdning av batterier sker vid | 41 VDC | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | Larmfunktioner (1 utgång) | Fördröjt nätavbrottslarm / eller låg batterispänning bortkopplade batterier (vid uppstart) säkringsfel | | | | | | | Larm via | Växlande relä | | | | | | | ARTIKEL INFORMATION | | | | | | | | Artikelnamn | PoE switch 4p FLX M+ | | | | | | | Artikelnummer | FM01C10048P05004PU | | | | | | | E-nummer | 5171953 | | | | | | | Produkten möter kraven enligt | CE direktivet enligt765/2008 EMC Direktiv 2014/30EU Emission EN61000-6-2001 EN550221998-A12000 A22003 Klass B<br>EN61000-3-22001 Immunity EN61000-6-22005 EN61000-4-2 -3 4 -5 -6 -11 Lågspännings direktivet 2014/35/EU | | | | | | | Garantiperiod | 2 år | | | | | | | Designad och producerad av | Milleteknik AB | | | | | | | Ursprungsland | Sverige | | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER | | | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapsling | 4 st",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "10048",  
+        "05004",  
+        "5171953",  
+        "61000",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001",  
+        "61000",  
+        "22005",  
+        "61000"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "2021-06_V01 ## PoE switch med batteribackup Teknisk data | | PoE switch 4p FLX M+ | | | | | | |------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|--| | INFORMATION GÄLLANDE KAPSLING | | | | | | | | Rekommenderad miljö / Skyddsklass | Miljöklass 1 Inomhus 20% ~ 90% relativ fuktighet / IP32 | | | | | | | Omgivningstemperatur | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | | Rekommenderad montering | Vägg alt",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnamn",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

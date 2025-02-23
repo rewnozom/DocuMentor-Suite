@@ -1,0 +1,110 @@
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC Direktivet 2014/30EU                                  |\n|------|-----------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                        |\n| PoE: | IEEE 802",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC Direktivet 2014/30EU                                  |\n|------|-----------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                        |\n| PoE: | IEEE 802",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": ", miljöklass 1, omgivningstemperatur: +5°C – 40°C. Rekommenderad omgivningstemperatur är +15°C - 25°C. #### 14.1.16. Krav som produkten uppfyller | EM**C: | EMC Direktivet 2014/30EU | |------|--------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464771"  
+}
+
+{  
+  "name": "IP address",  
+  "raw_value": "|                        |\n| IP address: | 192 ",  
+  "category": "NETWORK",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "|                        |\n| IP address: | 192 ",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | · Use the following IP address: | | | IP address: | 192 . 168 . 2 . 33 | | Subnet mask: | 255 . 255 . 255<br>0 | | Default gateway: | | | Obtain DNS server address automatically",  
+  "pattern": "(?i)(?:IP-adress|IP address)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 141,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464771"  
+}
+
+{  
+  "name": "gateway",  
+  "raw_value": "|                        |\n| Obtain DNS server address automatically                                                                                                                                               |                        |\n| · Use the following DNS server addresses: |                        |\n| Preferred DNS server: | ",  
+  "category": "NETWORK",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "|                        |\n| Obtain DNS server address automatically                                                                                                                                               |                        |\n| · Use the following DNS server addresses: |                        |\n| Preferred DNS server: | ",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Use the following IP address: | | | IP address: | 192 . 168 . 2 . 33 | | Subnet mask: | 255 . 255 . 255<br>0 | | Default gateway: | | | Obtain DNS server address automatically | | | · Use the followin...",  
+  "pattern": "(?i)(?:gateway|gateway)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 142,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464771"  
+}
+
+{  
+  "name": "Subnet mask",  
+  "raw_value": "| 255 ",  
+  "category": "NETWORK",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| 255 ",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | · Use the following IP address: | | | IP address: | 192 . 168 . 2 . 33 | | Subnet mask: | 255 . 255 . 255<br>0 | | Default gateway: | | | Obtain** DNS server address** automatically",  
+  "pattern": "(?i)(?:nätmask|subnet mask)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 143,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464771"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE direktivet enligt:765/2008                             |\n\n#### 14",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| CE direktivet enligt:765/2008                             |\n\n#### 14",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "---------| | El: | Lågspänningsdirektivet: 2014/35/EU | | PoE: | IEEE 802.3af, IEEE 802.3at/30,8 W upp till typ2, klass 4. | | CE: | CE direktivet enl**igt:765/2008 | #### 14.1.17. Garanti Produkten h...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464771"  
+}
+

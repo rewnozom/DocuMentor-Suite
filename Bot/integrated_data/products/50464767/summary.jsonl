@@ -1,0 +1,107 @@
+{  
+  "product_id": "50464767",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\nSV\n\n![](images/_page_0_Picture_1.jpeg)\n\n# SINUS UPS\n\nSIN UPS 600W FLX L\n\n350-211 Publiceringsdatum 2023-03-09\n\n| 1. Om Sinus UPS från Milleteknik  4                                                  |  |\n|--------------------------------------------------------------------------------------|--|\n| 2. Komponentöversikt SINUS FLX L  5                                                  |  |\n| 3.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Höjd",  
+      "value": "444",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "spänning",  
+      "value": "230",  
+      "unit": null  
+    },  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC Direktivet 2014/30EU                                                 |\n|-----------|--------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                       |\n|           | EN 62368-1                                                               |\n| CE: | CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11                        |\n\n### 14",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11                        |\n\n### 14",  
+      "unit": "EN"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "fast installation",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "NÖDLJUSSTYRNING** Tändfas saknas",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "bytas | | Rött fast sken | Över- underspänning | Fel på spänning | | Röda blink | UPS FEL | Övertemperatur överström eller feedbackfel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 0800-1600 och fredagar 0800-1500",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "matningen från elnätet vid nätavbrott tills elnätet återkommer (eller batterierna helt urladdats)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "matningen från elnätet vid nätavbrott tills elnätet återkommer (eller batterierna helt urladdats)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "elnätets sinusspänning med en strömbegränsad sinusspänning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "produkten uppfyller | EMC | EMC Direktivet 2014/30EU | |-----------|--------------------------------------------------------------------------| | El | Lågspänningsdirektivet 2014/35/EU | | | EN 62368-1 | | CE | CE direktivet enligt765/2008 | | Emission | EN61000-6-2001 EN550221998-A12000 A22003 Klass B EN61000-3-22001 | | Immunity | EN61000-6-22005 EN61000-4-2 -3 4 -5 -6 -11 | ### 14",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "62368",  
+        "61000",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001",  
+        "61000",  
+        "22005",  
+        "61000"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "5 sek vid kraftig överlast/kortslutning enligt UPS EN62040-1-1standard",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "62040"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "Sinus UPS från Milleteknik 4 | | |--------------------------------------------------------------------------------------|--| | 2",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "effekt",  
+      "minus",  
+      "ikelben",  
+      "ikelnamn"  
+    ]  
+  }  
+}
+

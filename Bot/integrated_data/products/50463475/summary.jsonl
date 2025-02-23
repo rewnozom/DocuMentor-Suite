@@ -1,0 +1,58 @@
+{  
+  "product_id": "50463475",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Strömförsörjningsaggregat anpassad för drift av brandlarmsutrustning med display. Certifierad av tredje part enl. EN54-4 och EN 12101-10. Primärswitch teknik som är högeffektiv och är strömsnål och har mycket stabil utspänning. Mycket låg egenförbrukningen vid batteridrift. Har display för volt, ampere och batteristatus. Programmerbar fördröjning av nätlarm. Plats för tillbehör, ex. larmdonskort och för nätverkskort\n\nÖvervakning av driftsparametrarna: Nät, utspänning, temperatur och batterire...",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "drift av brandlarmsutrustning med display",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "designed_for",  
+      "related_product": "drift av brandlarmsutrustning med display",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är högeffektiv och är strömsnål och har mycket stabil utspänning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "har övervakning och larm",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "17Ah Postadress/Postal address **Swansons Telemekanik AB** Osbackevägen 5 SE-449 44 Nol Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Anslutning | Spännings<br>försörjning | Loggning<br>av värden | Montage | Mått | | 5257606 | Ethernet<br>EN54C-LCD | RJ45 | Internt via<br>seriell port | Ja | Internt i<br>EN54C/LCD | 71 x 50 x 20 | Not",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5257606"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "#### Indikeringar och larm Normaldrift Indikeras med 2st gröna lysdioder",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

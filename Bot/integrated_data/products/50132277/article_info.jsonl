@@ -1,0 +1,42 @@
+{  
+  "identifier": "erenser",  
+  "original": "erenser",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | Övrig information om gränsvärden | | Referenser (lagar/förordningar): Arbetsmiljöverkets för**eskrifter **och allmänna råd | | | Referenser (lagar",  
+  "source": "regex",  
+  "product_id": "50132277"  
+}
+
+{  
+  "identifier": "erensgas",  
+  "original": "erensgas",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "5, K5TGX, K10, K20, K30 - Version 11 Sida 6 av 10 | | Referensgas: luft =1 | |----------------------**-----------**--------",  
+  "source": "regex",  
+  "product_id": "50132277"  
+}
+
+{  
+  "identifier": "ikelnr",  
+  "original": "ikelnr",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | EG-nr. | 204-696-9 | | Artikelnr. | 600010-60, 600066-60, 600216-60, 600203, 600204, 600205 | # ****1.2 Rel**evanta identifierade anvä",  
+  "source": "regex",  
+  "product_id": "50132277"  
+}
+

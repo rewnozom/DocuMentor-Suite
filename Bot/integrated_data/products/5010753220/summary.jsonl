@@ -1,0 +1,66 @@
+{  
+  "product_id": "5010753220",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Den uppfyller normen EN 50131–6:2008, Säkerhetsklass 3, Miljöklass II. Den skall anslutas till nätet med ett frånkopplingsdon som ligger nära och är lätt tillgängligt. Den skall anslutas till nätet med ett frånkopplingsdon som ligger nära och är lätt tillgängligt.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "ström",  
+      "value": "0,2",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| Två 12 V/7 Ah blyackumulatorer (slutna) i serie med Flam        |\n|                                          | klass minst V-2 enligt UL",  
+      "unit": "V/7"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| Sluten – inget fel (OK)                                         |\n|                                          | Öppen – fel (LARM)                                              |\n| Ingång för fjärrstyrd batteritest: | -SDT* - slutning mellan (-) och (*) aktiverar 30 sek test av in |\n|                                          | tern batteriresistans                                           |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                      |\n| Lokalt batteritest: | LBD bygel, tillfällig bygling                                   |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                            |\n| Arbetstemperatur och luftfuktighet: | -10º C…+40º C, RH till 90%, ingen kondensering                  |\n| Miljöklass enligt EN 50130-5:1998: | Miljöklass II                                                   |\n| Uppfyller kraven: | SBSC säkerhetsklass 3, EN 50131-6:2008 Grade 3, Class II        |\n| Lådans ytterdimensioner                  | 325x275x80 mm (BxHxD)                                           |\n| Vikt utan batterier                      | 2,9 kg                                                          |",  
+      "unit": "sek"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| EPS – Nätspänningsfel                                           |\n|                                          | APS – Batteri låg spänning, batterifel                          |\n|                                          | OUT – Utspänning låg, Nätdelsfel                                |\n|                                          | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                          | för EPS, APS, OUT, max ström 100mA                              |\n|                                          | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+      "unit": "mA"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "ligger nära och är lätt tillgängligt",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ligger nära och är lätt tillgängligt",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "har utvecklats av ALARMTECH",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Enheter anslutna på slingan kommer att dela på lasten",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Den processorstyrda batteriladdningen arbetar med konstant spänning och begränsad ström den mest avancerade och den bästa metoden för att erhålla längsta möjliga batterilivslängd",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "35 A - Max ström till anläggningen 3 A - Maximal batteriladdningsström 02 A - ViP (Voltage-in-Parallel) funktionen utökar säkerheten och kapaciteten I systemet",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

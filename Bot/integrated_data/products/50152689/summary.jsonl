@@ -1,0 +1,69 @@
+{  
+  "product_id": "50152689",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n![](images/_page_0_Picture_1.jpeg)\n\n## DATABLAD - FDV DOKUMENTATION\n\n# HOUSEGARD LITH-EX SLÄCKSPRAY\n\nAVD aerosol 500 ml Släcker bränder i litiumjonbatterier\n\nHousegard Lith-EX släckspray är lämplig att använda mot mindre bränder i litiumjonbatterier. Lith-EX innehåller AVD som är det enda tredjepartstestade och godkända släckmedlet mot bränder i litiumjonbatterier. Lith-EX släckspray är designad för att upprätthålla högsta prestanda och kvalitet.",  
+  "key_specifications": [  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "standarder",  
+      "value": "SS-EN 143 (Andningsskydd - Partikelfilter - |\n| andningsskyddsutrustning | Fordringar, provning, märkning)",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "gränsvärden | | Referenser (lagar/förordningar) Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden \"Hygieniska gränsvärden\" AFS 20181",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20181"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "har lagts till<br>raderats eller reviderats | Nytt säkerhetsdatablad | | Kvalitetssäkring av informationen | Detta säkerhetsdatablad är kvalitetskontrollerat av Kiwa Teknologisk Institutt as<br>som är certifierade enligt ISO 90012008",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "90012008",  
+        "90012008"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ändring av Europaparlamentets och rådets förordning (EG) nr 1907/2006 om registrering utvärdering godkännande och begränsning av kemikalier (Reach) # **AVSNITT 1 Namnet på ämnet / blandningen och bolaget / företaget** | Utgivningsdatum | 11",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "C M | | | Övrig information om gränsvärden | | Referenser (lagar/förordningar) Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden \"Hygieniska gränsvärden\" AFS 20181",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20181"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The International Maritime Dangerous Goods Code | | | PBT Persistent Bioackumulerande och Toxisk (giftig) | | | RID The Regulations concerning the International Carriage of Dangerous Goods<br>by Rail | | | vPvB very Persistent and very Bioaccumulative (mycket Persistent och mycket<br>Bioackumulerande) | | Upplysningar som har lagts till<br>raderats eller reviderats | Nytt säkerhetsdatablad | | Kvalitetssäkring av informationen | Detta säkerhetsdatablad är kvalitetskontrollerat av Kiwa Teknologisk Institutt as<br>som är certifierade enligt ISO 90012008",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "90012008",  
+        "90012008"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 3 | | Utarbetat av | Kiwa Teknologisk Institutt as v/ Milvi Rohtla |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erenser",  
+      "filter",  
+      "ikelnr",  
+      "ikelfilter"  
+    ]  
+  }  
+}
+

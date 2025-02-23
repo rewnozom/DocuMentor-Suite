@@ -1,0 +1,222 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "ger apparaten brandklass B",  
+  "context": "DV** Modell: K2 ![](images/_page_0_Picture_2.jpeg) ## **Bruksområde** Er nya Housegard CO2 brandsläckare innehåller Koldioxid s**om ger apparaten brandklass B.** B-apparater är avsedda för släckning av bränder i brandfarliga vätskor som t.ex bensin, olja, lack och färg. Koldioxid",  
+  "position": [  
+    141,  
+    171  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppgår till 1000 Volt",  
+  "context": "tprodukter och är därför också lämplig i rum med dyr mekanisk utrustning eller mot bränder i elektriska installationer s**om uppgår till 1000 Volt.** ## **Användningsområde** Industri, offentliga miljöer, livsmedelsindustri, storkök, datacentra, laboratorier, sjukhus,",  
+  "position": [  
+    440,  
+    465  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är tyngre än luft kokpunkt -56 °C / fryspunkt -78 °C",  
+  "context": "där efterskador i form av pulver eller skum bör undvikas. ## **Släckmedlets funktion** CO2 är en färglös, giftfri gas so**m är tyngre än luft, kokpunkt -56 °C / fryspunkt -78 °C. **CO2 verkar genom att kväva branden. CO2 -gasen tränger undan syret och lägger sig som en \"filt\" över brandområdet. ####",  
+  "position": [  
+    902,  
+    959  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att kväva branden",  
+  "context": "lets funktion** CO2 är en färglös, giftfri gas som är tyngre än luft, kokpunkt -56 °C / fryspunkt -78 °C. CO2 verkar gen**om att kväva branden.** CO2 -gasen tränger undan syret och lägger sig som en \"filt\" över brandområdet. #### **Placering** Släckaren levereras m",  
+  "position": [  
+    974,  
+    995  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en \"filt\" över brandområdet",  
+  "context": "kokpunkt -56 °C / fryspunkt -78 °C. CO2 verkar genom att kväva branden. CO2 -gasen tränger undan syret och lägger sig so**m en \"filt\" över brandområdet. **#### **Placering** Släckaren levereras med en upphängningsanordning för montering på väggen. Om släckaren skall stå uto",  
+  "position": [  
+    1043,  
+    1074  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+  "context": "\"filt\" över brandområdet. #### **Placering** Släckaren levereras med en upphängningsanordning för montering på väggen. O**m släckaren skall stå utomhus, eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare. **Brandsläckaren bör placeras väl synlig och lättillgänglig. #### **Underhåll och kontroll** Visuell kontroll av brandslä",  
+  "position": [  
+    1168,  
+    1287  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+  "context": "kg): | 6.95 | | | | Höjd (mm): | 570 | | | | Bredd (mm): | 114 | | | *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas **om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts.** Omladdning kra*̈*ver specialutrustning. Kontakta en auktoriserad serviceverkstad. Anva*̈*nd endast specificerade sla*̈*",  
+  "position": [  
+    2580,  
+    2653  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Koldioxid ger en ren släckning utan restprodukter och är därför också lämplig i rum med dyr mekanisk utrustning eller mot bränder i elektriska installationer som uppgår till 1000 Volt",  
+  "context": "brandklass B. B-apparater är avsedda för släckning av bränder i brandfarliga vätskor som t.ex bensin, olja, lack och fär**g. Koldioxid ger en ren släckning utan restprodukter och är därför också lämplig i rum med dyr mekanisk utrustning eller mot bränder i elektriska installationer som uppgår till 1000 Volt.** ## **Användningsområde** Industri, offentliga miljöer, livsmedelsindustri, storkök, datacentra, laboratorier, sjukhus,",  
+  "position": [  
+    278,  
+    465  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Lämpar sig även i offentliga miljöer där efterskador i form av pulver eller skum bör undvikas",  
+  "context": "xid släcker utan restprodukter och är därför särskilt lämplig i lokaler med kostbar mekanisk eller elektronisk utrustnin**g. Lämpar sig även i offentliga miljöer där efterskador i form av pulver eller skum bör undvikas.** ## **Släckmedlets funktion** CO2 är en färglös, giftfri gas som är tyngre än luft, kokpunkt -56 °C / fryspunkt -78 °C.",  
+  "position": [  
+    743,  
+    840  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Om släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+  "context": "om en \"filt\" över brandområdet. #### **Placering** Släckaren levereras med en upphängningsanordning för montering på väg**gen. Om släckaren skall stå utomhus, eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare.** Brandsläckaren bör placeras väl synlig och lättillgänglig. #### **Underhåll och kontroll** Visuell kontroll av brandslä",  
+  "position": [  
+    1163,  
+    1287  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### **Underhåll och kontroll** Visuell kontroll av brandsläckaren är användarens ansvar tex att det är tillfredsställande tryck på handsläckaren",  
+  "context": "nad miljö bör den placeras i ett specialskåp för brandsläckare. Brandsläckaren bör placeras väl synlig och lättillgängli**g. #### **Underhåll och kontroll** Visuell kontroll av brandsläckaren är användarens ansvar, tex att det är tillfredsställande tryck på handsläckaren.** Underhåll av handsläckare skall utföras enligt SS 3656 och Housegard's serviceinstruktioner. I privata bostäder rekomme",  
+  "position": [  
+    1344,  
+    1494  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "# **TEKNISK SPECIFIKATION** | Brandklass | B | Modell | K2 | |-----------------------------------|----------|---------------|---------------------------------| | Effektivitetsklass | 34B | Artikel | 600066-60 | | Temperaturområde -30 °C / +60 °C | | EAN | 7320890066607 | | Släckmedel | CO2 | | EN3 Testrapport 20180791/OX 61 | | Storlek släckare | 2 kg | MED cert | 16/CN/4001-1-Rev 0 | | Tömningstid | 8 s | Certifiering | EN3-7 CE Wheelmark | | Arbetstryck | 220 Bar | | | | Arbetstryck | 220 Bar | | | | Cylindermaterial | Stål | | | | Drivgas | Nitrogen | | | | Bruttovikt (kg) | 6",  
+  "context": "6 och Housegards serviceinstruktioner. Standard SS 3656 omfattar handbrandsläckares funktionsduglighet, oavsett placerin**g. # **TEKNISK SPECIFIKATION** | Brandklass: | B | Modell: | K2 | |-----------------------------------|----------|---------------|---------------------------------| | Effektivitetsklass: | 34B | Artikel: | 600066-60 | | Temperaturområde: -30 °C / +60 °C | | EAN: | 7320890066607 | | Släckmedel: | CO2 | | EN3 Testrapport: 20180791/OX 61 | | Storlek släckare: | 2 kg | MED cert: | 16/CN/4001-1-Rev 0 | | Tömningstid: | 8 s | Certifiering: | EN3-7, CE, Wheelmark | | Arbetstryck: | 220 Bar | | | | Arbetstryck: | 220 Bar | | | | Cylindermaterial: | Stål | | | | Drivgas: | Nitrogen | | | | Bruttovikt (kg): | 6.**95 | | | | Höjd (mm): | 570 | | | | Bredd (mm): | 114 | | | *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter",  
+  "position": [  
+    1860,  
+    2469  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "600066",  
+    "20180791",  
+    "7320890066607",  
+    "20180791"  
+  ],  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakta en auktoriserad serviceverkstad",  
+  "context": "d laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts. Omladdning kra*̈*ver specialutrustnin**g. Kontakta en auktoriserad serviceverkstad.** Anva*̈*nd endast specificerade sla*̈*ckmedel och reservdelar.* För mer information, kontakta: GPBM Nordic AB Telefon: +",  
+  "position": [  
+    2691,  
+    2735  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "K2 ![](images/_page_0_Picture_2",  
+  "context": "# **PRODUKTDATABLAD FDV** **Modell: K2 ![](images/_page_0_Picture_2.**jpeg) ## **Bruksområde** Er nya Housegard CO2 brandsläckare innehåller Koldioxid som ger apparaten brandklass B. B-appar",  
+  "position": [  
+    26,  
+    59  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463334"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| K2 | |-----------------------------------|----------|---------------|---------------------------------| | Effektivitetsklass | 34B | Artikel | 600066-60 | | Temperaturområde -30 °C / +60 °C | | EAN | 7320890066607 | | Släckmedel | CO2 | | EN3 Testrapport 20180791/OX 61 | | Storlek släckare | 2 kg | MED cert | 16/CN/4001-1-Rev 0 | | Tömningstid | 8 s | Certifiering | EN3-7 CE Wheelmark | | Arbetstryck | 220 Bar | | | | Arbetstryck | 220 Bar | | | | Cylindermaterial | Stål | | | | Drivgas | Nitrogen | | | | Bruttovikt (kg) | 6",  
+  "context": "3656 omfattar handbrandsläckares funktionsduglighet, oavsett placering. # **TEKNISK SPECIFIKATION** | Brandklass: | B | **Modell: | K2 | |-----------------------------------|----------|---------------|---------------------------------| | Effektivitetsklass: | 34B | Artikel: | 600066-60 | | Temperaturområde: -30 °C / +60 °C | | EAN: | 7320890066607 | | Släckmedel: | CO2 | | EN3 Testrapport: 20180791/OX 61 | | Storlek släckare: | 2 kg | MED cert: | 16/CN/4001-1-Rev 0 | | Tömningstid: | 8 s | Certifiering: | EN3-7, CE, Wheelmark | | Arbetstryck: | 220 Bar | | | | Arbetstryck: | 220 Bar | | | | Cylindermaterial: | Stål | | | | Drivgas: | Nitrogen | | | | Bruttovikt (kg): | 6.**95 | | | | Höjd (mm): | 570 | | | | Bredd (mm): | 114 | | | *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter",  
+  "position": [  
+    1911,  
+    2469  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "600066",  
+    "20180791",  
+    "7320890066607",  
+    "20180791"  
+  ],  
+  "product_id": "50463334"  
+}
+

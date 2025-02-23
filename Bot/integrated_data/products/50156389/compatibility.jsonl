@@ -1,0 +1,28 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "www",  
+  "context": "intl. +46 (0)16 17 71 00 Phone nat. 0771-640 640 Fax +46 (0)16 17 73 72 e-mail: helpdesk.se.openingsolutions@assaabloy.c**om www.**assaabloyopeningsolutions.se",  
+  "position": [  
+    2341,  
+    2348  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156389"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Enheten speglar ARX Powers diskreta stilrena design",  
+  "context": "denheten kopplas den snabbt ihop med den medföljande kabeln. Den medföljande kabeln är klar med kabelskor och hängsäkrin**g. Enheten speglar ARX Powers diskreta, stilrena design.** Stor designfokus har lagts på installationsvänlighet med exempelvis rymlig kapsling för enkel kabelhantering och välpla",  
+  "position": [  
+    417,  
+    473  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156389"  
+}
+

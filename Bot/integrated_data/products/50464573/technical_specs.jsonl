@@ -1,0 +1,44 @@
+{  
+  "name": "Voltage",  
+  "raw_value": "9.0",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "9.0",  
+    "unit": null,  
+    "normalized_value": 9.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "al cell materials are leaked, the information in Section 4 & Section 6 will be useful. #### **Section 9-Physical/Chemical Characteristics** Nominal Vo**ltage: 9.0V #**# **Section 10-Stability and Reac...",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464573"  
+}
+
+{  
+  "name": "Nominal Voltage",  
+  "raw_value": "9.0",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "9.0",  
+    "unit": null,  
+    "normalized_value": 9.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "f internal cell materials are leaked, the information in Section 4 & Section 6 will be useful. #### **Section 9-Physical/Chemical Characteristics** No**minal Voltage: 9.0V #**# **Section 10-Stability ...",  
+  "pattern": "(?i)(?:nominell spänning|nominal voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 24,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464573"  
+}
+

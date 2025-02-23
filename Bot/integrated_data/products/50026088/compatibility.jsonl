@@ -1,0 +1,14 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "kvävning - Oumbärlig i hemmet #### **ARTICLE INFORMATION** Art",  
+  "context": "ning i hemmet samt kontor. - Filten består av glasfiberväv med silikonbeläggning - Enkel att använda - Släcker elden gen**om kvävning - Oumbärlig i hemmet #### **ARTICLE INFORMATION:** Art.**no: 602028 EAN: 7320896020283 E-nummer: 1693358 ![](images/_page_0_Picture_11.jpeg) ![](images/_page_0_Picture_13.jpeg) **Page 1/2** #",  
+  "position": [  
+    273,  
+    340  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50026088"  
+}
+

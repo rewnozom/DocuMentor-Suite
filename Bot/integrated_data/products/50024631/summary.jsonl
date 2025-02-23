@@ -1,0 +1,40 @@
+{  
+  "product_id": "50024631",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n## PSV 1225-18\n\n## Strömförsörjning, VIP, 12 V 2,5 A\n\n## **Produktdetajler:**\n\n| Godkännanden                     | EN 6100-6:2007 EN<br>61000-6-3:2007+A1, EN<br>60950-1:2006 + A11 +A12+A2 |\n|----------------------------------|--------------------------------------------------------------------------|\n| Matningsspänning                 | 230 VAC                                                                  |\n| Utspänning                       | 13,8 VDC                                                                 |\n| Belastning                       | 2,5 A                                                                    |\n| Plats för ackumulator (ingår ej) | 12 V/18 Ah                                                               |\n| Sabotageskydd                    | Öppnings- och avstängningsbrytare                                        |\n| Kapsling                         | Metall                                                                   |\n| Färg                             | Vit                                                                      |\n| Mått (L x B x H) mm              | 300 x 230 x 100                                                          |\n\n![](images/_page_0_Picture_6.jpeg)\n\nStrömförsörjningsaggregat med ViP (Voltage in Parallel) funktion, 12 VDC 2,5 A.Strömförsörjningsaggregat med ViP funktion kan parallellkopplas för att ge redundans samt kompensera för spänningsfall i kablaget. Plats för en 12 V 18 Ah ackumulator. Sabotagekontakt.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Storlek",  
+      "value": "| 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+      "unit": "x"  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| 12 V, 18 Ah batteri                                          |\n| Laddningsmetod batteri: | Konstant ström – begränsad spänning                          |\n| Maximal batteriladdningsström: | 0,25 A                                                       |\n| Tid för återuppladdning av 18 Ah batteri till 80%: | Max 58 timmar                                                |\n| Batterispänning som aktiverar APS fel: | 11 V                                                         |\n| Batterispänning som aktiverar DDP krets: | 10 V                                                         |\n| Utspänning som aktiverar OUT fel: | 9 V                                                          |\n| Övervakningsutgångar: | EPS – Nätspänningsfel                                        |\n|                                                      | APS – Batteri låg spänning, batterifel                       |\n|                                                      | OUT – Utspänning låg, Nätdelsfel                             |\n|                                                      | SAB – Kapslingssabotage                                      |\n| Elektriska data på statusutgångar: | - Optoisolerade halvledarreläer för EPS, APS, OUT            |\n|                                                      | - Microswitch för sabotage                                   |\n| Logiska data på statusutgångar: | Sluten – inget fel (OK)                                      |\n|                                                      | Öppen – fel (LARM)                                           |\n| Ingång för fjärrstyrd batteritest: | -RBD* - slutning mellan (-) och (*) aktiverar 30 sek test av |\n|                                                      | intern batteriresistans                                      |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                   |\n| Lokal batteritest: | LBD bygel, tillfällig bygling                                |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                         |\n| Arbetstemperatur och luftfuktighet: | +5ºC…+40ºC, RH till 90 %, ingen kondensering                 |\n| Miljöklass enligt EN 50130-5:1998: | Klass I                                                      |\n| Vikt utan batteri: | Ca 2,5 kg                                                    |\n| Vikt med batteri (18 Ah): | Ca 8 kg                                                      |\n| Storlek: | 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| EPS – Nätspänningsfel                                        |\n|                                                      | APS – Batteri låg spänning, batterifel                       |\n|                                                      | OUT – Utspänning låg, Nätdelsfel                             |\n|                                                      | SAB – Kapslingssabotage                                      |\n| Elektriska data på statusutgångar: | - Optoisolerade halvledarreläer för EPS, APS, OUT            |\n|                                                      | - Microswitch för sabotage                                   |\n| Logiska data på statusutgångar: | Sluten – inget fel (OK)                                      |\n|                                                      | Öppen – fel (LARM)                                           |\n| Ingång för fjärrstyrd batteritest: | -RBD* - slutning mellan (-) och (*) aktiverar 30 sek test av |\n|                                                      | intern batteriresistans                                      |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                   |\n| Lokal batteritest: | LBD bygel, tillfällig bygling                                |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                         |\n| Arbetstemperatur och luftfuktighet: | +5ºC…+40ºC, RH till 90 %, ingen kondensering                 |\n| Miljöklass enligt EN 50130-5:1998: | Klass I                                                      |\n| Vikt utan batteri: | Ca 2,5 kg                                                    |\n| Vikt med batteri (18 Ah): | Ca 8 kg                                                      |\n| Storlek: | 230 x 300 x 100 mm (B x H x D)                               |\n\nPSV 1225-18_ 1122se (2012-02-27CB) - 4 - © 2012 Alarmtech",  
+      "unit": "sek"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "Indikering för nätbortfall låg utspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "E-nr Beskrivning** Powered by TCPDF (www",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

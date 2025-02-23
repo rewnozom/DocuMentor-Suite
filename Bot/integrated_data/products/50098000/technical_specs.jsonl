@@ -1,0 +1,22 @@
+{  
+  "name": "PROTOKOLL",  
+  "raw_value": "kommande funktion\n\n#### ANVÄNDNING\n\nPower-over-Ethernet innebär en enkelt och kostnadseffektiv strömförsörjning till accesspunkter i ett nätverk",  
+  "category": "NETWORK",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "kommande funktion\n\n#### ANVÄNDNING\n\nPower-over-Ethernet innebär en enkelt och kostnadseffektiv strömförsörjning till accesspunkter i ett nätverk",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "-265VAC +/- 15% 1 fas 50-60Hz Reglering max 0,6 % Batterispänn. 48VDC (54,6V) Temp.omr- -10 – +30 C IEEE 802.3at/ IEEE802.3af 100 MBIT/ kanal TCP-IP P**ROTOKOLL: kommande funktion #### ANVÄNDNING Powe...",  
+  "pattern": "(?i)(?:protokoll|protocol)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 138,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50098000"  
+}
+

@@ -1,0 +1,596 @@
+{  
+  "relation_type": "direct",  
+  "related_product": "batterikontakt PC01 och PC02",  
+  "context": "ier används är dessa alltid elektrokemiskt aktiva. Kortslut inte batteripolerna. Batteri monteras enligt bild nedan och **ansluts till batterikontakt PC01 och PC02.** Kan kopplas #### **INKOPPLING** - Montera aggregatet fritt. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. Ko",  
+  "position": [  
+    5082,  
+    5124  
+  ],  
+  "pattern_index": 23,  
+  "pattern": "(?i)ansluts\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "inte brytas när kortet monteras",  
+  "context": "plats märkt \"larmkort\".** - **Tryck dit kortet på stiftlisten och pressa ner kretskortshållarna i hålen.** - **Spänning **behöver inte brytas när kortet monteras.**** - **Larmkortet ställer automatiskt in sig på den spänning som ska övervakas - 24V system eller 12V system. Detta görs",  
+  "position": [  
+    7846,  
+    7886  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ovan men manövreras med via en plomberbar återfjädrande strömbrytare på locket",  
+  "context": "ftindikering och röd LED visar öppen lucka. Kan förses med larmkort SM102 för batterilarm och likriktarfel. **RLS40K** s**om ovan, men manövreras med via en plomberbar, återfjädrande strömbrytare på locket.** **RLS500-1** styrenhet med samma funktioner som RLS40 men med öppningsbar lucka med vred. Luckan öppnas med brandkårsny",  
+  "position": [  
+    1196,  
+    1280  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "RLS40 men med öppningsbar lucka med vred",  
+  "context": "en manövreras med via en plomberbar, återfjädrande strömbrytare på locket. **RLS500-1** styrenhet med samma funktioner s**om RLS40 men med öppningsbar lucka med vred.** Luckan öppnas med brandkårsnyckeln och luckorna manövreras med vredet. **RLS600-1** kapsling med vred och indikering. F",  
+  "position": [  
+    1326,  
+    1370  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kapsling med monteringsplåt med hål för ett vred | 160x220x80 | | 6305002 | RLS100-2 | | | Tom kapsling med monteringsplåt med hål för två vred | 160x220x80 | | 6305003 | RLS100-6 | | | Tom kapsling med monteringsplåt med hål för sex vred | 350x360x100 | | 6305004 | RLS100-12 | | | Tom kapsling med monteringsplåt med hål för tolv vred | 465x360x115 | | | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "1 utgång | 2x0,8Ah | 160x220x80 | | 6301001 | RLS600-1 | -<br>- | 1 utgång | | 160x220x80 | | 6301002 | RLS100-1 | | | T**om kapsling med monteringsplåt med hål för ett vred | 160x220x80 | | 6305002 | RLS100-2 | | | Tom kapsling med monteringsplåt med hål för två vred | 160x220x80 | | 6305003 | RLS100-6 | | | Tom kapsling med monteringsplåt med hål för sex vred | 350x360x100 | | 6305004 | RLS100-12 | | | Tom kapsling med monteringsplåt med hål för tolv vred | 465x360x115 | | | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se Telefax nr/Telefax no +46(0)303-748 490 e-post info@swtm.se ![](images/_page_1_Picture_1.jpeg) ## **SÄKERHET** Endast a",  
+  "position": [  
+    2145,  
+    2663  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "6305002",  
+    "6305003",  
+    "6305004"  
+  ],  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta **SM40** serva/underhålla installera denna enhet",  
+  "context": ")303-748 490 e-post info@swtm.se ![](images/_page_1_Picture_1.jpeg) ## **SÄKERHET** Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, **SM40** serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    2818,  
+    2902  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "de när interna säkringarna är av eller på. **Strömförsörjning med plats för batteri** Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    3143,  
+    3196  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "batteri** Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt",  
+  "position": [  
+    3219,  
+    3309  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "onenter samt säkerhet skall leverantören kontaktas. Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. ## **INKOPPLING** ## **FUNKTION** - När knapp för öppning av röklucka aktiverats, försvin",  
+  "position": [  
+    3378,  
+    3437  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gränslägesbrytare är inkopplad",  
+  "context": "app för öppning av röklucka aktiverats, försvinner spänning på utg. plint RL, rökluckorna öppnas och knappen lyser rött **om gränslägesbrytare är inkopplad.** När knappen återställs kommer spänningen tillbaka på plinten. Lampan i knappen släcks när rökluckorna är stängda. - Sty",  
+  "position": [  
+    3630,  
+    3664  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lampan i knappen lyser rött kontrollera att vred för rökluckor att luckor är stängda eller att gränslägesbrytare är rätt inkopplade",  
+  "context": "AC. - Lysdiod för nätspänning tänds. Kontrollera att utspänningen är riktig. - Vid behov justera utspänningen med P1. - **Om lampan i knappen lyser rött kontrollera att vred för rökluckor, att luckor är stängda eller att gränslägesbrytare är rätt inkopplade.** ![](images/_page_1_Figure_22.jpeg) Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Te",  
+  "position": [  
+    4341,  
+    4477  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "för batteri** **RÖKLUCKESTYRNING** in under drift. Kontrollera att kretskort sitter fast och inte är transportskadade. O**m batterier används är dessa alltid elektrokemiskt aktiva. **Kortslut inte batteripolerna. Batteri monteras enligt bild nedan och ansluts till batterikontakt PC01 och PC02. Kan kop",  
+  "position": [  
+    4953,  
+    5012  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ska övervakas - 24V system eller 12V system",  
+  "context": "n.** - **Spänning behöver inte brytas när kortet monteras.** - **Larmkortet ställer automatiskt in sig på den spänning s**om ska övervakas - 24V system eller 12V system.** Detta görs under kortets uppstart.** - **NÄR DETTA ÄR KLART BLINKAR RÖD LYSDIOD. ÅTERSTÄLL MED ATT HÅLLA ÅTERSTÄLLNINGK",  
+  "position": [  
+    7948,  
+    7995  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det behövs för att inte skada utrustning och få rätt funktion",  
+  "context": "på standardvärde enligt nedanstående tabell. För att kontrollera larmnivåer, koppla loss batterier och bryt bort last, o**m det behövs, för att inte skada utrustning och få rätt funktion. **Därefter ställs likriktaraggregatet in på den spänning som är larmnivå**.** Vid larm tänds indikering och larmreläet kl",  
+  "position": [  
+    8498,  
+    8564  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är larmnivå**",  
+  "context": "det behövs, för att inte skada utrustning och få rätt funktion. Därefter ställs likriktaraggregatet in på den spänning s**om är larmnivå**.**** Vid larm tänds indikering och larmreläet klickar. När kontrollen är klar, justeras laddningsspänningen till rätt nivå",  
+  "position": [  
+    8621,  
+    8638  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** **Strömförsörjning med plats för batteri** Denna instruktion skall läsas igenom grundligt och förstås av all handhavand",  
+  "position": [  
+    3026,  
+    3065  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "knapp för öppning av röklucka aktiverats försvinner spänning på utg",  
+  "context": "terier används är dessa alltid elektrokemiskt aktiva. Kortslut inte batteripolerna. ## **INKOPPLING** ## **FUNKTION** - **När knapp för öppning av röklucka aktiverats, försvinner spänning på utg.** plint RL, rökluckorna öppnas och knappen lyser rött om gränslägesbrytare är inkopplad. När knappen återställs kommer sp",  
+  "position": [  
+    3504,  
+    3577  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "knappen återställs kommer spänningen tillbaka på plinten",  
+  "context": "ats, försvinner spänning på utg. plint RL, rökluckorna öppnas och knappen lyser rött om gränslägesbrytare är inkopplad. **När knappen återställs kommer spänningen tillbaka på plinten.** Lampan i knappen släcks när rökluckorna är stängda. - Styrning från brandlarmcentral eller rökdetektor kopplas till EXT",  
+  "position": [  
+    3665,  
+    3726  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "rökluckorna är stängda",  
+  "context": "m gränslägesbrytare är inkopplad. När knappen återställs kommer spänningen tillbaka på plinten. Lampan i knappen släcks **när rökluckorna är stängda.** - Styrning från brandlarmcentral eller rökdetektor kopplas till EXT plinten. Rökdetektorn spänningsmatas från Utg.1 - Ä",  
+  "position": [  
+    3751,  
+    3778  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det vid batteridrift är för låg batterispänning",  
+  "context": "tterikretsen samt lågbatterispänningslarm vid batteridrift. **LÅGBATTERISPÄNNING:** Övervakar batterispänningen. Larmar **när det vid batteridrift är för låg batterispänning.** Larmgräns när det finns ca 30% kvar i batterikapaciteten. Röd lysdiod på fronten blinkar sakta (0,5Hz) och larmreläet a",  
+  "position": [  
+    6093,  
+    6145  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det finns ca 30% kvar i batterikapaciteten",  
+  "context": "ÅGBATTERISPÄNNING:** Övervakar batterispänningen. Larmar när det vid batteridrift är för låg batterispänning. Larmgräns **när det finns ca 30% kvar i batterikapaciteten.** Röd lysdiod på fronten blinkar sakta (0,5Hz) och larmreläet aktiveras. Larmet återställs automatiskt när batteriet uppl",  
+  "position": [  
+    6156,  
+    6203  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteriet uppladdas",  
+  "context": "atterikapaciteten. Röd lysdiod på fronten blinkar sakta (0,5Hz) och larmreläet aktiveras. Larmet återställs automatiskt **när batteriet uppladdas.** **SM40 Strömförsörjning med plats för batteri** > **LADDSPÄNNINGSLARM:** Övervakar laddningsspänningen för att säkerstä",  
+  "position": [  
+    6305,  
+    6329  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "laddningsspänningen är 2% över eller under nominellt värde",  
+  "context": "DDSPÄNNINGSLARM:** Övervakar laddningsspänningen för att säkerställa att batterierna får rätt laddningsspänning. Larmar **när laddningsspänningen är 2% över eller under nominellt värde.** Lysdiod på fronten blinkar sakta grönt/rött **(0,5Hz)** och larmreläet aktiveras. Laddningsspänningslarmet är fördröjt",  
+  "position": [  
+    6504,  
+    6567  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "spänningen är justerad",  
+  "context": "ddningsspänningslarmet är fördröjt och börjar inte mäta förrän efter 4 timmars drifttid och larm återställs automatiskt **när spänningen är justerad.** **BATTERIÖVERVAKNING:** Mäter batterispänningen var 15 minut. Faller batterispänningen under larmnivån, aktiveras larmk",  
+  "position": [  
+    6772,  
+    6799  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är kontrollerade eller utbytta",  
+  "context": "iveras larmkretsen. Lysdiod på fronten blinkar snabbt grönt/rött (2Hz) och larmreläet aktiveras. Larmet kan återställas **när batterierna är kontrollerade eller utbytta.** CE-märkt enligt EN61000-1-2 och EN61000-3-4 | E-Nummer Typ | | Beskrivning | |--------------|-----|--------------------",  
+  "position": [  
+    7027,  
+    7074  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kortet monteras",  
+  "context": "t\".** - **Tryck dit kortet på stiftlisten och pressa ner kretskortshållarna i hålen.** - **Spänning behöver inte brytas **när kortet monteras.**** - **Larmkortet ställer automatiskt in sig på den spänning som ska övervakas - 24V system eller 12V system. Detta görs",  
+  "position": [  
+    7866,  
+    7886  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "DETTA ÄR KLART BLINKAR RÖD LYSDIOD",  
+  "context": "atiskt in sig på den spänning som ska övervakas - 24V system eller 12V system. Detta görs under kortets uppstart.** - ****NÄR DETTA ÄR KLART BLINKAR RÖD LYSDIOD.** ÅTERSTÄLL MED ATT HÅLLA ÅTERSTÄLLNINGKNAPPEN INTRYCKT I 2 SEKUNDER. KORTET ÄR NU DRIFTSATT.** - **Anslut ledningar från",  
+  "position": [  
+    8037,  
+    8076  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kontrollen är klar justeras laddningsspänningen till rätt nivå på likriktaren",  
+  "context": "er ställs likriktaraggregatet in på den spänning som är larmnivå**.** Vid larm tänds indikering och larmreläet klickar. **När kontrollen är klar, justeras laddningsspänningen till rätt nivå på likriktaren.** Koppla in last och batterier igen. Systemet är nu i driftläge igen. ![](images/_page_4_Figure_16.jpeg) ## **LARMRELÄ** ![](_pa",  
+  "position": [  
+    8691,  
+    8774  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "batteri RLS100-1** **RLS500-1 med batteri RLS600-1** **Skydd:** Aggregatet är skyddad mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri skyddas av säkringar. **Indikeringar och larm:** Summalarmrelä för vidarekoppling av larm. ## **S",  
+  "position": [  
+    266,  
+    317  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "För yttre strömförsörjning",  
+  "context": "red. Luckan öppnas med brandkårsnyckeln och luckorna manövreras med vredet. **RLS600-1** kapsling med vred och indikerin**g. För yttre strömförsörjning.** **RLS100-1/12** Obestyckade kapslingar. Finns med hålbild för 1-12vred. 22,5mm hål. *CE-märkt enligt* **EN61000-6-3:200",  
+  "position": [  
+    1486,  
+    1516  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "plint RL rökluckorna öppnas och knappen lyser rött om gränslägesbrytare är inkopplad",  
+  "context": "teripolerna. ## **INKOPPLING** ## **FUNKTION** - När knapp för öppning av röklucka aktiverats, försvinner spänning på ut**g. plint RL, rökluckorna öppnas och knappen lyser rött om gränslägesbrytare är inkopplad.** När knappen återställs kommer spänningen tillbaka på plinten. Lampan i knappen släcks när rökluckorna är stängda. - Sty",  
+  "position": [  
+    3575,  
+    3664  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "1 - Är någon lucka öppen indikeras fel med att lampan i knappen tänds och larmreläet växlar",  
+  "context": "tängda. - Styrning från brandlarmcentral eller rökdetektor kopplas till EXT plinten. Rökdetektorn spänningsmatas från Ut**g.1 - Är någon lucka öppen indikeras fel med att lampan i knappen tänds och larmreläet växlar.** - Larmrelä kan programmeras så att det växlar antingen i tillsammans med utgången eller med lampan. - W3 Relä växlar me",  
+  "position": [  
+    3891,  
+    3985  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Vid behov justera utspänningen med P1",  
+  "context": "Montera aggregatet fritt. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. Kontrollera att utspänningen är rikti**g. - Vid behov justera utspänningen med P1.** - Om lampan i knappen lyser rött kontrollera att vred för rökluckor, att luckor är stängda eller att gränslägesbrytare",  
+  "position": [  
+    4295,  
+    4338  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Vid behov justera utspänningen med P1",  
+  "context": "Montera aggregatet fritt. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. Kontrollera att utspänningen är rikti**g. - Vid behov justera utspänningen med P1.** - Funktion enligt generell inkopplingsanvisning ![](images/_page_2_Figure_10.jpeg) Postadress/Postal address **Swansons Teleme",  
+  "position": [  
+    5279,  
+    5322  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "**SM102 -** Övervakar laddningsspänningen och batterikretsen samt lågbatterispänningslarm vid batteridrift",  
+  "context": "40 och SM3100. Utlösta larm indikeras på fronten och summalarmrelä med potentialfria växlingskontakter för vidaresändnin**g. **SM102 -** Övervakar laddningsspänningen och batterikretsen samt lågbatterispänningslarm vid batteridrift.** **LÅGBATTERISPÄNNING:** Övervakar batterispänningen. Larmar när det vid batteridrift är för låg batterispänning. Larmgr",  
+  "position": [  
+    5922,  
+    6032  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "** Övervakar batterispänningen",  
+  "context": "-** Övervakar laddningsspänningen och batterikretsen samt lågbatterispänningslarm vid batteridrift. **LÅGBATTERISPÄNNING**:** Övervakar batterispänningen. **Larmar när det vid batteridrift är för låg batterispänning. Larmgräns när det finns ca 30% kvar i batterikapaciteten. R",  
+  "position": [  
+    6052,  
+    6085  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Larmgräns när det finns ca 30% kvar i batterikapaciteten",  
+  "context": "eridrift. **LÅGBATTERISPÄNNING:** Övervakar batterispänningen. Larmar när det vid batteridrift är för låg batterispännin**g. Larmgräns när det finns ca 30% kvar i batterikapaciteten.** Röd lysdiod på fronten blinkar sakta (0,5Hz) och larmreläet aktiveras. Larmet återställs automatiskt när batteriet uppl",  
+  "position": [  
+    6143,  
+    6203  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Larmar när laddningsspänningen är 2% över eller under nominellt värde",  
+  "context": "i** > **LADDSPÄNNINGSLARM:** Övervakar laddningsspänningen för att säkerställa att batterierna får rätt laddningsspännin**g. Larmar när laddningsspänningen är 2% över eller under nominellt värde.** Lysdiod på fronten blinkar sakta grönt/rött **(0,5Hz)** och larmreläet aktiveras. Laddningsspänningslarmet är fördröjt",  
+  "position": [  
+    6494,  
+    6567  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "** Mäter batterispänningen var 15 minut",  
+  "context": "nte mäta förrän efter 4 timmars drifttid och larm återställs automatiskt när spänningen är justerad. **BATTERIÖVERVAKNIN**G:** Mäter batterispänningen var 15 minut.** Faller batterispänningen under larmnivån, aktiveras larmkretsen. Lysdiod på fronten blinkar snabbt grönt/rött (2Hz) och",  
+  "position": [  
+    6819,  
+    6861  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Systemet är nu i driftläge igen",  
+  "context": "ckar. När kontrollen är klar, justeras laddningsspänningen till rätt nivå på likriktaren. Koppla in last och batterier i**gen. Systemet är nu i driftläge igen.** ![](images/_page_4_Figure_16.jpeg) ## **LARMRELÄ** ![](images/_page_4_Figure_18.jpeg) #### LARMNIVÅER STANDARDVÄRDEN | LARMTYP<br>SYS",  
+  "position": [  
+    8805,  
+    8842  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Utsp",  
+  "context": "gar. Finns med hålbild för 1-12vred. 22,5mm hål. *CE-märkt enligt* **EN61000-6-3:2001 EN61000-6- 2:2005.** | E-Nummer | **Typ | Utsp.** och ström | | Batteriplats | HxBxD mm | |----------|-----------|---------------------------|----------|----------------",  
+  "position": [  
+    1672,  
+    1683  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Beskrivning | |--------------|-----|-----------------------------------------------------------------------| | 5256993 | 102 | LARMKORT Laddspänningslarm - Batteriövervakning - Låg batterispänning | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "kan återställas när batterierna är kontrollerade eller utbytta. CE-märkt enligt EN61000-1-2 och EN61000-3-4 | E-Nummer T**yp | | Beskrivning | |--------------|-----|-----------------------------------------------------------------------| | 5256993 | 102 | LARMKORT Laddspänningslarm - Batteriövervakning - Låg batterispänning | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.s**wtm.se Telefax nr/Telefax no +46(0)303-748 490 e-post info@swtm.se ![](images/_page_4_Picture_1.jpeg) ## **INKOPPLINGSANVISNIN",  
+  "position": [  
+    7130,  
+    7493  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5256993"  
+  ],  
+  "product_id": "50098009"  
+}
+

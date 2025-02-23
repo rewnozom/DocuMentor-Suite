@@ -1,0 +1,26 @@
+{  
+  "product_id": "50106004",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Med en reglerad 27,6 VDC utgång levereras kontinuerlig full märkström 1,5 A, plus ytterligare 0,5 A för laddning av två stycken 12 V backup batterier. Den högeffektiva switchade konstruktionen garanterar låga driftskostnader, genererar mindre värme och med ett litet kretskort ökar utrymmet för ytterligare PCB eller kablar i kapslingen. Den modulära konstruktionen förenklar underhållet.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "recommended",  
+      "related_product": "användning i CCTV- passer- och icke godkända brandlarmanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Den modulära konstruktionen förenklar underhållet",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

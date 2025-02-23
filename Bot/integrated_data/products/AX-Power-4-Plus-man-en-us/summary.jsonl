@@ -1,0 +1,25 @@
+{  
+  "product_id": "AX-Power-4-Plus-man-en-us",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n#### Manual\n\nUpdated 11/23/2020\n\n# **AX-Power 4 Plus**\n\nPower supply unit with PoE switch, possibility for reserve power and smart solutions for expansion and installation. ![](images/_page_0_Picture_5.jpeg)\n\n### Introduction\n\nAX-Power 4 is a power supply unit PoE (Power over Ethernet) according to the standard IEEE 802.3at, with the possibility of uninterruptible power as the unit has room for 4 pcs. batteries (12V 7.2-9 Ah).",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "for 4 pcs",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "Axema runs with four batteries",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "solutions"  
+    ]  
+  }  
+}
+

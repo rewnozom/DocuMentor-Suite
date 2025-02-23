@@ -1,0 +1,383 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "förhindrar ofrivilligt öppnande av luckor",  
+  "context": "för indikering stängd röklucka - Styrning av rökluckor från brandlarmcentral - Spärrning av utgångar - Service switch so**m förhindrar ofrivilligt öppnande av luckor. **### BESKRIVNING Styrenheter manövrering av rökluckor med omkopplare och elektronik för styrning från brandlarmcentral e",  
+  "position": [  
+    834,  
+    879  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "RLS500",  
+  "context": "ddas av säkringar. RLS600 styraggregat för 1-12 sektioner och är avsett för yttre nätaggregat och har samma funktioner s**om RLS500.** RLS40 Nyckelstyrd central för rökluckor. För 1 sektion med inbyggd strömförsörjning på 24V 0,5A samt 2st 12V 0,8Ah batt",  
+  "position": [  
+    1473,  
+    1483  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kapsling med hål för vred | | 2 | 160x220x80 | | 6305002 | RLS100-2 | | Tom kapsling med hål för 2st vred | | 2 | 160x220x80 | | 6305003 | RLS100-6 | | Tom kapsling med hål för 6st vred | | 3 | 350x360x100 | | 6305004 | RLS100-12 | | Tom kapsling med hål för 12st vred | | 4 | 465x360x115 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "ngar | | 4 | 465x360x115 | | 6301008 | RLS600-12 | -<br>- | 12 utgångar | | 4 | 465x360x115 | | 6301002 | RLS100-1 | | T**om kapsling med hål för vred | | 2 | 160x220x80 | | 6305002 | RLS100-2 | | Tom kapsling med hål för 2st vred | | 2 | 160x220x80 | | 6305003 | RLS100-6 | | Tom kapsling med hål för 6st vred | | 3 | 350x360x100 | | 6305004 | RLS100-12 | | Tom kapsling med hål för 12st vred | | 4 | 465x360x115 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se e-post info@swtm.se VAT.NO SE556289017701 ## **RLS500/600 RÖKLUCKESTYRNING** ![](images/_page_1_Picture_1.jpeg) #### FU",  
+  "position": [  
+    2771,  
+    3213  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "6305002",  
+    "6305003",  
+    "6305004"  
+  ],  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den är öppen eller stängd",  
+  "context": "är en gemensam minus för utgången. Ingång MK1 skall kopplas till någon form av brytare vid rökluckan för övervakning av **om den är öppen eller stängd.** Kontakten ska vara normalt sluten och brytas vid öppning. - När vred eller ingång för extern öppning av röklucka aktive",  
+  "position": [  
+    4074,  
+    4103  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "luckor är stängda eller öppna",  
+  "context": "dikering, av status på övervakningen av rökluckor, för fastighetsskötare eller liknande. Kopplas till plint 9 och visar **om luckor är stängda eller öppna.** #### BLOCKERING AV UTGÅNGAR - BLOCK ingång Spärrar all utgångar när man inte vill att rökluckor ska öppnas tex vid spri",  
+  "position": [  
+    5295,  
+    5328  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan användas vid service för att förhindra oavsiktlig öppning av luckor",  
+  "context": "rfunktion eller liknande. För spärrning så skall plint 1 kopplas till kontakt med slutande funktion. - SERVICE Brytare s**om kan användas vid service för att förhindra oavsiktlig öppning av luckor.** Ställs i läge ON för spärrning av alla utgångar. #### SAMMANKOPPLING AV STYRKORT - W7 kort1(Som normalt är försedd med",  
+  "position": [  
+    5572,  
+    5647  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "normalt är försedd med jumper) kopplas till W8 på kort2 – kontakt till kontakt",  
+  "context": "siktlig öppning av luckor. Ställs i läge ON för spärrning av alla utgångar. #### SAMMANKOPPLING AV STYRKORT - W7 kort1(S**om normalt är försedd med jumper) kopplas till W8 på kort2 – kontakt till kontakt.** W7 på kort2 förses med jumper. #### FELINDIKERINGAR **Strömförsörjning med plats för batteri** #### INDIKERINGAR - Indi",  
+  "position": [  
+    5741,  
+    5823  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "driftindikering och allt är OK",  
+  "context": "ELINDIKERINGAR **Strömförsörjning med plats för batteri** #### INDIKERINGAR - Indikeringslampan på fronten lyser grönt s**om driftindikering och allt är OK.** - Indikeringslampan lyser rött, lampan i vredet är tänd, LED på kortet lyser - Någon lucka är öppen/fel på gränslägesbr",  
+  "position": [  
+    5981,  
+    6015  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+  "context": "e_3_Picture_0.jpeg) ## **RLS500/600 RÖKLUCKESTYRNING** **SM40** ### SÄKERHET Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    6675,  
+    6750  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "ngar och strömmar förekommer i apparaten både när interna säkringarna är av eller på. Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    6948,  
+    7001  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "eller på. Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt",  
+  "position": [  
+    7024,  
+    7114  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "onenter samt säkerhet skall leverantören kontaktas. Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. | Modell | Säkring F1 | Säkring F2 | | |----------|------------|------------|--| | RLS500",  
+  "position": [  
+    7183,  
+    7242  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "vred eller ingång för extern öppning av röklucka aktiverats försvinner 24V spänningen på utgång RÖKL 1 plint nr3 och spänningen kopplas till plint nr1 Rökluckorna öppnas och vredet lyser rött och larmreläet växlar",  
+  "context": "rökluckan för övervakning av om den är öppen eller stängd. Kontakten ska vara normalt sluten och brytas vid öppning. - N**är vred eller ingång för extern öppning av röklucka aktiverats, försvinner 24V spänningen på utgång RÖKL 1 plint nr3 och spänningen kopplas till plint nr1 Rökluckorna öppnas och vredet lyser rött och larmreläet växlar. **När vredet återställs kommer spänningen tillbaka på plint nr3. Lampan i knappen släcks när alla rökluckorna är stängda",  
+  "position": [  
+    4164,  
+    4383  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "vredet återställs kommer spänningen tillbaka på plint nr3",  
+  "context": "RÖKL 1 plint nr3 och spänningen kopplas till plint nr1 Rökluckorna öppnas och vredet lyser rött och larmreläet växlar. N**är vredet återställs kommer spänningen tillbaka på plint nr3. **Lampan i knappen släcks när alla rökluckorna är stängda och övervakningsslingan är sluten. Larmreläet återställsautomat",  
+  "position": [  
+    4384,  
+    4446  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "alla rökluckorna är stängda och övervakningsslingan är sluten",  
+  "context": "yser rött och larmreläet växlar. När vredet återställs kommer spänningen tillbaka på plint nr3. Lampan i knappen släcks **när alla rökluckorna är stängda och övervakningsslingan är sluten.** Larmreläet återställsautomatiskt. - Styrning från brandlarmcentral eller rökdetektor med reläkontakt, kopplas till EXT",  
+  "position": [  
+    4471,  
+    4537  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "man inte vill att rökluckor ska öppnas tex vid sprinklerfunktion eller liknande",  
+  "context": "ill plint 9 och visar om luckor är stängda eller öppna. #### BLOCKERING AV UTGÅNGAR - BLOCK ingång Spärrar all utgångar **när man inte vill att rökluckor ska öppnas tex vid sprinklerfunktion eller liknande.** För spärrning så skall plint 1 kopplas till kontakt med slutande funktion. - SERVICE Brytare som kan användas vid servi",  
+  "position": [  
+    5393,  
+    5477  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet om system",  
+  "position": [  
+    6874,  
+    6913  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "För att aktivera en extern styringång måste SW1 – Extern styrning – ställas i läge off",  
+  "context": "yrning från brandlarmcentral eller rökdetektor med reläkontakt, kopplas till EXT plinten( NC). Ext1 styr utgång RÖKL1 os**v. För att aktivera en extern styringång måste SW1 – Extern styrning – ställas i läge off.** Brytare nr1 styr ingång Ext1 osv. Ingång ALLA styr alla tre utgångarna och då måste alla brytarna i SW1 ställas i läge",  
+  "position": [  
+    4696,  
+    4786  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Ingång ALLA styr alla tre utgångarna och då måste alla brytarna i SW1 ställas i läge off",  
+  "context": "För att aktivera en extern styringång måste SW1 – Extern styrning – ställas i läge off. Brytare nr1 styr ingång Ext1 osv**. Ingång ALLA styr alla tre utgångarna och då måste alla brytarna i SW1 ställas i läge off. **Kontakten ska vara normalt sluten och brytas vid öppning. Rökdetektorn spänningsmatas från 24V plinten. ![](images/_page_1_Fig",  
+  "position": [  
+    4818,  
+    4910  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "* ![](images/_page_0_Picture_1.jpeg) ![](images/_page_0_Figure_2.jpeg) Skydd: Aggregatet är skyddad mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri skyddas av säkringar. Indikeringar och larm: Status indikeras med lysdiod på fronten. Grön lysdio",  
+  "position": [  
+    159,  
+    210  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Ingång MK1 skall kopplas till någon form av brytare vid rökluckan för övervakning av om den är öppen eller stängd",  
+  "context": "konstant 24V spänning på utgång RÖKL 1 plint nr3 och plint nr1 är spänningslös. Plint nr2 är en gemensam minus för utgån**gen. Ingång MK1 skall kopplas till någon form av brytare vid rökluckan för övervakning av om den är öppen eller stängd.** Kontakten ska vara normalt sluten och brytas vid öppning. - När vred eller ingång för extern öppning av röklucka aktive",  
+  "position": [  
+    3984,  
+    4103  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- När vred eller ingång för extern öppning av röklucka aktiverats försvinner 24V spänningen på utgång RÖKL 1 plint nr3 och spänningen kopplas till plint nr1 Rökluckorna öppnas och vredet lyser rött och larmreläet växlar",  
+  "context": "e vid rökluckan för övervakning av om den är öppen eller stängd. Kontakten ska vara normalt sluten och brytas vid öppnin**g. - När vred eller ingång för extern öppning av röklucka aktiverats, försvinner 24V spänningen på utgång RÖKL 1 plint nr3 och spänningen kopplas till plint nr1 Rökluckorna öppnas och vredet lyser rött och larmreläet växlar.** När vredet återställs kommer spänningen tillbaka på plint nr3. Lampan i knappen släcks när alla rökluckorna är stängda",  
+  "position": [  
+    4159,  
+    4383  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Rökdetektorn spänningsmatas från 24V plinten",  
+  "context": "utgångarna och då måste alla brytarna i SW1 ställas i läge off. Kontakten ska vara normalt sluten och brytas vid öppning**. Rökdetektorn spänningsmatas från 24V plinten. **![](images/_page_1_Figure_7.jpeg) ## **RLS500/600 RÖKLUCKESTYRNING** **SM40** ![](images/_page_2_Picture_1.jpeg) ### FUNKTION #### EX",  
+  "position": [  
+    4966,  
+    5014  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Anslut därefter lasten",  
+  "context": "ablarna. - Anslut först 230V AC. Spänningsätt. - 3st gröna LED tänds på fronten. - Kontrollera att utspänningen är rikti**g. - Anslut därefter lasten.** - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. - Larmrelä ritade i olarmat läge. ![](_pag",  
+  "position": [  
+    7832,  
+    7860  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Yttre panel för indikering eller styrning av rökluckor från annan plats",  
+  "context": ", öppen lucka, indikerings- eller säkringsfel. #### STYRNINGAR #### Utgångar- - 1-12st grupper av rökluckor beroende på **modell - Yttre panel för indikering eller styrning av rökluckor från annan plats.** - Summalarmrelä - Ingångar- - Gränslägesbrytare för indikering stängd röklucka - Styrning av rökluckor från brandlarmce",  
+  "position": [  
+    585,  
+    666  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Säkring F1 | Säkring F2 | | |----------|------------|------------|--| | RLS500-3 | 2AT Cer | 315AT | | | RLS500-6 | 2AT Cer | 315AT | | #### INKOPPLING **Strömförsörjning med plats för batteri** - Montera aggregatet fritt",  
+  "context": "h inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt aktiva. Kortslut inte batteripolerna. | **Modell | Säkring F1 | Säkring F2 | | |----------|------------|------------|--| | RLS500-3 | 2AT Cer | 3,15AT | | | RLS500-6 | 2AT Cer | 3,15AT | | #### INKOPPLING **Strömförsörjning med plats för batteri** - Montera aggregatet fritt.** Minst 100mm på varje sida. - Lossa de två skruvarna i locket. - Lätta försiktigt på locket och lossa bandkabeln till ly",  
+  "position": [  
+    7275,  
+    7508  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Utsp",  
+  "context": "n. max 0,5 % av utspänningen | | Temp.omr- | 0 – 30 C | | CE-märkt | EN61000-6-3:2001 | | | EN61000-6-2:2005 | | E-Nr | **Typ | Utsp.** / Ström | Utgångar | Batteriplats | Kapsling | HxBxD mm | |---------|-----------|---------------|----------------------",  
+  "position": [  
+    1949,  
+    1960  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50098011"  
+}
+

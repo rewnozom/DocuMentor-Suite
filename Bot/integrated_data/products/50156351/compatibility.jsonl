@@ -1,0 +1,56 @@
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | Ursprungsland | Sverige | | | |",  
+  "context": "EN61000-3-2:2001. Immunity: EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | Garantiperiod: | 2 år | | Designad av: | Milleteknik AB | | Ursprungsland: | Sverige | | | |",  
+  "position": [  
+    1592,  
+    1648  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "24 VDC - √ Stöder IEEE 802",  
+  "context": "jpeg) PoE ## PoE injector 4p ![](images/_page_0_Picture_3.jpeg) - √ PoE injector, 4 Ethernet / 4 PoE portar - √ Matningsspännin**g: 24 VDC - √ Stöder IEEE 802.**3af/15,4W & IEEE 802.3at/30,8W - √ Kan monteras på vägg eller DIN skena | REKOMMENDERAD MILJÖ OCH MÅTT: | | |-----------",  
+  "position": [  
+    142,  
+    172  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 273VDC | | Utspänning | PoE (546VDC) | | Antal LAN / PoE portar | 4 st",  
+  "context": "Omgivningstemperatur: | +5 °C - 40 °C | | Dimension (HxBxD): | 117x155x135 mm | | ELEKTRISK INFORMATION: | | | Inspännin**g: | 27,3VDC | | Utspänning: | PoE (54,6VDC) | | Antal LAN / PoE portar: | 4 st.** / 4 st. | | Max effekt per port: | 30,8W | | PoE Budget: | 120W | | Ethernettyp: | Injector | | Typ av nätverksport: |",  
+  "position": [  
+    758,  
+    838  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Injector | | Typ av nätverksport | 10 / 100 PoE+ | | Gränssnit | 1000Base-T RJ-45 | | Stöd för standard enligt | IEEE 802",  
+  "context": "4,6VDC) | | Antal LAN / PoE portar: | 4 st. / 4 st. | | Max effekt per port: | 30,8W | | PoE Budget: | 120W | | Ethernet**typ: | Injector | | Typ av nätverksport: | 10 / 100 PoE+ | | Gränssnit: | 1000Base-T RJ-45 | | Stöd för standard enligt: | IEEE 802.**3at, IEEE 802.3af | | Funktioner: | Auto-negotiation, Auto-uplink (auto MDI/MDI-X) | | Managerbar: | Nej | | ARTIKELINFO",  
+  "position": [  
+    915,  
+    1047  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156351"  
+}
+

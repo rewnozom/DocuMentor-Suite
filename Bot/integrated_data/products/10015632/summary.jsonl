@@ -1,0 +1,65 @@
+{  
+  "product_id": "10015632",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n![](images/_page_0_Picture_3.jpeg)\n\nSM40 1-2,5A SM40 0,5/0,8A\n\nSkydd: Aggregatet är skyddad mot\n\növerbelastning och kortslutning. Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri skyddas av säkringar.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "24V 5A och i 24V 10A",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "drift av alla typer av svagströmsanläggningar larm brand och passagesystem där man vill ha ett miljöanpassat system",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "drift av alla typer av svagströmsanläggningar larm brand och passagesystem där man vill ha ett miljöanpassat system",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "fits",  
+      "related_product": "24V 5A och i 24V 10A",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "05/08A är försedda med larmrelä för nätavbrott",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kännetecknas av små dimensioner och enkel inkoppling",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "DC5 Ger 2st utgångar med 12VDC 5A",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "justering görs direkt på likriktarmodulen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

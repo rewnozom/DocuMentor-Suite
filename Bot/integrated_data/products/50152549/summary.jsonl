@@ -1,0 +1,31 @@
+{  
+  "product_id": "50152549",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": null,  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "säkerställer drift",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "PRO med tre externa larmutgångar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- Alla uppgifter med reservation för ändringar",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

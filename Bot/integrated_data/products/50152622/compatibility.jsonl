@@ -1,0 +1,193 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "19\" rackmontage",  
+  "context": "emot batterierna, automatsäkring emellan<br>batterier samt färdig kabel för anslutning emot batteribackupen. Hyllan är a**vsedd för 19\" rackmontage.<**br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas om produkten skall nyttjas tillsammans med NEO / NOVA /",  
+  "position": [  
+    1348,  
+    1375  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "19\" rackmontage",  
+  "context": "emot batterierna, automatsäkring emellan<br>batterier samt färdig kabel för anslutning emot batteribackupen. Hyllan är a**vsedd för 19\" rackmontage.<**br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas om produkten skall nyttjas tillsammans med NEO / NOVA /",  
+  "position": [  
+    1761,  
+    1788  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "19\" rackmontage",  
+  "context": "shelf M | Batterihylla med plats för upp till 2x 45Ah batterier. Levereras exkl. kablage och automatsäkring. Hyllan är a**vsedd för 19\" rackmontage. **| | | | | | Battery shelf L | Batterihylla med plats för upp till 2x 150Ah batterier alternativt upp till 4x 150Ah fron",  
+  "position": [  
+    2059,  
+    2086  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "19\" rackmontage",  
+  "context": "erier alternativt upp till 4x 150Ah front terminal batterier. Levereras exkl. kablage och automat<br>säkring. Hyllan är **avsedd för 19\" rackmontage.**<br>Används med fördel tillsammans med med våra \"Battery connection panels\" vid användning av front terminal batterier.",  
+  "position": [  
+    2286,  
+    2313  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "placering emellan rackstolparna i ett 19\" rack",  
+  "context": "r alternativt upp till 4x 150Ah front terminal batterier. Levereras exkl. kabla<br>ge och automatsäkring. Golvhyllan är **avsedd för placering emellan rackstolparna i ett 19\" rack.**<br>Används med fördel tillsammans med med våra \"Battery connection panels\" vid användning av front terminal batterier.",  
+  "position": [  
+    2656,  
+    2714  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M",  
+  "context": "t batteribackupen. Hyllan är avsedd för 19\" rackmontage.<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas **om produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M.** | | | | | | Battery shelf 24V L | Batterihylla med plats för upp till 2x 150Ah batterier. Levereras med färdigt kablage",  
+  "position": [  
+    1439,  
+    1506  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M",  
+  "context": "t batteribackupen. Hyllan är avsedd för 19\" rackmontage.<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas **om produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M.** | | | | | | Battery shelf M | Batterihylla med plats för upp till 2x 45Ah batterier. Levereras exkl. kablage och automa",  
+  "position": [  
+    1852,  
+    1919  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | | | | | Ursprungsland | | | Sverige | | | | Information och val av batteri / batterier | | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM | | | | | | Möjliga batterier för montering på hylla | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | | Artikelnummer rekommenderat batteri | MT113-12V45-01 | MT113-12V150-01 | | MT113-12V150-01 | MT114-12V150-FT | | Milleteknik AB | | | | | För order order@milleteknik",  
+  "context": "61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | | | | | Garantiperiod: | | | 2 år | | | | Designad och producerad a**v: | Milleteknik AB | | | | | | Ursprungsland: | | | Sverige | | | | Information och val av batteri / batterier: | | | | | | | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM | | | | | | Möjliga batterier för montering på hylla: | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | | Artikelnummer rekommenderat batteri: | MT113-12V45-01 | MT113-12V150-01 | | MT113-12V150-01 | MT114-12V150-FT | | Milleteknik AB | | | | | För order: order@milleteknik.**se | POWER SUPPLIES - MADE IN SWEDEN **Milleteknik AB** Ögärdesvägen 8B 433 30 Partille Sweden",  
+  "position": [  
+    4257,  
+    5002  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Hyllan är avsedd för 19\" rackmontage",  
+  "context": "| | | Battery shelf M | Batterihylla med plats för upp till 2x 45Ah batterier. Levereras exkl. kablage och automatsäkrin**g. Hyllan är avsedd för 19\" rackmontage.** | | | | | | Battery shelf L | Batterihylla med plats för upp till 2x 150Ah batterier alternativt upp till 4x 150Ah fron",  
+  "position": [  
+    2046,  
+    2086  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Hyllan är avsedd för 19\" rackmontage",  
+  "context": "2x 150Ah batterier alternativt upp till 4x 150Ah front terminal batterier. Levereras exkl. kablage och automat<br>säkrin**g. Hyllan är avsedd för 19\" rackmontage.**<br>Används med fördel tillsammans med med våra \"Battery connection panels\" vid användning av front terminal batterier.",  
+  "position": [  
+    2273,  
+    2313  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Golvhyllan är avsedd för placering emellan rackstolparna i ett 19\" rack",  
+  "context": "2x 150Ah batterier alternativt upp till 4x 150Ah front terminal batterier. Levereras exkl. kabla<br>ge och automatsäkrin**g. Golvhyllan är avsedd för placering emellan rackstolparna i ett 19\" rack.**<br>Används med fördel tillsammans med med våra \"Battery connection panels\" vid användning av front terminal batterier.",  
+  "position": [  
+    2639,  
+    2714  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 19\" rack | | | | Golvmontage | | Dimension (HxBxD) | 215x438x200mm (5HE) | 290x490x430mm (7HE) | 215x438x200mm (5HE) | 290x490x430mm (7HE) | 130x448x500mm (3HE) | | Nettovikt | 7kg | 10kg | 3kg | 5kg | 5kg | | Kapslingens färg | | | Svart | | | | Elektrisk information | | | | | | | Inspänning /Utspänning | 273VDC / 273VDC<br>-<br>- | | | | | | Artikel information | | | | | | | Artikelnamn | Battery shelf 24V M | Battery shelf 24V L | Battery shelf M | Battery shelf L | Battery shelf floor | | Artikelnummer | BS010000024BM01 | BS020000024BL01 | BS010000000BM01 | BS020000000BL01 | BS030000000BF01 | | E-nummer | 5213578 | 5213587 | - | 5213624 | 5213510 | | Produkten möter kraven enligt | EMC Direktiv 2014/30EU Lågspännings direktivet 2014/35/EU CE direktivet enligt765/2008 EmissionEN61000-6-2001<br>EN550221998-A12000 A22003 Klass B EN61000-3-22001",  
+  "context": "40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | Skyddsklass: | IP20 | | | | | | Rekommenderad montering**: | 19\" rack | | | | Golvmontage | | Dimension (HxBxD): | 215x438x200mm (5HE) | 290x490x430mm (7HE) | 215x438x200mm (5HE) | 290x490x430mm (7HE) | 130x448x500mm (3HE) | | Nettovikt: | 7kg | 10kg | 3kg | 5kg | 5kg | | Kapslingens färg: | | | Svart | | | | Elektrisk information: | | | | | | | Inspänning /Utspänning: | 27,3VDC / 27,3VDC<br>-<br>- | | | | | | Artikel information: | | | | | | | Artikelnamn: | Battery shelf 24V M | Battery shelf 24V L | Battery shelf M | Battery shelf L | Battery shelf floor | | Artikelnummer: | BS010000024BM01 | BS020000024BL01 | BS010000000BM01 | BS020000000BL01 | BS030000000BF01 | | E-nummer: | 5213578 | 5213587 | - | 5213624 | 5213510 | | Produkten möter kraven enligt: | EMC Direktiv 2014/30EU, Lågspännings direktivet: 2014/35/EU CE direktivet enligt:765/2008, Emission:EN61000-6-:2001,<br>EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001. **Immunity: EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | | | | | Garantiperiod: | | | 2 år | | | | Designad och",  
+  "position": [  
+    3235,  
+    4124  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5213578",  
+    "5213587",  
+    "5213624",  
+    "5213510",  
+    "61000",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001"  
+  ],  
+  "product_id": "50152622"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V Underhållsfria batterier typ AGM | | | | | | Möjliga batterier för montering på hylla | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | | Artikelnummer rekommenderat batteri | MT113-12V45-01 | MT113-12V150-01 | | MT113-12V150-01 | MT114-12V150-FT | | Milleteknik AB | | | | | För order order@milleteknik",  
+  "context": "| | Ursprungsland: | | | Sverige | | | | Information och val av batteri / batterier: | | | | | | | Rekommenderad batteri**typ: | 12V Underhållsfria batterier, typ AGM | | | | | | Möjliga batterier för montering på hylla: | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah | 2x 28Ah / 2x 45Ah | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | 2x 75Ah / 2x 100Ah /<br>2x 120Ah / 2x 150Ah<br>4x 62Ah FT / 4x 92Ah FT<br>4x 100Ah FT/<br>4x 125Ah FT/<br>4x 150Ah FT | | Artikelnummer rekommenderat batteri: | MT113-12V45-01 | MT113-12V150-01 | | MT113-12V150-01 | MT114-12V150-FT | | Milleteknik AB | | | | | För order: order@milleteknik.**se | POWER SUPPLIES - MADE IN SWEDEN **Milleteknik AB** Ögärdesvägen 8B 433 30 Partille Sweden",  
+  "position": [  
+    4405,  
+    5002  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152622"  
+}
+

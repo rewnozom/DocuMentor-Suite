@@ -1,0 +1,238 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "standard 19\" stativ med korta fästjärn",  
+  "context": "sörjning som är helt färdig med rackvinklar och som har plats för batterier. Väldigt enkel inkoppling och snygg design. **Passar i standard 19\" stativ med korta fästjärn.** Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passages",  
+  "position": [  
+    803,  
+    851  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+  "context": "om har plats för batterier. Väldigt enkel inkoppling och snygg design. Passar i standard 19\" stativ med korta fästjärn. **Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passagesystem.** Utförande: Aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för 19\" montage. SM3100 är primärswi",  
+  "position": [  
+    852,  
+    977  
+  ],  
+  "pattern_index": 10,  
+  "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+  "context": "om har plats för batterier. Väldigt enkel inkoppling och snygg design. Passar i standard 19\" stativ med korta fästjärn. **Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passagesystem.** Utförande: Aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för 19\" montage. SM3100 är primärswi",  
+  "position": [  
+    852,  
+    977  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "fits",  
+  "related_product": "standard 19\" stativ med korta fästjärn",  
+  "context": "sörjning som är helt färdig med rackvinklar och som har plats för batterier. Väldigt enkel inkoppling och snygg design. **Passar i standard 19\" stativ med korta fästjärn.** Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passages",  
+  "position": [  
+    803,  
+    851  
+  ],  
+  "pattern_index": 58,  
+  "pattern": "(?i)passar\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är helt färdig med rackvinklar och som har plats för batterier",  
+  "context": "\"Klickas\" fast på DIN-skena. Sabotageskydd: Monteras i förborrade hål. #### BESKRIVNING En riktig 19\" strömförsörjning s**om är helt färdig med rackvinklar och som har plats för batterier.** Väldigt enkel inkoppling och snygg design. Passar i standard 19\" stativ med korta fästjärn. Lämplig för drift av alla t",  
+  "position": [  
+    693,  
+    759  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "elektronikutrustningar telecom larm styr och passagesystem",  
+  "context": "ygg design. Passar i standard 19\" stativ med korta fästjärn. Lämplig för drift av alla typer av svagströmsanläggningar s**om elektronikutrustningar, telecom, larm, styr, och passagesystem.** Utförande: Aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för 19\" montage. SM3100 är primärswi",  
+  "position": [  
+    911,  
+    977  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta **Strömförsörjning med plats för batteri** > serva/underhålla installera denna enhet",  
+  "context": "tm.se VAT.NO SE556289017701 ![](images/_page_1_Picture_1.jpeg) ## SÄKERHET **SM40** Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, **Strömförsörjning med plats för batteri** > serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    2920,  
+    3040  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "ngar och strömmar förekommer i apparaten både när interna säkringarna är av eller på. Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    3238,  
+    3291  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "eller på. Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt",  
+  "position": [  
+    3314,  
+    3404  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "onenter samt säkerhet skall leverantören kontaktas. Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. ## INKOPPLING - Montera aggregatet fritt. - Anslut först 230V AC. - Lysdiod för nätspänni",  
+  "position": [  
+    3473,  
+    3532  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "AC. - Lysdiod för nätspänning tänds. Kontrollera att utspänningen är riktig. - Vid behov justera utspänningen med V2. - **Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna.** - Anslut batterierna och därefter lasten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater.",  
+  "position": [  
+    3745,  
+    3829  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet om system",  
+  "position": [  
+    3164,  
+    3203  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "e_0_Picture_0.jpeg) ![](images/_page_0_Picture_2.jpeg) **SM40** Skydd: Aggregatet är skyddad mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri skyddas av 2-poliga säkringar. Indikeringar och larm: Nätspänning indikeras med grön lysdiod på f",  
+  "position": [  
+    128,  
+    179  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Det finns 6st genomförningar bakåt",  
+  "context": "erad plåtkapsling och avsett för 19\" montage. SM3100 är primärswitchad och har mycket lågt rippel och noggrann utspännin**g. Det finns 6st genomförningar bakåt.** Plats finns för max 2st 12V 14Ah underhållsfria blybatterier i aggregatet. Med batterienhet kan man få ytterligare batt",  
+  "position": [  
+    1152,  
+    1190  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Vid behov justera utspänningen med V2",  
+  "context": "Montera aggregatet fritt. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. Kontrollera att utspänningen är rikti**g. - Vid behov justera utspänningen med V2.** - Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. - Anslut batterierna och därefte",  
+  "position": [  
+    3699,  
+    3742  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Säkring S1<br>S2 | Säkring<br>S3 S4 | Säkring<br>S5 S6 | |--------------|-------------------|-------------------|-------------------| | | | | | | SM3100/12-3 | 1AT Cer | 315AS | 4AS | | SM3100/12-5 | 2AT Cer | 5AS | 63AS | | SM3100/12-10 | 2AT Cer | 10AS | 15AS | | | | | | | SM3100/24-3 | 2AT Cer | 315AS | 4AS | | SM3100/24-5 | 2AT Cer | 5AS | 63AS | | SM3100/24-10 | 3AT Cer | 10AS | 15AS | | | | | | | SM3100/48-5 | 63AT Cer | 5AS | 15AS | | SM3100/48-10 | 63AT Cer | 10AS | 15AS | ![](images/_page_2_Picture_1",  
+  "context": "msida/Webb www.swtm.se e-post info@swtm.se VAT.NO SE556289017701 ![](images/_page_1_Figure_27.jpeg) # **Spänningsjustering** | **Modell | Säkring S1,<br>S2 | Säkring<br>S3, S4 | Säkring<br>S5, S6 | |--------------|-------------------|-------------------|-------------------| | | | | | | SM3100/12-3 | 1AT Cer | 3,15AS | 4AS | | SM3100/12-5 | 2AT Cer | 5AS | 6,3AS | | SM3100/12-10 | 2AT Cer | 10AS | 15AS | | | | | | | SM3100/24-3 | 2AT Cer | 3,15AS | 4AS | | SM3100/24-5 | 2AT Cer | 5AS | 6,3AS | | SM3100/24-10 | 3AT Cer | 10AS | 15AS | | | | | | | SM3100/48-5 | 6,3AT Cer | 5AS | 15AS | | SM3100/48-10 | 6,3AT Cer | 10AS | 15AS | ![](images/_page_2_Picture_1.**jpeg) #### Optional Accessories **Strömförsörjning med plats för batteri** **SM40** ![](images/_page_2_Picture_3.jpeg) ![](_pag",  
+  "position": [  
+    4366,  
+    4892  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Utspänning | Utström | Batteriplats<br>(max) | Verkningsgrad | H x B x D<br>(mm) | |-----------|---------------|-----------------------|------------------|-----------------------|---------------|-----------------------| | 52 471 51 | SM3100/ 12-5 | 136V | 5A | 2 x 14Ah | 086 | 132 (3HE) x 480 x 200 | | 52 471 52 | SM3100/ 12-10 | 136V | 10A | 2 x 14Ah | 086 | 132 (3HE) x 480 x 200 | | 52 471 56 | SM3100/ 24-5 | 273V | 5A | 2 x 14Ah | 084 | 132 (3HE) x 480 x 200 | | 52 471 57 | SM3100/ 24-10 | 273V | 10A | 2 x 14Ah | 088 | 132 (3HE) x 480 x 200 | | 52 471 58 | SM3100/ 48-5 | 546V | 5A | 4 x 23Ah | 088 | 132 (3HE) x 480 x 200 | | 52 471 59 | SM3100/ 48-10 | 546V | 10A | 4 x 23Ah | 087 | 132 (3HE) x 480 x 200 | | 52 471 60 | SBX193 | Batterilåda 19\" | | 4 x 14Ah | | 132 (3HE) x 480 x 200 | | 52 569 91 | Sab",  
+  "context": "vid batteridrift | 20mA | | Temp. omr. | -15 – 40 C | | | | CE-märkt - EN61000-6-3:2001, EN61000-6-2:2005 | E: nummer | **Typ | Utspänning | Utström | Batteriplats<br>(max) | Verkningsgrad | H x B x D<br>(mm) | |-----------|---------------|-----------------------|------------------|-----------------------|---------------|-----------------------| | 52 471 51 | SM3100/ 12-5 | 13,6V | 5A | 2 x 14Ah | 0,86 | 132 (3HE) x 480 x 200 | | 52 471 52 | SM3100/ 12-10 | 13,6V | 10A | 2 x 14Ah | 0,86 | 132 (3HE) x 480 x 200 | | 52 471 56 | SM3100/ 24-5 | 27,3V | 5A | 2 x 14Ah | 0,84 | 132 (3HE) x 480 x 200 | | 52 471 57 | SM3100/ 24-10 | 27,3V | 10A | 2 x 14Ah | 0,88 | 132 (3HE) x 480 x 200 | | 52 471 58 | SM3100/ 48-5 | 54,6V | 5A | 4 x 2,3Ah | 0,88 | 132 (3HE) x 480 x 200 | | 52 471 59 | SM3100/ 48-10 | 54,6V | 10A | 4 x 2,3Ah | 0,87 | 132 (3HE) x 480 x 200 | | 52 471 60 | SBX193 | Batterilåda 19\" | | 4 x 14Ah | | 132 (3HE) x 480 x 200 | | 52 569 91 | Sab.**40 | Sabotagekontakt | | | | | | 52 569 93 | SM102 | Larmkort. låg batt sp | Laddspänningsfel | Batterikretsfel | | | Po",  
+  "position": [  
+    1676,  
+    2512  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50156099"  
+}
+

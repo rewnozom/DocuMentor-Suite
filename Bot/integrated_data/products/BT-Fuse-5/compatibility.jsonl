@@ -1,0 +1,56 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "alla batteribackupper upp till 10A",  
+  "context": "Fuse 5 är ett avsäkringskort 5 utgångar. 5 st 1-poligt avsäkrade utgångar som standard med F2A. Max. totalström är 10A. **Kan användas till alla batteribackupper upp till 10A.** Larm för utlöst lastsäkring via växlande larmrelä. Jackas kortet på moderkortet i BT-FLX SMALL, M/L fås larmet för utlö",  
+  "position": [  
+    232,  
+    285  
+  ],  
+  "pattern_index": 4,  
+  "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "standard med F2A",  
+  "context": "mmer: 6310037 ![](images/_page_0_Picture_3.jpeg) BT Fuse 5 är ett avsäkringskort 5 utgångar. 5 st 1-poligt avsäkrade utgångar s**om standard med F2A.** Max. totalström är 10A. Kan användas till alla batteribackupper upp till 10A. Larm för utlöst lastsäkring via växlande",  
+  "position": [  
+    187,  
+    207  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kortet jackas)",  
+  "context": "rtet i BT-FLX SMALL, M/L fås larmet för utlöst lastsäkring via R-CARD M5. Dubbla ingångar förenklar vid service (endast **om kortet jackas).** | Miljöklass: | MIljöklass 1 | |-----------------------------|-----------------| | Temperaturområde: | 5 °C - 40 °C | |",  
+  "position": [  
+    481,  
+    499  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 24V | | Benämning producent (SBSC) | 5 output module |",  
+  "context": "----------------|-----------------| | Temperaturområde: | 5 °C - 40 °C | | Mått (BxHxD): | 30x40x89mm | | Utgångsspännin**g: | 24V | | Benämning producent (SBSC): | 5 output module |**",  
+  "position": [  
+    665,  
+    725  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+

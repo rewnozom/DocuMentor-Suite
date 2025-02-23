@@ -1,0 +1,97 @@
+{  
+  "product_id": "50464770",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# PoE M-Switch 8p FLX M, PoE M-Switch 16p FLX M\n\nManaged PoE-switch och strömförsörjning med batteribackup\n\n350-251 Publiceringsdatum 2023-10-19\n\n| 1. Innan du börjar  4                                         |  |  |  |\n|---------------------------------------------------------------|--|--|--|\n| 1.1. Information  4                                           |  |  |  |\n| 1.1.1.",  
+  "key_specifications": [  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC Direktivet 2014/30EU                                  |\n|------|-----------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                        |\n| PoE: | IEEE 802",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "IP address",  
+      "value": "|                        |\n| IP address: | 192 ",  
+      "unit": null  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "gateway",  
+      "value": "|                        |\n| Obtain DNS server address automatically                                                                                                                                               |                        |\n| · Use the following DNS server addresses: |                        |\n| Preferred DNS server: | ",  
+      "unit": null  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE direktivet enligt:765/2008                             |\n\n#### 14",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "fast installation",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "mer än 13 W",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "to ask your network administrator<br>for the appropriate IP settings",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "du hjälp med installation eller inkoppling? Du hittar svar på många frågor på www",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "mer än 13 W",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "PoE från Milleteknik 5 | | | | | 3",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "visas på skåplucka / indikeringsdiod 37 | | | | | 13",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "4 (TCP / IPv4)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "4 (TCP/IP | | | nstall | Uninstall | Properties | | Description | Transmission Control Protocol/Intemet Protocol",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "4 (TCP/IPv4) Properties | × | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------| | General | | | You can get IP settings assigned automatically if your network supports<br>this capability",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "5785143875090"  
+    ],  
+    "Artikelnummer": [  
+      "erred",  
+      "kabel",  
+      "icles",  
+      "kommer",  
+      "mjukvara"  
+    ]  
+  }  
+}
+

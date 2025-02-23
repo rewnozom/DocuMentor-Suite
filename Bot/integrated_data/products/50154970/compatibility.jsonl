@@ -1,0 +1,56 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "för offentliga miljöer - 3 Effektklass 55A 233B C - 3 Fotring - 3 MED/Wheelmark - 3 EN 3-7 - 3 Väggfäste medföljer - 3 Etikett på svenska / norska ![](images/_page_0_Picture_14",  
+  "context": "e bara går att använda en gång, sedan måste den laddas om. Släckaren är återfyllningsbar av behörig servicetekniker.\" 3 **Rekommenderas för för offentliga miljöer - 3 Effektklass 55A 233B C - 3 Fotring - 3 MED/Wheelmark - 3 EN 3-7 - 3 Väggfäste medföljer - 3 Etikett på svenska / norska ![](images/_page_0_Picture_14.**jpeg) ## **TEKNISK DATA** | Släckmedel | 6 kg ABC-pulver | |------------------|--------------------| | Drivgas | Nitogen",  
+  "position": [  
+    544,  
+    732  
+  ],  
+  "pattern_index": 12,  
+  "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154970"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "för offentliga miljöer - 3 Effektklass 55A 233B C - 3 Fotring - 3 MED/Wheelmark - 3 EN 3-7 - 3 Väggfäste medföljer - 3 Etikett på svenska / norska ![](images/_page_0_Picture_14",  
+  "context": "e bara går att använda en gång, sedan måste den laddas om. Släckaren är återfyllningsbar av behörig servicetekniker.\" 3 **Rekommenderas för för offentliga miljöer - 3 Effektklass 55A 233B C - 3 Fotring - 3 MED/Wheelmark - 3 EN 3-7 - 3 Väggfäste medföljer - 3 Etikett på svenska / norska ![](images/_page_0_Picture_14.**jpeg) ## **TEKNISK DATA** | Släckmedel | 6 kg ABC-pulver | |------------------|--------------------| | Drivgas | Nitogen",  
+  "position": [  
+    544,  
+    732  
+  ],  
+  "pattern_index": 45,  
+  "pattern": "(?i)rekommenderas?\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154970"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan uppstå",  
+  "context": "tt den kan släcka en större yta. Pulversläckare anses vara den mest mångsidiga släckaren och släcker de flesta bränder s**om kan uppstå.** En pulversläckare är frostbeständig och leder ej elektricitet vilket innebär att du även kan släcka bränder i elektrisk",  
+  "position": [  
+    233,  
+    247  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154970"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Tänk på att en pulversläckare bara går att använda en gång sedan måste den laddas om",  
+  "context": "tbeständig och leder ej elektricitet vilket innebär att du även kan släcka bränder i elektrisk utrustning upp till 1000 **V. Tänk på att en pulversläckare bara går att använda en gång, sedan måste den laddas om.** Släckaren är återfyllningsbar av behörig servicetekniker.\" 3 Rekommenderas för för offentliga miljöer - 3 Effektklass 5",  
+  "position": [  
+    393,  
+    482  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154970"  
+}
+

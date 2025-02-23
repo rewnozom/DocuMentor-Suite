@@ -1,0 +1,42 @@
+{  
+  "relation_type": "accessory",  
+  "related_product": "en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+  "context": "glasfiberväv kväver brand snabbare än en vanlig brandfilt och minskar risken för återantändning avsevärt och är ett bra **komplement till en brandsläckare, för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl.** Placera brandfilten synligt där risk för brand kan förekomma, exempelvis i köket, verkstaden eller bredvid öppen spis.",  
+  "position": [  
+    310,  
+    421  
+  ],  
+  "pattern_index": 81,  
+  "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50461557"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gör den lätt att torka av",  
+  "context": "HEM** ## **FB-120 RH** BRANDFILT SILIKON, 120 CM ![](images/_page_0_Picture_2.jpeg) Brandfilt förpackad i en glansig hårdbox so**m gör den lätt att torka av. **En silikonbelagd brandfilt i glasfiberväv kväver brand snabbare än en vanlig brandfilt och minskar risken för återantän",  
+  "position": [  
+    131,  
+    160  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50461557"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "En silikonbelagd brandfilt i glasfiberväv kväver brand snabbare än en vanlig brandfilt och minskar risken för återantändning avsevärt och är ett bra komplement till en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+  "context": "NDFILT SILIKON, 120 CM ![](images/_page_0_Picture_2.jpeg) Brandfilt förpackad i en glansig hårdbox som gör den lätt att torka a**v. En silikonbelagd brandfilt i glasfiberväv kväver brand snabbare än en vanlig brandfilt och minskar risken för återantändning avsevärt och är ett bra komplement till en brandsläckare, för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl.** Placera brandfilten synligt där risk för brand kan förekomma, exempelvis i köket, verkstaden eller bredvid öppen spis.",  
+  "position": [  
+    158,  
+    421  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50461557"  
+}
+

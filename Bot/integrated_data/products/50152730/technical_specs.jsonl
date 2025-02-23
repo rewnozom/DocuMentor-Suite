@@ -1,0 +1,22 @@
+{  
+  "name": "Batterityp",  
+  "raw_value": "| 12V AGM-Batteri                                    |\n| Testad och godkänd med: | UPLUS 10+ Design Life 45Ah batteries (up to 10x 45 |\n| SBSC Certifierad: | SSF1014 Larmklass 4                                |\n| Benämning producent (SBSC): | NOVA 27 50-FLX_PRO1                                |",  
+  "category": "ELECTRICAL",  
+  "unit": "V",  
+  "value": {  
+    "raw_value": "| 12V AGM-Batteri                                    |\n| Testad och godkänd med: | UPLUS 10+ Design Life 45Ah batteries (up to 10x 45 |\n| SBSC Certifierad: | SSF1014 Larmklass 4                                |\n| Benämning producent (SBSC): | NOVA 27 50-FLX_PRO1                                |",  
+    "unit": "V",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "änning: | 27,3 VDC | | Möjlig batteri kombination: | 2x 45Ah | | Batterityp: | 12V AGM-Batteri | | Testad och godkänd med: | UPLUS 10+ Design Life 45Ah batteries (up to 10x 45 | | SBSC Certifierad: | ...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152730"  
+}
+

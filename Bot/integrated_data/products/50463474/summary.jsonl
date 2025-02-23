@@ -1,0 +1,33 @@
+{  
+  "product_id": "50463474",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Ethernet INTE-C-interfacet är avsett för att sitta i aggregat ur EN54C-LCD-serien. PowerSecuritymjukvaran möjliggör fjärrövervakning av olika parametrar genom kontinuerlig övervakning av aktuella status i batteribackupen. Möjliggör även läsning av händelseloggen och diagram över strömmar och spänningar och utför fjärrbatteritest. Se bild 2 Strömförsörjs genom seriekontakten.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "kontinuerlig övervakning av aktuella status i batteribackupen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "seriekontakten",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Anslutnin | Spännings | Loggning | Montage | Mått | |---------|---------------|-----------|-----------------------------|-----------|------------------------|--------------| | nummer | | g | försörjning | av värden | | | | 5257606 | INTE-C EN54-4 | RJ45 | Internt via<br>seriell port | Ja | Internt i<br>EN54C/LCD | 71 x 50 x 20 | Postadress/Postal address **Swansons Telemekanik AB** Osbackevägen 5 SE-449 44 Nol Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5257606"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

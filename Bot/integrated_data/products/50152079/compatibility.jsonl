@@ -1,0 +1,168 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "bytas ut",  
+  "context": "ddström som påverkar livslängden negativt. Aktiv kontroll av batterierna med intern konstlast, meddelar när batterierna **behöver bytas ut.** - Övervakar bl.a. följande funktioner, Indikeras via LED samt RS485 - o Nätspänning - o Batteristatus - o Batteribyte -",  
+  "position": [  
+    1643,  
+    1660  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "inbrottslarm och passagesystem",  
+  "context": "000-6-2:2005 | | | | | | | | # Beskrivning Gari G1/G2 är ett kraftaggregat för avbrottsfri DC-matning av 24VDC system in**om inbrottslarm och passagesystem.** Gari har olika ingångar och utgångar som konfigureras för olika funktionalitet samt kommunikationskanaler för interakti",  
+  "position": [  
+    974,  
+    1008  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "konfigureras för olika funktionalitet samt kommunikationskanaler för interaktion med centralutrustningar",  
+  "context": "t för avbrottsfri DC-matning av 24VDC system inom inbrottslarm och passagesystem. Gari har olika ingångar och utgångar s**om konfigureras för olika funktionalitet samt kommunikationskanaler för interaktion med centralutrustningar.** Konfiguration och kontroll av Gari kan även göras via PC-mjukvara som ansluter över USB. ### Funktioner - Justerbar uts",  
+  "position": [  
+    1047,  
+    1155  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ansluter över USB",  
+  "context": "ionskanaler för interaktion med centralutrustningar. Konfiguration och kontroll av Gari kan även göras via PC-mjukvara s**om ansluter över USB.** ### Funktioner - Justerbar utspänning, anpassas efter last utan att påverka batteriladdningen. - Smart-Charge Unik 3-st",  
+  "position": [  
+    1223,  
+    1244  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "påverkar livslängden negativt",  
+  "context": "Utjämningsladdning 3. Vila, laddningen stängs ner, batterierna slipper att åldras i förtid pga kontinuerlig laddström so**m påverkar livslängden negativt. **Aktiv kontroll av batterierna med intern konstlast, meddelar när batterierna behöver bytas ut. - Övervakar bl.a. följan",  
+  "position": [  
+    1532,  
+    1565  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "för nätspänning tänds. Kontrollera att utspänningen är den önskade. - Spänningsjustering görs direkt på likriktaren. - O**m lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. **- Anslut batterierna och därefter lasten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater.",  
+  "position": [  
+    3259,  
+    3343  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna behöver bytas ut",  
+  "context": "kontinuerlig laddström som påverkar livslängden negativt. Aktiv kontroll av batterierna med intern konstlast, meddelar n**är batterierna behöver bytas ut. **- Övervakar bl.a. följande funktioner, Indikeras via LED samt RS485 - o Nätspänning - o Batteristatus - o Batteribyte -",  
+  "position": [  
+    1627,  
+    1660  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Skyddad mot djupurladdning av batterierna",  
+  "context": "](_page_0_Picture_2.jpeg) ![](images/_page_0_Picture_3.jpeg) ### SKYDD Aggregatet är skyddat mot överbelastning och kortslutnin**g. Skyddad mot djupurladdning av batterierna.** Nät, last och batteri skyddas av säkringar. ## Indikeringar Statusindikering på fronten, mer info i manual. | Tekniska",  
+  "position": [  
+    150,  
+    195  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Smart-Charge Unik 3-stegs laddning 1",  
+  "context": "ukvara som ansluter över USB. ### Funktioner - Justerbar utspänning, anpassas efter last utan att påverka batteriladdnin**gen. - Smart-Charge Unik 3-stegs laddning 1.** Boost för snabb återladdning. 2. Utjämningsladdning 3. Vila, laddningen stängs ner, batterierna slipper att åldras i fö",  
+  "position": [  
+    1335,  
+    1379  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Ut/laddning - Last Aktuell Genomsnitt 1h 4h 24h - Batteri Backuptid Batteriålder Faktisk batterikapacitet Aktuell ladd",  
+  "context": "0** #### Funktioner: Konfigurering av enheten Aktuella fel Uppgradera mjukvara under drift ### Statusinformation Spännin**g: Ut/laddning - Last: Aktuell Genomsnitt: 1h, 4h, 24h - Batteri: Backuptid Batteriålder Faktisk batterikapacitet Aktuell ladd.** ström # INKOPPLING - Montera aggregatet fritt. Minst 100mm på varje sida. **Strömförsörjning med plats för batteri** -",  
+  "position": [  
+    2861,  
+    2988  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Ström | Nominell last<br>Larmklass 1-2 | Nominell last<br>Larmklass 3-4 | Max<br>peak | Batteriplats<br>(max) | HxBxD | |--------------|--------|-------|--------------------------------|--------------------------------|-------------|-----------------------|-----------------------| | 52<br>571 74 | G1 | 15A | 78 A | 31 A | 12A | 2 x 100Ah | 600<br>x 405<br>x 287 | | 52<br>571 75 | G2 | 6A | 35<br>A | 14 A | 525A | 2 x 45Ah | 400 x 405 x 257 | Postadress/Postal address Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "o Last, aktuell, ,nominell, toppvärde - Mjukvaruuppdatering under drift via USB. - Konfigureras via USB. | E: nummer | M**odell | Ström | Nominell last<br>Larmklass 1-2 | Nominell last<br>Larmklass 3-4 | Max<br>peak | Batteriplats<br>(max) | HxBxD | |--------------|--------|-------|--------------------------------|--------------------------------|-------------|-----------------------|-----------------------| | 52<br>571 74 | G1 | 15A | 7,8 A | 3,1 A | 12A | 2 x 100Ah | 600<br>x 405<br>x 287 | | 52<br>571 75 | G2 | 6A | 3,5<br>A | 1,4 A | 5,25A | 2 x 45Ah | 400 x 405 x 257 | Postadress/Postal address Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.s**wtm.se e-post info@swtm.se VAT.NO SE556289017701 # GARI **NYHET** SSF godkänd likriktare för inbrottslarm ![](images/_page_1_P",  
+  "position": [  
+    1945,  
+    2549  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Säkring F1<br>Nät | Säkring F2<br>UT | Säkring F3<br>BATTERI | |--------|-------------------|------------------|-----------------------| | G1 | 4AT ker",  
+  "context": "Anslut batterierna och därefter lasten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. | M**odell | Säkring F1<br>Nät | Säkring F2<br>UT | Säkring F3<br>BATTERI | |--------|-------------------|------------------|-----------------------| | G1 | 4AT ker. **| 12A | 15A | | G2 | | | | | G2 | 3,15AT ker. | 6,3A | 15A | ![](images/_page_1_Figure_19.jpeg)",  
+  "position": [  
+    3465,  
+    3626  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152079"  
+}
+

@@ -1,0 +1,210 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "drift av brandlarmsutrustning",  
+  "context": "x. SM925 avsäkringskort m. 5 grupper. SM950 larmdonskort och I/O enheter. ### **BESKRIVNING** Strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning.** Certifierad av tredje part enl.EN54-4; 1997/A2:2006 BF362 är primärswitchade och har mycket lågt rippel och noggrann ut",  
+  "position": [  
+    726,  
+    769  
+  ],  
+  "pattern_index": 8,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "designed_for",  
+  "related_product": "drift av brandlarmsutrustning",  
+  "context": "x. SM925 avsäkringskort m. 5 grupper. SM950 larmdonskort och I/O enheter. ### **BESKRIVNING** Strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning.** Certifierad av tredje part enl.EN54-4; 1997/A2:2006 BF362 är primärswitchade och har mycket lågt rippel och noggrann ut",  
+  "position": [  
+    726,  
+    769  
+  ],  
+  "pattern_index": 69,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta **SM40** serva/underhålla installera denna enhet",  
+  "context": "fo@swtm.se VAT.NO SE556289017701 ![](images/_page_1_Picture_1.jpeg) ## **SÄKERHET** Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, **SM40** serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    2402,  
+    2486  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "när interna säkringarna är av eller på. **Strömförsörjning med plats för batteri** > Denna instruktion skall läsas igeno**m grundligt och förstås av all handhavande personal. **Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. > Kont",  
+  "position": [  
+    2729,  
+    2782  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "tteri** > Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** > Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemis",  
+  "position": [  
+    2805,  
+    2895  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "enter samt säkerhet skall leverantören kontaktas. > Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. | Modell | Nätsäkring F1 | Batt.säkring F2 | |---------|---------------|-----------------",  
+  "position": [  
+    2966,  
+    3025  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "nning tänds. Kontrollera att utspänningen är riktig. - Spänningsjustering skall ej göras den är inställd från fabrik. - **Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna.** - Anslut batterierna och därefter lasten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater**",  
+  "position": [  
+    3443,  
+    3527  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** **Strömförsörjning med plats för batteri** > Denna instruktion skall läsas igenom grundligt och förstås av all handhava",  
+  "position": [  
+    2610,  
+    2649  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "e_0_Picture_1.jpeg) ![](images/_page_0_Picture_2.jpeg) #### **Skydd**: Aggregatet är skyddat mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät och batteri är skyddas av säkring. #### **Indikeringar och larm** | Drift: | Indikeras med grön lysdiod. | |-------",  
+  "position": [  
+    128,  
+    179  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### **Indikeringar och larm** | Drift | Indikeras med grön lysdiod",  
+  "context": "t överbelastning och kortslutning. Inbyggt skydd mot djupurladdning av batterierna. Nät och batteri är skyddas av säkrin**g. #### **Indikeringar och larm** | Drift: | Indikeras med grön lysdiod.** | |--------------|-----------------------------------| | Fel: | Indikeras med gul lysdiod. | | | Växlande potentialfrit",  
+  "position": [  
+    216,  
+    288  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Certifierad av tredje part enl",  
+  "context": "50 larmdonskort och I/O enheter. ### **BESKRIVNING** Strömförsörjningsaggregat anpassad för drift av brandlarmsutrustnin**g. Certifierad av tredje part enl.**EN54-4; 1997/A2:2006 BF362 är primärswitchade och har mycket lågt rippel och noggrann utspänning. #### **Utförande:** BF",  
+  "position": [  
+    767,  
+    801  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### **Utförande** BF362 aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för väggmontage",  
+  "context": "ierad av tredje part enl.EN54-4; 1997/A2:2006 BF362 är primärswitchade och har mycket lågt rippel och noggrann utspännin**g. #### **Utförande:** BF362 aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för väggmontage.** Förberedd för 4st genomförningar uppåt. Kapslingsklass IP30. Plats för underhållsfria blybatterier. ### **TEKNISKA DATA",  
+  "position": [  
+    896,  
+    1013  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Spänningsjustering skall ej göras den är inställd från fabrik",  
+  "context": "inst 100mm på varje sida. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. Kontrollera att utspänningen är rikti**g. - Spänningsjustering skall ej göras den är inställd från fabrik.** - Om lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. - Anslut batterierna och därefte",  
+  "position": [  
+    3373,  
+    3440  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Nätsäkring F1 | Batt",  
+  "context": "h inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt aktiva. Kortslut inte batteripolerna. | **Modell | Nätsäkring F1 | Batt.**säkring F2 | |---------|---------------|-----------------| | BF362-1 | 1AT Cer | 3,15AT | | BF362-5 | 2AT Cer | 5AS | ##",  
+  "position": [  
+    3058,  
+    3088  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Byglings-alternativ | Utsp | Utström | Batterikapacit<br>max | Batteri plats<br>internt | Internförb",  
+  "context": "lspänn. max 0,1 % av utspänningen CE-märkt EN61000-6-3:2001 EN61000-6-2:2005 Certifieringar EN54-4/A2:2006 | E-Nummer | **Typ | Byglings-alternativ | Utsp | Utström | Batterikapacit<br>max | Batteri plats<br>internt | Internförb.**<br>batteridrift | HxBxD mm | |----------|-------------|------------------------------|------|-------------|------------",  
+  "position": [  
+    1342,  
+    1449  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134626"  
+}
+

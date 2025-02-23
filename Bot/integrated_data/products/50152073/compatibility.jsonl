@@ -1,0 +1,686 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "ett flertal olika kapslingssystem så som det utbud som finns hos bl",  
+  "context": "undläggande SPM90x-modulkort är formfaktorbaserade på Linjators L-moduler (86 x 36.5mm) (se www.linjator.se). Modulerna **passar i ett flertal olika kapslingssystem så som det utbud som finns hos bl.**a. Swansons, TLab West, VMC och Linjator. Alla moduler har sin specifika funktion men kan även kombineras för att uppnå",  
+  "position": [  
+    1623,  
+    1700  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "fits",  
+  "related_product": "ett flertal olika kapslingssystem så som det utbud som finns hos bl",  
+  "context": "undläggande SPM90x-modulkort är formfaktorbaserade på Linjators L-moduler (86 x 36.5mm) (se www.linjator.se). Modulerna **passar i ett flertal olika kapslingssystem så som det utbud som finns hos bl.**a. Swansons, TLab West, VMC och Linjator. Alla moduler har sin specifika funktion men kan även kombineras för att uppnå",  
+  "position": [  
+    1623,  
+    1700  
+  ],  
+  "pattern_index": 58,  
+  "pattern": "(?i)passar\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "transientskydd (valfri) | | 07 09 11 13 15 | Grupputgångar avsäkrad + | Max 6A/grupp Max 10A/kort (kontinuerlig<br>ström vid max 10°C temperaturhöjning) | | 08 10 12 14 16 | Grupputgångar – | (ej avsäkrad) | | 17/18 | Larmutgång sluten om alla säkringar hela | Max 300mA @ 30VAC/DC last | ![](images/_page_5_Picture_1",  
+  "context": "nde/Utgående + | 10-30VDC | | 03, 04 | Inkommande/Utgående - | 10-30VDC | | 05, 06 | Inkommande/Utgående jord | Används **endast för transientskydd (valfri) | | 07, 09, 11, 13, 15 | Grupputgångar avsäkrad + | Max 6A/grupp, Max 10A/kort (kontinuerlig<br>ström vid max 10°C temperaturhöjning) | | 08, 10, 12, 14, 16 | Grupputgångar – | (ej avsäkrad) | | 17/18 | Larmutgång, sluten om alla säkringar hela | Max 300mA @ 30VAC/DC last | ![](images/_page_5_Picture_1.**jpeg) Inkommande spänning kopplas direkt vidare via säkringarna till grupputgångarna och tänder upp de gröns LEDs som si",  
+  "position": [  
+    3859,  
+    4191  
+  ],  
+  "pattern_index": 97,  
+  "pattern": "(?i)(?:endast|bara)\\s+(?:vid|för|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla och installera dessa enheter",  
+  "context": "2 | Revision 2 12 | | ![](images/_page_2_Picture_1.jpeg) # 1 Säkerhet och support - Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, serva/underhålla och installera dessa enheter.** - Denna manual skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet om systemets",  
+  "position": [  
+    1089,  
+    1169  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "sonal inom AC och DC får använda, arbeta, serva/underhålla och installera dessa enheter. - Denna manual skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. #### 1",  
+  "position": [  
+    1201,  
+    1254  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "ssa enheter. - Denna manual skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** #### 1.1 Support För teknisk support, kontakta Swansons på mail support@swtm.se. ![](images/_page_3_Picture_1.jpeg) # 2 Modulö",  
+  "position": [  
+    1277,  
+    1367  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det utbud som finns hos bl",  
+  "context": "ade på Linjators L-moduler (86 x 36.5mm) (se www.linjator.se). Modulerna passar i ett flertal olika kapslingssystem så s**om det utbud som finns hos bl.**a. Swansons, TLab West, VMC och Linjator. Alla moduler har sin specifika funktion men kan även kombineras för att uppnå",  
+  "position": [  
+    1670,  
+    1700  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "detta i senare kapitel)",  
+  "context": "injator. Alla moduler har sin specifika funktion men kan även kombineras för att uppnå andra/utökade funktioner (se mer **om detta i senare kapitel).** Linjator erbjuder även ett stort antal andra moduler med olika funktioner som med fördel kan användas tillsammans med S",  
+  "position": [  
+    1853,  
+    1880  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "med fördel kan användas tillsammans med SPM90x-serien",  
+  "context": "nktioner (se mer om detta i senare kapitel). Linjator erbjuder även ett stort antal andra moduler med olika funktioner s**om med fördel kan användas tillsammans med SPM90x-serien.** # 2.2 SPM900 SPM900 är ett klassiskt säkringskort för enkelpolig (+) avsäkring. Kortet har 5 grupper och en gemensam la",  
+  "position": [  
+    1956,  
+    2013  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att avsäkra utgående spänning ger även SPM900 ett utökat skydd för överspänningar åska och andra transienter",  
+  "context": "ssiskt säkringskort för enkelpolig (+) avsäkring. Kortet har 5 grupper och en gemensam larmutgång för säkringsfel. Förut**om att avsäkra utgående spänning ger även SPM900 ett utökat skydd för överspänningar, åska och andra transienter.** # 2.3 SPM901 SPM901 är ett säkringskort som erbjuder två dubbelt (+ och -) avsäkrade grupper med larmutgång samt även j",  
+  "position": [  
+    2164,  
+    2277  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "erbjuder två dubbelt (+ och -) avsäkrade grupper med larmutgång samt även jordfelsdetektering med egen larmutgång",  
+  "context": "r även SPM900 ett utökat skydd för överspänningar, åska och andra transienter. # 2.3 SPM901 SPM901 är ett säkringskort s**om erbjuder två dubbelt (+ och -) avsäkrade grupper med larmutgång samt även jordfelsdetektering med egen larmutgång.** Även SPM901 erbjuder utökat skydd mot överspänningar, åska och andra transienter. # 2.4 SPM902 SPM902 är en DC/DC omvan",  
+  "position": [  
+    2319,  
+    2436  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "reglerar ned inkommande spänning med hög effektivitet",  
+  "context": "PM901 erbjuder utökat skydd mot överspänningar, åska och andra transienter. # 2.4 SPM902 SPM902 är en DC/DC omvandlare s**om reglerar ned inkommande spänning med hög effektivitet.** Den kan användas i såväl 24V anläggningar för att erhålla en stabil 12VDC eller i PoE system och där omvandla 48VDC til",  
+  "position": [  
+    2563,  
+    2620  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan användas för att bortkoppla oprioriterade laster eller som ett avsäkrat utgångskort",  
+  "context": "stem och där omvandla 48VDC till 12 eller 24VDC. #### 2.5 SPM903 SPM903 är ett avsäkrings- och prioritetsstyrningskort s**om kan användas för att bortkoppla oprioriterade laster eller som ett avsäkrat utgångskort.** SPM903 har tre helt individuella kanaler. ![](images/_page_4_Picture_1.jpeg) # 3 SPM900 # 3.1 Översikt ![](images/_page_4_Figure_4.jp",  
+  "position": [  
+    2829,  
+    2920  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "även kan användas som vidarekoppling till ytterligare kort",  
+  "context": "ure_1.jpeg) # 3 SPM900 # 3.1 Översikt ![](images/_page_4_Figure_4.jpeg) - 1. Anlutningsplint för inkommande spänning och jord s**om även kan användas som vidarekoppling till ytterligare kort.** Grön LED till vänster i bild indikerar inkommande spänning. - 2. Larmutgång som kommer vara SLUTEN om alla säkringar är",  
+  "position": [  
+    3099,  
+    3161  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer vara SLUTEN om alla säkringar är hela och spänningen in till modulen är över 5VDC - 3",  
+  "context": "som vidarekoppling till ytterligare kort. Grön LED till vänster i bild indikerar inkommande spänning. - 2. Larmutgång so**m kommer vara SLUTEN om alla säkringar är hela och spänningen in till modulen är över 5VDC - 3. **Grupputgångar (5st) med grön LED som indikerar att säkringen är hel och att spänning finns - 4. Gruppsäkningar (5st) fö",  
+  "position": [  
+    3239,  
+    3335  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "indikerar att säkringen är hel och att spänning finns - 4",  
+  "context": "ara SLUTEN om alla säkringar är hela och spänningen in till modulen är över 5VDC - 3. Grupputgångar (5st) med grön LED s**om indikerar att säkringen är hel och att spänning finns - 4.** Gruppsäkningar (5st) för respektive grupputgång med röd LED som indikerar att säkring är trasig | Anslutning nr. | Funk",  
+  "position": [  
+    3370,  
+    3431  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "indikerar att säkring är trasig | Anslutning nr",  
+  "context": "indikerar att säkringen är hel och att spänning finns - 4. Gruppsäkningar (5st) för respektive grupputgång med röd LED s**om indikerar att säkring är trasig | Anslutning nr.** | Funktion | Kommentar | |--------------------|-------------------------------------------|----------------------------",  
+  "position": [  
+    3493,  
+    3544  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "alla säkringar hela | Max 300mA @ 30VAC/DC last | ![](images/_page_5_Picture_1",  
+  "context": "vid max 10°C temperaturhöjning) | | 08, 10, 12, 14, 16 | Grupputgångar – | (ej avsäkrad) | | 17/18 | Larmutgång, sluten **om alla säkringar hela | Max 300mA @ 30VAC/DC last | ![](images/_page_5_Picture_1.**jpeg) Inkommande spänning kopplas direkt vidare via säkringarna till grupputgångarna och tänder upp de gröns LEDs som si",  
+  "position": [  
+    4116,  
+    4191  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "sitter vid respektive utgång",  
+  "context": "re_1.jpeg) Inkommande spänning kopplas direkt vidare via säkringarna till grupputgångarna och tänder upp de gröns LEDs s**om sitter vid respektive utgång.** Om alla utgångar är spänningssatta (alla säkringar hela) så kommer larmutgången att vara sluten. Skulle någon säkring s",  
+  "position": [  
+    4306,  
+    4338  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "alla utgångar är spänningssatta (alla säkringar hela) så kommer larmutgången att vara sluten",  
+  "context": "pplas direkt vidare via säkringarna till grupputgångarna och tänder upp de gröns LEDs som sitter vid respektive utgång. **Om alla utgångar är spänningssatta (alla säkringar hela) så kommer larmutgången att vara sluten.** Skulle någon säkring skulle lösa ut kommer respektive grön LED att slockna, röd LED tänds och larmutgången bryts. # 3.3",  
+  "position": [  
+    4339,  
+    4435  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "indikerar att säkring är trasig - 4",  
+  "context": "rdfel (frånslag är alltid fördröjt ca. 1s). - 3. Gruppsäkningar (4st/2 grupper) för respektive grupputgång med röd LED s**om indikerar att säkring är trasig - 4.** Larmutgång som kommer vara SLUTEN om alla säkringar är hela och spänningen in till modulen är över 5VDC | Anslutning nr",  
+  "position": [  
+    5040,  
+    5079  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer vara SLUTEN om alla säkringar är hela och spänningen in till modulen är över 5VDC | Anslutning nr",  
+  "context": "ppsäkningar (4st/2 grupper) för respektive grupputgång med röd LED som indikerar att säkring är trasig - 4. Larmutgång s**om kommer vara SLUTEN om alla säkringar är hela och spänningen in till modulen är över 5VDC | Anslutning nr.** | Funktion | Kommentar | |----------------|-------------------------------------------|--------------------------------",  
+  "position": [  
+    5092,  
+    5200  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "alla säkringar hela | Max 300mA @ 30VAC/DC last | - 5",  
+  "context": "10A | | 09/10 | Utgång +/- till förbrukare | Avsäkrade via G2+ och G2- säkring, max 10A | | 11/12 | Larmutgång, sluten o**m alla säkringar hela | Max 300mA @ 30VAC/DC last | - 5. **Grupputgångar (2st) med grön LED som indikerar att säkringen är hel och att spänning finns ![](images/_page_7_Picture_1.jpeg)",  
+  "position": [  
+    5735,  
+    5792  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "indikerar att säkringen är hel och att spänning finns ![](images/_page_7_Picture_1",  
+  "context": "11/12 | Larmutgång, sluten om alla säkringar hela | Max 300mA @ 30VAC/DC last | - 5. Grupputgångar (2st) med grön LED so**m indikerar att säkringen är hel och att spänning finns ![](images/_page_7_Picture_1.j**peg) Inkommande spänning kopplas vidare till grupputgångarna via säkringar på båda polerna. Om alla säkringar är hela k",  
+  "position": [  
+    5827,  
+    5906  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "alla säkringar är hela kommer den gröna lysdioden vid respektive grupputgång att vara tänd",  
+  "context": "inns ![](images/_page_7_Picture_1.jpeg) Inkommande spänning kopplas vidare till grupputgångarna via säkringar på båda polerna. **Om alla säkringar är hela kommer den gröna lysdioden vid respektive grupputgång att vara tänd.** Skulle någon säkring lösa ut kommer respektive grupps gröna lysdiod att släckas och röd lysdiod kommer indikera vilken",  
+  "position": [  
+    5999,  
+    6093  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "löst ut",  
+  "context": "ågon säkring lösa ut kommer respektive grupps gröna lysdiod att släckas och röd lysdiod kommer indikera vilken säkring s**om löst ut.** Om någon säkring är utlöst kommer larmutgången för säkringslarm (FUSE ALARM/11-12) att brytas. Modulen övervakar kontin",  
+  "position": [  
+    6222,  
+    6233  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "någon säkring är utlöst kommer larmutgången för säkringslarm (FUSE ALARM/11-12) att brytas",  
+  "context": "lösa ut kommer respektive grupps gröna lysdiod att släckas och röd lysdiod kommer indikera vilken säkring som löst ut. O**m någon säkring är utlöst kommer larmutgången för säkringslarm (FUSE ALARM/11-12) att brytas. **Modulen övervakar kontinuerligt resistansen mellan inkommande +, inkommande – och jord. Skulle resistansen mellan dessa",  
+  "position": [  
+    6234,  
+    6328  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "utgående last är inkopplad vid moment 3 säkerställ att inkopplad utrustning klarar val max-spänning (d",  
+  "context": "rytare 1 i ON (starta regulator) - 4. Finjustera utspänning på vridreglage och kontrollera med multimeter på plint OBS! **Om utgående last är inkopplad vid moment 3 säkerställ att inkopplad utrustning klarar val max-spänning (d.**v.s. 15 eller 28V beroende på inställningen på brytare 2). Modulen kan även fjärrstyras AV/PÅ genom att sluta/bryta styr",  
+  "position": [  
+    8573,  
+    8679  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att sluta/bryta styrsignalen på anslutning 5/6 med externt relä",  
+  "context": "ar val max-spänning (d.v.s. 15 eller 28V beroende på inställningen på brytare 2). Modulen kan även fjärrstyras AV/PÅ gen**om att sluta/bryta styrsignalen på anslutning 5/6 med externt relä.** Sluts denna ingång kommer utspänning direkt att sjunka till 0V. ## 5.3 Installation ![](images/_page_9_Figure_15.jpeg) ![](_pa",  
+  "position": [  
+    8776,  
+    8843  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "spänning ut är aktiverat (sluten ingång) - 3",  
+  "context": "e_10_Figure_4.jpeg) - 1. Inkommande spänning till respektive grupp - 2. Styrningar för respektive grupp, grön LED lyser **om spänning ut är aktiverat (sluten ingång) - 3.** Utgångar för respektive grupp, grön LED lyser om spänning matas ut - 4. Avsäkringar för respektive grupp, röd LED indik",  
+  "position": [  
+    9173,  
+    9221  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "spänning matas ut - 4",  
+  "context": "ve grupp, grön LED lyser om spänning ut är aktiverat (sluten ingång) - 3. Utgångar för respektive grupp, grön LED lyser **om spänning matas ut - 4.** Avsäkringar för respektive grupp, röd LED indikerar om säkring löst ut | Anslutning nr. | Funktion | Kommentar | |-----",  
+  "position": [  
+    9268,  
+    9293  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkring löst ut | Anslutning nr",  
+  "context": "ngar för respektive grupp, grön LED lyser om spänning matas ut - 4. Avsäkringar för respektive grupp, röd LED indikerar **om säkring löst ut | Anslutning nr.** | Funktion | Kommentar | |----------------|----------------------------|---------------------------------| | 1/2 | Inko",  
+  "position": [  
+    9346,  
+    9381  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "slutning finns på styrningsingången (13/14)",  
+  "context": "da varandra. När spänning matas in på t.ex. grupp 1 (1/2) kommer den skickas vidare till utgående plint för grupp (7/8) **om slutning finns på styrningsingången (13/14).** Om inte slutning finns på ingången kommer den positiva signalen (+) att brytas bort och grön LED vid styrningsingången",  
+  "position": [  
+    10191,  
+    10238  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "inte slutning finns på ingången kommer den positiva signalen (+) att brytas bort och grön LED vid styrningsingången kommer släckas",  
+  "context": "p 1 (1/2) kommer den skickas vidare till utgående plint för grupp (7/8) om slutning finns på styrningsingången (13/14). **Om inte slutning finns på ingången kommer den positiva signalen (+) att brytas bort och grön LED vid styrningsingången kommer släckas.** Varje utgång har en egen grön LED som tänds när spänning matas ut och varje grupps positiva (+) är avsäkrad. Vid varje",  
+  "position": [  
+    10239,  
+    10373  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tänds när spänning matas ut och varje grupps positiva (+) är avsäkrad",  
+  "context": "tiva signalen (+) att brytas bort och grön LED vid styrningsingången kommer släckas. Varje utgång har en egen grön LED s**om tänds när spänning matas ut och varje grupps positiva (+) är avsäkrad.** Vid varje säkring finns en röd LED som tänds om säkringen löser ut. Då grupperna är isolerade från varandra kan de mata",  
+  "position": [  
+    10409,  
+    10482  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tänds om säkringen löser ut",  
+  "context": "grön LED som tänds när spänning matas ut och varje grupps positiva (+) är avsäkrad. Vid varje säkring finns en röd LED s**om tänds om säkringen löser ut.** Då grupperna är isolerade från varandra kan de matas från olika spänningskällor och ha olika spänning (t.ex. 24VDC på e",  
+  "position": [  
+    10519,  
+    10550  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "spänning matas in på t",  
+  "context": "grupp 3 | Slutning för att aktivera grupp | ![](images/_page_11_Picture_1.jpeg) Kortets tre grupper är helt åtskilda varandra. **När spänning matas in på t.**ex. grupp 1 (1/2) kommer den skickas vidare till utgående plint för grupp (7/8) om slutning finns på styrningsingången (",  
+  "position": [  
+    10084,  
+    10111  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "spänning matas ut och varje grupps positiva (+) är avsäkrad",  
+  "context": "alen (+) att brytas bort och grön LED vid styrningsingången kommer släckas. Varje utgång har en egen grön LED som tänds **när spänning matas ut och varje grupps positiva (+) är avsäkrad.** Vid varje säkring finns en röd LED som tänds om säkringen löser ut. Då grupperna är isolerade från varandra kan de mata",  
+  "position": [  
+    10418,  
+    10482  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 5",  
+  "context": "uta/bryta styrsignalen på anslutning 5/6 med externt relä. Sluts denna ingång kommer utspänning direkt att sjunka till 0**V. ## 5.**3 Installation ![](images/_page_9_Figure_15.jpeg) ![](images/_page_10_Picture_1.jpeg) # 6 SPM903 – SLÄPPS under 2019! ![](images/_page_10_Fig",  
+  "position": [  
+    8905,  
+    8913  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kortet har 5 grupper och en gemensam larmutgång för säkringsfel",  
+  "context": "an användas tillsammans med SPM90x-serien. # 2.2 SPM900 SPM900 är ett klassiskt säkringskort för enkelpolig (+) avsäkrin**g. Kortet har 5 grupper och en gemensam larmutgång för säkringsfel.** Förutom att avsäkra utgående spänning ger även SPM900 ett utökat skydd för överspänningar, åska och andra transienter.",  
+  "position": [  
+    2091,  
+    2158  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Även SPM901 erbjuder utökat skydd mot överspänningar åska och andra transienter",  
+  "context": "ort som erbjuder två dubbelt (+ och -) avsäkrade grupper med larmutgång samt även jordfelsdetektering med egen larmutgån**g. Även SPM901 erbjuder utökat skydd mot överspänningar, åska och andra transienter.** # 2.4 SPM902 SPM902 är en DC/DC omvandlare som reglerar ned inkommande spänning med hög effektivitet. Den kan användas",  
+  "position": [  
+    2434,  
+    2518  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- 2",  
+  "context": "om även kan användas som vidarekoppling till ytterligare kort. Grön LED till vänster i bild indikerar inkommande spännin**g. - 2.** Larmutgång som kommer vara SLUTEN om alla säkringar är hela och spänningen in till modulen är över 5VDC - 3. Grupputgån",  
+  "position": [  
+    3219,  
+    3226  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Om alla utgångar är spänningssatta (alla säkringar hela) så kommer larmutgången att vara sluten",  
+  "context": "kopplas direkt vidare via säkringarna till grupputgångarna och tänder upp de gröns LEDs som sitter vid respektive utgång**. Om alla utgångar är spänningssatta (alla säkringar hela) så kommer larmutgången att vara sluten. **Skulle någon säkring skulle lösa ut kommer respektive grön LED att slockna, röd LED tänds och larmutgången bryts. # 3.3",  
+  "position": [  
+    4336,  
+    4435  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Röd LED till höger indikerar utlöst jordfel",  
+  "context": "4.jpeg) - 1. Anlutningsplint för inkommande spänning och jord. Grön LED till vänster i bild indikerar inkommande spännin**g. Röd LED till höger indikerar utlöst jordfel.** - 2. DIP-brytare för inställning av tillslagsfördröjning av jordfel (frånslag är alltid fördröjt ca. 1s). - 3. Gruppsäk",  
+  "position": [  
+    4810,  
+    4857  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "1 12 | | | 7",  
+  "context": "| | | 6.1 | Översikt 10 | | | 6.2 | Funktioner 11 | | | 6.3 | Installation 11 | | | 7 | Dokumenthistorik 12 | | | 7.1 | **Revision 1 12 | | | 7.**2 | Revision 2 12 | | ![](images/_page_2_Picture_1.jpeg) # 1 Säkerhet och support - Endast auktoriserad och erfaren personal in",  
+  "position": [  
+    947,  
+    969  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 12 | | ![](images/_page_2_Picture_1",  
+  "context": "| | 6.2 | Funktioner 11 | | | 6.3 | Installation 11 | | | 7 | Dokumenthistorik 12 | | | 7.1 | Revision 1 12 | | | 7.2 | **Revision 2 12 | | ![](images/_page_2_Picture_1.**jpeg) # 1 Säkerhet och support - Endast auktoriserad och erfaren personal inom AC och DC får använda, arbeta, serva/unde",  
+  "position": [  
+    973,  
+    1013  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "1 Dokumentet upprättat 2019-01-16 ## 7",  
+  "context": "en annan). #### 6.3 Installation ![](images/_page_11_Figure_7.jpeg) ![](images/_page_12_Picture_1.jpeg) # 7 Dokumenthistorik #### 7.1 **Revision 1 Dokumentet upprättat 2019-01-16 ## 7.**2 Revision 2 Mindre revideringar efter granskning 2019-01-17 # 7.3 Revision 3 Mindre revideringar efter granskning 2019-",  
+  "position": [  
+    10811,  
+    10859  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 Mindre revideringar efter granskning 2019-01-17 # 7",  
+  "context": "re_7.jpeg) ![](images/_page_12_Picture_1.jpeg) # 7 Dokumenthistorik #### 7.1 Revision 1 Dokumentet upprättat 2019-01-16 ## 7.2 **Revision 2 Mindre revideringar efter granskning 2019-01-17 # 7.**3 Revision 3 Mindre revideringar efter granskning 2019-01-17",  
+  "position": [  
+    10861,  
+    10924  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "3 Mindre revideringar efter granskning 2019-01-17",  
+  "context": "7.1 Revision 1 Dokumentet upprättat 2019-01-16 ## 7.2 Revision 2 Mindre revideringar efter granskning 2019-01-17 # 7.3 Revision 3 Mindre revideringar efter granskning 2019-01-17",  
+  "position": [  
+    10926,  
+    10984  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152073"  
+}
+

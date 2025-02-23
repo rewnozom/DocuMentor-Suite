@@ -1,0 +1,14 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "actual conditions of usage and not warranties of future performance",  
+  "context": "ge_0_Figure_15.jpeg) V-10A Any values in product catalogues are for informational purposes only. They can also differ fr**om actual conditions of usage and not warranties of future performance.**",  
+  "position": [  
+    1372,  
+    1443  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134801"  
+}
+

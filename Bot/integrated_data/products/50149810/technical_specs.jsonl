@@ -1,0 +1,66 @@
+{  
+  "name": "Appearance",  
+  "raw_value": "20",  
+  "category": "COLOR",  
+  "unit": "°C",  
+  "value": {  
+    "raw_value": "20",  
+    "unit": "°C",  
+    "normalized_value": 20.0,  
+    "is_valid": true,  
+    "validation_message": "Värdet är numeriskt"  
+  },  
+  "context": "| Odor Type: | Odorless | |-----------------------------|----------------|-----------------------------------------|----------------| | Appearance: | **Battery | Odor Threshold: | Not Applicable | | p...",  
+  "pattern": "(?i)(?:utseende|appearance)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 129,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Värdet är numeriskt",  
+  "product_id": "50149810"  
+}
+
+{  
+  "name": "ce",  
+  "raw_value": "20",  
+  "category": "MISCELLANEOUS",  
+  "unit": "°C",  
+  "value": {  
+    "raw_value": "20",  
+    "unit": "°C",  
+    "normalized_value": 20.0,  
+    "is_valid": true,  
+    "validation_message": "Värdet är numeriskt"  
+  },  
+  "context": "| Odor Type: | Odorless | |-----------------------------|----------------|-----------------------------------------|----------------| | Appearance: | **Battery | Odor Threshold: | Not Applicable | | p...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Värdet är numeriskt",  
+  "product_id": "50149810"  
+}
+
+{  
+  "name": "Ventilation requirements",  
+  "raw_value": "** Not necessary under normal use",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "** Not necessary under normal use",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "e user manual that is supplied with the battery. #### **SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION** #### **8.1 Engineering controls** - **Ven**tilation requirements:** Not necessary under nor...",  
+  "pattern": "(?i)(?:ventilationskrav|ventilation requirements)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 195,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50149810"  
+}
+

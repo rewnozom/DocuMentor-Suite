@@ -1,0 +1,65 @@
+{  
+  "product_id": "BT-1520FLX20LARGE20COM",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-15 FLX LARGE COM\n\nArtikelnummer: 28160156, E-nummer: 5257458\n\n![](images/_page_0_Picture_3.jpeg)\n\nBatteribackup BT-15 FLX LARGE COM ur FLX-serien som används främst i säkerhetssystem där en SSF 1014-certifierad batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar. Systemet är bland många andra funktioner utrustat med larm vid nätavbrott, låg batterispänning, frånkopplat batteri, cellkortslutning, åldrat batteri, utlöst lastsäkring, över/underspänning, låg systemspänning, sabotage. - •10 avsäkrade utgångar\n- •SSF1014, Larmklass 4 *\n- •Kommunicerar via buss emot UC-50\n\n* Produkten är testad och certifierad för SSF 1014 Larmklass 4.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| 12V AMG                                       |\n| Testad och godkänd med: | UPLUS 45Ah-batterier med design life på 10 år |\n| SBSC Certifierad: | SSF 1014 Larmklass 4                          |\n| Benämning producent (SBSC): | NOVA 27 150-FLX_PRO1                          |",  
+      "unit": "V"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Artikelnummer 28160156 E-nummer 5257458 ![](images/_page_0_Picture_3",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "28160156",  
+        "5257458",  
+        "5257458",  
+        "28160156"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ur FLX-serien som används främst i säkerhetssystem där en SSF 1014-certifierad batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "att läsa tillverkarens dokumentation före inkoppling!* Du hittar den t",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| IP32 | | Temperaturområde | 5 - 40 °C (optimalt 15 - 20 °C) | | Montering | Vägg eller 19\" stativ | | Mått (BxHxD) | 444x436x210mm | | Vikt | 14kg | | Antal kabelgenomföringar | 4 | | Inbygd fläkt | Ja | | Matningsspänning | 110V - 220VAC / 47-63Hz | | Max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Utgångsspänning | 273VDC | | Batterikombination | 2 st",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Utgångsspänning | 273VDC | | Batterikombination | 2 st",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5257458"  
+    ],  
+    "EAN-8": [  
+      "28160156"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

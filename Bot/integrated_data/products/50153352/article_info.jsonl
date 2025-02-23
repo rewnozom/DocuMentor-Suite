@@ -1,0 +1,42 @@
+{  
+  "identifier": "4891199190223",  
+  "original": "4891199190223",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 0,  
+  "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",  
+  "context": "• Ljuslägen: Hög, låg, COB sidljus • Striltät (IPX4) #### **ARTICLE INFORMATION:** Art.no: 450058 EA**N: 4891199190223 E**-nummer: 9451781 ![](images/_page_0_Picture_14.jpeg) ![](images/_page_0_Picture_15.jpeg) ![](images/_page_0_Picture_",  
+  "source": "regex",  
+  "product_id": "50153352"  
+}
+
+{  
+  "identifier": "9451781",  
+  "original": "9451781",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "åg, COB sidljus • Striltät (IPX4) #### **ARTICLE INFORMATION:** Art.no: 450058 EAN: 4891199190223 E-**nummer: 9451781 !**[](_page_0_Picture_14.jpeg) ![](images/_page_0_Picture_15.jpeg) ![](images/_page_0_Picture_16.jpeg) ![](_pag",  
+  "source": "regex",  
+  "product_id": "50153352"  
+}
+
+{  
+  "identifier": "450058",  
+  "original": "450058",  
+  "type": "Artikelnummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt artikelnummerformat",  
+  "group": "article",  
+  "pattern_index": 14,  
+  "pattern": "(?i)Art(?:ikel)?\\.?n[ro]\\.?[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "teritid 20 h • • Ljuslägen: Hög, låg, COB sidljus • Striltät (IPX4) #### **ARTICLE INFORMATION:** Ar**t.no: 450058 E**AN: 4891199190223 E-nummer: 9451781 ![](images/_page_0_Picture_14.jpeg) ![](images/_page_0_Picture_15.jpeg) !",  
+  "source": "regex",  
+  "product_id": "50153352"  
+}
+

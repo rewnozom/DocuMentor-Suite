@@ -1,0 +1,42 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| EN54 48V 7A 1U | EN54 24V 25A 2U | EN54 48V 13A 2U | | Artikelnummer: | 1U01R10024P150-EN54",  
+  "source": "regex",  
+  "product_id": "50152581"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | Artikelnamn: | EN54 24V 15A 1U",  
+  "source": "regex",  
+  "product_id": "50152581"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| EN54 48V 7A 1U | EN54 24V 25A 2U | EN54 48V 13A 2U | | Artikelnummer: | 1U01R10024P150-EN54",  
+  "source": "regex",  
+  "product_id": "50152581"  
+}
+

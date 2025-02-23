@@ -1,0 +1,57 @@
+{  
+  "product_id": "50091808",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Mikroprocessorstyrt larmkort avsedda att fästas på hållare i strömförsörjningsaggregat SM40 och SM3100. Utlösta larm indikeras på fronten och summalarmrelä med potentialfria växlingskontakter (max 1A) för vidaresändning. SM101 – Lågbatterispänningslarm SM102 - Övervakar laddningsspänningen och batterikretsen samt lågbatterispänningslarm. SM103 - Övervakar laddningsspänningen, batterikretsen och nätspänningen som har 30 minuters fördröjning av larmrelä B samt lågbatterispänningslarm\n\n| Egenför...",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "inte brytas när kortet monteras",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "har 30 minuters fördröjning av larmrelä B samt lågbatterispänningslarm | Egenförbrukning | | |-----------------|------------------| | Vila | 001mA (24VDC) | | Larm | 75mA<br>(24VDC) | LÅGBATTERISPÄNNING Övervakar batterispänningen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ska övervakas - 24V system eller 12V system",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "det behövs för att inte skada utrustning och få rätt funktion",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Beskrivning | |----------|-----|-------------------------------------------------------------------------| | 5256990 | 101 | LARMKORT Låg batterispänning | | 5256993 | 102 | LARMKORT Laddspänningslarm - Låg batterispänning – Batteriövervakning | | 99 00 02 | 103 | LARMKORT Laddspänningslarm - Låg batterispänning – Batteriövervakning - | | | | Nätavbrottslarm med 30 minuters fördröjning | Postadress/Postal address Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5256990",  
+        "5256993"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "SM101 – Lågbatterispänningslarm SM102 - Övervakar laddningsspänningen och batterikretsen samt lågbatterispänningslarm",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Övervakar batterispänningen",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "BLINKAR"  
+    ],  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

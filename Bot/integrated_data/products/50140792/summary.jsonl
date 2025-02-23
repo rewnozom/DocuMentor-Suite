@@ -1,0 +1,46 @@
+{  
+  "product_id": "50140792",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## **Omnis E200-IB Quick guide/Snabbguide**\n\nThe E200 Interface Board, E200-IB, is intended for use when an E2 is to be exchanged for an E200 and where existing cabling or space constraints complicates a direct swap. E200 Interface Board, E200-IB, är tänkt att användas då en E2 skall bytas mot en E200 och där befintligt kablage eller utrymmesbegränsningar försvårar ett direkt utbyte. | Important information                                                                                                                                                                                                                         | Viktig information                                                                                                                                                                                                                                                                                                                                                                             |  |  |\n|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|\n| The E200-IB<br>is delivered without<br>enclosure.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "dra en kabel<br>från någon av minusplintarna på J5 och<br>koppla denna på någon av minusplintarna<br>för ingångarna på E200 |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the<br>existing E2 is to be used for the E200-<br>IB",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "sabotagekontakten på E200-IB<br>används skall positionen SAB på J11<br>kopplas till en av ingångarna på E200",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "läsaren byts ut i samband med att<br>E200-IB installeras rekommenderas att<br>den nya läsaren kopplas in direkt på E200",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "1 ![](images/_page_1_Figure_0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| E200-IB levereras utan kapsling",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | The metal stand-off two jumpers and<br>spring for the front tamper from the<br>existing E2 is to be used for the E200-<br>IB",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

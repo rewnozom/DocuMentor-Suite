@@ -1,0 +1,112 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Åskskydd T-SPD L är ett kretskort med funktionen åsk- / överspänningsskydd",  
+  "context": "# **OM Åskskydd, T-SPD L, är ett kretskort med funktionen åsk- / överspänningsskydd.** Kortet monteras i serie med inkommande elnätets matning. Vid onaturligt hög spänning på matningen, leds spänningen ner",  
+  "position": [  
+    2,  
+    82  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "bilden visar",  
+  "context": "ter i batteribackupen och säkerställer därmed hög driftsäkerhet. ## Montering och inkoppling Koppla Fas, Noll och Jord s**om bilden visar.** ![](images/_page_0_Picture_6.jpeg) | Nr | Förklaring | | |----|-------------------------------------------|--| | 1 | Plint som",  
+  "position": [  
+    394,  
+    410  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "möter moderkort i batteribackup | | | 2 | Plint för inkommande elnät",  
+  "context": "r. ![](images/_page_0_Picture_6.jpeg) | Nr | Förklaring | | |----|-------------------------------------------|--| | 1 | Plint s**om möter moderkort i batteribackup | | | 2 | Plint för inkommande elnät.** | | | 3 | Säkring | | ![](images/_page_0_Picture_8.jpeg) **Varning** Korsa inte kablar - risk för skada på utrustning. #### Te",  
+  "position": [  
+    528,  
+    600  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "change without notice",  
+  "context": "ears | | Manufacturer | Milleteknik AB | | Country of origin | Sweden | Manual article number: 350-020 This document is **subject to change without notice.** All information is published subject to typographical errors. # Address and contact details Milleteknik AB Ögärdesvägen",  
+  "position": [  
+    4670,  
+    4703  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "typographical errors",  
+  "context": "Sweden | Manual article number: 350-020 This document is subject to change without notice. All information is published **subject to typographical errors.** # Address and contact details Milleteknik AB Ögärdesvägen 8 B S-433 30 Partille +46 31 340 02 30",  
+  "position": [  
+    4733,  
+    4765  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid onaturligt hög spänning på matningen leds spänningen ner i denna i skyddsjord och glassäkringenlöser ut",  
+  "context": "SPD L, är ett kretskort med funktionen åsk- / överspänningsskydd. Kortet monteras i serie med inkommande elnätets matnin**g. Vid onaturligt hög spänning på matningen, leds spänningen ner i denna i skyddsjord och glassäkringenlöser ut.** T-SPD L skyddar komponenter i batteribackupen och säkerställer därmed hög driftsäkerhet. ## Montering och inkoppling Ko",  
+  "position": [  
+    137,  
+    249  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### Tekniska data | | Artikelnummer | T-SPD-L | |--|-----------------------------------|---------------------------------------------------------------------------| | | Produkbeskrivning | Åskskydd och överspänningsskydd ansluts påmoder<br>kortets 230 V ingång",  
+  "context": "nde elnät. | | | 3 | Säkring | | ![](images/_page_0_Picture_8.jpeg) **Varning** Korsa inte kablar - risk för skada på utrustnin**g. #### Tekniska data | | Artikelnummer | T-SPD-L | |--|-----------------------------------|---------------------------------------------------------------------------| | | Produkbeskrivning | Åskskydd och överspänningsskydd, ansluts påmoder<br>kortets 230 V ingång.** | | | Mått | 28 x 58 x 36 mm | | | Egenförbrukning | N/A | | | Spänning, in | 27,3 V DC | | | Kontinuerlig AC-spänning",  
+  "position": [  
+    710,  
+    976  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| T2",  
+  "context": "700 V | | | Energi 2 ms | 71 J | | | Strömpuls 8 / 20us | 4500 A | | | Spänning vid 1mA fas - PE | 430 V DC | | | Säkrin**g: | T2.**5H250 | | Tekniska data | | | |------------------------------------|----------------------------------------------------",  
+  "position": [  
+    1319,  
+    1327  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464762"  
+}
+

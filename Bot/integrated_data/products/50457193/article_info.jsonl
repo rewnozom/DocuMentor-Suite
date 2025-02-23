@@ -1,0 +1,98 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | Artikelnummer: | FL01P30012P100",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "identifier": "NUMMER",  
+  "original": "NUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER**: | MAX MÖJLI**GT ANTAL: | |----------------------------------------------|---",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "------------------|--------------------|--------------------|--------------------|--|--|--| | | | Ar**tikelnamn: **| NOVA 24V 5A FLX L | NOVA 24V 10A FLX L | NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | | |",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | Artikelnummer: | FL01P30012P100",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "identifier": "IKELTYP",  
+  "original": "IKELTYP",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMM**ER: | MAX **MÖJLIGT ANTAL: | |------------------",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "identifier": "IKELNAMN",  
+  "original": "IKELNAMN",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMM**ER: | MAX M**ÖJLIGT ANTAL: | |---------------------------------",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+
+{  
+  "identifier": "IKELNUMMER",  
+  "original": "IKELNUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER**: | MAX MÖJLI**GT ANTAL: | |----------------------------------------------|---",  
+  "source": "regex",  
+  "product_id": "50457193"  
+}
+

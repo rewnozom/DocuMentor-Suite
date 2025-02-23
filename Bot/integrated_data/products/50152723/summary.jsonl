@@ -1,0 +1,97 @@
+{  
+  "product_id": "50152723",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-TAMPER FLX M/L\n\nArtikelnummer: 28160172, E-nummer: 6310034\n\n![](images/_page_0_Picture_3.jpeg)\n\nBehövs endast i Larmklass 3 objekt..",  
+  "key_specifications": [  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "minne",  
+      "value": "1,4",  
+      "unit": null  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "installation",  
+      "value": "Minst 10 GB utöver operativsystemets krav",  
+      "unit": "GB"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "installation",  
+      "value": "Minst 4 GB utöver operativsystemets krav",  
+      "unit": "GB"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765 410 eller DORMA 912919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "912919"  
+      ]  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "för montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765 410 eller DORMA 912919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "912919"  
+      ]  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765 410 eller DORMA 912 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "Microsoft SQL Server 2012 och senare (alla utgåvor eller** *editions***)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "ingång för dörravkänning på DB-50",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "ingång för dörrövervakning på DIO-5084",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "att både in- och utläsning används vid passage till och från de definierade närvarozonerna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "att anläggningar ska ha batteri - backup för 12 timmar (klass 1 och 2)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "utläsning och inte kan öppna med knappöppningen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "R-CARD M5 system med - Fler än 2–5 anknytningar (300–500 enheter) - Fler än 2500 kort1 - Fler än 2 samtidigt inloggade operatörer - R-CONTROL Electrolux PAYMENT (Debitering) eller någon av webbapplikationerna - Flera databaser i samma SQL Server-instans - För högsta driftsäkerhet bör SQL Server och R-CARD M5 använda samma nätverkssegment",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "6310034"  
+    ],  
+    "EAN-8": [  
+      "28160172"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

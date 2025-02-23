@@ -1,0 +1,71 @@
+{  
+  "product_id": "50152732",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-10 FLX SMALL COM\n\nArtikelnummer: 28160122, E-nummer: 5257455\n\n![](images/_page_0_Picture_3.jpeg)\n\nBT-10 FLX SMALL COM ur BT-BOX FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar. Denna batteribackup är godkänd enligt SSF1014, larmklass 3. - 2 avsäkrade utgångar\n- Larmklass 3\n\n- Kommunicerar via buss emot UC-50\nSystemet är bland många andra funktioner utrustat med larm vid nätavbrott, låg batterispänning, frånkopplat batteri, cellkortslutning, åldrat batteri, utlöst lastsäkring, över/underspänning, låg systemspänning, sabotage.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| 12V AGM-batteri                                    |\n| Testad och godkänd med: | 10+ Design Life 7,2Ah and 14Ah batteries (up to 10 |\n| SBSC Certifierad: | SSF1014, Larmklass 3                               |\n| Benämning producent (SBSC): | NOVA 27 100-XS2_PRO1                               |",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "Utgångar",  
+      "value": "| 2 st                                               |\n| Miljöklass: | Klass 1                                            |\n| Kapslingsklassning: | IP32                                               |\n| Temperaturområde: | 5 till 40°C (optimalt 15 till 25 °C)               |\n| Montering: | Vägg eller hylla                                   |\n| Mått (BxHxD): | 215x430x220mm                                      |\n| Vikt: | 7kg                                                |\n| Antal kabelgenomföringar: | 9 st                                               |\n| Inbygd fläkt: | Ja                                                 |\n| Matningsspänning: | 110V-264VAC/47-63Hz                                |\n| Max",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Artikelnummer 28160122 E-nummer 5257455 ![](images/_page_0_Picture_3",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "28160122",  
+        "5257455",  
+        "5257455",  
+        "28160122"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ur BT-BOX FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| IP32 | | Temperaturområde | 5 till 40°C (optimalt 15 till 25 °C) | | Montering | Vägg eller hylla | | Mått (BxHxD) | 215x430x220mm | | Vikt | 7kg | | Antal kabelgenomföringar | 9 st | | Inbygd fläkt | Ja | | Matningsspänning | 110V-264VAC/47-63Hz | | Max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah / 2x 14Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | 10+ Design Life 72Ah and 14Ah batteries (up to 10 | | SBSC Certifierad | SSF1014 Larmklass 3 | | Benämning producent (SBSC) | NOVA 27 100-XS2_PRO1 |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah / 2x 14Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | 10+ Design Life 72Ah and 14Ah batteries (up to 10 | | SBSC Certifierad | SSF1014 Larmklass 3 | | Benämning producent (SBSC) | NOVA 27 100-XS2_PRO1 |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5257455"  
+    ],  
+    "EAN-8": [  
+      "28160122"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

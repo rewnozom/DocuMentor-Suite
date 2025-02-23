@@ -1,0 +1,28 @@
+{  
+  "product_id": "50102084",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Dörrsymbol\n\n![](images/_page_0_Picture_19.jpeg)\n\n- 2. Rullstolsymbol\n![](images/_page_0_Figure_21.jpeg)\n\n3. Hissymbol\n\n![](images/_page_0_Picture_23.jpeg).",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "ABS - Plast\n\n![](images/_page_0_Picture_6",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "Kontakten går att rengöra med alla förekommande rengörningsmedel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "![](images/_page_0_Figure_10",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

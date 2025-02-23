@@ -1,0 +1,71 @@
+{  
+  "product_id": "50097991",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri skyddas av säkringar. Indikeringar och larm: Nätspänning indikeras med grön lysdiod på fronten och larm med röd.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "elektronikutrustningar telecom larm styr och passagesystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "snäppes fast på DIN-skena",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "AC och DC får använda arbeta **SM40 Strömförsörjning med plats för batteri** serva/underhålla installera denna enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Beskrivning | Utspänning ström batteriplats<br>HxBxDj mm | |----------|--------|-------------|--------------------------------------------------------------| | 5247170 | 210 54 | | 320x320x150<br>LADDN LIKR SM2100 12V 5A utan batt max 24AH | | 5247171 | 210 56 | | 400x400x210<br>LADDN LIKR SM2100 12V 10A utan batt max 90AH | | 5247172 | 210 58 | | 400x400x210<br>LADDN LIKR SM2100 12V 20A utan batt max 90AH | | 5247174 | 210 62 | | 320x320x150<br>LADDN LIKR SM2100 24V 5A utan batt max 12Ah | | 5247175 | 210 64 | | 400x400x210<br>LADDN LIKR SM2100 24V 5A utan batt max 45Ah | | 5247176 | 210 65 | | 600x400x260<br>LADDN LIKR SM2100 24V 5A utan batt max 100Ah | | 5247177 | 210 66 | | 400x400x210<br>LADDN LIKR SM2100 24V 10A utan batt max 45Ah | | 5247178 | 210 68 | | 600x400x260<br>LADDN LIKR SM2100 24V 10A utan batt max 100Ah | | 5247179 | 21070 | | LADDN LIKR SM2100 24V 20A utan batt max 45Ah<br>400x400x210 | | 5247180 | 210 72 | | LADDN LIKR SM2100 24V 20A utan batt max 100Ah<br>600x400x260 | | 5247181 | 210 74 | | LADDN LIKR SM2100 48V 25A utan batt max 12AH<br>400x400x210 | | 5247182 | 210 77 | | LADDN LIKR SM2100 48V 5A utan batt max 33AH<br>600x400x260 | | 5247183 | 210 80 | | 600x400x260<br>LADDN LIKR SM2100 48V 10A utan batt max 33AH | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5247170",  
+        "5247171",  
+        "5247172",  
+        "5247174",  
+        "5247175",  
+        "5247176",  
+        "5247177",  
+        "5247178",  
+        "5247179",  
+        "21070",  
+        "5247180",  
+        "5247181",  
+        "5247182",  
+        "5247183"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "DC3/5** Ger 2st 2-poligt utgångar med 12VDC 3A alt",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "\"Klickas\" fast på DIN-skena",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

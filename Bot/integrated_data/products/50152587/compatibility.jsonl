@@ -1,0 +1,238 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "strömuttag dock max 6A | | | | | Nominell effekt | 336W | 336W | 648W | 648W | | Rippel i normalläge | 150mVp-p | 150mVp-p | 150mVp-p | 150mVp-p | | Effektivitet | 87% | 87% | 88% | 88% | | Värmegenerering vid 50% / 80% av märkeffekten | 31W / 49W | 31W / 49W | 50W / 80W | 50W / 80W | | Ingångsström | 18A | 18A | 36A | 36A | | Antal avsäkrade utgångar | 2 st | 2 st | 2 st | 2 st | | Typ av säkring på utgång | 2xC15A | 2xC15A | 2xC25A | 2xC25A | | Djupurladdning av batterier sker vid | 21V | 41V | 21V | 41V | | Möjlig att parallellkoppla | | Ja | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (3 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (utgång 2) över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning (utgång 3)",  
+  "context": "z | | | | | Utspänning: | 27,3VDC | 54,6VDC | 27,3VDC | 54,6VDC | | Max ström: | 15A | 7A | 25A | 13A | | Ladd ström: | **Beroende av strömuttag, dock max 6A | | | | | Nominell effekt: | 336W | 336W | 648W | 648W | | Rippel i normalläge: | 150mVp-p | 150mVp-p | 150mVp-p | 150mVp-p | | Effektivitet: | 87% | 87% | 88% | 88% | | Värmegenerering vid 50% / 80% av märkeffekten: | 31W / 49W | 31W / 49W | 50W / 80W | 50W / 80W | | Ingångsström: | 1,8A | 1,8A | 3,6A | 3,6A | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | Typ av säkring på utgång: | 2xC15A | 2xC15A | 2xC25A | 2xC25A | | Djupurladdning av batterier sker vid: | 21V | 41V | 21V | 41V | | Möjlig att parallellkoppla: | | Ja | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (utgång 2), över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning (utgång 3).** | | | | | Larm via: | Växlande relä | | | | | Artikel information: | | | | | | Artikelnamn: | EN54 24V 15A 1U | EN54 48",  
+  "position": [  
+    3373,  
+    4301  
+  ],  
+  "pattern_index": 35,  
+  "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "hantera högre belastningar",  
+  "context": "är kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen **behöver hantera högre belastningar.** **EN54-serien** erbjuder **\"INTELLIGENT CHARGING\"**, vilket innebär att när batterierna är fulladdade kommer de att kop",  
+  "position": [  
+    526,  
+    561  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "20 dagar eller när batterierna har nått 26,7V (24V-system). Genom att ladda ur batterierna och ladda dem kontinuerligt (**istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. EN54-serien ska användas med AGM-batterier. **",  
+  "position": [  
+    852,  
+    945  
+  ],  
+  "pattern_index": 94,  
+  "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "tt kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V-system). Gen**om att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. EN54-serien ska användas med AGM-batterier. **",  
+  "position": [  
+    795,  
+    945  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "meddelar när batterierna måste bytas ut innan batterierna åldras",  
+  "context": "rustade med interna effektmotstånd (anpassade för systemtestade batterier) för *\"QUALIFIED BATTERY CAPACITY TESTING\"*, s**om meddelar när batterierna måste bytas ut innan batterierna åldras.** EN54-serien är systemcertifierad tillsammans med / & måste användas tillsammans med 10+ Design Life AGM-batterier enlig",  
+  "position": [  
+    1488,  
+    1556  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets",  
+  "context": "Life AGM-batterier enligt EN54-4 / SBF110:8. ## **Display** Via displayen på framsidan av kapslingen,visas information o**m systemets; **min / genomsnitt / max för; spänning, ström, temperatur. Det är också möjligt att läsa av den möjliga driftstiden i hän",  
+  "position": [  
+    1771,  
+    1784  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det gäller",  
+  "context": "r talande utrymningslarm där en SBF110:8-godkänd eller EN54-4-certifierad batteribackup krävs eller där kraven är högre **när det gäller;** högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen behöver hantera högre belastningar",  
+  "position": [  
+    425,  
+    440  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteribackupen behöver hantera högre belastningar",  
+  "context": "backup krävs eller där kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller **när batteribackupen behöver hantera högre belastningar.** **EN54-serien** erbjuder **\"INTELLIGENT CHARGING\"**, vilket innebär att när batterierna är fulladdade kommer de att kop",  
+  "position": [  
+    506,  
+    561  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 267V (24V-system)",  
+  "context": "eribackupen behöver hantera högre belastningar. **EN54-serien** erbjuder **\"INTELLIGENT CHARGING\"**, vilket innebär att **när batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V-system).** Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batt",  
+  "position": [  
+    634,  
+    791  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna måste bytas ut innan batterierna åldras",  
+  "context": "interna effektmotstånd (anpassade för systemtestade batterier) för *\"QUALIFIED BATTERY CAPACITY TESTING\"*, som meddelar **när batterierna måste bytas ut innan batterierna åldras.** EN54-serien är systemcertifierad tillsammans med / & måste användas tillsammans med 10+ Design Life AGM-batterier enlig",  
+  "position": [  
+    1500,  
+    1556  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "EN54-serien ska användas med AGM-batterier",  
+  "context": "r systemet batteriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid beho**v. EN54-serien ska användas med AGM-batterier.** **EN54-serien** läser också av den anslutna systembelastningen och laddar batterierna med tillgänglig restström från st",  
+  "position": [  
+    1016,  
+    1062  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | | | | Ursprungsland | Sverige | | | | | Information och val av batteri / batterier | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM | | | | | Möjliga batterier för montering i kapsling | N/A | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life batterier | | | | | | | | | | ![](images/_page_1_Picture_6",  
+  "context": "r>3. Batteribackupen skall användas tillsammans med UPLUS 10+ Design Life batterier. | | | | | Designad och producerad a**v: | Milleteknik AB | | | | | Ursprungsland: | Sverige | | | | | Information och val av batteri / batterier: | | | | | | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM | | | | | Möjliga batterier för montering i kapsling: | N/A | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life batterier | | | | | | | | | | ![](images/_page_1_Picture_6.**jpeg)",  
+  "position": [  
+    5367,  
+    5736  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Detta förhindrar att batterierna överladdas och förlänger deras livslängd avsevärt",  
+  "context": "atterierna med tillgänglig restström från strömförsörjningen, dock laddas batterierna aldrig med mer än högst 6A laddnin**g. Detta förhindrar att batterierna överladdas och förlänger deras livslängd avsevärt.** EN54-serien är också utrustade med interna effektmotstånd (anpassade för systemtestade batterier) för *\"QUALIFIED BATTE",  
+  "position": [  
+    1258,  
+    1344  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 19\" Rack | | | | | Dimension (HxBxD) | 44x444x280mm (1HE)<br>88x444x280mm (1HE) | | | | | Nettovikt | 5 kg | | 8 kg | | | Kapslingens färg | Svart | | | | | Inbyggd fläkt för kylning | Ja | | | | | Elektrisk information | | | | | | Inspänning | 110V-264VAC/47-63Hz | | | | | Utspänning | 273VDC | 546VDC | 273VDC | 546VDC | | Max ström | 15A | 7A | 25A | 13A | | Ladd ström | Beroende av strömuttag dock max 6A | | | | | Nominell effekt | 336W | 336W | 648W | 648W | | Rippel i normalläge | 150mVp-p | 150mVp-p | 150mVp-p | 150mVp-p | | Effektivitet | 87% | 87% | 88% | 88% | | Värmegenerering vid 50% / 80% av märkeffekten | 31W / 49W | 31W / 49W | 50W / 80W | 50W / 80W | | Ingångsström | 18A | 18A | 36A | 36A | | Antal avsäkrade utgångar | 2 st | 2 st | 2 st | 2 st | | Typ av säkring på utgång | 2xC15A | 2xC15A | 2xC25A | 2xC25A | | Djupurladdning av batterier sker vid | 21V | 41V | 21V | 41V | | Möjlig att parallellkoppla | | Ja | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (3 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (utgång 2) över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning (utgång 3)",  
+  "context": "°C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | Skyddsklass: | IP32 | | | | | Rekommenderad monterin**g: | 19\" Rack | | | | | Dimension (HxBxD): | 44x444x280mm (1HE)<br>88x444x280mm (1HE) | | | | | Nettovikt: | 5 kg | | 8 kg | | | Kapslingens färg: | Svart | | | | | Inbyggd fläkt för kylning: | Ja | | | | | Elektrisk information: | | | | | | Inspänning: | 110V-264VAC/47-63Hz | | | | | Utspänning: | 27,3VDC | 54,6VDC | 27,3VDC | 54,6VDC | | Max ström: | 15A | 7A | 25A | 13A | | Ladd ström: | Beroende av strömuttag, dock max 6A | | | | | Nominell effekt: | 336W | 336W | 648W | 648W | | Rippel i normalläge: | 150mVp-p | 150mVp-p | 150mVp-p | 150mVp-p | | Effektivitet: | 87% | 87% | 88% | 88% | | Värmegenerering vid 50% / 80% av märkeffekten: | 31W / 49W | 31W / 49W | 50W / 80W | 50W / 80W | | Ingångsström: | 1,8A | 1,8A | 3,6A | 3,6A | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | Typ av säkring på utgång: | 2xC15A | 2xC15A | 2xC25A | 2xC25A | | Djupurladdning av batterier sker vid: | 21V | 41V | 21V | 41V | | Möjlig att parallellkoppla: | | Ja | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (utgång 2), över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning (utgång 3).** | | | | | Larm via: | Växlande relä | | | | | Artikel information: | | | | | | Artikelnamn: | EN54 24V 15A 1U | EN54 48",  
+  "position": [  
+    2979,  
+    4301  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| N/A | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life batterier | | | | | | | | | | ![](images/_page_1_Picture_6",  
+  "context": "| Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM | | | | | Möjliga batterier för montering i kapsling**: | N/A | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life batterier | | | | | | | | | | ![](images/_page_1_Picture_6.j**peg)",  
+  "position": [  
+    5605,  
+    5736  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av säkring på utgång | 2xC15A | 2xC15A | 2xC25A | 2xC25A | | Djupurladdning av batterier sker vid | 21V | 41V | 21V | 41V | | Möjlig att parallellkoppla | | Ja | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (3 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (utgång 2) över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning (utgång 3)",  
+  "context": "| 50W / 80W | | Ingångsström: | 1,8A | 1,8A | 3,6A | 3,6A | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | **Typ av säkring på utgång: | 2xC15A | 2xC15A | 2xC25A | 2xC25A | | Djupurladdning av batterier sker vid: | 21V | 41V | 21V | 41V | | Möjlig att parallellkoppla: | | Ja | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (utgång 2), över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning (utgång 3).** | | | | | Larm via: | Växlande relä | | | | | Artikel information: | | | | | | Artikelnamn: | EN54 24V 15A 1U | EN54 48",  
+  "position": [  
+    3782,  
+    4301  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V Underhållsfria batterier typ AGM | | | | | Möjliga batterier för montering i kapsling | N/A | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life batterier | | | | | | | | | | ![](images/_page_1_Picture_6",  
+  "context": "| | | | Ursprungsland: | Sverige | | | | | Information och val av batteri / batterier: | | | | | | Rekommenderad batteri**typ: | 12V Underhållsfria batterier, typ AGM | | | | | Möjliga batterier för montering i kapsling: | N/A | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life batterier | | | | | | | | | | ![](images/_page_1_Picture_6.**jpeg)",  
+  "position": [  
+    5509,  
+    5736  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152587"  
+}
+

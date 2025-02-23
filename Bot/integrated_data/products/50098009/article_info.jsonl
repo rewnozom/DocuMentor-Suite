@@ -1,0 +1,14 @@
+{  
+  "identifier": "BLINKAR",  
+  "original": "BLINKAR",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ka övervakas - 24V system eller 12V system. Detta görs under kortets uppstart.** • **NÄR DETTA ÄR KL**ART BLINKAR** RÖD LYSDIOD. ÅTERSTÄLL MED ATT HÅLLA ÅTERSTÄLLNINGKNAPPEN INTRYCKT I 2 SEKUNDER. KORTET ÄR NU DRIFT",  
+  "source": "regex",  
+  "product_id": "50098009"  
+}
+

@@ -1,0 +1,74 @@
+{  
+  "product_id": "50107538",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# trådlösa armbågskontakter med RADIOSÄNDARE\n\nThe installer's choice cdvi.se\n\nンズでロロココ\n\n## TRÅDLÖSA ARMBÅGSKONTAKTER MED INBYGGD RADIOSÄNDARE\n\n- *Trådlöst sändare med inbyggt batteri, typ E, ingår*\n- *Kan monteras utomhus under tak, men är inte vattentät*\n- *Tillverkad i aluminium*\n- *Frekvens : 433,92 MHz*\n- *Fuktsäker mikrobrytare, IP-klass 67*\n- *Mått 245 x 80 x 28 mm*\n- Batterilivslängd: 6000-8000 öppningar beroende på temperatur, luftfuktighet mm\n\n![](images/_page_1_Picture_9.jpeg)\n\n*PASSAR RADIOMOTTAGARE **\n\nPublic Buildnings\n\n- *Trådlöst sändare med inbyggt batteri, typ 10A, ingår...*\n- *Lämplig för inomhus montage*\n- *Tillverkad i slagtålig ABS-plast* \n\t- *Frekvens : 433,92 MHz*\n- *Fuktsäker mikrobrytare, IP-klass 67* \n\t- *Mått 250 x 95 x 25 mm*\n\nBatterilivslängd: 4000-5000 öppningar beroende på temperatur, luftfuktighet mm*.*\n\n![](images/_page_1_Picture_19.jpeg)\n\nMINI MOTTAGARE 1, 2 ELLER 4 RELÄ «ON/OFF» OCH PULS\n\n- *Frekvens: 433,92 MHz 1, 2 eller 4 relä, 24VA/24W*\n- Kryptering: Rolling code Keeloq®\n- Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_25.jpeg)\n\nSTANDARD MOTTAGARE «ON/OFF», PULS OCH TIDSSTYRNING\n\n- *Frekvens: 433,92 MHz Två relä, 24 VA/24W LCD-display för enkel*\nCommercial Industrial\n\n- *programmering* Kryptering: Rolling code\n- Keeloq® Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_31.jpeg)\n\nNANO MOTTAGARE FÖR DÖRRAUTOMATIKER, ENDAST PULS\n\n- *Frekvens: 433,92 MHz Ett relä, 24 VA/24W*\n- Kryptering: Rolling code Keeloq®\n- Strömförsörjning: 12/24 VAC/DC\n- Finns även med 230 VAC\n\nMulti-tenant Residential occupancy\n\n![](images/_page_1_Picture_38.jpeg)\n\nPOWER MOTTAGARE «ON/OFF», PULS OCH TIDSSTYRNING\n\n- *Frekvens: 433,92 MHz Två eller fyra relä, 3,5 KW/16A*\n- Kryptering: Rolling code Keeloq®\n- Strömförsörjning:\n- 230 VAC, 50 Hz\n- Finns även med 12/24 VAC/DC\n\nTel: +46 (0)31 760 19 30\n\n*cdvigroup.com cdvi.se*\n\n**CDVI** Sweden AB Datavägen 12B.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Frekvens",  
+      "value": "433,92",  
+      "unit": null  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "Kryptering",  
+      "value": "Rolling code Keeloq®\n- Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_25",  
+      "unit": "VAC/DC"  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "Kryptering",  
+      "value": "Rolling code\n- Keeloq® Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_31",  
+      "unit": "VAC/DC"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens 43392 MHz* - *Fuktsäker mikrobrytare IP-klass 67* - *Mått 250 x 95 x 25 mm* Batterilivslängd 4000-5000 öppningar beroende på temperatur luftfuktighet mm*",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "43392"  
+      ]  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "RADIOMOTTAGARE ** Public Buildnings - *Trådlöst sändare med inbyggt batteri typ 10A ingår",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens 43392 MHz* - *Fuktsäker mikrobrytare IP-klass 67* - *Mått 250 x 95 x 25 mm* Batterilivslängd 4000-5000 öppningar beroende på temperatur luftfuktighet mm*",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "43392"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "cdvi",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "E ingår* - *Kan monteras utomhus under tak men är inte vattentät* - *Tillverkad i aluminium* - *Frekvens 43392 MHz* - *Fuktsäker mikrobrytare IP-klass 67* - *Mått 245 x 80 x 28 mm* - Batterilivslängd 6000-8000 öppningar beroende på temperatur luftfuktighet mm ![](images/_page_1_Picture_9",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "43392"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Rolling code Keeloq® - Strömförsörjning 12/24 VAC/DC ![](images/_page_1_Picture_25",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Rolling code - Keeloq® Strömförsörjning 12/24 VAC/DC ![](images/_page_1_Picture_31",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

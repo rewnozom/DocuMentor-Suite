@@ -1,0 +1,28 @@
+{  
+  "relation_type": "version",  
+  "related_product": "Indikering för nätbortfall låg utspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+  "context": "l i kablaget. Plats för en 12 V 18 Ah ackumulator. Sabotagekontakt. Enheten har skydd mot kortslutning och överbelastnin**g. Indikering för nätbortfall, låg utspänning, batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer.** ## **BESTÄLLINGSINFORMATION** **Typ E-nr Beskrivning** Powered by TCPDF (www.tcpdf.org) PSV 1225-18 5255013 Strömförsör",  
+  "position": [  
+    915,  
+    1046  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50024631"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "E-nr Beskrivning** Powered by TCPDF (www",  
+  "context": "g, batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer. ## **BESTÄLLINGSINFORMATION** ****Typ E-nr Beskrivning** Powered by TCPDF (www.**tcpdf.org) PSV 1225-18 5255013 Strömförsörjning, VIP, 12 V 2,5 A",  
+  "position": [  
+    1079,  
+    1124  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50024631"  
+}
+

@@ -1,0 +1,56 @@
+{  
+  "product_id": "50151789",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "*Pulsar* ®\n\n**APS64** v.1.1/II **APS 6-port switch 4x30W med reservkraft 64** PRODUKTKODE TYP: :\n\n![](images/_page_0_Picture_3.jpeg)\n\n### **Egenskaper:**\n\n- Avbrottsfri strömförsörjning för 4 IP-enheter (52 V DC)\n- Switch med 6 portar 4 PoE-portar 10/100 Mb/s (dataöverföring och strömförsörjning) 2 portar 10/100 Mb/s (UP LINK)\n- Läge med **Lång räckvidd** (upp till 250m)\n- 30 W för varje PoE-port, stöder enheter som uppfyller tandarden IEEE802.3af/ vid **(PoE +)**\n- Metallhölje färg vit RAL 9003 med batterifack för två 17 Ah/12 V-batterier\n- Stöder automatisk inlärning och automatiskt åldrande av MAC-adresser (1K storlek)\n\n### **BESKRIVNING**\n\nAPS64 är avsedd för oavbruten strömförsörjning av 4 IP-enheter (52 V DC-försörjning). Systemets huvudsakliga komponenter inkluderar:\n\n- PoE-switch med 6 portar\n- 27,6 V buffertströmförsörjning med två 17 Ah / 12 V-batterier\n- en omvandlare (inbyggd strömförsörjning) som ökar spänningen till 52 V DC (försörjning av PoE-switchen)\n\nVid strömavbrott aktiveras omedelbart ett reservbatteri. Automatisk upptäckt av enheter som drivs med standarden PoE/PoE+ aktiveras vid portar 1-4 på switchen.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "oavbruten strömförsörjning av 4 IP-enheter (52 V DC-försörjning)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "en separat strömkabel till varje enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 80 mA/276 V DC | | Batteriets laddningsström | 05 A max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "en separat strömkabel till varje enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 80 mA/276 V DC | | Batteriets laddningsström | 05 A max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "uppfyller tandarden IEEE802",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Φ 063 -250 (AWG 22-10)<br>Batteriutgång BAT 63F -25<br>MANIPULERINGS -utgång ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna<br>dras",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna<br>dras",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "![](images/_page_0_Picture_3",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

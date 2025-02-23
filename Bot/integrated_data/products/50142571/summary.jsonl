@@ -1,0 +1,63 @@
+{  
+  "product_id": "50142571",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# USC12-100 (12V100AH) USC SERIES-Deep Cycle\n\n![](images/_page_0_Picture_2.jpeg)\n\n![](images/_page_0_Picture_3.jpeg)\n\n#### **General Features**\n\n- Using oxygen recombination technology: maintenance-free\n- Special grid alloy: less gassing, less self-discharging\n- For longer cycle life: special paste formula, over dimensioned negative plate, optimised manufacturing process , additives for deep discharge\n- Thermal management system (optional)\n- Special anti-vibration design (optional)\n- High quality AGM separator: extend cycle life and prevent micro short circuit\n- ABS material: increase the strength of battery container. (Flame-retardant ABS is optional)\n\n![](images/_page_0_Picture_12.jpeg)\n\n| Battery Type          | Valve-Regulated,Absorbed<br>Glass Mat(AGM)<br>Technology |                                                    |                       |                          |                             |                                                    |  |  |  |  |\n|-----------------------|----------------------------------------------------------|----------------------------------------------------|-----------------------|--------------------------|-----------------------------|----------------------------------------------------|--|--|--|--|\n| Nomial Voltage        | 12V                                                      |                                                    |                       |                          |                             |                                                    |  |  |  |  |\n| 0                     | 20HR(5.14A,1.8V/cell)                                    | 10HR(9.71A,1.8V/cell)                              | 5HR(17.5A,1.75V/cell) |                          | 1HR(68.6A,1.6V/cell)        |                                                    |  |  |  |  |\n| Capacity( 20<br>C)    | 102.9AH                                                  |                                                    | 97.1AH                | 87.5AH                   |                             | 68.6AH                                             |  |  |  |  |\n|                       | Length                                                   | Length                                             |                       | Length                   |                             | Length                                             |  |  |  |  |\n| Dimensions            | 330mm(13.0inches)                                        | 173mm(6.81inches)<br>212mm(8.35inches)             |                       |                          |                             | 200mm(7.87inches)                                  |  |  |  |  |\n| Approx Weight         | Approx 30.0 kg (66.2lbs)                                 |                                                    |                       |                          |                             |                                                    |  |  |  |  |\n| Internal Resistance   | 0<br>Full Charged at 20 C : Approx 4.9 m                 |                                                    |                       |                          |                             |                                                    |  |  |  |  |\n| Self Discharge        | 0<br>3% of capacity declined per month at 20 C           |                                                    |                       |                          |                             |                                                    |  |  |  |  |\n| Capacity aected by    | 0<br>40 C                                                |                                                    | 0<br>25 C             | 0 0 C                    | 0<br>-15 C                  |                                                    |  |  |  |  |\n| Temperature(10HR)     | 103%                                                     |                                                    | 100%                  | 86%                      |                             | 65%                                                |  |  |  |  |\n|                       |                                                          | Cycle use                                          |                       | Float use                |                             |                                                    |  |  |  |  |\n| Charging Voltage (V)  | 0                                                        | 0<br>14.4V~15.0V at 20 C. T emp.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "Acrylonitrile<br>Butadine Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                  |\n\n# **SECTION 3: PHYSICAL DATA**\n\n| COMPONENTS                                                   | DENSITY<br>g/cm3 | MELTING/BOILING<br>(M/B) POINT     | SOLUBILITY<br>(H2O)       | ODOR                                | APPEARANCE                  |\n|--------------------------------------------------------------|------------------|------------------------------------|---------------------------|-------------------------------------|-----------------------------|\n| Lead                                                         | 11",  
+      "unit": "O"  
+    },  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | 1",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "proper packaging and paperwork including the nature and quantity of goods per applicable origin/destination/customs points as-shipped",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the | | | | | battery",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "battery charging area",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "a battery most often occurs during lead reclamation operations through the breathing or ingestion of lead dust or fumes",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of sulfuric acid mist",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Acute ingestion should be treated by a physician",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The toxic effects of lead are cumulative and slow to appear",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "icles"  
+    ]  
+  }  
+}
+

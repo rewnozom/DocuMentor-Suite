@@ -1,0 +1,31 @@
+{  
+  "product_id": "50154971",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "En silikonbelagd brandfilt kväver branden ännu snabbare än en vanlig brandfilt och minskar risken för återantändning avsevärt. Placera brandfilten synligt där risk för brand kan förekomma, exempelvis i köket, verkstaden eller bredvid öppen spis. FBSH-180 ligger i en snygg glansig hårdbox, perfekt när man behöver torka av ytan.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "torka av ytan",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "accessory",  
+      "related_product": "en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "komplement till en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "man behöver torka av ytan",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

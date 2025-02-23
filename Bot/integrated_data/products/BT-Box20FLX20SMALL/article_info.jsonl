@@ -1,0 +1,56 @@
+{  
+  "identifier": "5257453",  
+  "original": "5257453",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX SMALL Artikelnummer: 28160160, E-**nummer: 5257453 !**[](_page_0_Picture_3.jpeg) För utbyggnad av 24V RCO FLX S Batteribackuper för att erhålla möjlig",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20SMALL"  
+}
+
+{  
+  "identifier": "28160160",  
+  "original": "28160160",  
+  "type": "EAN-8",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 6, faktisk: 0)",  
+  "group": "article",  
+  "pattern_index": 16,  
+  "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX SMALL Ar**tikelnummer: 28160160, **E-nummer: 5257453 ![](images/_page_0_Picture_3.jpeg) För utbyggnad av 24V RCO FLX S Batteribackuper för",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20SMALL"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX SMALL Ar**tikelnummer: **28160160, E-nummer: 5257453 ![](images/_page_0_Picture_3.jpeg) För utbyggnad av 24V RCO FLX S Batteriba",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20SMALL"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-BOX FLX SMALL Ar**tikelnummer: **28160160, E-nummer: 5257453 ![](images/_page_0_Picture_3.jpeg) För utbyggnad av 24V RCO FLX S Batteriba",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20SMALL"  
+}
+

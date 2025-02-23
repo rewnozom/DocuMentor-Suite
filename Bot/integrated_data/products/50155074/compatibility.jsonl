@@ -1,0 +1,70 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "standard ett larmrelä för nätbortfall",  
+  "context": "rad laddning vilket förhindrar överladdning av batterierna och därför förlängs livslängden avsevärt. Nätaggregatet har s**om standard ett larmrelä för nätbortfall.** Nätbortfallslarmet kan fördröjas så att det aktiveras först när batteriernas kapacitet sänkts från 26,5V till 24V, dett",  
+  "position": [  
+    659,  
+    700  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155074"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "standard för nätavbrott alternativt låg batterispänning (1 utgång) - Artikelnummer S55299203165 ASSA ABLOY Opening Solutions Sweden P",  
+  "context": "Primärswitchteknik - Skydd mot överlast, överspänning, övertemperatur, kortslutning och djupurladdning - Larmfunktion so**m standard för nätavbrott alternativt låg batterispänning (1 utgång) - Artikelnummer: S55299203165 ASSA ABLOY Opening Solutions Sweden P.O**. Box 371 SE-631 05 Eskilstuna Sweden Phone +46 (0)16 17 70 00 Fax +46 (0)16 17 70 49 Customer support: Phone intl. +46",  
+  "position": [  
+    1331,  
+    1469  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155074"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "www",  
+  "context": "intl. +46 (0)16 17 71 00 Phone nat. 0771-640 640 Fax +46 (0)16 17 73 72 e-mail: helpdesk.se.openingsolutions@assaabloy.c**om www.**assaabloyopeningsolutions.se",  
+  "position": [  
+    1700,  
+    1707  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155074"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteriernas kapacitet sänkts från 265V till 24V detta för att undvika falsklarm vid korta nätbortfall",  
+  "context": "ätaggregatet har som standard ett larmrelä för nätbortfall. Nätbortfallslarmet kan fördröjas så att det aktiveras först **när batteriernas kapacitet sänkts från 26,5V till 24V, detta för att undvika falsklarm vid korta nätbortfall.** # ASSA ABLOY 3PS ![](images/_page_1_Picture_1.jpeg) ## 24V/3A nätaggregat och batteribackup #### **Tekniska data** - Inspännin",  
+  "position": [  
+    761,  
+    870  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155074"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "110-264VAC - Stabiliserad utspänning 273VDC - Maximal belastning 3A - Temperaturområde +5 °C 40 °C - IP-klassning IP20 - Mått | Höjd | 230mm | |-------|-------| | Bredd | 216mm | | Djup | 85mm | - Nettovikt 3kg - Primärswitchteknik - Skydd mot överlast överspänning övertemperatur kortslutning och djupurladdning - Larmfunktion som standard för nätavbrott alternativt låg batterispänning (1 utgång) - Artikelnummer S55299203165 ASSA ABLOY Opening Solutions Sweden P",  
+  "context": "# ASSA ABLOY 3PS ![](images/_page_1_Picture_1.jpeg) ## 24V/3A nätaggregat och batteribackup #### **Tekniska data** - Inspänning**: 110-264VAC - Stabiliserad utspänning: 27,3VDC - Maximal belastning: 3A - Temperaturområde: +5 °C 40 °C - IP-klassning: IP20 - Mått | Höjd | 230mm | |-------|-------| | Bredd | 216mm | | Djup | 85mm | - Nettovikt: 3kg - Primärswitchteknik - Skydd mot överlast, överspänning, övertemperatur, kortslutning och djupurladdning - Larmfunktion som standard för nätavbrott alternativt låg batterispänning (1 utgång) - Artikelnummer: S55299203165 ASSA ABLOY Opening Solutions Sweden P.O**. Box 371 SE-631 05 Eskilstuna Sweden Phone +46 (0)16 17 70 00 Fax +46 (0)16 17 70 49 Customer support: Phone intl. +46",  
+  "position": [  
+    990,  
+    1469  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155074"  
+}
+

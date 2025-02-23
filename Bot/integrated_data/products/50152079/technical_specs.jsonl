@@ -1,0 +1,22 @@
+{  
+  "name": "utgångar",  
+  "raw_value": "In- och utgångar skall vara konfigurerade enligt rekommendation i kapitel 3",  
+  "category": "CONNECTION",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "In- och utgångar skall vara konfigurerade enligt rekommendation i kapitel 3",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ndning med GARI G1/G2 i aktuell larmklass - Kommunikation med inbrottslarmcentral skall ske antingen via - o RS485: Protokollstöd krävs - o In- och ut**gångar: In- och utgångar skall vara konfigurerad...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152079"  
+}
+

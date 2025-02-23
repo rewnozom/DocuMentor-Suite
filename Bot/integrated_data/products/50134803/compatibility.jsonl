@@ -1,0 +1,32 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Brandskyddsföreningen och MSB rekommenderar",  
+  "context": "andardbrandfilt för placering och användning i hem, kontor, kök och andra offentliga miljöer. 120 x 180 cm är det mått s**om Brandskyddsföreningen och MSB rekommenderar.** - Filten består av glasfiberväv med silikonbeläggning - Påsen är tillverkad av 65% PVC, 35% polyester - 5 års garanti -",  
+  "position": [  
+    212,  
+    259  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134803"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "EN 18691997 #### **ARTICLE INFORMATION** Art",  
+  "context": "år av glasfiberväv med silikonbeläggning - Påsen är tillverkad av 65% PVC, 35% polyester - 5 års garanti - • Certifierin**g: EN 1869:1997 #### **ARTICLE INFORMATION:** Art.**no: 602025 EAN: 7320896020252 E-nummer: 1693820 ![](images/_page_0_Picture_11.jpeg) ![](images/_page_0_Picture_12.jpeg) ![](images/_page_0_Pi",  
+  "position": [  
+    393,  
+    443  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "18691997",  
+    "18691997"  
+  ],  
+  "product_id": "50134803"  
+}
+

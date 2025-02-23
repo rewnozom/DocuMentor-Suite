@@ -1,0 +1,140 @@
+{  
+  "identifier": "lective",  
+  "original": "lective",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "r light - Charge status,<br>battery status, lock-out status &<br>overheat warning<br>(H) Washable & **reflective** head strap<br>( ) Water protection cap<br>J ) USB-C charging port",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "lectante",  
+  "original": "lectante",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "e la batería, estado de bloqueo y alarma de sobrecalentamiento • (H) Cinta para la cabeza lavable y **reflectante** (I) Tapa de protección contra el agua (J) Puerto de carga USB-C • - #### Visión nocturna: LED rojo",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "lektorf",  
+  "original": "lektorf",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "A) A gomb • (B) B gomb • • (C) Keret (D) Fő világítás • (E) Éjjellátó funkció piros LED • (F) Feher **reflektorf**ény # Használati útmutató #### Fő világítás • Nyomja meg az (A) gombot a € bekapcsoláshoz. Nyomja",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "lecterende",  
+  "original": "lecterende",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "(A) om alle instellingen uit te schakelen . • Waterbeschermingskap USB-C oplaadpoort (H) Wasbare & r**eflecterende **hoofdband #### Nachtzicht Rode LED • . Druk op (B) om het nachtzicht in te schakelen. . • Druk een",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "lectant",  
+  "original": "lectant",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ului, starea blocadei si ertizarea de supraîncălzire • (H) Banda de sustinere pe frunte lavabilă si **reflectant**ă • () Capac de protectie împotriva apei • (J) Port de încărcare USB-C #### Vizionare nocturnă - lu",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "lekterande",  
+  "original": "lekterande",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "atorlampa Laddningsstatus, batteristatus. Jåsningsstatus och överhettningsvamina • (H) Tvättbar och **reflekterande** huvudi • (1) Vattenskyddslock • (J) USB-C laddningsport • Tryck på (B) för att aktivera mörkerseend",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "lektorska",  
+  "original": "lektorska",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "jenosti • (B) Tipka B • (C) Nosilec • (D) Glavna svetilka • (E) Nočni vid rdeča LED svetilka • Bela **reflektorska** svetilka (F) # Navodila za uporabo # Glayna svetilka • Pritisnite tipko (A) za vklop. Pritisnite",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "lektorske",  
+  "original": "lektorske",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "rska svetloba • . Pritisnite in zadržite tipko (B) za 1 sekundo, če želite preklopiti na način bele **reflektorske** svetlobe. • . Ponovno enkrat pritisnite tipko (B), da preklopite med nastavitvami: nizka moč rdeče",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "otojo",  
+  "original": "otojo",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "akis, nes tai gali tapti sužalojimų priežastimi • Naudojamas akumuliatorius yra užplombuotas, dėl va**rtotojo **saugumo jo negalima pakeisti nauju. • . Draudžiama naudoti valymo priemones, kurios gali pažeisti p",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+
+{  
+  "identifier": "batteri",  
+  "original": "batteri",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "å tilgjengelige. • For best batteriytelse, lad hodelykten hver 3-4. måned, Dette er et ikke-utskiftb**art batteri** og vil gi enestående service hvis det vedlikeholdes godt #### Batteriindikator • · Når hodelykten",  
+  "source": "regex",  
+  "product_id": "50464894"  
+}
+

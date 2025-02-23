@@ -1,0 +1,98 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "kontinuerlig underhållsladdning exempelvis i inbrottslarms- och brandlarmsanläggningar",  
+  "context": "-1/-2 brandlarmcentraler, använd BS127N-A för alla andra tillämpningar).** #### **BS127N** Underhållsfri blyackumulator **lämplig för kontinuerlig underhållsladdning, exempelvis i inbrottslarms- och brandlarmsanläggningar.** ![](images/_page_0_Picture_5.jpeg) #### **Details** - Underhållsfritt - Lång livslängd - Temperaturokänslig - Uppladdningsbart",  
+  "position": [  
+    226,  
+    326  
+  ],  
+  "pattern_index": 10,  
+  "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457566"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "kontinuerlig underhållsladdning exempelvis i inbrottslarms- och brandlarmsanläggningar",  
+  "context": "-1/-2 brandlarmcentraler, använd BS127N-A för alla andra tillämpningar).** #### **BS127N** Underhållsfri blyackumulator **lämplig för kontinuerlig underhållsladdning, exempelvis i inbrottslarms- och brandlarmsanläggningar.** ![](images/_page_0_Picture_5.jpeg) #### **Details** - Underhållsfritt - Lång livslängd - Temperaturokänslig - Uppladdningsbart",  
+  "position": [  
+    226,  
+    326  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457566"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "2010-1/-2 brandlarmcentraler använd BS127N-A för alla andra tillämpningar)",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BS127N **Blyackumulator 12 V, 7,2 Ah mått 151 x 94 x 65 mm (**endast för 2010-1/-2 brandlarmcentraler, använd BS127N-A för alla andra tillämpningar).**** #### **BS127N** Underhållsfri blyackumulator lämplig för kontinuerlig underhållsladdning, exempelvis i inbrottslarms-",  
+  "position": [  
+    91,  
+    178  
+  ],  
+  "pattern_index": 97,  
+  "pattern": "(?i)(?:endast|bara)\\s+(?:vid|för|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457566"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "2010-1/-2 brandlarmcentraler använd BS127N-A för alla andra tillämpningar)",  
+  "context": "aturokänslig - Uppladdningsbart - Läckagefri konstruktion # BS127N **Blyackumulator 12 V, 7,2 Ah mått 151 x 94 x 65 mm (**endast för 2010-1/-2 brandlarmcentraler, använd BS127N-A för alla andra tillämpningar).**** ### **Technical specifications** | Allmänt | | |-------------------------------------|--------------------------| | P",  
+  "position": [  
+    535,  
+    622  
+  ],  
+  "pattern_index": 97,  
+  "pattern": "(?i)(?:endast|bara)\\s+(?:vid|för|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457566"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "online eller kontakta din försäljningsrepresentant",  
+  "context": "duktspecifikationer utan föregående meddelande. För de senaste produktspecifikationerna, besök se.firesecurityproducts.c**om online eller kontakta din försäljningsrepresentant.**",  
+  "position": [  
+    1737,  
+    1791  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457566"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Sealed lead acid battery | | Spänning/ström | | | Nominal voltage | 12 V | | Nominal capacity | 7",  
+  "context": "**Technical specifications** | Allmänt | | |-------------------------------------|--------------------------| | Product **type | Sealed lead acid battery | | Spänning/ström | | | Nominal voltage | 12 V | | Nominal capacity | 7.**2 Ah | | Internal approx.<br>resistance | 21 mohm | | Laddning/urladdning | | | Max. charge voltage | 13.8 VDC at +20°C",  
+  "position": [  
+    749,  
+    854  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457566"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Fast-on 4",  
+  "context": "dimensions | 151 x 94 x 65 mm | | Net weight | 2.678 kg | | Shipping weight | 2.678 kg | | Material | ABS | | Terminal t**ype | Fast-on 4.8** mm | | Miljö | | | Fire retardant | No | | Operating temperature | 0 to +40°C | | Storage temperature | -15 to +50°C |",  
+  "position": [  
+    1287,  
+    1304  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457566"  
+}
+

@@ -1,0 +1,31 @@
+{  
+  "relation_type": "version",  
+  "related_product": "Indikering för nätbortfall låg utspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+  "context": "l i kablaget. Plats för en 12 V 18 Ah ackumulator. Sabotagekontakt. Enheten har skydd mot kortslutning och överbelastnin**g. Indikering för nätbortfall, låg utspänning, batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer.** #### **BESTÄLLINGSINFORMATION** **Typ E-nr Beskrivning** PSV 1215-18 5255012 Strömförsörjning, VIP, 12 V 1,5 A ## **ALA",  
+  "position": [  
+    916,  
+    1047  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50024632"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "E-nr Beskrivning** PSV 1215-18 5255012 Strömförsörjning VIP 12 V 15 A ## **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1",  
+  "context": "batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer. #### **BESTÄLLINGSINFORMATION** **T**yp E-nr Beskrivning** PSV 1215-18 5255012 Strömförsörjning, VIP, 12 V 1,5 A ## **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1.j**peg) ### **Relaterade produkter och tillbehör:** | 28097<br>Power X1,<br>DC/DC<br>Omvandlare MIN<br>I<br>5-32 V -> 3.3-",  
+  "position": [  
+    1082,  
+    1208  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5255012"  
+  ],  
+  "product_id": "50024632"  
+}
+

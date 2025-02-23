@@ -1,0 +1,28 @@
+{  
+  "identifier": "erences",  
+  "original": "erences",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | Cross References: | GP | SIF | IEC | Eveready Duracell Varta | | | |-----|------|----------|----",  
+  "source": "regex",  
+  "product_id": "50024358"  
+}
+
+{  
+  "identifier": "erence",  
+  "original": "erence",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "nit : mm The information (subject to change without prior notice) contained in this document is for **reference** only and should not be used as a basis for product guarantee or warranty. For applications other th",  
+  "source": "regex",  
+  "product_id": "50024358"  
+}
+

@@ -1,0 +1,28 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Plast (Acetalplast) ### Rengöring Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+  "context": "10 A/250 V AC Lägsta märkström 1mA/4 V DC ![](images/_page_0_Figure_4.jpeg) ![](images/_page_0_Picture_5.jpeg) Material: Alu.6060-T6 P**OM Plast (Acetalplast) ### Rengöring: Kontakten går att rengöra med alla förekommande rengöringsmedel.** Tillval: ![](images/_page_0_Figure_10.jpeg) ### Går att beställa med: - * 2 Mikrobrytare - * NO/NC Mikrobrytare - * Radiostyrn",  
+  "position": [  
+    275,  
+    377  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155016"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+  "context": "4 V DC ![](images/_page_0_Figure_4.jpeg) ![](images/_page_0_Picture_5.jpeg) Material: Alu.6060-T6 POM Plast (Acetalplast) ### Rengörin**g: Kontakten går att rengöra med alla förekommande rengöringsmedel.** Tillval: ![](images/_page_0_Figure_10.jpeg) ### Går att beställa med: - * 2 Mikrobrytare - * NO/NC Mikrobrytare - * Radiostyrn",  
+  "position": [  
+    310,  
+    377  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155016"  
+}
+

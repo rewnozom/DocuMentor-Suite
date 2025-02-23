@@ -1,0 +1,133 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "utökningskort ska användas kopplas spänningen vidare på plint7 12- 24V UT",  
+  "context": "DC E nr: 52 470 45 SM920 DC E nr: 52 470 48** # **INKOPPLINGSANVISNING** Anslut först 12-24Vpå plint8 märkt 12-24V IN. O**m utökningskort ska användas kopplas spänningen vidare på plint7 12- 24V UT. **Lysdiod för utgångarna tänds Kontrollera att utspänningen är riktig Anslut lasten Om lysdiod för utgångar inte tänds ko",  
+  "position": [  
+    2556,  
+    2633  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för utgångar inte tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "änningen vidare på plint7 12- 24V UT. Lysdiod för utgångarna tänds Kontrollera att utspänningen är riktig Anslut lasten **Om lysdiod för utgångar inte tänds kontrollera inspänning och ingångssäkringarna.** Löser säkringarna, kontrollera inkoppling och inkopplade apparater. # **SÄKRINGAR** | F21 | Primärsäkringar 10As | |---",  
+  "position": [  
+    2716,  
+    2797  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "utökningskort ska användas kopplas spänningen vidare på plint7 12- 24VAC UT",  
+  "context": "E nr: 52 470 44 SM929 AC E nr: 52 470 65** ## **INKOPPLINGSANVISNING** Anslut först 12-24VAC på plint8 märkt 12-24V IN. **Om utökningskort ska användas kopplas spänningen vidare på plint7 12- 24VAC UT.** Lysdiod för utgångarna tänds Kontrollera att utspänningen är riktig Anslut lasten Om lysdiod för utgångar inte tänds ko",  
+  "position": [  
+    3669,  
+    3748  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för utgångar inte tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "ningen vidare på plint7 12- 24VAC UT. Lysdiod för utgångarna tänds Kontrollera att utspänningen är riktig Anslut lasten **Om lysdiod för utgångar inte tänds kontrollera inspänning och ingångssäkringarna.** Löser säkringarna, kontrollera inkoppling och inkopplade apparater. # **SÄKRINGAR** | F21 | Primärsäkringar 10As | |---",  
+  "position": [  
+    3831,  
+    3912  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "utökningskort ska användas kopplas spänningen vidare på plint7 12- 24V UT",  
+  "context": "DC E nr: 52 470 48 SM930 DC E nr: 52 470 49** # **INKOPPLINGSANVISNING** Anslut först 12-24Vpå plint8 märkt 12-24V IN. O**m utökningskort ska användas kopplas spänningen vidare på plint7 12- 24V UT. **Lysdiod för utgångarna tänds Kontrollera att utspänningen är riktig Anslut lasten Om lysdiod för utgångar inte tänds ko",  
+  "position": [  
+    4755,  
+    4832  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för utgångar inte tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "änningen vidare på plint7 12- 24V UT. Lysdiod för utgångarna tänds Kontrollera att utspänningen är riktig Anslut lasten **Om lysdiod för utgångar inte tänds kontrollera inspänning och ingångssäkringarna.** Löser säkringarna, kontrollera inkoppling och inkopplade apparater. # **SÄKRINGAR** | F21 | Primärsäkringar 10As | |---",  
+  "position": [  
+    4915,  
+    4996  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Separat anslutning för skärm (jord)",  
+  "context": "ax 10A, till 10 sektioner 2-poligt avsäkrade med 2A. Huvudsäkring 1 poligt 10As. Automatisk anpassning till 12V eller 24**V. Separat anslutning för skärm (jord).** ### **MODELLER** - **SM910:** Stativmontage 19\" säkringspanel för 12-24VDC för - **SM930:** Väggmonterad säkringspanel",  
+  "position": [  
+    387,  
+    426  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | 12-24V | GR3 | | | GR4 | | | | | | GR5 | | | | | Säkrfel | GR6 | | Larm | GR7 | | | | | 127mm | GR8 | | | GR9 | | Jord | | | | GR10 | | | | | 90mm<br>FUSE | | | LED<br>F1-F10<br>UTSP | | | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "USE1-1 –<br>10-2 | Sekundärsäkringar 2As | | | GR1 | |-----------------------|------| | INGÅNG | | | 12-24V | GR2 | | UT**G. | | | 12-24V | GR3 | | | GR4 | | | | | | GR5 | | | | | Säkrfel | GR6 | | Larm | GR7 | | | | | 127mm | GR8 | | | GR9 | | Jord | | | | GR10 | | | | | 90mm<br>FUSE | | | LED<br>F1-F10<br>UTSP | | | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se Telefax nr/Telefax no +46(0)303-748 490 e-post info@swtm.se ![](images/_page_2_Picture_0.jpeg) # # **SM919 AC E nr: 52",  
+  "position": [  
+    3082,  
+    3438  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50459825"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | HxBxD mm | |----------|------|------------------------------------------------|-------------| | 5247045 | 910S | SM910 19\"ram med 10-gruppsäkringskort 12-24VDC | 135x480x60 | | 5247046 | 911S | SM911 19\" endast ram | 135x480x60 | | 5247047 | 912S | SM912 Lock till 19\" ram | 135x480 | | 5247048 | 920S | SM920 Utökningskort 10-grupp 12-24VDC | 130x90x45 | | 5247049 | 930S | SM930 Vägg mont",  
+  "context": "-------|---------| | SM919, SM929<br>Inspänning AC | 8-30VAC | **CE-märkt enligt EN50081-1 och EN50082-1** | E-Nummer | **Typ | | HxBxD mm | |----------|------|------------------------------------------------|-------------| | 5247045 | 910S | SM910 19\"ram med 10-gruppsäkringskort 12-24VDC | 135x480x60 | | 5247046 | 911S | SM911 19\" endast ram | 135x480x60 | | 5247047 | 912S | SM912 Lock till 19\" ram | 135x480 | | 5247048 | 920S | SM920 Utökningskort 10-grupp 12-24VDC | 130x90x45 | | 5247049 | 930S | SM930 Vägg mont.**10-gruppsäkringskort 12-24VDC | 180x180x100 | | 5247044 | 919S | SM919 19\"ram med 10-gruppsäkringskort 12-24VAC | 135x48",  
+  "position": [  
+    1554,  
+    1953  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5247045",  
+    "5247046",  
+    "5247047",  
+    "5247048",  
+    "5247049"  
+  ],  
+  "product_id": "50459825"  
+}
+

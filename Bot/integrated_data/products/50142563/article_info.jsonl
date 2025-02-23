@@ -1,0 +1,14 @@
+{  
+  "identifier": "icles",  
+  "original": "icles",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "mpatible materials and any activities which may generate flames, sparks, or heat. Keep all metallic **articles** that could contact the negative and positive terminals on a battery and create a short circuit cond",  
+  "source": "regex",  
+  "product_id": "50142563"  
+}
+

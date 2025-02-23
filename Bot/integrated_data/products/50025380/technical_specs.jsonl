@@ -1,0 +1,66 @@
+{  
+  "name": "Dimensions",  
+  "raw_value": "26",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "26",  
+    "unit": null,  
+    "normalized_value": 26.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Nominal Dimensions | : 26 mm x 16.5 mm x 44.7 mm",  
+  "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",  
+  "pattern_index": 6,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50025380"  
+}
+
+{  
+  "name": "temperature",  
+  "raw_value": "-40",  
+  "category": "TEMPERATURE",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "-40",  
+    "unit": null,  
+    "normalized_value": -40.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "losion<br>qas alarms, meters (qas/electric/water), metal<br>detectors, wireless transmitters, electronic<br>toll collection system, etc. | Operating t**emperature : -40°C **to 60°C ## Cross References...",  
+  "pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:[.,]\\d+)?)\\s*°?C",  
+  "pattern_index": 65,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50025380"  
+}
+
+{  
+  "name": "Operating temperature",  
+  "raw_value": "-40",  
+  "category": "TEMPERATURE",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "-40",  
+    "unit": null,  
+    "normalized_value": -40.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "larms, explosion<br>qas alarms, meters (qas/electric/water), metal<br>detectors, wireless transmitters, electronic<br>toll collection system, etc. | O**perating temperature : -40°C **to 60°C ## Cross ...",  
+  "pattern": "(?i)(?:drifttemperatur|operating temperature)\\s*:\\s*(-?\\d+(?:[.,]\\d+)?)\\s*°?C",  
+  "pattern_index": 66,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50025380"  
+}
+

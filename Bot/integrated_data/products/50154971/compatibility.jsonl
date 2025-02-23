@@ -1,0 +1,56 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "torka av ytan",  
+  "context": "a, exempelvis i köket, verkstaden eller bredvid öppen spis. FBSH-180 ligger i en snygg glansig hårdbox, perfekt när man **behöver torka av ytan.** - 3 Minimalt med saneringsarbete efter släckning - 3 Snabbare släckning, mindre risk för återantändning - 3 Uppfyller k",  
+  "position": [  
+    494,  
+    516  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154971"  
+}
+
+{  
+  "relation_type": "accessory",  
+  "related_product": "en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+  "context": "## BRANDFILT SILIKON 120x180 CM **FBSH-180** En brandfilt rekommenderas som **komplement till en brandsläckare, för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl.** En silikonbelagd brandfilt kväver branden ännu snabbare än en vanlig brandfilt och minskar risken för återantändning av",  
+  "position": [  
+    76,  
+    187  
+  ],  
+  "pattern_index": 81,  
+  "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154971"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "komplement till en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+  "context": "## BRANDFILT SILIKON 120x180 CM **FBSH-180** En brandfilt rekommenderas s**om komplement till en brandsläckare, för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl.** En silikonbelagd brandfilt kväver branden ännu snabbare än en vanlig brandfilt och minskar risken för återantändning av",  
+  "position": [  
+    73,  
+    187  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154971"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "man behöver torka av ytan",  
+  "context": "förekomma, exempelvis i köket, verkstaden eller bredvid öppen spis. FBSH-180 ligger i en snygg glansig hårdbox, perfekt **när man behöver torka av ytan.** - 3 Minimalt med saneringsarbete efter släckning - 3 Snabbare släckning, mindre risk för återantändning - 3 Uppfyller k",  
+  "position": [  
+    486,  
+    516  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154971"  
+}
+

@@ -1,0 +1,70 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "a battery",  
+  "context": "quipment trouble. Please strictly observe safety instructions. (*leakage is defined as an unintended escape of liquid fr**om a battery.**) #### **Section 4-First Aid Measures** None unless internal materials exposure. If contents are leaked out, observe fol",  
+  "position": [  
+    1909,  
+    1922  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464573"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents",  
+  "context": "orms of transportation (ground, air, or ocean) must be packaged in a safe and responsible manner. Regulatory concerns fr**om all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents.** All original packaging for GP alkaline batteries has been designed to be compliant with these regulatory concerns. Alka",  
+  "position": [  
+    5085,  
+    5276  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464573"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the dangerous goods regulations provided they meet the requirements contained in the following special provisions",  
+  "context": "Regulations, ICAO Technical Instructions and the U.S. hazardous materials regulations (49 CFR). These batteries are not **subject to the dangerous goods regulations provided they meet the requirements contained in the following special provisions.** | Regulatory Body | Special<br>Provisions | |-----------------|------------------------------| | ADR | Not regulated |",  
+  "position": [  
+    5818,  
+    5943  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464573"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of dangerous quantities of heat and meet the special provisions listed above",  
+  "context": "A | A123 | | ICAO | Not regulated | All GP alkaline batteries are packed in such a way to prevent short circuits or the **generation of dangerous quantities of heat and meet the special provisions listed above.** In addition, the 2023 IATA (64th edition) Dangerous Goods Regulations and ICAO Technical Instructions require the words",  
+  "position": [  
+    6278,  
+    6366  
+  ],  
+  "pattern_index": 123,  
+  "pattern": "(?i)generation(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464573"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Never short-circuit the battery",  
+  "context": "ever heat. Never expose to open flame. Never disassemble. Never reverse the positive and negative terminals when mountin**g. Never short-circuit the battery.** Never weld the terminal or wire to the body of the battery directly. Never use different batteries together. Never touc",  
+  "position": [  
+    3421,  
+    3456  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464573"  
+}
+

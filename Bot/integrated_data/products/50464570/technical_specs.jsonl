@@ -1,0 +1,22 @@
+{  
+  "name": "Dimension",  
+  "raw_value": "mm |      |      |  |  |  |\n\nThe information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "mm |      |      |  |  |  |\n\nThe information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "9.3 | 61.5 | | | | | C | 18.0 | – | | | | | F | – | 9.5 | | | | | G | 1.5 | – | | | | | Dimension : mm | | | | | | The information (subject to change **without prior notice) contained in this document...",  
+  "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 1,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464570"  
+}
+

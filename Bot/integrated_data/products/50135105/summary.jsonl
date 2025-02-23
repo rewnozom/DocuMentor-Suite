@@ -1,0 +1,60 @@
+{  
+  "product_id": "50135105",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Lampan har två effektlägen 100% eller 30%. Lätt att ta med och idealisk när du vill ha händerna fria. Effektläge hög\n- 2.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimension",  
+      "value": "H41xB56xD38",  
+      "unit": "xB"  
+    },  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "Vattenskydd",  
+      "value": "Stänktålig\n\n![](images/_page_0_Picture_10",  
+      "unit": null  
+    },  
+    {  
+      "category": "COLOR",  
+      "name": "Färg",  
+      "value": "Mattsvart Batterikälla: 3xAAA (medföljer ej) Dimension: H41xB56xD38",  
+      "unit": "xAAA"  
+    },  
+    {  
+      "category": "LIGHTING",  
+      "name": "Ljuskälla",  
+      "value": "COB-diod, mkt energisnål, utökad brinntid",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "ger mycket lång brinntid och god ljusspridning i vidvinkel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "du vill ha händerna fria",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "## **Specifikation** LjuskällaCOB-diod mkt energisnål utökad brinntid",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Mattsvart Batterikälla 3xAAA (medföljer ej) Dimension H41xB56xD38",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "Batterik"  
+    ]  
+  }  
+}
+

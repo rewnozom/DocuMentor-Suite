@@ -1,0 +1,56 @@
+{  
+  "identifier": "erenser",  
+  "original": "erenser",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "gränsvärden | ändringar. | Vid brand kan små mängder fosforpentoxid och ammoniak bildas.<br>Referens**er (lagar/**förordningar): Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden",  
+  "source": "regex",  
+  "product_id": "50461470"  
+}
+
+{  
+  "identifier": "filter",  
+  "original": "filter",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "--------------------------| | Hänvisning till relevanta<br>standarder | SS-EN 143 (Andningsskydd - P**artikelfilter** - Fordringar, provning, märkning). | #### **Begränsning av miljöexponeringen** | B",  
+  "source": "regex",  
+  "product_id": "50461470"  
+}
+
+{  
+  "identifier": "ikelnr",  
+  "original": "ikelnr",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "PE2CR-A, PE4HR-A, PE4CR-A , PE6HR-C, PE12HR-A ,<br>PE12CR-A | | Artikelnr. | 600150-60, 600171-60, 6**00119-60,** 600159-60, 600160-60, 600143-60,<br>600144-60, 600124-60, 6001",  
+  "source": "regex",  
+  "product_id": "50461470"  
+}
+
+{  
+  "identifier": "ikelfilter",  
+  "original": "ikelfilter",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "--------------------------| | Hänvisning till relevanta<br>standarder | SS-EN 143 (Andningsskydd - P**artikelfilter** - Fordringar, provning, märkning). | #### **Begränsning av miljöexponeringen** | B",  
+  "source": "regex",  
+  "product_id": "50461470"  
+}
+

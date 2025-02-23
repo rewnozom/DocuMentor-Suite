@@ -1,0 +1,266 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "24V 5A och i 24V 10A",  
+  "context": "5: Ger 5st 2-poligt avsäkrade utgångar med indikering och summalarmsrelä DC/DC omv. DC5: Ger 2st utgångar med 12VDC 5A. **Passar i 24V 5A och i 24V 10A.** Sabotageskydd: Sabotagekontakt monteras i förborrade hål. # BESKRIVNING Strömförsörjningsaggregat som kännetecknas av s",  
+  "position": [  
+    731,  
+    761  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "drift av alla typer av svagströmsanläggningar larm brand och passagesystem där man vill ha ett miljöanpassat system",  
+  "context": "örsörjning med lång livslängd. Kan parallellkopplas för att få större uteffekt eller kompensera spänningsfall i kablar. **Lämplig för drift av alla typer av svagströmsanläggningar, larm, brand och passagesystem, där man vill ha ett miljöanpassat system.** Utförande: Aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för väggmontage. Det finns 4st genom",  
+  "position": [  
+    1097,  
+    1228  
+  ],  
+  "pattern_index": 10,  
+  "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "drift av alla typer av svagströmsanläggningar larm brand och passagesystem där man vill ha ett miljöanpassat system",  
+  "context": "örsörjning med lång livslängd. Kan parallellkopplas för att få större uteffekt eller kompensera spänningsfall i kablar. **Lämplig för drift av alla typer av svagströmsanläggningar, larm, brand och passagesystem, där man vill ha ett miljöanpassat system.** Utförande: Aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för väggmontage. Det finns 4st genom",  
+  "position": [  
+    1097,  
+    1228  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "fits",  
+  "related_product": "24V 5A och i 24V 10A",  
+  "context": "5: Ger 5st 2-poligt avsäkrade utgångar med indikering och summalarmsrelä DC/DC omv. DC5: Ger 2st utgångar med 12VDC 5A. **Passar i 24V 5A och i 24V 10A.** Sabotageskydd: Sabotagekontakt monteras i förborrade hål. # BESKRIVNING Strömförsörjningsaggregat som kännetecknas av s",  
+  "position": [  
+    731,  
+    761  
+  ],  
+  "pattern_index": 58,  
+  "pattern": "(?i)passar\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "05/08A är försedda med larmrelä för nätavbrott",  
+  "context": "atteri skyddas av säkringar. Indikeringar och larm: Nätspänning indikeras med grön lysdiod på fronten. Alla typer är, ut**om 0,5/0,8A, är försedda med larmrelä för nätavbrott.** SM40 0,5/0,8A har en 2 pol avsäkrad utgång (polyswitch) SM40 1-10A har 2st 2 pol avsäkrade utgångar glasrörssäkring # E",  
+  "position": [  
+    360,  
+    413  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kännetecknas av små dimensioner och enkel inkoppling",  
+  "context": "4V 5A och i 24V 10A. Sabotageskydd: Sabotagekontakt monteras i förborrade hål. # BESKRIVNING Strömförsörjningsaggregat s**om kännetecknas av små dimensioner och enkel inkoppling.** SM40 är en primärswitchad, högeffektiv och strömsnål strömförsörjning med lång livslängd. Kan parallellkopplas för att",  
+  "position": [  
+    861,  
+    917  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+  "context": "FÖRSÖRJNING MED PLATS FÖR BATTERIER ![](images/_page_1_Picture_1.jpeg) ### SÄKERHET Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.** **SM40** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i ap",  
+  "position": [  
+    3769,  
+    3844  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "när interna säkringarna är av eller på. **Strömförsörjning med plats för batteri** > Denna instruktion skall läsas igeno**m grundligt och förstås av all handhavande personal. **Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    4096,  
+    4149  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "tteri** > Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt",  
+  "position": [  
+    4172,  
+    4262  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "onenter samt säkerhet skall leverantören kontaktas. Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** > Säkring F2- F3 OUT 1 Säkrin g F4- F5 Säkring F6 Batteri Kortslut inte batteripolerna. F1 Nät Modell Säkring ### INKOP",  
+  "position": [  
+    4331,  
+    4390  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och säkringarna",  
+  "context": "lera att utspänningen är riktig. - Spänningen är justerad vid leverans. Ev.justering görs direkt på likriktarmodulen. - **Om lysdiod för nätindikering ej tänds kontrollera inspänning och säkringarna.** - Anslut batterierna och därefter lasten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater.",  
+  "position": [  
+    4757,  
+    4834  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** **Strömförsörjning med plats för batteri** > Denna instruktion skall läsas igenom grundligt och förstås av all handhava",  
+  "position": [  
+    3977,  
+    4016  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "DC5 Ger 2st utgångar med 12VDC 5A",  
+  "context": "d larmkort SM101/102. Säkringskort SM925: Ger 5st 2-poligt avsäkrade utgångar med indikering och summalarmsrelä DC/DC om**v. DC5: Ger 2st utgångar med 12VDC 5A.** Passar i 24V 5A och i 24V 10A. Sabotageskydd: Sabotagekontakt monteras i förborrade hål. # BESKRIVNING Strömförsörjning",  
+  "position": [  
+    692,  
+    730  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "justering görs direkt på likriktarmodulen",  
+  "context": "AC. - Lysdiod för nätspänning tänds. - Kontrollera att utspänningen är riktig. - Spänningen är justerad vid leverans. Ev**.justering görs direkt på likriktarmodulen. **- Om lysdiod för nätindikering ej tänds kontrollera inspänning och säkringarna. - Anslut batterierna och därefter laste",  
+  "position": [  
+    4710,  
+    4754  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "g) ![](images/_page_0_Picture_3.jpeg) SM40 1-2,5A SM40 0,5/0,8A Skydd: Aggregatet är skyddad mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri skyddas av säkringar. Indikeringar och larm: Nätspänning indikeras med grön lysdiod på fronten. A",  
+  "position": [  
+    173,  
+    224  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "SM40 är en primärswitchad högeffektiv och strömsnål strömförsörjning med lång livslängd",  
+  "context": "nteras i förborrade hål. # BESKRIVNING Strömförsörjningsaggregat som kännetecknas av små dimensioner och enkel inkopplin**g. SM40 är en primärswitchad, högeffektiv och strömsnål strömförsörjning med lång livslängd.** Kan parallellkopplas för att få större uteffekt eller kompensera spänningsfall i kablar. Lämplig för drift av alla type",  
+  "position": [  
+    915,  
+    1007  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Spänningen är justerad vid leverans",  
+  "context": "st 100mm på varje sida. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. - Kontrollera att utspänningen är rikti**g. - Spänningen är justerad vid leverans.** Ev.justering görs direkt på likriktarmodulen. - Om lysdiod för nätindikering ej tänds kontrollera inspänning och säkrin",  
+  "position": [  
+    4667,  
+    4708  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Utspänning | Utström | Batteriplats | Verkningsgrad | HxBxD | |-----------|-----------------|-----------------------|------------------|-----------------|---------------|-----------------| | 52 570 38 | SM40 / 12-08 | 136VDC | 08A | 2 x 08Ah | 083 | 200 x 110 x 60 | | 52 570 40 | SM40 / 12-1 | 136VDC | 1A | 2 x 9Ah | 081 | 210 x 310 x 80 | | 52 570 41 | SM40 / 12-2 | 136VDC | 3A | 2 x 9Ah | 087 | 210 x 310 x 80 | | 52 570 42 | SM40 / 12-5 | 136VDC | 65A | 2 x 20Ah | 086 | 300 x 360 x 110 | | 52 570 44 | SM40 / 12-10 | 136VDC | 13A | 2 x 20Ah | 086 | 300 x 360 x 110 | | 52 570 39 | SM40 / 24-05 | 273VDC | 05A | 2 x 08Ah | 083 | 200 x 110 x 60 | | 52 570 45 | SM40 / 24-1 | 273VDC | 1A | 2 x 9Ah | 084 | 210 x 310 x 80 | | 52 570 46 | SM40 / 24-2 | 273VDC | 3A | 2 x 9Ah | 087 | 210 x 310 x 80 | | 52 570 47 | SM40 / 24-5 | 273VDC | 6A | 2 x 20Ah | 084 | 300 x 360 x 110 | | 52 570 48 | SM40 / 24-10 | 273VDC | 13A | 2 x 20Ah | 088 | 300 x 360 x 110 | | 52 570 30 | SM40 / 24-5-45 | 273VDC | 6A | 2 x 45Ah | 084 | 320 x 420 x 180 | | 52 570 31 | SM40 / 24-10-45 | 273VDC | 13A | 2 x 45Ah | 088 | 320 x 420 x 180 | | 52 570 99 | SM40 / 24-05 B | 273VDC | 05A | Inkl",  
+  "context": "| 20mA | | | | Temp. omr. | -15 – 40 C | | | | | | | | ### CE-märkt - EN61000-6-3:2001, EN61000-6-2:2005 | E: nummer | M**odell | Utspänning | Utström | Batteriplats | Verkningsgrad | HxBxD | |-----------|-----------------|-----------------------|------------------|-----------------|---------------|-----------------| | 52 570 38 | SM40 / 12-0,8 | 13,6VDC | 0,8A | 2 x 0,8Ah | 0,83 | 200 x 110 x 60 | | 52 570 40 | SM40 / 12-1 | 13,6VDC | 1A | 2 x 9Ah | 0,81 | 210 x 310 x 80 | | 52 570 41 | SM40 / 12-2 | 13,6VDC | 3A | 2 x 9Ah | 0,87 | 210 x 310 x 80 | | 52 570 42 | SM40 / 12-5 | 13,6VDC | 6,5A | 2 x 20Ah | 0,86 | 300 x 360 x 110 | | 52 570 44 | SM40 / 12-10 | 13,6VDC | 13A | 2 x 20Ah | 0,86 | 300 x 360 x 110 | | 52 570 39 | SM40 / 24-0,5 | 27,3VDC | 0,5A | 2 x 0,8Ah | 0,83 | 200 x 110 x 60 | | 52 570 45 | SM40 / 24-1 | 27,3VDC | 1A | 2 x 9Ah | 0,84 | 210 x 310 x 80 | | 52 570 46 | SM40 / 24-2 | 27,3VDC | 3A | 2 x 9Ah | 0,87 | 210 x 310 x 80 | | 52 570 47 | SM40 / 24-5 | 27,3VDC | 6A | 2 x 20Ah | 0,84 | 300 x 360 x 110 | | 52 570 48 | SM40 / 24-10 | 27,3VDC | 13A | 2 x 20Ah | 0,88 | 300 x 360 x 110 | | 52 570 30 | SM40 / 24-5-45 | 27,3VDC | 6A | 2 x 45Ah | 0,84 | 320 x 420 x 180 | | 52 570 31 | SM40 / 24-10-45 | 27,3VDC | 13A | 2 x 45Ah | 0,88 | 320 x 420 x 180 | | 52 570 99 | SM40 / 24-0,5 B | 27,3VDC | 0,5A | Inkl. **2 x 0,8Ah | 0,83 | 200 x 110 x 60 | | 52 570 49 | SM40 / 48-5 | 54,6VDC | 5A | 4 x 9Ah | 0,84 | 300 x 360 x 110 | | 52",  
+  "position": [  
+    1970,  
+    3184  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Säkring ### INKOPPLING - Montera aggregatet fritt",  
+  "context": "d elektrokemiskt aktiva. > Säkring F2- F3 OUT 1 Säkrin g F4- F5 Säkring F6 Batteri Kortslut inte batteripolerna. F1 Nät **Modell Säkring ### INKOPPLING - Montera aggregatet fritt.** Minst 100mm på varje sida. - Anslut först 230V AC. - Lysdiod för nätspänning tänds. - Kontrollera att utspänningen är r",  
+  "position": [  
+    4486,  
+    4543  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50134605"  
+}
+

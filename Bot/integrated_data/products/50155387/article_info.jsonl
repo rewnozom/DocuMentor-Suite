@@ -1,0 +1,14 @@
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| 230x216x85mm | 200x146x57mm | 10x25x100mm | | Artikelnamn: | 19 rack module holder",  
+  "source": "regex",  
+  "product_id": "50155387"  
+}
+

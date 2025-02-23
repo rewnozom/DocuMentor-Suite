@@ -1,0 +1,31 @@
+{  
+  "product_id": "50154970",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Pulversläckare anses vara den mest mångsidiga släckaren och släcker de flesta bränder som kan uppstå. En pulversläckare är frostbeständig och leder ej elektricitet vilket innebär att du även kan släcka bränder i elektrisk utrustning upp till 1000 V. Tänk på att en pulversläckare bara går att använda en gång, sedan måste den laddas om.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "för offentliga miljöer - 3 Effektklass 55A 233B C - 3 Fotring - 3 MED/Wheelmark - 3 EN 3-7 - 3 Väggfäste medföljer - 3 Etikett på svenska / norska ![](images/_page_0_Picture_14",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "för offentliga miljöer - 3 Effektklass 55A 233B C - 3 Fotring - 3 MED/Wheelmark - 3 EN 3-7 - 3 Väggfäste medföljer - 3 Etikett på svenska / norska ![](images/_page_0_Picture_14",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kan uppstå",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Tänk på att en pulversläckare bara går att använda en gång sedan måste den laddas om",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

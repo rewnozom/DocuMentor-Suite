@@ -1,0 +1,70 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | 7.1. NEO Batteribackup med fler larmfunktioner 11 | | | | 7.1.1. NEO - Namn, artikelnummer och** e-nummer 12 **| | | | 7.1.2. NEO batteribackup för säkerhetsanläggningar 12",  
+  "source": "regex",  
+  "product_id": "50463498"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | 7.1. NEO Batteribackup med fler larmfunktioner 11 | | | | 7.1.1. NEO - Namn, artikelnummer och** e-nummer 12 **| | | | 7.1.2. NEO batteribackup för säkerhetsanläggningar 12",  
+  "source": "regex",  
+  "product_id": "50463498"  
+}
+
+{  
+  "identifier": "kabel",  
+  "original": "kabel",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ripolerna utåt, mot skåpluckan. • 2. Anslut batterikablaget till batteriet. Röd kabel på plus och sv**art kabel** på minus. • Bryt, om möjligt, nätspänning vid inkoppling och batteribyte. Figur 3. Kopplingsschema",  
+  "source": "regex",  
+  "product_id": "50463498"  
+}
+
+{  
+  "identifier": "ikelben",  
+  "original": "ikelben",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "---------------------------------------------------------------------------------------|--|--|--| | **Artikelben**ämning | CEO3 uP",  
+  "source": "regex",  
+  "product_id": "50463498"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "yra-batteri. | 12 V | 14 Ah | | Tabell 9. 10+ Design life* batteri | Artikelnummer | E-nummer | Arti**kelnamn | T**erminal | Mått. Höjd,<br>bredd, djup | Vikt per<br>s",  
+  "source": "regex",  
+  "product_id": "50463498"  
+}
+

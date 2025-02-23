@@ -1,0 +1,45 @@
+{  
+  "product_id": "50462601",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "| Document Number: MSDS-CR-001            | Revision:1                                                                | Page 1 of 5 |  |  |\n|-----------------------------------------|---------------------------------------------------------------------------|-------------|--|--|\n| IDENTITY (As Used on Label and List)    | Note : Blank spaces are not permitted if any item is not applicable or no |             |  |  |\n| Lithium Battery                         | information<br>is available, the space must be marked to indicate that. |             |  |  |\n| Section 1- Identification               |                                                                           |             |  |  |\n| Product Name                            | Lithium Battery                                                           |             |  |  |\n| Manufacturer's name, address, telephone | Manufacturer: GP Batteries International Ltd. |             |  |  |\n| number                                  | Address: 7/F, Building 16W, 16 Science Park West Avenue, Hong Kong        |             |  |  |\n|                                         | Science Park, New Territories, Hong Kong                                  |             |  |  |\n|                                         | Tel: +852-24843111                                                        |             |  |  |\n| Emergency phone number                  | Within USA and Canada: 1-800-424-9300                                     |             |  |  |\n|                                         | Outside USA and Canada: +1 703-527-3887                                   |             |  |  |\n| Date of prepared and revision           | Jan 1, 2021                                                               |             |  |  |\n| Section 2 – Hazards Identification      |                                                                           |             |  |  |\n| GHS Classification:                     | N/A                                                                       |             |  |  |\n\nThe battery is sealed hermetically.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "burning batteries may irritate eyes skin and throat",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "an explosive mixture",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "open or leaking batteries | | | | | | Ventilation | Room ventilation may be required in areas where there are open or leaking batteries | | | | | Protective Gloves | Use neoprene or natural rubber gloves if handling an open or leaking battery battery | | | | | | materials should be collected in a leak-proof container",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Accidental short circuit for a few seconds will not seriously affect the battery",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The battery may be regulated by national or local regulation",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The materials and pack design shall be chosen so as to prevent the development of unintentional electrical conduction corrosion of the terminals and ingress of moisture",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "Summary"  
+    ]  
+  }  
+}
+

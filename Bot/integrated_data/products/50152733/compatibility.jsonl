@@ -1,0 +1,104 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Artikelnummer 28160120 E-nummer 5257454 ![](images/_page_0_Picture_3",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-5 FLX SMALL C**OM Artikelnummer: 28160120, E-nummer: 5257454 ![](images/_page_0_Picture_3.**jpeg) BT-5 FLX SMALL COM ur BT-COM-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krä",  
+  "position": [  
+    47,  
+    115  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "28160120",  
+    "5257454",  
+    "5257454",  
+    "28160120"  
+  ],  
+  "product_id": "50152733"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ur BT-COM-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+  "context": "re_0.jpeg) ## BT-5 FLX SMALL COM Artikelnummer: 28160120, E-nummer: 5257454 ![](images/_page_0_Picture_3.jpeg) BT-5 FLX SMALL C**OM ur BT-COM-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar.** Denna batteribackup är godkänd enligt SSF1014, larmklass 3 - 2 avsäkrade utgångar - Larmklass 3 - Kommunicerar via buss",  
+  "position": [  
+    137,  
+    314  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152733"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ansluts via en snabbanslutningskabel",  
+  "context": "mspänning, sabotage. För larmklass 1-2: 1,1A För larmklass 3: 0,45A BT-COM-serien kan kompletteras med en batterilåda, s**om ansluts via en snabbanslutningskabel.** ![](images/_page_1_Picture_0.jpeg) | Utförande: | Svart | |-----------------------------------|-------------------------------",  
+  "position": [  
+    766,  
+    806  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152733"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+  "context": "5 FLX SMALL COM ur BT-COM-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller **när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar.** Denna batteribackup är godkänd enligt SSF1014, larmklass 3 - 2 avsäkrade utgångar - Larmklass 3 - Kommunicerar via buss",  
+  "position": [  
+    244,  
+    314  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152733"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| IP32 | | Temperaturområde | 5 till 40°C (optimalt 15 till 25 °C) | | Montering | Vägg | | Mått (BxHxD) | 215x430x220mm | | Vikt | 65 kg | | Antal kabelgenomföringar | 9 st | | Inbygd fläkt | Ja | | Matningsspänning | 110V-264VAC/47-63Hz | | Max",  
+  "context": "|---------------------------------------------------| | Utgångar: | 2 st | | Miljöklass: | Klass 1 | | Kapslingsklassnin**g: | IP32 | | Temperaturområde: | 5 till 40°C (optimalt 15 till 25 °C) | | Montering: | Vägg | | Mått (BxHxD): | 215x430x220mm | | Vikt: | 6,5 kg | | Antal kabelgenomföringar: | 9 st | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max.** utgångsström: | 5 | | Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspä",  
+  "position": [  
+    1014,  
+    1272  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152733"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah / 2x 14Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up | | SBSC Certifierad | SSF1014 Larmklass 3 | | Benämning producent (SBSC) | NOVA 27 50-XS2_PRO1 |",  
+  "context": "Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max. utgångsström: | 5 | | Typ av försörjningsspännin**g: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah / 2x 14Ah | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up | | SBSC Certifierad: | SSF1014 Larmklass 3 | | Benämning producent (SBSC): | NOVA 27 50-XS2_PRO1 |**",  
+  "position": [  
+    1321,  
+    1675  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152733"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah / 2x 14Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up | | SBSC Certifierad | SSF1014 Larmklass 3 | | Benämning producent (SBSC) | NOVA 27 50-XS2_PRO1 |",  
+  "context": "genomföringar: | 9 st | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max. utgångsström: | 5 | | **Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah / 2x 14Ah | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up | | SBSC Certifierad: | SSF1014 Larmklass 3 | | Benämning producent (SBSC): | NOVA 27 50-XS2_PRO1 |**",  
+  "position": [  
+    1295,  
+    1675  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152733"  
+}
+

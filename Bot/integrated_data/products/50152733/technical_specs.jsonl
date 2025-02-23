@@ -1,0 +1,44 @@
+{  
+  "name": "Batterityp",  
+  "raw_value": "| 12V AGM-batteri                                   |\n| Testad och godkänd med: | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up |\n| SBSC Certifierad: | SSF1014 Larmklass 3                               |\n| Benämning producent (SBSC): | NOVA 27 50-XS2_PRO1                               |",  
+  "category": "ELECTRICAL",  
+  "unit": "V",  
+  "value": {  
+    "raw_value": "| 12V AGM-batteri                                   |\n| Testad och godkänd med: | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up |\n| SBSC Certifierad: | SSF1014 Larmklass 3                               |\n| Benämning producent (SBSC): | NOVA 27 50-XS2_PRO1                               |",  
+    "unit": "V",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "spänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah / 2x 14Ah | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up | | SBSC Cert...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152733"  
+}
+
+{  
+  "name": "Utgångar",  
+  "raw_value": "| 2 st                                              |\n| Miljöklass: | Klass 1                                           |\n| Kapslingsklassning: | IP32                                              |\n| Temperaturområde: | 5 till 40°C (optimalt 15 till 25 °C)              |\n| Montering: | Vägg                                              |\n| Mått (BxHxD): | 215x430x220mm                                     |\n| Vikt: | 6,5 kg                                            |\n| Antal kabelgenomföringar: | 9 st                                              |\n| Inbygd fläkt: | Ja                                                |\n| Matningsspänning: | 110V-264VAC/47-63Hz                               |\n| Max",  
+  "category": "CONNECTION",  
+  "unit": "st",  
+  "value": {  
+    "raw_value": "| 2 st                                              |\n| Miljöklass: | Klass 1                                           |\n| Kapslingsklassning: | IP32                                              |\n| Temperaturområde: | 5 till 40°C (optimalt 15 till 25 °C)              |\n| Montering: | Vägg                                              |\n| Mått (BxHxD): | 215x430x220mm                                     |\n| Vikt: | 6,5 kg                                            |\n| Antal kabelgenomföringar: | 9 st                                              |\n| Inbygd fläkt: | Ja                                                |\n| Matningsspänning: | 110V-264VAC/47-63Hz                               |\n| Max",  
+    "unit": "st",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "de: | Svart | |-----------------------------------|---------------------------------------------------| | Utgångar: | 2 st | | Miljöklass: | Klass 1 | | Kapslingsklassning: | IP32 | | Temperaturområde...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152733"  
+}
+

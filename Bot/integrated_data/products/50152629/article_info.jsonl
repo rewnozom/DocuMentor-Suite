@@ -1,0 +1,28 @@
+{  
+  "identifier": "5213589",  
+  "original": "5213589",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "module 4 outputs Artikelnummer: A-FU00244OP01LM01 A-FU122405OP01LM01 A-FU002410OP01 A-FU002404FS01 E**-nummer: 5213589 **5213588 5213590 5257467 Produkten möter kraven enligt: EMC Direktivet 2014/30EU, Lågspännings direk",  
+  "source": "regex",  
+  "product_id": "50152629"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "M & FLX L 2x; FLX M & FLX L Rack module holder (4U01000P00019P01) 12x 12x 4x 4x Artikelinformation: **Artikelnamn**: 2+2 output module 5 output module 10 output module Fire module 4 outputs Artikelnummer: A-FU00244O",  
+  "source": "regex",  
+  "product_id": "50152629"  
+}
+

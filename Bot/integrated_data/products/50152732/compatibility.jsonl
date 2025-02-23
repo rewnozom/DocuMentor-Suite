@@ -1,0 +1,90 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Artikelnummer 28160122 E-nummer 5257455 ![](images/_page_0_Picture_3",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-10 FLX SMALL C**OM Artikelnummer: 28160122, E-nummer: 5257455 ![](images/_page_0_Picture_3.**jpeg) BT-10 FLX SMALL COM ur BT-BOX FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribacku",  
+  "position": [  
+    48,  
+    116  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "28160122",  
+    "5257455",  
+    "5257455",  
+    "28160122"  
+  ],  
+  "product_id": "50152732"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ur BT-BOX FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+  "context": "_0.jpeg) ## BT-10 FLX SMALL COM Artikelnummer: 28160122, E-nummer: 5257455 ![](images/_page_0_Picture_3.jpeg) BT-10 FLX SMALL C**OM ur BT-BOX FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar.** Denna batteribackup är godkänd enligt SSF1014, larmklass 3. - 2 avsäkrade utgångar - Larmklass 3 - Kommunicerar via bus",  
+  "position": [  
+    139,  
+    320  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152732"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+  "context": "X SMALL COM ur BT-BOX FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller **när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar.** Denna batteribackup är godkänd enligt SSF1014, larmklass 3. - 2 avsäkrade utgångar - Larmklass 3 - Kommunicerar via bus",  
+  "position": [  
+    250,  
+    320  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152732"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| IP32 | | Temperaturområde | 5 till 40°C (optimalt 15 till 25 °C) | | Montering | Vägg eller hylla | | Mått (BxHxD) | 215x430x220mm | | Vikt | 7kg | | Antal kabelgenomföringar | 9 st | | Inbygd fläkt | Ja | | Matningsspänning | 110V-264VAC/47-63Hz | | Max",  
+  "context": "----------------------------------------------------| | Utgångar: | 2 st | | Miljöklass: | Klass 1 | | Kapslingsklassnin**g: | IP32 | | Temperaturområde: | 5 till 40°C (optimalt 15 till 25 °C) | | Montering: | Vägg eller hylla | | Mått (BxHxD): | 215x430x220mm | | Vikt: | 7kg | | Antal kabelgenomföringar: | 9 st | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max.** utgångsström: | 10A | | Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningss",  
+  "position": [  
+    1310,  
+    1577  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152732"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah / 2x 14Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | 10+ Design Life 72Ah and 14Ah batteries (up to 10 | | SBSC Certifierad | SSF1014 Larmklass 3 | | Benämning producent (SBSC) | NOVA 27 100-XS2_PRO1 |",  
+  "context": "bygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max. utgångsström: | 10A | | Typ av försörjningsspännin**g: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah / 2x 14Ah | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | 10+ Design Life 7,2Ah and 14Ah batteries (up to 10 | | SBSC Certifierad: | SSF1014, Larmklass 3 | | Benämning producent (SBSC): | NOVA 27 100-XS2_PRO1 |**",  
+  "position": [  
+    1628,  
+    1985  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152732"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah / 2x 14Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | 10+ Design Life 72Ah and 14Ah batteries (up to 10 | | SBSC Certifierad | SSF1014 Larmklass 3 | | Benämning producent (SBSC) | NOVA 27 100-XS2_PRO1 |",  
+  "context": "nomföringar: | 9 st | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V-264VAC/47-63Hz | | Max. utgångsström: | 10A | | **Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Matningsspänning: | 27,3VDC | | Möjlig batteri kombination: | 2x 7,2Ah / 2x 14Ah | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | 10+ Design Life 7,2Ah and 14Ah batteries (up to 10 | | SBSC Certifierad: | SSF1014, Larmklass 3 | | Benämning producent (SBSC): | NOVA 27 100-XS2_PRO1 |**",  
+  "position": [  
+    1602,  
+    1985  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152732"  
+}
+

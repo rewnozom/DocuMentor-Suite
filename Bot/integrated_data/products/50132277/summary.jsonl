@@ -1,0 +1,73 @@
+{  
+  "product_id": "50132277",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n![](images/_page_0_Picture_1.jpeg)\n\n# HOUSEGARD K5TGX\n\n5 kg koldioxid (CO2 ) släckare Effektivitetsklass 89B\n\nCO2 ger en ren släckning med minimala sekundärskador. CO2 släckare är därför särskilt lämpliga för släckning av brand i elektriska utrymmen, datarum etc. Kan också användas för släckning av brand i brandfarliga vätskor.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "material",  
+      "value": "| Stål                 |\n| Effektivitetsklass: | 89B           | Vikt: | 14,8 kg              |\n| Temperaturområde: | -30°C/+60°C   | Mått dia/höjd (mm): | 145 x 700            |\n| Drivgas: | CO2           | Certifiering: | EN3-7, CE, WheelMark |\n| Släckmedel: | CO2           |                                                                   |                      |\n| Mängd: | 5 kg          | Service/Kontroll skall utföras enligt Svensk<br>Standard SS-3656",  
+      "unit": "B"  
+    },  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "Effektivitetsklass",  
+      "value": "| 89B           | Vikt: | 14,8 kg              |\n| Temperaturområde: | -30°C/+60°C   | Mått dia/höjd (mm): | 145 x 700            |\n| Drivgas: | CO2           | Certifiering: | EN3-7, CE, WheelMark |\n| Släckmedel: | CO2           |                                                                   |                      |\n| Mängd: | 5 kg          | Service/Kontroll skall utföras enligt Svensk<br>Standard SS-3656",  
+      "unit": "B"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "denna gas dess tryck och<br>temperatur",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "denna gas dess tryck och<br>temperatur",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "gränsvärden | | Referenser (lagar/förordningar) Arbetsmiljöverkets föreskrifter och allmänna råd | | | Referenser (lagar/förordningar) Arbetsmiljöverkets föreskrifter och allmänna råd om hygieniska gränsvärden \"Hygieniska gränsvärden\" AFS 20181",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20181"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ändring av Europaparlamentets och rådets förordning (EG) nr 1907/2006 om registrering utvärdering godkännande och begränsning av kemikalier (Reach) # **AVSNITT 1 Namnet på ämnet / blandningen och bolaget / företaget** | Utgivningsdatum | 16",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "det avråds från** | Produktgrupp | Brandsläckare | |-------------------|------------------------------------------------| | Användningsområde | Släckmedel i Housegard K2 och K5 Brandsläckare | # **1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "11 Sida 6 av 10 | | Referensgas luft =1 | |----------------------------------------------|--------------------------------------------------------------------| | Relativ densitet | Värde > 1<br>Kommentarer Luft = 1 | | Löslighet i vatten | 2000 mg/l vid 15 °C (gasen reagerar med vatten och bildar kolsyra) | | Fördelningskoefficient n-oktanol/<br>vatten | Kommentarer Inte relevant",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "av säkerhetsdatabladet<br>anges med linjemarkeringar i vänstra marginalen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 11 |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erenser",  
+      "erensgas",  
+      "ikelnr"  
+    ]  
+  }  
+}
+

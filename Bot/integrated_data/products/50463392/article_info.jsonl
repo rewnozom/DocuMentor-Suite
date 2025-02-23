@@ -1,0 +1,56 @@
+{  
+  "identifier": "Display",  
+  "original": "Display",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "Saving Design ![](images/_page_1_Picture_18.jpeg) Low Noise Technology4 ![](images/_page_1_Picture_11.jpeg) Smart **Display ![]**(_page_1_Picture_2.jpeg) 607Wh Total Battery Capacity ![](images/_page_1_Picture_4.jpeg) With a gen",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "identifier": "display",  
+  "original": "display",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "le to work with green energy sources. ![](images/_page_6_Picture_4.jpeg) # Choose how you recharge ## Smart** display at** a glance Solar Panel Recharging2 ![](images/_page_6_Picture_6.jpeg) DC Input Recharging ![](images/_page_6",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "identifier": "screen",  
+  "original": "screen",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "16W. If the output of the appliance's actual use surpasses that value, the Error Indicator on the sm**art screen** will be displayed. • 2 A compatible solar panel must be purchased separately and will be available",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "identifier": "Guide",  
+  "original": "Guide",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "REACH / MSDS • • AC Charging Cable • Car Charging Cable • Solar Panel Charging MC4 Cable • Quick Sta**rt Guide **• Regulatory Information # Certifications",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+

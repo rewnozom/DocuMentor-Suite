@@ -1,0 +1,56 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "ger mycket god ljusspridning i vidvinkel",  
+  "context": "## **SafeE Multilight** Smart och robust multifunktionell ficklampa med topled och sido-COB list s**om ger mycket god ljusspridning i vidvinkel.** Kombinationen ger en idealisk lampa till många olika sammanhang och miljöer. Lampan kan hängas i krok, fästas i byxlinn",  
+  "position": [  
+    98,  
+    142  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135103"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Med extra knapptryckning växlas mellan tänd topled eller COB",  
+  "context": "ed hjälp av utfällbart vinkelstöd för precis rätt riktad ljusbild, den kan även fästas i magnet på ex. insida av motorhu**v. Med extra knapptryckning växlas mellan tänd topled eller COB.** **-Flexibel placering**: clip, krok, magnet samt vinkelstöd. **-Bred sido-COB eller riktad topled. -Helt flexibel**, ha",  
+  "position": [  
+    424,  
+    488  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135103"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## **Teknisk specifikation** Mått LxBxH 122x61x22 mm",  
+  "context": "ande kabel. **-Extra lång brinntid.** **Användningsområden:** Arbetsbelysning hemmet, bil, båt, camping eller friluftsli**v. ## **Teknisk specifikation:** Mått LxBxH: 122x61x22 mm.** Driftstid 3W COB-led: ca 30 tim. 0,5 w topled mer än 50 tim. Drivs av: 3xAAA (ingår ej). Vikt: ca 130 gram, med batteri",  
+  "position": [  
+    743,  
+    801  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135103"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "3xAAA (ingår ej)",  
+  "context": "*Teknisk specifikation:** Mått LxBxH: 122x61x22 mm. Driftstid 3W COB-led: ca 30 tim. 0,5 w topled mer än 50 tim. Drivs a**v: 3xAAA (ingår ej).** Vikt: ca 130 gram, med batterier. COB ca 220 lumen. Topled ca 20 lumen. *www.SafeE.se* ![](images/_page_0_Picture_8.jpeg) *Til",  
+  "position": [  
+    870,  
+    890  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135103"  
+}
+

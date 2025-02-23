@@ -1,0 +1,27 @@
+{  
+  "product_id": "BT-Fuse-10",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\nBT-FUSE-10\n\nArtikelnummer: 28160196, E-nummer: 6310078\n\n![](images/_page_0_Picture_3.jpeg)\n\nBT Fuse 10 är ett avsäkringskort med sju prioriterade (= alltid spänning) utgångar och tre oprioriterade utgångar. Maxlast är 10A per lastutgång, och kortets totala last får ej överstiga 16A. Fellarm via anslutning till huvudkortet.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "| 24V |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "6310078"  
+    ],  
+    "EAN-8": [  
+      "28160196"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

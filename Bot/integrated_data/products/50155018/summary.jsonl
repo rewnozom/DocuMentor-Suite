@@ -1,0 +1,33 @@
+{  
+  "product_id": "50155018",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Dörrsymbol\n\n![](images/_page_0_Figure_16.jpeg)\n\n2. Rullstolsymbol\n\n#### * Kontrastränder\n\n3. Hissymbol\n\n## OBS.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "Alu",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Plast (Acetalplast) ### Rengöring Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "![](images/_page_0_Picture_4",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

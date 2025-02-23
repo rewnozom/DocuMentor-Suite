@@ -1,0 +1,126 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "avbrottsfri strömförsörjning av 8 IP-enheter (54 V DC-försörjning)",  
+  "context": "ier - ź Stöder automatisk inlärning och automatiskt åldrande av MAC-adresser (1K storlek) ### **BESKRIVNING** APS108 är **avsedd för avbrottsfri strömförsörjning av 8 IP-enheter (54 V DC-försörjning).** Systemets huvudsakliga komponenter inkluderar: - PoE-switch med 10 portar - 54 V (PSB-48V5A) buffertströmförsörjning me",  
+  "position": [  
+    718,  
+    796  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 150 mA/54 V DC | | Batteriets laddningsström | 05 A max",  
+  "context": "54 V DC | | Kortslutningsskydd SCP och<br>överbelastningsskydd OLP | 105% ÷ 150% PSU-effekt, automatisk retur<br>(felet **kräver frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 150 mA/54 V DC | | Batteriets laddningsström | 0,5 A max.** /4x7 Ah (+/-5%) | | Batterikretsskydd SCP och retur<br>polaritetsanslutning | Säkring (T5A) | | Djupurladdningsskydd UV",  
+  "position": [  
+    2926,  
+    3056  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 150 mA/54 V DC | | Batteriets laddningsström | 05 A max",  
+  "context": "54 V DC | | Kortslutningsskydd SCP och<br>överbelastningsskydd OLP | 105% ÷ 150% PSU-effekt, automatisk retur<br>(felet **kräver frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 150 mA/54 V DC | | Batteriets laddningsström | 0,5 A max.** /4x7 Ah (+/-5%) | | Batterikretsskydd SCP och retur<br>polaritetsanslutning | Säkring (T5A) | | Djupurladdningsskydd UV",  
+  "position": [  
+    2926,  
+    3056  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppfyller standarden IEEE802",  
+  "context": "portar 10/100Mb/s (UpLink) - ź Läge med **Lång räckvidd** (upp till 250m) - ź 30 W för varje PoE-port, stöder enheter so**m uppfyller standarden IEEE802.3**af/at vid **(PoE +)** - ź Lysdioder för indikering - ź Metallhölje färg vit RAL 9003 med plats för fyra 7 Ah/12 V-batte",  
+  "position": [  
+    445,  
+    477  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "drivs med standarden PoE/PoE+ aktiveras vid portar 1-8 på switchen",  
+  "context": "fyra 7 Ah / 12V-batterier Vid strömavbrott aktiveras omedelbart reservkraft(batterier) Automatisk upptäckt av enheter so**m drivs med standarden PoE/PoE+ aktiveras vid portar 1-8 på switchen. **Up Link-portarna används för anslutning till en annan nätverksenhet. Lysdioderna på frontpanelen indikerar enhetens dri",  
+  "position": [  
+    1037,  
+    1107  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "aktiveras om luckan öppnas (frontpanelen)",  
+  "context": "inuti ett metallhölje (färg RAL 9003) med plats för fyra 7 Ah/12 V-batterier. Höljet är utrustat med en sabotageswitch s**om aktiveras om luckan öppnas (frontpanelen).** APS108 är försedd med tre lysdioder på frontpanelen. ![](images/_page_1_Picture_1.jpeg) # **SWITCHENS PARAMETRAR** | Portar |",  
+  "position": [  
+    1395,  
+    1440  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "höljet<br>öppnas | - mikroswitch NC-kontakter (stängt hölje)<br>05 A@50 V DC (max",  
+  "context": "| Djupurladdningsskydd UVP | U<38 V (± 5%) – frånkoppling av batterier | | Sabotageskydd:<br>- MANIPULERINGS-indikator n**är höljet<br>öppnas | - mikroswitch, NC-kontakter (stängt hölje),<br>0,5 A@50 V DC (max.)** | ## **MEKANISKA PARAMETRAR** | Mått | W=330, H=380, D+D =173+8 [+/- 2mm]<br>1<br>W =335, H =385 [+/- 2mm]<br>1<br>1 |",  
+  "position": [  
+    3270,  
+    3359  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Φ 063-250 (AWG 22-10)<br>Batteriutgång BAT 63F-25<br>MANIPULERINGS-utgång ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna dras",  
+  "context": "pårskruv x 2 (fram), (låsaggregat möjligt) | | Anslutningar | Strömförsörjning till enheterna: RJ45-uttag<br>230 V-ingån**g: Φ 0,63-2,50 (AWG 22-10),<br>Batteriutgång BAT: 6,3F-2,5<br>MANIPULERINGS-utgång: ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna dras.** |",  
+  "position": [  
+    3939,  
+    4113  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "**SV** ![](images/_page_0_Picture_4",  
+  "context": "![](images/_page_0_Picture_1.jpeg) **APS108** v.1.1/II **APS108 10-port switch 8x30W med reservkraft** PRODUKTKODE **TYP: : **SV** ![](images/_page_0_Picture_4.**jpeg) W H D W1 H1 D1 #### **Egenskaper:** - ź Avbrottsfri strömförsörjning för 8 IP-enheter (54 V DC) - ź Switch med 10",  
+  "position": [  
+    108,  
+    144  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50151788"  
+}
+

@@ -1,0 +1,210 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "dra en kabel<br>från någon av minusplintarna på J5 och<br>koppla denna på någon av minusplintarna<br>för ingångarna på E200 |",  
+  "context": "svarar<br>markeringarna på E200.<br>Notera att minus för<br>ingångarna är gemensam på E200. Det<br>betyder att man bara **behöver dra en kabel<br>från någon av minusplintarna på J5 och<br>koppla denna på någon av minusplintarna<br>för ingångarna på E200 |**",  
+  "position": [  
+    5238,  
+    5371  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the<br>existing E2 is to be used for the E200-<br>IB",  
+  "context": "tt monteras i existerande E2<br>kapsling. | | | | The metal stand-off, two jumpers and<br>spring for the front tamper fr**om the<br>existing E2 is to be used for the E200-<br>IB.** There is no stand-off, jumpers for<br>JP2 & JP3, or spring included in the<br>E200-IB product. | Varken metalldistans<b",  
+  "position": [  
+    1382,  
+    1438  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "sabotagekontakten på E200-IB<br>används skall positionen SAB på J11<br>kopplas till en av ingångarna på E200",  
+  "context": "abotagekontakt är inkluderade i<br>produkten E200-IB. Använd metalldistans,<br>jumprar och fjäder från befintlig E2.<br>**Om sabotagekontakten på E200-IB<br>används, skall positionen SAB på J11<br>kopplas till en av ingångarna på E200.**<br>Det finns ingen bakre sabotagekontakt på<br>E200-IB. | | | | If the tamper contact on the E200-IB is<br>used, the po",  
+  "position": [  
+    1749,  
+    1862  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "läsaren byts ut i samband med att<br>E200-IB installeras rekommenderas att<br>den nya läsaren kopplas in direkt på E200",  
+  "context": "eader to the E200 directly.<br>If the reader is kept, remember to<br>change the setting on the E200 to<br>clock&data. | **Om läsaren byts ut i samband med att<br>E200-IB installeras, rekommenderas att<br>den nya läsaren kopplas in direkt på E200.**<br>Om befintlig läsare behålls, kom ihåg att<br>ändra inställningen på E200 till<br>clock&data. | | | © Vanderbilt Inte",  
+  "position": [  
+    2581,  
+    2705  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "befintlig läsare behålls kom ihåg att<br>ändra inställningen på E200 till<br>clock&data",  
+  "context": "en byts ut i samband med att<br>E200-IB installeras, rekommenderas att<br>den nya läsaren kopplas in direkt på E200.<br>**Om befintlig läsare behålls, kom ihåg att<br>ändra inställningen på E200 till<br>clock&data.** | | | © Vanderbilt International (IRL) Ltd Document no. A-100513 Edition 2018-08-28 Document version: 1 ![](images/_page_1_Fig",  
+  "position": [  
+    2709,  
+    2801  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the existing E2<br>node",  
+  "context": "----------------------------------------------------------------------------------------| | 1 | Remove all connectors fr**om the existing E2<br>node.** | 1 | | Lyft av alla plintar från den existerande E2<br>noden. | | 2 | Unscrew the metal stand-off and remove<br>the sp",  
+  "position": [  
+    3737,  
+    3764  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the tamper contact of the<br>E2",  
+  "context": "| Lyft av alla plintar från den existerande E2<br>noden. | | 2 | Unscrew the metal stand-off and remove<br>the spring fr**om the tamper contact of the<br>E2.** | 2 | | Skruva loss metalldistansen samt ta bort<br>fjädern från sabotagekontakten på E2 noden. | | 3 | Remove the E2 n",  
+  "position": [  
+    3891,  
+    3926  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att skruva tillbaka<br>metalldistansen samt sätt på fjädern på<br>E200-IB sabotagekontakt",  
+  "context": "g the metal<br>stand-off back on, and put the spring onto<br>the tamper contact of the E200-IB. | 4 | | Fäst E200-IB gen**om att skruva tillbaka<br>metalldistansen, samt sätt på fjädern på<br>E200-IB sabotagekontakt.** | | 5. | Put the connectors back onto the E200-IB.<br>The positions and markings of the<br>connectors are the same as o",  
+  "position": [  
+    4297,  
+    4391  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "på E2",  
+  "context": "ctors are the same as on the E2. | 5 | | Sätt tillbaka plintarna på E200-IB.<br>Positioner<br>och märkning är de samma s**om på E2.** | | 6. | Draw new cables from connectors J2, J5, J9<br>and J11 to an E200 node.<br>The labels on these connectors corre",  
+  "position": [  
+    4608,  
+    4617  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "connectors J2 J5 J9<br>and J11 to an E200 node",  
+  "context": "| | Sätt tillbaka plintarna på E200-IB.<br>Positioner<br>och märkning är de samma som på E2. | | 6. | Draw new cables fr**om connectors J2, J5, J9<br>and J11 to an E200 node.**<br>The labels on these connectors correspond<br>to the labels on the E200.<br>Please note that<br>minus for the inputs",  
+  "position": [  
+    4645,  
+    4697  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "one of the minus connectors on J5 is<br>necessary to connect to one of the minus<br>connectors for the inputs on the E200",  
+  "context": "on the E200.<br>Please note that<br>minus for the inputs on the E200 is<br>common. That means that only one cable<br>fro**m one of the minus connectors on J5 is<br>necessary to connect to one of the minus<br>connectors for the inputs on the E200. **| 6 | | Dra nya kablar från plintarna J2, J5, J9 och<br>J11 till en E200 nod.<br>Markeringen på dessa plintar motsvarar",  
+  "position": [  
+    4879,  
+    5004  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "1 ![](images/_page_1_Figure_0",  
+  "context": "å E200 till<br>clock&data. | | | © Vanderbilt International (IRL) Ltd Document no. A-100513 Edition 2018-08-28 Document **version: 1 ![](images/_page_1_Figure_0.**jpeg) | GB | | SE | | | |----|------------------------------------------------------------------------------------------",  
+  "position": [  
+    2895,  
+    2927  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| E200-IB levereras utan kapsling",  
+  "context": "---|--|--| | The E200-IB<br>is delivered without<br>enclosure. It is supposed to be<br>mounted in the existing E2 housin**g. | E200-IB levereras utan kapsling.** Den är<br>tänkt att monteras i existerande E2<br>kapsling. | | | | The metal stand-off, two jumpers and<br>spring for t",  
+  "position": [  
+    1207,  
+    1244  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | The metal stand-off two jumpers and<br>spring for the front tamper from the<br>existing E2 is to be used for the E200-<br>IB",  
+  "context": "in the existing E2 housing. | E200-IB levereras utan kapsling. Den är<br>tänkt att monteras i existerande E2<br>kapsling**. | | | | The metal stand-off, two jumpers and<br>spring for the front tamper from the<br>existing E2 is to be used for the E200-<br>IB. **There is no stand-off, jumpers for<br>JP2 & JP3, or spring included in the<br>E200-IB product. | Varken metalldistans<b",  
+  "position": [  
+    1301,  
+    1438  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2018-08-28 Document version 1 ![](images/_page_1_Figure_0",  
+  "context": "att<br>ändra inställningen på E200 till<br>clock&data. | | | © Vanderbilt International (IRL) Ltd Document no. A-100513 **Edition 2018-08-28 Document version: 1 ![](images/_page_1_Figure_0.**jpeg) | GB | | SE | | | |----|------------------------------------------------------------------------------------------",  
+  "position": [  
+    2867,  
+    2927  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50140792"  
+}
+

@@ -1,0 +1,176 @@
+{  
+  "name": "Höjd",  
+  "raw_value": "366",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "366",  
+    "unit": null,  
+    "normalized_value": 366.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "36 Security Grade 3, SP4 - EN 62368-1 SE - EN 50131-6 - SBSC intyg 16-130 - Kräver ARX version 4.7 eller högre # **Mått och vikt** - Bredd: 444mm - Hö**jd: 366mm -** Djup: 108mm - Vikt: 5,15kg utan ba...",  
+  "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 8,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+
+{  
+  "name": "Bredd",  
+  "raw_value": "444",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "444",  
+    "unit": null,  
+    "normalized_value": 444.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "31-1-A1 - EN50136 Security Grade 3, SP4 - EN 62368-1 SE - EN 50131-6 - SBSC intyg 16-130 - Kräver ARX version 4.7 eller högre # **Mått och vikt** - Br**edd: 444mm -** Höjd: 366mm - Djup: 108mm - Vikt:...",  
+  "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 9,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+
+{  
+  "name": "Djup",  
+  "raw_value": "108",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "108",  
+    "unit": null,  
+    "normalized_value": 108.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ade 3, SP4 - EN 62368-1 SE - EN 50131-6 - SBSC intyg 16-130 - Kräver ARX version 4.7 eller högre # **Mått och vikt** - Bredd: 444mm - Höjd: 366mm - Dj**up: 108mm -** Vikt: 5,15kg utan batterier # ASSA...",  
+  "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 10,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+
+{  
+  "name": "spänning",  
+  "raw_value": "230",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "230",  
+    "unit": null,  
+    "normalized_value": 230.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "p till 2 st 20Ah batterier. Enheten monteras enkelt på en vägg. # ASSA ABLOY ARX Power # Smartbox med inbyggd batteribackup # **Data** - Matningsspänn**ing: 230V AC -** Inström: 1,7A vid 230V AC - Ege...",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+
+{  
+  "name": "spänning",  
+  "raw_value": "27,3",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "27,3",  
+    "unit": null,  
+    "normalized_value": 27.3,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ckup # **Data** - Matningsspänning: 230V AC - Inström: 1,7A vid 230V AC - Egenförbrukning: - o Elnätsdrift: 135mA - o Batteridrift: 125mA - Utgångsspä**nning: 27,3 V DC** - Kontinuerlig last 4A, 5A pe...",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+
+{  
+  "name": "Matningsspänning",  
+  "raw_value": "230",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "230",  
+    "unit": null,  
+    "normalized_value": 230.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "igare upp till 2 st 20Ah batterier. Enheten monteras enkelt på en vägg. # ASSA ABLOY ARX Power # Smartbox med inbyggd batteribackup # **Data** - Matni**ngsspänning: 230V AC -** Inström: 1,7A vid 230V ...",  
+  "pattern": "(?i)(?:matningsspänning|supply voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 22,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+
+{  
+  "name": "ström",  
+  "raw_value": "1,7",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "1,7",  
+    "unit": null,  
+    "normalized_value": 1.7,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "rier. Enheten monteras enkelt på en vägg. # ASSA ABLOY ARX Power # Smartbox med inbyggd batteribackup # **Data** - Matningsspänning: 230V AC - Inström**: 1,7A vid **230V AC - Egenförbrukning: - o Elnä...",  
+  "pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A|mA)",  
+  "pattern_index": 26,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+
+{  
+  "name": "Vikt",  
+  "raw_value": "5,15",  
+  "category": "WEIGHT",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "5,15",  
+    "unit": null,  
+    "normalized_value": 5.15,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "N 62368-1 SE - EN 50131-6 - SBSC intyg 16-130 - Kräver ARX version 4.7 eller högre # **Mått och vikt** - Bredd: 444mm - Höjd: 366mm - Djup: 108mm - Vi**kt: 5,15kg u**tan batterier # ASSA ABLOY Opening...",  
+  "pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:kg|g)",  
+  "pattern_index": 53,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156387"  
+}
+

@@ -1,0 +1,46 @@
+{  
+  "product_id": "50152724",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-TAMPER FLX SMALL\n\nArtikelnummer: 28160170, E-nummer: 6310033\n\n![](images/_page_0_Picture_3.jpeg)\n\nSabotagekontakt monterat på plåtdetalj för montering på vägg. Behövs endast i Larmklass 3 objekt. För montering i BT-FLX SMALL..",  
+  "key_specifications": [  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "minne",  
+      "value": "1,4",  
+      "unit": null  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "installation",  
+      "value": "Minst 10 GB utöver operativsystemets krav",  
+      "unit": "GB"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "installation",  
+      "value": "Minst 4 GB utöver operativsystemets krav",  
+      "unit": "GB"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "Behövs endast i Larmklass 3 objekt",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "6310033"  
+    ],  
+    "EAN-8": [  
+      "28160170"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

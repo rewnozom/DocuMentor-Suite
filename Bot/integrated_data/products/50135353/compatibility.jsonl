@@ -1,0 +1,98 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1",  
+  "context": "| 1800W | 2700W | | | | BATTERIES | | | | | | | | | | Batteries | 2x 12V/9Ah | 4x 12V/9Ah | 6x 12V/9Ah | Not included, c**ompatible with 5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1.5**A | | | 3A / 6A<br>1.5A / 3A / 4.5A / 6A | | | | | | Charging Time | 4h to 90% | | | | | | | | | Full Load Backup Time",  
+  "position": [  
+    3870,  
+    4044  
+  ],  
+  "pattern_index": 3,  
+  "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1",  
+  "context": "| 1800W | 2700W | | | | BATTERIES | | | | | | | | | | Batteries | 2x 12V/9Ah | 4x 12V/9Ah | 6x 12V/9Ah | Not included, c**ompatible with 5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1.5**A | | | 3A / 6A<br>1.5A / 3A / 4.5A / 6A | | | | | | Charging Time | 4h to 90% | | | | | | | | | Full Load Backup Time",  
+  "position": [  
+    3870,  
+    4044  
+  ],  
+  "pattern_index": 18,  
+  "pattern": "(?i)compatible\\s+with\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "VFI 1000-3000 TGS offer a professional solution for home and office environment",  
+  "context": "integrated batteries or with stronger charger for external batteries The PowerWalker VFI 1000-3000 TG and its long-run v**ersion VFI 1000-3000 TGS offer a professional solution for home and office environment. **The models are either available with internal batteries (TG) or alternatively with stronger charger for external batter",  
+  "position": [  
+    374,  
+    462  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | | | | | | | | | | | | | | Fan Logic | Always ON<br>Low speed bypass/ECO or line mode with load below 70%<br>High speed Battery mode or line mode with load above 70% | | | | | | | | | COMMUNICATION AND CONNECTIONS | | | | | | | | | | Software | WinPower | | | | | | | | | USB | Yes with HID support | | | | | | | | | RS-232 | Yes | | | | | | | | | Intelligent Slot | Yes | | | | | | | | | EPO | Yes | | | | | | | | ![](images/_page_0_Picture_11",  
+  "context": "Battery Mode:<br>10s @100%-150%<br>cut-off at higher | | | | | | | | External Battery Connection | Available in VFI TGS **version | | | | | | | | | | | | | | | | | | | Fan Logic | Always ON<br>Low speed: bypass/ECO or line mode with load below 70%<br>High speed: Battery mode or line mode with load above 70% | | | | | | | | | COMMUNICATION AND CONNECTIONS | | | | | | | | | | Software | WinPower | | | | | | | | | USB | Yes, with HID support | | | | | | | | | RS-232 | Yes | | | | | | | | | Intelligent Slot | Yes | | | | | | | | | EPO | Yes | | | | | | | | ![](images/_page_0_Picture_11.**jpeg) **ACCESSORIES** ![](images/_page_0_Picture_13.jpeg) 10120599 - Mini NMC Card ![](images/_page_0_Picture_15.jpeg) 10120545 - EMD",  
+  "position": [  
+    2252,  
+    2712  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| VFI 1000 TG | VFI 2000 TG | VFI 3000 TG | VFI 1000 TGS | VFI 2000 TGS | VFI 3000 TGS | | | |-----------------------|---------------|-------------|----------------|---------------------------------------|--------------|--------------|--|--| | Item Number | 10122041 | 10122042 | 10122043 | 10122044 | 10122045 | 10122046 | | | | Power (kVA) | 1000VA | 2000VA | 3000VA | 1000VA | 2000VA | 3000VA | | | | Power (kW) | 900W | 1800W | 2700W | 900W | 1800W | 2700W | | | | BATTERIES | | | | | | | | | | Batteries | 2x 12V/9Ah | 4x 12V/9Ah | 6x 12V/9Ah | Not included compatible with 5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1",  
+  "context": "icture_7.jpeg) ![](images/_page_1_Picture_8.jpeg) VFI 1000 TG VFI 2000 TG VFI 3000 TG VFI 1000 TGS VFI 2000 TGS VFI 3000 TGS | **MODEL | VFI 1000 TG | VFI 2000 TG | VFI 3000 TG | VFI 1000 TGS | VFI 2000 TGS | VFI 3000 TGS | | | |-----------------------|---------------|-------------|----------------|---------------------------------------|--------------|--------------|--|--| | Item Number | 10122041 | 10122042 | 10122043 | 10122044 | 10122045 | 10122046 | | | | Power (kVA) | 1000VA | 2000VA | 3000VA | 1000VA | 2000VA | 3000VA | | | | Power (kW) | 900W | 1800W | 2700W | 900W | 1800W | 2700W | | | | BATTERIES | | | | | | | | | | Batteries | 2x 12V/9Ah | 4x 12V/9Ah | 6x 12V/9Ah | Not included, compatible with 5-120Ah | | | | | | Battery Connector | Not available | | | | Yes | | | | | DC Voltage | 24VDC | 48VDC | 72VDC<br>24VDC | | 48VDC | 72VDC | | | | Charger | 1.**5A | | | 3A / 6A<br>1.5A / 3A / 4.5A / 6A | | | | | | Charging Time | 4h to 90% | | | | | | | | | Full Load Backup Time",  
+  "position": [  
+    3300,  
+    4044  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "10122041",  
+    "10122042",  
+    "10122043",  
+    "10122044",  
+    "10122045",  
+    "10122046",  
+    "10122041",  
+    "10122042",  
+    "10122043",  
+    "10122044",  
+    "10122045",  
+    "10122046"  
+  ],  
+  "product_id": "50135353"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| FULL<br>LOAD | HALF<br>LOAD | 100W | 200W | 300W | 400W | 500W | 750W | 1000W | 1500W | 2000W | | |----------------------|--------------|--------------|--------|-------|-------|-------|-------|-------|-------|-------|-------|--| | VFI 1000 TG | 3",  
+  "context": "| | | | IEC C19 | 0 | | 1 | | | | | | | Terminal | 0<br>No | | | | | Yes | | | ## **BATTERY PACKS AND BACKUP TABLE** | M**ODEL | FULL<br>LOAD | HALF<br>LOAD | 100W | 200W | 300W | 400W | 500W | 750W | 1000W | 1500W | 2000W | | |----------------------|--------------|--------------|--------|-------|-------|-------|-------|-------|-------|-------|-------|--| | VFI 1000 TG | 3.7** | 10.5 | 56.8 | 28.6 | 17.4 | 11.6 | 8.9 | 5.2 | | | | | | VFI 2000 TG | 3.8 | 11.0 | 90.6 | 60.7 | 38.9 | 29.0 | 21.4",  
+  "position": [  
+    4386,  
+    4641  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135353"  
+}
+

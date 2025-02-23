@@ -1,0 +1,71 @@
+{  
+  "product_id": "50152731",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-5 FLX MEDIUM COM\n\nArtikelnummer: 28160142, E-nummer: 5257456\n\n![](images/_page_0_Picture_3.jpeg)\n\nBT-5 FLX MEDIUM COM ur FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar. Denna batteribackup är godkänd enligt SSF1014, larmklass 4. - 2 avsäkrade utgångar\n- Larmklass 4\n\n- Kommunicerar via buss emot UC-50\nSystemet är bland många andra funktioner utrustat med larm vid nätavbrott, låg batterispänning, frånkopplat batteri, cellkortslutning, åldrat batteri, utlöst lastsäkring, över/underspänning, låg systemspänning, sabotage.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| 12V AGM-batteri                                   |\n| Testad och godkänd med: | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up |\n| SBSC Certifierad: | SSF 1014, Larmklass 4                             |\n| Benämning producent (SBSC): | NOVA 27 50-FLX_PRO1                               |",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "Utgångar",  
+      "value": "| 2 st                                              |\n| Miljöklass: | Klass 1                                           |\n| Kapslingsklassning: | IP32                                              |\n| Temperaturområde: | 5 till 40°C (optimalt 15 till 25 °C)              |\n| Montering: | Vägg eller hylla                                  |\n| Mått (BxHxD): | 222x436x210mm                                     |\n| Vikt: | 8 kg                                              |\n| Antal kabelgenomföringar: | 4 st                                              |\n| Inbygd fläkt: | Ja                                                |\n| Matningsspänning: | 110V-264VAC/47-63Hz                               |\n| Max",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Artikelnummer 28160142 E-nummer 5257456 ![](images/_page_0_Picture_3",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "28160142",  
+        "5257456",  
+        "5257456",  
+        "28160142"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ur FLX-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| IP32 | | Temperaturområde | 5 till 40°C (optimalt 15 till 25 °C) | | Montering | Vägg eller hylla | | Mått (BxHxD) | 222x436x210mm | | Vikt | 8 kg | | Antal kabelgenomföringar | 4 st | | Inbygd fläkt | Ja | | Matningsspänning | 110V-264VAC/47-63Hz | | Max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 20Ah (2x 45Ah med batteribox) | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up | | SBSC Certifierad | SSF 1014 Larmklass 4 | | Benämning producent (SBSC) | NOVA 27 50-FLX_PRO1 |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 20Ah (2x 45Ah med batteribox) | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | UPLUS 10+ Design Life 20Ah and 45Ah batteries (up | | SBSC Certifierad | SSF 1014 Larmklass 4 | | Benämning producent (SBSC) | NOVA 27 50-FLX_PRO1 |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5257456"  
+    ],  
+    "EAN-8": [  
+      "28160142"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

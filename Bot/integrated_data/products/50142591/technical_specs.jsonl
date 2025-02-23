@@ -1,0 +1,44 @@
+{  
+  "name": "Capacity",  
+  "raw_value": "** 0",  
+  "category": "PERFORMANCE",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "** 0",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ATTERY SEALED MAINTENANCE-FREE NON-SPILLABLE ## SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES **Nominal Voltage:** 2V, 4V, 6V, 8V, 12V, 24V **Rated Capa**city:** 0.5~3**000Ah. **Appearance Characters:**...",  
+  "pattern": "(?i)(?:kapacitet|capacity)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 90,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50142591"  
+}
+
+{  
+  "name": "Material",  
+  "raw_value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                |\n\n## SECTION 4: FIRST AID MEASURES\n\n## Battery Electrolyte\n\n#### *Eyes*\n\nImmediately flush eyes with plenty of water for at least 15 minutes, occasionally lifting the upper and lower eyelids",  
+  "category": "MATERIAL",  
+  "unit": "minutes",  
+  "value": {  
+    "raw_value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                |\n\n## SECTION 4: FIRST AID MEASURES\n\n## Battery Electrolyte\n\n#### *Eyes*\n\nImmediately flush eyes with plenty of water for at least 15 minutes, occasionally lifting the upper and lower eyelids",  
+    "unit": "minutes",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Acid | 10~20 | 7664-93-9 | 200 | 1000 | 1000 | 2140 | | Case Material:<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | ~5 | 9003-56-9 | -- | -- | -- | -- | ## SECTION 4: FIRST AID MEASURES ## Battery ...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50142591"  
+}
+

@@ -1,0 +1,42 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+  "context": "o .: GP24A ![](images/_page_0_Figure_8.jpeg) ![](images/_page_0_Figure_9.jpeg) ![](images/_page_0_Figure_11.jpeg) Unit : mm The information (**subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty.** For applications other than those described here, please consult your nearest GP Sales and Marketing 51 1011 1056 ( - )",  
+  "position": [  
+    1275,  
+    1432  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50024358"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "toys photographic<br>equipment data banks calculators audio<br>appliances remote controls paging machines",  
+  "context": "e(+) and flat negative(-)<br>contacts | | | | Jacket | : Foil jacket | | | | Applications | : All electronic devices, e.**g. toys, photographic<br>equipment, data banks, calculators, audio<br>appliances, remote controls, paging machines.** | | | | Average Welght | : 11.40 | | | Cross References: | GP | SIF | IEC | Eveready Duracell Varta | | | |-----|------",  
+  "position": [  
+    582,  
+    697  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50024358"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "and specification without prior notice",  
+  "context": "lt your nearest GP Sales and Marketing 51 1011 1056 ( - ) Manufacturer reserves the right to alter or amend the design, **model and specification without prior notice.** Copyright@ GPI International Ltd. - All rights reserved ![](images/_page_0_Picture_14.jpeg)",  
+  "position": [  
+    1615,  
+    1660  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50024358"  
+}
+

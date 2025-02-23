@@ -1,0 +1,172 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "är avsett för släckning av bränder i olika material såsom trä papper tyger brandfarliga vätskor och kemikalier",  
+  "context": "odell: PE6HR-B ![](images/_page_0_Picture_2.jpeg) ## **Bruksområde** Er nya Housegard brandsläckare innehåller ett ABC-pulver s**om är avsett för släckning av bränder i olika material såsom trä, papper, tyger, brandfarliga vätskor och kemikalier.** Brandsläckaren kan också användas vid bränder i elektriska installationer som uppgår till 1000 Volt. Vid släckning av b",  
+  "position": [  
+    147,  
+    264  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppgår till 1000 Volt",  
+  "context": "tyger, brandfarliga vätskor och kemikalier. Brandsläckaren kan också användas vid bränder i elektriska installationer so**m uppgår till 1000 Volt. **Vid släckning av bränder i elektriska installationer skall du hålla ett säkerhetsavstånd på minst 1 meter. **Typiska an",  
+  "position": [  
+    340,  
+    365  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "branden är beroende av",  
+  "context": "der. ## **Släckmedlets funktion** ABC-pulvret reagerar kemiskt med branden. Pulvret förhindrar kemiska kedjereaktioner s**om branden är beroende av.** Pulvret bidrar också till att kväva branden, då syret trängs bort. För att förhindra att elden återuppstår vid bränder",  
+  "position": [  
+    828,  
+    854  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+  "context": "t att eftersläcka med vatten. ### **Placering** Släckaren levereras med en upphängningsanordning för montering på vägg. **Om släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare.** Brandsläckaren bör placeras väl synlig och lättillgänglig. ### **Underhåll och kontroll** Visuell kontroll av brandsläc",  
+  "position": [  
+    1146,  
+    1264  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+  "context": "Modell: PE6HR-B Artikel: 600179 EAN: 7320896001794 Certifiering: CE *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas o**m efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts. **Omladdning kra*̈*ver specialutrustning. Kontakta en auktoriserad serviceverkstad. Anva*̈*nd endast specificerade sla*̈*",  
+  "position": [  
+    2329,  
+    2402  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Pulvret bidrar också till att kväva branden då syret trängs bort",  
+  "context": "unktion** ABC-pulvret reagerar kemiskt med branden. Pulvret förhindrar kemiska kedjereaktioner som branden är beroende a**v. Pulvret bidrar också till att kväva branden, då syret trängs bort.** För att förhindra att elden återuppstår vid bränder i ex. träverk, papper och tyg kan det vara nödvändigt att eftersläc",  
+  "position": [  
+    852,  
+    921  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Om släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+  "context": "digt att eftersläcka med vatten. ### **Placering** Släckaren levereras med en upphängningsanordning för montering på väg**g. Om släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare.** Brandsläckaren bör placeras väl synlig och lättillgänglig. ### **Underhåll och kontroll** Visuell kontroll av brandsläc",  
+  "position": [  
+    1143,  
+    1264  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "### **Underhåll och kontroll** Visuell kontroll av brandsläckaren är användarens ansvar tex att det är tillfredsställande tryck i handsläckaren",  
+  "context": "nad miljö bör den placeras i ett specialskåp för brandsläckare. Brandsläckaren bör placeras väl synlig och lättillgängli**g. ### **Underhåll och kontroll** Visuell kontroll av brandsläckaren är användarens ansvar, tex att det är tillfredsställande tryck i handsläckaren.** Underhåll av handsläckare skall utföras enligt SS 3656 och Housegard's serviceinstruktioner. I privata bostäder skall a",  
+  "position": [  
+    1321,  
+    1469  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "CE *VIKTIGT Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+  "context": "(kg): | 8.9 | | Höjd (mm): | 520 | | Bredd (mm): | 150 | Modell: PE6HR-B Artikel: 600179 EAN: 7320896001794 Certifiering**: CE *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts. **Omladdning kra*̈*ver specialutrustning. Kontakta en auktoriserad serviceverkstad. Anva*̈*nd endast specificerade sla*̈*",  
+  "position": [  
+    2272,  
+    2402  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakta en auktoriserad serviceverkstad",  
+  "context": "d laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts. Omladdning kra*̈*ver specialutrustnin**g. Kontakta en auktoriserad serviceverkstad.** Anva*̈*nd endast specificerade sla*̈*ckmedel och reservdelar.* För mer information, kontakta: GPBM Nordic AB Telefon: +",  
+  "position": [  
+    2440,  
+    2484  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "PE6HR-B ![](images/_page_0_Picture_2",  
+  "context": "# **PRODUKTDATABLAD FDV** **Modell: PE6HR-B ![](images/_page_0_Picture_2.**jpeg) ## **Bruksområde** Er nya Housegard brandsläckare innehåller ett ABC-pulver som är avsett för släckning av bränder",  
+  "position": [  
+    26,  
+    64  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463336"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "PE6HR-B Artikel 600179 EAN 7320896001794 Certifiering CE *VIKTIGT Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+  "context": "ylindermaterial: | Stål | | Drivgas: | Nitrogen | | Bruttovikt (kg): | 8.9 | | Höjd (mm): | 520 | | Bredd (mm): | 150 | **Modell: PE6HR-B Artikel: 600179 EAN: 7320896001794 Certifiering: CE *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts.** Omladdning kra*̈*ver specialutrustning. Kontakta en auktoriserad serviceverkstad. Anva*̈*nd endast specificerade sla*̈*",  
+  "position": [  
+    2210,  
+    2402  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "600179",  
+    "7320896001794"  
+  ],  
+  "product_id": "50463336"  
+}
+

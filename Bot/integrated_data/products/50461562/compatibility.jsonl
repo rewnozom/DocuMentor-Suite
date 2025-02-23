@@ -1,0 +1,14 @@
+{  
+  "relation_type": "accessory",  
+  "related_product": "en brandsläckare för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl",  
+  "context": "glasfiberväv kväver brand snabbare än en vanlig brandfilt och minskar risken för återantändning avsevärt och är ett bra **komplement till en brandsläckare, för att snabbt kunna släcka mindre bränder i exempelvis kläder eller kokkärl.** Placera brandfilten synligt där risk för brand kan förekomma, exempelvis i köket, verkstaden eller bredvid öppen spis.",  
+  "position": [  
+    348,  
+    459  
+  ],  
+  "pattern_index": 81,  
+  "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50461562"  
+}
+

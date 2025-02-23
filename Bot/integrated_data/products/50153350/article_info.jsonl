@@ -1,0 +1,14 @@
+{  
+  "identifier": "eranser",  
+  "original": "eranser",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ren Sie den Akku für Kinder umgehend, • nvisningen nøye før bruk. Ta vare på ningen til framtidige r**eferanser **gde bratteri. Boleporten på hodelampen, Sett USB-kontakten i en stranniller som er oper plaggen",  
+  "source": "regex",  
+  "product_id": "50153350"  
+}
+

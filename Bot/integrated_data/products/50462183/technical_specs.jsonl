@@ -1,0 +1,22 @@
+{  
+  "name": "Dimensions",  
+  "raw_value": "20",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "20",  
+    "unit": null,  
+    "normalized_value": 20.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | Nominal voltage | : 3 Volts | | | Nominal capacity | : 165mAh | | | Dimensions | : Ø20mm x 2.5mm | | | Shelf life | : 10 years at room temperatu**re | | | Average weight | : **2.5 grams | | | Te...",  
+  "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",  
+  "pattern_index": 6,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50462183"  
+}
+

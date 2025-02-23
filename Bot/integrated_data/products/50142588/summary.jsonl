@@ -1,0 +1,63 @@
+{  
+  "product_id": "50142588",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## US SERIES US12-2.3 (12V2.3AH)\n\n![](images/_page_0_Picture_2.jpeg)\n\n![](images/_page_0_Picture_3.jpeg)\n\n## General Features\n\n- ♦ Sealed and maintenance free operation. - ◆ Non-Spillable construction design. - ◆ ABS containers and covers(UL94HB, UL94V-0) optional.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "Acrylonitrile<br>Butadine Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                  |\n\n# **SECTION 3: PHYSICAL DATA**\n\n| COMPONENTS                                                   | DENSITY<br>g/cm3 | MELTING/BOILING<br>(M/B) POINT     | SOLUBILITY<br>(H2O)       | ODOR                                | APPEARANCE                  |\n|--------------------------------------------------------------|------------------|------------------------------------|---------------------------|-------------------------------------|-----------------------------|\n| Lead                                                         | 11",  
+      "unit": "O"  
+    },  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | 1",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "proper packaging and paperwork including the nature and quantity of goods per applicable origin/destination/customs points as-shipped",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the | | | | | battery",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "battery charging area",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "a battery most often occurs during lead reclamation operations through the breathing or ingestion of lead dust or fumes",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of sulfuric acid mist",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Acute ingestion should be treated by a physician",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The toxic effects of lead are cumulative and slow to appear",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "icles"  
+    ]  
+  }  
+}
+

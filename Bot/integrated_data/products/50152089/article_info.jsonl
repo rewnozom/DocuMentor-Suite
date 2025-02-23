@@ -1,0 +1,42 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| ECO 24V 10A M | | | | Artikelnummer: | ME01C10112P050 | ME01C10112P100 | ME01C10124P030 |",  
+  "source": "regex",  
+  "product_id": "50152089"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | Artikelnamn: | ECO 12V 5A M | ECO 12V 10A M | ECO 24V 3A M |",  
+  "source": "regex",  
+  "product_id": "50152089"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| ECO 24V 10A M | | | | Artikelnummer: | ME01C10112P050 | ME01C10112P100 | ME01C10124P030 |",  
+  "source": "regex",  
+  "product_id": "50152089"  
+}
+

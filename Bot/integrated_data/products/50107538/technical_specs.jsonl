@@ -1,0 +1,110 @@
+{  
+  "name": "Frekvens",  
+  "raw_value": "433,92",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "433,92",  
+    "unit": null,  
+    "normalized_value": 433.92,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "NDARE - *Trådlöst sändare med inbyggt batteri, typ E, ingår* - *Kan monteras utomhus under tak, men är inte vattentät* - *Tillverkad i aluminium* - *F**rekvens : 433,92 MHz*** - *Fuktsäker mikrobrytar...",  
+  "pattern": "(?i)(?:frekvens|frequency)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:Hz|kHz|MHz)",  
+  "pattern_index": 37,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50107538"  
+}
+
+{  
+  "name": "Kryptering",  
+  "raw_value": "Rolling code Keeloq®\n- Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_25",  
+  "category": "NETWORK",  
+  "unit": "VAC/DC",  
+  "value": {  
+    "raw_value": "Rolling code Keeloq®\n- Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_25",  
+    "unit": "VAC/DC",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ighet mm*.* ![](images/_page_1_Picture_19.jpeg) MINI MOTTAGARE 1, 2 ELLER 4 RELÄ «ON/OFF» OCH PULS - *Frekvens: 433,92 MHz 1, 2 eller 4 relä, 24VA/24W* - Kry**ptering: Rolling code Keeloq® - Strömförsörjning...",  
+  "pattern": "(?i)(?:kryptering|encryption)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 139,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50107538"  
+}
+
+{  
+  "name": "Kryptering",  
+  "raw_value": "Rolling code\n- Keeloq® Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_31",  
+  "category": "NETWORK",  
+  "unit": "VAC/DC",  
+  "value": {  
+    "raw_value": "Rolling code\n- Keeloq® Strömförsörjning: 12/24 VAC/DC\n\n![](images/_page_1_Picture_31",  
+    "unit": "VAC/DC",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "OTTAGARE «ON/OFF», PULS OCH TIDSSTYRNING - *Frekvens: 433,92 MHz Två relä, 24 VA/24W LCD-display för enkel* Commercial Industrial - *programmering* Kr**yptering: Rolling code - Keeloq® Strömförsörjnin...",  
+  "pattern": "(?i)(?:kryptering|encryption)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 139,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50107538"  
+}
+
+{  
+  "name": "Kryptering",  
+  "raw_value": "Rolling code Keeloq®\n- Strömförsörjning: 12/24 VAC/DC\n- Finns även med 230 VAC\n\nMulti-tenant Residential occupancy\n\n![](images/_page_1_Picture_38",  
+  "category": "NETWORK",  
+  "unit": "VAC/DC",  
+  "value": {  
+    "raw_value": "Rolling code Keeloq®\n- Strömförsörjning: 12/24 VAC/DC\n- Finns även med 230 VAC\n\nMulti-tenant Residential occupancy\n\n![](images/_page_1_Picture_38",  
+    "unit": "VAC/DC",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "sörjning: 12/24 VAC/DC ![](images/_page_1_Picture_31.jpeg) NANO MOTTAGARE FÖR DÖRRAUTOMATIKER, ENDAST PULS - *Frekvens: 433,92 MHz Ett relä, 24 VA/24W* - Kry**ptering: Rolling code Keeloq® - Strömförsörjning...",  
+  "pattern": "(?i)(?:kryptering|encryption)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 139,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50107538"  
+}
+
+{  
+  "name": "Kryptering",  
+  "raw_value": "Rolling code Keeloq®\n- Strömförsörjning: - 230 VAC, 50 Hz\n- Finns även med 12/24 VAC/DC\n\nTel: +46 (0)31 760 19 30\n\n*cdvigroup",  
+  "category": "NETWORK",  
+  "unit": "VAC",  
+  "value": {  
+    "raw_value": "Rolling code Keeloq®\n- Strömförsörjning: - 230 VAC, 50 Hz\n- Finns även med 12/24 VAC/DC\n\nTel: +46 (0)31 760 19 30\n\n*cdvigroup",  
+    "unit": "VAC",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "occupancy ![](images/_page_1_Picture_38.jpeg) POWER MOTTAGARE «ON/OFF», PULS OCH TIDSSTYRNING - *Frekvens: 433,92 MHz Två eller fyra relä, 3,5 KW/16A* - Kryp**tering: Rolling code Keeloq® - Strömförsörjning:...",  
+  "pattern": "(?i)(?:kryptering|encryption)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 139,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50107538"  
+}
+

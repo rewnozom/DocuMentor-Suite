@@ -1,0 +1,44 @@
+{  
+  "product_id": "BT-Box20FLX20SMALL",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-BOX FLX SMALL\n\nArtikelnummer: 28160160, E-nummer: 5257453\n\n![](images/_page_0_Picture_3.jpeg)\n\nFör utbyggnad av 24V RCO FLX S Batteribackuper för att erhålla möjlighet till längre reservdrifttid alt. högre medellast i en klassad anläggning. - •Plats för 4 st.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| 12V AGM-batteri                    |\n| SBSC Certifierad: | SSF 1014 Larmklass 3/4             |\n| Benämning producent (SBSC): | Batterybox 24V-XS2                 |",  
+      "unit": "V"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "- •Plats för 4 st",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| IP32 | | Temperaturområde | 5 °C - 40 °C (optimalt 15 - 20 °C) | | Montering | Under aggregaten | | Mått (BxHxD) | 215x430x220mm | | Vikt | 3kg | | Antal kabelgenomföringar | 9 st | | Inbygd fläkt | Yes | | Utgångsspänning | 273VDC | | Batterikombination | 4x 72Ah / 4x 14Ah | | Batterityp | 12V AGM-batteri | | SBSC Certifierad | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC) | Batterybox 24V-XS2 |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 12V AGM-batteri | | SBSC Certifierad | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC) | Batterybox 24V-XS2 |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5257453"  
+    ],  
+    "EAN-8": [  
+      "28160160"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

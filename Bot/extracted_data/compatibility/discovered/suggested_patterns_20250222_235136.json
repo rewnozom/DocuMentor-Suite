@@ -1,0 +1,72 @@
+[
+  {
+    "phrase": "#### **Kontraster** Prisma Button är designad för att skapa kontraster i sig själv.",
+    "keyword": "designad",
+    "suggested_pattern": "(?i)#### **kontraster** prisma button är designad för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 24,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "Enheten fungerar normalt då indikeringsdiod på skåpluckans utsida lyser med fast grönt sken.",
+    "keyword": "fungerar",
+    "suggested_pattern": "(?i)enheten fungerar normalt då indikeringsdiod på skåpluckans utsida lyser med ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 21,
+    "relation_type": "direct"
+  },
+  {
+    "phrase": "Med närvarokontrollen ges även möjlighet att använda antalslarm där exempelvis en utgång kan användas för att aktivera ett larm vid nivå hög, låg, tomt, inte tomt samt närvarande för länge.",
+    "keyword": "användas",
+    "suggested_pattern": "(?i)med närvarokontrollen ges även möjlighet att använda antalslarm där exempelvis en utgång kan användas för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 14,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "splitspindelfunktion fungerar alltid inre trycket för utpassage och separat öppnaknapp blir då ej nödvändig.",
+    "keyword": "fungerar",
+    "suggested_pattern": "(?i)splitspindelfunktion fungerar alltid inre trycket för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 14,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "Det finns fyra utgångar på DIO-5084 2 st relälämpliga för styrning av ellås samt 2 utgångar (12VDC) för anslutning av siren eller blixtljus och skall ej användas till ellås.",
+    "keyword": "lämplig",
+    "suggested_pattern": "(?i)det finns fyra utgångar på dio-5084 2 st relälämpliga för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 14,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "Enkelbalanserat kan användas för glaskross och branddetektorer.",
+    "keyword": "användas",
+    "suggested_pattern": "(?i)enkelbalanserat kan användas för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 14,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "Electrolux Vision Light™ monteras på vägg, i för användare lämplig höjd att betrakta display och att manövrera med knapparna.",
+    "keyword": "lämplig",
+    "suggested_pattern": "(?i)electrolux vision light™ monteras på vägg, i för användare lämplig höjd att betrakta display och att manövrera med ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 14,
+    "relation_type": "direct"
+  },
+  {
+    "phrase": "| Bästa alternativ<br>Bra alternativ<br>Möjlig<br>Tele, halogenfri, oskärmad: | ■<br>▲<br>● | Systembuss | Lokalbuss | Flexkabel lokalbuss | Terminalbuss | terminalbuss RS-485 | Signaler | Larmsignaler | LAN | Tele | Electrolux Network | |-----------------------------------------------------------------------------|------------------------------------------|------------|-----------|---------------------|--------------|---------------------|----------|--------------|-----|------|--------------------| | ELQXB | 2x2x0,5 (0,2 mm²) | ▲ | ▲ | | ● | ▲ | | ■ ■ | | ■ | | | ELQXB | 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | | ■ ▲ | | ■ | | | ELQXB | 6x2x0.5 (0,2 mm²) | ● | ● | | | ● | ▲ | ● | | ■ | | | ELQXB | 10x2x0,5 (0,2 mm²) | ● | ● | | | ● | ● | ● | | ■ | | | ELQXB | 2x2x0,5 (0,2 mm²) | ▲ | ▲ | | ● | ▲ | | ■ ■ | | ■ | | | ELQXB | 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | | ■ ▲ | | ■ | | | ELQXB | 6x2x0,5 (0,2 mm²) | ● | ● | | | ● | ▲ | ● | | ■ | | | ELQXB | 10x2x0,5 (0,2 mm²) | ● | ● | | | ● | ● | ● | | ■ | | | FQQXB | 6x0,22 | | | | | | | | | | | | 4-skruv, halogenfri, oskärmad: | | | | | | | | | | | | | ELQXB | 1x4x0,5 (0,2 mm²) | | | | ■ | | ● | ▲ | | | | | EQQXB | 1x4x0,5 (0,2 mm²) | | | | ■ | | ● | ▲ | | | | | Special, halogenfri, oskärmad: | | | | | | | | | | | | | RCO kabel | 2x1x1,0 mm²+1x2x0,22mm2 (E-nr 48 866 62) | | ■ ■ | | | ■ | | | | | | | FLQQBR | 2x1x1,0 mm²+2x2x0,22 mm² | | ■ ■ | | | | | | | | | | FLAQQBR | 4x1x1,0 mm²+1x2x0,22mm2 | | ■ | | | | | | | | | | FLAQQLY | 2x1x1,0 mm²+1x2x0,22mm2 (inne och ute) | ▲ | ▲ | | | | | | | | | | Electrolux nätverkskabel CMIS 4x0,22mm2 | | | | | | | | | | | ■ | | CAT, halogenfri, oskärmad: | | | | | | | | | | | | | UTP LSZH | (CAT 5e) 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | ● ● | | ■ | | | | UTP LSZH | (CAT 6) 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | ● | ● | ■ | | | Angivna kabeltyper i tabellen ovan är enbart exempel på lämpliga kablar för installationen.",
+    "keyword": "lämplig",
+    "suggested_pattern": "(?i)| bästa alternativ<br>bra alternativ<br>möjlig<br>tele, halogenfri, oskärmad: | ■<br>▲<br>● | systembuss | lokalbuss | flexkabel lokalbuss | terminalbuss | terminalbuss rs-485 | signaler | larmsignaler | lan | tele | electrolux network | |-----------------------------------------------------------------------------|------------------------------------------|------------|-----------|---------------------|--------------|---------------------|----------|--------------|-----|------|--------------------| | elqxb | 2x2x0,5 (0,2 mm²) | ▲ | ▲ | | ● | ▲ | | ■ ■ | | ■ | | | elqxb | 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | | ■ ▲ | | ■ | | | elqxb | 6x2x0.5 (0,2 mm²) | ● | ● | | | ● | ▲ | ● | | ■ | | | elqxb | 10x2x0,5 (0,2 mm²) | ● | ● | | | ● | ● | ● | | ■ | | | elqxb | 2x2x0,5 (0,2 mm²) | ▲ | ▲ | | ● | ▲ | | ■ ■ | | ■ | | | elqxb | 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | | ■ ▲ | | ■ | | | elqxb | 6x2x0,5 (0,2 mm²) | ● | ● | | | ● | ▲ | ● | | ■ | | | elqxb | 10x2x0,5 (0,2 mm²) | ● | ● | | | ● | ● | ● | | ■ | | | fqqxb | 6x0,22 | | | | | | | | | | | | 4-skruv, halogenfri, oskärmad: | | | | | | | | | | | | | elqxb | 1x4x0,5 (0,2 mm²) | | | | ■ | | ● | ▲ | | | | | eqqxb | 1x4x0,5 (0,2 mm²) | | | | ■ | | ● | ▲ | | | | | special, halogenfri, oskärmad: | | | | | | | | | | | | | rco kabel | 2x1x1,0 mm²+1x2x0,22mm2 (e-nr 48 866 62) | | ■ ■ | | | ■ | | | | | | | flqqbr | 2x1x1,0 mm²+2x2x0,22 mm² | | ■ ■ | | | | | | | | | | flaqqbr | 4x1x1,0 mm²+1x2x0,22mm2 | | ■ | | | | | | | | | | flaqqly | 2x1x1,0 mm²+1x2x0,22mm2 (inne och ute) | ▲ | ▲ | | | | | | | | | | electrolux nätverkskabel cmis 4x0,22mm2 | | | | | | | | | | | ■ | | cat, halogenfri, oskärmad: | | | | | | | | | | | | | utp lszh | (cat 5e) 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | ● ● | | ■ | | | | utp lszh | (cat 6) 4x2x0,5 (0,2 mm²) | ▲ | ▲ | | | ▲ | ● | ● | ■ | | | angivna kabeltyper i tabellen ovan är enbart exempel på lämpliga kablar för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 14,
+    "relation_type": "designed_for"
+  },
+  {
+    "phrase": "Vid kabelförläggning utomhus eller i mark rekommenderas kabel förstärkt med yttre mantel av polyeten.",
+    "keyword": "rekommenderas",
+    "suggested_pattern": "(?i)vid kabelförläggning utomhus eller i mark rekommenderas kabel förstärkt med ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 14,
+    "relation_type": "direct"
+  },
+  {
+    "phrase": "Montering Använd lämplig skruv för montering på vägg eller i 19\" rack.",
+    "keyword": "lämplig",
+    "suggested_pattern": "(?i)montering använd lämplig skruv för ([^\\.;]+)(?:\\.|\\;|$)",
+    "occurrences": 13,
+    "relation_type": "designed_for"
+  }
+]

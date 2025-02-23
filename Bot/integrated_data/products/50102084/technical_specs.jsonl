@@ -1,0 +1,22 @@
+{  
+  "name": "Material",  
+  "raw_value": "ABS - Plast\n\n![](images/_page_0_Picture_6",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "ABS - Plast\n\n![](images/_page_0_Picture_6",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": ": 25 mm Mikrobrytare 1 st NO IP klass: IP67 Nominell märkström från: 0,1 A - 10 A/250 V AC Lägsta märkström 1mA/4 V DC ![](images/_page_0_Picture_4.jpeg) Mat**erial: ABS - Plast ![](images/_page_0_Picture_6.jpe**g)...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50102084"  
+}
+

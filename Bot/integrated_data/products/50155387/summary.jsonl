@@ -1,0 +1,62 @@
+{  
+  "product_id": "50155387",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| 19 rack module holder",  
+  "description": "Kapslingen erbjuder också plats för Linjators L-moduler, t.ex<br>kopplingsplintar eller Sentrion DSS moduler. Kablage stripas i kapslingens ryggparti, vid väggmontage erhålls en distans om 20 mm emot vägg. Kapslingen<br>levereras inkl.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "mått",  
+      "value": "| 19 rack module holder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 19 rack DIN module holder | Fire module 4 outputs S | 10 output module Mini | DIN module holder |\n| Rekommenderad miljö: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                           |                         |                       |                   |\n| Omgivningstemperatur: |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                           | +5 °C - 40 °C           |                       |                   |\n| Dimension (HxBxD): | 173x482x108mm (4HE) vid rackmontage,<br>ytterligare 20mm djup vid väggmontage                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                           | 230x216x85mm            | 200x146x57mm          | 10x25x100mm       |\n| Artikelnamn: | 19 rack module holder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 19 rack DIN module holder | Fire module 4 outputs S | 10 output module Mini | DIN module holder |\n| Artikelnummer: | 4U010000P00019P01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 4U01000P00019P01D         | SM01FU002404FS01        | MI01FU002410OP01      | A-0000000DIN01    |\n| E-nummer: | 5001063                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 5001064                   | 5257468                 | 5213622               | 5213623           |\n| Produkten möter kraven enligt: | EMC Directive 2014/30EU, Low Voltage directive: 2014/35/EU CE directive according to 765/2008, Emission: EN61000-6-:2001, EN55022:1998:-A1:2000,<br>A2:2003 Klass B, EN61000-3-2:2001",  
+      "unit": "rack"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "väggmontage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "väggmontage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "20 mm emot vägg",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "standard levere<br>ras produkten för rackmontage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "20 mm emot vägg",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Milleteknik AB | | | | Linjator | | Ursprungsland | Sverige | | | | Sverige | | | | | | | | POWER SUPPLIES - MADE IN SWEDEN **Milleteknik AB** Ögärdesvägen 8B 433 30 Partille Sweden För order order@milleteknik",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | | | |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------------|-----------------------|-------------------| | 19 rack module holder | Modul för montering av upp till",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Kapslingen<br>levereras inkl",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "ikelnamn"  
+    ]  
+  }  
+}
+

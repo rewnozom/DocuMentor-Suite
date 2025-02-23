@@ -1,0 +1,42 @@
+{  
+  "relation_type": "accessory",  
+  "related_product": "en 6 kg brandsläckare i hemmamiljöer eller i husvagnen husbilen och båten",  
+  "context": "r att använda en gång, sedan måste den laddas om. Släckaren är återfyllningsbar av behörig servicetekniker. Lämplig som **komplement till en 6 kg brandsläckare i hemmamiljöer eller i husvagnen, husbilen och båten.** - 3 Effektklass 13A 89B C - 3 Med slang - 3 MED/Wheelmark - 3 EN 3-7 - 3 Fordonsfäste medföljer - 3 Etikett på svenska",  
+  "position": [  
+    401,  
+    492  
+  ],  
+  "pattern_index": 81,  
+  "pattern": "(?i)komplement\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154969"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "komplement till en 6 kg brandsläckare i hemmamiljöer eller i husvagnen husbilen och båten",  
+  "context": "går att använda en gång, sedan måste den laddas om. Släckaren är återfyllningsbar av behörig servicetekniker. Lämplig so**m komplement till en 6 kg brandsläckare i hemmamiljöer eller i husvagnen, husbilen och båten. **- 3 Effektklass 13A 89B C - 3 Med slang - 3 MED/Wheelmark - 3 EN 3-7 - 3 Fordonsfäste medföljer - 3 Etikett på svenska",  
+  "position": [  
+    398,  
+    492  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154969"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "En pulversläckare är frostbeständig och leder ej elektricitet vilket innebär att du även kan släcka bränder i elektrisk utrustning upp till 1000 V",  
+  "context": "## BRANDSLÄCKARE 2 KG **Tang PD2** Tryckladdad pulversläckare med torrt kemikaliskt ABC-pul**ver. En pulversläckare är frostbeständig och leder ej elektricitet vilket innebär att du även kan släcka bränder i elektrisk utrustning upp till 1000 V.** Tänk på att en pulversläckare bara går att använda en gång, sedan måste den laddas om. Släckaren är återfyllningsbar av",  
+  "position": [  
+    91,  
+    243  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154969"  
+}
+

@@ -1,0 +1,26 @@
+{  
+  "product_id": "50463379",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# **PRODUCT SPECIFICATION**\n\n## **GP USB Cable Model : CY1N**\n\nRevision History\n\n| Revision | Date              | Initiator  | Reason for Change  |\n|----------|-------------------|------------|--------------------|\n| 0.0      | 16<br>Jul<br>2021 | Kevin Chan | Initial<br>Release |\n|          |                   |            |                    |\n|          |                   |            |                    |\n|          |                   |            |                    |\n|          |                   |            |                    |\n\n| Prepared By             | Approved By             |\n|-------------------------|-------------------------|\n| Kevin Chan              | Kevin Chan              |\n| Date: 16<br>Jul<br>2021 | Date: 16<br>Jul<br>2021 |\n\n### **Product Specification Model no.: CY1N**\n\n![](images/_page_1_Picture_3.jpeg)\n\nManufacturer reserves the right to alter or amend the design, model and specification without prior notice..",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "CY1N** Revision History | Revision | Date | Initiator | Reason for Change | |----------|-------------------|------------|--------------------| | 0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "and specification without prior notice",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "History | Revision | Date | Initiator | Reason for Change | |----------|-------------------|------------|--------------------| | 0",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

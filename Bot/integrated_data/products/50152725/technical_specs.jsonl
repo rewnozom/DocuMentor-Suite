@@ -1,0 +1,66 @@
+{  
+  "name": "minne",  
+  "raw_value": "1,4",  
+  "category": "PERFORMANCE",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "1,4",  
+    "unit": null,  
+    "normalized_value": 1.4,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Lifecycle Policy för aktuell information. Express Edition har följande begränsningar och rekommenderas inte för större system: - Max. utnyttjat RAM mi**nne: 1,4 GB -** Max. storlek på databasfilen: 10...",  
+  "pattern": "(?i)(?:minne|memory)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:MB|GB|TB)",  
+  "pattern_index": 94,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152725"  
+}
+
+{  
+  "name": "installation",  
+  "raw_value": "Minst 10 GB utöver operativsystemets krav",  
+  "category": "MISCELLANEOUS",  
+  "unit": "GB",  
+  "value": {  
+    "raw_value": "Minst 10 GB utöver operativsystemets krav",  
+    "unit": "GB",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "erordnat presentationssystem. - Hårdvarurekommendationer - PC som uppfyller kraven för valt operativsystem - Fritt utrymme på hårddisk: - **⋅** Server**installation: Minst 10 GB utöver operativsysteme...",  
+  "pattern": "(?i)(?:installation|installation)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 190,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152725"  
+}
+
+{  
+  "name": "installation",  
+  "raw_value": "Minst 4 GB utöver operativsystemets krav",  
+  "category": "MISCELLANEOUS",  
+  "unit": "GB",  
+  "value": {  
+    "raw_value": "Minst 4 GB utöver operativsystemets krav",  
+    "unit": "GB",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "lation: Minst 10 GB utöver operativsystemets krav. Installeras SQL Server Express på samma dator krävs ytterligare minst 16 GB. - **⋅** Enbart klienti**nstallation: Minst 4 GB utöver operativsystemets...",  
+  "pattern": "(?i)(?:installation|installation)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 190,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152725"  
+}
+

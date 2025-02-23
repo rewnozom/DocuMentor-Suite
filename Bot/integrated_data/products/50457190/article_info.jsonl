@@ -1,0 +1,126 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | Artikelnummer: | SM01C10112P050",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "NUMMER",  
+  "original": "NUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER: | MAX MÖJ**LIGT ANTAL: |** |---------------------------|----------------------",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "funktion",  
+  "original": "funktion",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "_0_Picture_3.jpeg) • √ Enkel och pålitlig batteribackup • √ Controlled charging funktion • √ Cold st**art funktion** • √ Väggmontage ECO Serien används främst i system där en enkel och pålitlig strömförsörjning med",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "vilket",  
+  "original": "vilket",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "as både med AGM-batterier och Lithium LiFePO4-batterier. ECO Serien erbjuder också såkallad COLD STA**RT vilket **innebär att batteribackupen kan driftsättas med endast batterierna anslutna utan att enheten är ans",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | Artikelnamn: | ECO 12V 5A S",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | Artikelnummer: | SM01C10112P050",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "IKELTYP",  
+  "original": "IKELTYP",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER: | MAX MÖJ**LIGT ANTAL**: | |------------------",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "IKELNAMN",  
+  "original": "IKELNAMN",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER: | MAX MÖJ**LIGT ANTAL:** | |---------------------------|-----",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+
+{  
+  "identifier": "IKELNUMMER",  
+  "original": "IKELNUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER: | MAX MÖJ**LIGT ANTAL: |** |---------------------------|----------------------",  
+  "source": "regex",  
+  "product_id": "50457190"  
+}
+

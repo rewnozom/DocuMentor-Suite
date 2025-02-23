@@ -1,0 +1,42 @@
+{  
+  "identifier": "4891199190766",  
+  "original": "4891199190766",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 0,  
+  "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",  
+  "context": "9V/2A (Max. 18W) • Stödjer PD-laddning • MFi-certifierad • *ARTICLE INFORMATION:** Art.no: 405173 EA**N: 4891199190766 E**-nummer: 5720720 ![](images/_page_0_Figure_13.jpeg) ![](images/_page_0_Picture_14.jpeg) ![](images/_page_0_Picture_1",  
+  "source": "regex",  
+  "product_id": "50153346"  
+}
+
+{  
+  "identifier": "5720720",  
+  "original": "5720720",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "Stödjer PD-laddning • MFi-certifierad • *ARTICLE INFORMATION:** Art.no: 405173 EAN: 4891199190766 E-**nummer: 5720720 !**[](_page_0_Figure_13.jpeg) ![](images/_page_0_Picture_14.jpeg) ![](images/_page_0_Picture_15.jpeg) • *CONTACT",  
+  "source": "regex",  
+  "product_id": "50153346"  
+}
+
+{  
+  "identifier": "405173",  
+  "original": "405173",  
+  "type": "Artikelnummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt artikelnummerformat",  
+  "group": "article",  
+  "pattern_index": 14,  
+  "pattern": "(?i)Art(?:ikel)?\\.?n[ro]\\.?[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "Output: 5V/3A, 9V/2A (Max. 18W) • Stödjer PD-laddning • MFi-certifierad • *ARTICLE INFORMATION:** Ar**t.no: 405173 E**AN: 4891199190766 E-nummer: 5720720 ![](images/_page_0_Figure_13.jpeg) ![](images/_page_0_Picture_14.jpeg) ![",  
+  "source": "regex",  
+  "product_id": "50153346"  
+}
+

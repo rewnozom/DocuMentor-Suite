@@ -1,0 +1,77 @@
+{  
+  "product_id": "50464438",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Används för strömförsörjning som behöver larm över reläväxling (istället för larm via kommunikation. Batterier ingår ej. Larm via RS-485 och växlande relä.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "12 V, AGM blysyra batteri, underhållsfritt",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC Direktivet 2014/30EU                                                                                                |\n|-------|-------------------------------------------------------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                                                                      |\n| CE: | CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n#### Garanti\n\nProdukten har två års garanti för tillverkningsfel",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n#### Garanti\n\nProdukten har två års garanti för tillverkningsfel",  
+      "unit": "E"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "RELAY CARD NOVA SERIES (PRO3) Med 4 st",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "levererats med PRO3-moderkort",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "5 | | Certifikatsnummer (SBSC) | 20-117 | | Produkten möter kraven enligt | CE direktivet enligt 765/2008 EMC Direktiv 2014/30EU Emission EN61000-6-2001<br>EN550221998-A12000 A22003 Klass B EN61000-3-22001 Immunity EN61000-6-22005<br>EN61000-4-2 -3 4 -5 -6 -11",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "61000",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001",  
+        "61000",  
+        "22005",  
+        "61000"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "5 | | Certificate number (SBSC) | 20-117 | | The product meets the requirements ac<br>cording to | CE directive according to 765/2008 EMC Directive 2014 / 30EU Emission<br>EN61000-6- 2001 EN55022 1998 -A1 2000 A2 2003 Class B EN61000-3-2<br>2001 Immunity EN61000- 6-2 2005 EN61000-4-2 -3 4 -5 -6 -11",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "61000",  
+        "55022",  
+        "61000",  
+        "61000",  
+        "61000"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 1",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

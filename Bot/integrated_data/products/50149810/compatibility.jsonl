@@ -1,0 +1,168 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "a sealed battery is not an expected route of exposure",  
+  "context": "to the skin. Skin contact with a ruptured battery can cause skin irritation. - **Inhalation:** Inhalation of material fr**om a sealed battery is not an expected route of exposure.** Vapours or mists from a ruptured battery may cause respiratory irritation. #### **2.2 LABEL ELEMENTS** The rechargeable",  
+  "position": [  
+    2199,  
+    2256  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a ruptured battery may cause respiratory irritation",  
+  "context": "- **Inhalation:** Inhalation of material from a sealed battery is not an expected route of exposure. Vapours or mists fr**om a ruptured battery may cause respiratory irritation.** #### **2.2 LABEL ELEMENTS** The rechargeable Li-ion battery described in this Safety Data Sheet is marked with the symb",  
+  "position": [  
+    2276,  
+    2331  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the contaminated area and ensure maximal ventilation in order to break up corrosive gas smoke and unpleasant odors",  
+  "context": "or battery rupture/vent/explosion, which results in direct contact with the ingredients, please evacuate all persons fro**m the contaminated area and ensure maximal ventilation in order to break up corrosive gas, smoke and unpleasant odors. **If it occurs, following first aid measures must be taken: - **Eye contact:** Wash affected eye with lukewarm water for",  
+  "position": [  
+    4253,  
+    4372  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "area",  
+  "context": "r pain persists, seek medical attention. - **Ingestion:** Move victim to fresh air and remove source of contamination fr**om area.** Drink water and induce vomiting; seek medical attention. - **Inhalation:** Move victim to fresh air and remove source o",  
+  "position": [  
+    4796,  
+    4804  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "area",  
+  "context": "nduce vomiting; seek medical attention. - **Inhalation:** Move victim to fresh air and remove source of contamination fr**om area.** Seek medical attention. **Caution:** In all cases if irritation persists, seek medical assistance at once. ![](images/_page_2_",  
+  "position": [  
+    4942,  
+    4950  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "moisture sources of heat and open flames",  
+  "context": "hort circuit. Follow manufacturers recommendations regarding storage temperatures. Store in well ventilated area away fr**om moisture, sources of heat and open flames.** Avoid direct sunlight. Elevated temperatures can result in reduced battery life. #### **7.3 Other** Follow manufacturer",  
+  "position": [  
+    6867,  
+    6912  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ventilation may be required in areas where there are open or leaking batteries",  
+  "context": "RSONAL PROTECTION** #### **8.1 Engineering controls** - **Ventilation requirements:** Not necessary under normal use. Ro**om ventilation may be required in areas where there are open or leaking batteries.** - **8.2 Personal protective measures** - **Respiratory protection:** Not necessary under normal use. In case of battery",  
+  "position": [  
+    7309,  
+    7391  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "children Dispose of the Li-ion battery in accordance with local state and federal laws and regulations",  
+  "context": ": Shield eyes Note operating instructions Battery acid Explosive gas No smoking, no naked flames, no sparks Keep away fr**om children Dispose of the Li-ion battery in accordance with local, state and federal laws and regulations.** Batteries may be returned to the manufacturer. Do not mix with other (industrial) waste. This product, or sections of t",  
+  "position": [  
+    12724,  
+    12831  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "reliance on it",  
+  "context": "kes no warranty expressed or implied with respect to this information and recommendations and disclaims all liability fr**om reliance on it.**",  
+  "position": [  
+    13431,  
+    13449  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Address | Expolaan 50 | | | 7556 BE Hengelo | | | The Netherlands | | Emergency telephone number | +31 (0)748200010 | #### **SECTION 2 HAZARDS IDENTIFICATION** #### **2",  
+  "context": "on: | 1163Wh, 90Ah, 12.9V | | Use: | Traction Battery | | 1.2<br>SUPPLIER | | | Manufacturer: | Super B Lithium Power b.**v. | | Address: | Expolaan 50 | | | 7556 BE Hengelo | | | The Netherlands | | Emergency telephone number: | +31 (0)748200010 | #### **SECTION 2: HAZARDS IDENTIFICATION** #### **2.**1 CLASSIFICATION OF THE SUBSTANCE OR MIXTURE** #### **Emergency overview:** The rechargeable Li-ion battery cells descri",  
+  "position": [  
+    652,  
+    831  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Do not expose the battery to high temperatures or fire",  
+  "context": "ION 7: HANDLING AND STORAGE** #### **7.1 Handling** The battery must be transported in its original or equivalent packin**g. Do not expose the battery to high temperatures or fire.** Do not disassemble, short circuit, puncture, incinerate, crush or puncture battery. Do not mix batteries of different t",  
+  "position": [  
+    6299,  
+    6357  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Odorless | |-----------------------------|----------------|-----------------------------------------|----------------| | Appearance | Battery | Odor Threshold | Not Applicable | | pH | Not Applicable | Evaporative Rate (n-Butyl Acetate = 1) | Not Applicable | | Relative Density | Not Applicable | Auto Ignition Temperature (°C) | Not Applicable | | Boiling Point | Not Applicable | Flammability Limits (%) | Not Applicable | | Melting Point | Not Applicable | Vapor Pressure (mm Hg @ 20 °C) | Not Applicable | | Viscosity | Not Applicable | Vapor Density (Air = 1) | Not Applicable | | Oxidizing Properties | Not Applicable | Solubility in Water | Insoluble | | Flash Point and Method (°C) | Not Applicable | Water/ Oil distribution coefficient | Not Applicable | #### **SECTION 10 STABILITY AND REACTIVITY** **Reactivity** The battery is stable under conditions as described in section 7",  
+  "context": "teries **MSDS DATE:** 1 June 2018 #### **SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES** | Physical State: | Solid | Odor **Type: | Odorless | |-----------------------------|----------------|-----------------------------------------|----------------| | Appearance: | Battery | Odor Threshold: | Not Applicable | | pH: | Not Applicable | Evaporative Rate: (n-Butyl Acetate = 1) | Not Applicable | | Relative Density: | Not Applicable | Auto Ignition Temperature (°C): | Not Applicable | | Boiling Point: | Not Applicable | Flammability Limits (%): | Not Applicable | | Melting Point: | Not Applicable | Vapor Pressure: (mm Hg @ 20 °C) | Not Applicable | | Viscosity: | Not Applicable | Vapor Density: (Air = 1) | Not Applicable | | Oxidizing Properties: | Not Applicable | Solubility in Water: | Insoluble | | Flash Point and Method (°C) | Not Applicable | Water/ Oil distribution coefficient: | Not Applicable | #### **SECTION 10: STABILITY AND REACTIVITY** **Reactivity:** The battery is stable under conditions as described in section 7.** **Conditions to Avoid:** Avoid exposing of the battery to high temperatures or fire. Do not disassemble, short circuit,",  
+  "position": [  
+    8142,  
+    9057  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+

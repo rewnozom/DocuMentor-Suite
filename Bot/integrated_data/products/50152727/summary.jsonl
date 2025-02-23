@@ -1,0 +1,94 @@
+{  
+  "product_id": "50152727",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# **Exempelsamling** R-CARD 5000 och M5\n\n### **FÖRORD 3 1 PRINCIPSKISSER** 1.1 R-CARD 5000 med M5 MEGA och Electrolux 4 1.2 Passersystem 6 1.3 Larmsystem 7 1.4 Fastighetssystem 8 **2 IT-STRUKTUR I R-CARD M5** 2.1 Server-Klient 9 2.2 Server-Klient via brandvägg 10 2.3 Server via tunna klienter 11 2.5 Webbnärvaro 12 2.6 Närvaro/Antipassback 13 2.7 RCO Access 14 2.9 Electrolux WEB/MOBILE 15 2.10 R-CARD M5 BOKA 16 2.11 Integartion med annan datakälla 17 2.12 OPC Server 18 2.13 Driftövervakning 19 **3 TOPOLOGIER (NÄTPRINCIPER)** 3.1 Princip Anknytningar 20 3.2 Lokal anknytning 21 3.3 Anknytning i nätverksmiljö 22 3.4 Virtuell systembuss över nätverk 23 3.5 Systembuss Routing 24 3.6 Princip lokalbuss 25 3.7 Lokalbuss bussnät 26 3.8 Lokalbuss stjärnnät 27 3.9 Lokalbuss stubbar 28 **4 STRÖMFÖRSÖRJNING** 4.1 01-nät 29 4.2 Grupperade UC-50 30 4.3 Separat matning av lås 31 4.4 Aggregat med och utan reservdrift 32 4.5 Aggregat med övervakning 33 **5 LÅSSTYRNING** 5.1 Elslutbleck 34 5.2 Tryckefunktionlås (splitspindel) 35 5.3 Motorlås med styrbox 36 5.4 El-magnet 37 5.5 Dag- och nattlåsning 38 5.6 Dörrbladsläsare för mekaniska regellås 39 5.7 Sluss 40 5.8 NoKey motor 41 5.9 NoKey motor med dag- och nattlåsfunktion 42 5.10 Läsare ansluten till lokalbuss 43 5.11 Virtuella dörrar 44 5.12 Offline-läsare för mekaniska regellås 45 5.13 Låscyliner med inbyggd kodläsare av offline-typ 46 **6 UTRYMNINGSÖPPNING**\n\n| 6.1 | Lås med omvänd funktion och förreglad matning | 47 |\n|-----|-----------------------------------------------|----|\n| 6.2 | Nödöppning/paniklåsning                       | 48 |\n\n# **7 DÖRRAUTOMATIKSTYRNING** 7.1 Förregling av dörrautomatik 49 **8 IN- OCH UTLÄSNING** 8.1 In- och utpassering via kortläsare 50\n\n- 8.3 In-och utpassering via grind 52 **9 LARMFÖRBIKOPPLING** 9.1 Bonnförbikoppling 53 9.2 Larmpunkt via DB-50 ansluten till externt larmsystem 54 9.3 Larmpunkt i integrerat larmsystem 55 **10 LARMSTYRNING** 10.1 Externt larmsystem från enskild läsare 56\n8.2 In- och utpassering via rotationsgrind 51\n\n- 10.2 Extern larmsystem från läsare i larmområde 57 10.3. Integrerat larm från läsare 58 10.4 Integrerat larm från manöverpanel MapR-59 59 10.5 Integrerat larm från manöverpanel R-TOUCH 50 60\n### **11 LARMANSLUTNING**\n\n| 11.1 | IO-50xx eller DB-50                                        | 61 |\n|------|------------------------------------------------------------|----|\n| 11.2 | DIO-5084 med läsare                                        | 62 |\n|      | 11.3 DIO-5084 utan läsare                                  | 63 |\n|      |                                                            |    |\n| 12   | LARMINDIKERING                                             |    |\n| 12.1 | Indikering via utgång på enhet                             | 64 |\n|      | 12.2 Indikering i R-TOUCH 50 och R-CONTROL                 | 65 |\n|      | 12.3 Väsentlig funktion                                    | 66 |\n|      |                                                            |    |\n| 13   | HISSTYRNING                                                |    |\n| 13.1 | En hiss i ett schakt                                       | 67 |\n|      | 13.2 Fler parallella hissar och schakt                     | 68 |\n|      | 13.3 Våningsläsare för kallelse                            | 69 |\n|      |                                                            |    |\n| 14   | PORTTELEFON                                                |    |\n| 14.1 | Porttelefon för entréer                                    | 70 |\n|      |                                                            |    |\n| 15   | BOKNING – INFORMATION                                      |    |\n| 15.1 | Maskinstyrning via Electrolux Network™                     | 71 |\n|      | 15.2 Maskinstyrning Electrolux Network™/Basic interface 72 |    |\n|      | 15.3 Maskinstyrning via IO-enhet                           | 73 |\n|      | 15.4 Tvättstuga med fler maskingrupper i samma tvättrum 74 |    |\n\n15.5 Bokning med olika förval (bokningsobjekt) 75 15.6 Electrolux Vision™ med Electrolux Network™ 76 15.7 Electrolux Vision™ i trapphus 77\n\n16.1 Elektroniskt styrda postfack 78\n\nBussar och kommunikation 79 Kabelguide 80 Tekniska krav 81 Anteckningar 84\n\n**16 FASTIGHETSBOX**\n\n**APPENDIX**\n\n# Förord\n\nDen här boken är tänkt att ge idéer och uppslag för dig som projekterar, planerar eller söker information om tekniska lösningar på tillträdesskydd med säkerhetssystemet R-CARD 5000 från RCO Security AB. Typiska applikationer och installationer är illustrerade som principiella exempel\n\noch förklarande text.",  
+  "key_specifications": [  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "minne",  
+      "value": "1,4",  
+      "unit": null  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "installation",  
+      "value": "Minst 10 GB utöver operativsystemets krav",  
+      "unit": "GB"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "installation",  
+      "value": "Minst 4 GB utöver operativsystemets krav",  
+      "unit": "GB"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765 410 eller DORMA 912919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "912919"  
+      ]  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "för montering på vanliga dörrar med godkända regellås av nordisk standard typ ASSA 8765 410 eller DORMA 912919 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "912919"  
+      ]  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "montering på vanliga dörrar med godkända regellås av nordisk standardtyp ASSA 8765 410 eller DORMA 912 och behöver varken DB-50 eller annan elektronik för att ansluta till undercentral UC-50",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "Microsoft SQL Server 2012 och senare (alla utgåvor eller** *editions***)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "ingång för dörravkänning på DB-50",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "ingång för dörrövervakning på DIO-5084",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "att både in- och utläsning används vid passage till och från de definierade närvarozonerna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "att anläggningar ska ha batteri - backup för 12 timmar (klass 1 och 2)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "utläsning och inte kan öppna med knappöppningen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "R-CARD M5 system med - Fler än 2–5 anknytningar (300–500 enheter) - Fler än 2500 kort1 - Fler än 2 samtidigt inloggade operatörer - R-CONTROL Electrolux PAYMENT (Debitering) eller någon av webbapplikationerna - Flera databaser i samma SQL Server-instans - För högsta driftsäkerhet bör SQL Server och R-CARD M5 använda samma nätverkssegment",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "lokalt",  
+      "vinnat",  
+      "vinnad",  
+      "exempel",  
+      "Delar"  
+    ]  
+  }  
+}
+

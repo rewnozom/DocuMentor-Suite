@@ -1,0 +1,22 @@
+{  
+  "name": "Material",  
+  "raw_value": "ABS - Plast\n\n## Rengöring: Kontakten går att rengöra med alla förekommande rengörningsmedel",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "ABS - Plast\n\n## Rengöring: Kontakten går att rengöra med alla förekommande rengörningsmedel",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "1.jpeg) Mikrobrytare 1 st NO IP klass: IP67 Nominell märkström från: 0,1 A - 10 A/250 V AC Lägsta märkström 1mA/4 V DC ![](images/_page_0_Picture_3.jpeg) Mat**erial: ABS - Plast ## Rengöring: Kontakten går a...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50461352"  
+}
+

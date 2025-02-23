@@ -1,0 +1,14 @@
+{  
+  "identifier": "556289017701",  
+  "original": "556289017701",  
+  "type": "UPC-A",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)",  
+  "group": "upc",  
+  "pattern_index": 40,  
+  "pattern": "(?<!\\d)(\\d{12})(?!\\d)",  
+  "context": "320 Hemsida/Webb www.swtm.se Telefax nr/Telefax no +46(0)303-748 490 e-post info@swtm.se VAT.NO SE55**6289017701 #** EN54C – REDBOX STRÖMFÖRSÖRJNING, certifierade enl. EN54-4, EN12101-10 ## SÄKERHET Endast auk",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+

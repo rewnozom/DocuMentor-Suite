@@ -1,0 +1,56 @@
+{  
+  "identifier": "4895149079163",  
+  "original": "4895149079163",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 0,  
+  "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",  
+  "context": "installation på mindre än 5 minuter • Vattentät, IP55 #### **ARTICLE INFORMATION:** Art.no: 473064 E**AN: 4895149079163 **E-nummer: 7702949 ![](images/_page_0_Picture_11.jpeg) • *CONTACT US** Call 031-799 16 00 or E-mail: kunds",  
+  "source": "regex",  
+  "product_id": "50129793"  
+}
+
+{  
+  "identifier": "4895149079309",  
+  "original": "4895149079309",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 5,  
+  "pattern": "(?<!\\d)(\\d{13})(?!\\d)",  
+  "context": "T | |-----------------|---------------|---------------| | EAN kod | 4895149079163 | 4895149079309 | **| Längd (mm) **| 72.000 | 445.000 | | Höjd (mm) | 195.000 | 195.000",  
+  "source": "regex",  
+  "product_id": "50129793"  
+}
+
+{  
+  "identifier": "7702949",  
+  "original": "7702949",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "dre än 5 minuter • Vattentät, IP55 #### **ARTICLE INFORMATION:** Art.no: 473064 EAN: 4895149079163 E**-nummer: 7702949 **![](images/_page_0_Picture_11.jpeg) • *CONTACT US** Call 031-799 16 00 or E-mail: kundservice@gpbmnordic.",  
+  "source": "regex",  
+  "product_id": "50129793"  
+}
+
+{  
+  "identifier": "473064",  
+  "original": "473064",  
+  "type": "Artikelnummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt artikelnummerformat",  
+  "group": "article",  
+  "pattern_index": 14,  
+  "pattern": "(?i)Art(?:ikel)?\\.?n[ro]\\.?[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "-läge) • Enkel installation på mindre än 5 minuter • Vattentät, IP55 #### **ARTICLE INFORMATION:** A**rt.no: 473064 **EAN: 4895149079163 E-nummer: 7702949 ![](images/_page_0_Picture_11.jpeg) • *CONTACT US** Call 031-799 16",  
+  "source": "regex",  
+  "product_id": "50129793"  
+}
+

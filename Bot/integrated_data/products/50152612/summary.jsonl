@@ -1,0 +1,68 @@
+{  
+  "product_id": "50152612",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| Adapter FLX to<br>Battery shelfs",  
+  "description": "Från batterihyllan erbjuds en \"truck<br>handske\" för anslutning framförallt emot RACK Serien medans NEO / NOVA / EN54 FLX M erbjuder en 9-polig kontakt för anslutning emot batteribox<br>som standard. Adaptern erbjuder en truckhandske på ena änden om kabeln och en 9-polig kontakt på andra änden om kabeln. |                                 |                                                    |                                     |                                     |                                 |\n| Battery connection panel 24V     | Batterianslutningspanel 24V för anslutning av front terminal batterier.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "mått",  
+      "value": "| Adapter FLX to<br>Battery shelf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Battery connection<br>panel 24V | Battery connection<br>panel 24V-125                | Battery connection<br>panel 24V-200 | Battery connection<br>panel 24V-300 | Battery connection<br>panel 48V |\n| Rekommenderad miljö: |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                 | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet |                                     |                                     |                                 |\n| Omgivningstemperatur: | +5 °C - 40 °C                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                 |                                                    |                                     |                                     |                                 |\n| Dimension (HxBxD): | 66x438x                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                 |                                                    |                                     |                                     |                                 |\n| Artikelnamn: | Adapter FLX to<br>Battery shelfs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Battery connection<br>panel 24V | Battery connection<br>panel 24V-125                | Battery connection<br>panel 24V-200 | Battery connection<br>panel 24V-300 | Battery connection<br>panel 48V |\n| Artikelnummer: | A-0000000ADP01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 3U010000024BP01                 | 3U010000024BP01-125                                | 3U010000024BP01-200                 | 3U010000024BP01-300                 | 3U010000048BP01                 |\n| E-nummer: | 5257447                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 5213524                         | 5213548                                            | 5213549                             | 5213550                             | 5213559                         |\n| Produkten möter kraven enligt: | EMC Directive 2014/30EU, Low Voltage directive: 2014/35/EU CE directive according to 765/2008, Emission: EN61000-6-:2001,<br>EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001",  
+      "unit": "V"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "rackmontage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "rackmontage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "rackmontage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "standard",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kabeln och en 9-polig kontakt på andra änden om kabeln",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Milleteknik AB | | | | | | | Ursprungsland | Sverige | | | | | | ![](images/_page_0_Picture_9",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | | | | |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------|-------------------------------------|-------------------------------------|---------------------------------| | Adapter FLX to Battery shelf | Adpatern skall användas då man vill ansluta en batterihylla till våra NEO / NOVA / EN54 FLX M batteribackuper",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5257461",  
+      "5257462"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer",  
+      "ikelnamn"  
+    ]  
+  }  
+}
+

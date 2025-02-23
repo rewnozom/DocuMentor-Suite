@@ -1,0 +1,66 @@
+{  
+  "name": "Material",  
+  "raw_value": "Acrylonitrile<br>Butadine Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                  |\n\n# **SECTION 3: PHYSICAL DATA**\n\n| COMPONENTS                                                   | DENSITY<br>g/cm3 | MELTING/BOILING<br>(M/B) POINT     | SOLUBILITY<br>(H2O)       | ODOR                                | APPEARANCE                  |\n|--------------------------------------------------------------|------------------|------------------------------------|---------------------------|-------------------------------------|-----------------------------|\n| Lead                                                         | 11",  
+  "category": "MATERIAL",  
+  "unit": "O",  
+  "value": {  
+    "raw_value": "Acrylonitrile<br>Butadine Styrene (ABS) | ~5                 | 9003-56-9  | --                          | --   | --    | --                  |\n\n# **SECTION 3: PHYSICAL DATA**\n\n| COMPONENTS                                                   | DENSITY<br>g/cm3 | MELTING/BOILING<br>(M/B) POINT     | SOLUBILITY<br>(H2O)       | ODOR                                | APPEARANCE                  |\n|--------------------------------------------------------------|------------------|------------------------------------|---------------------------|-------------------------------------|-----------------------------|\n| Lead                                                         | 11",  
+    "unit": "O",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Acid | 10~20 | 7664-93-9 | 200 | 1000 | 1000 | 2140 | | Case Material: Acrylonitrile<br>Butadine Styrene (ABS) | ~5 | 9003-56-9 | -- | -- | -- | -- | # **SECTION 3: PHYSICAL DATA** | COMPONENTS | DENS...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50142572"  
+}
+
+{  
+  "name": "Material",  
+  "raw_value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | 1",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "<br>Acrylonitrile<br>Butadine<br>Styrene (ABS) | 1",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| 95°C -115°C , 203°F -<br>240°F (B) | 100% | Sharp, penetrating,<br>pungent odor | Clear Colorless<br>Liquid | | Case Material:<br>Acrylonitrile<br>B**utadine<br>Styrene (ABS) | 1.05-1.06 | 130-160°C...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50142572"  
+}
+
+{  
+  "name": "material",  
+  "raw_value": "contain/absorb small spills with dry sand, earth, and vermiculite",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "contain/absorb small spills with dry sand, earth, and vermiculite",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "uman evidence. ### **SECTION 8: PRECAUTIONS FOR SAFE HANDLING AND USE** #### **Spill or Leak Procedures** In case the release occurs, stop flow of mat**erial: contain/absorb small spills with dry sand...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50142572"  
+}
+

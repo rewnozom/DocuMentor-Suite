@@ -1,0 +1,140 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "to charge multiple devices at once or your family and friends want to share the power the PS300 is ready to satisfy the demand",  
+  "context": "nd other ports. # **Ideal for adventurous spirits** ![](images/_page_3_Picture_3.jpeg) ![](images/_page_3_Picture_2.jpeg) Whether you **need to charge multiple devices at once, or your family and friends want to share the power, the PS300 is ready to satisfy the demand.** Four different types of ports provide the power outputs1 that everybody needs. ### Multiple charging ports to satisfy m",  
+  "position": [  
+    1880,  
+    2014  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "extra ambient light for the great outdoors just turn on PS300's built-in LED light for illumination",  
+  "context": "erature Indicator* ### Built-in LED light for extra convenience Whenever you can't reach a flashlight in emergencies or **need extra ambient light for the great outdoors, just turn on PS300's built-in LED light for illumination.** ![](images/_page_7_Picture_2.jpeg) - 1 The maximum total output of the PS300 is 330W. If the output of the appliance's actual",  
+  "position": [  
+    4136,  
+    4242  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "adventurous spirits** ![](images/_page_3_Picture_3",  
+  "context": "The compact PS300 powers your essential electronics and small appliances5 via fast-charging USB-C and other ports. # **I**deal for adventurous spirits** ![](images/_page_3_Picture_3.j**peg) ![](images/_page_3_Picture_2.jpeg) Whether you need to charge multiple devices at once, or your family and friends want t",  
+  "position": [  
+    1780,  
+    1834  
+  ],  
+  "pattern_index": 54,  
+  "pattern": "(?i)ideal\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "without taking up much space",  
+  "context": "erybody needs. ### Multiple charging ports to satisfy multiple uses The PS300 stores easily in your garage or utility ro**om without taking up much space.** Whenever your house experiences an electrical outage, you'll have easy access to emergency power. ### Less anxiety for",  
+  "position": [  
+    2199,  
+    2231  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "multiple and versatile ways to recharge your power station",  
+  "context": "ciently charging devices4 . It's great when you're working or sleeping as it powers up your essential devices. Choose fr**om multiple and versatile ways to recharge your power station.** The PS300 is also solar-compatible to work with green energy sources. ![](images/_page_6_Picture_7.jpeg) ### Recharging can be",  
+  "position": [  
+    3550,  
+    3612  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "EZVIZ soon",  
+  "context": "n the smart screen will be displayed. - 2 A compatible solar panel must be purchased separately and will be available fr**om EZVIZ soon.** - 3 Based on test results from the EZVIZ Lab. After 1,000 full charge circles, the battery capacity will drop to around",  
+  "position": [  
+    4529,  
+    4543  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the EZVIZ Lab",  
+  "context": "compatible solar panel must be purchased separately and will be available from EZVIZ soon. - 3 Based on test results fro**m the EZVIZ Lab. **After 1,000 full charge circles, the battery capacity will drop to around 80% of its original capacity. - 4 When chargi",  
+  "position": [  
+    4572,  
+    4589  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Durable and easy to recharge the PS300 gives you reliable power whenever you need",  
+  "context": "ight-weight to use anywhere, the PS300 can charge multiple devices via four type of ports – including USB-C fast chargin**g. Durable and easy to recharge, the PS300 gives you reliable power whenever you need.** ![](images/_page_1_Figure_1.jpeg) ![](images/_page_1_Picture_2.jpeg) ![](images/_page_2_Picture_4.jpeg) ![](images/_page_2_Picture_6.jpeg) A power",  
+  "position": [  
+    1044,  
+    1130  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of ports – including USB-C fast charging",  
+  "context": "the emergency power you need. Compact and light-weight to use anywhere, the PS300 can charge multiple devices via four t**ype of ports – including USB-C fast charging. **Durable and easy to recharge, the PS300 gives you reliable power whenever you need. ![](images/_page_1_Figure_1.jpeg) ![](_pag",  
+  "position": [  
+    1000,  
+    1046  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "NCM Lithium-ion Lifecycle 1000 Cycles to 80%+ capacity | Method | Using DC input port Solar panel car port AC adapter<br>Using USB-C port USB-C cable | AC Outlets (×2)<br>/ | |--------------------|-----------------------------------------------------------------------------------------|--------------------------| | Full Recharge Time | USB-C cable 5~6 hours<br>Solar panel 7~8 hours | | | | Car port (12V/24V) 10~12 hours<br>AC adapter 7~10 hours | | | DC 5521 | Solar panel & car port 5-24V 2A (48W Max) | | | | AC adapter 18V 2A (36W Max) | | | USB-C | 5V 3A / 9V 3A / 15V 3A / 20V 3A (60W Max)<br>Compliance with PD Protocol | Output (When recharging) | | Solar Panel Input | 12-24V 2A (48W Max) | | | | | | - Management System Over Voltage Protection Overload Protection Over Temperature Protection Short Circuit Protection Low Temperature Protection Low Voltage Protection Overcurrent Protection Input | AC Outlets (×2) | 210V~245Vac( 50Hz)<br>Single 300W<br>Total 300W<br>Surge 500W | Battery | |--------------------|------------------------------------------------------------------------------------------|---------| | USB-A Outlets (×3) | Single 5V 2",  
+  "context": "Outlet (×1) Does not support | Capacity | 313Wh (10.95V) | |----------|----------------| |----------|----------------| T**ype NCM Lithium-ion Lifecycle 1000 Cycles to 80%+ capacity | Method | Using DC input port: Solar panel, car port, AC adapter<br>Using USB-C port: USB-C cable | AC Outlets (×2)<br>/ | |--------------------|-----------------------------------------------------------------------------------------|--------------------------| | Full Recharge Time | USB-C cable: 5~6 hours<br>Solar panel: 7~8 hours | | | | Car port (12V/24V): 10~12 hours<br>AC adapter: 7~10 hours | | | DC 5521 | Solar panel & car port: 5-24V 2A (48W Max) | | | | AC adapter: 18V 2A (36W Max) | | | USB-C | 5V 3A / 9V 3A / 15V 3A / 20V 3A (60W Max)<br>Compliance with PD Protocol | Output (When recharging) | | Solar Panel Input | 12-24V 2A (48W Max) | | | | | | - Management System Over Voltage Protection, Overload Protection, Over Temperature Protection, Short Circuit Protection, Low Temperature Protection, Low Voltage Protection, Overcurrent Protection Input | AC Outlets (×2) | 210V~245Vac( 50Hz)<br>Single: 300W<br>Total: 300W<br>Surge: 500W | Battery | |--------------------|------------------------------------------------------------------------------------------|---------| | USB-A Outlets (×3) | Single: 5V 2.4**A (12W Max)<br>Total: 30W Max | | | USB-C Outlet (×1) | 5V 3A / 9V 3A / 15V 3A / 20V 3A (60W Max)<br>Compliance with PD",  
+  "position": [  
+    5690,  
+    6877  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+

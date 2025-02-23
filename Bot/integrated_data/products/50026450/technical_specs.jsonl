@@ -1,0 +1,66 @@
+{  
+  "name": "Dimensions",  
+  "raw_value": "125x28 mm Weight: 91 gr Function: ON/OFF Finish: Anodized Battery: 3xAAA (included) Incl: Flashlight, lanyard and battery*\n\n![](images/_page_0_Picture_4",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "125x28 mm Weight: 91 gr Function: ON/OFF Finish: Anodized Battery: 3xAAA (included) Incl: Flashlight, lanyard and battery*\n\n![](images/_page_0_Picture_4",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## UV-1 Ultraviolet 3xAAA **FLASHLIGHT FOR FORENSIC USE , VERIFY MONEY, DNA, ID DOCUMENTS, ETC.** *Dime**nsions: 125x28 mm Weight: 91 gr Function: ON/OFF Finish: Anodized B...",  
+  "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 1,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50026450"  
+}
+
+{  
+  "name": "Weight",  
+  "raw_value": "91",  
+  "category": "WEIGHT",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "91",  
+    "unit": null,  
+    "normalized_value": 91.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "(_page_0_Picture_0.jpeg) ## UV-1 Ultraviolet 3xAAA **FLASHLIGHT FOR FORENSIC USE , VERIFY MONEY, DNA, ID DOCUMENTS, ETC.** *Dimensions: 125x28 mm Weig**ht: 91 gr Fu**nction: ON/OFF Finish: Anodized Ba...",  
+  "pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:kg|g)",  
+  "pattern_index": 53,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50026450"  
+}
+
+{  
+  "name": "Finish",  
+  "raw_value": "Anodized Battery: 3xAAA (included) Incl: Flashlight, lanyard and battery*\n\n![](images/_page_0_Picture_4",  
+  "category": "COLOR",  
+  "unit": "xAAA",  
+  "value": {  
+    "raw_value": "Anodized Battery: 3xAAA (included) Incl: Flashlight, lanyard and battery*\n\n![](images/_page_0_Picture_4",  
+    "unit": "xAAA",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "-1 Ultraviolet 3xAAA **FLASHLIGHT FOR FORENSIC USE , VERIFY MONEY, DNA, ID DOCUMENTS, ETC.** *Dimensions: 125x28 mm Weight: 91 gr Function: ON/OFF Fin**ish: Anodized Battery: 3xAAA (included) Incl: Fl...",  
+  "pattern": "(?i)(?:finish|finish)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 128,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50026450"  
+}
+

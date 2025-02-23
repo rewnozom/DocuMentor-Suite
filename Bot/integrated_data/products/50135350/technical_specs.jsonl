@@ -1,0 +1,132 @@
+{  
+  "name": "Performance",  
+  "raw_value": "IEC/EN 62040-3\n- IEC 61000-4-2 (ESD): level 4",  
+  "category": "PERFORMANCE",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "IEC/EN 62040-3\n- IEC 61000-4-2 (ESD): level 4",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "on in an environment within 0 to 50°C, free of conductive contaminant. ### **Certification standards** - Safety: EN 62040-1 - EMC: IEC/EN 62040-2 - Pe**rformance: IEC/EN 62040-3 - IEC 61000-4-2 (ESD):...",  
+  "pattern": "(?i)(?:prestanda|performance)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 87,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135350"  
+}
+
+{  
+  "name": "EMC",  
+  "raw_value": "IEC/EN 62040-2\n- Performance: IEC/EN 62040-3\n- IEC 61000-4-2 (ESD): level 4",  
+  "category": "ENVIRONMENTAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "IEC/EN 62040-2\n- Performance: IEC/EN 62040-3\n- IEC 61000-4-2 (ESD): level 4",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ntended for installation in an environment within 0 to 50°C, free of conductive contaminant. ### **Certification standards** - Safety: EN 62040-1 - EM**C: IEC/EN 62040-2 - Performance: IEC/EN 62040-3 ...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135350"  
+}
+
+{  
+  "name": "USB",  
+  "raw_value": "2400<br>bps                                         |\n| Dry out             | 2 pins jumper (normally closed)                          |\n| Dry in              | 2 pins jumper (normally closed)                          |\n| Emergency Power Off | 3 pins jumper (normally closed)                          |\n\n![](images/_page_58_Picture_0",  
+  "category": "CONNECTION",  
+  "unit": "pins",  
+  "value": {  
+    "raw_value": "2400<br>bps                                         |\n| Dry out             | 2 pins jumper (normally closed)                          |\n| Dry in              | 2 pins jumper (normally closed)                          |\n| Emergency Power Off | 3 pins jumper (normally closed)                          |\n\n![](images/_page_58_Picture_0",  
+    "unit": "pins",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Communication ports | RS-232 (DB9): 2400<br>bps | | | USB: 2400<br>bps | | Dry out | 2 pins jumper (normally closed) | | Dry in | 2 pins jumper (normally closed) | | Emergency Power Off | 3 pins j...",  
+  "pattern": "(?i)(?:USB|USB-port)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 147,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135350"  
+}
+
+{  
+  "name": "ce",  
+  "raw_value": "IEC/EN 62040-3\n- IEC 61000-4-2 (ESD): level 4",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "IEC/EN 62040-3\n- IEC 61000-4-2 (ESD): level 4",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "environment within 0 to 50°C, free of conductive contaminant. ### **Certification standards** - Safety: EN 62040-1 - EMC: IEC/EN 62040-2 - Performance**: IEC/EN 62040-3 - IEC 61000-4-2 (ESD): level 4....",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135350"  
+}
+
+{  
+  "name": "installation",  
+  "raw_value": "**\n\n- 1",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "**\n\n- 1",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "take the unit into 'Stabilizer bracket'. ![](images/_page_16_Picture_6.jpeg) ![](images/_page_16_Picture_7.jpeg) #### **3.5 Install the EBM** #### **Tower EBM insta**llation:** - 1. Plac**e the unit on a flat, stab...",  
+  "pattern": "(?i)(?:installation|installation)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 190,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135350"  
+}
+
+{  
+  "name": "installation",  
+  "raw_value": "Rack position installing**\n\n![](images/_page_18_Picture_0",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "Rack position installing**\n\n![](images/_page_18_Picture_0",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "EBM, please contact with local sale center. If installing additional unit, place it next to the previous unit in their final location. ### **RT EBM in**stallation: Rack position installing** ![](images/_page...",  
+  "pattern": "(?i)(?:installation|installation)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 190,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135350"  
+}
+

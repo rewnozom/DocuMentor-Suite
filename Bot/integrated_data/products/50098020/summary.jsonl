@@ -1,0 +1,65 @@
+{  
+  "product_id": "50098020",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "En riktig 19\" strömförsörjning som är helt färdig med rackvinklar och som har plats för batterier. Väldigt enkel inkoppling och snygg design. Passar i standard 19\" stativ med korta fästjärn. Lämplig för drift av alla typer av svagströmsanläggningar som elektronikutrustningar, telecom, larm, styr, och passagesystem.\n\nUtförande: Aggregatet är utfört i kiselgrå självventilerad plåtkapsling och avsett för 19\" montage. SM3100 är primärswitchad och har mycket lågt rippel och noggrann utspänning. De...",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "standard 19\" stativ med korta fästjärn",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "drift av alla typer av svagströmsanläggningar som elektronikutrustningar telecom larm styr och passagesystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "fits",  
+      "related_product": "standard 19\" stativ med korta fästjärn",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är helt färdig med rackvinklar och som har plats för batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "elektronikutrustningar telecom larm styr och passagesystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "AC och DC får använda arbeta **Strömförsörjning med plats för batteri** > serva/underhålla installera denna enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Det finns 6st genomförningar bakåt",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- Vid behov justera utspänningen med V2",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

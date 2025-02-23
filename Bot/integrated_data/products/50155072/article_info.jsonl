@@ -1,0 +1,28 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ning • Larmfunktion som standard för nättavbrott alternativt låg batterispänning (1 utgång) #### **A**rtikelnummer**** • ASSA ABLOY 10PS: S55299210165 ### **Tillbehör** • Batteribox ASSA ABLOY BB: S55299200165 • Batt",  
+  "source": "regex",  
+  "product_id": "50155072"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ning • Larmfunktion som standard för nättavbrott alternativt låg batterispänning (1 utgång) #### **A**rtikelnummer**** • ASSA ABLOY 10PS: S55299210165 ### **Tillbehör** • Batteribox ASSA ABLOY BB: S55299200165 • Batt",  
+  "source": "regex",  
+  "product_id": "50155072"  
+}
+

@@ -1,0 +1,14 @@
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_0_Picture_4",  
+  "context": "tare 2 st NO IP klass: IP67 Nominell märkström från: 0,1 A - 10 A/250 V AC Lägsta märkström 1mA/4 V DC ## Hålbildsritnin**g: ![](images/_page_0_Picture_4.**jpeg) ![](images/_page_0_Picture_5.jpeg) Tillval: Går att beställa med: - * NO/NC Mikrobrytare - * Radiostyrning - * Styrenhet",  
+  "position": [  
+    220,  
+    245  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155019"  
+}
+

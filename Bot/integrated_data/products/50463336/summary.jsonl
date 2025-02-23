@@ -1,0 +1,65 @@
+{  
+  "product_id": "50463336",  
+  "generated_at": "20250223_002304",  
+  "product_name": "600179 EAN: 7320896001794 Cert**ifiering: CE • **VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter an",  
+  "description": "Brandsläckaren kan också användas vid bränder i elektriska installationer som uppgår till 1000 Volt. Vid släckning av bränder i elektriska installationer skall du hålla ett säkerhetsavstånd på minst 1 meter. **Typiska användningsområde:** Industri, offentlig verksamhet, verkstäder, jordbruk, sjöfart, offshore, transport, fordon, fritidsbåtar och andra platser där hög prestanda är avgörande.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "material",  
+      "value": "| Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 8",  
+      "unit": null  
+    },  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "Effektivitetsklass",  
+      "value": "| 55A 233B C       |\n| Temperaturområde: -30 °C / +60 °C |                  |\n| Släckmedel: | SUN ABC Standard |\n| Storlek släckare: | 6 kg             |\n| Tömningstid: | 22 s             |\n| Kastlängd: | 4-6 m            |\n| Arbetstryck: | 15 Bar           |\n| Arbetstryck: | 15 Bar           |\n| Cylindermaterial: | Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 8",  
+      "unit": "A"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "är avsett för släckning av bränder i olika material såsom trä papper tyger brandfarliga vätskor och kemikalier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "uppgår till 1000 Volt",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "branden är beroende av",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "PE6HR-B Artikel 600179 EAN 7320896001794 Certifiering CE *VIKTIGT Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "600179",  
+        "7320896001794"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Pulvret bidrar också till att kväva branden då syret trängs bort",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Om släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "7320896001794"  
+    ],  
+    "Artikelnummer": [  
+      "600179"  
+    ]  
+  }  
+}
+

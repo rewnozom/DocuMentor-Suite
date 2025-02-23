@@ -1,0 +1,45 @@
+{  
+  "product_id": "50153337",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "En räddare i nöden. Vrid på lamphuvudet och ändra ljusbilden. Två ljuslägen och SOS-läge.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Storlek",  
+      "value": "S\n- Räckvidd: 100 m\n- Styrka: 300 lumen\n- Batteritid: 15 h\n- Ljuslägen: Hög, låg, SOS\n- Variabel ljusbild\n- Striltät (IPX4)\n\n### **ARTICLE INFORMATION:** Art",  
+      "unit": "m"  
+    },  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "Batteritid",  
+      "value": "15",  
+      "unit": null  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "Räckvidd",  
+      "value": "100",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "Hög låg SOS - Variabel ljusbild - Striltät (IPX4) ### **ARTICLE INFORMATION** Art",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "4891199183874"  
+    ],  
+    "E-nummer": [  
+      "9451708"  
+    ],  
+    "Artikelnummer": [  
+      "450052"  
+    ]  
+  }  
+}
+

@@ -1,0 +1,168 @@
+{
+  "timestamp": "20250222_235136",
+  "total_pro_files": 646,
+  "total_files_processed": 646,
+  "documents_with_compatibility": 618,
+  "documents_without_compatibility": 27,
+  "compatibility_coverage_percentage": 95.6656346749226,
+  "total_compatibility_relations_found": 21295,
+  "average_relations_per_document": 34.457928802588995,
+  "pattern_group_counts": {
+    "basic": 589,
+    "direct": 155,
+    "requires": 761,
+    "recommended": 100,
+    "fits": 104,
+    "designed_for": 26,
+    "accessory": 72,
+    "replacement": 258,
+    "condition": 12050,
+    "family": 0,
+    "version": 7167,
+    "negative": 9,
+    "article_relation": 4,
+    "list_relation": 0
+  },
+  "relation_type_distribution": {
+    "version": 7167,
+    "condition": 12050,
+    "basic": 589,
+    "recommended": 100,
+    "requires": 761,
+    "replacement": 258,
+    "direct": 155,
+    "accessory": 72,
+    "fits": 104,
+    "article_relation": 4,
+    "designed_for": 26,
+    "negative": 9
+  },
+  "pattern_performance_summary": {
+    "top_patterns": [
+      {
+        "pattern_index": 101,
+        "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "condition",
+        "matches": 10455
+      },
+      {
+        "pattern_index": 125,
+        "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 4299
+      },
+      {
+        "pattern_index": 102,
+        "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "condition",
+        "matches": 1142
+      },
+      {
+        "pattern_index": 124,
+        "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 974
+      },
+      {
+        "pattern_index": 128,
+        "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 850
+      },
+      {
+        "pattern_index": 38,
+        "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "requires",
+        "matches": 392
+      },
+      {
+        "pattern_index": 129,
+        "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 261
+      },
+      {
+        "pattern_index": 1,
+        "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "basic",
+        "matches": 193
+      },
+      {
+        "pattern_index": 127,
+        "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "version",
+        "matches": 186
+      },
+      {
+        "pattern_index": 31,
+        "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "requires",
+        "matches": 186
+      }
+    ],
+    "low_performing_patterns": [
+      {
+        "pattern_index": 85,
+        "pattern": "(?i)ersätts\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "replacement",
+        "matches": 1
+      },
+      {
+        "pattern_index": 135,
+        "pattern": "(?i)(?:passar|fungerar)\\s+(?:inte|ej)\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "negative",
+        "matches": 1
+      },
+      {
+        "pattern_index": 54,
+        "pattern": "(?i)ideal\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "recommended",
+        "matches": 1
+      },
+      {
+        "pattern_index": 110,
+        "pattern": "(?i)förut?sättning(?:ar)?:\\s*([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "condition",
+        "matches": 1
+      },
+      {
+        "pattern_index": 143,
+        "pattern": "(?i)not\\s+intended\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "negative",
+        "matches": 1
+      },
+      {
+        "pattern_index": 67,
+        "pattern": "(?i)specially\\s+designed\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "designed_for",
+        "matches": 2
+      },
+      {
+        "pattern_index": 33,
+        "pattern": "(?i)måste\\s+ha\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "requires",
+        "matches": 2
+      },
+      {
+        "pattern_index": 60,
+        "pattern": "(?i)(?:can\\s+be|är)\\s+monterad\\s+(?:på|i)\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "fits",
+        "matches": 2
+      },
+      {
+        "pattern_index": 22,
+        "pattern": "(?i)kan\\s+kopplas\\s+till\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "direct",
+        "matches": 2
+      },
+      {
+        "pattern_index": 76,
+        "pattern": "(?i)accessor(?:y|ies)\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",
+        "group": "accessory",
+        "matches": 2
+      }
+    ]
+  },
+  "suggested_patterns_count": 10,
+  "discovered_patterns_count": 0
+}

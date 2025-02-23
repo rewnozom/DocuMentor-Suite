@@ -1,0 +1,98 @@
+{  
+  "identifier": "5785143875090",  
+  "original": "5785143875090",  
+  "type": "EAN-13",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 2, faktisk: 0)",  
+  "group": "ean13",  
+  "pattern_index": 5,  
+  "pattern": "(?<!\\d)(\\d{13})(?!\\d)",  
+  "context": "ej överskridas. Maxström står angiven på [märkskylt](https://milleteknik.zendesk.com/hc/sv/articles/**5785143875090**-CE-märkning-märkskylt) på enheten. ![](images/_page_12_Picture_4.jpeg) ### **FARA** Nätspänning skall v",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "identifier": "erably",  
+  "original": "erably",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "wall to mount the cabinet. The distance between the screw head and the wall should be 1.5–2 mm. Pref**erably le**ave a 100 mm air gap around the unit. <span id=\"page-32-0\"></span>![](images/_page_32_Figure_0.jpeg) #",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "identifier": "kabel",  
+  "original": "kabel",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "lation och batteribyte. • 2. Koppla på säkringar på batterier. Anslut röd kabel till + (plus) och sv**art kabel** till (minus) • 3. Koppla på kablar från batteribackup på batterier. Anslut röd kabel till + (plus)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "identifier": "icles",  
+  "original": "icles",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "tröm får ej överskridas. Maxström står angiven på [märkskylt](https://milleteknik.zendesk.com/hc/sv/**articles**/5785143875090-CE-märkning-märkskylt) på enheten. ![](images/_page_12_Picture_4.jpeg) ### **FARA** Nätsp",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "identifier": "ikelben",  
+  "original": "ikelben",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "------------------------------------------------------------------------------------------------| | **Artikelben**ämning | CEO3-ECO",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ra-batteri. | 12 V | 2,3 Ah | | Tabell 15. 6+ Design life* batteri | Artikelnummer | E-nummer | Arti**kelnamn | T**erminal | Mått. Höjd,<br>bredd, djup | Vikt per<br>",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "identifier": "ikkelnavn",  
+  "original": "ikkelnavn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "blybatteri. | 12 V | 2,3 Ah | Tabell 15. 6+ Designlevetid* batteri | Artikkelnummer | E-nummer | Art**ikkelnavn | **Terminal | Mål. Høyde bred<br>de dybde | Vekt per<br>st",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+

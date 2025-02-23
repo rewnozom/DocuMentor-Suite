@@ -1,0 +1,42 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Plast (Acetalplast) ### Rengöring Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+  "context": "märkström 1mA/4 V DC ## Hålbildsritning: ![](images/_page_0_Picture_4.jpeg) ![](images/_page_0_Picture_5.jpeg) Material: Alu.6060-T6 P**OM Plast (Acetalplast) ### Rengöring: Kontakten går att rengöra med alla förekommande rengöringsmedel.** #### Tillval: Går att beställa med: - * NO/NC Mikrobrytare - * Radiostyrning - * Styrenhet med 2 utgångar - * Universie",  
+  "position": [  
+    301,  
+    403  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155018"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_0_Picture_4",  
+  "context": "tare 2 st NO IP klass: IP67 Nominell märkström från: 0,1 A - 10 A/250 V AC Lägsta märkström 1mA/4 V DC ## Hålbildsritnin**g: ![](images/_page_0_Picture_4.**jpeg) ![](images/_page_0_Picture_5.jpeg) Material: Alu.6060-T6 POM Plast (Acetalplast) ### Rengöring: Kontakten går att rengöra",  
+  "position": [  
+    219,  
+    244  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155018"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakten går att rengöra med alla förekommande rengöringsmedel",  
+  "context": "ning: ![](images/_page_0_Picture_4.jpeg) ![](images/_page_0_Picture_5.jpeg) Material: Alu.6060-T6 POM Plast (Acetalplast) ### Rengörin**g: Kontakten går att rengöra med alla förekommande rengöringsmedel.** #### Tillval: Går att beställa med: - * NO/NC Mikrobrytare - * Radiostyrning - * Styrenhet med 2 utgångar - * Universie",  
+  "position": [  
+    336,  
+    403  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155018"  
+}
+

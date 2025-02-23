@@ -1,0 +1,110 @@
+{  
+  "name": "batterityp",  
+  "raw_value": "| 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4                                                                                                                                                                                     |\n| Möjliga batterier för montering i kapsling: | 1 st",  
+  "category": "ELECTRICAL",  
+  "unit": "V",  
+  "value": {  
+    "raw_value": "| 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4                                                                                                                                                                                     |\n| Möjliga batterier för montering i kapsling: | 1 st",  
+    "unit": "V",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | Möjliga batterier för montering i kapsling: | 1 st. 2,3Ah eller 1 st. 7,2Ah batteri",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156352"  
+}
+
+{  
+  "name": "Skyddsklass",  
+  "raw_value": "| Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet / IP32                                                                                                                                                                                       |\n| Omgivningstemperatur: | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C)                                                                                                                                                                                    |\n| Rekommenderad montering: | Väggmontage                                                                                                                                                                                                                                     |\n| Dimension (Höjd x Bredd x Djup): | 230x216x85 mm                                                                                                                                                                                                                                   |\n| Nettovikt: | 3 kg                                                                                                                                                                                                                                            |\n| Antal kabelgenomföringar: | 3 stycken                                                                                                                                                                                                                                       |\n| Kapslingens färg: | Vit                                                                                                                                                                                                                                             |\n| Inbyggd fläkt för kylning: | Nej                                                                                                                                                                                                                                             |\n| INFORMATION OM INBYGGD POE INJECTOR: |                                                                                                                                                                                                                                                 |\n| Antal LAN / PoE portar: | 1 / 1                                                                                                                                                                                                                                           |\n| Max effekt per port: | 25W                                                                                                                                                                                                                                             |\n| PoE Budget: | 25W                                                                                                                                                                                                                                             |\n| Ethernettyp: | Injector                                                                                                                                                                                                                                        |\n| Typ av nätverksport: | 10 / 100 PoE+                                                                                                                                                                                                                                   |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |\n| Stöd för standard enligt: | IEEE 802",  
+  "category": "ELECTRICAL",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet / IP32                                                                                                                                                                                       |\n| Omgivningstemperatur: | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C)                                                                                                                                                                                    |\n| Rekommenderad montering: | Väggmontage                                                                                                                                                                                                                                     |\n| Dimension (Höjd x Bredd x Djup): | 230x216x85 mm                                                                                                                                                                                                                                   |\n| Nettovikt: | 3 kg                                                                                                                                                                                                                                            |\n| Antal kabelgenomföringar: | 3 stycken                                                                                                                                                                                                                                       |\n| Kapslingens färg: | Vit                                                                                                                                                                                                                                             |\n| Inbyggd fläkt för kylning: | Nej                                                                                                                                                                                                                                             |\n| INFORMATION OM INBYGGD POE INJECTOR: |                                                                                                                                                                                                                                                 |\n| Antal LAN / PoE portar: | 1 / 1                                                                                                                                                                                                                                           |\n| Max effekt per port: | 25W                                                                                                                                                                                                                                             |\n| PoE Budget: | 25W                                                                                                                                                                                                                                             |\n| Ethernettyp: | Injector                                                                                                                                                                                                                                        |\n| Typ av nätverksport: | 10 / 100 PoE+                                                                                                                                                                                                                                   |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |\n| Stöd för standard enligt: | IEEE 802",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Rekommenderad miljö / Skyddsklass: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet / IP32 | | Omgivningstemperatur: | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | Rekommen...",  
+  "pattern": "(?i)(?:skyddsklass|protection class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 52,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156352"  
+}
+
+{  
+  "name": "färg",  
+  "raw_value": "| Vit                                                                                                                                                                                                                                             |\n| Inbyggd fläkt för kylning: | Nej                                                                                                                                                                                                                                             |\n| INFORMATION OM INBYGGD POE INJECTOR: |                                                                                                                                                                                                                                                 |\n| Antal LAN / PoE portar: | 1 / 1                                                                                                                                                                                                                                           |\n| Max effekt per port: | 25W                                                                                                                                                                                                                                             |\n| PoE Budget: | 25W                                                                                                                                                                                                                                             |\n| Ethernettyp: | Injector                                                                                                                                                                                                                                        |\n| Typ av nätverksport: | 10 / 100 PoE+                                                                                                                                                                                                                                   |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |\n| Stöd för standard enligt: | IEEE 802",  
+  "category": "COLOR",  
+  "unit": "W",  
+  "value": {  
+    "raw_value": "| Vit                                                                                                                                                                                                                                             |\n| Inbyggd fläkt för kylning: | Nej                                                                                                                                                                                                                                             |\n| INFORMATION OM INBYGGD POE INJECTOR: |                                                                                                                                                                                                                                                 |\n| Antal LAN / PoE portar: | 1 / 1                                                                                                                                                                                                                                           |\n| Max effekt per port: | 25W                                                                                                                                                                                                                                             |\n| PoE Budget: | 25W                                                                                                                                                                                                                                             |\n| Ethernettyp: | Injector                                                                                                                                                                                                                                        |\n| Typ av nätverksport: | 10 / 100 PoE+                                                                                                                                                                                                                                   |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |\n| Stöd för standard enligt: | IEEE 802",  
+    "unit": "W",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Kapslingens färg: | Vit | | Inbyggd fläkt för kylning: | Nej | | INFORMATION OM INBYGGD POE INJECTOR: | | | Antal LAN / PoE portar: | 1 / 1 | | Max effekt per port: | 25W | | PoE Budget: | 25W | |...",  
+  "pattern": "(?i)(?:färg|color)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 123,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156352"  
+}
+
+{  
+  "name": "nätverksport",  
+  "raw_value": "| 10 / 100 PoE+                                                                                                                                                                                                                                   |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |\n| Stöd för standard enligt: | IEEE 802",  
+  "category": "NETWORK",  
+  "unit": "PoE",  
+  "value": {  
+    "raw_value": "| 10 / 100 PoE+                                                                                                                                                                                                                                   |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                |\n| Stöd för standard enligt: | IEEE 802",  
+    "unit": "PoE",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Typ av nätverksport: | 10 / 100 PoE+ | | Gränssnit: | 1000Base-T RJ-45 | | Stöd för standard enligt: | IEEE 802.3at, IEEE 802.3af",  
+  "pattern": "(?i)(?:nätverksport|network port)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 140,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156352"  
+}
+
+{  
+  "name": "utgångar",  
+  "raw_value": "| 1 st",  
+  "category": "CONNECTION",  
+  "unit": "st",  
+  "value": {  
+    "raw_value": "| 1 st",  
+    "unit": "st",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Antal avsäkrade utgångar: | 1 st.",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50156352"  
+}
+

@@ -1,0 +1,42 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+  "context": "### **Constant Power Performance (21°C)** Typical Characteristics to 1.0 V ![](images/_page_0_Figure_7.jpeg) The information (s**ubject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty. **For applications other than those described here, please consult your nearest GP Sales and Marketing Office or Distribu",  
+  "position": [  
+    1113,  
+    1270  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50026397"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Digital cameras<br>photoflash toys shavers universal<br>handheld GPS devices | | | | | Shelf life | 10 years at 21°C (80% rated capacity) | | | | | Average Weight | 14",  
+  "context": "and flat negative(-)<br>contacts | | | | | Jacket | : Foil jacket | | | | | Applications | : All electronic devices, e.g**. Digital cameras,<br>photoflash, toys, shavers, universal<br>handheld GPS devices | | | | | Shelf life | : 10 years at 21°C (80% rated capacity) | | | | | Average Weight | : 14.5**g | | | | # **Cross References:** | GP | JIS | IEC | Energizer | Duracell | |------|-----|-----|-----------|----------|",  
+  "position": [  
+    591,  
+    770  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50026397"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "and specification without prior notice",  
+  "context": "ur nearest GP Sales and Marketing Office or Distributors. Manufacturer reserves the right to alter or amend the design, **model and specification without prior notice.** # **Model No.:GP15LF** ![](images/_page_0_Figure_12.jpeg) **Application Tests(23±2°C)** ![](images/_page_0_Figure_14.jpeg) ![](images/_page_",  
+  "position": [  
+    1458,  
+    1503  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50026397"  
+}
+

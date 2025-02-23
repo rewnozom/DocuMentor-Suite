@@ -1,0 +1,14 @@
+{  
+  "identifier": "556289017701",  
+  "original": "556289017701",  
+  "type": "UPC-A",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)",  
+  "group": "upc",  
+  "pattern_index": 40,  
+  "pattern": "(?<!\\d)(\\d{12})(?!\\d)",  
+  "context": "320 Hemsida/Webb www.swtm.se Telefax nr/Telefax no +46(0)303-748 490 e-post info@swtm.se VAT.NO SE556289017701",  
+  "source": "regex",  
+  "product_id": "50140418"  
+}
+

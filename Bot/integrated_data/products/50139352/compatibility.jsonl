@@ -1,0 +1,154 @@
+{  
+  "relation_type": "recommended",  
+  "related_product": "användning i brandlarmsinstallationer",  
+  "context": "+ 0,7 A Intelligent strömförsörjning #### Allmänt STX2410-E är ett fullt utrustad och EN54-4 godkänd strömförsörjning, i**dealisk för användning i brandlarmsinstallationer. **Den har intelligent batteriladdning, övervakning och signalering. Den reglerade spänningsutgången ger 27,6 VDC, klarar",  
+  "position": [  
+    199,  
+    250  
+  ],  
+  "pattern_index": 53,  
+  "pattern": "(?i)idealisk(?:t)?\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en aktiv batteriövervakning och laddning i tre laddningsnivåer snabb absorb eller temperaturkompenserad beroende på batteriernas tillstånd",  
+  "context": "kraftsbatterierna och är försedd med ett elektronisktkortslutningsskydd. Maximallivslängd på batterierna säkerställs gen**om en aktiv batteriövervakning och laddning i tre laddningsnivåer: snabb, absorb eller temperaturkompenserad beroende på batteriernas tillstånd.** När batterierna är fulladdade växlar aggregatet över till Eco-strömsparläge, där batterierna laddas fyra timmar varje 2",  
+  "position": [  
+    556,  
+    700  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "finns ett RS232 seriellt gränssnitt som kan tillhandahålla information om diagnostik och felrapportering till ett övervakningssystem",  
+  "context": "as. Batteriladdningskretsen aktiveras endast när ett batteri är korrekt anslutet och spänningen är högre än 14 V. Dessut**om finns ett RS232 seriellt gränssnitt som kan tillhandahålla information om diagnostik och felrapportering till ett övervakningssystem.** ![](images/_page_0_Picture_7.jpeg) #### Standardprestanda - EGodkänd enligt EN54-4/CPR - ENominell reglerad spänningsutgång me",  
+  "position": [  
+    1746,  
+    1882  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "reducerar strömförbrukningen - EBatteriövervakning detekterar saknat batteri lågbatterispänning kortslutning polaritetsvändning och impedansfel - EElektroniskt kortslutningsskydd kopplar ner utgången tills dess att överlasten eller kortslutningen försvinner # STX2410-E EN 54-4 godkänd 24 V 10 A + 07 A Intelligent strömförsörjning ### Tekniska data | Elektriskt | | |------------------------------------------------|------------------------------------------------------------------------------------------------------| | Märkspänning | 110 till 240 VAC | | Strömförbrukning | 4 A max vid full belastning | | Utgång | | | Spänning | 276 VDC | | Utgångsström | 10 A | | Rippel | 100 mV max | | Konstant strömladdning | 07 A | | Standby batteri | | | Kapacitet i kapsling/extern<br>batteribox | 2 x 17 Ah / 2 x 65 Ah | | L | Konstant snabbladdning till 80 % kapacitet inom<br>24 timmar",  
+  "context": "E2 x Reläutgångar: Fel & Nätfel - ETemperaturkompenserad laddning - ENätspänning 110 - 240 VAC - EEcoCharge teknologi so**m reducerar strömförbrukningen - EBatteriövervakning detekterar saknat batteri, lågbatterispänning, kortslutning, polaritetsvändning och impedansfel - EElektroniskt kortslutningsskydd kopplar ner utgången tills dess att överlasten eller kortslutningen försvinner # STX2410-E EN 54-4 godkänd, 24 V 10 A + 0,7 A Intelligent strömförsörjning ### Tekniska data | Elektriskt | | |------------------------------------------------|------------------------------------------------------------------------------------------------------| | Märkspänning | 110 till 240 VAC | | Strömförbrukning | 4 A max vid full belastning | | Utgång | | | Spänning | 27,6 VDC | | Utgångsström | 10 A | | Rippel | 100 mV max | | Konstant strömladdning | 0,7 A | | Standby batteri | | | Kapacitet i kapsling/extern<br>batteribox | 2 x 17 Ah / 2 x 65 Ah | | L | Konstant snabbladdning till 80 % kapacitet inom<br>24 timmar. **Hålladdning till 100 % inom 48 timmar. | | Djupurladdningsskydd | Tröskelspänning 21 V | | Tröskelspänning för<br>varni",  
+  "position": [  
+    2477,  
+    3372  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "48 timmar",  
+  "context": "| 2 x 17 Ah / 2 x 65 Ah | | L | Konstant snabbladdning till 80 % kapacitet inom<br>24 timmar. Hålladdning till 100 % ino**m 48 timmar. **| | Djupurladdningsskydd | Tröskelspänning 21 V | | Tröskelspänning för<br>varning av lågt batteri | 23 V | | Mekaniska",  
+  "position": [  
+    3398,  
+    3411  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är fulladdade växlar aggregatet över till Eco-strömsparläge där batterierna laddas fyra timmar varje 24-timmarsperiod med kontinuerlig övervakning",  
+  "context": "kning och laddning i tre laddningsnivåer: snabb, absorb eller temperaturkompenserad beroende på batteriernas tillstånd. **När batterierna är fulladdade växlar aggregatet över till Eco-strömsparläge, där batterierna laddas fyra timmar varje 24-timmarsperiod med kontinuerlig övervakning.** EcoCharge-tekniken minskar slöseri av energi vid laddning av redan fulladdade batterier och förlänger batteriernas livs",  
+  "position": [  
+    701,  
+    865  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ett batteri är korrekt anslutet och spänningen är högre än 14 V",  
+  "context": "pporteras till övervakningsutrustningen så att lämpliga åtgärder kan vidtagas. Batteriladdningskretsen aktiveras endast **när ett batteri är korrekt anslutet och spänningen är högre än 14 V.** Dessutom finns ett RS232 seriellt gränssnitt som kan tillhandahålla information om diagnostik och felrapportering till",  
+  "position": [  
+    1671,  
+    1739  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Dessutom finns ett RS232 seriellt gränssnitt som kan tillhandahålla information om diagnostik och felrapportering till ett övervakningssystem",  
+  "context": "an vidtagas. Batteriladdningskretsen aktiveras endast när ett batteri är korrekt anslutet och spänningen är högre än 14 **V. Dessutom finns ett RS232 seriellt gränssnitt som kan tillhandahålla information om diagnostik och felrapportering till ett övervakningssystem.** ![](images/_page_0_Picture_7.jpeg) #### Standardprestanda - EGodkänd enligt EN54-4/CPR - ENominell reglerad spänningsutgång me",  
+  "position": [  
+    1737,  
+    1882  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Den reglerade spänningsutgången ger 276 VDC klarar en last på 10 A ger samtidigt upp till 07 A för att ladda reservkraftsbatterierna och är försedd med ett elektronisktkortslutningsskydd",  
+  "context": "ing, idealisk för användning i brandlarmsinstallationer. Den har intelligent batteriladdning, övervakning och signalerin**g. Den reglerade spänningsutgången ger 27,6 VDC, klarar en last på 10 A, ger samtidigt upp till 0,7 A för att ladda reservkraftsbatterierna och är försedd med ett elektronisktkortslutningsskydd.** Maximallivslängd på batterierna säkerställs genom en aktiv batteriövervakning och laddning i tre laddningsnivåer: snabb",  
+  "position": [  
+    314,  
+    508  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "EcoCharge-tekniken minskar slöseri av energi vid laddning av redan fulladdade batterier och förlänger batteriernas livslängd",  
+  "context": "gatet över till Eco-strömsparläge, där batterierna laddas fyra timmar varje 24-timmarsperiod med kontinuerlig övervaknin**g. EcoCharge-tekniken minskar slöseri av energi vid laddning av redan fulladdade batterier och förlänger batteriernas livslängd.** Djupurladdningsskyddet förhindrar förtida batterifel vid drift och standby under längre perioder. #### Installation A S",  
+  "position": [  
+    863,  
+    991  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Det finns två potentialfria reläutgångar för fel",  
+  "context": "vå 17 Ah batterier (medföljer ej). Kapslingen är av vitlackerad metall och försedd med hål för enkel installation på väg**g. Det finns två potentialfria reläutgångar för fel.** Den ena utgången aktiveras vid fel på utspänning, batterifel, laddningsfel eller intern fel. Den andra utgången aktiver",  
+  "position": [  
+    1306,  
+    1358  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50139352"  
+}
+

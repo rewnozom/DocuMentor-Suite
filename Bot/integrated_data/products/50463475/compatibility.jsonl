@@ -1,0 +1,241 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "drift av brandlarmsutrustning med display",  
+  "context": "Tillbehör | | | Ethernet interface | Distansövervakning | | | Sparade loggar | ## BESKRIVNING Strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning med display.** Certifierad av tredje part enl. EN54-4 och EN 12101-10. Primärswitch teknik som är högeffektiv och är strömsnål och har",  
+  "position": [  
+    802,  
+    857  
+  ],  
+  "pattern_index": 8,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "designed_for",  
+  "related_product": "drift av brandlarmsutrustning med display",  
+  "context": "Tillbehör | | | Ethernet interface | Distansövervakning | | | Sparade loggar | ## BESKRIVNING Strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning med display.** Certifierad av tredje part enl. EN54-4 och EN 12101-10. Primärswitch teknik som är högeffektiv och är strömsnål och har",  
+  "position": [  
+    802,  
+    857  
+  ],  
+  "pattern_index": 69,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är högeffektiv och är strömsnål och har mycket stabil utspänning",  
+  "context": "drift av brandlarmsutrustning med display. Certifierad av tredje part enl. EN54-4 och EN 12101-10. Primärswitch teknik s**om är högeffektiv och är strömsnål och har mycket stabil utspänning.** Mycket låg egenförbrukningen vid batteridrift. Har display för volt, ampere och batteristatus. Programmerbar fördröjnin",  
+  "position": [  
+    935,  
+    1003  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har övervakning och larm",  
+  "context": "kort Övervakning av driftsparametrarna: Nät, utspänning, temperatur och batteriresistans, batterispänning Två utgångar s**om har övervakning och larm.** #### Utförande: Aggregaten är utförda i röd självventilerad plåtkapsling och avsett för väggmontage. Förberedd för 9st",  
+  "position": [  
+    1311,  
+    1339  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "17Ah Postadress/Postal address **Swansons Telemekanik AB** Osbackevägen 5 SE-449 44 Nol Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "| Internt via<br>seriell port | Ja | Internt i<br>EN54C/LCD | 71 x 50 x 20 | Not. 1) 12V 20Ah batterier har samma mått s**om 17Ah Postadress/Postal address **Swansons Telemekanik AB** Osbackevägen 5 SE-449 44 Nol Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.**swtm.se e-post info@swtm.se VAT.NO SE556289017701 # EN54C/LCD – REDBOX Rev 1.1 ![](images/_page_1_Picture_1.jpeg) STRÖMFÖRSÖRJN",  
+  "position": [  
+    2645,  
+    2795  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+  "context": "re_1.jpeg) STRÖMFÖRSÖRJNING, certifierade enl. EN54-4, EN12101-10 # SÄKERHET Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.** Endast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten b",  
+  "position": [  
+    3011,  
+    3086  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "ngar och strömmar förekommer i apparaten både när interna säkringarna är av eller på. Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    3284,  
+    3337  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "eller på. Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt",  
+  "position": [  
+    3360,  
+    3450  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "onenter samt säkerhet skall leverantören kontaktas. Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** FBAT Säkring FAUX1 F 10 A F 6,3 A F 6,3 A F 12,5A F 10 A F 10 A Säkring FAUX2 Kortslut inte batteripolerna. Modell Säkr",  
+  "position": [  
+    3519,  
+    3578  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet om system",  
+  "position": [  
+    3210,  
+    3249  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "enl. EN54-4, EN12101-10 ![](images/_page_0_Picture_3.jpeg) #### Skydd: Aggregatet är skyddat mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri är skyddas av säkring. #### Indikeringar och larm Normaldrift: Indikeras med 2st gröna lysdioder.",  
+  "position": [  
+    208,  
+    259  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### Indikeringar och larm Normaldrift Indikeras med 2st gröna lysdioder",  
+  "context": "belastning och kortslutning. Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri är skyddas av säkrin**g. #### Indikeringar och larm Normaldrift: Indikeras med 2st gröna lysdioder.** | 230V AC (grön) | Nätspänning ok | |--------------------|---------------------| | AUX 1 (grön) | Utspänning ok AUX1 |",  
+  "position": [  
+    302,  
+    379  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Mycket låg egenförbrukningen vid batteridrift",  
+  "context": "art enl. EN54-4 och EN 12101-10. Primärswitch teknik som är högeffektiv och är strömsnål och har mycket stabil utspännin**g. Mycket låg egenförbrukningen vid batteridrift.** Har display för volt, ampere och batteristatus. Programmerbar fördröjning av nätlarm. Plats för tillbehör, ex. larmdons",  
+  "position": [  
+    1001,  
+    1050  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Anslut därefter lasten",  
+  "context": "ablarna. - Anslut först 230V AC. Spänningsätt. - 2st gröna LED tänds på fronten. - Kontrollera att utspänningen är rikti**g. - Anslut därefter lasten.** - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. - Larmrelä ritade i olarmat läge. ### TEKN",  
+  "position": [  
+    4099,  
+    4127  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Säkring EN54C/LCD- EN54C/LCD-10A40 5A17 ## INKOPPLING - Montera aggregatet fritt",  
+  "context": "skt aktiva. FBAT Säkring FAUX1 F 10 A F 6,3 A F 6,3 A F 12,5A F 10 A F 10 A Säkring FAUX2 Kortslut inte batteripolerna. **Modell Säkring EN54C/LCD- EN54C/LCD-10A40 5A17 ## INKOPPLING - Montera aggregatet fritt.** Minst 100mm på varje sida. - Lossa de två skruvarna i locket. - Lätta försiktigt på locket och lossa bandkabeln till ly",  
+  "position": [  
+    3687,  
+    3775  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Total utström | | Batteriplats | Internförb",  
+  "context": "påt + 4st åt höger + 1st bakåt. Plats för underhållsfria blybatterier enligt tabell. ![](images/_page_0_Figure_16.jpeg) | E: | **Typ | Total utström | | Batteriplats | Internförb.** | Mått | |---------|---------------------|----------------------------------------|------------------------------------",  
+  "position": [  
+    1597,  
+    1647  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463475"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Anslutning | Spännings<br>försörjning | Loggning<br>av värden | Montage | Mått | | 5257606 | Ethernet<br>EN54C-LCD | RJ45 | Internt via<br>seriell port | Ja | Internt i<br>EN54C/LCD | 71 x 50 x 20 | Not",  
+  "context": "-------|-----------------------------|-----------------------|------------------------|--------------| | E:<br>nummer | **Typ | Anslutning | Spännings<br>försörjning | Loggning<br>av värden | Montage | Mått | | 5257606 | Ethernet<br>EN54C-LCD | RJ45 | Internt via<br>seriell port | Ja | Internt i<br>EN54C/LCD | 71 x 50 x 20 | Not.** 1) 12V 20Ah batterier har samma mått som 17Ah Postadress/Postal address **Swansons Telemekanik AB** Osbackevägen 5 SE-4",  
+  "position": [  
+    2397,  
+    2606  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5257606"  
+  ],  
+  "product_id": "50463475"  
+}
+

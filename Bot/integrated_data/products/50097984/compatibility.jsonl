@@ -1,0 +1,46 @@
+{  
+  "relation_type": "version",  
+  "related_product": "no(s) SM910 Distribution Board 12-24VDC 19\" SM920 Distribution Board 12-24VDC extension SM950 Loop Monitoring Board 24VDC KAP-DC12010 Terminating box for LNL/NGP* *Manufacturer's name address telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen SWEDEN Phone +46-303-746 320 Fax +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications which comply with good engineering practice in safety matters in force within the EEA have been applied* *Standard Testreport/technical construction file/normative document Emission EN61000-6-32001 EN550221998 -A12000 -A22003 Class B EN 61000-3-22001 Ref",  
+  "context": "tive 93/68/EEC *Type of equipment Fuse and distributions board* *Brand name or trade mark SM910-950 Type designation(s)/**Model no(s) SM910 Distribution Board 12-24VDC 19\" SM920 Distribution Board 12-24VDC extension SM950 Loop Monitoring Board 24VDC KAP-DC12010 Terminating box for LNL/NGP* *Manufacturer's name, address, telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen, SWEDEN Phone: +46-303-746 320, Fax: +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications, which comply with good engineering practice in safety matters in force within the EEA, have been applied:* *Standard Testreport/technical construction file/normative document Emission: EN61000-6-3:2001, EN55022:1998, -A1:2000, -A2:2003 Class B, EN 61000-3-2:2001 Ref.** No / Issued by: 04272/EMC Väst EMC-lab Immunity: EN61000-6-2:2005, EN61000-4-2,-3,-4, -5,-6, -11 Ref. No / Issued by: 0",  
+  "position": [  
+    320,  
+    1061  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "12010",  
+    "61000",  
+    "32001",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001"  
+  ],  
+  "product_id": "50097984"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of equipment Fuse and distributions board* *Brand name or trade mark SM910-950 Type designation(s)/Model no(s) SM910 Distribution Board 12-24VDC 19\" SM920 Distribution Board 12-24VDC extension SM950 Loop Monitoring Board 24VDC KAP-DC12010 Terminating box for LNL/NGP* *Manufacturer's name address telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen SWEDEN Phone +46-303-746 320 Fax +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications which comply with good engineering practice in safety matters in force within the EEA have been applied* *Standard Testreport/technical construction file/normative document Emission EN61000-6-32001 EN550221998 -A12000 -A22003 Class B EN 61000-3-22001 Ref",  
+  "context": "irective 2004/108/EC & the Low Voltage Directive 2006/95/EC including amendments by the CE-marking Directive 93/68/EEC ***Type of equipment Fuse and distributions board* *Brand name or trade mark SM910-950 Type designation(s)/Model no(s) SM910 Distribution Board 12-24VDC 19\" SM920 Distribution Board 12-24VDC extension SM950 Loop Monitoring Board 24VDC KAP-DC12010 Terminating box for LNL/NGP* *Manufacturer's name, address, telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen, SWEDEN Phone: +46-303-746 320, Fax: +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications, which comply with good engineering practice in safety matters in force within the EEA, have been applied:* *Standard Testreport/technical construction file/normative document Emission: EN61000-6-3:2001, EN55022:1998, -A1:2000, -A2:2003 Class B, EN 61000-3-2:2001 Ref.** No / Issued by: 04272/EMC Väst EMC-lab Immunity: EN61000-6-2:2005, EN61000-4-2,-3,-4, -5,-6, -11 Ref. No / Issued by: 0",  
+  "position": [  
+    216,  
+    1061  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "12010",  
+    "61000",  
+    "32001",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001"  
+  ],  
+  "product_id": "50097984"  
+}
+

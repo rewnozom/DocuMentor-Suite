@@ -1,0 +1,28 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "s 1. EN50131-1-A1 • SBSC intyg 16-130 #### **Mått och vikt** Höjd 85 mm Bredd 37 mm Vikt 0,2kg • *Ar**tikelnummer**** • ARX Power Fuse 05 S5529X00F160 E58 014 36 ASSA ABLOY Opening Solutions Sweden P.O. Box 371 SE-6",  
+  "source": "regex",  
+  "product_id": "50156388"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "s 1. EN50131-1-A1 • SBSC intyg 16-130 #### **Mått och vikt** Höjd 85 mm Bredd 37 mm Vikt 0,2kg • *Ar**tikelnummer**** • ARX Power Fuse 05 S5529X00F160 E58 014 36 ASSA ABLOY Opening Solutions Sweden P.O. Box 371 SE-6",  
+  "source": "regex",  
+  "product_id": "50156388"  
+}
+

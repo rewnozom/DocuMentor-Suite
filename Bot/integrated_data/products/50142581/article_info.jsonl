@@ -1,0 +1,70 @@
+{  
+  "identifier": "ighting",  
+  "original": "ighting",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ABLE ## SECTION 5: FIRE-FIGHTING MEASURES ### Extinguishing Media Dry chemical, foam, CO2 ### Firefi**ghting Use** positive pressure, self-contained breathing apparatus. Beware of acid splatter during water ap",  
+  "source": "regex",  
+  "product_id": "50142581"  
+}
+
+{  
+  "identifier": "erred",  
+  "original": "erred",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ks out, wipe it up with a cloth, and dispose of it in a plastic bag and put into a steel can. The pr**eferred **response is to leave the area and allow the batteries to cool and vapors to dissipate. Provide maxi",  
+  "source": "regex",  
+  "product_id": "50142581"  
+}
+
+{  
+  "identifier": "erably",  
+  "original": "erably",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "### Precautions to be taken in handing and storing Avoid mechanical or electrical abuse. Storage pre**ferably i**n cool, dry and ventilated area, which is subject to little temperature charge. Strorage at high t",  
+  "source": "regex",  
+  "product_id": "50142581"  
+}
+
+{  
+  "identifier": "icles",  
+  "original": "icles",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "tions for installation and service. Keep away all sources of gas ignition and do net allow metallic **articles** to simultaneously contact the negative and positive terminals of a battery. ## SECTION 6: ACCIDENT",  
+  "source": "regex",  
+  "product_id": "50142581"  
+}
+
+{  
+  "identifier": "icular",  
+  "original": "icular",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "he person receiving it shall make his own determination of the suitability of the material for his p**articular** purpose. ### General Product Description-AGM Series VRLA Batteries AGM Series batteries are valve",  
+  "source": "regex",  
+  "product_id": "50142581"  
+}
+

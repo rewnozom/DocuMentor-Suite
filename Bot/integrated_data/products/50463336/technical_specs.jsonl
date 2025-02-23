@@ -1,0 +1,44 @@
+{  
+  "name": "material",  
+  "raw_value": "| Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 8",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 8",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "Tömningstid: | 22 s | | Kastlängd: | 4-6 m | | Arbetstryck: | 15 Bar | | Arbetstryck: | 15 Bar | | Cylindermaterial: | Stål | | Drivgas: | Nitrogen | **| Bruttovikt (kg): | 8.9 | | Höjd (mm): | 520 | ...",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463336"  
+}
+
+{  
+  "name": "Effektivitetsklass",  
+  "raw_value": "| 55A 233B C       |\n| Temperaturområde: -30 °C / +60 °C |                  |\n| Släckmedel: | SUN ABC Standard |\n| Storlek släckare: | 6 kg             |\n| Tömningstid: | 22 s             |\n| Kastlängd: | 4-6 m            |\n| Arbetstryck: | 15 Bar           |\n| Arbetstryck: | 15 Bar           |\n| Cylindermaterial: | Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 8",  
+  "category": "PERFORMANCE",  
+  "unit": "A",  
+  "value": {  
+    "raw_value": "| 55A 233B C       |\n| Temperaturområde: -30 °C / +60 °C |                  |\n| Släckmedel: | SUN ABC Standard |\n| Storlek släckare: | 6 kg             |\n| Tömningstid: | 22 s             |\n| Kastlängd: | 4-6 m            |\n| Arbetstryck: | 15 Bar           |\n| Arbetstryck: | 15 Bar           |\n| Cylindermaterial: | Stål             |\n| Drivgas: | Nitrogen         |\n| Bruttovikt (kg): | 8",  
+    "unit": "A",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "´s serviceinstruktioner. ![](images/_page_0_Picture_14.jpeg) | Brandklass: | ABC | |-----------------------------------|------------------| | Effektivitetsklass: | 55A 233B C | | Temperaturområde: -30 °C / +...",  
+  "pattern": "(?i)(?:effektivitetsklass|efficiency class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 204,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463336"  
+}
+

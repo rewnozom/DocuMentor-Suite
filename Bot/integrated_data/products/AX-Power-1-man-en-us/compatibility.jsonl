@@ -1,0 +1,14 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Axema runs with four batteries",  
+  "context": "are to be connected in serial to achieve the operational voltage. AX-Power 1 has two batteries, all other PoEswitches fr**om Axema runs with four batteries.** - 1. Connection cable - 2. Connect to battery connector of the PoE-switch (red +, black -) # Approximate battery times",  
+  "position": [  
+    2440,  
+    2474  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "AX-Power-1-man-en-us"  
+}
+

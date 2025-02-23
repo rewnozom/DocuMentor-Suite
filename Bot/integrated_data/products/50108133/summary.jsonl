@@ -1,0 +1,124 @@
+{  
+  "product_id": "50108133",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n* ViP –Voltage-in-Parallel – funktion utvecklat av Alarmtech som tillåter strömförsörjningsaggregat att parallellkopplas (+) och (-) på en buss utan extra synkronisering örsörjningsagg\n\n![](images/_page_1_Picture_0.jpeg)\n\n### **PSV Strömförsörjningsenheter med batteriladdning enligt EN 50131-6 Grad 3, Class II**\n\nAlarmtech har utvecklat nya strömförsörjningsenheter med unika egenskaper som löser många problem i en anläggning. **Några fördelar med VIP strömförsörjning:**\n\n- ✔ Kan användas för att kompensera spänningsfall i ledningar\n- ✔ Valfritt antal enheter kan parallellkopplas oavsett märkström\n- ✔ Om mer ström behövs vid en utökning av anläggningen\n- ✔ Enkelt att bygga felsäkra system\n\nSamtliga PSV strömförsörjningsenheter har en speciell funktion vi kallar ViP (Voltage in Parallell) utvecklad av Alarmtech som möjligör att valfritt antal enheter med samma spänning oberoende av märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman. Det gör det möjligt att kompensera spänningsfall på ledningar, enkelt utöka strömkapaciteten i befintliga anläggningar samt bygga felsäkra system.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20721",  
+        "5230060",  
+        "21202",  
+        "5230061",  
+        "21805",  
+        "5230062",  
+        "24207",  
+        "5230063"  
+      ]  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20721",  
+        "5230060",  
+        "21202",  
+        "5230061",  
+        "21805",  
+        "5230062",  
+        "24207",  
+        "5230063"  
+      ]  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "inte ändras ## Behövs mer ström? ![](images/_page_3_Picture_6",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "fits",  
+      "related_product": "följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20721",  
+        "5230060",  
+        "21202",  
+        "5230061",  
+        "21805",  
+        "5230062",  
+        "24207",  
+        "5230063"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "tillåter strömförsörjningsaggregat att parallellkopplas (+) och (-) på en buss utan extra synkronisering örsörjningsagg ![](images/_page_1_Picture_0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "löser många problem i en anläggning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "mer ström behövs vid en utökning av anläggningen - ✔ Enkelt att bygga felsäkra system Samtliga PSV strömförsörjningsenheter har en speciell funktion vi kallar ViP (Voltage in Parallell) utvecklad av Alarmtech som möjligör att valfritt antal enheter med samma spänning oberoende av märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Beskrivning | E-nr | Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20721",  
+        "5230060",  
+        "21202",  
+        "5230061",  
+        "21805",  
+        "5230062",  
+        "24207",  
+        "5230063"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Max | Utan batterier | Med Batterier* | |------------|-------|----------------|----------------| | PSV 2415-7 | 15 A | E-nr 5240068 | PSV 2415-7-B | *Enheter med batteri har inget E-nr bara modellbeteckning #### **Enheter för 24 Volt med plats för 2 st",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5240068",  
+        "5240068"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5240068",  
+      "5240067",  
+      "5240001",  
+      "5240002",  
+      "5213168",  
+      "5213169",  
+      "5240041",  
+      "5240042",  
+      "5213170",  
+      "5213171",  
+      "5255012",  
+      "5255013",  
+      "5240000",  
+      "5240064",  
+      "5240065",  
+      "5240069"  
+    ]  
+  }  
+}
+

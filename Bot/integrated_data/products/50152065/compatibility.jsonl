@@ -1,0 +1,224 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "drift av brandlarmsutrustning",  
+  "context": "relä EPS Nätspänningsfel Larmrelä ALARM Summalarm ![](images/_page_0_Picture_13.jpeg) ## BESKRIVNING Strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning.** Certifierad av tredje part enl. EN54-4; 1997/A2:2006 +EN 12101-10 Primärswitch teknik som är högeffektiv och är strömsn",  
+  "position": [  
+    583,  
+    626  
+  ],  
+  "pattern_index": 8,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "designed_for",  
+  "related_product": "drift av brandlarmsutrustning",  
+  "context": "relä EPS Nätspänningsfel Larmrelä ALARM Summalarm ![](images/_page_0_Picture_13.jpeg) ## BESKRIVNING Strömförsörjningsaggregat **anpassad för drift av brandlarmsutrustning.** Certifierad av tredje part enl. EN54-4; 1997/A2:2006 +EN 12101-10 Primärswitch teknik som är högeffektiv och är strömsn",  
+  "position": [  
+    583,  
+    626  
+  ],  
+  "pattern_index": 69,  
+  "pattern": "(?i)anpassad\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är högeffektiv och är strömsnål och har mycket stabil utspänning",  
+  "context": "r drift av brandlarmsutrustning. Certifierad av tredje part enl. EN54-4; 1997/A2:2006 +EN 12101-10 Primärswitch teknik s**om är högeffektiv och är strömsnål och har mycket stabil utspänning.** Egenförbrukningen är mycket låg på alla aggregat. Har två utgångar som har övervakning och larm. #### Utförande: Aggreg",  
+  "position": [  
+    714,  
+    782  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har övervakning och larm",  
+  "context": "och är strömsnål och har mycket stabil utspänning. Egenförbrukningen är mycket låg på alla aggregat. Har två utgångar so**m har övervakning och larm. **#### Utförande: Aggregaten är utförda i röd självventilerad plåtkapsling och avsett för väggmontage. Förberedd för 9st",  
+  "position": [  
+    851,  
+    879  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+  "context": "– REDBOX STRÖMFÖRSÖRJNING, certifierade enl. EN54-4, EN12101-10 ## SÄKERHET Endast auktoriserad och erfaren personal ino**m AC och DC får använda, arbeta, serva/underhålla, installera denna enhet. ****SM40 Strömförsörjning med plats för batteri** Endast isolerade verktyg får användas i enheten. Observera att farliga",  
+  "position": [  
+    2830,  
+    2905  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "ngar och strömmar förekommer i apparaten både när interna säkringarna är av eller på. Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Kontro",  
+  "position": [  
+    3151,  
+    3204  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "eller på. Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet **om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas.** Kontrollera att kretskort sitter fast och inte är transportskadade. Om batterier används är dessa alltid elektrokemiskt",  
+  "position": [  
+    3227,  
+    3317  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "onenter samt säkerhet skall leverantören kontaktas. Kontrollera att kretskort sitter fast och inte är transportskadade. **Om batterier används är dessa alltid elektrokemiskt aktiva.** Kortslut inte batteripolerna. ## INKOPPLING - Montera aggregatet fritt. Minst 100mm på varje sida. - Lossa de två skruv",  
+  "position": [  
+    3386,  
+    3445  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet om system",  
+  "position": [  
+    3077,  
+    3116  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+  "context": "enl. EN54-4, EN12101-10 ![](images/_page_0_Picture_3.jpeg) #### Skydd: Aggregatet är skyddat mot överbelastning och kortslutnin**g. Inbyggt skydd mot djupurladdning av batterierna.** Nät, last och batteri är skyddas av säkring. #### Indikeringar och larm Normaldrift: Indikeras med 2st gröna lysdioder.",  
+  "position": [  
+    197,  
+    248  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### Indikeringar och larm Normaldrift Indikeras med 2st gröna lysdioder",  
+  "context": "belastning och kortslutning. Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri är skyddas av säkrin**g. #### Indikeringar och larm Normaldrift: Indikeras med 2st gröna lysdioder.** 230V AC (grön) Nätspänning ok AUX (grön) Utspänning ok på AUX1 och AUX2. ALARM (gul) Fel. Larmrelä EPS Nätspänningsfel",  
+  "position": [  
+    291,  
+    368  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Certifierad av tredje part enl",  
+  "context": "ummalarm ![](images/_page_0_Picture_13.jpeg) ## BESKRIVNING Strömförsörjningsaggregat anpassad för drift av brandlarmsutrustnin**g. Certifierad av tredje part enl.** EN54-4; 1997/A2:2006 +EN 12101-10 Primärswitch teknik som är högeffektiv och är strömsnål och har mycket stabil utspänn",  
+  "position": [  
+    624,  
+    658  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Egenförbrukningen är mycket låg på alla aggregat",  
+  "context": "N54-4; 1997/A2:2006 +EN 12101-10 Primärswitch teknik som är högeffektiv och är strömsnål och har mycket stabil utspännin**g. Egenförbrukningen är mycket låg på alla aggregat.** Har två utgångar som har övervakning och larm. #### Utförande: Aggregaten är utförda i röd självventilerad plåtkapsling",  
+  "position": [  
+    780,  
+    832  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Anslut därefter lasten",  
+  "context": "ablarna. - Anslut först 230V AC. Spänningsätt. - 2st gröna LED tänds på fronten. - Kontrollera att utspänningen är rikti**g. - Anslut därefter lasten.** - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. - Larmrelä ritade i olarmat läge. | Modell",  
+  "position": [  
+    3841,  
+    3869  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Säkring<br>FBAT | Säkring<br>FAUX1 | Säkring<br>FAUX2 | |-------------|-----------------|------------------|------------------| | EN54C-2A7 | F 5 A/250 V | F 4 A/250 V | F 4 A/250 V | | EN54C-2A17 | F 5 A/250 V | F 4 A/250 V | F 4 A/250 V | | EN54C-5A17 | F 10 A/250 V | F 63 A/250 V | F 63 A/250 V | | EN54C-10A40 | F 125A/250 V | F 10 A/250 V | F 10 A/250 V | | EN54C-10A65 | F 125A/250 V | F 10 A/250 V | F 10 A/250 V | ![](images/_page_1_Figure_20",  
+  "context": "asten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater. - Larmrelä ritade i olarmat läge. | **Modell | Säkring<br>FBAT | Säkring<br>FAUX1 | Säkring<br>FAUX2 | |-------------|-----------------|------------------|------------------| | EN54C-2A7 | F 5 A/250 V | F 4 A/250 V | F 4 A/250 V | | EN54C-2A17 | F 5 A/250 V | F 4 A/250 V | F 4 A/250 V | | EN54C-5A17 | F 10 A/250 V | F 6,3 A/250 V | F 6,3 A/250 V | | EN54C-10A40 | F 12,5A/250 V | F 10 A/250 V | F 10 A/250 V | | EN54C-10A65 | F 12,5A/250 V | F 10 A/250 V | F 10 A/250 V | ![](images/_page_1_Figure_20.**jpeg) Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +",  
+  "position": [  
+    3983,  
+    4441  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Total utström | | Batteriplats | Internförb",  
+  "context": "19-01 | | | | | | EN 50130-4:2015+A1:2015-03 | | | | | Certifieringar EN54-4/A2 | | | | | | | EN12101-10 | | | | | E: | **Typ | Total utström | | Batteriplats | Internförb.** | HxBxD | |-----------|-------------|-----------------------|------------------------------|--------------|------------",  
+  "position": [  
+    1708,  
+    1758  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152065"  
+}
+

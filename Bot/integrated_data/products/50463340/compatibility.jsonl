@@ -1,0 +1,214 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "snabbt sprider sig eller då utrymningsvägarna kan bli blockerade",  
+  "context": "gt vid släckning av brand i litiumjonbatterier! Se alltid efter utrymningsmöjligheter först. Närma dig aldrig en brand s**om snabbt sprider sig eller då utrymningsvägarna kan bli blockerade.** Var alltid försiktig om du närmar dig en brand, speciellt vid släckning av batteribränder, på grund av det explosiva fö",  
+  "position": [  
+    344,  
+    412  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du närmar dig en brand speciellt vid släckning av batteribränder på grund av det explosiva förlopp som kan uppstå",  
+  "context": "t. Närma dig aldrig en brand som snabbt sprider sig eller då utrymningsvägarna kan bli blockerade. Var alltid försiktig **om du närmar dig en brand, speciellt vid släckning av batteribränder, på grund av det explosiva förlopp som kan uppstå.** AVD skall påföras med en svepande rörelse från 1-2 m avstånd. Påför släckmedlet i omgångar och från flera riktningar om",  
+  "position": [  
+    434,  
+    553  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "möjligt",  
+  "context": "å. AVD skall påföras med en svepande rörelse från 1-2 m avstånd. Påför släckmedlet i omgångar och från flera riktningar **om möjligt.** Påför släckmedlet tills behållaren är tom. Typiska användningsområde: Industri, butiksverksamhet, offentlig verksamhet,",  
+  "position": [  
+    671,  
+    682  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att det skapas ett temperaturbeständigt skikt som förhindrar syretillförseln",  
+  "context": ",sjukhus, batteriinsamling etc. ### **Släckmedlets funktion** AVD kyler ner det brinnande materialet, kväver branden gen**om att det skapas ett temperaturbeständigt skikt som förhindrar syretillförseln.** Om batterierna är inbyggda i en produkt finns risk för begränsad släckeffekt då släckmedlet inte kommer att kyla ned ba",  
+  "position": [  
+    1008,  
+    1088  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är inbyggda i en produkt finns risk för begränsad släckeffekt då släckmedlet inte kommer att kyla ned batterierna",  
+  "context": "rinnande materialet, kväver branden genom att det skapas ett temperaturbeständigt skikt som förhindrar syretillförseln. **Om batterierna är inbyggda i en produkt finns risk för begränsad släckeffekt då släckmedlet inte kommer att kyla ned batterierna.** #### **Placering** Släckaren levereras med en upphängningsanordning för montering på väggen. Om släckaren skall stå uto",  
+  "position": [  
+    1089,  
+    1218  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+  "context": "att kyla ned batterierna. #### **Placering** Släckaren levereras med en upphängningsanordning för montering på väggen. O**m släckaren skall stå utomhus, eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare. **Brandsläckaren bör placeras väl synlig och lättillgänglig. ### **Underhåll och kontroll** Visuell kontroll av brandsläc",  
+  "position": [  
+    1312,  
+    1431  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts",  
+  "context": "g): | 10.75 | | | | Höjd (mm): | 522 | | | | Bredd (mm): | 170 | | | *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas **om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts.** Omladdning kra*̈*ver specialutrustning. Kontakta en auktoriserad serviceverkstad. Anva*̈*nd endast specificerade sla*̈*",  
+  "position": [  
+    2723,  
+    2796  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Viktigt vid släckning av brand i litiumjonbatterier! Se alltid efter utrymningsmöjligheter först",  
+  "context": "gard AVD brandsläckare är lämplig att använda mot brand i litiumjonbatterier och fasta metaller samt vid brandbegränsnin**g. Viktigt vid släckning av brand i litiumjonbatterier! Se alltid efter utrymningsmöjligheter först.** Närma dig aldrig en brand som snabbt sprider sig eller då utrymningsvägarna kan bli blockerade. Var alltid försiktig om",  
+  "position": [  
+    216,  
+    316  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Om släckaren skall stå utomhus eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare",  
+  "context": "ommer att kyla ned batterierna. #### **Placering** Släckaren levereras med en upphängningsanordning för montering på väg**gen. Om släckaren skall stå utomhus, eller i en starkt förorenad miljö bör den placeras i ett specialskåp för brandsläckare.** Brandsläckaren bör placeras väl synlig och lättillgänglig. ### **Underhåll och kontroll** Visuell kontroll av brandsläc",  
+  "position": [  
+    1307,  
+    1431  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "### **Underhåll och kontroll** Visuell kontroll av brandsläckaren är användarens ansvar tex att det är tillfredsställande tryck på handsläckaren",  
+  "context": "nad miljö bör den placeras i ett specialskåp för brandsläckare. Brandsläckaren bör placeras väl synlig och lättillgängli**g. ### **Underhåll och kontroll** Visuell kontroll av brandsläckaren är användarens ansvar, tex att det är tillfredsställande tryck på handsläckaren.** Underhåll av handsläckare skall utföras enligt SS 3656 och Housegard's serviceinstruktioner. I privata bostäder rekomme",  
+  "position": [  
+    1488,  
+    1637  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_0_Picture_13",  
+  "context": "6 och Housegards serviceinstruktioner. Standard SS 3656 omfattar handbrandsläckares funktionsduglighet, oavsett placerin**g. ![](images/_page_0_Picture_13.**jpeg) ## **TEKNISK SPECIFIKATION** | Brandklass: | A | Modell: | LITHEX6 | |----------------------------------|---------",  
+  "position": [  
+    2002,  
+    2028  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "EN3-7 CE Wheelmark | | Storlek släckare | 6 L | | | | Tömningstid | <120 s | | | | Kastlängd | 2-3 m | | | | Arbetstryck | 15 Bar | | | | Arbetstryck | 15 Bar | | | | Cylindermaterial | Stål | | | | Drivgas | Nitrogen | | | | Bruttovikt (kg) | 10",  
+  "context": "ikel: | 600228-60 | | Temperaturområde: +5 °C / +60 °C | | EAN: | 7320890228609 | | Släckmedel: | 6L AVD | | Certifierin**g: EN3-7, CE, Wheelmark | | Storlek släckare: | 6 L | | | | Tömningstid: | <120 s | | | | Kastlängd: | 2-3 m | | | | Arbetstryck: | 15 Bar | | | | Arbetstryck: | 15 Bar | | | | Cylindermaterial: | Stål | | | | Drivgas: | Nitrogen | | | | Bruttovikt (kg): | 10.**75 | | | | Höjd (mm): | 522 | | | | Bredd (mm): | 170 | | | *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter",  
+  "position": [  
+    2352,  
+    2612  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakta en auktoriserad serviceverkstad",  
+  "context": "d laddas om efter anva*̈*ndning a*̈*ven om bara delar av inneha*̊*llet anva*̈*nts. Omladdning kra*̈*ver specialutrustnin**g. Kontakta en auktoriserad serviceverkstad.** Anva*̈*nd endast specificerade sla*̈*ckmedel och reservdelar.* För mer information, kontakta: GPBM Nordic AB Telefon: +",  
+  "position": [  
+    2834,  
+    2878  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "LITHEX6 ![](images/_page_0_Picture_2",  
+  "context": "# **PRODUKTDATABLAD FDV** **Modell: LITHEX6 ![](images/_page_0_Picture_2.**jpeg) #### **Bruksområde** Housegard AVD brandsläckare är lämplig att använda mot brand i litiumjonbatterier och fasta m",  
+  "position": [  
+    26,  
+    64  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463340"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| LITHEX6 | |----------------------------------|----------|----------|------------------------------------| | Effektivitetsklass | 13A | Artikel | 600228-60 | | Temperaturområde +5 °C / +60 °C | | EAN | 7320890228609 | | Släckmedel | 6L AVD | | Certifiering EN3-7 CE Wheelmark | | Storlek släckare | 6 L | | | | Tömningstid | <120 s | | | | Kastlängd | 2-3 m | | | | Arbetstryck | 15 Bar | | | | Arbetstryck | 15 Bar | | | | Cylindermaterial | Stål | | | | Drivgas | Nitrogen | | | | Bruttovikt (kg) | 10",  
+  "context": "es funktionsduglighet, oavsett placering. ![](images/_page_0_Picture_13.jpeg) ## **TEKNISK SPECIFIKATION** | Brandklass: | A | **Modell: | LITHEX6 | |----------------------------------|----------|----------|------------------------------------| | Effektivitetsklass: | 13A | Artikel: | 600228-60 | | Temperaturområde: +5 °C / +60 °C | | EAN: | 7320890228609 | | Släckmedel: | 6L AVD | | Certifiering: EN3-7, CE, Wheelmark | | Storlek släckare: | 6 L | | | | Tömningstid: | <120 s | | | | Kastlängd: | 2-3 m | | | | Arbetstryck: | 15 Bar | | | | Arbetstryck: | 15 Bar | | | | Cylindermaterial: | Stål | | | | Drivgas: | Nitrogen | | | | Bruttovikt (kg): | 10.**75 | | | | Höjd (mm): | 522 | | | | Bredd (mm): | 170 | | | *VIKTIGT: Brandsla*̈*ckaren ma*̊*ste alltid laddas om efter",  
+  "position": [  
+    2083,  
+    2612  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "600228",  
+    "7320890228609"  
+  ],  
+  "product_id": "50463340"  
+}
+

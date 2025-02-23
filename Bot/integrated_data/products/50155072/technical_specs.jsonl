@@ -1,0 +1,22 @@
+{  
+  "name": "spänning",  
+  "raw_value": "27,3",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "27,3",  
+    "unit": null,  
+    "normalized_value": 27.3,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ABLOY 10PS ![](images/_page_1_Picture_1.jpeg) ## 24V/10A Nätaggregat med batteribackup #### **Tekniska data** - Inspänning: 110-264VAC - Stabiliserad utspänn**ing: 27,3VDC - **Maximal belastning: 10A - Tempe...",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50155072"  
+}
+

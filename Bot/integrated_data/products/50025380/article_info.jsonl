@@ -1,0 +1,28 @@
+{  
+  "identifier": "erences",  
+  "original": "erences",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ters, electronic<br>toll collection system, etc. | Operating temperature : -40°C to 60°C ## Cross Re**ferences: **| ANSI | Ultralife | |--------|-----------| | 1604LC | U9VL | ![](images/_page_0_Figure_6.jpeg)",  
+  "source": "regex",  
+  "product_id": "50025380"  
+}
+
+{  
+  "identifier": "erence",  
+  "original": "erence",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "7.jpeg) The information (subject to change without prior notice) contained in this document is for r**eference **only and should not be used as a basis for product guarantee or warranty. For applications other th",  
+  "source": "regex",  
+  "product_id": "50025380"  
+}
+

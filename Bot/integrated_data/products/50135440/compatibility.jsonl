@@ -1,0 +1,126 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "att röra handen framför den beröringsfria sensorn",  
+  "context": "lighet. GEZE ES 80 infraröd beröringsfri armbågskontakt med blå LED i standby och grön LED vid aktivering. Aktiveras gen**om att röra handen framför den beröringsfria sensorn.** #### **ANVÄNDNINGSOMRÅDE** - Styrning av automatiska slag-, skjut-, vik-, karusell- och runda skjutdörrar - Hem för rör",  
+  "position": [  
+    1059,  
+    1112  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PÅ som standard) - Skyddsklass Kan monteras invändigt eller utvändigt under tak IP47 #### Automatiske dørsystemer **TEKNISKA DATA** | Produktdetaljer<br>Automatiske dørsystemer | GEZE ES 80 | | |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------|--| | Strömförsörjning<br>GEZE AKTIVERING<br>Tekniske data | 12 VDC – 24 VDC +-5 % | | | Förbrukning | 12 VDC standby 30 mA i drift 45mA 24 VDC standby 20 mA i drift 30 mA | | | Produktdetaljer<br>Utgångar<br>Tekniske data<br>Teknologi | GEZE GC 306<br>NO & NO / NC & NC (max 1A / 30 VDC",  
+  "context": "- Öppningstid: 0,5 sekunder 20 sekunder. - Sensoravstånd 4 15 cm - Inbyggd summer: AV eller PÅ med brytare (levereras so**m PÅ som standard) - Skyddsklass: Kan monteras invändigt eller utvändigt under tak, IP47 #### Automatiske dørsystemer **TEKNISKA DATA** | Produktdetaljer<br>Automatiske dørsystemer | GEZE ES 80 | | |-----------------------------------------------------------|------------------------------------------------------------------------------------------------------|--| | Strömförsörjning<br>GEZE AKTIVERING<br>Tekniske data | 12 VDC – 24 VDC +-5 % | | | Förbrukning | 12 VDC standby 30 mA, i drift 45mA, 24 VDC standby 20 mA, i drift 30 mA | | | Produktdetaljer<br>Utgångar<br>Tekniske data<br>Teknologi | GEZE GC 306<br>NO & NO / NC & NC (max 1A / 30 VDC. **0,3 A / 125 VAC)<br>Elektromagnetiske radarbølger | | | Driftsspænding | 12-24 V DC/AC | | | IP-klass | IP 47 | | | Pro",  
+  "position": [  
+    1721,  
+    2375  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PÅ som standard) | | | Dybde | 32 cm | | | Beskyttelsesklasse | IP30 | | | Monteringshøjde | i håndhøjde | | | Inbyggnadsmått | 260 mm × 80 mm × 28 mm (höjd × bredd × djup) | | | Driftstemperatur | -20 – 55 °C | | Luftfugtighed < 90% relativ ikke kondenserende Godkendelser R&TTE 1999/5/EC EMC 2004/108/EEC Driftstemperatur -20 – 55 °C Luftfugtighed < 90% relativ ikke kondenserende Godkendelser R&TTE 1999/5/EC EMC 2004/108/EEC ### **REGISTRERINGSOMRÅDE OCH ANVÄNDNINGSEXEMPEL Registreringsområde og anvendelseseksempel** **Registreringsområde og anvendelseseksempel** ![](images/_page_2_Figure_4",  
+  "context": "mm | | | Bredde | 84 mm | | | Monteringshøjde | i håndhøjde | | | Inbyggd summer | AV eller PÅ med brytare (levereras so**m PÅ som standard) | | | Dybde | 32 cm | | | Beskyttelsesklasse | IP30 | | | Monteringshøjde | i håndhøjde | | | Inbyggnadsmått | 260 mm × 80 mm × 28 mm (höjd × bredd × djup) | | | Driftstemperatur | -20 – 55 °C | | Luftfugtighed < 90% relativ, ikke kondenserende Godkendelser R&TTE 1999/5/EC, EMC 2004/108/EEC Driftstemperatur -20 – 55 °C Luftfugtighed < 90% relativ, ikke kondenserende Godkendelser R&TTE 1999/5/EC, EMC 2004/108/EEC ### **REGISTRERINGSOMRÅDE OCH ANVÄNDNINGSEXEMPEL Registreringsområde og anvendelseseksempel** **Registreringsområde og anvendelseseksempel** ![](images/_page_2_Figure_4.j**peg) ![](images/_page_2_Picture_5.jpeg) **Räckvidd:** 10 - 50 cm **Registreringsrækkevidde:** 10 - 50 cm **14** GEZE AUTOMATIS",  
+  "position": [  
+    3139,  
+    3737  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "www",  
+  "context": "GEZE SCANDINAVIA GEZE Sverige** Mallslingan 10 Box 7060 S-187 11 Täby Tel. +46 (0) 8-732 34 00 E-mail: sverige.se@geze.c**om www.**geze.se #### **GEZE Danmark** Mårkærvej 13 J-K DK-2630 Taastrup Tel. +45 46 32 33 24 E-mail: danmark.se@geze.com www.gez",  
+  "position": [  
+    5267,  
+    5274  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "www",  
+  "context": "e.com www.geze.se #### **GEZE Danmark** Mårkærvej 13 J-K DK-2630 Taastrup Tel. +45 46 32 33 24 E-mail: danmark.se@geze.c**om www.**geze.dk #### **GEZE Norge** Industrivegen 34B NO-2072 Dal Tel. +47 63 95 72 00 E-mail: norge.se@geze.com www.geze.no ![]",  
+  "position": [  
+    5384,  
+    5391  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "www",  
+  "context": "k.se@geze.com www.geze.dk #### **GEZE Norge** Industrivegen 34B NO-2072 Dal Tel. +47 63 95 72 00 E-mail: norge.se@geze.c**om www.**geze.no ![](images/_page_3_Picture_10.jpeg) ## BEWEGUNG MIT SYSTEM",  
+  "position": [  
+    5493,  
+    5500  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Aktiveras genom att röra handen framför den beröringsfria sensorn",  
+  "context": "med nedsatt rörlighet. GEZE ES 80 infraröd beröringsfri armbågskontakt med blå LED i standby och grön LED vid aktivering**. Aktiveras genom att röra handen framför den beröringsfria sensorn. **#### **ANVÄNDNINGSOMRÅDE** - Styrning av automatiska slag-, skjut-, vik-, karusell- och runda skjutdörrar - Hem för rör",  
+  "position": [  
+    1043,  
+    1112  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "12 VDC 24 VDC +-5 % - Förbrukning 12 VDC standby 30 mA i drift 45mA 24 VDC standby 20 mA i drift 30 mA - Utgångar NO & NO / NC & NC (max 1 A / 30 VDC",  
+  "context": "PER** - Inbyggnadsmått: 260 mm × 80 mm × 28 mm (Höjd × bredd × djup) - IR-ögats ytterdiameter är 38 mm - Strömförsörjnin**g: 12 VDC 24 VDC +-5 % - Förbrukning: 12 VDC standby 30 mA, i drift 45mA, 24 VDC standby 20 mA, i drift 30 mA - Utgångar: NO & NO / NC & NC (max 1 A / 30 VDC.** 0,3 A / 125 VAC) - Sjukhus, sjukhem Hotell och restauranger - Öppningstid: 0,5 sekunder 20 sekunder. - Sensoravstånd 4",  
+  "position": [  
+    1383,  
+    1541  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Skrueklemme | | | Driftsspænding<br>IR-ögats ytterdiameter<br>Udgang | 12-24 V DC/AC<br>84 mm<br>Potentialfri relæudgang 48 V AC / DC 1 A AC / DC 60 VA / 30 W<br>38 mm | | | Bredde | 84 mm | | | Tilslutningstype | Skrueklemme | | | Sensoravstånd | 4 – 15 cm | | | Dybde | 32 cm | | | Højde | 84 mm | | | Bredde | 84 mm | | | Monteringshøjde | i håndhøjde | | | Inbyggd summer | AV eller PÅ med brytare (levereras som PÅ som standard) | | | Dybde | 32 cm | | | Beskyttelsesklasse | IP30 | | | Monteringshøjde | i håndhøjde | | | Inbyggnadsmått | 260 mm × 80 mm × 28 mm (höjd × bredd × djup) | | | Driftstemperatur | -20 – 55 °C | | Luftfugtighed < 90% relativ ikke kondenserende Godkendelser R&TTE 1999/5/EC EMC 2004/108/EEC Driftstemperatur -20 – 55 °C Luftfugtighed < 90% relativ ikke kondenserende Godkendelser R&TTE 1999/5/EC EMC 2004/108/EEC ### **REGISTRERINGSOMRÅDE OCH ANVÄNDNINGSEXEMPEL Registreringsområde og anvendelseseksempel** **Registreringsområde og anvendelseseksempel** ![](images/_page_2_Figure_4",  
+  "context": "/ 30 W | | | Teknologi | Elektromagnetiske radarbølger | | | Öppningstid | 0,5 sekunder – 20 sekunder | | | Tilslutnings**type | Skrueklemme | | | Driftsspænding<br>IR-ögats ytterdiameter<br>Udgang | 12-24 V DC/AC<br>84 mm<br>Potentialfri relæudgang, 48 V AC / DC, 1 A AC / DC, 60 VA / 30 W<br>38 mm | | | Bredde | 84 mm | | | Tilslutningstype | Skrueklemme | | | Sensoravstånd | 4 – 15 cm | | | Dybde | 32 cm | | | Højde | 84 mm | | | Bredde | 84 mm | | | Monteringshøjde | i håndhøjde | | | Inbyggd summer | AV eller PÅ med brytare (levereras som PÅ som standard) | | | Dybde | 32 cm | | | Beskyttelsesklasse | IP30 | | | Monteringshøjde | i håndhøjde | | | Inbyggnadsmått | 260 mm × 80 mm × 28 mm (höjd × bredd × djup) | | | Driftstemperatur | -20 – 55 °C | | Luftfugtighed < 90% relativ, ikke kondenserende Godkendelser R&TTE 1999/5/EC, EMC 2004/108/EEC Driftstemperatur -20 – 55 °C Luftfugtighed < 90% relativ, ikke kondenserende Godkendelser R&TTE 1999/5/EC, EMC 2004/108/EEC ### **REGISTRERINGSOMRÅDE OCH ANVÄNDNINGSEXEMPEL Registreringsområde og anvendelseseksempel** **Registreringsområde og anvendelseseksempel** ![](images/_page_2_Figure_4.**jpeg) ![](images/_page_2_Picture_5.jpeg) **Räckvidd:** 10 - 50 cm **Registreringsrækkevidde:** 10 - 50 cm **14** GEZE AUTOMATIS",  
+  "position": [  
+    2715,  
+    3737  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135440"  
+}
+

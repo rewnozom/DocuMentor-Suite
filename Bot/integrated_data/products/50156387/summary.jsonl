@@ -1,0 +1,82 @@
+{  
+  "product_id": "50156387",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Enheten rymmer förutom inbyggd batteribackup också två kortplatser för exempelvis dörrkontrollenheter, centralenhet och in- och utgångsenheter. ARX Power är alltså inte bestyckad med några kort från början utan är en smart batteribackup med kompletteringsmöjligheter för en mängd ändamål där installationsutrymme, extra ström och batteri behövs. Enheten har en diskret, stilren design med en passiv konstruktion som leder ut värme utan fläktar vilket gör den helt tyst.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Höjd",  
+      "value": "366",  
+      "unit": null  
+    },  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Bredd",  
+      "value": "444",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "spänning",  
+      "value": "230",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "spänning",  
+      "value": "27,3",  
+      "unit": null  
+    },  
+    {  
+      "category": "WEIGHT",  
+      "name": "Vikt",  
+      "value": "5,15",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "ARX version 4",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ARX version 4",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "inbyggd batteribackup också två kortplatser för exempelvis dörrkontrollenheter centralenhet och in- och utgångsenheter",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "leder ut värme utan fläktar vilket gör den helt tyst",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "ARX Power har även kommunikation från batteribackup upp till larmklass 2 som kopplas till ARX larmbuss",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Den rymmer upp till 2 st 20Ah batterier och kan vid behov kompletteras med en batteribox i samma formfaktor – ARX Power box som rymmer ytterligare upp till 2 st 20Ah batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "# ASSA ABLOY ARX Power # Smartbox med inbyggd batteribackup # **Data** - Matningsspänning 230V AC - Inström 17A vid 230V AC - Egenförbrukning - o Elnätsdrift 135mA - o Batteridrift 125mA - Utgångsspänning 273 V DC - Kontinuerlig last 4A 5A peak - Godkänd medellast enligt SSF1014 - o Larmklass 1/2 135A - Batteri - o UPLUS 2st 72Ah 12V eller - o UPLUS 2st 20Ah 12V - Temperaturområde +5°C till +40°C - Relativ fuktighet 75% - IP-klass 30 endast inomhus # **Certifikat** - LK 2 Security Grade 3 MK 1 Environment Class 1",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

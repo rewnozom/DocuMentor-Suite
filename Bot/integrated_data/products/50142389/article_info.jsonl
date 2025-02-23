@@ -1,0 +1,14 @@
+{  
+  "identifier": "5870842",  
+  "original": "5870842",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "age_0_Picture_0.jpeg) ![](images/_page_0_Picture_1.jpeg) ## **Armbågskontakt Alu Radio** AK-3-RADIO ## E-nu**mmer: 5870842 Avs**edd för installationer där kabelförläggning inte är önskvärd. Armbågskontakten an-vänds för öpp",  
+  "source": "regex",  
+  "product_id": "50142389"  
+}
+

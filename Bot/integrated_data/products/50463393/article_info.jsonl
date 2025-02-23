@@ -1,0 +1,56 @@
+{  
+  "identifier": "Display",  
+  "original": "Display",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "1_Picture_10.jpeg) Space-Saving Design ![](images/_page_1_Picture_21.jpeg) Low Noise Technology4 ### Smart **Display ![]**(_page_1_Picture_12.jpeg) ![](images/_page_1_Picture_15.jpeg) On your next outdoor adventure, take E",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "identifier": "display",  
+  "original": "display",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ork with green energy sources. ![](images/_page_6_Picture_7.jpeg) ### Recharging can be this easy ### Smart** display at** a glance Solar Panel Recharging2 ![](images/_page_6_Picture_9.jpeg) (Up to 60W) See all the chargin",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "identifier": "screen",  
+  "original": "screen",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "30W. If the output of the appliance's actual use surpasses that value, the Error Indicator on the sm**art screen** will be displayed. • 2 A compatible solar panel must be purchased separately and will be available",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+
+{  
+  "identifier": "Guide",  
+  "original": "Guide",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "/ RoHS / REACH / MSDS • AC Adapter • Car Charging Cable • Solar Panel Charging MC4 Cable • Quick Sta**rt Guide **• Regulatory Information ![](images/_page_10_Picture_7.jpeg)",  
+  "source": "regex",  
+  "product_id": "50463393"  
+}
+

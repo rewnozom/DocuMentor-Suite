@@ -1,0 +1,14 @@
+{  
+  "identifier": "erences",  
+  "original": "erences",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | | | Cross References: | |--|--|-------------------| |--|--|-------------------| | GP | JIS** | IEC | E**veready | Duracell",  
+  "source": "regex",  
+  "product_id": "50149922"  
+}
+

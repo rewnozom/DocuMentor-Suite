@@ -1,0 +1,42 @@
+{  
+  "identifier": "8718531361317",  
+  "original": "8718531361317",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 5,  
+  "pattern": "(?<!\\d)(\\d{13})(?!\\d)",  
+  "context": "able) Li-ion Battery, Lithium Iron Phosphate (LiFePo4) Traction /<br>Energy Battery | | EAN code: | **8718531361317** | | Specif",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "identifier": "IGHTING",  
+  "original": "IGHTING",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "(_page_2_Picture_0.jpeg) Super B lithium batteries **MSDS DATE:** 1 June 2018 #### **SECTION 5: FIRE**FIGHTING M**EASURES** #### **5.1 Extinguishing media** Water, carbon dioxide, dry chemical powder and foam a",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+
+{  
+  "identifier": "ighting",  
+  "original": "ighting",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "e, dry chemical powder and foam are most effective means to extinguish a battery fire #### **5.2 Fir**efighting **procedure** Put on fully protective gear, including self-contained breathing apparatus, goggles, f",  
+  "source": "regex",  
+  "product_id": "50149810"  
+}
+

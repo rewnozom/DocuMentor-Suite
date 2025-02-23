@@ -1,0 +1,50 @@
+{  
+  "product_id": "50098011",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Styrenheter manövrering av rökluckor med omkopplare och elektronik för styrning från brandlarmcentral eller liknande.\n\nRLS500 styraggregat för 1-6 sektioner med inbyggt strömförsörjning och batterier. Nätaggregatet är på 24V 3A och primärswitchat och certifierat för EN 12101-10. Levereras med 2st 12V 12Ah underhållsfria blybatterier.\n\nAggregatet är utfört i vit plåtkapsling och avsett för väggmontage med 6st genomförningar uppåt. Nät, last och batteri skyddas av säkringar.\n\nRLS600 styraggrega...",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "kapsling med hål för vred | | 2 | 160x220x80 | | 6305002 | RLS100-2 | | Tom kapsling med hål för 2st vred | | 2 | 160x220x80 | | 6305003 | RLS100-6 | | Tom kapsling med hål för 6st vred | | 3 | 350x360x100 | | 6305004 | RLS100-12 | | Tom kapsling med hål för 12st vred | | 4 | 465x360x115 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "6305002",  
+        "6305003",  
+        "6305004"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "förhindrar ofrivilligt öppnande av luckor",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "RLS500",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "För att aktivera en extern styringång måste SW1 – Extern styrning – ställas i läge off",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Ingång ALLA styr alla tre utgångarna och då måste alla brytarna i SW1 ställas i läge off",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

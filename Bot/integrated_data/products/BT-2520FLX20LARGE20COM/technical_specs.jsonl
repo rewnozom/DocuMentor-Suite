@@ -1,0 +1,44 @@
+{  
+  "name": "Batterityp",  
+  "raw_value": "| 12V AGM-batteri                               |\n| Testad och godkänd med: | UPLUS 45Ah-batterier med design life på 10 år |\n| SBSC Certifierad: | SSF 1014 Larmklass 4                          |\n| Benämning producent (SBSC): | NOVA 27 250-FLX_PRO1                          |",  
+  "category": "ELECTRICAL",  
+  "unit": "V",  
+  "value": {  
+    "raw_value": "| 12V AGM-batteri                               |\n| Testad och godkänd med: | UPLUS 45Ah-batterier med design life på 10 år |\n| SBSC Certifierad: | SSF 1014 Larmklass 4                          |\n| Benämning producent (SBSC): | NOVA 27 250-FLX_PRO1                          |",  
+    "unit": "V",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | Utgångsspänning: | 27,3VDC | | Batterikombination: | 2 st. 45Ah-batterier | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | UPLUS 45Ah-batterier med design life på 10 år | | SBSC Cer...",  
+  "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 43,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "name": "Ingångar",  
+  "raw_value": "| 2x10                                          |\n|-----------------------------------|-----------------------------------------------|\n| Utförande: | Svart                                         |\n| Miljöklass: | Klass 1                                       |\n| Kapslingsklassning: | IP32                                          |\n| Temperaturområde: | 5 - 40 °C (optimalt 5 - 20 °C)                |\n| Montering: | Vägg eller 19\" stativ                         |\n| Mått (BxHxD): | 444x436x210mm                                 |\n| Vikt: | 15                                            |\n| Antal kabelgenomföringar: | 4 st                                          |\n| Inbygd fläkt: | Ja                                            |\n| Matningsspänning: | 110V - 220VAC / 47-63Hz                       |\n| Max",  
+  "category": "CONNECTION",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| 2x10                                          |\n|-----------------------------------|-----------------------------------------------|\n| Utförande: | Svart                                         |\n| Miljöklass: | Klass 1                                       |\n| Kapslingsklassning: | IP32                                          |\n| Temperaturområde: | 5 - 40 °C (optimalt 5 - 20 °C)                |\n| Montering: | Vägg eller 19\" stativ                         |\n| Mått (BxHxD): | 444x436x210mm                                 |\n| Vikt: | 15                                            |\n| Antal kabelgenomföringar: | 4 st                                          |\n| Inbygd fläkt: | Ja                                            |\n| Matningsspänning: | 110V - 220VAC / 47-63Hz                       |\n| Max",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "**Mediearkivet** > **Manualer** > **Aktuella manualer** > **Produkter** > **Strömförsörjning** . (Inloggning krävs.) ![](images/_page_1_Picture_0.jpeg) | Ingångar: | 2x10 | |---------------------------------...",  
+  "pattern": "(?i)(?:ingångar|inputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 152,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+

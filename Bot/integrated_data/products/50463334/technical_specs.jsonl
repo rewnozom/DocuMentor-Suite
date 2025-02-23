@@ -1,0 +1,44 @@
+{  
+  "name": "material",  
+  "raw_value": "| Stål     |               |                                 |\n| Drivgas: | Nitrogen |               |                                 |\n| Bruttovikt (kg): | 6",  
+  "category": "MATERIAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "| Stål     |               |                                 |\n| Drivgas: | Nitrogen |               |                                 |\n| Bruttovikt (kg): | 6",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "220 Bar | | | | Arbetstryck: | 220 Bar | | | | Cylindermaterial: | Stål | | | | Drivgas: | Nitrogen | | | | Bruttovikt (kg): | 6.95 | | | | Höjd (mm): | 570 | | | | Bredd (mm):",  
+  "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 113,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463334"  
+}
+
+{  
+  "name": "Effektivitetsklass",  
+  "raw_value": "| 34B      | Artikel: | 600066-60                       |\n| Temperaturområde: -30 °C / +60 °C |          | EAN: | 7320890066607                   |\n| Släckmedel: | CO2      |               | EN3 Testrapport: 20180791/OX 61 |\n| Storlek släckare: | 2 kg     | MED cert: | 16/CN/4001-1-Rev 0              |\n| Tömningstid: | 8 s      | Certifiering: | EN3-7, CE, Wheelmark            |\n| Arbetstryck: | 220 Bar  |               |                                 |\n| Arbetstryck: | 220 Bar  |               |                                 |\n| Cylindermaterial: | Stål     |               |                                 |\n| Drivgas: | Nitrogen |               |                                 |\n| Bruttovikt (kg): | 6",  
+  "category": "PERFORMANCE",  
+  "unit": "B",  
+  "value": {  
+    "raw_value": "| 34B      | Artikel: | 600066-60                       |\n| Temperaturområde: -30 °C / +60 °C |          | EAN: | 7320890066607                   |\n| Släckmedel: | CO2      |               | EN3 Testrapport: 20180791/OX 61 |\n| Storlek släckare: | 2 kg     | MED cert: | 16/CN/4001-1-Rev 0              |\n| Tömningstid: | 8 s      | Certifiering: | EN3-7, CE, Wheelmark            |\n| Arbetstryck: | 220 Bar  |               |                                 |\n| Arbetstryck: | 220 Bar  |               |                                 |\n| Cylindermaterial: | Stål     |               |                                 |\n| Drivgas: | Nitrogen |               |                                 |\n| Bruttovikt (kg): | 6",  
+    "unit": "B",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| Modell: | K2 | |-----------------------------------|----------|---------------|---------------------------------| | Effektivitetsklass: | 34B | Artikel: | 600066-60 | | Temperaturområde: -30 °C / +6...",  
+  "pattern": "(?i)(?:effektivitetsklass|efficiency class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 204,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50463334"  
+}
+

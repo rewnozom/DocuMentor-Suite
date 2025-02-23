@@ -1,0 +1,114 @@
+{  
+  "product_id": "50457195",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| ARTIKELNUMMER: | SPÄNNING: | E-NUM**MER: | MAX MÖ**JLIGT ANTAL: | |----------------------------------------------|---",  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## NOVA FLX S\n\n![](images/_page_0_Picture_2.jpeg)\n\nPOWER SUPPLIES - MADE IN SWEDEN\n\n- √ SSF1014, Larmklass 1-3 godkänd batteribackup\n- √ Intelligent charging funktion\n- √ Kvalificerat batterikapacitetstest\n- √ Kan kompletteras med flera olika tillvalskort\n- √ Väggmontage eller 19\" rack montage\n- √ Rymmer 2x 14Ah batterier men kan kompletteras med batteriboxar upp till 70Ah batterikapacitet\n\n![](images/_page_0_Picture_9.jpeg)\n\n![](images/_page_0_Picture_10.jpeg)\n\nNOVA FLX S används huvudsakligen i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller där kraven är högre gällande; högre flexibilitet, fler larmfunktioner, längre reservdrifttider eller när batteribackupen behöver hantera högre laster. NOVA Serien är systemcertifierad enligt SSF1014 tillsammans med flertalet system på den svenska marknaden. Milleteknik har försäljningsrätten emot två olika system på den svenska marknaden; Sentrion & Integra.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "batterityp",  
+      "value": "| 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4                                                                                                                                                                                                                                                                                                                                           |                                                                                    |                    |  |  |  |  |\n| Möjliga batterier för montering i kapsling: | 2 st",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Skyddsklass",  
+      "value": "20",  
+      "unit": "%"  
+    },  
+    {  
+      "category": "COLOR",  
+      "name": "färg",  
+      "value": "|                                                                                                                                                                                                                                                                                                                                                                                                       | Svart                                                                              |                    |  |  |  |  |\n| Inbyggd fläkt för kylning: | Ja                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                    |                    |  |  |  |  |\n| ELEKTRISK INFORMATION: |                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                    |                    |  |  |  |  |\n| Inspänning: |                                                                                                                                                                                                                                                                                                                                                                                                       | 110V-264VAC/47-63Hz                                                                |                    |  |  |  |  |\n| Utspänning: | 13,6 VDC                                                                                                                                                                                                                                                                                                                                                                                              | 27,3 VDC                                                                           |                    |  |  |  |  |\n| Max ström: | 10A                                                                                                                                                                                                                                                                                                                                                                                                   | 5A                                                                                 | 10A                |  |  |  |  |\n| Ladd ström: |                                                                                                                                                                                                                                                                                                                                                                                                       | Beroende av strömuttag, dock max; 4A                                               |                    |  |  |  |  |\n| Nominell effekt: | 150W                                                                                                                                                                                                                                                                                                                                                                                                  | 150W                                                                               | 240W               |  |  |  |  |\n| Rippel i normalläge: | 150mVp-p                                                                                                                                                                                                                                                                                                                                                                                              | 200mVp-p                                                                           | 200mVp-p           |  |  |  |  |\n| Effektivitet: | 87,5%                                                                                                                                                                                                                                                                                                                                                                                                 | 89%                                                                                | 89%                |  |  |  |  |\n| Värmegenerering vid 50% / 80% av märkeffekten: | 10W / 16W                                                                                                                                                                                                                                                                                                                                                                                             | 8W / 13W                                                                           | 17W / 27W          |  |  |  |  |\n| Ingångsström: | 1,7A                                                                                                                                                                                                                                                                                                                                                                                                  | 1,7A                                                                               | 2A                 |  |  |  |  |\n| Antal avsäkrade utgångar: | 2 st",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| 2 st",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "strömuttag dock max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "hantera högre laster",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "meddelar när batterierna måste bytas ut innan batterierna åldras",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "medföljer i batteriboxen",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| E-NUMMER | MAX MÖJLIGT ANTAL | |----------------------------------------------|------------------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 4x 14Ah batterier | Battery box 24V FLX S | FS010000024BB01 | 24V | 5213574 | 2x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 2x | | Jordfelsdetektormodul | Ground fault detector module | A-OT0024EA01LM01 | 24V | 5213594 | 2x | | Panel för extern montering av avsäkringskort | 19 rack module holder | 4U01000P00019P01 | 12V / 24V | 5001063 | - |",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5213574",  
+        "12245",  
+        "5213588",  
+        "5213594",  
+        "01000",  
+        "00019",  
+        "5001063"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| ARTIKELNAMN | ARTIKELNUMMER | SPÄNNING | E-NUMMER | MAX MÖJLIGT ANTAL | |----------------------------------------------|------------------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 4x 14Ah batterier | Battery box 24V FLX S | FS010000024BB01 | 24V | 5213574 | 2x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 2x | | Jordfelsdetektormodul | Ground fault detector module | A-OT0024EA01LM01 | 24V | 5213594 | 2x | | Panel för extern montering av avsäkringskort | 19 rack module holder | 4U01000P00019P01 | 12V / 24V | 5001063 | - |",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5213574",  
+        "12245",  
+        "5213588",  
+        "5213594",  
+        "01000",  
+        "00019",  
+        "5001063"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "NUMMER",  
+      "ikelnamn",  
+      "ikelnummer",  
+      "IKELTYP",  
+      "IKELNAMN",  
+      "IKELNUMMER"  
+    ]  
+  }  
+}
+

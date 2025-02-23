@@ -1,0 +1,55 @@
+{  
+  "product_id": "50134626",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n#### **Skydd**:\n\nAggregatet är skyddat mot överbelastning och kortslutning. Inbyggt skydd mot djupurladdning av batterierna. Nät och batteri är skyddas av säkring.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "drift av brandlarmsutrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "designed_for",  
+      "related_product": "drift av brandlarmsutrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "AC och DC får använda arbeta **SM40** serva/underhålla installera denna enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "grundligt och förstås av all handhavande personal",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "#### **Indikeringar och larm** | Drift | Indikeras med grön lysdiod",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Certifierad av tredje part enl",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

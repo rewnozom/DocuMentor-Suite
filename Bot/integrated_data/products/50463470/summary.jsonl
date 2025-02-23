@@ -1,0 +1,65 @@
+{  
+  "product_id": "50463470",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri skyddas av säkringar. **Indikeringar och larm:** Nätspänning indikeras med grön lysdiod på fronten Är försedd med larmrelä för nätavbrott.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "SGMII ### **Produktinformation** 10/100/1000M SFP över koppar RJ45 2633i Transceiver Upp till 125 Gb/s dubbelriktade datalänkar 1 Gb Ethernet över CAT5-kabel 1000BASE-T 10/100/1000 Mbps II-kompatibel 0Mbps II-kompatibel 70? ### **Snabbfakta** - 100Base-FX Singlemode fiber 20 km - Hot-swap ger non-stop service - DDM för enkel statusövervakning ### **Produktinformation** Single Mode SFP Transceiver med LC-kontakt Dual Fiber 125G 1310nm FP lasersändare och PIN-fotodetektor kompatibel med SFP MSA och SFF-8472",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "SFP MSA och SFF-8472",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "passage - portelefon och bilder",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "SGMII ### **Produktinformation** 10/100/1000M SFP över koppar RJ45 2633i Transceiver Upp till 125 Gb/s dubbelriktade datalänkar 1 Gb Ethernet över CAT5-kabel 1000BASE-T 10/100/1000 Mbps II-kompatibel 0Mbps II-kompatibel 70? ### **Snabbfakta** - 100Base-FX Singlemode fiber 20 km - Hot-swap ger non-stop service - DDM för enkel statusövervakning ### **Produktinformation** Single Mode SFP Transceiver med LC-kontakt Dual Fiber 125G 1310nm FP lasersändare och PIN-fotodetektor kompatibel med SFP MSA och SFF-8472",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "SFP MSA och SFF-8472",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "stå handfallen oavsett vilket behov du möter ute i fält",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "designed_for",  
+      "related_product": "passage - portelefon och bilder",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är avsett att användas för kommunikation och fyra portar med PoE RJ45 8-pol som är försedda med led för datatrafik och status",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "grundligt och förstås av all handhavande personal",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

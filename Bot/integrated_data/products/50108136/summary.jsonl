@@ -1,0 +1,39 @@
+{  
+  "product_id": "50108136",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "EN54-4**\n\n![](images/_page_0_Picture_2.jpeg)\n\n![](images/_page_0_Picture_3.jpeg)\n\n## **Skydd**:\n\nAggregatet är skyddat mot överbelastning och kortslutning. Inbyggt skydd mot djupurladdning av\n\nbatterierna. Nät och batteri är skyddas av säkring.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "drift av brandlarmsutrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "designed_for",  
+      "related_product": "drift av brandlarmsutrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | | | | | 5247057 | SM950 | Larmdonskort | | 5 Utgångar | | | |",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5247057"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "# **Indikeringar och larm** | Drift<br>Fel | Indikeras med grön lysdiod",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

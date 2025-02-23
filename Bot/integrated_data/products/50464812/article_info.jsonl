@@ -1,0 +1,14 @@
+{  
+  "identifier": "ercnce",  
+  "original": "ercnce",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "uct type | Product Description | Concentration >0.1% w/w | SCIP refercnce number | |----------------**|--------**------------------------------|------------------",  
+  "source": "regex",  
+  "product_id": "50464812"  
+}
+

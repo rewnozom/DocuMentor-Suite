@@ -1,0 +1,115 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "to be considered when calculating the required capacity of a power supply system",  
+  "context": "apacity. Deep discharge situations should be avoided to help protect the life of the battery. The operating temperature **needs to be considered, when calculating the required capacity of a power supply system.** The available capacity decreases with To charge batteries of the AB... Series a battery charger is required, which limi",  
+  "position": [  
+    2018,  
+    2106  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155012"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "to be provided",  
+  "context": "charging facility is likely to be in an area with unstable temperature, then a temperature compensated battery charger n**eeds to be provided. **# PS - 12170 12v/1.70Ah Flame retardant battery ## **Dimensions (mm)** ![](images/_page_1_Figure_4.jpeg) ## **Standard termina",  
+  "position": [  
+    2424,  
+    2445  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155012"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "protection systems",  
+  "context": "00% recyclable ## **Description** ### **Application** The maintenance free, sealed lead battery of the PS... Series are **suitable for protection systems.** They can be used for intrusion, fire and access control systems to guarantee their continuous operation in case of a po",  
+  "position": [  
+    550,  
+    582  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155012"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "Data and design subject to change without notice",  
+  "context": "------------|--------| | PS12170 | N54545-Z158-A100 | Battery 12v/17.0Ah Flame Ret. | 5.7Kg | www.vanderbiltindustries.c**om Data and design subject to change without notice.** Supply subject to availability. © Vanderbilt 2017",  
+  "position": [  
+    6080,  
+    6132  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155012"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "change without notice",  
+  "context": "--| | PS12170 | N54545-Z158-A100 | Battery 12v/17.0Ah Flame Ret. | 5.7Kg | www.vanderbiltindustries.com Data and design **subject to change without notice.** Supply subject to availability. © Vanderbilt 2017",  
+  "position": [  
+    6099,  
+    6132  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155012"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "availability",  
+  "context": "y 12v/17.0Ah Flame Ret. | 5.7Kg | www.vanderbiltindustries.com Data and design subject to change without notice. Supply **subject to availability.** © Vanderbilt 2017",  
+  "position": [  
+    6140,  
+    6164  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155012"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "at 0°C the capacity drops to 85% of its nominal value (see Fig",  
+  "context": "tage. If possible the correct size of battery should be chosen for the load of the system. the operating temperature, e.**g. at 0°C the capacity drops to 85% of its nominal value (see Fig.** 2). The operation of the battery below the end-point voltage will lead to a deep discharge of the battery. Deep dischar",  
+  "position": [  
+    1433,  
+    1499  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155012"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| F1 | | Approvals | VdS – G 103145 | #### **Ordering Data** | Type | Art",  
+  "context": "| 178 ± 2 mm | | - Width | 35 ± 2 mm | | - Container height | 60 ± 2 mm | | - Terminal height | 66 ± 2 mm | | Terminal t**ype | F1 | | Approvals | VdS – G 103145 | #### **Ordering Data** | Type | Art. **No. | Designation | Weight | |---------|------------------|-------------------------------|--------| | PS12170 | N54545",  
+  "position": [  
+    5802,  
+    5881  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "103145"  
+  ],  
+  "product_id": "50155012"  
+}
+

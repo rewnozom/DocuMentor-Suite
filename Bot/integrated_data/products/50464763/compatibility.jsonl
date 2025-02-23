@@ -1,0 +1,3234 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "fast installation",  
+  "context": "m Rökluckor 8.1.4. Larm Enheten larmar för: Underspänning/låg batterispänning. ## 8.1.5. Fast installation Produkten är **avsedd för fast installation.** Installation skall utföras av behörig installatör. ## 8.1.6. Test av batteribackup innan installation av 230 V Test, \"c",  
+  "position": [  
+    14433,  
+    14462  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "more information you should firstly turn to retailers who will also be able to answer questions about warranty and support",  
+  "context": "label with information about the product and contact information for the manufacturer. If you are missing something or n**eed more information, you should firstly turn to retailers who will also be able to answer questions about warranty and support. **You can always contact the manufacturer if you have questions about the product's performance. ### 8.8.3. Support Do yo",  
+  "position": [  
+    61216,  
+    61345  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "help with installation or connections? Our support phone is available Monday-Thursday 08 00-16 00 and Fridays 08 00-15 00",  
+  "context": "ou can always contact the manufacturer if you have questions about the product's performance. ### 8.8.3. Support Do you **need help with installation or connections? Our support phone is available: Monday-Thursday 08: 00-16: 00 and Fridays 08: 00-15: 00.** Telephone support is closed between 11: 30-13: 15. You can also send e-mail, we respond, on weekdays, usually in 24 hou",  
+  "position": [  
+    61467,  
+    61599  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "to be replaced after 2-3 years",  
+  "context": "ctors such as heat and load affect service life. Batteries that have a durability (+6 Design lLife) of 6+ years usually **need to be replaced after 2-3 years.** ## 8.9.3. 4.5 Ah 12 V AGM battery | Battery type | V | Ah | |------------------------------------------|------|--------",  
+  "position": [  
+    63311,  
+    63347  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "to be replaced after 2-3 years",  
+  "context": "ctors such as heat and load affect service life. Batteries that have a durability (+6 Design lLife) of 6+ years usually **need to be replaced after 2-3 years.** ## 8.9.4. Reserve operating times for different alarm classes - overview The table shows the requirements for backup op",  
+  "position": [  
+    64180,  
+    64216  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "mer information då skall du främst vända dig till återförsäljare som också skall kunna svara på frågor om garanti och support",  
+  "context": "dukt som sitter en CE-etikett med information om produkten och kontaktuppgifter till tillverkare. Saknar du något eller **behöver mer information då skall du främst vända dig till återförsäljare som också skall kunna svara på frågor om garanti och support.** Du kan alltid vända dig till tillverkaren om du har frågor om produktens prestanda. ![](images/_page_23_Picture_2.jpeg) ## 8.8",  
+  "position": [  
+    27361,  
+    27495  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 0800-1600 och fredagar 0800-1500",  
+  "context": "id vända dig till tillverkaren om du har frågor om produktens prestanda. ![](images/_page_23_Picture_2.jpeg) ## 8.8.3. Support **Behöver du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 08:00-16:00 och fredagar 08:00-15:00.** Telefonsupport har stängt mellan 11:30-13:15. Du kan även skicka e-post, vi svarar, under vardagar, inom 24 timmar. Tel",  
+  "position": [  
+    27627,  
+    27768  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "the wall to mount the cabinet",  
+  "context": "therboard. | | D | Cable entries. | | E | Space for batteries. | ## 3. ENCLOSURES ## 3.1. Wall mounting Use four screws **suitable for the wall to mount the cabinet.** The distance between the screw head and the wall should be 1.5–2 mm. Preferably leave a 100 mm air gap around the unit.",  
+  "position": [  
+    38292,  
+    38335  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "the wall to set up the cabinet",  
+  "context": "air gap around the unit. <span id=\"page-32-0\"></span>![](images/_page_32_Figure_0.jpeg) ## 3.2. Wall mounting Use four screws s**uitable for the wall to set up the cabinet. **The distance between the screw head and the wall should be 1.5–2 mm. Preferably leave a 100 mm air gap around the unit.",  
+  "position": [  
+    38550,  
+    38594  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "res- och eller arbetstid i samband med lokalisering av fel installerande av reparerad eller utbytt vara ingår ej i garantin",  
+  "context": "get annat avtalats). Kostnadsfri support under garantitiden nås på support@milleteknik.se eller telefon, 031-34 00 230. **Ersättning för res- och eller arbetstid i samband med lokalisering av fel, installerande av reparerad eller utbytt vara ingår ej i garantin.** Kontakta Milleteknik för mer information. Milleteknik ger support under produktens livslängd, dock som längst 10 år eft",  
+  "position": [  
+    26734,  
+    26874  
+  ],  
+  "pattern_index": 84,  
+  "pattern": "(?i)ersättning\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "4 | | |----------------------------------------------------------------------|--| | 1",  
+  "context": "Operating instructions, Bruksanvisning, Käyttöohjeet Publiceringsdatum 2023-03-07 Copyright © 2023 Milleteknik AB | 1. O**m 4 | | |----------------------------------------------------------------------|--| | 1.1**. Se installationsfilm 4 | | | 1.2. Namn, artikelnummer och e-nummer 5 | | | 1.3. Revisioner och om detta dokuments utg",  
+  "position": [  
+    288,  
+    377  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "detta dokuments utgåva 5 | | | 2",  
+  "context": "-------------|--| | 1.1. Se installationsfilm 4 | | | 1.2. Namn, artikelnummer och e-nummer 5 | | | 1.3. Revisioner och **om detta dokuments utgåva 5 | | | 2.** Komponentöversikt 5 | | | 2.1. Komponentöversikt ECO 12V 5A S, ECO 24V 3A S 5 | | | 2.2. Komponentöversikt ECO 12V 10A",  
+  "position": [  
+    475,  
+    511  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visas på skåplucka / indikeringsdiod 14 | | | 8",  
+  "context": "5.1.5. Styr larmgräns 13 | | | 5.1.6. Säkringar 14 | | | 6. Driftsättning - hur enheten skall startas 14 | | | 7. Larm s**om visas på skåplucka / indikeringsdiod 14 | | | 8.** Produktblad - Tekniska data 16 | | | 8.1. Produktblad / tekniska data 16 | | | 8.1.1. Namn, artikelnummer och e-nummer",  
+  "position": [  
+    1342,  
+    1393  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "17 | | | 8",  
+  "context": "ekniska data 16 | | | 8.1. Produktblad / tekniska data 16 | | | 8.1.1. Namn, artikelnummer och e-nummer 17 | | | 8.1.2. **Om 17 | | | 8.**1.3. Användningsområden 17 | | | | | | 8.1.4. Larm 18 | | | 8.1.5. Fast installation 18 | | | 8.1.6. Test av batteriback",  
+  "position": [  
+    1529,  
+    1543  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller 18 | | | 8",  
+  "context": "1.6. Test av batteribackup innan installation av 230 V 18 | | | 8.2. Regelverk och certifieringar 18 | | | 8.2.1. Krav s**om produkten uppfyller 18 | | | 8.**3. Förväntad drifttid vid strömavbrott (nya batterier) 18 | | | 8.4. Kretskort - Tekniska data 19 | | | 8.4.1. Tekniska",  
+  "position": [  
+    1759,  
+    1793  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkters prestanda? 24 | | | 8",  
+  "context": "---------------------------------|--| | 8.8.2. CE-märkning 24 | | | 8.8.3. Support 24 | | | Reservdelar 24 | | | Frågor **om produkters prestanda? 24 | | | 8.**8.4. Kontakta oss 24 | | | 8.8.5. Tillverkningsland 24 | | | 8.8.6. Tillverkare 24 | | | 8.9. Batterier 25 | | | 8.9.1.",  
+  "position": [  
+    2742,  
+    2778  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ECO-serien är driftsäkra och mindre batteribackuper för användning till passersystem låssystem och rökluckor",  
+  "context": "12 V AGM-batteri 25 | | | 8.9.4. Reservdrifttider - översikt 25 | | | 9. Adress och kontaktuppgifter 27 | | | | | ## 1. **OM ECO-serien är driftsäkra och mindre batteribackuper för användning till passersystem, låssystem och rökluckor.** Batteribackuperna har kontrollerad laddning* (controlled charging). *Kontrollerad laddning (controlled charging) förhin",  
+  "position": [  
+    3101,  
+    3214  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "detta dokuments utgåva Gällande och senast publicerad utgåva av detta dokument finns på www",  
+  "context": "13521 | | ECO 24V 10A M | ME01C10224P100 | 5213522 | | ECO 12V 5A S | SM01C10212P050 | 5213650 | ## 1.3. Revisioner och **om detta dokuments utgåva Gällande och senast publicerad utgåva av detta dokument finns på www.**milleteknik.se. Detta dokuments giltighet kan inte garanteras, då ny utgåva publiceras utan föregående meddelande. Bruks",  
+  "position": [  
+    4173,  
+    4268  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har dubbelstift från kretskort kopplas direkt på batteri-plus och säkringens ena kabel",  
+  "context": "--------------------------------------------| | A | Säkringens kabel kopplas på batteriets pluspol. | | B | Pluskabel, s**om har dubbelstift, från kretskort kopplas direkt på batteri-plus och säkringens ena kabel.** | | C | Säkring mellan pluspoler på de bägge batterierna. | | D | Batterisäkring på moderkort. | | E | Batterikablar fr",  
+  "position": [  
+    7051,  
+    7142  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har dubbelstift från kretskort kopplas på batteri-minus och säkringens ena kabel",  
+  "context": "å de bägge batterierna. | | D | Batterisäkring på moderkort. | | E | Batterikablar från moderkort. | | F | Minuskabel, s**om har dubbelstift, från kretskort kopplas på batteri-minus och säkringens ena kabel.** | | G | Säkringens andra kabel kopplas på batteriets minuspol. | | H | Säkring mellan minuspoler på de bägge batteriern",  
+  "position": [  
+    7297,  
+    7382  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "följer med enheten i en påse skall inte användas när 1 batteri används",  
+  "context": "och minuspol. | | | B | Batterisäkring sitter på kretskort. | | ![](images/_page_9_Picture_5.jpeg) #### **NOTERA** Säkringar so**m följer med enheten i en påse skall inte användas när 1 batteri används. **## <span id=\"page-10-0\"></span>4.4. Inkoppling av batteri i ECO S 24 V Figur 4. Inkoppling av två (12 V) batteri med sä",  
+  "position": [  
+    7941,  
+    8015  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan uppstå i samband med kortslutning skall anslutningar till moderkort ske i denna ordning",  
+  "context": "erkort. | # 5. CEO3-ECO ## 5.1. Moderkort beskrivning ## 5.1.1. Anslut i denna ordning För att minimera risken för fel s**om kan uppstå i samband med kortslutning skall anslutningar till moderkort ske i denna ordning.** <span id=\"page-11-0\"></span>![](images/_page_11_Picture_0.jpeg) #### Tabell 6. Anslut i denna ordningen | Nr | Förklaring | |-",  
+  "position": [  
+    8663,  
+    8758  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "| | | P36 | NO | | ### 5",  
+  "context": "l 7. Anslut larm P3 | P3:4-6 | Förklaring | | |-----------|------------|--| | Summalarm | | | | P3:4 | NC | | | P3:5 | C**om | | | P3:6 | NO | | ### 5.**1.3. Anslut last ![](images/_page_11_Picture_9.jpeg) #### Tabell 8. Lastanslutningar | Nummer på kretskort | Förklaring | |----",  
+  "position": [  
+    9193,  
+    9222  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kabelgenomföringen på skåpet",  
+  "context": "av 230 V till enheten. Maximal kabelarea är 4 mm2 ## 5.1.4. Anslut elnät till moderkort med plint För elnätskablage geno**m kabelgenomföringen på skåpet. **Säkra F och N med buntband. Elnätskablage skall hållas åtskilt annat kablage för att undvika EMC-störningar. Figur 5. A",  
+  "position": [  
+    10107,  
+    10139  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ta bort eller skapa slutning på JU2",  
+  "context": "ingen på plinten. ## 5.1.5. Styr larmgräns Larm för låg batterispänning i batteridrift kan styras. Larmgränsen styrs gen**om att ta bort eller skapa slutning på JU2.** Larm ges när batterispänningen i batteridrift sjunker under gränsen. <span id=\"page-13-0\"></span> | Larmgräns vid låg b",  
+  "position": [  
+    10805,  
+    10848  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkring byts till en större än vad enheten levereras med",  
+  "context": "Lastsäkring + | | Samtliga | F7 | T16A | Batterisäkring | ## **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger **om säkring byts till en större än vad enheten levereras med.** Säkringens funktion är att skydda ansluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring",  
+  "position": [  
+    11620,  
+    11680  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "VISAS PÅ SKÅPLUCKA / INDIKERING-SDIOD I normalläge visar indikeringsdioden ett fast grönt sken",  
+  "context": "/ skåplucka, för övriga statusindikationer. Det kan ta upp till 72 timmar innan batterier är fullt laddade. ## 7. LARM S**OM VISAS PÅ SKÅPLUCKA / INDIKERING-SDIOD I normalläge visar indikeringsdioden ett fast grönt sken.** ![](images/_page_14_Picture_0.jpeg) | Indikeringsdioden visar | Förklaring | |-------------------------|----------------------",  
+  "position": [  
+    12592,  
+    12690  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ECO-serien är driftsäkra och mindre batteribackuper för användning till passersystem låssystem och rökluckor",  
+  "context": "0224P050 | 5213521 | | ECO 24V 10A M | ME01C10224P100 | 5213522 | | ECO 12V 5A S | SM01C10212P050 | 5213650 | ## 8.1.2. **Om ECO-serien är driftsäkra och mindre batteribackuper för användning till passersystem, låssystem och rökluckor.** Batteribackuperna har kontrollerad laddning* (controlled charging). *Kontrollerad laddning (controlled charging) förhin",  
+  "position": [  
+    13806,  
+    13919  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "montören ej är behörig elektriker men ändå vill kunna prova systemet",  
+  "context": "pen kan driftsättas med endast batterierna anslutna utan att batteribackupen är ansluten till 230 V. Detta är praktiskt **om montören ej är behörig elektriker men ändå vill kunna prova systemet.** ## 8.2. Regelverk och certifieringar ## 8.2.1. Krav som produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |------",  
+  "position": [  
+    14737,  
+    14809  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller | EMC | EMC Direktivet 2014/30EU | |------|------------------------------------| | El | Lågspänningsdirektivet 2014/35/EU | | CE | CE direktivet enligt765/2008 | ## 8",  
+  "context": "tören ej är behörig elektriker men ändå vill kunna prova systemet. ## 8.2. Regelverk och certifieringar ## 8.2.1. Krav s**om produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |------|------------------------------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | CE: | CE direktivet enligt:765/2008 | ## 8.**3. Förväntad drifttid vid strömavbrott (nya batterier) | Systems<br>pänning | Antal<br>batteri<br>er | Batteri<br>typ |",  
+  "position": [  
+    14863,  
+    15058  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tidigare inte<br>var möjliga i enklare batteribackuper är nu tillgängliga som standardutförande",  
+  "context": "3-ECO | | Produktbeskrivning | CEO 3 är nästa generations kretskort för enklare batteribackuper. Avancerade funktioner s**om tidigare inte<br>var möjliga i enklare batteribackuper är nu tillgängliga som standardutförande.** CEO 3 är ett driftsäkert<br>hjärta i enklare batteribackuper med färre komponenter än tidigare vilket minskar miljöpåve",  
+  "position": [  
+    16431,  
+    16530  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är prioriterade lastutgångar (= alltid spänning)",  
+  "context": "5 mm x 52 mm | | Egenförbrukning | 50 mA | | Säkringar | Se tabell: Säkringar. | | Utgångar | Utgång: två lastutgångar s**om är prioriterade lastutgångar (= alltid spänning).** | | Avsäkring | Lastutgång: + avsäkrad, se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat frå",  
+  "position": [  
+    16794,  
+    16846  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visar driftstatus larm och fel",  
+  "context": "gräns. | | Larm via | Larm på potentialfri reläkontakt. Potentialfri växling. Slutning CO/NO. | | Indikering | Lysdiod s**om visar driftstatus, larm och fel.** | ## **STYR LARMGRÄNS MED JU2** ### **STYR LARMGRÄNS** Larm för låg batterispänning i batteridrift kan styras. Larmgrän",  
+  "position": [  
+    17266,  
+    17301  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ta bort eller skapa slutning på JU2",  
+  "context": "LARMGRÄNS MED JU2** ### **STYR LARMGRÄNS** Larm för låg batterispänning i batteridrift kan styras. Larmgränsen styrs gen**om att ta bort eller skapa slutning på JU2.** Larm ges när batterispänningen i batteridrift sjunker under gränsen. Tabell 14. Larmgränser | Larmgräns vid låg batteri",  
+  "position": [  
+    17434,  
+    17477  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkring byts till en större än vad enheten levereras med",  
+  "context": "<span id=\"page-19-0\"></span>![](images/_page_19_Picture_0.jpeg) ## **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger o**m säkring byts till en större än vad enheten levereras med. **Säkringens funktion är att skydda ansluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring",  
+  "position": [  
+    18297,  
+    18357  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är anpassade och kalibrerade får användas",  
+  "context": "e | | | **Sitter i:** Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara. Endast nätaggregat s**om är anpassade och kalibrerade får användas.** Kontakta support vid byte av nätaggregat. Användning av nätaggregat som kommer från annan källa kan orsaka skador som i",  
+  "position": [  
+    19452,  
+    19497  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer från annan källa kan orsaka skador som inte täcks av garantin",  
+  "context": "gat som är anpassade och kalibrerade får användas. Kontakta support vid byte av nätaggregat. Användning av nätaggregat s**om kommer från annan källa kan orsaka skador som inte täcks av garantin.** Garanti upphävs om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.",  
+  "position": [  
+    19567,  
+    19639  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används",  
+  "context": "at. Användning av nätaggregat som kommer från annan källa kan orsaka skador som inte täcks av garantin. Garanti upphävs **om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.** ## 8.5.2. Nätaggregat - Tekniska Data LRS-150-12 | | Sitter i: | |---------------|-----------| | ECO 12V 10A M | | | In",  
+  "position": [  
+    19656,  
+    19759  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är anpassade och kalibrerade får användas",  
+  "context": "H icke kondenserade | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara. Endast nätaggregat s**om är anpassade och kalibrerade får användas.** Kontakta support vid byte av nätaggregat. Användning av nätaggregat som kommer från annan källa kan orsaka skador som i",  
+  "position": [  
+    20745,  
+    20790  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer från annan källa kan orsaka skador som inte täcks av garantin",  
+  "context": "gat som är anpassade och kalibrerade får användas. Kontakta support vid byte av nätaggregat. Användning av nätaggregat s**om kommer från annan källa kan orsaka skador som inte täcks av garantin.** Garanti upphävs om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.",  
+  "position": [  
+    20860,  
+    20932  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används",  
+  "context": "at. Användning av nätaggregat som kommer från annan källa kan orsaka skador som inte täcks av garantin. Garanti upphävs **om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.** ## 8.5.3. Nätaggregat - Tekniska Data LRS-75-24 ECO 24V 3A S **Sitter i:** | Info | Förklaring | |---------------------",  
+  "position": [  
+    20949,  
+    21052  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är anpassade och kalibrerade får användas",  
+  "context": "kondenserade | | | | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara. Endast nätaggregat so**m är anpassade och kalibrerade får användas. **Kontakta support vid byte av nätaggregat. Användning av nätaggregat som kommer från annan källa kan orsaka skador som i",  
+  "position": [  
+    21903,  
+    21948  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer från annan källa kan orsaka skador som inte täcks av garantin",  
+  "context": "gat som är anpassade och kalibrerade får användas. Kontakta support vid byte av nätaggregat. Användning av nätaggregat s**om kommer från annan källa kan orsaka skador som inte täcks av garantin.** Garanti upphävs om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.",  
+  "position": [  
+    22018,  
+    22090  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används",  
+  "context": "at. Användning av nätaggregat som kommer från annan källa kan orsaka skador som inte täcks av garantin. Garanti upphävs **om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.** **Sitter i:** ## 8.5.4. Nätaggregat - Tekniska Data LRS-150-24 ECO 24V 5A M | Info | Förklaring | |--------------------",  
+  "position": [  
+    22107,  
+    22210  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är anpassade och kalibrerade får användas",  
+  "context": "H icke kondenserade | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara. Endast nätaggregat s**om är anpassade och kalibrerade får användas.** Kontakta support vid byte av nätaggregat. Användning av nätaggregat som kommer från annan källa kan orsaka skador som i",  
+  "position": [  
+    23155,  
+    23200  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer från annan källa kan orsaka skador som inte täcks av garantin",  
+  "context": "gat som är anpassade och kalibrerade får användas. Kontakta support vid byte av nätaggregat. Användning av nätaggregat s**om kommer från annan källa kan orsaka skador som inte täcks av garantin.** Garanti upphävs om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.",  
+  "position": [  
+    23270,  
+    23342  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används",  
+  "context": "at. Användning av nätaggregat som kommer från annan källa kan orsaka skador som inte täcks av garantin. Garanti upphävs **om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.** ## 8.5.5. Nätaggregat - Tekniska Data RSP-320-24 **Sitter i:** ECO 24V 10A M | Info | Förklaring | |-------------------",  
+  "position": [  
+    23359,  
+    23462  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är anpassade och kalibrerade får användas",  
+  "context": "icke kondenserade | | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara. Endast nätaggregat s**om är anpassade och kalibrerade får användas.** Kontakta support vid byte | | av nätaggregat. Användning av nätaggregat som kommer från annan källa kan orsaka skador s",  
+  "position": [  
+    24429,  
+    24474  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer från annan källa kan orsaka skador som inte täcks av garantin",  
+  "context": "som är anpassade och kalibrerade får användas. Kontakta support vid byte | | av nätaggregat. Användning av nätaggregat s**om kommer från annan källa kan orsaka skador som inte täcks av garantin.** Garanti upphävs om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.",  
+  "position": [  
+    24548,  
+    24620  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används",  
+  "context": "at. Användning av nätaggregat som kommer från annan källa kan orsaka skador som inte täcks av garantin. Garanti upphävs **om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.** ## 8.6. Tekniska data kapsling ## 8.6.1. Kapslingar - Tekniska Data S | Info | Förklaring | |----------------|---------",  
+  "position": [  
+    24637,  
+    24740  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "får plats i kapsling | 1 stycken 12 V 23 Ah",  
+  "context": "0% relativ fuktighet | | Material | Pulverlackerad plåt | | Färg | Vit | | Kabelgenomföringar, antal | 3 | | Batterier s**om får plats i kapsling | 1 stycken 12 V, 2,3 Ah.** | | | 2 stycken 12 V, 2,3 Ah. | | | 2 stycken 12 V, 4,5 Ah. | | | | | Fläkt | Nej | ## 8.6.2. Kapslingar - Tekniska Dat",  
+  "position": [  
+    25443,  
+    25492  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "får plats | 2 stycken 12 V 7",  
+  "context": "0% relativ fuktighet | | Material | Pulverlackerad plåt | | Färg | Vit | | Kabelgenomföringar, antal | 5 | | Batterier s**om får plats | 2 stycken 12 V 7.**2 Ah. | | | 2 stycken 12 V 14 Ah. | | | | | Fläkt | Nej: 5 A, 12 V -24 V enheter. | | | Ja: 10 A, 24 V enheter. | ## 8.7",  
+  "position": [  
+    26126,  
+    26158  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "inget annat avtalats)",  
+  "context": "aranti, support, tillverkningsland och ursprungsland ## 8.8.1. Garanti Produkten har två års garanti, från inköpsdatum (**om inget annat avtalats).** Kostnadsfri support under garantitiden nås på support@milleteknik.se eller telefon, 031-34 00 230. Ersättning för res-",  
+  "position": [  
+    26609,  
+    26634  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "längst 10 år efter inköpsdatum",  
+  "context": "ngår ej i garantin. Kontakta Milleteknik för mer information. Milleteknik ger support under produktens livslängd, dock s**om längst 10 år efter inköpsdatum.** Byte till likvärdig produkt kan förekomma om Milleteknik bedömer att reparation inte är möjlig. Kostnader för support t",  
+  "position": [  
+    26975,  
+    27009  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "Milleteknik bedömer att reparation inte är möjlig",  
+  "context": "support under produktens livslängd, dock som längst 10 år efter inköpsdatum. Byte till likvärdig produkt kan förekomma o**m Milleteknik bedömer att reparation inte är möjlig. **Kostnader för support tillkommer efter det att garantitiden har gått ut. ## <span id=\"page-23-0\"></span>8.8.2. CE-märkn",  
+  "position": [  
+    27052,  
+    27105  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "sitter en CE-etikett med information om produkten och kontaktuppgifter till tillverkare",  
+  "context": "tillkommer efter det att garantitiden har gått ut. ## <span id=\"page-23-0\"></span>8.8.2. CE-märkning På varje produkt so**m sitter en CE-etikett med information om produkten och kontaktuppgifter till tillverkare. **Saknar du något eller behöver mer information då skall du främst vända dig till återförsäljare som också skall kunna sv",  
+  "position": [  
+    27247,  
+    27338  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "också skall kunna svara på frågor om garanti och support",  
+  "context": "ifter till tillverkare. Saknar du något eller behöver mer information då skall du främst vända dig till återförsäljare s**om också skall kunna svara på frågor om garanti och support.** Du kan alltid vända dig till tillverkaren om du har frågor om produktens prestanda. ![](images/_page_23_Picture_2.jpeg) ## 8.8",  
+  "position": [  
+    27435,  
+    27495  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du har frågor om produktens prestanda",  
+  "context": "återförsäljare som också skall kunna svara på frågor om garanti och support. Du kan alltid vända dig till tillverkaren o**m du har frågor om produktens prestanda. **![](images/_page_23_Picture_2.jpeg) ## 8.8.3. Support Behöver du hjälp med installation eller inkoppling? Vår supporttelefon f",  
+  "position": [  
+    27538,  
+    27579  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "24 timmar",  
+  "context": "agar 08:00-15:00. Telefonsupport har stängt mellan 11:30-13:15. Du kan även skicka e-post, vi svarar, under vardagar, in**om 24 timmar.** Telefon: 031- 340 02 30, e-post: [support@milleteknik.se](mailto:support@milleteknik.se). Du hittar mer information på",  
+  "position": [  
+    27871,  
+    27884  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "reservdelar se kontaktuppgifter ovan",  
+  "context": "www.milletek](http://www.milleteknik.se)[nik.se](http://www.milleteknik.se). ## **RESERVDELAR** Support hanterar frågor **om reservdelar, se kontaktuppgifter ovan.** ## **FRÅGOR OM PRODUKTERS PRESTANDA?** Telefon till försäljning: 031- 340 02 30, e-post: [sales@milleteknik.se](mailto:",  
+  "position": [  
+    28125,  
+    28166  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PRODUKTERS PRESTANDA?** Telefon till försäljning 031- 340 02 30 e-post [sales@milleteknik",  
+  "context": "//www.milleteknik.se). ## **RESERVDELAR** Support hanterar frågor om reservdelar, se kontaktuppgifter ovan. ## **FRÅGOR **OM PRODUKTERS PRESTANDA?** Telefon till försäljning: 031- 340 02 30, e-post: [sales@milleteknik.**se](mailto:sales@milleteknik.se) 8.8.4. Kontakta oss Milleteknik AB Ögärdesvägen 8 B 433 30 Partille Sverige +46 31-34 0",  
+  "position": [  
+    28179,  
+    28275  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "värme och last påverkar livslängden",  
+  "context": "<br>mm | 60x178x35 mm | 1,0 kg | UPLUS | *Design life är hållbarheten, i år, för ej använt batteri. Omgivningsfaktorer s**om värme och last påverkar livslängden.** Batterier som har en hållbarhet (+6 Design lLife) på 6+ år brukar behöva bytas efter 2-3 år. ## 8.9.3. 4,5 Ah 12 V AGM-",  
+  "position": [  
+    29315,  
+    29354  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har en hållbarhet (+6 Design lLife) på 6+ år brukar behöva bytas efter 2-3 år",  
+  "context": "fe är hållbarheten, i år, för ej använt batteri. Omgivningsfaktorer som värme och last påverkar livslängden. Batterier s**om har en hållbarhet (+6 Design lLife) på 6+ år brukar behöva bytas efter 2-3 år.** ## 8.9.3. 4,5 Ah 12 V AGM-batteri | Batterityp | V | Ah | | |---------------------------------------|------|--------|--",  
+  "position": [  
+    29366,  
+    29447  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "värme och last påverkar livslängden",  
+  "context": "4,8 mm | 107x90x70 mm | 1,5 kg | UPLUS | *Design life är hållbarheten, i år, för ej använt batteri. Omgivningsfaktorer s**om värme och last påverkar livslängden.** Batterier som har en hållbarhet (+6 Design lLife) på 6+ år brukar behöva bytas efter 2-3 år. ## 8.9.4. Reservdrifttider",  
+  "position": [  
+    30146,  
+    30185  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har en hållbarhet (+6 Design lLife) på 6+ år brukar behöva bytas efter 2-3 år",  
+  "context": "fe är hållbarheten, i år, för ej använt batteri. Omgivningsfaktorer som värme och last påverkar livslängden. Batterier s**om har en hållbarhet (+6 Design lLife) på 6+ år brukar behöva bytas efter 2-3 år.** ## 8.9.4. Reservdrifttider - översikt Tabellen visar beräknad och förväntad reservdrifttid vid olika belastningar på ba",  
+  "position": [  
+    30197,  
+    30278  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "konfigurationen klarar batterier och strömstyrka",  
+  "context": "varför exakt tid ej kan lämnas. Gäller nya batterier. Strömstyrka och batterier varierar med konfiguration, kontrollera **om konfigurationen klarar batterier och strömstyrka.** #### Tabell 17. Reservdrifttider 12 V enheter - utan batteribox | Medelström | 14 Ah | 28 Ah | 40 Ah | |------------|--",  
+  "position": [  
+    30713,  
+    30765  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "being overcharged which significantly extends their service life",  
+  "context": "g systems and smoke hatches. The battery backups have controlled charging *. * Controlled charging prevents batteries fr**om being overcharged, which significantly extends their service life.** ![](images/_page_29_Picture_5.jpeg) ### **NOTICE** This unit should be installed on a wall or in a 19\" rack, indoors. The temp",  
+  "position": [  
+    36106,  
+    36175  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the side with the battery terminals toward the center",  
+  "context": ". Connecting batteries in S and M Mains voltage should be disconnected when connecting batteries - 1. Slide batteries fr**om the side with the battery terminals toward the center.** Only use new batteries during installation and battery replacement. - 2. Connect fuses on batteries. Connect red cable",  
+  "position": [  
+    39056,  
+    39113  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "battery backup to batteries",  
+  "context": "cement. - 2. Connect fuses on batteries. Connect red cable to + (plus) and black cable to (minus) - 3. Connect cables fr**om battery backup to batteries.** Connect red cable to + (plus) and black cable to (minus) ![](images/_page_33_Figure_6.jpeg) Figure 1. Slide the battery from t",  
+  "position": [  
+    39294,  
+    39325  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the side with the battery terminals toward the center",  
+  "context": "ies. Connect red cable to + (plus) and black cable to (minus) ![](images/_page_33_Figure_6.jpeg) Figure 1. Slide the battery fr**om the side with the battery terminals toward the center.** The picture shows how cables should be connected. <span id=\"page-34-0\"></span>![](images/_page_34_Picture_0.jpeg) ## 4.2. Conn",  
+  "position": [  
+    39441,  
+    39498  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the circuit board is connected directly to the battery-plus and one of the fuse's<br>cables",  
+  "context": "| A | The fuse cable is connected to the positive terminal of the battery. | | B | Plus cable, which has double pins, fr**om the circuit board is connected directly to the battery-plus and one of the fuse's<br>cables.** | | C | Fuse between positive terminals on the two batteries. | | D | Battery fuse on motherboard. | | E | Battery cabl",  
+  "position": [  
+    40068,  
+    40163  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "motherboard",  
+  "context": "C | Fuse between positive terminals on the two batteries. | | D | Battery fuse on motherboard. | | E | Battery cables fr**om motherboard.** | | F | Minus cable, which has a double pin, from the circuit board is connected to the battery minus and one of the fu",  
+  "position": [  
+    40288,  
+    40303  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the circuit board is connected to the battery minus and one of the fuse<br>cables",  
+  "context": "| Battery fuse on motherboard. | | E | Battery cables from motherboard. | | F | Minus cable, which has a double pin, fro**m the circuit board is connected to the battery minus and one of the fuse<br>cables. **| | G | The other cable of the fuse is connected to the negative terminal of the battery. | | H | Fuse between negative",  
+  "position": [  
+    40351,  
+    40436  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the motherboard are connected to the battery plus and minus terminals",  
+  "context": "--|--------------------------------------------------------------------------------------------| | A | Battery cables fr**om the motherboard are connected to the battery plus and minus terminals.** | | B | Battery fuse is located on the circuit board. | ![](images/_page_35_Picture_5.jpeg) #### **NOTE** Fuses that come with",  
+  "position": [  
+    40926,  
+    40999  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "motherboard",  
+  "context": "C | Fuse between positive terminals on the two batteries. | | D | Battery fuse on motherboard. | | E | Battery cables fr**om motherboard.** | # 5. CEO3 V5 UP ## 5.1. Motherboard description ## 5.1.1. Connect in this order To minimize the risk of errors that m",  
+  "position": [  
+    41782,  
+    41797  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "| | P3 6 | NO | ### 5",  
+  "context": "ble 7. Connect alarm P3 | P3: 4-6 | Explanation | |-----------|-------------| | Sum-alarm | | | P3: 4 | NC | | P3: 5 | C**om | | P3: 6 | NO | ### 5.**1.3. Connect load ![](images/_page_37_Picture_9.jpeg) #### Table 8. Load connections | Circuit board number | Explanation | | |",  
+  "position": [  
+    42456,  
+    42482  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "other cabling to avoid EMC interference",  
+  "context": "If possible, secure the mains cable with cable ties where possible. Electrical network cabling shall be kept separate fr**om other cabling to avoid EMC interference.** Figure 5. Connect the mains to the motherboard ![](images/_page_38_Figure_12.jpeg) Connect the mains cable to the terminal bef",  
+  "position": [  
+    43326,  
+    43369  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "being overcharged which significantly extends their service life",  
+  "context": "g systems and smoke hatches. The battery backups have controlled charging *. * Controlled charging prevents batteries fr**om being overcharged, which significantly extends their service life.** - For AGM batteries. - Can be tested with only batteries connected. - Has controlled charging for better operating econ",  
+  "position": [  
+    47589,  
+    47658  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the factory) and the card's total load must not<br>exceed 16 A",  
+  "context": "outputs. | | Insurance | Load output: + secured. | | Max load | Maximum load is 10 A per load output (T2A is mounted fro**m the factory) and the card's total load must not<br>exceed 16 A. **| | Alarm outputs | Alarm outputs: Sum alarm in case of fuse fault, see indication below. Alarm on potential-free relay",  
+  "position": [  
+    50562,  
+    50628  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "another source may cause damage not covered by the warranty",  
+  "context": "and calibrated power supplies may be used. Contact support when changing power supplies. Use of power supplies coming fr**om another source may cause damage not covered by the warranty.** Warranty is canceled if power supplies (from a source other than support / designated by support) that are not correctl",  
+  "position": [  
+    53436,  
+    53499  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a source other than support / designated by support) that are not correctly calibrated are used",  
+  "context": "lies coming from another source may cause damage not covered by the warranty. Warranty is canceled if power supplies (fr**om a source other than support / designated by support) that are not correctly calibrated are used.** ## 8.5.2. Power supply - Technical Data LRS-150-12 ECO 12V 10A M | Info | Explanation | |------------------------------",  
+  "position": [  
+    53542,  
+    53641  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "another source may cause damage not covered by the warranty",  
+  "context": "and calibrated power supplies may be used. Contact support when changing power supplies. Use of power supplies coming fr**om another source may cause damage not covered by the warranty.** Warranty is canceled if power supplies (from a source other than support / designated by support) that are not correctl",  
+  "position": [  
+    54706,  
+    54769  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a source other than support / designated by support) that are not correctly calibrated are used",  
+  "context": "lies coming from another source may cause damage not covered by the warranty. Warranty is canceled if power supplies (fr**om a source other than support / designated by support) that are not correctly calibrated are used.** **In:** ## 8.5.3. Power supply - Technical Data LRS-75-24 ECO 24V 3A S | Info | Explanation | |------------------------",  
+  "position": [  
+    54812,  
+    54911  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "another source may cause damage not covered by the warranty",  
+  "context": "and calibrated power supplies may be used. Contact support when changing power supplies. Use of power supplies coming fr**om another source may cause damage not covered by the warranty.** Warranty is canceled if power supplies (from a source other than support / designated by support) that are not correctl",  
+  "position": [  
+    55869,  
+    55932  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a source other than support / designated by support) that are not correctly calibrated are used",  
+  "context": "lies coming from another source may cause damage not covered by the warranty. Warranty is canceled if power supplies (fr**om a source other than support / designated by support) that are not correctly calibrated are used.** ## 8.5.4. Power supply - Technical Data LRS-150-24 ECO 24V 5A M | Info | Explanation | |-------------------------------",  
+  "position": [  
+    55975,  
+    56074  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "another source may cause damage not covered by the warranty",  
+  "context": "and calibrated power supplies may be used. Contact support when changing power supplies. Use of power supplies coming fr**om another source may cause damage not covered by the warranty.** Warranty is canceled if power supplies (from a source other than support / designated by support) that are not correctl",  
+  "position": [  
+    57136,  
+    57199  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a source other than support / designated by support) that are not correctly calibrated are used",  
+  "context": "lies coming from another source may cause damage not covered by the warranty. Warranty is canceled if power supplies (fr**om a source other than support / designated by support) that are not correctly calibrated are used.** ## 8.5.5. Power supply - Technical Data RSP-320-24 ECO 24V 10A M **In:** | Info | Explanation | |----------------------",  
+  "position": [  
+    57242,  
+    57341  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "another source may cause damage not covered by the warranty",  
+  "context": "and calibrated power supplies may be used. Contact support when changing power supplies. Use of power supplies coming fr**om another source may cause damage not covered by the warranty.** Warranty is canceled if power supplies (from a source other than support / designated by support) that are not correctl",  
+  "position": [  
+    58301,  
+    58364  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a source other than support / designated by support) that are not correctly calibrated are used",  
+  "context": "lies coming from another source may cause damage not covered by the warranty. Warranty is canceled if power supplies (fr**om a source other than support / designated by support) that are not correctly calibrated are used.** ## 8.6. Technical data enclosures ## 8.6.1. Enclosures - Technical Data S | Info | Explanation | |-----------------|---",  
+  "position": [  
+    58407,  
+    58506  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the date of purchase (unless otherwise agreed)",  
+  "context": "rranty, support, country of manufacture and country of origin ## 8.8.1. Warranty The product has a two-year warranty, fr**om the date of purchase (unless otherwise agreed).** Support during the warranty period can be reached at support@milleteknik.se or telephone, +46 31-34 00 230. Compensatio",  
+  "position": [  
+    60362,  
+    60412  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "actual times",  
+  "context": "classes. ![](images/_page_50_Picture_16.jpeg) ### **IMPORTANT** This is a guide and all times are approximate and may differ fr**om actual times.** Load, temperature and other factors come into play, which is why exact time can not be provided. Applies to new batteri",  
+  "position": [  
+    64517,  
+    64533  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "56 | | |-----------------------------------------------------------------------|--| | 1",  
+  "context": "k AB Ögärdesvägen 8 B S-433 30 Partille +46 31 340 02 30 www.milleteknik.se This page is intentionally left blank. | 1. **Om 56 | | |-----------------------------------------------------------------------|--| | 1.**1. Se installasjonsfilm 56 | | | 1.2. Navn, artikkelnummer og e-nummer 57 | | | 1.3. Revisjoner og om dette dokumentets",  
+  "position": [  
+    66972,  
+    67063  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "dette dokumentets utgave 57 | | | 2",  
+  "context": "------------|--| | 1.1. Se installasjonsfilm 56 | | | 1.2. Navn, artikkelnummer og e-nummer 57 | | | 1.3. Revisjoner og **om dette dokumentets utgave 57 | | | 2.** Komponentoversikt 57 | | | 2.1. Komponentoversikt ECO 12V 5A S, ECO 24V 3A S 57 | | | 2.2. Komponentoversikt ECO 12V 10",  
+  "position": [  
+    67162,  
+    67201  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "vises på skapdør / indikeringsdiode 66 | | | 8",  
+  "context": "alarmgrense 65 | | | 5.1.6. Sikringer 66 | | | 6. Idriftsetting - hvordan enheten skal startes 66 | | | | | | 7. Alarm s**om vises på skapdør / indikeringsdiode 66 | | | 8.** Produktblad - Tekniske data 68 | | | 8.1. Produktblad / tekniske data 68 | | | 8.1.1. Navn, artikkelnummer og e-nummer",  
+  "position": [  
+    68089,  
+    68139  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "69 | | | 8",  
+  "context": "ekniske data 68 | | | 8.1. Produktblad / tekniske data 68 | | | 8.1.1. Navn, artikkelnummer og e-nummer 69 | | | 8.1.2. **Om 69 | | | 8.**1.3. Bruksområder 69 | | | 8.1.4. Alarm 70 | | | 8.1.5. Fast installasjon 70 | | | 8.1.6. Test av batteribackup før inst",  
+  "position": [  
+    68275,  
+    68289  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produktet oppfyller 70 | | | 8",  
+  "context": "8.1.6. Test av batteribackup før installasjon av 230 V 70 | | | 8.2. Regelverk og sertifiseringer 70 | | | 8.2.1. Krav s**om produktet oppfyller 70 | | | 8.**3. Forventet driftstid ved strømbrudd (nye batterier) 70 | | | 8.4. Kretskort - Tekniske data 71 | | | 8.4.1. Tekniske d",  
+  "position": [  
+    68492,  
+    68526  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produktytelse? 76 | | | 8",  
+  "context": "-------------------------|--| | 8.8.2. CE-merking 76 | | | 8.8.3. Brukersupport 76 | | | Reservedeler 76 | | | Spørsmål **om produktytelse? 76 | | | 8.**8.4. Kontakt oss 76 | | | 8.8.5. Produksjonsland 76 | | | 8.8.6. Produsent 76 | | | 8.9. Batterier 77 | | | 8.9.1. Batte",  
+  "position": [  
+    69504,  
+    69533  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ECO-serien er driftssikre og mindre batteribackup-er for bruk til passersystemer låssystemer og røykluker",  
+  "context": "GM batteri 77 | | | 8.9.4. Reserver driftstimer - oversikt 77 | | | 9. Adresse og kontaktinformasjon 79 | | | | | ## 1. **OM ECO-serien er driftssikre og mindre batteribackup-er for bruk til passersystemer, låssystemer og røykluker.** Batteribackup-ene har kontrollert lading* (controlled charging). *Kontrollert lading (controlled charging) forhindrer a",  
+  "position": [  
+    69864,  
+    69974  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "forlenger deres levetid betydelig",  
+  "context": "ollert lading* (controlled charging). *Kontrollert lading (controlled charging) forhindrer at batterier overlades, noe s**om forlenger deres levetid betydelig.** ![](images/_page_55_Picture_5.jpeg) #### **NOTAT** Enheten skal installeres på vegg, innendørs. Temperaturen skal være 15 - 30",  
+  "position": [  
+    70122,  
+    70159  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "dette dokumentets utgave Gjeldende og siste publiserte utgave av dette dokument finnes på www",  
+  "context": "213521 | | ECO 24V 10A M | ME01C10224P100 | 5213522 | | ECO 12V 5A S | SM01C10212P050 | 5213650 | ## 1.3. Revisjoner og **om dette dokumentets utgave Gjeldende og siste publiserte utgave av dette dokument finnes på www.**milleteknik.se. Dette dokumentets gyldighet kan ikke garanteres, fordi ny utgave publiseres uten forutgående melding. ##",  
+  "position": [  
+    70961,  
+    71058  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "egner seg for veggen til å sette opp kapslingen",  
+  "context": "Kabelgjennomføringer. | | E | Plass for batterier. | | | | ## 3. INNHEGNING ## 3.1. Montering på vegg Bruk fire skruer s**om egner seg for veggen til å sette opp kapslingen.** Avstand mellom skruehode og vegg bør være 1,5–2 mm. Det skal helst være 100 mm luftspalte rundt enheten. <span id=\"page",  
+  "position": [  
+    72089,  
+    72140  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skruehode og vegg bør være 15–2 mm",  
+  "context": "INNHEGNING ## 3.1. Montering på vegg Bruk fire skruer som egner seg for veggen til å sette opp kapslingen. Avstand mello**m skruehode og vegg bør være 1,5–2 mm. **Det skal helst være 100 mm luftspalte rundt enheten. <span id=\"page-58-0\"></span>![](images/_page_58_Figure_0.jpeg) ## 3.2. Mo",  
+  "position": [  
+    72153,  
+    72192  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "egner seg for veggen til å sette opp kapslingen",  
+  "context": "alte rundt enheten. <span id=\"page-58-0\"></span>![](images/_page_58_Figure_0.jpeg) ## 3.2. Montering på vegg Bruk fire skruer s**om egner seg for veggen til å sette opp kapslingen.** Avstand mellom skruehode og vegg bør være 1,5–2 mm. Det skal helst være 100 mm luftspalte rundt enheten. ![](images/_page_58_F",  
+  "position": [  
+    72346,  
+    72397  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skruehode og vegg bør være 15–2 mm",  
+  "context": "ure_0.jpeg) ## 3.2. Montering på vegg Bruk fire skruer som egner seg for veggen til å sette opp kapslingen. Avstand mell**om skruehode og vegg bør være 1,5–2 mm.** Det skal helst være 100 mm luftspalte rundt enheten. ![](images/_page_58_Figure_3.jpeg) ## 3.3. Montering Bruk egnede skruer f",  
+  "position": [  
+    72410,  
+    72449  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har dobbelstift fra kretskort kobles direkte på batteri-pluss og sikringens ene kabel",  
+  "context": "-------------------------------------------| | A | Sikringens kabel kobles på batteriets plusspol. | | B | Plusskabel, s**om har dobbelstift, fra kretskort, kobles direkte på batteri-pluss og sikringens ene kabel.** | | C | Sikring mellom plusspoler på begge batteriene. | | D | Batterisikring på hovedkort. | | E | Batterikabler fra h",  
+  "position": [  
+    73729,  
+    73820  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "plusspoler på begge batteriene",  
+  "context": "kabel, som har dobbelstift, fra kretskort, kobles direkte på batteri-pluss og sikringens ene kabel. | | C | Sikring mell**om plusspoler på begge batteriene.** | | D | Batterisikring på hovedkort. | | E | Batterikabler fra hovedkort. | | F | Minuskabel, som har dobbelstift, fra",  
+  "position": [  
+    73841,  
+    73875  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har dobbelstift fra kretskort kobles på batteri-minus og sikringens ene kabel",  
+  "context": "ler på begge batteriene. | | D | Batterisikring på hovedkort. | | E | Batterikabler fra hovedkort. | | F | Minuskabel, s**om har dobbelstift, fra kretskort, kobles på batteri-minus og sikringens ene kabel.** | | G | Sikringens andre kabel kobles på batteriets minuspol. | | H | Sikring mellom minuspoler på begge batteriene. |",  
+  "position": [  
+    73971,  
+    74054  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "minuspoler på begge batteriene",  
+  "context": "atteri-minus og sikringens ene kabel. | | G | Sikringens andre kabel kobles på batteriets minuspol. | | H | Sikring mell**om minuspoler på begge batteriene.** | ## <span id=\"page-61-0\"></span>4.3. Innkobling av et batteri, ECO S 12 V #### Figur 3. Innkobling av et batteri ![](_",  
+  "position": [  
+    74137,  
+    74171  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "følger med enheten i en pose skal ikke brukes når 1 batteri brukes",  
+  "context": "- og minuspol. | | B | Batterisikringen sitter på kretskortet. | ![](images/_page_61_Picture_5.jpeg) #### **NOTAT** Sikringer s**om følger med enheten i en pose, skal ikke brukes når 1 batteri brukes.** ## <span id=\"page-62-0\"></span>4.4. Innkobling av batteri i ECO S 24 V Figur 4. Innkobling av to (12 V) batterier med s",  
+  "position": [  
+    74658,  
+    74729  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "pluss- og minuspol",  
+  "context": "-------------| | Sikringens kabel kobles på det ene batteriets plusspol og det andre batteriets minuspol. | Sikring mell**om pluss- og minuspol.** | | C | Batterisikring på hovedkort. | | D | Batterisikring på hovedkort. | | E | Batterikabler fra hovedkort. | ## 5.",  
+  "position": [  
+    75196,  
+    75218  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan oppstå i forbindelse med kortslutning skal tilkoblinger til hovedkort skje i denne rekkefølgen",  
+  "context": "5. CEO3-ECO ## 5.1. Hovedkort - beskrivelse ### 5.1.1. Koble til i denne rekkefølgen For å minimere risikoen for feil so**m kan oppstå i forbindelse med kortslutning, skal tilkoblinger til hovedkort skje i denne rekkefølgen. **<span id=\"page-63-0\"></span>![](images/_page_63_Picture_0.jpeg) #### Tabell 6. Koble til i denne rekkefølgen | Nr | Forklaring",  
+  "position": [  
+    75454,  
+    75557  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "| | P36 | NO | #### 5",  
+  "context": "# Tabell 7. Koble til alarm P3 | P3:4-6 | Forklaring | |----------|------------| | Sumalarm | | | P3:4 | NC | | P3:5 | C**om | | P3:6 | NO | #### 5.**1.3. Koble til last ![](images/_page_63_Figure_9.jpeg) #### Tabell 8. Lasttilkoblinger | Nummer på kretskort | Forklaring | |--",  
+  "position": [  
+    76028,  
+    76054  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kabelgjennomføringen på skapet",  
+  "context": "gregatet. Maks kabelareal er 4 mm2 ## 5.1.4. Koble strømnettet til hovedkortet med terminal Trekk strømnettkabling gjenn**om kabelgjennomføringen på skapet.** Sikre F og N med buntebånd. Strømnettkablingen skal holdes adskilt fra annet kabling for å unngå EMC-forstyrrelser. Fig",  
+  "position": [  
+    77038,  
+    77072  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier",  
+  "context": "terier. | | | 2 | Koble til kabler fra hovedkortet til batteripoler. | | | 3 | Koble til sikringsholder med sikring mell**om batterier.** | | | 4 | Koble til last, alarm og andre tilkoblinger. | | | 5 | Koble til strømnettet. Skru nettverkskabelen inn i kon",  
+  "position": [  
+    79280,  
+    79293  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "VISES PÅ SKAPDØR / INDIKERINGS-DIODE I normalstilling viser indikeringsdioden et fast grønt lys",  
+  "context": "frontpanel / skapdør, for andre statusindikasjoner. Det kan ta opptil 72 timer før batteriene er fulladet. # 7. ALARM SO**M VISES PÅ SKAPDØR / INDIKERINGS-DIODE I normalstilling viser indikeringsdioden et fast grønt lys. **![](images/_page_66_Picture_0.jpeg) | Indikeringsdioden viser | Forklaring | |-------------------------|----------------------",  
+  "position": [  
+    79702,  
+    79801  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ECO-serien er driftssikre og mindre batteribackup-er for bruk til passersystemer låssystemer og røykluker",  
+  "context": "0224P050 | 5213521 | | ECO 24V 10A M | ME01C10224P100 | 5213522 | | ECO 12V 5A S | SM01C10212P050 | 5213650 | ## 8.1.2. **Om ECO-serien er driftssikre og mindre batteribackup-er for bruk til passersystemer, låssystemer og røykluker.** Batteribackup-ene har kontrollert lading* (controlled charging). *Kontrollert lading (controlled charging) forhindrer a",  
+  "position": [  
+    80914,  
+    81024  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "forlenger deres levetid betydelig",  
+  "context": "ollert lading* (controlled charging). *Kontrollert lading (controlled charging) forhindrer at batterier overlades, noe s**om forlenger deres levetid betydelig.** - For AGM-batterier. - Er mulig å teste i batteridrift. - Har kontrollert lading for bedre driftsøkonomi. ### 8.1.3. Br",  
+  "position": [  
+    81172,  
+    81209  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "montøren ikke er elektriker men likevel ønsker å kunne teste systemet",  
+  "context": "up-en kan idriftsettes med kun batteriene tilkoblet uten at batteribackup-en er koblet til 230 V. Dette er praktisk ders**om montøren ikke er elektriker, men likevel ønsker å kunne teste systemet.** ## 8.2. Regelverk og sertifiseringer ## 8.2.1. Krav som produktet oppfyller | EMC: | EMC-direktivet 2014/30EU | | |----",  
+  "position": [  
+    81840,  
+    81914  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produktet oppfyller | EMC | EMC-direktivet 2014/30EU | | |------|------------------------------------|--| | El | Lavspenningsdirektivet 2014/35/EU | | | CE | CE-direktivet ifølge 765/2008 | | ## 8",  
+  "context": "ren ikke er elektriker, men likevel ønsker å kunne teste systemet. ## 8.2. Regelverk og sertifiseringer ## 8.2.1. Krav s**om produktet oppfyller | EMC: | EMC-direktivet 2014/30EU | | |------|------------------------------------|--| | El: | Lavspenningsdirektivet: 2014/35/EU | | | CE: | CE-direktivet ifølge: 765/2008 | | ## 8.**3. Forventet driftstid ved strømbrudd (nye batterier) | Systems<br>penning | Antall<br>batteri<br>er | Batteri<br>type |",  
+  "position": [  
+    81968,  
+    82173  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tidligere ikke<br>var mulige i enklere batteribackup-er er nå tilgjengelige som standardutførelse",  
+  "context": "3-ECO | | Produktbeskrivelse | CEO 3 er neste generasjons kretskort for enklere batteribackup-er. Avanserte funksjoner s**om tidligere ikke<br>var mulige i enklere batteribackup-er, er nå tilgjengelige som standardutførelse.** CEO 3 er en driftssikker<br>kjerne i enklere passersystemer, med færre komponenter enn tidligere, hvilket reduserer mil",  
+  "position": [  
+    83572,  
+    83674  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "er prioriterte lastutganger (= alltid spenning)",  
+  "context": "0 x 55 mm x 52 mm | | Egenforbruk | 50 mA | | Sikringer | Se tabell: Sikringer. | | Utganger | Utgang: to lastutganger s**om er prioriterte lastutganger (= alltid spenning).** | | Sikring | Lastutgang: + med sikring, se tabell. | | Maks. last | Maks. last er 10 A per lastutgang (T2A er montert",  
+  "position": [  
+    83942,  
+    83993  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "viser driftsstatus alarmer og feil",  
+  "context": "rensen. | | Alarm via | Alarm på potensialfri relékontakt. Potensialfri veksling. Slutning CO/NO. | | Indikering | LED s**om viser driftsstatus, alarmer og feil.** | ## **STYRING AV ALARMGRENSE MED JU2** #### **STYRING AV ALARMGRENSE** Alarm for lav batterispenning i batteridrift ka",  
+  "position": [  
+    84510,  
+    84549  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "er tilpasset og kalibrert kan brukes",  
+  "context": "**Sitter i:** Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare. Kun strømforsyninger s**om er tilpasset og kalibrert kan brukes.** Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke de",  
+  "position": [  
+    86703,  
+    86743  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke dekkes av garantien",  
+  "context": "an brukes. Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade s**om ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    86853,  
+    86881  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke er riktig kalibrert",  
+  "context": "av garantien. Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) so**m ikke er riktig kalibrert. **## 8.5.2. Nettaggregat - Tekniske data LRS-150-12 | | Sitter i: | |---------------|-----------| | ECO 12V 10A M | | | I",  
+  "position": [  
+    86987,  
+    87015  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "er tilpasset og kalibrert kan brukes",  
+  "context": "ndenserende | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare. Kun strømforsyninger s**om er tilpasset og kalibrert kan brukes.** Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke de",  
+  "position": [  
+    88007,  
+    88047  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke dekkes av garantien",  
+  "context": "an brukes. Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade s**om ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    88157,  
+    88185  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke er riktig kalibrert",  
+  "context": "av garantien. Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) so**m ikke er riktig kalibrert. **## 8.5.3. Nettaggregat - Tekniske data LRS-75-24 ECO 24V 3A S **Sitter i:** | Info | Forklaring | |--------------------",  
+  "position": [  
+    88291,  
+    88319  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "er tilpasset og kalibrert kan brukes",  
+  "context": "rende | | | | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare. Kun strømforsyninger s**om er tilpasset og kalibrert kan brukes.** Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke de",  
+  "position": [  
+    89169,  
+    89209  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke dekkes av garantien",  
+  "context": "an brukes. Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade s**om ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    89319,  
+    89347  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke er riktig kalibrert",  
+  "context": "av garantien. Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) so**m ikke er riktig kalibrert. ****Sitter i:** ## 8.5.4. Nettaggregat - Tekniske data LRS-150-24 ECO 24V 5A M | Info | Forklaring | |-------------------",  
+  "position": [  
+    89453,  
+    89481  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "er tilpasset og kalibrert kan brukes",  
+  "context": "ndenserende | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare. Kun strømforsyninger s**om er tilpasset og kalibrert kan brukes.** Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke de",  
+  "position": [  
+    90434,  
+    90474  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke dekkes av garantien",  
+  "context": "an brukes. Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade s**om ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    90584,  
+    90612  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke er riktig kalibrert",  
+  "context": "av garantien. Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) so**m ikke er riktig kalibrert. **## 8.5.5. Nettaggregat - Tekniske data RSP-320-24 ECO 24V 10A M **Sitter i:** | Info | Forklaring | | | |--------------",  
+  "position": [  
+    90718,  
+    90746  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "er tilpasset og kalibrert kan brukes",  
+  "context": "serende | | | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare. Kun strømforsyninger s**om er tilpasset og kalibrert kan brukes.** Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke de",  
+  "position": [  
+    91665,  
+    91705  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke dekkes av garantien",  
+  "context": "an brukes. Kontakt support ved du bytter strømforsyning. Bruk av strømforsyninger fra andre kilder kan forårsake skade s**om ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    91815,  
+    91843  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ikke er riktig kalibrert",  
+  "context": "av garantien. Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) so**m ikke er riktig kalibrert. **## 8.6. Tekniske data vedlegg ## 8.6.1. Tekniske data, kapsling | Info | Forklaring | | | |--------------------|-------",  
+  "position": [  
+    91949,  
+    91977  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "får plass i kapsling | 1 stk 12 V 23 Ah",  
+  "context": "Materiale | Pulverlakkert stålplate | | | | | Farge | Hvit | | | | | Kabelinnføringer, antall | 3 | | | | | Batterier so**m får plass i kapsling | 1 stk 12 V, 2,3 Ah. **| | | | | | 2 stk 12 V, 2,3 Ah. | | | | | | 2 stk 12 V, 4,5 Ah. | | | | | | | | | | | Vifte | Nei | | | | ## 8.6.2. Tek",  
+  "position": [  
+    92777,  
+    92822  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "passer | 2 stk 12 V 72 Ah",  
+  "context": "| | | Materiale | Pulverlakkert stålplate | | | | Farge | Hvit | | | | Kabelinnføringer, antall | 5 | | | | Batterier so**m passer | 2 stk 12 V 7,2 Ah. **| | | | | 2 stk 12 V 14 Ah. | | | | | | | | | Vifte | Nr: 5 A, 12 V -24 V enheter. | | | | | Ja: 10 A, 24 V enheter. |",  
+  "position": [  
+    93545,  
+    93575  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "annet ikke er avtalt)",  
+  "context": "aranti, support, produksjonsland og opprinnelsesland ## 8.8.1. Garanti Produktet har to års garanti, fra kjøpsdato (ders**om annet ikke er avtalt).** Kostnadsfri support under garantitiden nås på support@milleteknik.se eller telefon, 031-34 00 230. GodtFabrikatlse for",  
+  "position": [  
+    94033,  
+    94058  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produktet og kontaktopplysninger til produsenten",  
+  "context": "har utløpt. ## <span id=\"page-75-0\"></span>8.8.2. CE-merking På hvert produkt finnes det en CE-etikett med informasjon o**m produktet og kontaktopplysninger til produsenten. **Mangler du noe, eller trenger du mer informasjon, da skal du primært henvende deg til forhandler som også skal kunne sv",  
+  "position": [  
+    94729,  
+    94781  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "også skal kunne svare på spørsmål om garanti og support",  
+  "context": "nger til produsenten. Mangler du noe, eller trenger du mer informasjon, da skal du primært henvende deg til forhandler s**om også skal kunne svare på spørsmål om garanti og support.** Du kan alltid henvende deg til produsenten hvis du har spørsmål om produktets ytelser. ## 8.8.3. Brukersupport Trenger",  
+  "position": [  
+    94880,  
+    94939  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produktets ytelser",  
+  "context": "gså skal kunne svare på spørsmål om garanti og support. Du kan alltid henvende deg til produsenten hvis du har spørsmål **om produktets ytelser.** ## 8.8.3. Brukersupport Trenger du hjelp med installasjon eller tilkobling? Vår supporttelefon er tilgjengelig mandag-t",  
+  "position": [  
+    95004,  
+    95026  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "1130-1315",  
+  "context": "? Vår supporttelefon er tilgjengelig mandag-torsdag 08:00-16:00 og fredager 08:00-15:00. Telefonsupportn har stengt mell**om 11:30-13:15.** Du kan også sende en e-post, vi svarer, på hverdager, innen 24 timer. Telefon: 031- 340 02 30, e-post: [support@millete",  
+  "position": [  
+    95221,  
+    95236  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "reservedeler se kontaktdetaljer ovenfor",  
+  "context": "illetek](http://www.milleteknik.se)[nik.se.](http://www.milleteknik.se) ### **RESERVEDELER** Support håndterer spørsmål **om reservedeler, se kontaktdetaljer ovenfor.** ## **SPØRSMÅL OM PRODUKTYTELSE?** Telefon for salg: 031- 340 02 30, e-post: [sales@milleteknik.se](mailto:sales@millete",  
+  "position": [  
+    95552,  
+    95596  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PRODUKTYTELSE?** Telefon for salg 031- 340 02 30 e-post [sales@milleteknik",  
+  "context": "leteknik.se) ### **RESERVEDELER** Support håndterer spørsmål om reservedeler, se kontaktdetaljer ovenfor. ## **SPØRSMÅL **OM PRODUKTYTELSE?** Telefon for salg: 031- 340 02 30, e-post: [sales@milleteknik.**se](mailto:sales@milleteknik.se) 8.8.4. Kontakt oss Milleteknik AB Ögärdesvägen 8 B 433 30 Lott Sverige +46 31-34 00 230",  
+  "position": [  
+    95611,  
+    95692  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "varme og last påvirker levetiden",  
+  "context": ">4,8 mm | 60x178x35 mm | 1,0 kg | UPLUS | *Design life er holdbarheten i år for ikke brukt batteri. Omgivelsesfaktorer s**om varme og last påvirker levetiden.** Batterier som har en holdbarhet (+6 Design Life) på 6+ år vil vanligvis trenge å byttes ut etter 2-3 år. ## 8.9.3. 4,5",  
+  "position": [  
+    96717,  
+    96753  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har en holdbarhet (+6 Design Life) på 6+ år vil vanligvis trenge å byttes ut etter 2-3 år",  
+  "context": "n life er holdbarheten i år for ikke brukt batteri. Omgivelsesfaktorer som varme og last påvirker levetiden. Batterier s**om har en holdbarhet (+6 Design Life) på 6+ år vil vanligvis trenge å byttes ut etter 2-3 år.** ## 8.9.3. 4,5 Ah 12 V AGM batteri | Batteritype | V | Ah | |----------------------------------|------|--------| | Vedli",  
+  "position": [  
+    96765,  
+    96858  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "varme og last påvirker levetiden",  
+  "context": ">4,8 mm | 107x90x70 mm | 1,5 kg | UPLUS | *Design life er holdbarheten i år for ikke brukt batteri. Omgivelsesfaktorer s**om varme og last påvirker levetiden.** Batterier som har en holdbarhet (+6 Design Life) på 6+ år vil vanligvis trenge å byttes ut etter 2-3 år. ## 8.9.4. Rese",  
+  "position": [  
+    97539,  
+    97575  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har en holdbarhet (+6 Design Life) på 6+ år vil vanligvis trenge å byttes ut etter 2-3 år",  
+  "context": "n life er holdbarheten i år for ikke brukt batteri. Omgivelsesfaktorer som varme og last påvirker levetiden. Batterier s**om har en holdbarhet (+6 Design Life) på 6+ år vil vanligvis trenge å byttes ut etter 2-3 år.** ## 8.9.4. Reserver driftstimer - oversikt Tabellen viser forventet backupdriftstid ved ulike belastninger på batteribac",  
+  "position": [  
+    97587,  
+    97680  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "konfigurasjonen kan håndtere batterier og strømstyrke",  
+  "context": "for den nøyaktige tiden ikke kan gis. Gjelder nye batterier. Strømstyrke og batterier varierer med konfigurasjon, sjekk **om konfigurasjonen kan håndtere batterier og strømstyrke.** #### Tabell 17. Reserve driftstider 12 V enheter - uten batteriboks | Middels strøm | 14 Ah | 28 Ah | 40 Ah | |--------",  
+  "position": [  
+    98129,  
+    98186  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skrivefeil",  
+  "context": "| 311 | | 16 A | 100 | 150 | 204 | 286 | | 18 A | 90 | 130 | 150 | 254 | | 20 A | 84 | 126 | 138 | 241 | Med forbehold o**m skrivefeil. **## 9. ADRESSE OG KONTAKTINFORMASJON Milleteknik AB Ögärdesvägen 8 B S-433 30 Partille +46 31 340 02 30 www.milleteknik.",  
+  "position": [  
+    100278,  
+    100292  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "| | P36 | NO | ## 5",  
+  "context": "3. Taulu 7. Kytke hälytys P3 | P3:4-6 | Selitys | |--------------|---------| | Summahälytys | | | P3:4 | NC | | P3:5 | C**om | | P3:6 | NO | ## 5.**1.3. Kuormaliitännät ![](images/_page_89_Figure_9.jpeg) #### Taulu 8. Kuormaliitännät | Piirilevyn numero | Selitys | |--------",  
+  "position": [  
+    109044,  
+    109068  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "1 batteri används",  
+  "context": "etskort. | | ![](images/_page_9_Picture_5.jpeg) #### **NOTERA** Säkringar som följer med enheten i en påse skall inte användas **när 1 batteri används.** ## <span id=\"page-10-0\"></span>4.4. Inkoppling av batteri i ECO S 24 V Figur 4. Inkoppling av två (12 V) batteri med sä",  
+  "position": [  
+    7993,  
+    8015  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterispänningen i batteridrift sjunker under gränsen",  
+  "context": "åg batterispänning i batteridrift kan styras. Larmgränsen styrs genom att ta bort eller skapa slutning på JU2. Larm ges **när batterispänningen i batteridrift sjunker under gränsen.** <span id=\"page-13-0\"></span> | Larmgräns vid låg batterispänning | 12 V | 24 V | |-------------------------------------",  
+  "position": [  
+    10858,  
+    10917  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterispänningen i batteridrift sjunker under gränsen",  
+  "context": "åg batterispänning i batteridrift kan styras. Larmgränsen styrs genom att ta bort eller skapa slutning på JU2. Larm ges **när batterispänningen i batteridrift sjunker under gränsen.** Tabell 14. Larmgränser | Larmgräns vid låg batterispänning | 12 V | 24 V | |-------------------------------------|-----",  
+  "position": [  
+    17487,  
+    17546  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "updates you will always find the latest information on our website",  
+  "context": "| | Place for fan | No | | | Yes: 10 A, 24 V units. | ## 8.7. Link to the latest information Products and software are s**ubject to updates, you will always find the latest information on our website. **### [ECO series](https://www.milleteknik.se/produkt-kategori/eco/) ## 8.8. Warranty, support, country of manufacture an",  
+  "position": [  
+    60085,  
+    60164  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "typos",  
+  "context": "20 | 180 | 234 | 311 | | 16 A | 100 | 150 | 204 | 286 | | 18 A | 90 | 130 | 150 | 254 | | 20 A | 84 | 126 | 138 | 241 | **Subject to typos.** # <span id=\"page-52-0\"></span>9. ADDRESS AND CONTACT DETAILS Milleteknik AB Ögärdesvägen 8 B S-433 30 Partille +46 31 3",  
+  "position": [  
+    66763,  
+    66780  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "circuit board for simpler battery backups",  
+  "context": "------------------------------------------------| | Article name | CEO3-ECO | | Product description | CEO 3 is the next **generation circuit board for simpler battery backups.** Advanced functions that were not<br>previously possible in simpler battery backups are now available as standard. CEO 3",  
+  "position": [  
+    50052,  
+    50105  
+  ],  
+  "pattern_index": 123,  
+  "pattern": "(?i)generation(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Detta är praktiskt om montören ej är behörig elektriker men ändå vill kunna prova systemet",  
+  "context": "tyder att batteribackupen kan driftsättas med endast batterierna anslutna utan att batteribackupen är ansluten till 230 **V. Detta är praktiskt om montören ej är behörig elektriker men ändå vill kunna prova systemet.** ## 8.2. Regelverk och certifieringar ## 8.2.1. Krav som produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |------",  
+  "position": [  
+    14715,  
+    14809  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "This is practical if the installer is not a qualified electrician but still wants to be able to test the system",  
+  "context": "battery backup can be commissioned with only the batteries connected without the battery backup being connected to 230 V**. This is practical if the installer is not a qualified electrician but still wants to be able to test the system. **## 8.2. Regulations and certifications ## 8.2.1. Requirements that the product meets | EMC: | EMC Directive 2014 / 30EU",  
+  "position": [  
+    48305,  
+    48420  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Dette er praktisk dersom montøren ikke er elektriker men likevel ønsker å kunne teste systemet",  
+  "context": "art\" betyr at batteribackup-en kan idriftsettes med kun batteriene tilkoblet uten at batteribackup-en er koblet til 230 **V. Dette er praktisk dersom montøren ikke er elektriker, men likevel ønsker å kunne teste systemet.** ## 8.2. Regelverk og sertifiseringer ## 8.2.1. Krav som produktet oppfyller | EMC: | EMC-direktivet 2014/30EU | | |----",  
+  "position": [  
+    81815,  
+    81914  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "n asennusta 96 | | | 8",  
+  "context": ". Käyttökohteet 95 | | | 8.1.4. Hälytys 96 | | | 8.1.5. Kiinteä asennus 96 | | | 8.1.6. Varmennusakun testaus ennen 230 **V:n asennusta 96 | | | 8.**2. Määräykset ja sertifioinnit 96 | | | 8.2.1. Määräykset ja sertifioinnit 96 | | | 8.3. Odotettu toiminta-aika sähkökat",  
+  "position": [  
+    101800,  
+    101825  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "n asennusta Testi \"cold start\" tarkoittaa että varmennusakku voidaan ottaa käyttöön vain akut kytkettyinä ilman että varmennusakku on kytketty 230 Vn jännitteeseen",  
+  "context": "tettu kiinteään asennukseen. Asennus tulee teettää valtuutetulla asentajalla. ## 8.1.6. Varmennusakun testaus ennen 230 **V:n asennusta Testi \"cold start\" tarkoittaa, että varmennusakku voidaan ottaa käyttöön vain akut kytkettyinä ilman, että varmennusakku on kytketty 230 V:n jännitteeseen.** Tämä on hyödyllistä, jos asentaja ei ole valtuutettu sähköasentaja, mutta haluaa silti pystyä testaamaan järjestelmän.",  
+  "position": [  
+    114340,  
+    114509  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Avstånd mellan skruvhuvud och vägg bör vara 15–2 mm",  
+  "context": "batterier. | ## 3. KAPSLING ## 3.1. Montering på vägg Använd fyra för väggen lämpliga skruvar för att sätta upp kapsling**en. Avstånd mellan skruvhuvud och vägg bör vara 1,5–2 mm. **Lämna helst 100 mm luftspalt kring enheten. <span id=\"page-6-0\"></span>![](images/_page_6_Figure_0.jpeg) ## 3.2. Montering på",  
+  "position": [  
+    5518,  
+    5576  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Avstånd mellan skruvhuvud och vägg bör vara 15–2 mm",  
+  "context": "n>![](images/_page_6_Figure_0.jpeg) ## 3.2. Montering på vägg Använd fyra för väggen lämpliga skruvar för att sätta upp kapslin**gen. Avstånd mellan skruvhuvud och vägg bör vara 1,5–2 mm.** Lämna helst 100 mm luftspalt kring enheten. ![](images/_page_6_Figure_5.jpeg) ## 3.3. Montering Använd lämplig skruv för monte",  
+  "position": [  
+    5766,  
+    5824  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<span id=\"page-11-0\"></span>![](images/_page_11_Picture_0",  
+  "context": "t minimera risken för fel som kan uppstå i samband med kortslutning skall anslutningar till moderkort ske i denna ordnin**g. <span id=\"page-11-0\"></span>![](images/_page_11_Picture_0.**jpeg) #### Tabell 6. Anslut i denna ordningen | Nr | Förklaring | |----|------------------| | 1 | Anslut larm. | | 2 | A",  
+  "position": [  
+    8756,  
+    8810  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "# 6",  
+  "context": "sluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring till en större för att öka strömutta**g. # 6.** DRIFTSÄTTNING - HUR ENHETEN SKALL STARTAS #### Tabell 11. Driftsättning - ordningen | Steg | Förklaring | |------|-----",  
+  "position": [  
+    11837,  
+    11844  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Enheten fungerar normalt då indikeringsdiod på skåpluckans utsida lyser med fast grönt sken",  
+  "context": ". | | 5 | Koppla in elnät. Skruva fast elnätskabel i plint och sätt fast plint på moderkort. | | 6 | Slå till nätspännin**g. | Enheten fungerar normalt då indikeringsdiod på skåpluckans utsida lyser med fast grönt sken.** Se frontpanel / skåplucka, för övriga statusindikationer. Det kan ta upp till 72 timmar innan batterier är fullt laddad",  
+  "position": [  
+    12360,  
+    12457  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<span id=\"page-16-0\"></span>Figur 7",  
+  "context": "tekniska data Figur 6. ECO S ![](images/_page_15_Picture_4.jpeg) ![](images/_page_15_Picture_5.jpeg) ECO S finns för montering på vägg**. <span id=\"page-16-0\"></span>Figur 7. **ECO M ![](images/_page_16_Picture_2.jpeg) #### ECO M finns för montering på vägg. ## 8.1.1. Namn, artikelnummer och e-nummer |",  
+  "position": [  
+    13334,  
+    13373  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 8",  
+  "context": "g på vägg. <span id=\"page-16-0\"></span>Figur 7. ECO M ![](images/_page_16_Picture_2.jpeg) #### ECO M finns för montering på väg**g. ## 8.**1.1. Namn, artikelnummer och e-nummer | Namn | Artikelnummer | E-nummer | |---------------|----------------|----------|",  
+  "position": [  
+    13446,  
+    13454  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 8",  
+  "context": "id=\"page-17-0\"></span>Passersystem Låssystem Rökluckor 8.1.4. Larm Enheten larmar för: Underspänning/låg batterispänning**. ## 8.1**.5. Fast installation Produkten är avsedd för fast installation. Installation skall utföras av behörig installatör. ##",  
+  "position": [  
+    14389,  
+    14397  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "två lastutgångar som är prioriterade lastutgångar (= alltid spänning)",  
+  "context": "n. | | Mått | 120 x 55 mm x 52 mm | | Egenförbrukning | 50 mA | | Säkringar | Se tabell: Säkringar. | | Utgångar | Utgån**g: två lastutgångar som är prioriterade lastutgångar (= alltid spänning).** | | Avsäkring | Lastutgång: + avsäkrad, se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat frå",  
+  "position": [  
+    16773,  
+    16846  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "+ avsäkrad se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat från fabrik) och kortets totala last får ej överstiga 16 A",  
+  "context": "| | Utgångar | Utgång: två lastutgångar som är prioriterade lastutgångar (= alltid spänning). | | Avsäkring | Lastutgång**: + avsäkrad, se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat från fabrik) och kortets totala last får ej överstiga 16 A. **| | Larmutgängar | en | | Larm | Underspänning, lyser rött vid nätavbrott tills dess att batterispänning sjunker under",  
+  "position": [  
+    16872,  
+    17022  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Slutning CO/NO",  
+  "context": "s dess att batterispänning sjunker under larmgräns. | | Larm via | Larm på potentialfri reläkontakt. Potentialfri växlin**g. Slutning CO/NO.** | | Indikering | Lysdiod som visar driftstatus, larm och fel. | ## **STYR LARMGRÄNS MED JU2** ### **STYR LARMGRÄNS** La",  
+  "position": [  
+    17221,  
+    17239  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 8",  
+  "context": "sluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring till en större för att öka strömutta**g. ## 8.**5. Nätaggregat ### 8.5.1. Nätaggregat - Tekniska Data RS-75-12 ECO 12V 5A S | Info | Förklaring | | | |-----------------",  
+  "position": [  
+    18514,  
+    18522  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kostnader för support tillkommer efter det att garantitiden har gått ut",  
+  "context": "t 10 år efter inköpsdatum. Byte till likvärdig produkt kan förekomma om Milleteknik bedömer att reparation inte är möjli**g. Kostnader för support tillkommer efter det att garantitiden har gått ut.** ## <span id=\"page-23-0\"></span>8.8.2. CE-märkning På varje produkt som sitter en CE-etikett med information om produkte",  
+  "position": [  
+    27103,  
+    27178  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "031- 340 02 30 e-post [sales@milleteknik",  
+  "context": "hanterar frågor om reservdelar, se kontaktuppgifter ovan. ## **FRÅGOR OM PRODUKTERS PRESTANDA?** Telefon till försäljnin**g: 031- 340 02 30, e-post: [sales@milleteknik.**se](mailto:sales@milleteknik.se) 8.8.4. Kontakta oss Milleteknik AB Ögärdesvägen 8 B 433 30 Partille Sverige +46 31-34 0",  
+  "position": [  
+    28229,  
+    28275  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_55_Picture_5",  
+  "context": "). *Kontrollert lading (controlled charging) forhindrer at batterier overlades, noe som forlenger deres levetid betydeli**g. ![](images/_page_55_Picture_5.**jpeg) #### **NOTAT** Enheten skal installeres på vegg, innendørs. Temperaturen skal være 15 - 30 °C. Nettspenning skal v",  
+  "position": [  
+    70157,  
+    70183  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 2",  
+  "context": "www.milleteknik.se. Dette dokumentets gyldighet kan ikke garanteres, fordi ny utgave publiseres uten forutgående melding**. ## 2. **KOMPONENTOVERSIKT ## 2.1. Komponentoversikt ECO 12V 5A S, ECO 24V 3A S ![](images/_page_56_Figure_8.jpeg) #### Tabell 1. Kompo",  
+  "position": [  
+    71173,  
+    71181  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Avstand mellom skruehode og vegg bør være 15–2 mm",  
+  "context": "er. | | | | ## 3. INNHEGNING ## 3.1. Montering på vegg Bruk fire skruer som egner seg for veggen til å sette opp kapslin**gen. Avstand mellom skruehode og vegg bør være 1,5–2 mm.** Det skal helst være 100 mm luftspalte rundt enheten. <span id=\"page-58-0\"></span>![](images/_page_58_Figure_0.jpeg) ## 3.2. Mo",  
+  "position": [  
+    72136,  
+    72192  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Avstand mellom skruehode og vegg bør være 15–2 mm",  
+  "context": ">![](images/_page_58_Figure_0.jpeg) ## 3.2. Montering på vegg Bruk fire skruer som egner seg for veggen til å sette opp kapslin**gen. Avstand mellom skruehode og vegg bør være 1,5–2 mm.** Det skal helst være 100 mm luftspalte rundt enheten. ![](images/_page_58_Figure_3.jpeg) ## 3.3. Montering Bruk egnede skruer f",  
+  "position": [  
+    72393,  
+    72449  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Skruer for montering på vegg inngår ikke",  
+  "context": "e 100 mm luftspalte rundt enheten. ![](images/_page_58_Figure_3.jpeg) ## 3.3. Montering Bruk egnede skruer for montering på veg**g. Skruer for montering på vegg inngår ikke.** # <span id=\"page-59-0\"></span>4. BATTERIER - PLASSERING OG INNKOBLING ## 4.1. Innkobling av batterier Nettspenningen bø",  
+  "position": [  
+    72588,  
+    72632  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<span id=\"page-63-0\"></span>![](images/_page_63_Picture_0",  
+  "context": "e risikoen for feil som kan oppstå i forbindelse med kortslutning, skal tilkoblinger til hovedkort skje i denne rekkeføl**gen. <span id=\"page-63-0\"></span>![](images/_page_63_Picture_0.**jpeg) #### Tabell 6. Koble til i denne rekkefølgen | Nr | Forklaring | |----|----------------------| | 1 | Koble til ala",  
+  "position": [  
+    75553,  
+    75609  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Enheten fungerer normalt når indikatordioden på utsiden av skapdøren lyser fast grønt",  
+  "context": "til strømnettet. Skru nettverkskabelen inn i kontakten og koble kontakten til hovedkortet. | | | 6 | Slå på nettspenning**en. | | Enheten fungerer normalt når indikatordioden på utsiden av skapdøren lyser fast grønt. **Se frontpanel / skapdør, for andre statusindikasjoner. Det kan ta opptil 72 timer før batteriene er fulladet. # 7. ALAR",  
+  "position": [  
+    79484,  
+    79579  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<span id=\"page-68-0\"></span>Figur 7",  
+  "context": "tekniske data Figur 6. ECO S ![](images/_page_67_Picture_3.jpeg) ![](images/_page_67_Picture_4.jpeg) ECO S finnes for montering på veg**g. <span id=\"page-68-0\"></span>Figur 7.** ECO M ![](images/_page_68_Picture_2.jpeg) ECO M finnes for montering på vegg. ### 8.1.1. Navn, artikkelnummer og e-nummer | Na",  
+  "position": [  
+    80444,  
+    80483  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "### 8",  
+  "context": "ering på vegg. <span id=\"page-68-0\"></span>Figur 7. ECO M ![](images/_page_68_Picture_2.jpeg) ECO M finnes for montering på veg**g. ### 8.**1.1. Navn, artikkelnummer og e-nummer | Navn | Artikkelnummer | E-nummer | |---------------|----------------|----------|",  
+  "position": [  
+    80552,  
+    80561  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- For AGM-batterier",  
+  "context": "). *Kontrollert lading (controlled charging) forhindrer at batterier overlades, noe som forlenger deres levetid betydeli**g. - For AGM-batterier.** - Er mulig å teste i batteridrift. - Har kontrollert lading for bedre driftsøkonomi. ### 8.1.3. Bruksområder Brukes mes",  
+  "position": [  
+    81207,  
+    81230  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "### 8",  
+  "context": "-0\"></span>Passersystemer Låssystemer Røykluker ### 8.1.4. Alarm Enheten alarmerer for: Underspenning/lav batterispennin**g. ### 8.**1.5. Fast installasjon Produktet er beregnet for fast installasjon. Installasjon skal utføres av autorisert installatør.",  
+  "position": [  
+    81492,  
+    81501  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Mål | 120 x 55 mm x 52 mm | | Egenforbruk | 50 mA | | Sikringer | Se tabell Sikringer",  
+  "context": "n driftssikker<br>kjerne i enklere passersystemer, med færre komponenter enn tidligere, hvilket reduserer miljøpåvirknin**gen. | | Mål | 120 x 55 mm x 52 mm | | Egenforbruk | 50 mA | | Sikringer | Se tabell: Sikringer.** | | Utganger | Utgang: to lastutganger som er prioriterte lastutganger (= alltid spenning). | | Sikring | Lastutgang: +",  
+  "position": [  
+    83805,  
+    83901  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "to lastutganger som er prioriterte lastutganger (= alltid spenning)",  
+  "context": "ningen. | | Mål | 120 x 55 mm x 52 mm | | Egenforbruk | 50 mA | | Sikringer | Se tabell: Sikringer. | | Utganger | Utgan**g: to lastutganger som er prioriterte lastutganger (= alltid spenning).** | | Sikring | Lastutgang: + med sikring, se tabell. | | Maks. last | Maks. last er 10 A per lastutgang (T2A er montert",  
+  "position": [  
+    83922,  
+    83993  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "+ med sikring se tabell",  
+  "context": "ger. | | Utganger | Utgang: to lastutganger som er prioriterte lastutganger (= alltid spenning). | | Sikring | Lastutgan**g: + med sikring, se tabell.** | | Maks. last | Maks. last er 10 A per lastutgang (T2A er montert fra fabrikk) og kortets totale last må ikke overstig",  
+  "position": [  
+    84017,  
+    84045  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Slutning CO/NO",  
+  "context": "til batterispenningen faller under alarmgrensen. | | Alarm via | Alarm på potensialfri relékontakt. Potensialfri vekslin**g. Slutning CO/NO.** | | Indikering | LED som viser driftsstatus, alarmer og feil. | ## **STYRING AV ALARMGRENSE MED JU2** #### **STYRING AV",  
+  "position": [  
+    84469,  
+    84487  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 136V | | Utflod | 0 A - 6 A | | Utspenning ripple | 120 mVp-p | | Overspenning | 138V - 162V | | Utspenningsopplading rippel/strømbegrensning | Mindre enn 06 Vp-p | | Virkningsgrad | 845 % | | Strømbegrensning | 110 % - 180 % | | Konstantspenning | +/- 10 % | | Reguleringsnøyaktighet | +/- 05 % | | Inngangsstrøm (230 V) | 12 A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 85 V AC - 264 V AC | | Merkeeffekt | 252 W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | | | | **Sitter i** Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare",  
+  "context": "S | Info | Forklaring | |------------------------------------------------|---------------------------------| | Utspennin**g: | 13,6V | | Utflod | 0 A - 6 A | | Utspenning:, ripple | 120 mVp-p | | Overspenning | 13,8V - 16,2V | | Utspenning:sopplading, rippel/strømbegrensning | Mindre enn 0,6 Vp-p | | Virkningsgrad | 84,5 % | | Strømbegrensning | 110 % - 180 % | | Konstantspenning | +/- 1,0 % | | Reguleringsnøyaktighet | +/- 0,5 % | | Inngangsstrøm (230 V) | 1,2 A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 85 V AC - 264 V AC | | Merkeeffekt | 25,2 W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | | | | **Sitter i:** Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare.** Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsyning. Bruk av st",  
+  "position": [  
+    86033,  
+    86680  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien",  
+  "context": "/programvare. Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsynin**g. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    86787,  
+    86881  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 136V | | Utflod | 0 A - 125 A | | Utspenning ripple | 150 mVp-p | | Overspenning | 138V - 162V | | Utspenningsopplading rippel/strømbegrensning | Mindre enn 06 Vp-p | | Virkningsgrad | 875 % | | Strømbegrensning | 110 % - 140 % | 72 <span id=\"page-72-0\"></span> | Info | Forklaring | |------------------------|---------------------------------| | Konstantspenning | +/- 05 % | | Reguleringsnøyaktighet | * / - 10 % | | Inngangsstrøm (230 V) | 17 A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 230 V AC - 240 V AC | | Merkeeffekt | 150W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare",  
+  "context": "12V 10A M | | | Info | Forklaring | |------------------------------------------------|---------------------| | Utspennin**g: | 13,6V | | Utflod | 0 A - 12,5 A | | Utspenning:, ripple | 150 mVp-p | | Overspenning | 13,8V - 16,2V | | Utspenning:sopplading, rippel/strømbegrensning | Mindre enn 0,6 Vp-p | | Virkningsgrad | 87,5 % | | Strømbegrensning | 110 % - 140 % | 72 <span id=\"page-72-0\"></span> | Info | Forklaring | |------------------------|---------------------------------| | Konstantspenning | +/- 0,5 % | | Reguleringsnøyaktighet | * / - 1,0 % | | Inngangsstrøm (230 V) | 1,7 A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 230 V AC - 240 V AC | | Merkeeffekt | 150W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare.** Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsyning. Bruk av st",  
+  "position": [  
+    87238,  
+    87984  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien",  
+  "context": "/programvare. Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsynin**g. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    88091,  
+    88185  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 273V | | Utflod | 0 - 32 A | | Utspenning ripple | 150 mVp-p | | Overspenning | 288V - 336V | | Utspenningsopplading rippel/strømbegrensning | Mindre enn 06 Vp-p | | Virkningsgrad | 90 % | | Strømbegrensning | 110 % - 150 % | | Konstantspenning | +/- 10 % | | Reguleringsnøyaktighet | * / - 05 % | | Inngangsstrøm (230 V) | 085A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 85 V AC - 264 V AC | | Merkeeffekt | 768W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | | | | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare",  
+  "context": "* | Info | Forklaring | |------------------------------------------------|---------------------------------| | Utspennin**g: | 27,3V | | Utflod | 0 - 3,2 A | | Utspenning:, ripple | 150 mVp-p | | Overspenning | 28,8V - 33,6V | | Utspenning:sopplading, rippel/strømbegrensning | Mindre enn 0,6 Vp-p | | Virkningsgrad | 90 % | | Strømbegrensning | 110 % - 150 % | | Konstantspenning | +/- 1,0 % | | Reguleringsnøyaktighet | * / - 0,5 % | | Inngangsstrøm (230 V) | 0,85A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 85 V AC - 264 V AC | | Merkeeffekt | 76,8W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | | | | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare.** Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsyning. Bruk av st",  
+  "position": [  
+    88514,  
+    89146  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien",  
+  "context": "/programvare. Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsynin**g. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    89253,  
+    89347  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 273V | | Utgangsstrøm | 0 A - 65 A | | Utspenning ripple | 200 mVp-p | | Overspenning | 288V - 336V | | Utspenningsopplading rippel/strømbegrensning | Mindre enn 06 Vp-p | | Virkningsgrad | 89 % | <span id=\"page-73-0\"></span> | Info | Forklaring | |------------------------|---------------------------------| | Strømbegrensning | 110 % - 140 % | | Konstantspenning | +/- 05 % | | Reguleringsnøyaktighet | +/- 10 % | | Inngangsstrøm (230 V) | 17 A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 230 V AC - 240 V AC | | Merkeeffekt | 156 W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare",  
+  "context": "ECO 24V 5A M | Info | Forklaring | |------------------------------------------------|---------------------| | Utspenning**: | 27,3V | | Utgangsstrøm: | 0 A - 6,5 A | | Utspenning:, ripple | 200 mVp-p | | Overspenning | 28,8V - 33,6V | | Utspenning:sopplading, rippel/strømbegrensning | Mindre enn 0,6 Vp-p | | Virkningsgrad | 89 % | <span id=\"page-73-0\"></span> | Info | Forklaring | |------------------------|---------------------------------| | Strømbegrensning | 110 % - 140 % | | Konstantspenning | +/- 0,5 % | | Reguleringsnøyaktighet | +/- 1,0 % | | Inngangsstrøm (230 V) | 1,7 A | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | Nettspenning | 230 V AC - 240 V AC | | Merkeeffekt | 156 W | | Temperaturspenn | -30°C - +70°C | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare. **Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsyning. Bruk av st",  
+  "position": [  
+    89665,  
+    90411  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien",  
+  "context": "/programvare. Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsynin**g. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    90518,  
+    90612  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 273V | | | | Utflod | 0 A - 134 A | | | | Utspenning ripple | 150 mVp-p | | | | Overspenning | 276 V – 324 V | | | | Utspenningsopplading rippel/strømbegrensning | Mindre enn 12 Vp-p | | | | Virkningsgrad | 89 % | | | | Strømbegrensning | 105 % - 135 % | | | | Konstantspenning | +/- 05 % | | | | Reguleringsnøyaktighet | +/- 10 % | | | | Inngangsstrøm (230 V) | 2 A | | | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | | | Nettspenning | 230 V AC - 240 V AC | | | | Merkeeffekt | 3216W | | | | Temperaturspenn | -30°C - +70°C | | | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | | | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare",  
+  "context": "Forklaring | | | |------------------------------------------------|---------------------------------|--|--| | Utspenning**: | 27,3V | | | | Utflod | 0 A - 13,4 A | | | | Utspenning:, ripple | 150 mVp-p | | | | Overspenning | 27,6 V – 32,4 V | | | | Utspenning:sopplading, rippel/strømbegrensning | Mindre enn 1,2 Vp-p | | | | Virkningsgrad | 89 % | | | | Strømbegrensning | 105 % - 135 % | | | | Konstantspenning | +/- 0,5 % | | | | Reguleringsnøyaktighet | +/- 1,0 % | | | | Inngangsstrøm (230 V) | 2 A | | | | Nettspenningsfrekvens | 47 Hz - 63 Hz | | | | Nettspenning | 230 V AC - 240 V AC | | | | Merkeeffekt | 321,6W | | | | Temperaturspenn | -30°C - +70°C | | | | Fuktighetsområde | 20% - 90% RH ikke-kondenserende | | | Nettaggregaten er tilpasset og kalibrert med batteri-backup maskinvare/programvare. **Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsyning. Bruk av st",  
+  "position": [  
+    90953,  
+    91642  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien",  
+  "context": "/programvare. Kun strømforsyninger som er tilpasset og kalibrert kan brukes. Kontakt support ved du bytter strømforsynin**g. Bruk av strømforsyninger fra andre kilder kan forårsake skade som ikke dekkes av garantien.** Garantien oppheves hvis det brukes strømforsyninger (fra en annen kilde enn support/tildelt av support) som ikke er rik",  
+  "position": [  
+    91749,  
+    91843  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kostnader for support kommer i tillegg etter at garantitiden har utløpt",  
+  "context": "år etter kjøpsdato. Utskifting med likeverdig produkt kan forekomme hvis Milleteknik vurderer at reparasjon ikke er muli**g. Kostnader for support kommer i tillegg etter at garantitiden har utløpt.** ## <span id=\"page-75-0\"></span>8.8.2. CE-merking På hvert produkt finnes det en CE-etikett med informasjon om produktet",  
+  "position": [  
+    94546,  
+    94621  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "031- 340 02 30 e-post [sales@milleteknik",  
+  "context": "upport håndterer spørsmål om reservedeler, se kontaktdetaljer ovenfor. ## **SPØRSMÅL OM PRODUKTYTELSE?** Telefon for sal**g: 031- 340 02 30, e-post: [sales@milleteknik.**se](mailto:sales@milleteknik.se) 8.8.4. Kontakt oss Milleteknik AB Ögärdesvägen 8 B 433 30 Lott Sverige +46 31-34 00 230",  
+  "position": [  
+    95646,  
+    95692  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "varierar med konfiguration",  
+  "context": "-------------------------------------------------------| | A | Skåp i pulverlackad plåt. | | B | Nätaggregat, plats och **typ varierar med konfiguration.** | | C | Moderkort. | | D | Kabelgenomföringar. | | E | Plats för batterier. | ## <span id=\"page-5-0\"></span>2.2. Kompon",  
+  "position": [  
+    4879,  
+    4910  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "varierar med konfiguration",  
+  "context": "-------------------------------------------------------| | A | Skåp i pulverlackad plåt. | | B | Nätaggregat, plats och **typ varierar med konfiguration.** | | C | Moderkort. | | D | Kabelgenomföringar. | | E | Plats för batterier. | ## 3. KAPSLING ## 3.1. Montering på vägg",  
+  "position": [  
+    5302,  
+    5333  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Förklaring | |-----------------------------|---------|-------|----------------| | Samtliga | F1 | T25A | Elnätssäkring | | ECO 24V 3A S | F2 F6 | T3A | Lastsäkring + | | ECO 12V 5A S ECO 24V 5A M | F2 F6 | T5A | Lastsäkring + | | ECO 12V 10A M ECO 24V 10A M | F2 F6 | T10A | Lastsäkring + | | Samtliga | F7 | T16A | Batterisäkring | ## **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger om säkring byts till en större än vad enheten levereras med",  
+  "context": "JU2 utan bygel | 13,2 V | 26,5 V | | *Enheten levereras med bygel på JU2 | | | ## 5.1.6. Säkringar | Enhet | Säkring | T**yp | Förklaring | |-----------------------------|---------|-------|----------------| | Samtliga | F1 | T2,5A | Elnätssäkring | | ECO 24V 3A S | F2, F6 | T3A | Lastsäkring + | | ECO 12V 5A S ECO 24V 5A M | F2, F6 | T5A | Lastsäkring + | | ECO 12V 10A M ECO 24V 10A M | F2, F6 | T10A | Lastsäkring + | | Samtliga | F7 | T16A | Batterisäkring | ## **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger om säkring byts till en större än vad enheten levereras med. **Säkringens funktion är att skydda ansluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring",  
+  "position": [  
+    11215,  
+    11680  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Last<br>01 A | Last<br>03 A | Last<br>06 A | Last 1<br>A | Last<br>15 A | Last 2<br>A | |--------------------|------------------------|----------------|----------------|----------------|----------------|--------------|----------------|--------------| | 12 V | 1 st",  
+  "context": "## 8.3. Förväntad drifttid vid strömavbrott (nya batterier) | Systems<br>pänning | Antal<br>batteri<br>er | Batteri<br>t**yp | Last:<br>0,1 A | Last:<br>0,3 A | Last:<br>0,6 A | Last: 1<br>A | Last:<br>1,5 A | Last: 2<br>A | |--------------------|------------------------|----------------|----------------|----------------|----------------|--------------|----------------|--------------| | 12 V | 1 st. **| 2,3 Ah | 12 h | 4 min | 2 h | 1 h | 40 min | 20 min | | 12 V | 1 st. | 7,2 Ah | 42 h | 19 h | 10 h | 5 h | 3 h | 2 h",  
+  "position": [  
+    15172,  
+    15453  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Förklaring | |-----------------------------|---------|-------|----------------| | Samtliga | F1 | T25A | Elnätssäkring | | ECO 24V 3A S | F2 F6 | T3A | Lastsäkring + | | ECO 12V 5A S ECO 24V 5A M | F2 F6 | T5A | Lastsäkring + | | ECO 12V 10A M ECO 24V 10A M | F2 F6 | T10A | Lastsäkring + | | Samtliga | F7 | T16A | Batterisäkring | <span id=\"page-19-0\"></span>![](images/_page_19_Picture_0",  
+  "context": "| | JU2 utan bygel | 13,2 V | 26,5 V | | *Enheten levereras med bygel på JU2 | | | ## **SÄKRINGAR** | Enhet | Säkring | **Typ | Förklaring | |-----------------------------|---------|-------|----------------| | Samtliga | F1 | T2,5A | Elnätssäkring | | ECO 24V 3A S | F2, F6 | T3A | Lastsäkring + | | ECO 12V 5A S ECO 24V 5A M | F2, F6 | T5A | Lastsäkring + | | ECO 12V 10A M ECO 24V 10A M | F2, F6 | T10A | Lastsäkring + | | Samtliga | F7 | T16A | Batterisäkring | <span id=\"page-19-0\"></span>![](images/_page_19_Picture_0.**jpeg) ## **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger om säkring byts till en större än vad enheten levere",  
+  "position": [  
+    17835,  
+    18229  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | | |---------------------------------------|------|--------|--| | Underhållsfritt AGM blysyra-batteri",  
+  "context": "</span>8.9. Batterier ## 8.9.1. Batterier ingår ej Batterier säljs separat. ## 8.9.2. 2,3 Ah, 12 V AGM-batteri | Batteri**typ | V | Ah | | |---------------------------------------|------|--------|--| | Underhållsfritt AGM, blysyra-batteri.** | 12 V | 2,3 Ah | | Tabell 15. 6+ Design life* batteri | Artikelnummer | E-nummer | Artikelnamn | Terminal | Mått. Höjd",  
+  "position": [  
+    28658,  
+    28775  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | | |---------------------------------------|------|--------|--| | Underhållsfritt AGM blysyra-batteri",  
+  "context": "r en hållbarhet (+6 Design lLife) på 6+ år brukar behöva bytas efter 2-3 år. ## 8.9.3. 4,5 Ah 12 V AGM-batteri | Batteri**typ | V | Ah | | |---------------------------------------|------|--------|--| | Underhållsfritt AGM, blysyra-batteri.** | 12 V | 4,5 Ah | | Tabell 16. 6+ Design life* batteri | Artikelnummer | E-nummer | Artikelnamn | Terminal | Mått. Höjd",  
+  "position": [  
+    29491,  
+    29608  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "vary with configuration",  
+  "context": "-----------------------------------| | A | Cabinet in powder-coated sheet metal. | | B | The power supply, location and **type vary with configuration.** | | C | Motherboard. | | D | Cable entries. | | E | Space for batteries. | ## <span id=\"page-31-0\"></span>2.2. Componen",  
+  "position": [  
+    37729,  
+    37758  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "vary with configuration",  
+  "context": "-----------------------------------| | A | Cabinet in powder-coated sheet metal. | | B | The power supply, location and **type vary with configuration.** | | C | Motherboard. | | D | Cable entries. | | E | Space for batteries. | ## 3. ENCLOSURES ## 3.1. Wall mounting Use f",  
+  "position": [  
+    38132,  
+    38161  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Explanation | |-------------------------------|--------|-------|--------------| | All units | F1 | T25A | Mains fuse | | ECO 24V 3A S",  
+  "context": "ut jumper * | 13.2 V | 26.5 V | | | *The unit is delivered with jumper on JU2 | | | | #### 5.1.6. Fuses | Unit | Fuse | **Type | Explanation | |-------------------------------|--------|-------|--------------| | All units | F1 | T2,5A | Mains fuse | | ECO 24V 3A S.** | F2, F6 | T3A | Load fuse + | | ECO 12V 5A S. ECO 24V 5A M. | F2, F6 | T5A | Load fuse + | | ECO 12V 10A M. ECO 24V 10",  
+  "position": [  
+    44503,  
+    44645  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Load<br>0",  
+  "context": "ime in the event of a power failure ( with new batteries) | System<br>voltage | Number<br>of batter<br>ies | Battery<br>**type | Load:<br>0.**1 A | Load:<br>0.3 A | Load:<br>0.6 A | Load: 1<br>A | Load:<br>1.5 A | Load: 2<br>A | |-------------------|------------",  
+  "position": [  
+    48886,  
+    48904  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Explanation | |-------------------------------|--------|-------|--------------| | All units | F1 | T25A | Mains fuse | | ECO 24V 3A S",  
+  "context": "JU2 without jumper * | 13.2 V | 26.5 V | | *The unit is delivered with jumper on JU2 | | | ## **FUSES** | Unit | Fuse | **Type | Explanation | |-------------------------------|--------|-------|--------------| | All units | F1 | T2,5A | Mains fuse | | ECO 24V 3A S.** | F2, F6 | T3A | Load fuse + | | ECO 12V 5A S. ECO 24V 5A M. | F2, F6 | T5A | Load fuse + | | ECO 12V 10A M. ECO 24V 10",  
+  "position": [  
+    51735,  
+    51877  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | |------------------------------------------|------|--------| | Maintenance-free AGM lead-acid battery",  
+  "context": "s are not included they are sold separately Batteries are sold separately. ## 8.9.2. 2.3 Ah, 12 V AGM battery | Battery **type | V | Ah | |------------------------------------------|------|--------| | Maintenance-free AGM, lead-acid battery.** | 12 V | 2.3 Ah | Table 15. 6+ Design life * battery | Article number | E-number | Article name | Terminal | Measure. H",  
+  "position": [  
+    62528,  
+    62647  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | |------------------------------------------|------|--------| | Maintenance-free AGM lead-acid battery",  
+  "context": "(+6 Design lLife) of 6+ years usually need to be replaced after 2-3 years. ## 8.9.3. 4.5 Ah 12 V AGM battery | Battery t**ype | V | Ah | |------------------------------------------|------|--------| | Maintenance-free AGM, lead-acid battery. **| 12 V | 4.5 Ah | #### Table 16. 6+ Design life * battery | Article number | E-number | Article name | Terminal | Measu",  
+  "position": [  
+    63392,  
+    63511  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "varierer med konfigurasjon",  
+  "context": "--------------------------------------------------| | A | Skap i pulverlakkert stålplate. | | B | Nettaggregat, sted og **type varierer med konfigurasjon.** | | C | Hovedkort. | | D | Kabelgjennomføringer. | | E | Plass for batterier. | ## <span id=\"page-57-0\"></span>2.2. Kom",  
+  "position": [  
+    71476,  
+    71508  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "varierer med konfigurasjon",  
+  "context": "--------------------------------------------------| | A | Skap i pulverlakkert stålplate. | | B | Nettaggregat, sted og **type varierer med konfigurasjon.** | | C | Hovedkort. | | D | Kabelgjennomføringer. | | E | Plass for batterier. | | | | ## 3. INNHEGNING ## 3.1. Monterin",  
+  "position": [  
+    71909,  
+    71941  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Forklaring | |-----------------------------|-----------|-------|----------------| | Samtlige | F1 | T25A | Elnettsikring | | ECO 24V 3A S | F2 F6 | T3A | Lastsikring + | | ECO 12V 5A S ECO 24V 5A M | F2 F6 | T5A | Lastsikring + | | ECO 12V 10A M ECO 24V 10A M | F2 F6 | T10A | Lastsikring + | | Samtlige | F7 | T16A | Batterisikring | ![](images/_page_65_Picture_5",  
+  "context": "JU2 uten bro | 13,2 V | 26,5 V | | | *Enheten leveres med bro på JU2. | | | | ## 5.1.6. Sikringer | Enhet | Sikringer | **Type | Forklaring | |-----------------------------|-----------|-------|----------------| | Samtlige | F1 | T2,5A | Elnettsikring | | ECO 24V 3A S | F2, F6 | T3A | Lastsikring + | | ECO 12V 5A S ECO 24V 5A M | F2, F6 | T5A | Lastsikring + | | ECO 12V 10A M ECO 24V 10A M | F2, F6 | T10A | Lastsikring + | | Samtlige | F7 | T16A | Batterisikring | ![](images/_page_65_Picture_5.**jpeg) ### **ADVARSEL FOR UTSKIFTING AV SIKRINGER (A)** Skaderisiko foreligger hvis sikringer byttes til en større verdi",  
+  "position": [  
+    78227,  
+    78596  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Last<br>01 A | Last<br>03 A | Last<br>06 A | Last 1<br>A | Last<br>15 A | Last 2<br>A | |--------------------|-------------------------|-----------------|----------------|----------------|----------------|--------------|----------------|--------------| | 12 V | 1 st",  
+  "context": "## 8.3. Forventet driftstid ved strømbrudd (nye batterier) | Systems<br>penning | Antall<br>batteri<br>er | Batteri<br>t**ype | Last:<br>0,1 A | Last:<br>0,3 A | Last:<br>0,6 A | Last: 1<br>A | Last:<br>1,5 A | Last: 2<br>A | |--------------------|-------------------------|-----------------|----------------|----------------|----------------|--------------|----------------|--------------| | 12 V | 1 st. **| 2,3 Ah | 12 h | 4 min | 2 h | 1 h | 40 min | 20 min | | 12 V | 1 st. | 7,2 Ah | 42 h | 19 h | 10 h | 5 h | 3 h | 2 h",  
+  "position": [  
+    82287,  
+    82571  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Forklaring | |-----------------------------|-----------|-------|----------------| | Samtlige | F1 | T25A | Elnettsikring | | ECO 24V 3A S | F2 F6 | T3A | Lastsikring + | | ECO 12V 5A S ECO 24V 5A M | F2 F6 | T5A | Lastsikring + | | ECO 12V 10A M ECO 24V 10A M | F2 F6 | T10A | Lastsikring + | | Samtlige | F7 | T16A | Batterisikring | <span id=\"page-71-0\"></span>![](images/_page_71_Picture_0",  
+  "context": "U2 uten bro | 13,2 V | 26,5 V | | | | *Enheten leveres med bro på JU2. | | | | | ## **SIKRINGER** | Enhet | Sikringer | **Type | Forklaring | |-----------------------------|-----------|-------|----------------| | Samtlige | F1 | T2,5A | Elnettsikring | | ECO 24V 3A S | F2, F6 | T3A | Lastsikring + | | ECO 12V 5A S ECO 24V 5A M | F2, F6 | T5A | Lastsikring + | | ECO 12V 10A M ECO 24V 10A M | F2, F6 | T10A | Lastsikring + | | Samtlige | F7 | T16A | Batterisikring | <span id=\"page-71-0\"></span>![](images/_page_71_Picture_0.**jpeg) ## **ADVARSEL FOR UTSKIFTING AV SIKRINGER (A)** Skaderisiko foreligger hvis sikringer byttes til en større verdi e",  
+  "position": [  
+    85122,  
+    85519  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | |----------------------------------|------|--------| | Vedlikeholdsfri AGM blybatteri",  
+  "context": ".9. Batterier ## 8.9.1. Batterier følger ikke med Batterier selges separat. ## 8.9.2. 2,3 Ah, 12 V AGM-batteri | Batteri**type | V | Ah | |----------------------------------|------|--------| | Vedlikeholdsfri AGM, blybatteri.** | 12 V | 2,3 Ah | Tabell 15. 6+ Designlevetid* batteri | Artikkelnummer | E-nummer | Artikkelnavn | Terminal | Mål. Høy",  
+  "position": [  
+    96079,  
+    96182  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | |----------------------------------|------|--------| | Vedlikeholdsfri AGM blybatteri",  
+  "context": "het (+6 Design Life) på 6+ år vil vanligvis trenge å byttes ut etter 2-3 år. ## 8.9.3. 4,5 Ah 12 V AGM batteri | Batteri**type | V | Ah | |----------------------------------|------|--------| | Vedlikeholdsfri AGM, blybatteri.** | 12 V | 4,5 Ah | Tabell 16. 6+ Designlevetid* batteri | Artikkelnummer | E-nummer | Arikkelnavn | Terminal | Mål. Høyd",  
+  "position": [  
+    96902,  
+    97005  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "5 | | | 2",  
+  "context": "1.1. Se installationsfilm 4 | | | 1.2. Namn, artikelnummer och e-nummer 5 | | | 1.3. Revisioner och om detta dokuments u**tgåva 5 | | | 2. **Komponentöversikt 5 | | | 2.1. Komponentöversikt ECO 12V 5A S, ECO 24V 3A S 5 | | | 2.2. Komponentöversikt ECO 12V 10A",  
+  "position": [  
+    494,  
+    511  
+  ],  
+  "pattern_index": 131,  
+  "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Gällande och senast publicerad utgåva av detta dokument finns på www",  
+  "context": "0A M | ME01C10224P100 | 5213522 | | ECO 12V 5A S | SM01C10212P050 | 5213650 | ## 1.3. Revisioner och om detta dokuments **utgåva Gällande och senast publicerad utgåva av detta dokument finns på www.**milleteknik.se. Detta dokuments giltighet kan inte garanteras, då ny utgåva publiceras utan föregående meddelande. Bruks",  
+  "position": [  
+    4192,  
+    4268  
+  ],  
+  "pattern_index": 131,  
+  "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "publiceras utan föregående meddelande",  
+  "context": "t publicerad utgåva av detta dokument finns på www.milleteknik.se. Detta dokuments giltighet kan inte garanteras, då ny **utgåva publiceras utan föregående meddelande.** Bruksanvisning i originalspråk: Svenska. Bruksanvisning, tekniska data och översättningar av desamma kan innehålla fel.",  
+  "position": [  
+    4337,  
+    4382  
+  ],  
+  "pattern_index": 131,  
+  "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of this document 31 | | | 2",  
+  "context": "---------|--| | 1.1. Installation video 30 | | | 1.2. Name, article number and e-number 31 | | | 1.3. Revisions and the **edition of this document 31 | | | 2.** Component overviews 31 | | | 2.1. Component overview 31 | | | 2.2. Component overview 32 | | | 3. Enclosures 32 | | | 3",  
+  "position": [  
+    33135,  
+    33171  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of this document The current and most recently published edition of this document is available at www",  
+  "context": "21 | | ECO 24V 10A M | ME01C10124P100 | 5213522 | | ECO 12V 5A S | SM01C10112P050 | 5213650 | ## 1.3. Revisions and the **edition of this document The current and most recently published edition of this document is available at www.**milleteknik.se. The validity of this document can not be guaranteed, as new editions are published without prior notice.",  
+  "position": [  
+    36987,  
+    37097  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464763"  
+}
+

@@ -1,0 +1,98 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| NEO 24V 25A FLX M Display | | | | Artikelnummer: | FM01P10024P050-DSP1",  
+  "source": "regex",  
+  "product_id": "50457199"  
+}
+
+{  
+  "identifier": "NUMMER",  
+  "original": "NUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER**: | MAX MÖJLI**GT ANTAL: | |-----------------------------------------------|--",  
+  "source": "regex",  
+  "product_id": "50457199"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | Artikelnamn: | NEO 24V 5A FLX M Display",  
+  "source": "regex",  
+  "product_id": "50457199"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| NEO 24V 25A FLX M Display | | | | Artikelnummer: | FM01P10024P050-DSP1",  
+  "source": "regex",  
+  "product_id": "50457199"  
+}
+
+{  
+  "identifier": "IKELTYP",  
+  "original": "IKELTYP",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER**: | MAX MÖ**JLIGT ANTAL: | |------------------",  
+  "source": "regex",  
+  "product_id": "50457199"  
+}
+
+{  
+  "identifier": "IKELNAMN",  
+  "original": "IKELNAMN",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER**: | MAX MÖJ**LIGT ANTAL: | |---------------------------------",  
+  "source": "regex",  
+  "product_id": "50457199"  
+}
+
+{  
+  "identifier": "IKELNUMMER",  
+  "original": "IKELNUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER**: | MAX MÖJLI**GT ANTAL: | |-----------------------------------------------|--",  
+  "source": "regex",  
+  "product_id": "50457199"  
+}
+

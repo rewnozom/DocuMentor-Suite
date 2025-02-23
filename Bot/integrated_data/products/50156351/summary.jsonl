@@ -1,0 +1,57 @@
+{  
+  "product_id": "50156351",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| PoE injector 4p",  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\nPoE\n\n## PoE injector 4p\n\n![](images/_page_0_Picture_3.jpeg)\n\n- √ PoE injector, 4 Ethernet / 4 PoE portar\n- √ Matningsspänning: 24 VDC\n- √ Stöder IEEE 802.3af/15,4W & IEEE 802.3at/30,8W\n- √ Kan monteras på vägg eller DIN skena\n\n| REKOMMENDERAD MILJÖ OCH MÅTT:  |                                                                                                                                                                                                                                                  |\n|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Rekommenderad miljö:           | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                               |\n| Omgivningstemperatur:          | +5 °C - 40 °C                                                                                                                                                                                                                                    |\n| Dimension (HxBxD):             | 117x155x135 mm                                                                                                                                                                                                                                   |\n| ELEKTRISK INFORMATION:         |                                                                                                                                                                                                                                                  |\n| Inspänning:                    | 27,3VDC                                                                                                                                                                                                                                          |\n| Utspänning:                    | PoE (54,6VDC)                                                                                                                                                                                                                                    |\n| Antal LAN / PoE portar:        | 4 st. / 4 st. |\n| Max effekt per port:           | 30,8W                                                                                                                                                                                                                                            |\n| PoE Budget:                    | 120W                                                                                                                                                                                                                                             |\n| Ethernettyp:                   | Injector                                                                                                                                                                                                                                         |\n| Typ av nätverksport:           | 10 / 100 PoE+                                                                                                                                                                                                                                    |\n| Gränssnit:                     | 1000Base-T RJ-45                                                                                                                                                                                                                                 |\n| Stöd för standard enligt:      | IEEE 802.3at, IEEE 802.3af                                                                                                                                                                                                                       |\n| Funktioner:                    | Auto-negotiation, Auto-uplink (auto MDI/MDI-X)                                                                                                                                                                                                   |\n| Managerbar:                    | Nej                                                                                                                                                                                                                                              |\n| ARTIKELINFORMATION:            |                                                                                                                                                                                                                                                  |\n| Artikelnamn:                   | PoE injector 4p                                                                                                                                                                                                                                  |\n| Artikelnummer:                 | PoE injector 4p                                                                                                                                                                                                                                  |\n| E-nummer:                      | 5213339                                                                                                                                                                                                                                          |\n| Produkten möter kraven enligt: | EMC Direktivet 2014/30EU, Lågspännings direktivet: 2014/35/EU CE direktivet enligt:765/2008, Emission:EN61000-6-:2001,<br>EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "MÅTT",  
+      "value": "|                                                                                                                                                                                                                                                  |\n|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Rekommenderad miljö: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                               |\n| Omgivningstemperatur: | +5 °C - 40 °C                                                                                                                                                                                                                                    |\n| Dimension (HxBxD): | 117x155x135 mm                                                                                                                                                                                                                                   |\n| ELEKTRISK INFORMATION: |                                                                                                                                                                                                                                                  |\n| Inspänning: | 27,3VDC                                                                                                                                                                                                                                          |\n| Utspänning: | PoE (54,6VDC)                                                                                                                                                                                                                                    |\n| Antal LAN / PoE portar: | 4 st",  
+      "unit": "x"  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "spänning",  
+      "value": "24",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Matningsspänning",  
+      "value": "24",  
+      "unit": null  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "nätverksport",  
+      "value": "| 10 / 100 PoE+                                                                                                                                                                                                                                    |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                 |\n| Stöd för standard enligt: | IEEE 802",  
+      "unit": "PoE"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "| Milleteknik AB | | Ursprungsland | Sverige | | | |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "24 VDC - √ Stöder IEEE 802",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 273VDC | | Utspänning | PoE (546VDC) | | Antal LAN / PoE portar | 4 st",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnamn",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

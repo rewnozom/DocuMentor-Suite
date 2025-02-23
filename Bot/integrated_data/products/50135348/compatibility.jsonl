@@ -1,0 +1,84 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "obstruction and do not place any foreign objects on top of the battery bank",  
+  "context": "or help of qualified technician - To eliminate any overheating of the battery box, keep all ventilation openings free fr**om obstruction and do not place any foreign objects on top of the battery bank.** Keep the battery box 20 cm away from the wall. - Make sure the battery box is installed within the proper environment a",  
+  "position": [  
+    574,  
+    653  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135348"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the wall",  
+  "context": "ree from obstruction and do not place any foreign objects on top of the battery bank. Keep the battery box 20 cm away fr**om the wall.** - Make sure the battery box is installed within the proper environment as specified. (0-40°C and 30-90% non-condensing",  
+  "position": [  
+    688,  
+    700  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135348"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the batteries is toxic and harmful to the skin and eyes",  
+  "context": "ery or batteries in a fire. The battery may explode. - CAUTION Do not open or mutilate the batteries. The electrolyte fr**om the batteries is toxic and harmful to the skin and eyes.** - CAUTION Risk of Electric Shock –Hazardous voltage may exist between battery terminals and ground. Test before touchin",  
+  "position": [  
+    2011,  
+    2070  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135348"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- This battery box is not designed for use in dusty corrosive and salty environment",  
+  "context": "Do not install the battery box under direct sunlight. Your warranty will be void if the batteries fail due to overheatin**g. - This battery box is not designed for use in dusty, corrosive and salty environment.** - The warranty for this battery bank will be void if water or other liquid is spilled or poured directly onto the batte",  
+  "position": [  
+    952,  
+    1040  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135348"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Be careful when connect batteries do not make batteries have short circuit",  
+  "context": "0°C - 45°C | Every 2 months | 1-2 hours | ![](images/_page_3_Picture_0.jpeg) ## **How to assemble BP S48T-12x9Ah** ### **Warnin**g: Be careful when connect batteries, do not make batteries have short circuit.**** - **1. The receptacle's wires have been assembled, please do not dismantle them.** ![](images/_page_3_Picture_4.jpeg) - **2.",  
+  "position": [  
+    3797,  
+    3876  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135348"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "& capacity",  
+  "context": "the required precautions. - When replacing batteries, it is necessary to replace ALL batteries with the same quantity, t**ype & capacity. **- CAUTION Do not dispose of battery or batteries in a fire. The battery may explode. - CAUTION Do not open or mutilate",  
+  "position": [  
+    1842,  
+    1858  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50135348"  
+}
+

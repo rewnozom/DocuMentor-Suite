@@ -1,0 +1,1809 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "fast installation",  
+  "context": "utningar, för enkel service eller uppgradering. #### <span id=\"page-16-0\"></span>13.1.4. Fast installation Produkten är **avsedd för fast installation.** Installation skall utföras av behörig installatör. #### 13.2. Användningsområden UPS används mest för: - Kameraövervakn",  
+  "position": [  
+    25553,  
+    25582  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "NÖDLJUSSTYRNING** Tändfas saknas",  
+  "context": "Grind och portstyrning av mindre och större industri- och garageportar. ![](images/_page_16_Picture_8.jpeg) **PRODUKTEN ÄR EJ A**VSEDD FÖR NÖDLJUSSTYRNING** Tändfas saknas. **Eftermontering av tändfas är ej möjligt. #### 13.3. Regelverk och certifieringar #### 13.3.1. Krav som produkten uppfyl",  
+  "position": [  
+    25871,  
+    25915  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 0800-1600 och fredagar 0800-1500",  
+  "context": "att reparation inte är möjlig. Kostnader för support tillkommer efter det att garantitiden har gått ut. 13.8.2. Support **Behöver du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 08:00-16:00 och fredagar 08:00-15:00.** Telefonsupport har stängt mellan 11:30-13:15. Du kan även skicka e-post, vi svarar, under vardagar, inom 24 timmar. Tel",  
+  "position": [  
+    32656,  
+    32797  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "matningen från elnätet vid nätavbrott tills elnätet återkommer (eller batterierna helt urladdats)",  
+  "context": "och kontaktuppgifter 21 | | | | | # 1. OM SINUS UPS FRÅN MILLETEKNIK SIN växelriktare är en Off-line UPS som går in och **ersätter matningen från elnätet vid nätavbrott, tills elnätet återkommer (eller batterierna helt urladdats).** SIN växelriktare är designade med senaste switchteknik och mikroprocessorövervakning, för: Högsta verkningsgrad och dri",  
+  "position": [  
+    3421,  
+    3529  
+  ],  
+  "pattern_index": 83,  
+  "pattern": "(?i)ersätter\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "matningen från elnätet vid nätavbrott tills elnätet återkommer (eller batterierna helt urladdats)",  
+  "context": "tsäkring och stäng skåpet igen. | # 9. FUNKTIONER VÄXELRIKTARE SINUS UPS växelriktare är en Off-line UPS som går in och **ersätter matningen från elnätet vid nätavbrott, tills elnätet återkommer (eller batterierna helt urladdats).** Omkopplingstiden är typ 20ms. Växelriktaren ersätter elnätets sinusspänning med en strömbegränsad sinusspänning. ![](_p",  
+  "position": [  
+    13631,  
+    13739  
+  ],  
+  "pattern_index": 83,  
+  "pattern": "(?i)ersätter\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "elnätets sinusspänning med en strömbegränsad sinusspänning",  
+  "context": "id nätavbrott, tills elnätet återkommer (eller batterierna helt urladdats). Omkopplingstiden är typ 20ms. Växelriktaren **ersätter elnätets sinusspänning med en strömbegränsad sinusspänning.** ![](images/_page_10_Picture_4.jpeg) #### **NOTERA** Vid nätavbrott startar växelriktaren upp och drar c:a 20W energi även olas",  
+  "position": [  
+    13784,  
+    13852  
+  ],  
+  "pattern_index": 83,  
+  "pattern": "(?i)ersätter\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "res- och eller arbetstid i samband med lokalisering av fel installerande av reparerad eller utbytt vara ingår ej i garantin",  
+  "context": "get annat avtalats). Kostnadsfri support under garantitiden nås på support@milleteknik.se eller telefon, 031-34 00 230. **Ersättning för res- och eller arbetstid i samband med lokalisering av fel, installerande av reparerad eller utbytt vara ingår ej i garantin.** Kontakta Milleteknik för mer information. Milleteknik ger support under produktens livslängd, dock som längst 10 år eft",  
+  "position": [  
+    32195,  
+    32335  
+  ],  
+  "pattern_index": 84,  
+  "pattern": "(?i)ersättning\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "Sinus UPS från Milleteknik 4 | | | | |--------------------------------------------------------------------------------------|--|--|--| | 2",  
+  "context": "![](images/_page_0_Picture_0.jpeg) # SINUS UPS SIN UPS 1100W FLX M 350-212 Publiceringsdatum 2023-03-09 | 1. **Om Sinus UPS från Milleteknik 4 | | | | |--------------------------------------------------------------------------------------|--|--|--| | 2.** Komponentöversikt SINUS FLX M 4 | | | | | 3. Kapsling 5 | | | | | 3.1. Konsol 5 | | | | | 3.2. Skjut fast konsoler 6 |",  
+  "position": [  
+    102,  
+    244  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "UPS 16 | | | | | 13",  
+  "context": "16 | | | | | 13.1.1. SIN namn, artikelnummer och e-nummer 16 | | | | | 13.1.2. Maximal märkeffekt 16 | | | | | 13.1.3. O**M UPS 16 | | | | | 13.1**.4. Fast installation 17 | | | | | 13.2. Användningsområden 17 | | | | | 13.3. Regelverk och certifieringar 17 | | | |",  
+  "position": [  
+    2211,  
+    2234  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller 17 | | | | | 13",  
+  "context": "lation 17 | | | | | 13.2. Användningsområden 17 | | | | | 13.3. Regelverk och certifieringar 17 | | | | | 13.3.1. Krav s**om produkten uppfyller 17 | | | | | 13.**4. Kretskort - Tekniska data 17 | | | | | 13.4.1. Tekniska data, moderkort: 1FAS Multi 17 | | | | | 230 V spänning in 18",  
+  "position": [  
+    2370,  
+    2409  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkters prestanda? 20 | | | 13",  
+  "context": "lverkningsland och ursprungsland 20 | | | 13.8.1. Garanti 20 | | | 13.8.2. Support 20 | | | Reservdelar 20 | | | Frågor **om produkters prestanda? 20 | | | 13.**8.3. Kontakta oss 20 | | | 13.8.4. Tillverkningsland 20 | | | 13.8.5. Tillverkare 21 | | | 14. Adress och kontaktuppgift",  
+  "position": [  
+    3162,  
+    3199  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "SINUS UPS FRÅN MILLETEKNIK SIN växelriktare är en Off-line UPS som går in och ersätter matningen från elnätet vid nätavbrott tills elnätet återkommer (eller batterierna helt urladdats)",  
+  "context": "| | | 13.8.4. Tillverkningsland 20 | | | 13.8.5. Tillverkare 21 | | | 14. Adress och kontaktuppgifter 21 | | | | | # 1. **OM SINUS UPS FRÅN MILLETEKNIK SIN växelriktare är en Off-line UPS som går in och ersätter matningen från elnätet vid nätavbrott, tills elnätet återkommer (eller batterierna helt urladdats).** SIN växelriktare är designade med senaste switchteknik och mikroprocessorövervakning, för: Högsta verkningsgrad och dri",  
+  "position": [  
+    3340,  
+    3529  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "medföljer systemet skall förvaras i dess omedelbara närhet",  
+  "context": "ten skall monteras av behörig person. - Det är installatörens ansvar att systemet är lämpat för tänkt bruk. - Dokument s**om medföljer systemet skall förvaras i dess omedelbara närhet.** - Systemet bör ej vara ansluten till nät vid montering. - Alla uppgifter är med reservation för ändringar. # 2. KOMPONE",  
+  "position": [  
+    4385,  
+    4447  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "på bilden",  
+  "context": "tering. - Alla uppgifter är med reservation för ändringar. # 2. KOMPONENTÖVERSIKT SINUS FLX M Batterier skall placeras s**om på bilden.** <span id=\"page-4-0\"></span>![](images/_page_4_Figure_0.jpeg) #### Tabell 1. Komponentöversikt | Bokstav | Förklaring | |------",  
+  "position": [  
+    4616,  
+    4629  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkrar konsolen till kapslingen",  
+  "context": "peg) | Nr | Förklaring | |----|-------------------------------------------------------------------| | 1 | Gem i konsol s**om säkrar konsolen till kapslingen.** | | 2 | Hål för skruv - kan användas för att säkra konsolen i kapslingen. | | 3 | Konsolen skruvas fast i vägg eller 19",  
+  "position": [  
+    5442,  
+    5477  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "bilden visar",  
+  "context": "n nödstopp. | | T2 | FAS elnät, inkommande. | | T1 | Nolla elnät, inkommande. | | PE | Inkommande skyddsjord. | Anslut s**om bilden visar;** - ev. inkommande styrd - inkommande elnätets fas till plint T2 på isolationsbrytare, - inkommande noll till plint T1. -",  
+  "position": [  
+    6910,  
+    6926  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "går in och ersätter matningen från elnätet vid nätavbrott tills elnätet återkommer (eller batterierna helt urladdats)",  
+  "context": "batteriautomatsäkring och stäng skåpet igen. | # 9. FUNKTIONER VÄXELRIKTARE SINUS UPS växelriktare är en Off-line UPS so**m går in och ersätter matningen från elnätet vid nätavbrott, tills elnätet återkommer (eller batterierna helt urladdats). **Omkopplingstiden är typ 20ms. Växelriktaren ersätter elnätets sinusspänning med en strömbegränsad sinusspänning. ![](_p",  
+  "position": [  
+    13617,  
+    13739  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "elektronisk strömbegränsning",  
+  "context": "matsäkring för batteri skyddar mot eventuell intern kortslutning. Batterierna skyddas från överlast av växelriktaren gen**om elektronisk strömbegränsning.** Batterierna är skyddade mot skadlig djupurladdning så att all strömkonsumtion upphör när batterispänningen understiger",  
+  "position": [  
+    14274,  
+    14306  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ström från batteriladdare upphäver djupurladdningsskyddet",  
+  "context": "ll strömkonsumtion upphör när batterispänningen understiger kritiskt värde (19 V). Endast återvändande elnät och därigen**om ström från batteriladdare upphäver djupurladdningsskyddet.** Batterierna skyddas även mot \"kokning-gasning\" på grund av överladdning, genom att frånkopplas från laddström. ## 9.2.",  
+  "position": [  
+    14486,  
+    14547  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att frånkopplas från laddström",  
+  "context": "eriladdare upphäver djupurladdningsskyddet. Batterierna skyddas även mot \"kokning-gasning\" på grund av överladdning, gen**om att frånkopplas från laddström.** ## 9.2. Batteriladdare UPS Batterierna laddas till 27,3V slutspänning under strömbegränsning för att uppnå optimal livs",  
+  "position": [  
+    14624,  
+    14658  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "standard ett självtestsystem (STS) som kontinuerligt övervakar alla funktioner i systemet",  
+  "context": "lriktarens utgång, (2-4 på kretskortsöversikt). ## <span id=\"page-11-0\"></span>9.4. Självtestsystem I aggregatet ingår s**om standard ett självtestsystem (STS) som kontinuerligt övervakar alla funktioner i systemet.** Självtestet har tre olika delar: 1. Batteriladdning. Larm ges vid över- eller underladdning. Underspänning indikeras en",  
+  "position": [  
+    15392,  
+    15485  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "laddare vid uppladdade batterier inte ger rätt laddspänning",  
+  "context": "vtestet har tre olika delar: 1. Batteriladdning. Larm ges vid över- eller underladdning. Underspänning indikeras endast **om laddare vid uppladdade batterier inte ger rätt laddspänning.** Inga felaktiga larm när batterierna återuppladdas efter nätavbrott, då batterispänningen naturligt är låg. Larm indiker",  
+  "position": [  
+    15610,  
+    15673  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "självdiagnoslarm sätts",  
+  "context": "nätavbrott, då batterispänningen naturligt är låg. Larm indikeras med 3 röda blink på lysdiod på frontpanel samtidigt so**m självdiagnoslarm sätts. **Vid överspänning kopplas laddningen ifrån batterierna för att undvika att de börjar \"koka-gasa\". Vid överspänning ges 4",  
+  "position": [  
+    15849,  
+    15875  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "självdiagnoslarm sätts",  
+  "context": "rierna för att undvika att de börjar \"koka-gasa\". Vid överspänning ges 4 röda blink på lysdiod på frontpanel samtidigt s**om självdiagnoslarm sätts.** 2. Larm för åldrat batteri. Batteriernas kapacitet eller åldring testas regelbundet (varje vecka). Vid prov som visar p",  
+  "position": [  
+    16043,  
+    16069  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visar på att aktuell batterikapacitet sjunkit till under 80% av ursprunglig märkkapacitet ges larm för att varna om att batterierna är i behov av byte",  
+  "context": "arm sätts. 2. Larm för åldrat batteri. Batteriernas kapacitet eller åldring testas regelbundet (varje vecka). Vid prov s**om visar på att aktuell batterikapacitet sjunkit till under 80% av ursprunglig märkkapacitet ges larm för att varna om att batterierna är i behov av byte.** Reservdriftens tillförlitlighet testas härmed i enlighet med uppställda dimensioneringskrav på önskad reservdrifttid i",  
+  "position": [  
+    16179,  
+    16333  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "förlorat 20% av sin kapacitet eller mer accelererar åldrandet",  
+  "context": "tlighet testas härmed i enlighet med uppställda dimensioneringskrav på önskad reservdrifttid i batteridrift. Batterier s**om förlorat 20% av sin kapacitet eller mer accelererar åldrandet.** De bör därför bytas. Denna gräns defineras som batteriets livslängd. Vid larm för åldrat batteri ges 5 röda blink på ly",  
+  "position": [  
+    16478,  
+    16543  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteriets livslängd",  
+  "context": "atterier som förlorat 20% av sin kapacitet eller mer accelererar åldrandet. De bör därför bytas. Denna gräns defineras s**om batteriets livslängd.** Vid larm för åldrat batteri ges 5 röda blink på lysdiod på skåpsfront samtidigt som självdiagnoslarm sätts. 3. Växelrik",  
+  "position": [  
+    16588,  
+    16612  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "självdiagnoslarm sätts",  
+  "context": "ns defineras som batteriets livslängd. Vid larm för åldrat batteri ges 5 röda blink på lysdiod på skåpsfront samtidigt s**om självdiagnoslarm sätts.** 3. Växelriktaren provkör över intern testlast motsvarande märkeffekt, samtidigt med test av batteriåldring. (varje veck",  
+  "position": [  
+    16694,  
+    16720  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "självdiagnoslarm sätts",  
+  "context": "g. Vid växelriktarfel ges 7 röda blink på lysdiod på frontpanel (ev komletterande blinkningar vid fler larm) samtidigt s**om självdiagnoslarm sätts.** ## 9.5. Larm självdiagnos Vid larm självdiagnos växlar larmkontakt till kontakt mellan NO-CO på 14. Larm ges vid: - 1.",  
+  "position": [  
+    17040,  
+    17066  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den olastade laddarens hållspänningen understiger 265 V ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 3 röda blink ORANGE",  
+  "context": "45:e minut vid nätspänning underspänning kopplas batteriet bort från laddning (<0,2 sek.), så att laddaren är olastad. O**m den olastade laddarens hållspänningen understiger 26,5 V ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 3 röda blink ORANGE. **Överspänning. Om laddspänningen överstiger 27,9V, kopplas omedelbart laddningen bort och larm ges (på potentialfri kont",  
+  "position": [  
+    17374,  
+    17532  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "laddspänningen överstiger 279V kopplas omedelbart laddningen bort och larm ges (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 4 röda blink",  
+  "context": "26,5 V ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 3 röda blink ORANGE. Överspänning. **Om laddspänningen överstiger 27,9V, kopplas omedelbart laddningen bort och larm ges (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 4 röda blink.** - 2. Åldrat batteri Varje vecka provlastas batteriet med hög, förutbestämd och kortvarig belastningsström över interna",  
+  "position": [  
+    17547,  
+    17713  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "under kontrollerade former har åldrats och löpande uppmätts under identisk belastningsprovning",  
+  "context": "med högströmsprovet och jämför med inprogrammerade värden på likadana batterier (typ, kvalitet/livslängd och storlek) so**m under kontrollerade former har åldrats och löpande uppmätts under identisk belastningsprovning. **Vid test som ger indikation på mer än 20 % åldrat batteri ges larm (på potentialfri kontakt) och lysdiod på frontpanel",  
+  "position": [  
+    18216,  
+    18314  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ger indikation på mer än 20 % åldrat batteri ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 5 röda blink",  
+  "context": "storlek) som under kontrollerade former har åldrats och löpande uppmätts under identisk belastningsprovning. Vid test so**m ger indikation på mer än 20 % åldrat batteri ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 5 röda blink. **- 3. Växelriktarprov. Varje vecka, samtidigt med batteriprovning, provkörs växelriktaren över intern belastning. Om väx",  
+  "position": [  
+    18325,  
+    18464  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "växelriktaren inte lämnar tillräcklig utspänning ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 7 röda blink",  
+  "context": "blink. - 3. Växelriktarprov. Varje vecka, samtidigt med batteriprovning, provkörs växelriktaren över intern belastning. **Om växelriktaren inte lämnar tillräcklig utspänning ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 7 röda blink.** Om ytterligare fel indikeras kommer dessa fel kompletternade att blinka fram enligt ovan. ## <span id=\"page-12-0\"></spa",  
+  "position": [  
+    18578,  
+    18721  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ytterligare fel indikeras kommer dessa fel kompletternade att blinka fram enligt ovan",  
+  "context": "mnar tillräcklig utspänning ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 7 röda blink. **Om ytterligare fel indikeras kommer dessa fel kompletternade att blinka fram enligt ovan.** ## <span id=\"page-12-0\"></span>9.6. Larm låg batterispänning Larmet sker efter en tids nätavbrott (= fördröjt nätavbrot",  
+  "position": [  
+    18722,  
+    18811  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "växelriktarens maximala märkeffekt (W) helst mindre för att dels erhålla säkerhetsmarginaler dels kompensera för förluster i kopplingar/kablage och lasten som innebär större verklig effektförbrukning från växelriktaren än angiven märkeffekt på lasten",  
+  "context": "r byglad från fabrik. # 10. DIMENSIONERING UPS Dimensionera ansluten last så att den sammantaget blir maximalt så stor s**om växelriktarens maximala märkeffekt (W), helst mindre för att dels erhålla säkerhetsmarginaler, dels kompensera för förluster i kopplingar/kablage och lasten som innebär större verklig effektförbrukning från växelriktaren än angiven märkeffekt på lasten.** Ta hänsyn till tillfällig starteffekt, så att den inte överstiger angiven max – kortvarig – starteffekt (VA) hos växelr",  
+  "position": [  
+    19970,  
+    20226  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en timme från det att nätfel inträffat då växelriktaren förbrukar effekt i tomgång som successivt tömmer batterierna",  
+  "context": "så att den inte överstiger angiven max – kortvarig – starteffekt (VA) hos växelriktaren. Reservdrift av last bör ske ino**m en timme från det att nätfel inträffat, då växelriktaren förbrukar effekt i tomgång, som successivt tömmer batterierna. **# 11. FRONTPANEL OCH STATUSINDIKERINGAR ![](images/_page_12_Picture_11.jpeg) #### <span id=\"page-13-0\"></span>Tabell 7. Panelf",  
+  "position": [  
+    20385,  
+    20507  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "enheten när batterierna är laddade inte ger rätt laddspänning",  
+  "context": "## 12.1. Kontrollåtgärder vid larm UPS - Batteriladdning, över- eller underspänning Över- eller underspänning indikeras **om enheten, när batterierna är laddade, inte ger rätt laddspänning.** Larm indikeras med blink på frontpanel samtidigt som summalarm sätts. Åtgärd vid larm: Kontrollera laddspänning. Mät sp",  
+  "position": [  
+    21493,  
+    21560  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "summalarm sätts",  
+  "context": "s om enheten, när batterierna är laddade, inte ger rätt laddspänning. Larm indikeras med blink på frontpanel samtidigt s**om summalarm sätts.** Åtgärd vid larm: Kontrollera laddspänning. Mät spänning till 27,3 V. Vid tvåpolig nätaggregatplint, (röd plus-, svart m",  
+  "position": [  
+    21611,  
+    21630  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "summalarm sätts",  
+  "context": "# 12.3. Kontrollåtgärder vid larm UPS - UPS fel / växelriktafel Vid växelriktarfel blinkar LED på frontpanel samtidigt s**om summalarm sätts.** Åtgärd vid larm: - Kontrollera säkringar i enheten. - Kontrollera med multimeter att enheten ger laddning ut, (230 V )",  
+  "position": [  
+    22170,  
+    22189  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "laddspänningen i normaldrift överstiger 279 V kopplas laddningen bort",  
+  "context": "cklig spänning, (27 V). Mät på batteripolerna. ## 12.4. Kontrollåtgärder vid larm UPS - Överspänning, för hög laddström **Om laddspänningen i normaldrift överstiger 27,9 V kopplas laddningen bort.** <span id=\"page-14-0\"></span>Kontrollera med multimeter att enhetens laddningen inte överstiger 27,9 V. Kontakta support",  
+  "position": [  
+    22482,  
+    22556  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "laddarens spänning understiger 265 V",  
+  "context": "atterierna laddas efter nätavbrott. ## 12.7. Teknikfakta larm: Felaktig laddspänning Larm för felaktig laddspänning ges **om laddarens spänning understiger 26,5 V.** Underspänning kan vara naturlig efter längre tids urladdning, UPS-drift. För att säkerställa att nätaggregatet inte går",  
+  "position": [  
+    23147,  
+    23188  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "laddspänningen i normaldrift överstiger 279 V kopplas laddningen bort",  
+  "context": "ddspänning/trasigt nätaggregat visas på panel och via potentialfri reläväxling. ## 12.8. Teknikfakta larm: Överspänning **Om laddspänningen i normaldrift överstiger 27,9 V kopplas laddningen bort.**Larm ges även på potentialfri reläväxling. #### 12.9. Teknikfakta larm: Åldrat batteri Varje vecka provlastas batterier",  
+  "position": [  
+    23530,  
+    23604  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "motsvarar batteriernas märkeffekt",  
+  "context": "Varje vecka provlastas batterier med hög, förutbestämd och kortvarig belastningsström över interna belastningsmotstånd s**om motsvarar batteriernas märkeffekt.** Aktuell batterikapacitet mäts. Mikroprocessorn tar ett \"fingeravtryck\" av batteriets aktuella tillstånd i belastningspr",  
+  "position": [  
+    23811,  
+    23848  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ger indikation på mellan än 20 % - 40 % av usprunglig batterikapaciet ger larm för åldrat batteri",  
+  "context": "riets aktuella tillstånd i belastningsprovet. Sedan jämförs med taget värde med inprogrammerade batterivärde. Vid test s**om ger indikation på mellan än 20 % - 40 % av usprunglig batterikapaciet ger larm för åldrat batteri.** Larm ges även på potentialfri reläväxling. #### 12.10. Teknikfakta larm: Växelriktarprov Varje vecka provkörs enheten m",  
+  "position": [  
+    24048,  
+    24149  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "enhetens växelriktare inte lämnar tillräcklig utspänning ges larm",  
+  "context": "ntialfri reläväxling. #### 12.10. Teknikfakta larm: Växelriktarprov Varje vecka provkörs enheten med intern belastning. **Om enhetens växelriktare inte lämnar tillräcklig utspänning ges larm.** Larm ges även på potentialfri reläväxling. ## <span id=\"page-15-0\"></span>13.1. SIN - UPS Produktblad / tekniska data F",  
+  "position": [  
+    24291,  
+    24360  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "UPS UPSen är designade med senaste switchteknik och mikroprocessorövervakning för högsta verkningsgrad och driftsäkerhet ger lång livslängd hos både elektronik och batterier",  
+  "context": "fekt | Namn | Kontinuerlig effekt | |-----------------|---------------------| | SIN 1100W FLX M | 1100 W | #### 13.1.3. **OM UPS UPS:en är designade med senaste switchteknik och mikroprocessorövervakning, för högsta verkningsgrad och driftsäkerhet, ger lång livslängd hos både elektronik och batterier.** UPS är väl skyddad med isolationsbrytare, batteriautomatsäkring, skydd mot övertemperatur, överlast, kortslutning. - Fu",  
+  "position": [  
+    24869,  
+    25049  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller | EMC | EMC Direktivet 2014/30EU | |-----------|--------------------------------------------------------------------------| | El | Lågspänningsdirektivet 2014/35/EU | | | EN 62368-1 | | CE | CE direktivet enligt765/2008 | | Emission | EN61000-6-2001 EN550221998-A12000 A22003 Klass B EN61000-3-22001 | | Immunity | EN61000-6-22005 EN61000-4-2 -3 4 -5 -6 -11 | #### 13",  
+  "context": "G** Tändfas saknas. Eftermontering av tändfas är ej möjligt. #### 13.3. Regelverk och certifieringar #### 13.3.1. Krav s**om produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |-----------|--------------------------------------------------------------------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | | EN 62368-1 | | CE: | CE direktivet enligt:765/2008 | | Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 | | Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11 | #### 13.**4. Kretskort - Tekniska data #### 13.4.1. Tekniska data, moderkort: 1FAS Multi Tabell 8. 1FAS Multi V9 | Info | Förklari",  
+  "position": [  
+    26016,  
+    26429  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "62368",  
+    "61000",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001",  
+    "61000",  
+    "22005",  
+    "61000"  
+  ],  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visar driftstatus larm och fel",  
+  "context": "-----------| | Spänningsform | Enfas sinus | | Max starteffet: | 2 kVA | | Laddström: | 6,5 A | | Indikering | Lysdiod s**om visar driftstatus, larm och fel.** | #### **230 V SPÄNNING IN** | Spänning | Förklaring / kommentar | | |--------------|---------------------------------|",  
+  "position": [  
+    27035,  
+    27070  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "5 sek vid kraftig överlast/kortslutning enligt UPS EN62040-1-1standard",  
+  "context": "----------------|--| | Strömbegränsning, elektronisk: | Typ av märkkapacitet. | | | Kortslutningsskydd: | Avstängning in**om 5 sek vid kraftig överlast/kortslutning enligt UPS EN62040-1-1standard.**<br>Automatisk återuppstart när nätspänning återkommer. | | | Djupurladdningsskydd: | När batteripolspänning understiger",  
+  "position": [  
+    27957,  
+    28031  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "62040"  
+  ],  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "bör bytas eller ej fungerande<br>växelriktare",  
+  "context": "vid nätav<br>brott | | | | | Summalarm, Självtest: | Felaktig laddspänning, över- eller underspänning, åldrat batteri so**m bör bytas eller ej fungerande<br>växelriktare. **| | | | ## 13.5. Tekniska data kapsling #### 13.5.1. Kapsling - Tekniska Data | Info | Förklaring | | | |--------------",  
+  "position": [  
+    30100,  
+    30149  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "får plats | 2 stycken 12 V 20 Ah",  
+  "context": "t | | | | Material | Pulverlackerad plåt. | | | | Färg | Svart | | | | Kabelgenomföringar, antal | 4 | | | | Batterier s**om får plats | 2 stycken 12 V, 20 Ah.** | | | | Fläkt | Ja | | | ## 13.6. Batterier #### 13.6.1. Batterier ingår ej Batterier säljs separat. #### 13.6.2. 20 Ah",  
+  "position": [  
+    30811,  
+    30848  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "värme och last påverkar livslängden",  
+  "context": "M5 Bult | 182x77x168 mm | 6,0 kg | UPLUS | *Design life är hållbarheten i år för ej använt batteri. Omgivningsfaktorer s**om värme och last påverkar livslängden.** Batterier som har en hållbarhet (+10 Design Life) på 10+ år brukar behöva bytas efter 4-5 år. ## <span id=\"page-19-0\"><",  
+  "position": [  
+    31633,  
+    31672  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har en hållbarhet (+10 Design Life) på 10+ år brukar behöva bytas efter 4-5 år",  
+  "context": "life är hållbarheten i år för ej använt batteri. Omgivningsfaktorer som värme och last påverkar livslängden. Batterier s**om har en hållbarhet (+10 Design Life) på 10+ år brukar behöva bytas efter 4-5 år.** ## <span id=\"page-19-0\"></span>13.7. Länk till senaste informationen Produkter är föremål för uppdateringar, du hittar",  
+  "position": [  
+    31684,  
+    31766  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "inget annat avtalats)",  
+  "context": "nti, support, tillverkningsland och ursprungsland #### 13.8.1. Garanti Produkten har två års garanti, från inköpsdatum (**om inget annat avtalats).** Kostnadsfri support under garantitiden nås på support@milleteknik.se eller telefon, 031-34 00 230. Ersättning för res-",  
+  "position": [  
+    32070,  
+    32095  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "längst 10 år efter inköpsdatum",  
+  "context": "ngår ej i garantin. Kontakta Milleteknik för mer information. Milleteknik ger support under produktens livslängd, dock s**om längst 10 år efter inköpsdatum.** Byte till likvärdig produkt kan förekomma om Milleteknik bedömer att reparation inte är möjlig. Kostnader för support t",  
+  "position": [  
+    32436,  
+    32470  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "Milleteknik bedömer att reparation inte är möjlig",  
+  "context": "support under produktens livslängd, dock som längst 10 år efter inköpsdatum. Byte till likvärdig produkt kan förekomma o**m Milleteknik bedömer att reparation inte är möjlig. **Kostnader för support tillkommer efter det att garantitiden har gått ut. 13.8.2. Support Behöver du hjälp med installat",  
+  "position": [  
+    32513,  
+    32566  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "24 timmar",  
+  "context": "agar 08:00-15:00. Telefonsupport har stängt mellan 11:30-13:15. Du kan även skicka e-post, vi svarar, under vardagar, in**om 24 timmar.** Telefon: 031- 340 02 30, e-post: [support@milleteknik.se.](mailto:support@milleteknik.se) Du hittar mer information på",  
+  "position": [  
+    32900,  
+    32913  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "reservdelar se kontaktuppgifter ovan",  
+  "context": "w.milletek](http://www.milleteknik.se)[nik.se.](http://www.milleteknik.se) #### **RESERVDELAR** Support hanterar frågor **om reservdelar, se kontaktuppgifter ovan.** #### **FRÅGOR OM PRODUKTERS PRESTANDA?** Telefon till försäljning: 031- 340 02 30, e-post: [sales@milleteknik.se](mailt",  
+  "position": [  
+    33156,  
+    33197  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PRODUKTERS PRESTANDA?** Telefon till försäljning 031- 340 02 30 e-post [sales@milleteknik",  
+  "context": "ww.milleteknik.se) #### **RESERVDELAR** Support hanterar frågor om reservdelar, se kontaktuppgifter ovan. #### **FRÅGOR **OM PRODUKTERS PRESTANDA?** Telefon till försäljning: 031- 340 02 30, e-post: [sales@milleteknik.**se](mailto:sales@milleteknik.se) 13.8.3. Kontakta oss Milleteknik AB Ögärdesvägen 8 B 433 30 Partille Sverige +46 31-34",  
+  "position": [  
+    33212,  
+    33308  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier laddas upp efter nätavbrott? 15 | | | | | 12",  
+  "context": "Överspänning, för hög laddström 14 | | | | | 12.5. Testlast i UPS (del av självtestsystem) 15 | | | | | 12.6. Ges larm n**är batterier laddas upp efter nätavbrott? 15 | | | | | 12.7**. Teknikfakta larm: Felaktig laddspänning 15 | | | | | 12.8. Teknikfakta larm: Överspänning 15 | | | | | 12.9. Teknikfa",  
+  "position": [  
+    1756,  
+    1815  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteribyte bör ske eller ej fungerande växelriktare till 14",  
+  "context": "för nätavbrott. #### 7.1. Anslut summalarm för självtest Felaktig laddspänning (över-/underspänning), åldrat batteri – n**är batteribyte bör ske, eller ej fungerande växelriktare till 14. **Larm - kontakt NO och CO. #### 7.1.1. Anslut larm för låg batterispänning Larm vid viss förbrukad energi i batteridrift",  
+  "position": [  
+    9805,  
+    9871  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterispänningen understiger kritiskt värde (19 V)",  
+  "context": "enom elektronisk strömbegränsning. Batterierna är skyddade mot skadlig djupurladdning så att all strömkonsumtion upphör **när batterispänningen understiger kritiskt värde (19 V).** Endast återvändande elnät och därigenom ström från batteriladdare upphäver djupurladdningsskyddet. Batterierna skyddas",  
+  "position": [  
+    14392,  
+    14448  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna återuppladdas efter nätavbrott då batterispänningen naturligt är låg",  
+  "context": "ing. Underspänning indikeras endast om laddare vid uppladdade batterier inte ger rätt laddspänning. Inga felaktiga larm **när batterierna återuppladdas efter nätavbrott, då batterispänningen naturligt är låg.** Larm indikeras med 3 röda blink på lysdiod på frontpanel samtidigt som självdiagnoslarm sätts. Vid överspänning kopplas",  
+  "position": [  
+    15694,  
+    15780  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "återstående batterikapacitet i batteridrift understiger en på förhand inställd nivå",  
+  "context": "id=\"page-12-0\"></span>9.6. Larm låg batterispänning Larmet sker efter en tids nätavbrott (= fördröjt nätavbrottslarm), n**är återstående batterikapacitet i batteridrift understiger en på förhand inställd nivå. **Vid larm låg batterispänning växlar larmkontakt till kontakt mellan NO-CO på plint 13. Indikering med lysdiod på frontp",  
+  "position": [  
+    18940,  
+    19028  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tiden för eventuell inställd tidsfördröjning av nätlarm inträffar blinkar lysdiod 2 blink orange",  
+  "context": "ntpanel konstant tänd. Vid nätavbrott startar växelriktare i batteridrift varvid lysdiod blinkar 1 blink orange för att **när tiden för eventuell inställd tidsfördröjning av nätlarm inträffar blinkar lysdiod 2 blink orange .** Vid larm nätavbrott växlar larmkontakt till kontakt mellan NO-CO på plint 12. Vid normal nätdrift är lysdiod på frontpa",  
+  "position": [  
+    19363,  
+    19465  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är laddade inte ger rätt laddspänning",  
+  "context": "trollåtgärder vid larm UPS - Batteriladdning, över- eller underspänning Över- eller underspänning indikeras om enheten, **när batterierna är laddade, inte ger rätt laddspänning.** Larm indikeras med blink på frontpanel samtidigt som summalarm sätts. Åtgärd vid larm: Kontrollera laddspänning. Mät sp",  
+  "position": [  
+    21505,  
+    21560  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier laddas upp efter nätavbrott? Inga larm ges när batterierna laddas efter nätavbrott",  
+  "context": "t kontrollera att utspänningen är tillräcklig för UPS drift och därmed att batterier inte är åldrade. ## 12.6. Ges larm **när batterier laddas upp efter nätavbrott? Inga larm ges när batterierna laddas efter nätavbrott.** ## 12.7. Teknikfakta larm: Felaktig laddspänning Larm för felaktig laddspänning ges om laddarens spänning understiger 2",  
+  "position": [  
+    22965,  
+    23062  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätspänning återkommer",  
+  "context": ": | Avstängning inom 5 sek vid kraftig överlast/kortslutning enligt UPS EN62040-1-1standard.<br>Automatisk återuppstart **när nätspänning återkommer.** | | | Djupurladdningsskydd: | När batteripolspänning understiger 19 V. | | | Överladdningsskydd: | Bortkoppling av ladd",  
+  "position": [  
+    28059,  
+    28086  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteripolspänning understiger 19 V",  
+  "context": "ng enligt UPS EN62040-1-1standard.<br>Automatisk återuppstart när nätspänning återkommer. | | | Djupurladdningsskydd: | **När batteripolspänning understiger 19 V.** | | | Överladdningsskydd: | Bortkoppling av laddspänning vid överladdning, 27,9 V. | | | Automatsäkring: | Batterier är",  
+  "position": [  
+    28117,  
+    28157  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteriet har<br>tappat 20% - 40% kapacitet av nyvärde och bör bytas",  
+  "context": "ör att konstatera batteriåld<br>ring. Provet jämför upp- mätt batterikapacitet med programmerade värden för att ge larm **när batteriet har<br>tappat 20% - 40% kapacitet av nyvärde och bör bytas.** | | Växelriktare | Provbelastning av UPS (motsvarande märkeffekt över intern testlast) för att kontrollera funktion och",  
+  "position": [  
+    29225,  
+    29298  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "inkommande styrd - inkommande elnätets fas till plint T2 på isolationsbrytare - inkommande noll till plint T1",  
+  "context": "FAS elnät, inkommande. | | T1 | Nolla elnät, inkommande. | | PE | Inkommande skyddsjord. | Anslut som bilden visar; - ev**. inkommande styrd - inkommande elnätets fas till plint T2 på isolationsbrytare, - inkommande noll till plint T1. **- skyddsjord till plint \"PE\". Tabell 3. Batterinummer | B1, B2 | Förklaring | | | |--------|---------------------------",  
+  "position": [  
+    6930,  
+    7044  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "# 5",  
+  "context": "rk upp den tydligt. Med en lastfrånskiljare installerad kan inkommande spänning lätt brytas vid service och funktionspro**v. # 5.** UT: 230 V Utgående fas/last till PICTO märkt 4 på kretskortsöversikt (alltid spänning ut). Utgående fas/last till (NÖDL",  
+  "position": [  
+    7803,  
+    7810  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Varje vecka samtidigt med batteriprovning provkörs växelriktaren över intern belastning",  
+  "context": "batteri ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 5 röda blink. - 3. Växelriktarprov**. Varje vecka, samtidigt med batteriprovning, provkörs växelriktaren över intern belastning. **Om växelriktaren inte lämnar tillräcklig utspänning ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinka",  
+  "position": [  
+    18484,  
+    18577  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid tvåpolig nätaggregatplint (röd plus- svart minus-kabel)",  
+  "context": "ed blink på frontpanel samtidigt som summalarm sätts. Åtgärd vid larm: Kontrollera laddspänning. Mät spänning till 27,3 **V. Vid tvåpolig nätaggregatplint, (röd plus-, svart minus-kabel).** #### 12.2. Kontrollåtgärder vid larm UPS - Larm för åldrat batteri Batteriernas kapacitet och åldring testas varje veck",  
+  "position": [  
+    21697,  
+    21762  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakta support för vidare hjälp av justering av nätaggretatets spänning",  
+  "context": "as laddningen bort. <span id=\"page-14-0\"></span>Kontrollera med multimeter att enhetens laddningen inte överstiger 27,9 **V. Kontakta support för vidare hjälp av justering av nätaggretatets spänning.** ## 12.5. Testlast i UPS (del av självtestsystem) Enheten provkör varje vecka mot intern testlast. Detta för att kontrol",  
+  "position": [  
+    22657,  
+    22734  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Underspänning kan vara naturlig efter längre tids urladdning UPS-drift",  
+  "context": "12.7. Teknikfakta larm: Felaktig laddspänning Larm för felaktig laddspänning ges om laddarens spänning understiger 26,5 **V. Underspänning kan vara naturlig efter längre tids urladdning, UPS-drift.** För att säkerställa att nätaggregatet inte går sönder vid återuppladdning görs test var 45:e minut att laddspänning är",  
+  "position": [  
+    23186,  
+    23261  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | Överladdningsskydd | Bortkoppling av laddspänning vid överladdning 279 V",  
+  "context": "Automatisk återuppstart när nätspänning återkommer. | | | Djupurladdningsskydd: | När batteripolspänning understiger 19 **V. | | | Överladdningsskydd: | Bortkoppling av laddspänning vid överladdning, 27,9 V.** | | | Automatsäkring: | Batterier är avsäkrade. | | | Tillval: Jordfelsbrytare: | Kan installeras på utgång (extra skyd",  
+  "position": [  
+    28155,  
+    28240  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Fullständig självtest inklusive avancerat batteritest",  
+  "context": "och batterier. Väl skyddad med isolationsbrytare, batteriautomatsäkring, skydd mot övertemperatur, överlast, kortslutnin**g. Fullständig självtest inklusive avancerat batteritest.** Enheterna är installations- och servicevänliga: Kompakt volym. Utanpåliggande väggfästen för uppsättning utan att behöv",  
+  "position": [  
+    3820,  
+    3877  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Moduluppbyggd",  
+  "context": "icevänliga: Kompakt volym. Utanpåliggande väggfästen för uppsättning utan att behöva öppna elskåpet för snabb uppsättnin**g. Moduluppbyggd.** All elektronik på kassett för enkel service eller uppgradering. UPS laddas med inbyggt nätaggregat och drivs vid nätavb",  
+  "position": [  
+    4034,  
+    4051  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "UPS laddas med inbyggt nätaggregat och drivs vid nätavbrott vidare av batterier",  
+  "context": "ehöva öppna elskåpet för snabb uppsättning. Moduluppbyggd. All elektronik på kassett för enkel service eller uppgraderin**g. UPS laddas med inbyggt nätaggregat och drivs vid nätavbrott vidare av batterier.** ![](images/_page_3_Picture_5.jpeg) ## **SÄKERHET - LÄS DETTA FÖRST** - Enheten skall monteras av behörig person. - Det är inst",  
+  "position": [  
+    4113,  
+    4196  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Alla uppgifter är med reservation för ändringar",  
+  "context": "nt som medföljer systemet skall förvaras i dess omedelbara närhet. - Systemet bör ej vara ansluten till nät vid monterin**g. - Alla uppgifter är med reservation för ändringar.** # 2. KOMPONENTÖVERSIKT SINUS FLX M Batterier skall placeras som på bilden. <span id=\"page-4-0\"></span>![](images/_page_4_Figur",  
+  "position": [  
+    4501,  
+    4554  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid montering i 19\" rack skall konsolen sitta i framkant på enheten",  
+  "context": "### 3.1. Konsol Medföljande konsoler kan fästas på två sätt: Vid montering på vägg skall konsolerna sitta bakåt, mot väg**g. Vid montering i 19\" rack skall konsolen sitta i framkant på enheten.** <span id=\"page-5-0\"></span>![](images/_page_5_Figure_0.jpeg) | Nr | Förklaring | |----|---------------------------------------",  
+  "position": [  
+    5201,  
+    5272  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | 2 | Hål för skruv - kan användas för att säkra konsolen i kapslingen",  
+  "context": "-------------------------------------------------------------------| | 1 | Gem i konsol som säkrar konsolen till kapslin**gen. | | 2 | Hål för skruv - kan användas för att säkra konsolen i kapslingen.** | | 3 | Konsolen skruvas fast i vägg eller 19\" rack. | ## 3.2. Skjut fast konsoler Enheten kan monteras i 19\" rack elle",  
+  "position": [  
+    5473,  
+    5551  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Medföljande konsoler kan fästas på två sätt Vid montering på vägg skall konsolerna sitta bakåt mot vägg",  
+  "context": "Konsolen skruvas fast i vägg eller 19\" rack. | ## 3.2. Skjut fast konsoler Enheten kan monteras i 19\" rack eller på vägg**. Medföljande konsoler kan fästas på två sätt: Vid montering på vägg skall konsolerna sitta bakåt, mot vägg. **Vid montering i 19\" rack skall konsolens sitta i framkant på enheten. Figur 1. Montera konsoler på kapsling ![](images/_page_5",  
+  "position": [  
+    5679,  
+    5788  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_5_Picture_8",  
+  "context": "5.jpeg) Vänster konsol: vänd mot framsidan för montering i 19\" rack. Höger konsol vänd mot baksidan för montering på väg**g. ![](images/_page_5_Picture_8.**jpeg) #### **VIKTIGT** Lämna 100 mm fritt kring luftgaller. ## <span id=\"page-6-0\"></span>3.3. Montering Använd lämplig",  
+  "position": [  
+    6036,  
+    6061  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | II | Batterikablage från moderkort",  
+  "context": "kstav | Förklaring | |--------------|-------------------------------------| | I, III | Batterikablage till automatsäkrin**g. | | II | Batterikablage från moderkort.** | | 4 | Batterisäkring (automatsäkring) | | T3 | Intern nödstopp. | | T2 | FAS elnät, inkommande. | | T1 | Nolla elnät,",  
+  "position": [  
+    6693,  
+    6735  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "STOP | Nödstopp (fabrikskopplad)",  
+  "context": "| NC CO NC | | | 14 | ALARM: SDS | Självdiagnoslarm, NO/COM/NC. | | | NC CO NC | | | 15 | - | Används ej. | | 16 | -EMER**G.STOP | Nödstopp, (fabrikskopplad).** | | | AC/DC+ | | | 17 | + AC/DC - | Intern koppling, nätaggregat. | | 18 | F1 | Säkring, batteriladdare, T10A/T16A. | |",  
+  "position": [  
+    9269,  
+    9305  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | 20 | SW2 | Tryckknapp för start av UPS i batteridrift enbart utan att elnät är inkopplat/påslaget",  
+  "context": "ling, nätaggregat. | | 18 | F1 | Säkring, batteriladdare, T10A/T16A. | | 19 | P1 | Potentiometer för utspänningsjusterin**g. | | 20 | SW2 | Tryckknapp för start av UPS i batteridrift enbart, utan att elnät är inkopplat/påslaget.** | | 21 | - | Anslutning till fläkt | # 7. LARMINKOPPLING Självtest, larm för låg batterispänning och larm för nätavbrot",  
+  "position": [  
+    9473,  
+    9579  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Tabell 6",  
+  "context": "m - kontakt NO och CO. # 8. DRIFTSÄTTNING - HUR ENHETEN SKALL STARTAS Efter inkoppling skall uppstart ske i följande ste**g: | | Tabell 6.** Driftsättning - ordningen | | |--|-------------------------------------|--| |--|-------------------------------------|-",  
+  "position": [  
+    11540,  
+    11556  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| ## 8",  
+  "context": "ntral för att prova att UPS fungerar (ansluten last<br>drivs vidare i batteridrift). | | 7 | Koppla åter till nätspännin**g. | ## 8.**1. Uppstart utan elnät (in: 230 V) I det fall att fast matning inte finns framdragen / ej är inkopplad kan UPS:en, för a",  
+  "position": [  
+    12716,  
+    12726  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | 3 | Håll inne SW2 tills dess att UPS startat upp och går",  
+  "context": "------------------------------------------------------| | 2 | Vrid isolationsbrytare till \"1\" och slå till batterisäkrin**g. | | 3 | Håll inne SW2 tills dess att UPS startat upp och går.** | | 4 | Vrid tillbaka isolationsbrytare till läge \"0\", slå ifrån batteriautomatsäkring och stäng skåpet igen. | # 9. FU",  
+  "position": [  
+    13368,  
+    13432  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| # 9",  
+  "context": "t upp och går. | | 4 | Vrid tillbaka isolationsbrytare till läge \"0\", slå ifrån batteriautomatsäkring och stäng skåpet i**gen. | # 9.** FUNKTIONER VÄXELRIKTARE SINUS UPS växelriktare är en Off-line UPS som går in och ersätter matningen från elnätet vid nä",  
+  "position": [  
+    13538,  
+    13549  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_10_Picture_4",  
+  "context": "laddats). Omkopplingstiden är typ 20ms. Växelriktaren ersätter elnätets sinusspänning med en strömbegränsad sinusspännin**g. ![](images/_page_10_Picture_4.**jpeg) #### **NOTERA** Vid nätavbrott startar växelriktaren upp och drar c:a 20W energi även olastad, (tomgångseffekt). #",  
+  "position": [  
+    13850,  
+    13876  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Automatsäkring för batteri skyddar mot eventuell intern kortslutning",  
+  "context": "a är ventilreglerade underhållsfria 10-12 årsbatterier särskilt lämpade för UPS drift med hög kortvarig effektförbruknin**g. Automatsäkring för batteri skyddar mot eventuell intern kortslutning.** Batterierna skyddas från överlast av växelriktaren genom elektronisk strömbegränsning. Batterierna är skyddade mot skad",  
+  "position": [  
+    14147,  
+    14219  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Batterierna är skyddade mot skadlig djupurladdning så att all strömkonsumtion upphör när batterispänningen understiger kritiskt värde (19 V)",  
+  "context": "mot eventuell intern kortslutning. Batterierna skyddas från överlast av växelriktaren genom elektronisk strömbegränsning**. Batterierna är skyddade mot skadlig djupurladdning så att all strömkonsumtion upphör när batterispänningen understiger kritiskt värde (19 V). **Endast återvändande elnät och därigenom ström från batteriladdare upphäver djupurladdningsskyddet. Batterierna skyddas",  
+  "position": [  
+    14304,  
+    14448  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Larm ges vid över- eller underladdning",  
+  "context": "tsystem (STS) som kontinuerligt övervakar alla funktioner i systemet. Självtestet har tre olika delar: 1. Batteriladdnin**g. Larm ges vid över- eller underladdning.** Underspänning indikeras endast om laddare vid uppladdade batterier inte ger rätt laddspänning. Inga felaktiga larm när",  
+  "position": [  
+    15536,  
+    15578  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inga felaktiga larm när batterierna återuppladdas efter nätavbrott då batterispänningen naturligt är låg",  
+  "context": "över- eller underladdning. Underspänning indikeras endast om laddare vid uppladdade batterier inte ger rätt laddspänning**. Inga felaktiga larm när batterierna återuppladdas efter nätavbrott, då batterispänningen naturligt är låg. **Larm indikeras med 3 röda blink på lysdiod på frontpanel samtidigt som självdiagnoslarm sätts. Vid överspänning kopplas",  
+  "position": [  
+    15671,  
+    15780  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "varje vecka",  
+  "context": "noslarm sätts. 3. Växelriktaren provkör över intern testlast motsvarande märkeffekt, samtidigt med test av batteriåldrin**g. (varje vecka).** Därmed kontrolleras att utspänning är tillräcklig i UPSdrift under belastning. Vid växelriktarfel ges 7 röda blink på l",  
+  "position": [  
+    16826,  
+    16843  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid växelriktarfel ges 7 röda blink på lysdiod på frontpanel (ev komletterande blinkningar vid fler larm) samtidigt som självdiagnoslarm sätts",  
+  "context": "med test av batteriåldring. (varje vecka). Därmed kontrolleras att utspänning är tillräcklig i UPSdrift under belastning**. Vid växelriktarfel ges 7 röda blink på lysdiod på frontpanel (ev komletterande blinkningar vid fler larm) samtidigt som självdiagnoslarm sätts. **## 9.5. Larm självdiagnos Vid larm självdiagnos växlar larmkontakt till kontakt mellan NO-CO på 14. Larm ges vid: - 1.",  
+  "position": [  
+    16920,  
+    17066  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Var 45e minut vid nätspänning underspänning kopplas batteriet bort från laddning (<02 sek",  
+  "context": "ntakt till kontakt mellan NO-CO på 14. Larm ges vid: - 1. Felaktig laddspänning (under- eller överspänning) Underspännin**g. Var 45:e minut vid nätspänning underspänning kopplas batteriet bort från laddning (<0,2 sek.**), så att laddaren är olastad. Om den olastade laddarens hållspänningen understiger 26,5 V ges larm (på potentialfri kon",  
+  "position": [  
+    17248,  
+    17343  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Om laddspänningen överstiger 279V kopplas omedelbart laddningen bort och larm ges (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 4 röda blink",  
+  "context": "er 26,5 V ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 3 röda blink ORANGE. Överspännin**g. Om laddspänningen överstiger 27,9V, kopplas omedelbart laddningen bort och larm ges (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 4 röda blink.** - 2. Åldrat batteri Varje vecka provlastas batteriet med hög, förutbestämd och kortvarig belastningsström över interna",  
+  "position": [  
+    17544,  
+    17713  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid test som ger indikation på mer än 20 % åldrat batteri ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 5 röda blink",  
+  "context": "livslängd och storlek) som under kontrollerade former har åldrats och löpande uppmätts under identisk belastningsprovnin**g. Vid test som ger indikation på mer än 20 % åldrat batteri ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 5 röda blink.** - 3. Växelriktarprov. Varje vecka, samtidigt med batteriprovning, provkörs växelriktaren över intern belastning. Om väx",  
+  "position": [  
+    18312,  
+    18464  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Om växelriktaren inte lämnar tillräcklig utspänning ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 7 röda blink",  
+  "context": "da blink. - 3. Växelriktarprov. Varje vecka, samtidigt med batteriprovning, provkörs växelriktaren över intern belastnin**g. Om växelriktaren inte lämnar tillräcklig utspänning ges larm (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 7 röda blink.** Om ytterligare fel indikeras kommer dessa fel kompletternade att blinka fram enligt ovan. ## <span id=\"page-12-0\"></spa",  
+  "position": [  
+    18575,  
+    18721  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Larm indikeras med blink på frontpanel samtidigt som summalarm sätts",  
+  "context": "ller underspänning Över- eller underspänning indikeras om enheten, när batterierna är laddade, inte ger rätt laddspännin**g. Larm indikeras med blink på frontpanel samtidigt som summalarm sätts.** Åtgärd vid larm: Kontrollera laddspänning. Mät spänning till 27,3 V. Vid tvåpolig nätaggregatplint, (röd plus-, svart m",  
+  "position": [  
+    21558,  
+    21630  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Mät spänning till 273 V",  
+  "context": "spänning. Larm indikeras med blink på frontpanel samtidigt som summalarm sätts. Åtgärd vid larm: Kontrollera laddspännin**g. Mät spänning till 27,3 V.** Vid tvåpolig nätaggregatplint, (röd plus-, svart minus-kabel). #### 12.2. Kontrollåtgärder vid larm UPS - Larm för åldr",  
+  "position": [  
+    21671,  
+    21699  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 12",  
+  "context": "att enhetens laddningen inte överstiger 27,9 V. Kontakta support för vidare hjälp av justering av nätaggretatets spännin**g. ## 12.**5. Testlast i UPS (del av självtestsystem) Enheten provkör varje vecka mot intern testlast. Detta för att kontrollera at",  
+  "position": [  
+    22732,  
+    22741  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 12",  
+  "context": "ddspänning är korrekt. Larm för felaktid laddspänning/trasigt nätaggregat visas på panel och via potentialfri reläväxlin**g. ## 12.**8. Teknikfakta larm: Överspänning Om laddspänningen i normaldrift överstiger 27,9 V kopplas laddningen bort.Larm ges äve",  
+  "position": [  
+    23487,  
+    23496  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### 12",  
+  "context": "nning Om laddspänningen i normaldrift överstiger 27,9 V kopplas laddningen bort.Larm ges även på potentialfri reläväxlin**g. #### 12.**9. Teknikfakta larm: Åldrat batteri Varje vecka provlastas batterier med hög, förutbestämd och kortvarig belastningsströ",  
+  "position": [  
+    23644,  
+    23655  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### 12",  
+  "context": "ellan än 20 % - 40 % av usprunglig batterikapaciet ger larm för åldrat batteri. Larm ges även på potentialfri reläväxlin**g. #### 12.**10. Teknikfakta larm: Växelriktarprov Varje vecka provkörs enheten med intern belastning. Om enhetens växelriktare inte",  
+  "position": [  
+    24190,  
+    24201  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Om enhetens växelriktare inte lämnar tillräcklig utspänning ges larm",  
+  "context": "otentialfri reläväxling. #### 12.10. Teknikfakta larm: Växelriktarprov Varje vecka provkörs enheten med intern belastnin**g. Om enhetens växelriktare inte lämnar tillräcklig utspänning ges larm.** Larm ges även på potentialfri reläväxling. ## <span id=\"page-15-0\"></span>13.1. SIN - UPS Produktblad / tekniska data F",  
+  "position": [  
+    24288,  
+    24360  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## <span id=\"page-15-0\"></span>13",  
+  "context": "lastning. Om enhetens växelriktare inte lämnar tillräcklig utspänning ges larm. Larm ges även på potentialfri reläväxlin**g. ## <span id=\"page-15-0\"></span>13.**1. SIN - UPS Produktblad / tekniska data Figur 3. SIN FLX M ![](images/_page_15_Picture_3.jpeg) #### 13.1.1. SIN namn, artikeln",  
+  "position": [  
+    24401,  
+    24438  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Fullständig självtest inklusive avancerat batteritest",  
+  "context": "terier. UPS är väl skyddad med isolationsbrytare, batteriautomatsäkring, skydd mot övertemperatur, överlast, kortslutnin**g. - Fullständig självtest inklusive avancerat batteritest.** Enheterna är installations- och servicevänliga: - Kompakt volym. - Utanpåliggande väggfästen medföljer för uppsättning",  
+  "position": [  
+    25162,  
+    25221  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### <span id=\"page-16-0\"></span>13",  
+  "context": "ppna elskåpet. - Moduluppbyggd. All elektronik på kassett med jackbara anslutningar, för enkel service eller uppgraderin**g. #### <span id=\"page-16-0\"></span>13.**1.4. Fast installation Produkten är avsedd för fast installation. Installation skall utföras av behörig installatör. ###",  
+  "position": [  
+    25478,  
+    25517  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | #### **230 V UTSPÄNNING** | Spänning UT | Förklaring/kommentar | |---------------------|-----------------------------| | Spänning ut | 230 V - 10% i batteridrift",  
+  "context": "-----------------------|--| | Spänning in: | 230V -15%, +20% i nätdrift. | | | Nätström: | Laddare max 0,4 A + belastnin**g. | | #### **230 V UTSPÄNNING** | Spänning UT | Förklaring/kommentar | |---------------------|-----------------------------| | Spänning ut: | 230 V - 10% i batteridrift.** | | Spänningsform: | 1-Fas sinusspänning. | | Verkningsgrad, ca: | 90% | | Tomgångseffekt, ca: | 10 W | #### **BATTERIL",  
+  "position": [  
+    27286,  
+    27456  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Verkningsgrad ca | 90% | | Tomgångseffekt ca | 10 W | #### **BATTERILADDNING** I / U enligt DIN 41773 Strömbegränsning",  
+  "context": "----|-----------------------------| | Spänning ut: | 230 V - 10% i batteridrift. | | Spänningsform: | 1-Fas sinusspännin**g. | | Verkningsgrad, ca: | 90% | | Tomgångseffekt, ca: | 10 W | #### **BATTERILADDNING** I / U enligt DIN 41773 Strömbegränsning.** #### **SKYDD** | Typ av skydd | Förklaring | | |--------------------------------|--------------------------------------",  
+  "position": [  
+    27496,  
+    27626  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "41773"  
+  ],  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Batterier är avsäkrade",  
+  "context": "understiger 19 V. | | | Överladdningsskydd: | Bortkoppling av laddspänning vid överladdning, 27,9 V. | | | Automatsäkrin**g: | Batterier är avsäkrade.** | | | Tillval: Jordfelsbrytare: | Kan installeras på utgång (extra skyddsoption enligt EN62040-1-1). | | #### **SÄKRING",  
+  "position": [  
+    28260,  
+    28288  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Provet jämför upp- mätt batterikapacitet med programmerade värden för att ge larm när batteriet har<br>tappat 20% - 40% kapacitet av nyvärde och bör bytas",  
+  "context": "ng | Automatisk provbelastning av batterier under hög, kortvarig ur- laddningsström för att konstatera batteriåld<br>rin**g. Provet jämför upp- mätt batterikapacitet med programmerade värden för att ge larm när batteriet har<br>tappat 20% - 40% kapacitet av nyvärde och bör bytas.** | | Växelriktare | Provbelastning av UPS (motsvarande märkeffekt över intern testlast) för att kontrollera funktion och",  
+  "position": [  
+    29140,  
+    29298  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| #### **LARM** Samtliga larm sker på potentialfri reläväxling",  
+  "context": "elastning av UPS (motsvarande märkeffekt över intern testlast) för att kontrollera funktion och tillräcklig<br>utspännin**g. | #### **LARM** Samtliga larm sker på potentialfri reläväxling.** <span id=\"page-18-0\"></span> | Larmtyp | Förklaring | | | | |-------------------------------|--------------------------",  
+  "position": [  
+    29443,  
+    29509  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Larm på inställbar larmnivå motsvarande viss förbrukad batterikapacitet (standard 75%) vid nätav<br>brott | | | | | Summalarm Självtest | Felaktig laddspänning över- eller underspänning åldrat batteri som bör bytas eller ej fungerande<br>växelriktare",  
+  "context": "t inställbar tidsfördröjning från direkt till 10 h (3s ,3, 15, 30m, 1, 2, 4, 10h). | | | | | Larm låg batterispän<br>nin**g: | Larm på inställbar larmnivå motsvarande viss förbrukad batterikapacitet (standard 75%) vid nätav<br>brott | | | | | Summalarm, Självtest: | Felaktig laddspänning, över- eller underspänning, åldrat batteri som bör bytas eller ej fungerande<br>växelriktare.** | | | | ## 13.5. Tekniska data kapsling #### 13.5.1. Kapsling - Tekniska Data | Info | Förklaring | | | |--------------",  
+  "position": [  
+    29889,  
+    30149  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kostnader för support tillkommer efter det att garantitiden har gått ut",  
+  "context": "t 10 år efter inköpsdatum. Byte till likvärdig produkt kan förekomma om Milleteknik bedömer att reparation inte är möjli**g. Kostnader för support tillkommer efter det att garantitiden har gått ut.** 13.8.2. Support Behöver du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag",  
+  "position": [  
+    32564,  
+    32639  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "031- 340 02 30 e-post [sales@milleteknik",  
+  "context": "nterar frågor om reservdelar, se kontaktuppgifter ovan. #### **FRÅGOR OM PRODUKTERS PRESTANDA?** Telefon till försäljnin**g: 031- 340 02 30, e-post: [sales@milleteknik.**se](mailto:sales@milleteknik.se) 13.8.3. Kontakta oss Milleteknik AB Ögärdesvägen 8 B 433 30 Partille Sverige +46 31-34",  
+  "position": [  
+    33262,  
+    33308  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "20ms",  
+  "context": "matningen från elnätet vid nätavbrott, tills elnätet återkommer (eller batterierna helt urladdats). Omkopplingstiden är **typ 20ms.** Växelriktaren ersätter elnätets sinusspänning med en strömbegränsad sinusspänning. ![](images/_page_10_Picture_4.jpeg) #### **",  
+  "position": [  
+    13760,  
+    13769  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av skydd | Förklaring | | |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--| | Strömbegränsning elektronisk | Typ av märkkapacitet",  
+  "context": "90% | | Tomgångseffekt, ca: | 10 W | #### **BATTERILADDNING** I / U enligt DIN 41773 Strömbegränsning. #### **SKYDD** | **Typ av skydd | Förklaring | | |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--| | Strömbegränsning, elektronisk: | Typ av märkkapacitet.** | | | Kortslutningsskydd: | Avstängning inom 5 sek vid kraftig överlast/kortslutning enligt UPS EN62040-1-1standard.<br",  
+  "position": [  
+    27644,  
+    27914  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av självtest | Förklaring | |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Batterladdning | Kontinuerlig övervakning av batteriladdare",  
+  "context": "-----------------------| | F1 | T16A | Säkring batteriladdare. | | F2 | T0,5A | Säkring kontaktor. | ## **SJÄLVTEST** | **Typ av självtest | Förklaring | |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Batterladdning | Kontinuerlig övervakning av batteriladdare.** | | Batteriåldring | Automatisk provbelastning av batterier under hög, kortvarig ur- laddningsström för att konstatera",  
+  "position": [  
+    28612,  
+    29003  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Förklaring | | | | |-------------------------------|---------------------------------------------------------------------------------------------------------------------|--|--|--| | Nätavbrottslarm | Larm vid nätavbrott inställbar tidsfördröjning från direkt till 10 h (3s 3 15 30m 1 2 4 10h)",  
+  "context": "cklig<br>utspänning. | #### **LARM** Samtliga larm sker på potentialfri reläväxling. <span id=\"page-18-0\"></span> | Larm**typ | Förklaring | | | | |-------------------------------|---------------------------------------------------------------------------------------------------------------------|--|--|--| | Nätavbrottslarm | Larm vid nätavbrott inställbar tidsfördröjning från direkt till 10 h (3s ,3, 15, 30m, 1, 2, 4, 10h).** | | | | | Larm låg batterispän<br>ning: | Larm på inställbar larmnivå motsvarande viss förbrukad batterikapacitet (stan",  
+  "position": [  
+    29545,  
+    29851  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | |---------------------------------------|------|-------| | Underhållsfritt AGM blysyra-batteri",  
+  "context": "13.6. Batterier #### 13.6.1. Batterier ingår ej Batterier säljs separat. #### 13.6.2. 20 Ah, 12 V AGM-batteri | Batterit**yp | V | Ah | |---------------------------------------|------|-------| | Underhållsfritt AGM, blysyra-batteri. **| 12 V | 20 Ah | #### Tabell 9. 10+ Design life* batteri | Artikelnummer | E-nummer | Artikelnamn | Termi<br>nal | Mått",  
+  "position": [  
+    30996,  
+    31107  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "relation_type": "negative",  
+  "related_product": "NÖDLJUSSTYRNING** Tändfas saknas",  
+  "context": ". - Grind och portstyrning av mindre och större industri- och garageportar. ![](images/_page_16_Picture_8.jpeg) **PRODUKTEN ÄR **EJ AVSEDD FÖR NÖDLJUSSTYRNING** Tändfas saknas.** Eftermontering av tändfas är ej möjligt. #### 13.3. Regelverk och certifieringar #### 13.3.1. Krav som produkten uppfyl",  
+  "position": [  
+    25868,  
+    25915  
+  ],  
+  "pattern_index": 142,  
+  "pattern": "(?i)(?:inte|ej)\\s+avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+

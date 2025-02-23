@@ -1,0 +1,98 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| EN54 24V 7,5A MX L | | | Artikelnummer: | C000P00024P015-EN54",  
+  "source": "regex",  
+  "product_id": "50457935"  
+}
+
+{  
+  "identifier": "NUMMER",  
+  "original": "NUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| MT113-12V45-01 | | ### Möjliga tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: |** E-NUMMER: | **MAX MÖJLIGT ANTAL: | |---------------------------------------------|----",  
+  "source": "regex",  
+  "product_id": "50457935"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | Artikelnamn: | EN54 24V 1,5A MX S",  
+  "source": "regex",  
+  "product_id": "50457935"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| EN54 24V 7,5A MX L | | | Artikelnummer: | C000P00024P015-EN54",  
+  "source": "regex",  
+  "product_id": "50457935"  
+}
+
+{  
+  "identifier": "IKELTYP",  
+  "original": "IKELTYP",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| MT113-12V45-01 | | ### Möjliga tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: |** E-NUMMER:** | MAX MÖJLIGT ANTAL: | |------------------",  
+  "source": "regex",  
+  "product_id": "50457935"  
+}
+
+{  
+  "identifier": "IKELNAMN",  
+  "original": "IKELNAMN",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| MT113-12V45-01 | | ### Möjliga tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: |** E-NUMMER: **| MAX MÖJLIGT ANTAL: | |---------------------------------",  
+  "source": "regex",  
+  "product_id": "50457935"  
+}
+
+{  
+  "identifier": "IKELNUMMER",  
+  "original": "IKELNUMMER",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| MT113-12V45-01 | | ### Möjliga tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: |** E-NUMMER: | **MAX MÖJLIGT ANTAL: | |---------------------------------------------|----",  
+  "source": "regex",  
+  "product_id": "50457935"  
+}
+

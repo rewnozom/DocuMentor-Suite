@@ -1,0 +1,44 @@
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC Direktivet 2014/30EU                                                                                                |\n|-------|-------------------------------------------------------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                                                                      |\n| CE: | CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n## Begränsningar\n\nFirmware: Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC Direktivet 2014/30EU                                                                                                |\n|-------|-------------------------------------------------------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                                                                      |\n| CE: | CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n## Begränsningar\n\nFirmware: Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "vs Windows 7 eller senare och internetuppkoppling vid aktivering. Internetuppkopppling krävs ej vid användning. #### Krav som produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |-------|---------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464774"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n## Begränsningar\n\nFirmware: Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+  "category": "MISCELLANEOUS",  
+  "unit": "E",  
+  "value": {  
+    "raw_value": "| CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n## Begränsningar\n\nFirmware: Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+    "unit": "E",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "----------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | CE: | CE direktivet enligt:765/2008 | | Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Re...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "low",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464774"  
+}
+

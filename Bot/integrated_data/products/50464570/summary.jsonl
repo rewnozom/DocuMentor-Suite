@@ -1,0 +1,52 @@
+{  
+  "product_id": "50464570",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## **DATA SHEET**\n\n## **NO MERCURY ADDED**\n\n| Description                  | Mercury & Cadmium Free Alkaline<br>Manganese Battery, D Size                                                                      |  |\n|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|--|\n| Chemical System              | Alkaline Manganese                                                                                                                |  |\n| Nominal Voltage              | 1.5 Volts                                                                                                                         |  |\n| Nominal Dimensions           | Refer to drawing                                                                                                                  |  |\n| Terminals                    | Protruded positive (+) and flat negative (-)<br>contacts                                                                          |  |\n| Jacket                       | Foil jacket                                                                                                                       |  |\n| Applications                 | All electronic devices, e.g. transistor radios,<br>cassette recorders, toys, alarm clocks,<br>portable fans, portable hand-tools. |  |\n| Ambient Temperature<br>Range | Operation: -18℃ ~ 50℃<br>Recommended: 10℃ ~ 25℃<br>Storage: Not exceed 30℃                                                        |  |\n| Shelf Life                   | 10 years                                                                                                                          |  |\n| Approx.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimension",  
+      "value": "mm |      |      |  |  |  |\n\nThe information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "a battery",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the dangerous goods regulations provided they meet the requirements contained in the following special provisions",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of dangerous quantities of heat and meet the special provisions listed above",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "30 | Page 1<br>of 5 | | |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--| | IDENTITY (As Used on Label and List)<br>Alkaline batteries<br>13A(LR20)/14A(LR14)/15A(LR6)/<br>24A(LR03)/910A(LR1)/25A(LR8D425) | Note<br>Blank spaces are not permitted if any item is not<br>applicable or no information is<br>available the space must be<br>marked to indicate<br>that",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | 7/F Building 16W 16 Science Park West<br>Avenue<br>Hong Kong Science Park New<br>Territories",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erred"  
+    ]  
+  }  
+}
+

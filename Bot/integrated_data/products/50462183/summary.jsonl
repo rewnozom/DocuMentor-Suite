@@ -1,0 +1,52 @@
+{  
+  "product_id": "50462183",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "| Description       | : Flat Lithium Battery         |  |\n|-------------------|--------------------------------|--|\n| Chemical system   | : Lithium Manganese            |  |\n| Nominal voltage   | : 3 Volts                      |  |\n| Nominal capacity  | : 165mAh                       |  |\n| Dimensions        | : Ø20mm x 2.5mm                |  |\n| Shelf life        | : 10 years at room temperature |  |\n| Average weight    | : 2.5 grams                    |  |\n| Temperature range | : -20°C ~60°C                  |  |\n\n### **Cross References:**\n\n| IEC    | JIS    | Panasonic | Varta  |\n|--------|--------|-----------|--------|\n| CR2025 | CR2025 | CR2025    | CR2025 |\n\n#### **Discharge Characteristics**\n\n![](images/_page_0_Figure_5.jpeg)\n\n### **Pulse discharge characteristics**\n\n![](images/_page_0_Figure_7.jpeg)\n\n# **DATA SHEET**\n\n## **Model No.: CR2025**\n\n![](images/_page_0_Figure_10.jpeg)\n\nDimension Drawing\n\nThe information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty. For applications other than those described here, please consult your nearest GP Sales and Marketing Office or Distributors. ![](images/_page_0_Picture_15.jpeg).",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimensions",  
+      "value": "20",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "burning batteries may irritate eyes skin and throat",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "an explosive mixture",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "open or leaking batteries | | | | | | Ventilation | Room ventilation may be required in areas where there are open or leaking batteries | | | | | Protective Gloves | Use neoprene or natural rubber gloves if handling an open or leaking battery battery | | | | | | materials should be collected in a leak-proof container",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Accidental short circuit for a few seconds will not seriously affect the battery",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The battery may be regulated by national or local regulation",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "The materials and pack design shall be chosen so as to prevent the development of unintentional electrical conduction corrosion of the terminals and ingress of moisture",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "Summary"  
+    ]  
+  }  
+}
+

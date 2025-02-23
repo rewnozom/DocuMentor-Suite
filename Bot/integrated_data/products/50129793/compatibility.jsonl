@@ -1,0 +1,28 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "du enkelt monterar själv utan att behöva ta hjälp av en elektriker",  
+  "context": "guard RF1.1, trådlös utomhusbelysning, LED ![](images/_page_0_Picture_3.jpeg) GP Safeguard är en batteridriven säkerhetslampa s**om du enkelt monterar själv, utan att behöva ta hjälp av en elektriker.** Den uppgraderade versionen av GP Safeguard har en attraktiv design med förbättrad drifttid på färre antal batterier och",  
+  "position": [  
+    130,  
+    201  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50129793"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lampan tänds 5 ggr/dag eller totalt ca 6 h i ON-läge) - Enkel installation på mindre än 5 minuter - Vattentät IP55 #### **ARTICLE INFORMATION** Art",  
+  "context": "l batterier och förenklad funktion för byte av batterier. - 60 lumen - • Drivs av 3 AA-batterier - Driftstid 600 dagar (**om lampan tänds 5 ggr/dag, eller totalt ca 6 h i ON-läge) - Enkel installation på mindre än 5 minuter - Vattentät, IP55 #### **ARTICLE INFORMATION:** Art.**no: 473064 EAN: 4895149079163 E-nummer: 7702949 ![](images/_page_0_Picture_11.jpeg) **CONTACT US** Call 031-799 16 00 or E-mail",  
+  "position": [  
+    426,  
+    580  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50129793"  
+}
+

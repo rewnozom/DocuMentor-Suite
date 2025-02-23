@@ -1,0 +1,63 @@
+{  
+  "product_id": "50458763",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "UPS aggregat med små dimensioner och lång backup tid. Perfekt för drift av dörrautomatik, nödljusanläggningar eller andra system som behöver avbrottsfri kraft.  **Strömförsörjning med plats för batteri**\n\n> UPS20 är en 1-fas standby /offline UPS med inbyggt underhållsfritt blybatteri. Snabb omkopplingstid, 2-8mS till UPS läge och snabb uppladdningstid (7 tim) av batteriet. DS-serien är utrustad med APFC teknik som gör det möjligt att använda UPS: ens fulla kraft, oberoende vilken sorts last s...",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "väggmontage",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "avbrottsfri kraft",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "drift av dörrautomatik nödljusanläggningar eller andra system som behöver avbrottsfri kraft",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "behöver avbrottsfri kraft",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "gör det möjligt att använda UPS ens fulla kraft oberoende vilken sorts last som används och det gör att den även kan driva större laster",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "grundligt och förstås av all handhavande personal",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- UTGÅNG 1 en ren UPS utgång där det är konstant spänning både vid nätdrift och vid batteridrift",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Utsp",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "knappen"  
+    ],  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

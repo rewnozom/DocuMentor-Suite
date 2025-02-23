@@ -1,0 +1,31 @@
+{  
+  "relation_type": "version",  
+  "related_product": "Indikering för nätbortfall låg utspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+  "context": "kablaget. Plats för två 12 V 12 Ah ackumulatorer. Sabotagekontakt. Enheten har skydd mot kortslutning och överbelastning**. Indikering för nätbortfall, låg utspänning, batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer. **#### **BESTÄLLINGSINFORMATION** **Typ E-nr Beskrivning** PSV 2415-12 5240067 Strömförsörjning, VIP, 24 V 1,5 A ## **ALA",  
+  "position": [  
+    929,  
+    1060  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50024621"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "E-nr Beskrivning** PSV 2415-12 5240067 Strömförsörjning VIP 24 V 15 A ## **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1",  
+  "context": "batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer. #### **BESTÄLLINGSINFORMATION** **T**yp E-nr Beskrivning** PSV 2415-12 5240067 Strömförsörjning, VIP, 24 V 1,5 A ## **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1.j**peg) ### **Relaterade produkter och tillbehör:** | 28097<br>Power X1,<br>DC/DC<br>Omvandlare MIN<br>I<br>5-32 V -> 3.3-",  
+  "position": [  
+    1095,  
+    1221  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240067"  
+  ],  
+  "product_id": "50024621"  
+}
+

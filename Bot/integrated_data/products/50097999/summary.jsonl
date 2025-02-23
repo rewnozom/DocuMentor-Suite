@@ -1,0 +1,61 @@
+{  
+  "product_id": "50097999",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Inbyggt skydd mot djup-urladdning av batterierna. Nät, last och batteri skyddas av säkringar. Kan kompletteras med larmrelä för nät och batterifel.",  
+  "key_specifications": [  
+    {  
+      "category": "NETWORK",  
+      "name": "PROTOKOLL",  
+      "value": "kommande funktion\n\n#### ANVÄNDNING\n\nPower-over-Ethernet innebär en enkelt och kostnadseffektiv strömförsörjning till accesspunkter i ett nätverk",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "är avsett att användas som ingång (utan POE)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är försedda med led för datatrafik och status",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "grundligt och förstås av all handhavande personal",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Beskrivning | HxBxD mm | |----------|---------------------------|------------------------------------------------------------------------------|-------------| | 5172434 | POE48- 4/R | POE 48V 150W<br>4 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172435 | POE48- 8/R | POE 48V 320W<br>8 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172436 | POE48- 12/R | POE 48V 500W<br>12 PORTAR 19\" max 4x9Ah | 132x480x320 | | 5172437 | POE48- 24/R | POE 48V 600W<br>24 PORTAR 19\" max 4x9Ah | 132x480x320 | | | POE48- 24/R<br>UPS | POE 48V 1000W<br>24 PORTAR 19\" 230V 150W uttag på sidan -<br>externa batteri | 132x480x320 | | 5172431 | POE48- 4/V | POE 48V 150W<br>4 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172432 | POE48- 8/V | POE 48V 320W<br>8 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172433 | POE48- 12/V | POE 48V 500W<br>12 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | | SBX197 | Batteribox 3 19\" max 8x 7-9Ah m säkring o kablage | 132x480x320 | | | Postadress/Postal address | Telefon nr/Telephone no<br>e-post | VAT",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5172434",  
+        "5172435",  
+        "5172436",  
+        "5172437",  
+        "5172431",  
+        "5172432",  
+        "5172433"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djup-urladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Högeffektiv – 85% vid nätdrift – 98% vid batteridrift High Power – 30W/utgång - kontinuerlig drift på alla portar samtidigt",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

@@ -1,0 +1,38 @@
+{  
+  "product_id": "50024358",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## DATA SHEET\n\n| Description        | : Mercury Free Alkaline Manganese Battery,<br>AAA Size                                                                                          |  |  |\n|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--|--|\n| Chemical System    | : Alkaline Manganese                                                                                                                            |  |  |\n| Nominal Voltage    | : 1.5 Volts                                                                                                                                     |  |  |\n| Nominal Dimensions | : Ø10.5 mm x 44.5 mm                                                                                                                            |  |  |\n| Terminals          | : Protruded positive(+) and flat negative(-)<br>contacts                                                                                        |  |  |\n| Jacket             | : Foil jacket                                                                                                                                   |  |  |\n| Applications       | : All electronic devices, e.g. toys, photographic<br>equipment, data banks, calculators, audio<br>appliances, remote controls, paging machines. |  |  |\n| Average Welght     | : 11.40                                                                                                                                         |  |  |\n\nCross References:\n\n| GP  | SIF  | IEC      | Eveready Duracell Varta |             |  |\n|-----|------|----------|-------------------------|-------------|--|\n| 24A | LR03 | LR03 E92 |                         | MN2400 4003 |  |\n\n## Typical Service Life:\n\n| Discharge  | Discharge            | End Point | Service  |\n|------------|----------------------|-----------|----------|\n| Resistance | Condition            | Voltage   | Life     |\n| 20 Ohms    | 24 Hrs/ Day<br>25.00 | 0.9V      | 17.2 Hrs |\n\nModel No .: GP24A\n\n![](images/_page_0_Figure_8.jpeg)\n\n![](images/_page_0_Figure_9.jpeg)\n\n![](images/_page_0_Figure_11.jpeg)\n\nUnit : mm The information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimensions",  
+      "value": "10.5",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "toys photographic<br>equipment data banks calculators audio<br>appliances remote controls paging machines",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "and specification without prior notice",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erences",  
+      "erence"  
+    ]  
+  }  
+}
+

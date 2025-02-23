@@ -1,0 +1,69 @@
+{  
+  "product_id": "50464773",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Indikeringar och kommunikation\n\nKommunikation över adapterkablage till PC. PC behöver kunna ansluta till USB-A. | Mått, höjd x bredd x djup | IP-klass |\n|---------------------------|----------|\n| Produkten saknar kapsling |          |\n\nVikt\n\n| Namn             | Nettovikt | Vikt m förp.",  
+  "key_specifications": [  
+    {  
+      "category": "ENVIRONMENTAL",  
+      "name": "EMC",  
+      "value": "| EMC Direktivet 2014/30EU                                                                                                |\n|-------|-------------------------------------------------------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                                                                      |\n| CE: | CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n## Begränsningar\n\nFirmware: Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+      "unit": "EU"  
+    },  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "CE",  
+      "value": "| CE direktivet enligt:765/2008                                                                                           |\n| Miljö | REACH Regulation: Directive 1907/2006, WEEE<br>Regulation: Directive 20021961E, RoHS Regula<br>tion: Directive 2015/863 |\n|       |                                                                                                                         |\n\n## Begränsningar\n\nFirmware: Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+      "unit": "E"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "kunna ansluta till USB-A",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "produkten uppfyller | EMC | EMC Direktivet 2014/30EU | |-------|-------------------------------------------------------------------------------------------------------------------------| | El | Lågspänningsdirektivet 2014/35/EU | | CE | CE direktivet enligt765/2008 | | Miljö | REACH Regulation Directive 1907/2006 WEEE<br>Regulation Directive 20021961E RoHS Regula<br>tion Directive 2015/863 | | | | ## Begränsningar Firmware Uppdatering kan endast göras till samma kommunikationsprotokoll",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "20021961",  
+        "20021961"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "gör det möjligt att uppdatera mjukvara i batteribackup läsa status ställa vissa parametrar och statistik",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "visas i batteribackup visas i Power-Watch",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "## Larm Larm som visas i batteribackup visas i Power-Watch",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Mått höjd x bredd x djup | IP-klass | |---------------------------|----------| | Produkten saknar kapsling | | Vikt | Namn | Nettovikt | Vikt m förp",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Internetuppkopppling krävs ej vid användning",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer",  
+      "enheter"  
+    ]  
+  }  
+}
+

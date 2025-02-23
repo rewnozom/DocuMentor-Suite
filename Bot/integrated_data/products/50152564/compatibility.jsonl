@@ -1,0 +1,294 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "strömuttag | | | | | | | | Nominell effekt | 150W | 240W | 336W | 648W | | | | | | Rippel i normalläge | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | Effektivitet | 89% | 89% | 87% | 88% | | | | | | Värmegenerering vid 50% / 80% av märkeffekten | 84W / 135W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | | Ingångsström | 17A | 2A | 18A | 36A | | | | | | Antal avsäkrade utgångar | 2 st | 2 st | 2 st | 2 st | | | | | | Typ av säkring på utgång | 2xF5A (glas) | 2xF10A (glas) | 2x 15A flatstiftsäkring | 2x 25A flatstiftsäkring | | | | | | Djupurladdning av batterier sker vid | | 21V | | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar) | | Fördröjt nätavbrottslarm (10 sek) låg batterispänning över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning sabotage",  
+  "context": "| | | | | | | | | Utspänning: | | 27,3VDC | | | | | | | | Max ström: | 5A | 10A | 15A | 25A | | | | | | Ladd ström: | | **Beroende av strömuttag | | | | | | | | Nominell effekt: | 150W | 240W | 336W | 648W | | | | | | Rippel i normalläge: | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | Effektivitet: | 89% | 89% | 87% | 88% | | | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 8,4W / 13,5W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | | Ingångsström: | 1,7A | 2A | 1,8A | 3,6A | | | | | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | | | | | Typ av säkring på utgång: | 2xF5A (glas) | 2xF10A (glas) | 2x 15A flatstiftsäkring | 2x 25A flatstiftsäkring | | | | | | Djupurladdning av batterier sker vid: | | 21V | | | | | | | | Möjlig att parallellkoppla: | Ja | | | | | | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar): | | Fördröjt nätavbrottslarm (10 sek), låg batterispänning, över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning, sabotage.** | | | | | | | | Antal larmutgångar: | 3 st | 3 st | 4 st | 4 st | | | | | | Larm via: | | Växlande relä alt. RS485 (OSD",  
+  "position": [  
+    5381,  
+    6397  
+  ],  
+  "pattern_index": 35,  
+  "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "hantera högre belastningar",  
+  "context": "är kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen **behöver hantera högre belastningar.** **NOVA-serien** är systemcertifierad enligt SSF1014 tillsammans med flera säkerhetssystem på den nordiska marknaden. Mi",  
+  "position": [  
+    485,  
+    520  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "p till 20 dagar eller när batterierna har nått 26,7V (24V). Genom att ladda ur batterierna och ladda dem kontinuerligt (**istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NOVA-serien ska användas med AGM-batterier. **",  
+  "position": [  
+    1207,  
+    1300  
+  ],  
+  "pattern_index": 94,  
+  "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "er de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V). Gen**om att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NOVA-serien ska användas med AGM-batterier. **",  
+  "position": [  
+    1150,  
+    1300  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "meddelar när batterierna måste bytas ut innan batterierna åldras",  
+  "context": "trustad med interna effektmotstånd (anpassade för systemtestade batterier) för *\"QUALIFIED BATTERY CAPACITY TESTING\"*, s**om meddelar när batterierna måste bytas ut innan batterierna åldras.** NOVA-serien är systemcertifierad tillsammans med / och måste användas tillsammans med 10+ Design Life AGM-batterier enl",  
+  "position": [  
+    1862,  
+    1930  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "medföljer batteriboxen",  
+  "context": "ras med upp till 4 st batteriboxar vid behov. Batteriboxen ska placeras under batteribackupen och ansluts via en kabel s**om medföljer batteriboxen.** Batteriboxen har plats för 2x 45Ah-batterier per varje batteribox. *Observera att batteribackupen skall vara systemcert",  
+  "position": [  
+    2298,  
+    2324  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "vilka system som NOVA Serien är systemcertifierade tillsammans med (utöver Sentrion & Integra) och hur de säljs och marknadsförs eller om Ni är intresserade av kommunikation med NOVA Serien",  
+  "context": "fierad med det överordnade systemet för att SSF1014 certifikatet skall vara giltigt. Kontakta gärna oss för information **om vilka system som NOVA Serien är systemcertifierade tillsammans med (utöver Sentrion & Integra) och hur de säljs och marknadsförs eller om Ni är intresserade av kommunikation med NOVA Serien;** sales@milleteknik.se ## Förväntad drifttid vid potentiellt strömavbrott (nya batterier): Vid nedan last: | Systemspänni",  
+  "position": [  
+    2565,  
+    2758  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nödvändigt",  
+  "context": "ibackupen skall användas tillsammans med UPLUS 10+ Design Life batterier.<br>4. Fläkten skall regöras årligen och bytas **om nödvändigt.** | | | | | | | | | Designad och producerad av: | | Milleteknik AB | | | | | | | | Ursprungsland: | | Sverige | | | | | |",  
+  "position": [  
+    7972,  
+    7986  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det gäller",  
+  "context": "**NOVA-serien** används främst i säkerhetssystem där en SSF 1014* godkänd batteribackup krävs eller där kraven är högre **när det gäller;** högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen behöver hantera högre belastningar",  
+  "position": [  
+    384,  
+    399  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteribackupen behöver hantera högre belastningar",  
+  "context": "backup krävs eller där kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller **när batteribackupen behöver hantera högre belastningar.** **NOVA-serien** är systemcertifierad enligt SSF1014 tillsammans med flera säkerhetssystem på den nordiska marknaden. Mi",  
+  "position": [  
+    465,  
+    520  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 267V (24V)",  
+  "context": "erien kommunikation med Integra MOVEO & MOVEO XL. **NOVA-serien** erbjuder *\"INTELLIGENT CHARGING\"*, vilket innebär att **när batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V).** Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batt",  
+  "position": [  
+    996,  
+    1146  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna måste bytas ut innan batterierna åldras",  
+  "context": "interna effektmotstånd (anpassade för systemtestade batterier) för *\"QUALIFIED BATTERY CAPACITY TESTING\"*, som meddelar **när batterierna måste bytas ut innan batterierna åldras.** NOVA-serien är systemcertifierad tillsammans med / och måste användas tillsammans med 10+ Design Life AGM-batterier enl",  
+  "position": [  
+    1874,  
+    1930  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "NOVA-serien ska användas med AGM-batterier",  
+  "context": "r systemet batteriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid beho**v. NOVA-serien ska användas med AGM-batterier.** **NOVA-serien** läser också den anslutna systembelastningen och laddar batterierna med tillgänglig restström från ström",  
+  "position": [  
+    1371,  
+    1417  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Batteriboxen ska placeras under batteribackupen och ansluts via en kabel som medföljer batteriboxen",  
+  "context": "en vägg eller i ett 19 \"rack (vändbara vinklar ingår). Systemet kan kompletteras med upp till 4 st batteriboxar vid beho**v. Batteriboxen ska placeras under batteribackupen och ansluts via en kabel som medföljer batteriboxen.** Batteriboxen har plats för 2x 45Ah-batterier per varje batteribox. *Observera att batteribackupen skall vara systemcert",  
+  "position": [  
+    2221,  
+    2324  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Milleteknik AB | | | | | | | | Ursprungsland | | Sverige | | | | | | | | Information och val av batteri / batterier | | | | | | | | | | Rekommenderad batterityp | | 12V Underhållsfria batterier typ AGM | | | | | | | | Möjliga batterier för montering i kapsling | 2x 45Ah (2x 45Ah i respektive batteribox) | | | | | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life 45Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SSF1014 Larmklass 1-4 | | | | | | | | | | Artikelnamn | NOVA 24V 5A FLX L | NOVA 24V 10A FLX L | NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | | | exkl Batteribox FLX M enligt Larmklass 1-2 / 3-4 | 37A / 15A | 37A / 15A | 36A / 14A | 36A / 14A | | | | | | inkl",  
+  "context": "Life batterier.<br>4. Fläkten skall regöras årligen och bytas om nödvändigt. | | | | | | | | | Designad och producerad a**v: | | Milleteknik AB | | | | | | | | Ursprungsland: | | Sverige | | | | | | | | Information och val av batteri / batterier: | | | | | | | | | | Rekommenderad batterityp: | | 12V Underhållsfria batterier, typ AGM | | | | | | | | Möjliga batterier för montering i kapsling: | 2x 45Ah (2x 45Ah i respektive batteribox) | | | | | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life 45Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri: | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SSF1014 Larmklass 1-4: | | | | | | | | | | Artikelnamn: | NOVA 24V 5A FLX L | NOVA 24V 10A FLX L | NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | | | exkl Batteribox FLX M, enligt Larmklass 1-2 / 3-4: | 3,7A / 1,5A | 3,7A / 1,5A | 3,6A / 1,4A | 3,6A / 1,4A | | | | | | inkl.** 1x Batteribox FLX M, enligt Larmklass 1-2 / 3-4: | - | 7,4A / 3A | 7,3A / 2,9A | 7,3A / 2,9A | | | | | | inkl. 2x Batte",  
+  "position": [  
+    8030,  
+    8895  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Vägg alt",  
+  "context": "r optimal batterilivslängd +15 °C - +25 °C) | | | | | | | | Skyddsklass: | | IP32 | | | | | | | | Rekommenderad monterin**g: | | Vägg alt.** Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väggen. | | | | | | | | Dimension (HxBxD)",  
+  "position": [  
+    4769,  
+    4785  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | | | Dimension (HxBxD) | | 444x436x210mm (10HE) | | | | | | | | Nettovikt | 12kg | 13kg | 14kg | 15kg | | | | | | Antal kabelgenomföringar | | 3 st + möjlighet till 1x utslagshål i ryggen | | | | | | | | Kapslingens färg | | Svart | | | | | | | | Inbyggd fläkt för kylning | | Ja | | | | | | | | Elektrisk information | | | | | | | | | | Inspänning | 110V-264VAC/47-63Hz | | | | | | | | | Utspänning | | 273VDC | | | | | | | | Max ström | 5A | 10A | 15A | 25A | | | | | | Ladd ström | | Beroende av strömuttag | | | | | | | | Nominell effekt | 150W | 240W | 336W | 648W | | | | | | Rippel i normalläge | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | Effektivitet | 89% | 89% | 87% | 88% | | | | | | Värmegenerering vid 50% / 80% av märkeffekten | 84W / 135W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | | Ingångsström | 17A | 2A | 18A | 36A | | | | | | Antal avsäkrade utgångar | 2 st | 2 st | 2 st | 2 st | | | | | | Typ av säkring på utgång | 2xF5A (glas) | 2xF10A (glas) | 2x 15A flatstiftsäkring | 2x 25A flatstiftsäkring | | | | | | Djupurladdning av batterier sker vid | | 21V | | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar) | | Fördröjt nätavbrottslarm (10 sek) låg batterispänning över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning sabotage",  
+  "context": "Rekommenderad montering: | | Vägg alt. Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väg**gen. | | | | | | | | Dimension (HxBxD): | | 444x436x210mm (10HE) | | | | | | | | Nettovikt: | 12kg | 13kg | 14kg | 15kg | | | | | | Antal kabelgenomföringar: | | 3 st + möjlighet till 1x utslagshål i ryggen | | | | | | | | Kapslingens färg: | | Svart | | | | | | | | Inbyggd fläkt för kylning: | | Ja | | | | | | | | Elektrisk information: | | | | | | | | | | Inspänning: | 110V-264VAC/47-63Hz | | | | | | | | | Utspänning: | | 27,3VDC | | | | | | | | Max ström: | 5A | 10A | 15A | 25A | | | | | | Ladd ström: | | Beroende av strömuttag | | | | | | | | Nominell effekt: | 150W | 240W | 336W | 648W | | | | | | Rippel i normalläge: | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | Effektivitet: | 89% | 89% | 87% | 88% | | | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 8,4W / 13,5W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | | Ingångsström: | 1,7A | 2A | 1,8A | 3,6A | | | | | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | | | | | Typ av säkring på utgång: | 2xF5A (glas) | 2xF10A (glas) | 2x 15A flatstiftsäkring | 2x 25A flatstiftsäkring | | | | | | Djupurladdning av batterier sker vid: | | 21V | | | | | | | | Möjlig att parallellkoppla: | Ja | | | | | | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar): | | Fördröjt nätavbrottslarm (10 sek), låg batterispänning, över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning, sabotage.** | | | | | | | | Antal larmutgångar: | 3 st | 3 st | 4 st | 4 st | | | | | | Larm via: | | Växlande relä alt. RS485 (OSD",  
+  "position": [  
+    4867,  
+    6397  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 2x 45Ah (2x 45Ah i respektive batteribox) | | | | | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life 45Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SSF1014 Larmklass 1-4 | | | | | | | | | | Artikelnamn | NOVA 24V 5A FLX L | NOVA 24V 10A FLX L | NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | | | exkl Batteribox FLX M enligt Larmklass 1-2 / 3-4 | 37A / 15A | 37A / 15A | 36A / 14A | 36A / 14A | | | | | | inkl",  
+  "context": "menderad batterityp: | | 12V Underhållsfria batterier, typ AGM | | | | | | | | Möjliga batterier för montering i kapslin**g: | 2x 45Ah (2x 45Ah i respektive batteribox) | | | | | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life 45Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri: | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SSF1014 Larmklass 1-4: | | | | | | | | | | Artikelnamn: | NOVA 24V 5A FLX L | NOVA 24V 10A FLX L | NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | | | exkl Batteribox FLX M, enligt Larmklass 1-2 / 3-4: | 3,7A / 1,5A | 3,7A / 1,5A | 3,6A / 1,4A | 3,6A / 1,4A | | | | | | inkl.** 1x Batteribox FLX M, enligt Larmklass 1-2 / 3-4: | - | 7,4A / 3A | 7,3A / 2,9A | 7,3A / 2,9A | | | | | | inkl. 2x Batte",  
+  "position": [  
+    8300,  
+    8895  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av säkring på utgång | 2xF5A (glas) | 2xF10A (glas) | 2x 15A flatstiftsäkring | 2x 25A flatstiftsäkring | | | | | | Djupurladdning av batterier sker vid | | 21V | | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar) | | Fördröjt nätavbrottslarm (10 sek) låg batterispänning över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning sabotage",  
+  "context": "| Ingångsström: | 1,7A | 2A | 1,8A | 3,6A | | | | | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | | | | | **Typ av säkring på utgång: | 2xF5A (glas) | 2xF10A (glas) | 2x 15A flatstiftsäkring | 2x 25A flatstiftsäkring | | | | | | Djupurladdning av batterier sker vid: | | 21V | | | | | | | | Möjlig att parallellkoppla: | Ja | | | | | | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar): | | Fördröjt nätavbrottslarm (10 sek), låg batterispänning, över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning, sabotage.** | | | | | | | | Antal larmutgångar: | 3 st | 3 st | 4 st | 4 st | | | | | | Larm via: | | Växlande relä alt. RS485 (OSD",  
+  "position": [  
+    5832,  
+    6397  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | 12V Underhållsfria batterier typ AGM | | | | | | | | Möjliga batterier för montering i kapsling | 2x 45Ah (2x 45Ah i respektive batteribox) | | | | | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life 45Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SSF1014 Larmklass 1-4 | | | | | | | | | | Artikelnamn | NOVA 24V 5A FLX L | NOVA 24V 10A FLX L | NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | | | exkl Batteribox FLX M enligt Larmklass 1-2 / 3-4 | 37A / 15A | 37A / 15A | 36A / 14A | 36A / 14A | | | | | | inkl",  
+  "context": "sland: | | Sverige | | | | | | | | Information och val av batteri / batterier: | | | | | | | | | | Rekommenderad batteri**typ: | | 12V Underhållsfria batterier, typ AGM | | | | | | | | Möjliga batterier för montering i kapsling: | 2x 45Ah (2x 45Ah i respektive batteribox) | | | | | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life 45Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri: | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SSF1014 Larmklass 1-4: | | | | | | | | | | Artikelnamn: | NOVA 24V 5A FLX L | NOVA 24V 10A FLX L | NOVA 24V 15A FLX L | NOVA 24V 25A FLX L | | | | | | exkl Batteribox FLX M, enligt Larmklass 1-2 / 3-4: | 3,7A / 1,5A | 3,7A / 1,5A | 3,6A / 1,4A | 3,6A / 1,4A | | | | | | inkl.** 1x Batteribox FLX M, enligt Larmklass 1-2 / 3-4: | - | 7,4A / 3A | 7,3A / 2,9A | 7,3A / 2,9A | | | | | | inkl. 2x Batte",  
+  "position": [  
+    8196,  
+    8895  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 & SSF1014* Larmklass 1-4 (Inbrottslarm)",  
+  "context": "A2:2003 Klass B, EN61000-3-2:2001. Immunity: EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11.<br>SS-EN 50 130-4:2011 E**dition 2 & SSF1014* Larmklass 1-4 (Inbrottslarm). **| | | | | | | | | Certifikatsnummer (SBSC): | | 20-117 | | | | | | | | Garantiperiod: | | 5 år | | | | | | | | Regler f",  
+  "position": [  
+    7538,  
+    7588  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152564"  
+}
+

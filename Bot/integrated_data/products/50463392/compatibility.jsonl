@@ -1,0 +1,98 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "to charge multiple devices at once or your family and friends want to share the power the PS600 is ready to satisfy any demand",  
+  "context": "age_3_Picture_2.jpeg) ![](images/_page_3_Picture_3.jpeg) CPAP Machine (40W) Fish Tank (500W) Desktop Heater (500W) Whether you **need to charge multiple devices at once or your family and friends want to share the power, the PS600 is ready to satisfy any demand.** Five different types of ports - 9 ports in total - provide the power outputs1 that everybody needs. ![](images/_page_4_Picture",  
+  "position": [  
+    2328,  
+    2461  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "extra ambient light for the great outdoors just turn on PS600's built-in LED and enjoy! Three illumination options give you just the light you need",  
+  "context": "e_6_Picture_2.jpeg) # Built-in LED light for extra convenience Whenever you can't reach a flashlight in an emergency or **need extra ambient light for the great outdoors, just turn on PS600's built-in LED and enjoy! Three illumination options give you just the light you need.** > *3 Light Modes* Ambient ┃ Bright ┃ Flashlight ![](images/_page_7_Picture_3.jpeg) 1 The maximum total output of the PS600 is",  
+  "position": [  
+    4258,  
+    4412  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "without taking up much space",  
+  "context": "ure_3.jpeg) ![](images/_page_2_Picture_5.jpeg) ![](images/_page_2_Picture_7.jpeg) The PS600 stores easily in your garage or utility ro**om without taking up much space.** Whenever your house experiences an electrical outage, you'll have easy access to emergency power. # Less anxiety for an",  
+  "position": [  
+    1922,  
+    1954  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "4 versatile ways to recharge your power station",  
+  "context": "n you're working or sleeping as it powers up your essential devices. # Lightweight, quiet, and travel-friendly Select fr**om 4 versatile ways to recharge your power station.** The PS600 is also solar-compatible to work with green energy sources. ![](images/_page_6_Picture_4.jpeg) # Choose how you rech",  
+  "position": [  
+    3659,  
+    3710  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "EZVIZ soon",  
+  "context": "n the smart screen will be displayed. - 2 A compatible solar panel must be purchased separately and will be available fr**om EZVIZ soon.** - 3 Based on test results from the EZVIZ Lab. After 1,000 full charge circles, the battery capacity will drop to around",  
+  "position": [  
+    4745,  
+    4759  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the EZVIZ Lab",  
+  "context": "compatible solar panel must be purchased separately and will be available from EZVIZ soon. - 3 Based on test results fro**m the EZVIZ Lab. **After 1,000 full charge circles, the battery capacity will drop to around 80% of its original capacity. - 4 When chargi",  
+  "position": [  
+    4788,  
+    4805  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| NCM Lithium-ion | | Cycle Life | 1000 Cycles to 80%+ capacity | | Management Systems | Over Voltage Protection Overload Protection<br>Over Temperature Protection Short Circuit Protection<br>Low Temperature Protection Low Voltage Protection<br>Overcurrent Protection | | General | | | Net Weight | 6",  
+  "context": "--------------------------------------------------------------------------------------------------------------------| | **Type | NCM Lithium-ion | | Cycle Life | 1000 Cycles to 80%+ capacity | | Management Systems | Over Voltage Protection, Overload Protection,<br>Over Temperature Protection, Short Circuit Protection,<br>Low Temperature Protection, Low Voltage Protection,<br>Overcurrent Protection | | General | | | Net Weight | 6.**5 kg (229 oz) | | Input | Battery | | |--------------------|------------------------------------------------------------",  
+  "position": [  
+    5779,  
+    6091  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463392"  
+}
+

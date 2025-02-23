@@ -1,0 +1,266 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "ella batterikapaciteten. Detta förhindrar att batterierna överladdas och förlänger deras livslängd avsevärt. NEO-serien **kan användas med både AGM-batterier och litium LiFePO4-batterier.** **NEO-serien** erbjuder även *\"INTELLIGENT CHARGING\"*, vilket innebär att när batterierna är fulladdade kommer de att k",  
+  "position": [  
+    720,  
+    785  
+  ],  
+  "pattern_index": 4,  
+  "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "teriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NEO-serien **kan användas med både AGM-batterier och litium LiFePO4-batterier.** #### **Flexibel & Utbyggnadsbar** **NEO FLX M serien** kan kompletteras med upp till 4 batteriboxar eller 19 \"rack batt",  
+  "position": [  
+    1249,  
+    1314  
+  ],  
+  "pattern_index": 4,  
+  "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "ella batterikapaciteten. Detta förhindrar att batterierna överladdas och förlänger deras livslängd avsevärt. NEO-serien **kan användas med både AGM-batterier och litium LiFePO4-batterier.** **NEO-serien** erbjuder även *\"INTELLIGENT CHARGING\"*, vilket innebär att när batterierna är fulladdade kommer de att k",  
+  "position": [  
+    720,  
+    785  
+  ],  
+  "pattern_index": 21,  
+  "pattern": "(?i)(?:kan|can)\\s+användas\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "teriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NEO-serien **kan användas med både AGM-batterier och litium LiFePO4-batterier.** #### **Flexibel & Utbyggnadsbar** **NEO FLX M serien** kan kompletteras med upp till 4 batteriboxar eller 19 \"rack batt",  
+  "position": [  
+    1249,  
+    1314  
+  ],  
+  "pattern_index": 21,  
+  "pattern": "(?i)(?:kan|can)\\s+användas\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "strömuttag max 15A / 25A | | | | | Nominell effekt | 150W | 156W | 240W | 336W | 648W | | | | | Rippel i normalläge | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | Effektivitet | 875% | 89% | 89% | 87% | 88% | | | | | Värmegenerering vid 50% / 80% av märkeffekten | 10W / 16W | 84W / 135W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | Ingångsström | 17A | 17A | 2A | 18A | 36A | | | | | Antal avsäkrade utgångar | | | 2 st | | | | | | | Typ av säkring på utgång | 2xF10A (glas) | 2xF5A (glas) | 2xF10A (glas) | 2x C15A | 2xC25A | | | | | Djupurladdning av batterier sker vid | 105V | | 21V | | | | | | | Möjlig att parallellkoppla | | | Ja | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (3 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (@24V) över/underspänning<br>frånkopplade batterier (10 sek) säkringsfel (utgång 2) sabotage (utgång 3)",  
+  "context": "7,3VDC | | | | | | | Max ström: | 10A | 5A | 10A | 15A | 25A | | | | | Ladd ström: | Max 3,4A | Max 3,4A | Max 3,4A | | **Beroende av strömuttag, max 15A / 25A | | | | | Nominell effekt: | 150W | 156W | 240W | 336W | 648W | | | | | Rippel i normalläge: | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | Effektivitet: | 87,5% | 89% | 89% | 87% | 88% | | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 10W / 16W | 8,4W / 13,5W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | Ingångsström: | 1,7A | 1,7A | 2A | 1,8A | 3,6A | | | | | Antal avsäkrade utgångar: | | | 2 st | | | | | | | Typ av säkring på utgång: | 2xF10A (glas) | 2xF5A (glas) | 2xF10A (glas) | 2x C15A | 2xC25A | | | | | Djupurladdning av batterier sker vid: | 10,5V | | 21V | | | | | | | Möjlig att parallellkoppla: | | | Ja | | | | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (@24V), över/underspänning,<br>frånkopplade batterier (10 sek), säkringsfel (utgång 2), sabotage (utgång 3).** | | | | | | | | | Larm via: | | | Växlande relä | | | | | | | Artikel information: | | | | | | | | | | Artikelnamn: | N",  
+  "position": [  
+    4235,  
+    5255  
+  ],  
+  "pattern_index": 35,  
+  "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "hantera högre belastningar",  
+  "context": "är kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen **behöver hantera högre belastningar.** **NEO FLX M** erbjuder *\"KONTROLLERAD LADDNING\"*, vilket innebär att batterierna aldrig laddas med mer än 30% av den no",  
+  "position": [  
+    442,  
+    477  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "p till 20 dagar eller när batterierna har nått 26,7V (24V). Genom att ladda ur batterierna och ladda dem kontinuerligt (**istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NEO-serien kan användas med både AGM-batterier",  
+  "position": [  
+    1071,  
+    1164  
+  ],  
+  "pattern_index": 94,  
+  "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "er de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V). Gen**om att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. NEO-serien kan användas med både AGM-batterier",  
+  "position": [  
+    1014,  
+    1164  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det gäller",  
+  "context": "atteriboxar för upp till 180Ah batterikapacitet.** **NEO-serien** används normalt i säkerhetssystem där kraven är högre **när det gäller;** högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen behöver hantera högre belastningar",  
+  "position": [  
+    341,  
+    356  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteribackupen behöver hantera högre belastningar",  
+  "context": "i säkerhetssystem där kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller n**är batteribackupen behöver hantera högre belastningar. ****NEO FLX M** erbjuder *\"KONTROLLERAD LADDNING\"*, vilket innebär att batterierna aldrig laddas med mer än 30% av den no",  
+  "position": [  
+    422,  
+    477  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 267V (24V)",  
+  "context": "e AGM-batterier och litium LiFePO4-batterier. **NEO-serien** erbjuder även *\"INTELLIGENT CHARGING\"*, vilket innebär att **när batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V (24V).** Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batt",  
+  "position": [  
+    860,  
+    1010  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "NEO-serien kan användas med både AGM-batterier och litium LiFePO4-batterier",  
+  "context": "r systemet batteriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid beho**v. NEO-serien kan användas med både AGM-batterier och litium LiFePO4-batterier.** #### **Flexibel & Utbyggnadsbar** **NEO FLX M serien** kan kompletteras med upp till 4 batteriboxar eller 19 \"rack batt",  
+  "position": [  
+    1235,  
+    1314  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | | | | | | | | Ursprungsland | Sverige | | | | | | | | | Information och val av batteri / batterier | | | | | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | | | Möjliga batterier för montering i kapsling | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | Rekommenderat batteri | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer 20Ah batteri | MT113-12V20-01 | | | | | | | | | | | | | | | | | | ![](images/_page_1_Picture_2",  
+  "context": "1 Edition 2 & SSF1014 Larmklass 1-2. | | | | | | | | | Garantiperiod: | | | 2 år | | | | | | | Designad och producerad a**v: | Milleteknik AB | | | | | | | | | Ursprungsland: | Sverige | | | | | | | | | Information och val av batteri / batterier: | | | | | | | | | | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | | | Möjliga batterier för montering i kapsling: | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer 20Ah batteri: | MT113-12V20-01 | | | | | | | | | | | | | | | | | | ![](images/_page_1_Picture_2.**jpeg) POWER SUPPLIES - MADE IN SWEDEN",  
+  "position": [  
+    6078,  
+    6677  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Vägg alt",  
+  "context": "optimal batterilivslängd +15 °C - +25 °C) | | | | | | | | | Skyddsklass: | IP32 | | | | | | | | | Rekommenderad monterin**g: | Vägg alt.** Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väggen. | | | | | | | | | Dimension (HxBx",  
+  "position": [  
+    3560,  
+    3574  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | | | | Dimension (HxBxD) | | | 224x437x212mm (5HE) | | | | | | | Nettovikt | 8kg | 8kg | 85kg | 95kg | 105kg | | | | | Antal kabelgenomföringar | 3 st + möjlighet till 1x utslagshål i ryggen | | | | | | | | | Kapslingens färg | Svart | | | | | | | | | Inbyggd fläkt för kylning | Ja | Ja | Ja | Ja | Ja | | | | | Elektrisk information | | | | | | | | | | Inspänning | 110V-264VAC/47-63Hz | | | | | | | | | Utspänning | 136VDC | | 273VDC | | | | | | | Max ström | 10A | 5A | 10A | 15A | 25A | | | | | Ladd ström | Max 34A | Max 34A | Max 34A | | Beroende av strömuttag max 15A / 25A | | | | | Nominell effekt | 150W | 156W | 240W | 336W | 648W | | | | | Rippel i normalläge | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | Effektivitet | 875% | 89% | 89% | 87% | 88% | | | | | Värmegenerering vid 50% / 80% av märkeffekten | 10W / 16W | 84W / 135W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | Ingångsström | 17A | 17A | 2A | 18A | 36A | | | | | Antal avsäkrade utgångar | | | 2 st | | | | | | | Typ av säkring på utgång | 2xF10A (glas) | 2xF5A (glas) | 2xF10A (glas) | 2x C15A | 2xC25A | | | | | Djupurladdning av batterier sker vid | 105V | | 21V | | | | | | | Möjlig att parallellkoppla | | | Ja | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (3 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (@24V) över/underspänning<br>frånkopplade batterier (10 sek) säkringsfel (utgång 2) sabotage (utgång 3)",  
+  "context": "| Rekommenderad montering: | Vägg alt. Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väg**gen. | | | | | | | | | Dimension (HxBxD): | | | 224x437x212mm (5HE) | | | | | | | Nettovikt: | 8kg | 8kg | 8,5kg | 9,5kg | 10,5kg | | | | | Antal kabelgenomföringar: | 3 st + möjlighet till 1x utslagshål i ryggen | | | | | | | | | Kapslingens färg: | Svart | | | | | | | | | Inbyggd fläkt för kylning: | Ja | Ja | Ja | Ja | Ja | | | | | Elektrisk information: | | | | | | | | | | Inspänning: | 110V-264VAC/47-63Hz | | | | | | | | | Utspänning: | 13,6VDC | | 27,3VDC | | | | | | | Max ström: | 10A | 5A | 10A | 15A | 25A | | | | | Ladd ström: | Max 3,4A | Max 3,4A | Max 3,4A | | Beroende av strömuttag, max 15A / 25A | | | | | Nominell effekt: | 150W | 156W | 240W | 336W | 648W | | | | | Rippel i normalläge: | 150mVp-p | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | Effektivitet: | 87,5% | 89% | 89% | 87% | 88% | | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 10W / 16W | 8,4W / 13,5W | 17W / 27W | 31W / 49W | 50W / 80W | | | | | Ingångsström: | 1,7A | 1,7A | 2A | 1,8A | 3,6A | | | | | Antal avsäkrade utgångar: | | | 2 st | | | | | | | Typ av säkring på utgång: | 2xF10A (glas) | 2xF5A (glas) | 2xF10A (glas) | 2x C15A | 2xC25A | | | | | Djupurladdning av batterier sker vid: | 10,5V | | 21V | | | | | | | Möjlig att parallellkoppla: | | | Ja | | | | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (@24V), över/underspänning,<br>frånkopplade batterier (10 sek), säkringsfel (utgång 2), sabotage (utgång 3).** | | | | | | | | | Larm via: | | | Växlande relä | | | | | | | Artikel information: | | | | | | | | | | Artikelnamn: | N",  
+  "position": [  
+    3656,  
+    5255  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | Rekommenderat batteri | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer 20Ah batteri | MT113-12V20-01 | | | | | | | | | | | | | | | | | | ![](images/_page_1_Picture_2",  
+  "context": "12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | | | Möjliga batterier för montering i kapsling**: | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer 20Ah batteri: | MT113-12V20-01 | | | | | | | | | | | | | | | | | | ![](images/_page_1_Picture_2.j**peg) POWER SUPPLIES - MADE IN SWEDEN",  
+  "position": [  
+    6370,  
+    6677  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av säkring på utgång | 2xF10A (glas) | 2xF5A (glas) | 2xF10A (glas) | 2x C15A | 2xC25A | | | | | Djupurladdning av batterier sker vid | 105V | | 21V | | | | | | | Möjlig att parallellkoppla | | | Ja | | | | | | | Skydd mot | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (3 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (@24V) över/underspänning<br>frånkopplade batterier (10 sek) säkringsfel (utgång 2) sabotage (utgång 3)",  
+  "context": "W | | | | | Ingångsström: | 1,7A | 1,7A | 2A | 1,8A | 3,6A | | | | | Antal avsäkrade utgångar: | | | 2 st | | | | | | | **Typ av säkring på utgång: | 2xF10A (glas) | 2xF5A (glas) | 2xF10A (glas) | 2x C15A | 2xC25A | | | | | Djupurladdning av batterier sker vid: | 10,5V | | 21V | | | | | | | Möjlig att parallellkoppla: | | | Ja | | | | | | | Skydd mot: | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (3 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (@24V), över/underspänning,<br>frånkopplade batterier (10 sek), säkringsfel (utgång 2), sabotage (utgång 3).** | | | | | | | | | Larm via: | | | Växlande relä | | | | | | | Artikel information: | | | | | | | | | | Artikelnamn: | N",  
+  "position": [  
+    4715,  
+    5255  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | | | Möjliga batterier för montering i kapsling | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | Rekommenderat batteri | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer 20Ah batteri | MT113-12V20-01 | | | | | | | | | | | | | | | | | | ![](images/_page_1_Picture_2",  
+  "context": "sland: | Sverige | | | | | | | | | Information och val av batteri / batterier: | | | | | | | | | | Rekommenderad batteri**typ: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | | | Möjliga batterier för montering i kapsling: | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | Artikelnummer 20Ah batteri: | MT113-12V20-01 | | | | | | | | | | | | | | | | | | ![](images/_page_1_Picture_2.**jpeg) POWER SUPPLIES - MADE IN SWEDEN",  
+  "position": [  
+    6244,  
+    6677  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 & SSF1014 Larmklass 1-2",  
+  "context": "A2:2003 Klass B, EN61000-3-2:2001. Immunity: EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11 &<br>SS-EN 50 130-4:2011 **Edition 2 & SSF1014 Larmklass 1-2.** | | | | | | | | | Garantiperiod: | | | 2 år | | | | | | | Designad och producerad av: | Milleteknik AB | | | | | | | |",  
+  "position": [  
+    5960,  
+    5994  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+

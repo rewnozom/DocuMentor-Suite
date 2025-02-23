@@ -1,0 +1,42 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Manufacturer reserves the right to alter or amend the design model and specification without prior notice",  
+  "context": "an those described here, please consult your nearest GP Sales and Marketing Office or Distributors. ## www.gpbatteries.c**om Manufacturer reserves the right to alter or amend the design, model and specification without prior notice.** Copyright@ GPI International Ltd. - All rights reserved ![](images/_page_0_Picture_11.jpeg) ## DATA SHEET Model No.:",  
+  "position": [  
+    1391,  
+    1501  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025380"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty",  
+  "context": "alife | |--------|-----------| | 1604LC | U9VL | ![](images/_page_0_Figure_6.jpeg) ![](images/_page_0_Figure_7.jpeg) The information (**subject to change without prior notice) contained in this document is for reference only and should not be used as a basis for product guarantee or warranty.** For applications other than those described here, please consult your nearest GP Sales and Marketing Office or Distribu",  
+  "position": [  
+    1088,  
+    1245  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025380"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "and specification without prior notice",  
+  "context": "Marketing Office or Distributors. ## www.gpbatteries.com Manufacturer reserves the right to alter or amend the design, m**odel and specification without prior notice. **Copyright@ GPI International Ltd. - All rights reserved ![](images/_page_0_Picture_11.jpeg) ## DATA SHEET Model No.:",  
+  "position": [  
+    1456,  
+    1501  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50025380"  
+}
+

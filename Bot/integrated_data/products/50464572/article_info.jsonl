@@ -1,0 +1,42 @@
+{  
+  "identifier": "erenced",  
+  "original": "erenced",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| This translation is not verified and should be cross referenced with the swed<br>ish original befo**re use. | **| |",  
+  "source": "regex",  
+  "product_id": "50464572"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "_Picture_2.jpeg) • *Varning** Korsa inte kablar - risk för skada på utrustning. # TEKNISKA DATA | Ar**tikelnummer |** A-AL1224ECO01card | | | |-------------------|-------",  
+  "source": "regex",  
+  "product_id": "50464572"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "_Picture_2.jpeg) • *Varning** Korsa inte kablar - risk för skada på utrustning. # TEKNISKA DATA | Ar**tikelnummer |** A-AL1224ECO01card | | | |-------------------|-------",  
+  "source": "regex",  
+  "product_id": "50464572"  
+}
+

@@ -1,0 +1,14 @@
+{  
+  "relation_type": "replacement",  
+  "related_product": "lead acid batteries",  
+  "context": "duce total cost of ownership. ◼ Lighter Weight: About 40 % of the weight of a comparable lead acid battery. A 'drop in' **replacement for lead acid batteries.** ◼ Higher Power: Delivers twice the power of a lead acid battery, even high discharge rate, while maintaininghigh energy",  
+  "position": [  
+    433,  
+    469  
+  ],  
+  "pattern_index": 89,  
+  "pattern": "(?i)replacement\\s+for\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50143004"  
+}
+

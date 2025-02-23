@@ -1,0 +1,21 @@
+{  
+  "relation_type": "version",  
+  "related_product": "| Lithium Manganese dioxide | | | | Nobb number | 40763161 | | | | Batteristorlek | Button cells | | | ## **Packaging information** | | 1-P | DISP | EXKRT | ST | |-----------------|---------------|---------------|---------------|---------| | EAN kod | 4891199006999 | 4891199007002 | 4891199007057 | | | Längd (mm) | 120",  
+  "context": "ingsland | Kina | | | | Statistiskt nummer | 8506503000 | | | | EL-nr | 62 093 42 | | | | Snro | 8743012 | | | | Batteri**typ | Lithium Manganese dioxide | | | | Nobb number | 40763161 | | | | Batteristorlek | Button cells | | | ## **Packaging information** | | 1-P | DISP | EXKRT | ST | |-----------------|---------------|---------------|---------------|---------| | EAN kod | 4891199006999 | 4891199007002 | 4891199007057 | | | Längd (mm) | 120.**000 | 122.000 | 392.000 | 0.000 | | Höjd (mm) | 16.000 | 87.000 | 292.000 | 27.000 | | Bredd (mm) | 84.000 | 88.000 | 47",  
+  "position": [  
+    682,  
+    1007  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "40763161",  
+    "4891199006999",  
+    "4891199007002",  
+    "4891199007057",  
+    "40763161"  
+  ],  
+  "product_id": "50022452"  
+}
+

@@ -1,0 +1,266 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "strömuttag dock max 6A | | | | | | | | | Nominell effekt | 120W | 240W | 336W | 648W | | | | | | | Rippel i normalläge | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | | Effektivitet | 84% | 89% | 87% | 88% | | | | | | | Värmegenerering vid 50% / 80% av märkeffekten | 84W / 135W | 17W / 27W | 31W / 49W | | | | | | | | Ingångsström | 17A | 2A | 18A | 50W / 80W | | | | | | | | | | | 36A | | | | | | | Antal avsäkrade utgångar | 2 st | 2 st | 2 st | 2 st | | | | | | | Typ av säkring på utgång | 2xF5A (glas) | 2xF10A (glas)<br>21V | 2xC16A | 2xC25A | | | | | | | Djupurladdning av batterier sker vid | | | | | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | | | | Skydd mot | | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (utgång 2) över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning (utgång 3)",  
+  "context": "| | | | | | | Utspänning: | | 27,3VDC | | | | | | | | | Max ström: | 5A | 10A | 15A | 25A | | | | | | | Ladd ström: | | **Beroende av strömuttag, dock max 6A | | | | | | | | | Nominell effekt: | 120W | 240W | 336W | 648W | | | | | | | Rippel i normalläge: | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | | Effektivitet: | 84% | 89% | 87% | 88% | | | | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 8,4W / 13,5W | 17W / 27W | 31W / 49W | | | | | | | | Ingångsström: | 1,7A | 2A | 1,8A | 50W / 80W | | | | | | | | | | | 3,6A | | | | | | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | | | | | | Typ av säkring på utgång: | 2xF5A (glas) | 2xF10A (glas)<br>21V | 2xC16A | 2xC25A | | | | | | | Djupurladdning av batterier sker vid: | | | | | | | | | | | Möjlig att parallellkoppla: | Ja | | | | | | | | | | Skydd mot: | | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (utgång 2), över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning (utgång 3).** Tillval: sabotage (utgång 4). | | | | | | | | | | Larm via: | | Växlande relä | | | | | | | | | Artikel information: |",  
+  "position": [  
+    4503,  
+    5566  
+  ],  
+  "pattern_index": 35,  
+  "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "hantera högre belastningar",  
+  "context": "är kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen **behöver hantera högre belastningar.** **EN54-serien** erbjuder **\"INTELLIGENT CHARGING\"**, vilket innebär att när batterierna är fulladdade kommer de att kop",  
+  "position": [  
+    550,  
+    585  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "e i upp till 20 dagar eller när batterierna har nått 26,7V. Genom att ladda ur batterierna och ladda dem kontinuerligt (**istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. EN54-serien ska användas med AGM-batterier. **",  
+  "position": [  
+    861,  
+    954  
+  ],  
+  "pattern_index": 94,  
+  "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "ade kommer de att kopplas bort elektroniskt i standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V. Gen**om att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. EN54-serien ska användas med AGM-batterier. **",  
+  "position": [  
+    804,  
+    954  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "meddelar när batterierna måste bytas ut innan batterierna åldras",  
+  "context": "rustade med interna effektmotstånd (anpassade för systemtestade batterier) för *\"QUALIFIED BATTERY CAPACITY TESTING\"*, s**om meddelar när batterierna måste bytas ut innan batterierna åldras.** EN54-serien är systemcertifierad tillsammans med / & måste användas tillsammans med 10+ Design Life AGM-batterier enlig",  
+  "position": [  
+    1500,  
+    1568  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ihåg att larmdonen skall kunna kontrolleras och övervakas för eventuella avbrott i slingan",  
+  "context": "eriboxarna är anslutna via en 9-polig kontakt. Batterioxen har plats för 2x 45Ah batterier per batteribox. **NOTERA!** K**om ihåg att larmdonen skall kunna kontrolleras och övervakas för eventuella avbrott i slingan.** Vi rekommenderar därför att du kompletterar batteribackupen med tillvalet **\"Fire module 4 outputs\"**. ## Förväntad dri",  
+  "position": [  
+    1901,  
+    1995  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nödvändigt",  
+  "context": "ibackupen skall användas tillsammans med UPLUS 10+ Design Life batterier.<br>4. Fläkten skall regöras årligen och bytas **om nödvändigt.** | | | | | | | | | | Designad och producerad av: | | Milleteknik AB | | | | | | | | | Ursprungsland: | Sverige | | | | |",  
+  "position": [  
+    6773,  
+    6787  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det gäller",  
+  "context": "erna larmdon i brandlarm där en SBF110:8 godkänd eller EN54-4-certifierad batteribackup krävs eller där kraven är högre **när det gäller;** högre flexibilitet, fler larmfunktioner, längre drifttider eller när batteribackupen behöver hantera högre belastningar",  
+  "position": [  
+    449,  
+    464  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteribackupen behöver hantera högre belastningar",  
+  "context": "backup krävs eller där kraven är högre när det gäller; högre flexibilitet, fler larmfunktioner, längre drifttider eller **när batteribackupen behöver hantera högre belastningar.** **EN54-serien** erbjuder **\"INTELLIGENT CHARGING\"**, vilket innebär att när batterierna är fulladdade kommer de att kop",  
+  "position": [  
+    530,  
+    585  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är fulladdade kommer de att kopplas bort elektroniskt i standby-läge i upp till 20 dagar eller när batterierna har nått 267V",  
+  "context": "eribackupen behöver hantera högre belastningar. **EN54-serien** erbjuder **\"INTELLIGENT CHARGING\"**, vilket innebär att **när batterierna är fulladdade kommer de att kopplas bort elektroniskt i standby-läge i upp till 20 dagar eller när batterierna har nått 26,7V.** Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batt",  
+  "position": [  
+    658,  
+    800  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna måste bytas ut innan batterierna åldras",  
+  "context": "interna effektmotstånd (anpassade för systemtestade batterier) för *\"QUALIFIED BATTERY CAPACITY TESTING\"*, som meddelar **när batterierna måste bytas ut innan batterierna åldras.** EN54-serien är systemcertifierad tillsammans med / & måste användas tillsammans med 10+ Design Life AGM-batterier enlig",  
+  "position": [  
+    1512,  
+    1568  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "ulladdade kommer de att kopplas bort elektroniskt i standby-läge i upp till 20 dagar eller när batterierna har nått 26,7**V. Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. EN54-serien ska användas med AGM-batterier. **",  
+  "position": [  
+    798,  
+    954  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "EN54-serien ska användas med AGM-batterier",  
+  "context": "r systemet batteriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid beho**v. EN54-serien ska användas med AGM-batterier.** **EN54-serien** läser också av den anslutna systembelastningen och laddar batterierna med tillgänglig restström från st",  
+  "position": [  
+    1025,  
+    1071  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Milleteknik AB | | | | | | | | | Ursprungsland | Sverige | | | | | | | | | | Information och val av batteri / batterier | | | | | | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM | | | | | | | | | | Möjliga batterier för montering i kapsling | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | | Artikelnummer rekommenderat 20Ah batteri | MT113-12V20-01 | | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri | | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SBF1108 / EN54-4 | | | | | | | | | | | Artikelnamn | EN54 24V 5A FLX M | EN54 24V 10A FLX M | EN54 24V 15A FLX M | EN54 24V 25A FLX M | | | | | | | excl",  
+  "context": "fe batterier.<br>4. Fläkten skall regöras årligen och bytas om nödvändigt. | | | | | | | | | | Designad och producerad a**v: | | Milleteknik AB | | | | | | | | | Ursprungsland: | Sverige | | | | | | | | | | Information och val av batteri / batterier: | | | | | | | | | | | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM | | | | | | | | | | Möjliga batterier för montering i kapsling: | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | | Artikelnummer rekommenderat 20Ah batteri: | MT113-12V20-01 | | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri: | | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SBF110:8 / EN54-4: | | | | | | | | | | | Artikelnamn: | EN54 24V 5A FLX M | EN54 24V 10A FLX M | EN54 24V 15A FLX M | EN54 24V 25A FLX M | | | | | | | excl.** battery box (2x 20Ah batteries): | 3,5A | 8,5A | 12,6A | 24A | | | | | | | incl. 1x battery box (2x 45Ah batteries): |",  
+  "position": [  
+    6833,  
+    7672  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Vägg alt",  
+  "context": "mal batterilivslängd +15 °C - +25 °C) | | | | | | | | | | Skyddsklass: | IP32 | | | | | | | | | | Rekommenderad monterin**g: | | Vägg alt.** Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väggen. | | | | | | | | | Dimension (HxBx",  
+  "position": [  
+    3869,  
+    3885  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | | | | Dimension (HxBxD) | | 224x437x212mm (5HE) | | | | | | | | | Nettovikt | 8kg | 85kg | 95kg | 105kg | | | | | | | Antal kabelgenomföringar | | 3 st + möjlighet till 1x utslagshål i ryggen | | | | | | | | | Kapslingens färg | | Svart | | | | | | | | | Inbyggd fläkt för kylning | | Ja | | | | | | | | | Elektrisk information | | | | | | | | | | | Inspänning | | 110V-264VAC/47-63Hz | | | | | | | | | Utspänning | | 273VDC | | | | | | | | | Max ström | 5A | 10A | 15A | 25A | | | | | | | Ladd ström | | Beroende av strömuttag dock max 6A | | | | | | | | | Nominell effekt | 120W | 240W | 336W | 648W | | | | | | | Rippel i normalläge | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | | Effektivitet | 84% | 89% | 87% | 88% | | | | | | | Värmegenerering vid 50% / 80% av märkeffekten | 84W / 135W | 17W / 27W | 31W / 49W | | | | | | | | Ingångsström | 17A | 2A | 18A | 50W / 80W | | | | | | | | | | | 36A | | | | | | | Antal avsäkrade utgångar | 2 st | 2 st | 2 st | 2 st | | | | | | | Typ av säkring på utgång | 2xF5A (glas) | 2xF10A (glas)<br>21V | 2xC16A | 2xC25A | | | | | | | Djupurladdning av batterier sker vid | | | | | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | | | | Skydd mot | | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (utgång 2) över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning (utgång 3)",  
+  "context": "Rekommenderad montering: | | Vägg alt. Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väg**gen. | | | | | | | | | Dimension (HxBxD): | | 224x437x212mm (5HE) | | | | | | | | | Nettovikt: | 8kg | 8,5kg | 9,5kg | 10,5kg | | | | | | | Antal kabelgenomföringar: | | 3 st + möjlighet till 1x utslagshål i ryggen | | | | | | | | | Kapslingens färg: | | Svart | | | | | | | | | Inbyggd fläkt för kylning: | | Ja | | | | | | | | | Elektrisk information: | | | | | | | | | | | Inspänning: | | 110V-264VAC/47-63Hz | | | | | | | | | Utspänning: | | 27,3VDC | | | | | | | | | Max ström: | 5A | 10A | 15A | 25A | | | | | | | Ladd ström: | | Beroende av strömuttag, dock max 6A | | | | | | | | | Nominell effekt: | 120W | 240W | 336W | 648W | | | | | | | Rippel i normalläge: | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | | | | Effektivitet: | 84% | 89% | 87% | 88% | | | | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 8,4W / 13,5W | 17W / 27W | 31W / 49W | | | | | | | | Ingångsström: | 1,7A | 2A | 1,8A | 50W / 80W | | | | | | | | | | | 3,6A | | | | | | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | | | | | | Typ av säkring på utgång: | 2xF5A (glas) | 2xF10A (glas)<br>21V | 2xC16A | 2xC25A | | | | | | | Djupurladdning av batterier sker vid: | | | | | | | | | | | Möjlig att parallellkoppla: | Ja | | | | | | | | | | Skydd mot: | | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (utgång 2), över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning (utgång 3).** Tillval: sabotage (utgång 4). | | | | | | | | | | Larm via: | | Växlande relä | | | | | | | | | Artikel information: |",  
+  "position": [  
+    3967,  
+    5566  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | | Artikelnummer rekommenderat 20Ah batteri | MT113-12V20-01 | | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri | | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SBF1108 / EN54-4 | | | | | | | | | | | Artikelnamn | EN54 24V 5A FLX M | EN54 24V 10A FLX M | EN54 24V 15A FLX M | EN54 24V 25A FLX M | | | | | | | excl",  
+  "context": "nderad batterityp: | 12V Underhållsfria batterier, typ AGM | | | | | | | | | | Möjliga batterier för montering i kapslin**g: | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | | Artikelnummer rekommenderat 20Ah batteri: | MT113-12V20-01 | | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri: | | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SBF110:8 / EN54-4: | | | | | | | | | | | Artikelnamn: | EN54 24V 5A FLX M | EN54 24V 10A FLX M | EN54 24V 15A FLX M | EN54 24V 25A FLX M | | | | | | | excl.** battery box (2x 20Ah batteries): | 3,5A | 8,5A | 12,6A | 24A | | | | | | | incl. 1x battery box (2x 45Ah batteries): |",  
+  "position": [  
+    7111,  
+    7672  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av säkring på utgång | 2xF5A (glas) | 2xF10A (glas)<br>21V | 2xC16A | 2xC25A | | | | | | | Djupurladdning av batterier sker vid | | | | | | | | | | | Möjlig att parallellkoppla | Ja | | | | | | | | | | Skydd mot | | Överlast Överspänning Övertemperatur Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar) | Fördröjt nätavbrottslarm (10 sek) (utgång 1) låg batterispänning (utgång 2) över/underspänning<br>åldrade batterier frånkopplade batterier (10 sek) säkringsfel laddarfel låg systemspänning (utgång 3)",  
+  "context": "50W / 80W | | | | | | | | | | | 3,6A | | | | | | | Antal avsäkrade utgångar: | 2 st | 2 st | 2 st | 2 st | | | | | | | T**yp av säkring på utgång: | 2xF5A (glas) | 2xF10A (glas)<br>21V | 2xC16A | 2xC25A | | | | | | | Djupurladdning av batterier sker vid: | | | | | | | | | | | Möjlig att parallellkoppla: | Ja | | | | | | | | | | Skydd mot: | | Överlast, Överspänning, Övertemperatur, Kortslutning & Djupurladdning av batterier | | | | | | | | | Larmfunktioner (4 utgångar): | Fördröjt nätavbrottslarm (10 sek) (utgång 1), låg batterispänning (utgång 2), över/underspänning,<br>åldrade batterier, frånkopplade batterier (10 sek), säkringsfel, laddarfel, låg systemspänning (utgång 3). **Tillval: sabotage (utgång 4). | | | | | | | | | | Larm via: | | Växlande relä | | | | | | | | | Artikel information: |",  
+  "position": [  
+    5003,  
+    5566  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V Underhållsfria batterier typ AGM | | | | | | | | | | Möjliga batterier för montering i kapsling | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | | System certifierad tillsammans med | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | | Artikelnummer rekommenderat 20Ah batteri | MT113-12V20-01 | | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri | | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SBF1108 / EN54-4 | | | | | | | | | | | Artikelnamn | EN54 24V 5A FLX M | EN54 24V 10A FLX M | EN54 24V 15A FLX M | EN54 24V 25A FLX M | | | | | | | excl",  
+  "context": "d: | Sverige | | | | | | | | | | Information och val av batteri / batterier: | | | | | | | | | | | Rekommenderad batteri**typ: | 12V Underhållsfria batterier, typ AGM | | | | | | | | | | Möjliga batterier för montering i kapsling: | 2x 20Ah (2x 45Ah i respektive batteribox) | | | | | | | | | | System certifierad tillsammans med: | UPLUS 10+ Design Life 20Ah batteri (UPLUS 10+ Design Life 45Ah batteri i respektive batteribox) | | | | | | | | | | Artikelnummer rekommenderat 20Ah batteri: | MT113-12V20-01 | | | | | | | | | | Artikelnummer rekommenderat 45Ah batteri: | | MT113-12V45-01 | | | | | | | | | Tillåten medellast enligt SBF110:8 / EN54-4: | | | | | | | | | | | Artikelnamn: | EN54 24V 5A FLX M | EN54 24V 10A FLX M | EN54 24V 15A FLX M | EN54 24V 25A FLX M | | | | | | | excl.** battery box (2x 20Ah batteries): | 3,5A | 8,5A | 12,6A | 24A | | | | | | | incl. 1x battery box (2x 45Ah batteries): |",  
+  "position": [  
+    7005,  
+    7672  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152588"  
+}
+

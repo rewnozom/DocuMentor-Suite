@@ -1,0 +1,21 @@
+{  
+  "product_id": "50464571",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Monteringsanvisning Styrenhet\n\n![](images/_page_0_Figure_8.jpeg)\n\n| Matning       |                                                                | Relä 2 |           |   | Relä 1 |           |   |\n|---------------|----------------------------------------------------------------|--------|-----------|---|--------|-----------|---|\n| +24v Ov       |                                                                |        | NC COM NO |   |        | NC COM NO |   |\n| 8             | 7                                                              | ნ      | 5         | 4 | 3      | 2         | 1 |\n|               |                                                                |        |           |   |        |           |   |\n| Nr<br>(ON)    | Dip-switch funktion                                            |        |           |   |        |           |   |\n|               | 1 sekund fördröjning                                           |        |           |   |        |           |   |\n|               | 3 sekunder fördröjning                                         |        |           |   |        |           |   |\n| 1+2           | 6 sekunder fördröjning                                         |        |           |   |        |           |   |\n|               | Relä 2 har 100ms fördröjning efter<br>att relä 1 har dragit    |        |           |   |        |           |   |\n|               | Relä 2 off                                                     |        |           |   |        |           |   |\n|               | Relä drar så länge kontakt är intryckt,<br>dock max 8 sekunder |        |           |   |        |           |   |\n| 6 off<br>7off | 20 mm                                                          |        |           |   |        |           |   |\n| 6 on<br>7 off | 40 mm                                                          |        |           |   |        |           |   |\n\nJC Kontakter AB | Karl Johansgatan 152 | SE-414 51 | Göteborg | Tel: 031-24 11 09 | info@jckontakter.se.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "NO | | | NC COM NO | | | 8 | 7 | ნ | 5 | 4 | 3 | 2 | 1 | | | | | | | | | | | Nr<br>(ON) | Dip-switch funktion | | | | | | | | | 1 sekund fördröjning | | | | | | | | | 3 sekunder fördröjning | | | | | | | | 1+2 | 6 sekunder fördröjning | | | | | | | | | Relä 2 har 100ms fördröjning efter<br>att relä 1 har dragit | | | | | | | | | Relä 2 off | | | | | | | | | Relä drar så länge kontakt är intryckt<br>dock max 8 sekunder | | | | | | | | 6 off<br>7off | 20 mm | | | | | | | | 6 on<br>7 off | 40 mm | | | | | | | JC Kontakter AB | Karl Johansgatan 152 | SE-414 51 | Göteborg | Tel 031-24 11 09 | info@jckontakter",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "rengöringsmedel",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

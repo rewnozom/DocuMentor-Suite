@@ -1,0 +1,128 @@
+{  
+  "product_id": "50457198",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| ARTIKELNUMMER: | SPÄNNING: | E-NUMMER**: | MAX MÖJLI**GT ANTAL: | |-----------------------------------------------|--",  
+  "description": "Levereras inkl. en grafisk display. NEO FLX M Display kommunicerar överordnat emot Sentrion S4.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "batterityp",  
+      "value": "|                                                                                                                                                                                                                                                                                                                           | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 |                                                                                                                                       |                           |  |  |\n| Möjliga batterier för montering i kapsling: | 2 st",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Skyddsklass",  
+      "value": "20",  
+      "unit": "%"  
+    },  
+    {  
+      "category": "COLOR",  
+      "name": "färg",  
+      "value": "| Svart                                                                                                                                                                                                                                                                                                                     |                                                             |                                                                                                                                       |                           |  |  |\n| Inbyggd fläkt för kylning: |                                                                                                                                                                                                                                                                                                                           | Ja                                                          |                                                                                                                                       |                           |  |  |\n| ELEKTRISK INFORMATION: |                                                                                                                                                                                                                                                                                                                           |                                                             |                                                                                                                                       |                           |  |  |\n| Inspänning: | 110V-264VAC/47-63Hz                                                                                                                                                                                                                                                                                                       |                                                             |                                                                                                                                       |                           |  |  |\n| Utspänning: | 27,3VDC                                                                                                                                                                                                                                                                                                                   |                                                             |                                                                                                                                       |                           |  |  |\n| Max ström: | 5A                                                                                                                                                                                                                                                                                                                        | 10A                                                         | 15A                                                                                                                                   | 25A                       |  |  |\n| Ladd ström: | Beroende av strömuttag                                                                                                                                                                                                                                                                                                    |                                                             |                                                                                                                                       |                           |  |  |\n| Nominell effekt: | 150W                                                                                                                                                                                                                                                                                                                      | 240W                                                        | 336W                                                                                                                                  | 648W                      |  |  |\n| Rippel i normalläge: | 200mVp-p                                                                                                                                                                                                                                                                                                                  | 200mVp-p                                                    | 150mVp-p                                                                                                                              | 150mVp-p                  |  |  |\n| Effektivitet: | 89%                                                                                                                                                                                                                                                                                                                       | 89%                                                         | 87%                                                                                                                                   | 88%                       |  |  |\n| Värmegenerering vid 50% / 80% av märkeffekten: | 8W / 13W                                                                                                                                                                                                                                                                                                                  | 17W / 27W                                                   | 31W / 49W                                                                                                                             | 50W / 80W                 |  |  |\n| Ingångsström: | 1,7A                                                                                                                                                                                                                                                                                                                      | 2A                                                          | 2A                                                                                                                                    | 3,6A                      |  |  |\n| Antal avsäkrade utgångar: | 2 st",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| 2 st",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "både AGM-batterier och litium LiFePO4-batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "strömuttag | | | | | | | Nominell effekt | 150W | 240W | 336W | 648W | | | | Rippel i normalläge | 200mVp-p | 200mVp-p | 150mVp-p | 150mVp-p | | | | Effektivitet | 89% | 89% | 87% | 88% | | | | Värmegenerering vid 50% / 80% av märkeffekten | 8W / 13W | 17W / 27W | 31W / 49W | 50W / 80W | | | | Ingångsström | 17A | 2A | 2A | 36A | | | | Antal avsäkrade utgångar | 2 st",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "hantera högre laster",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "visualiserar max / medium / minimum för spänning (V) ström (A) temperatur (C)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "batteribackupen behöver hantera högre laster",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | | | | | Larm via | | Växlande relä & RS485 (Sentrion S4) | | | | | | ARTIKEL INFORMATION | | | | | | | | Artikelnamn | NEO 24V 5A FLX M Display | NEO 24V 10A FLX M Display | NEO 24V 15A FLX M Display | NEO 24V 25A FLX M Display | | | | Artikelnummer | FM01P10024P050-DSP1 | FM01P10024P100-DSP1 | FM01P10024P150-DSP1 | FM01P10024P250-DSP1 | | | | E-nummer | 5213632 | 5213633 | 5213634 | 5213635 | | | | Produkten möter kraven enligt | CE direktivet enligt765/2008 EMC Direktiv 2014/30EU Emission EN61000-6-2001 EN550221998-A12000 A22003 Klass B<br>EN61000-3-22001 Immunity EN61000-6-22005 EN61000-4-2 -3 4 -5 -6 -11",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "10024",  
+        "10024",  
+        "10024",  
+        "10024",  
+        "5213632",  
+        "5213633",  
+        "5213634",  
+        "5213635",  
+        "61000",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001",  
+        "61000",  
+        "22005",  
+        "61000"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| E-NUMMER | MAX MÖJLIGT ANTAL | |-----------------------------------------------|------------------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 2x 45Ah batterier | Battery box 24V FLX M | FM010000024BB01 | 24V | 5213573 | 4x | | Batterihylla med plats för 2x 150Ah batterier | Battery shelf 24V L | BS020000024BL01 | 24V | 5213587 | 4x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 3x | | Avsäkringskort 10 utgångar | 10 output module | A-FU002410OP01 | 24V | 5213590 | 2x | | Spänningsomvandlare 24V-12V 6A | Voltage Converter 24V-12V6A | A-VC002406A01LM01 | 24V | 5213593 | 3x | | Jordfelsdetektormodul | Ground fault detector module | A-OT0024EA01LM01 | 24V | 5213594 | 3x | | Panel för extern montering av avsäkringskort | 19 rack module holder | 4U01000P00019P01 | - | 5001063 | - |",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5213573",  
+        "5213587",  
+        "12245",  
+        "5213588",  
+        "002410",  
+        "5213590",  
+        "002406",  
+        "5213593",  
+        "5213594",  
+        "01000",  
+        "00019",  
+        "5001063"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "NUMMER",  
+      "ikelnamn",  
+      "ikelnummer",  
+      "IKELTYP",  
+      "IKELNAMN",  
+      "IKELNUMMER"  
+    ]  
+  }  
+}
+

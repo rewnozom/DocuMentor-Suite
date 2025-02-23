@@ -1,0 +1,28 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "Vikt | 1,061 kg | | Dimension (BxHxD) | 178x34x60 mm | Order data Artikelnummer Beskrivning BS122N U**nderhållsfri **ackumulator 12 V, 2,2 Ah",  
+  "source": "regex",  
+  "product_id": "50116194"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "Vikt | 1,061 kg | | Dimension (BxHxD) | 178x34x60 mm | Order data Artikelnummer Beskrivning BS122N U**nderhållsfri **ackumulator 12 V, 2,2 Ah",  
+  "source": "regex",  
+  "product_id": "50116194"  
+}
+

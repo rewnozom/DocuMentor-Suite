@@ -1,0 +1,28 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "Vikt | 0,596 kg | | Dimension (BxHxD) | 97x43x53 mm | Order data Artikelnummer Beskrivning BS121N Un**derhållsfri a**ckumulator 1,2 Ah",  
+  "source": "regex",  
+  "product_id": "50116195"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "Vikt | 0,596 kg | | Dimension (BxHxD) | 97x43x53 mm | Order data Artikelnummer Beskrivning BS121N Un**derhållsfri a**ckumulator 1,2 Ah",  
+  "source": "regex",  
+  "product_id": "50116195"  
+}
+

@@ -1,0 +1,45 @@
+{  
+  "product_id": "50156348",  
+  "generated_at": "20250223_002304",  
+  "product_name": "| PoE switch 4p expansion kit",  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## Tillvalskort\n\n## PoE switch 4p expansion kit\n\n![](images/_page_0_Picture_3.jpeg)\n\n- √ PoE switch för expansion i Milleteknik PoE FLX S+ & FLX M+ batteribackuper. - √ 2 LAN portar & 4 PoE portar\n- √ Ansluts emot färdigt kablage i batteribackupen\n- √ Stöder IEEE 802.3af/15,4W & IEEE 802.3at/30,8W\n\n| REKOMMENDERAD MILJÖ OCH MÅTT:              |                                                                                                                                                                                                                                                  |\n|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Rekommenderad miljö:                       | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                               |\n| Omgivningstemperatur:                      | +5 °C - 40 °C                                                                                                                                                                                                                                    |\n| Dimension (HxBxD):                         | 20x130x100 mm                                                                                                                                                                                                                                    |\n| ELEKTRISK INFORMATION:                     |                                                                                                                                                                                                                                                  |\n| Inspänning:                                | 54,6VDC                                                                                                                                                                                                                                          |\n| Utspänning:                                | PoE (54,6VDC)                                                                                                                                                                                                                                    |\n| Antal LAN / PoE portar:                    | 2 st. / 4 st.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "MÅTT",  
+      "value": "|                                                                                                                                                                                                                                                  |\n|--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Rekommenderad miljö: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet                                                                                                                                                                                               |\n| Omgivningstemperatur: | +5 °C - 40 °C                                                                                                                                                                                                                                    |\n| Dimension (HxBxD): | 20x130x100 mm                                                                                                                                                                                                                                    |\n| ELEKTRISK INFORMATION: |                                                                                                                                                                                                                                                  |\n| Inspänning: | 54,6VDC                                                                                                                                                                                                                                          |\n| Utspänning: | PoE (54,6VDC)                                                                                                                                                                                                                                    |\n| Antal LAN / PoE portar: | 2 st",  
+      "unit": "x"  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "nätverksport",  
+      "value": "| 10 / 100 PoE+                                                                                                                                                                                                                                    |\n| Gränssnit: | 1000Base-T RJ-45                                                                                                                                                                                                                                 |\n| Stöd för standard enligt: | IEEE 802",  
+      "unit": "PoE"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "| Milleteknik AB | | Ursprungsland | Kina | | | |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 546VDC | | Utspänning | PoE (546VDC) | | Antal LAN / PoE portar | 2 st",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Fast Ethernet Mbit PoE switch | | Typ av nätverksport | 10 / 100 PoE+ | | Gränssnit | 1000Base-T RJ-45 | | Stöd för standard enligt | IEEE 802",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnamn",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

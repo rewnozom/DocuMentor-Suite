@@ -1,0 +1,55 @@
+{  
+  "product_id": "50138662",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Designad för att uppfylla höga säkerhetskrav. En HID-kompatibel USB-port som kan övervaka UPS-statusen på Windows, Mac OS, Linux-system utan att installera ytterligare programvara. HID - effekthanteringssystem stöds av datorns interna strömhanterings program, som finns som standard.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "VI modellerna till bankomater kiosker små industri- och kontorstillämpningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "krävande IT miljö och där risken för ett instabilt nät finns",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "krävande IT miljö och där risken för ett instabilt nät finns",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kan övervaka UPS-statusen på Windows Mac OS Linux-system utan att installera ytterligare programvara",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "finns som standard",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är kapslad som Tower",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "UPS som är kapslad som Tower",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "En HID-kompatibel USB-port som kan övervaka UPS-statusen på Windows Mac OS Linux-system utan att installera ytterligare programvara",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

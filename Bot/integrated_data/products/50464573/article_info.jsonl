@@ -1,0 +1,14 @@
+{  
+  "identifier": "erred",  
+  "original": "erred",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": ".01.01 # *Material Safety Data Sheet* This sheet is only provided as technical information and is re**ferred n**ormal use of the product in question. GP makes no warranty expressed or implied. ## **Section 1-P",  
+  "source": "regex",  
+  "product_id": "50464573"  
+}
+

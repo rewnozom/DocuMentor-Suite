@@ -1,0 +1,56 @@
+{  
+  "identifier": "6310037",  
+  "original": "6310037",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "![](images/_page_0_Picture_0.jpeg) BT-FUSE-5 Artikelnummer: 28160194, E-**nummer: 6310037 !**[](_page_0_Picture_3.jpeg) BT Fuse 5 är ett avsäkringskort 5 utgångar. 5 st 1-poligt avsäkrade u",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+
+{  
+  "identifier": "28160194",  
+  "original": "28160194",  
+  "type": "EAN-8",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 3, faktisk: 4)",  
+  "group": "article",  
+  "pattern_index": 16,  
+  "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) BT-FUSE-5 Ar**tikelnummer: 28160194, **E-nummer: 6310037 ![](images/_page_0_Picture_3.jpeg) BT Fuse 5 är ett avsäkringskort 5 utgångar. 5 st 1",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) BT-FUSE-5 Ar**tikelnummer: **28160194, E-nummer: 6310037 ![](images/_page_0_Picture_3.jpeg) BT Fuse 5 är ett avsäkringskort 5 utgång",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) BT-FUSE-5 Ar**tikelnummer: **28160194, E-nummer: 6310037 ![](images/_page_0_Picture_3.jpeg) BT Fuse 5 är ett avsäkringskort 5 utgång",  
+  "source": "regex",  
+  "product_id": "BT-Fuse-5"  
+}
+

@@ -1,0 +1,140 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "a battery",  
+  "context": "quipment trouble. Please strictly observe safety instructions. (*leakage is defined as an unintended escape of liquid fr**om a battery.**) #### **Section 3 – Composition/Information on Ingredients** | Ingredient | CAS# | EINECS No. | Approximate Content (wt",  
+  "position": [  
+    1535,  
+    1548  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents",  
+  "context": "orms of transportation (ground, air, or ocean) must be packaged in a safe and responsible manner. Regulatory concerns fr**om all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents.** All original packaging for GP alkaline batteries has been designed to be compliant with these regulatory concerns. Alka",  
+  "position": [  
+    7540,  
+    7731  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the dangerous goods regulations provided they meet the requirements contained in the following special provisions",  
+  "context": "th edition, ICAO Technical Instructions and the U.S. hazardous materials regulations (49 CFR). These batteries are not s**ubject to the dangerous goods regulations provided they meet the requirements contained in the following special provisions. **| . Regulatory Body | Special Provisions | |-------------------|------------------------------| | ADR | Not regulated |",  
+  "position": [  
+    8287,  
+    8412  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of dangerous quantities of heat and meet the special provisions listed above",  
+  "context": "A | A123 | | ICAO | Not regulated | All GP alkaline batteries are packed in such a way to prevent short circuits or the **generation of dangerous quantities of heat and meet the special provisions listed above.** In addition, the 2023 IATA Dangerous Goods Regulations and ICAO Technical Instructions require the words \"not restricte",  
+  "position": [  
+    8748,  
+    8836  
+  ],  
+  "pattern_index": 123,  
+  "pattern": "(?i)generation(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "30 | Page 1<br>of 5 | | |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--| | IDENTITY (As Used on Label and List)<br>Alkaline batteries<br>13A(LR20)/14A(LR14)/15A(LR6)/<br>24A(LR03)/910A(LR1)/25A(LR8D425) | Note<br>Blank spaces are not permitted if any item is not<br>applicable or no information is<br>available the space must be<br>marked to indicate<br>that",  
+  "context": "| Document Number: MAA100 | **Revision:30 | Page 1<br>of 5 | | |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--| | IDENTITY (As Used on Label and List)<br>Alkaline batteries<br>13A(LR20)/14A(LR14)/15A(LR6)/<br>24A(LR03)/910A(LR1)/25A(LR8D425) | Note:<br>Blank spaces are not permitted if any item is not<br>applicable or no information is<br>available, the space must be<br>marked to indicate<br>that.** | | | | Section 1-<br>Identification | | | | | Manufacturer's Name | Telephone Number for information | | | | GPI Inter",  
+  "position": [  
+    28,  
+    660  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | 7/F Building 16W 16 Science Park West<br>Avenue<br>Hong Kong Science Park New<br>Territories",  
+  "context": "y Co., Ltd. | 852-2484-3111 | | | | Address (Number, Street, City State, and | | | | | ZIP Code) | Date of prepared and **revision | | | | 7/F, Building 16W, 16 Science Park West<br>Avenue,<br>Hong Kong Science Park, New<br>Territories.** H.K. | 01<br>Jan, 2023 | | | | | Signature of Prepare (optional) | | | #### **Section 2 – Hazards Identification** This",  
+  "position": [  
+    941,  
+    1055  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "30 Page 2 of 5 #### **Section 4 – First Aid Measures** None unless internal materials exposure",  
+  "context": "1.6 | 1.5 | 1.6 | 1.4 | 2.9 | 2.2 | | Fiber | None | None | 0.9 | 0.9 | 0.6 | 0.6 | 0.6 | 0.6 | Document Number: MAA100 **Revision:30 Page 2 of 5 #### **Section 4 – First Aid Measures** None unless internal materials exposure.** If contents are leaked out, observe following instructions: Inhalation Fumes can cause respiratory irritation. Remove t",  
+  "position": [  
+    2763,  
+    2867  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "30 Page 3 of 5 Do not breathe cell vapors or touch internal material with bare hands",  
+  "context": "fashion or allow metal objects to be mixed with stored batteries. Never disassemble a battery. Document Number: MAA100 R**evision:30 Page 3 of 5 Do not breathe cell vapors or touch internal material with bare hands. **The cells and batteries shall not be stored in high temperature, the maximum temperature allowed is 60℃ for a short per",  
+  "position": [  
+    4491,  
+    4585  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "30 | Page 4<br>of 5 | | |---------------------------------|-------------------------------------------------------------------------------------------------|---|---------------------------------------------------|----------------|------------| | Section 10 – | Stability and Reactivity | | | | | | Stability | Unstable | | Conditions to Avoid | | | | | Stable | X | | | | | | Incompatibility (Materials to Avoid) | | | | | | | Hazardous Decomposition or Byproducts | | | | | | Hazardous<br>Polymerizat<br>ion | May Occur | | Conditions to Avoid | | | | | Will Not Occur | X | | | | | Section 11 – | Toxicological Information | | | | | | Route(s) of | Inhalation? | | Skin? | | Ingestion? | | Entry | | | N",  
+  "context": "Appearance and Odor | | | | | | Cylindrical Shape, odorless ![](images/_page_2_Picture_9.jpeg) | | Document Number: MAA100 | | **Revision:30 | Page 4<br>of 5 | | |---------------------------------|-------------------------------------------------------------------------------------------------|---|---------------------------------------------------|----------------|------------| | Section 10 – | Stability and Reactivity | | | | | | Stability | Unstable | | Conditions to Avoid | | | | | Stable | X | | | | | | Incompatibility (Materials to Avoid) | | | | | | | Hazardous Decomposition or Byproducts | | | | | | Hazardous<br>Polymerizat<br>ion | May Occur | | Conditions to Avoid | | | | | Will Not Occur | X | | | | | Section 11 – | Toxicological Information | | | | | | Route(s) of | Inhalation? | | Skin? | | Ingestion? | | Entry | | | N.**A. | N.A. | N.A. | | | Health Hazard (Acute and Chronic) / Toxicological | | information | | | | | In case of electrolyt",  
+  "position": [  
+    5977,  
+    6692  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "30 Page 5 of 5 #### **Section 14 – Transportation Information** In general all batteries in all forms of transportation (ground air or ocean) must be packaged in a safe and responsible manner",  
+  "context": "rations** Dispose of batteries according to government regulations. ![](images/_page_4_Picture_0.jpeg) Document Number: MAA100 **Revision:30 Page 5 of 5 #### **Section 14 – Transportation Information** In general, all batteries in all forms of transportation (ground, air, or ocean) must be packaged in a safe and responsible manner.** Regulatory concerns from all agencies for safe packaging require that batteries be packaged in a manner that prevents s",  
+  "position": [  
+    7313,  
+    7517  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+

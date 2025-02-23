@@ -1,0 +1,413 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+  "context": "högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | Modell | Beskrivning | E-nr | **Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1.**jpeg) ![](images/_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall - Kablage behöver inte ändras #",  
+  "position": [  
+    7373,  
+    7743  
+  ],  
+  "pattern_index": 0,  
+  "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20721",  
+    "5230060",  
+    "21202",  
+    "5230061",  
+    "21805",  
+    "5230062",  
+    "24207",  
+    "5230063"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+  "context": "högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | Modell | Beskrivning | E-nr | **Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1.**jpeg) ![](images/_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall - Kablage behöver inte ändras #",  
+  "position": [  
+    7373,  
+    7743  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20721",  
+    "5230060",  
+    "21202",  
+    "5230061",  
+    "21805",  
+    "5230062",  
+    "24207",  
+    "5230063"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman",  
+  "context": "vi kallar ViP (Voltage in Parallell) utvecklad av Alarmtech som möjligör att valfritt antal enheter med samma spänning o**beroende av märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman.** Det gör det möjligt att kompensera spänningsfall på ledningar, enkelt utöka strömkapaciteten i befintliga anläggningar",  
+  "position": [  
+    925,  
+    1016  
+  ],  
+  "pattern_index": 35,  
+  "pattern": "(?i)beroende\\s+av\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "inte ändras ## Behövs mer ström? ![](images/_page_3_Picture_6",  
+  "context": "[](_page_3_Picture_1.jpeg) ![](images/_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall - Kablage **behöver inte ändras ## Behövs mer ström? ![](images/_page_3_Picture_6.**jpeg) ![](images/_page_3_Picture_7.jpeg) ## Högre systemsäkerhet? ![](images/_page_3_Picture_9.jpeg) ![](images/_page_3_Picture_10.jpeg) förs",  
+  "position": [  
+    7842,  
+    7905  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "fits",  
+  "related_product": "följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+  "context": "högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | Modell | Beskrivning | E-nr | **Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1.**jpeg) ![](images/_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall - Kablage behöver inte ändras #",  
+  "position": [  
+    7373,  
+    7743  
+  ],  
+  "pattern_index": 57,  
+  "pattern": "(?i)passar\\s+(?:till|med|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20721",  
+    "5230060",  
+    "21202",  
+    "5230061",  
+    "21805",  
+    "5230062",  
+    "24207",  
+    "5230063"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tillåter strömförsörjningsaggregat att parallellkopplas (+) och (-) på en buss utan extra synkronisering örsörjningsagg ![](images/_page_1_Picture_0",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ![](images/_page_0_Picture_2.jpeg) * ViP –Voltage-in-Parallel – funktion utvecklat av Alarmtech s**om tillåter strömförsörjningsaggregat att parallellkopplas (+) och (-) på en buss utan extra synkronisering örsörjningsagg ![](images/_page_1_Picture_0.**jpeg) ### **PSV Strömförsörjningsenheter med batteriladdning enligt EN 50131-6 Grad 3, Class II** Alarmtech har utveckla",  
+  "position": [  
+    118,  
+    263  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "löser många problem i en anläggning",  
+  "context": "addning enligt EN 50131-6 Grad 3, Class II** Alarmtech har utvecklat nya strömförsörjningsenheter med unika egenskaper s**om löser många problem i en anläggning.** **Några fördelar med VIP strömförsörjning:** - ✔ Kan användas för att kompensera spänningsfall i ledningar - ✔ Valfritt",  
+  "position": [  
+    436,  
+    475  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "mer ström behövs vid en utökning av anläggningen - ✔ Enkelt att bygga felsäkra system Samtliga PSV strömförsörjningsenheter har en speciell funktion vi kallar ViP (Voltage in Parallell) utvecklad av Alarmtech som möjligör att valfritt antal enheter med samma spänning oberoende av märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman",  
+  "context": "ndas för att kompensera spänningsfall i ledningar - ✔ Valfritt antal enheter kan parallellkopplas oavsett märkström - ✔ **Om mer ström behövs vid en utökning av anläggningen - ✔ Enkelt att bygga felsäkra system Samtliga PSV strömförsörjningsenheter har en speciell funktion vi kallar ViP (Voltage in Parallell) utvecklad av Alarmtech som möjligör att valfritt antal enheter med samma spänning oberoende av märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman.** Det gör det möjligt att kompensera spänningsfall på ledningar, enkelt utöka strömkapaciteten i befintliga anläggningar",  
+  "position": [  
+    653,  
+    1016  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "indikerar tillståndet för enheten",  
+  "context": "g, överbelastning, överspänning och djupurladdning av batterier samt 3 st felreläer. På lådans front finns 3 lysdioder s**om indikerar tillståndet för enheten.** ![](images/_page_1_Picture_9.jpeg) ![](images/_page_1_Picture_10.jpeg) Utspänning 27,6 V i vit metallåda med plats för 2 st blyackumu",  
+  "position": [  
+    1464,  
+    1501  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har plats för kundens egen utrustning på 35 mm DIN-rail",  
+  "context": "#### **Kundstyrd design av strömförsörjningsutrustning** Efter kundens önskemål gör vi också strömförsörjningsenheter so**m har plats för kundens egen utrustning på 35 mm DIN-rail. **| Model | Beskrivning | Storlek<br>(BxHxD mm) | |------------|-----------------------------|-----------------------| |",  
+  "position": [  
+    5774,  
+    5833  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tillbehör finns en monteringssats PSV-DIN förmontering av modulen på DIN-skena",  
+  "context": "cture_12.jpeg) ### Storlek (BxHxD) 325x276x90 mm **24 Volt modulenheter** Modulenhet med utspänning 27,6 V i metalhus. S**om tillbehör finns en monteringssats PSV-DIN förmontering av modulen på DIN-skena.** Storlek (BxHxD) 210x120x70mm. | Model | Max | Laddning | E-nr | |------------|-------|----------|--------------| | PSV",  
+  "position": [  
+    6260,  
+    6342  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är trasig - ✔ Jordfelskontroll till (+) och (-) justerbar - ✔ Relä för summa jordfel - ✔ Indikering till vilken pol jordfelet finns - ✔ Mätkrets och säkringshållare för säkringskontroll ![](images/_page_2_Picture_29",  
+  "context": "n belastas med - ✔ Max ström för varje säkringspar är 4 A - ✔ Relä för summa säkringsfel - ✔ Indikering vilken säkring s**om är trasig - ✔ Jordfelskontroll till (+) och (-) justerbar - ✔ Relä för summa jordfel - ✔ Indikering till vilken pol jordfelet finns - ✔ Mätkrets och säkringshållare för säkringskontroll ![](images/_page_2_Picture_29.**jpeg) #### **Batterier** Blyackumulatorer till PSV är speciellt utvalda med 3-5års livslängd och av högsta kvalitet. De",  
+  "position": [  
+    6941,  
+    7153  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "**Några fördelar med VIP strömförsörjning** - ✔ Kan användas för att kompensera spänningsfall i ledningar - ✔ Valfritt antal enheter kan parallellkopplas oavsett märkström - ✔ Om mer ström behövs vid en utökning av anläggningen - ✔ Enkelt att bygga felsäkra system Samtliga PSV strömförsörjningsenheter har en speciell funktion vi kallar ViP (Voltage in Parallell) utvecklad av Alarmtech som möjligör att valfritt antal enheter med samma spänning oberoende av märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman",  
+  "context": "ss II** Alarmtech har utvecklat nya strömförsörjningsenheter med unika egenskaper som löser många problem i en anläggnin**g. **Några fördelar med VIP strömförsörjning:** - ✔ Kan användas för att kompensera spänningsfall i ledningar - ✔ Valfritt antal enheter kan parallellkopplas oavsett märkström - ✔ Om mer ström behövs vid en utökning av anläggningen - ✔ Enkelt att bygga felsäkra system Samtliga PSV strömförsörjningsenheter har en speciell funktion vi kallar ViP (Voltage in Parallell) utvecklad av Alarmtech som möjligör att valfritt antal enheter med samma spänning oberoende av märkströmmen kan parallellkopplas dvs alla (+) och alla (-) kan kopplas samman.** Det gör det möjligt att kompensera spänningsfall på ledningar, enkelt utöka strömkapaciteten i befintliga anläggningar",  
+  "position": [  
+    473,  
+    1016  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Beskrivning | E-nr | Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/72 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1",  
+  "context": "a med 3-5års livslängd och av högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | **Modell | Beskrivning | E-nr | Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721 | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 5230062 | Alla PSV 12XX-18 | | FG24207 | 12V/42 Ah | 5230063 | Alla PSV 24XX-40 | ## Spänningsfall i ledningsnätet? ![](images/_page_3_Picture_1.**jpeg) ![](images/_page_3_Picture_2.jpeg) • Lägg till PSU med ViP för att motverka spänningsfall - Kablage behöver inte ändras #",  
+  "position": [  
+    7343,  
+    7743  
+  ],  
+  "pattern_index": 126,  
+  "pattern": "(?i)modell(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20721",  
+    "5230060",  
+    "21202",  
+    "5230061",  
+    "21805",  
+    "5230062",  
+    "24207",  
+    "5230063"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Max | Utan batterier | Med Batterier* | |------------|-------|----------------|----------------| | PSV 2415-7 | 15 A | E-nr 5240068 | PSV 2415-7-B | *Enheter med batteri har inget E-nr bara modellbeteckning #### **Enheter för 24 Volt med plats för 2 st",  
+  "context": "10.jpeg) Utspänning 27,6 V i vit metallåda med plats för 2 st blyackumulatorer 12V/7Ah. Storlek (BxHxD) 325x276x90 mm | **Model | Max | Utan batterier | Med Batterier* | |------------|-------|----------------|----------------| | PSV 2415-7 | 1,5 A | E-nr 5240068 | PSV 2415-7-B | *Enheter med batteri har inget E-nr bara modellbeteckning #### **Enheter för 24 Volt med plats för 2 st.** 12 Ah batterier** Utspänning 27,6 V i vit metallåda med plats för 2 st blyackumulatorer 12V/12Ah. Storlek (BxHxD) 345x3",  
+  "position": [  
+    1670,  
+    1932  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240068",  
+    "5240068"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Max | Utan batterier | Med Batterier* | |--------------|-------|----------------|----------------| | PSV 2415-12 | 15 A | E-nr 5240067 | PSV 2415-12-B | | PSV 2435-12 | 35 A | E-nr 5240001 | PSV 2435-12-B | | PSV 2465-12 | 65 A | E-nr 5240002 | PSV 2465-12-B | | PSV 24100-12 | 10 A | E-nr 5213168 | PSV 24100-12-B | | PSV 24130-12 | 13 A | E-nr 5213169 | PSV 24130-12-B | | | | | | *Enheter med batteri har inget E-nr bara modellbeteckning ![](images/_page_1_Picture_18",  
+  "context": "rier** Utspänning 27,6 V i vit metallåda med plats för 2 st blyackumulatorer 12V/12Ah. Storlek (BxHxD) 345x325x130 mm | **Model | Max | Utan batterier | Med Batterier* | |--------------|-------|----------------|----------------| | PSV 2415-12 | 1,5 A | E-nr 5240067 | PSV 2415-12-B | | PSV 2435-12 | 3,5 A | E-nr 5240001 | PSV 2435-12-B | | PSV 2465-12 | 6,5 A | E-nr 5240002 | PSV 2465-12-B | | PSV 24100-12 | 10 A | E-nr 5213168 | PSV 24100-12-B | | PSV 24130-12 | 13 A | E-nr 5213169 | PSV 24130-12-B | | | | | | *Enheter med batteri har inget E-nr bara modellbeteckning ![](images/_page_1_Picture_18.**jpeg) #### **Enheter för 24 Volt med plats för 2 st. 40 Ah batterier** Utspänning 27,6 V i vit metallåda med plats för 2",  
+  "position": [  
+    2064,  
+    2539  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240067",  
+    "5240001",  
+    "5240002",  
+    "24100",  
+    "5213168",  
+    "24100",  
+    "24130",  
+    "5213169",  
+    "24130",  
+    "5240067",  
+    "5240001",  
+    "5240002",  
+    "5213168",  
+    "5213169"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Max | Utan batterier | Med batterier* | |--------------|-------|----------------|----------------| | PSV 2435-40 | 35 A | E-nr 5240041 | PSV 2435-40-B | | PSV 2465-40 | 65 A | E-nr 5240042 | PSV 2465-40-B | | PSV 24100-40 | 10 A | E-nr 5213170 | PSV 24100-40-B | | PSV 24130-40 | 13 A | E-nr 5213171 | PSV 24130-40-B | *Enheter med batteri har inget E-nr bara modellbeteckning | | | -----<br>-------<br>Non- And Divis<br>------<br>-------------<br>-------<br>None Loss",  
+  "context": "2 st blyackumulatorer 12V/12Ah. Storlek (BxHxD) 400x425x200 mm Enheten har också plats för säkringskortet PSV 24FC-6. | **Model | Max | Utan batterier | Med batterier* | |--------------|-------|----------------|----------------| | PSV 2435-40 | 3,5 A | E-nr 5240041 | PSV 2435-40-B | | PSV 2465-40 | 6,5 A | E-nr 5240042 | PSV 2465-40-B | | PSV 24100-40 | 10 A | E-nr 5213170 | PSV 24100-40-B | | PSV 24130-40 | 13 A | E-nr 5213171 | PSV 24130-40-B | *Enheter med batteri har inget E-nr bara modellbeteckning | | | -----<br>-------<br>Non- And Divis<br>------<br>-------------<br>-------<br>None Loss .** Noter<br>-<br>-<br>W . Not and<br>.<br>No. on<br>.<br>.<br>.<br>.<br>.<br>------- | <br><br><br><br>-------------------",  
+  "position": [  
+    2778,  
+    3258  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240041",  
+    "5240042",  
+    "24100",  
+    "5213170",  
+    "24100",  
+    "24130",  
+    "5213171",  
+    "24130",  
+    "5240041",  
+    "5240042",  
+    "5213170",  
+    "5213171"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Max | Utan batterier | Med Batterier* | |-------------|-------|----------------|----------------| | PSV 1215-18 | 15 A | E-nr 5255012 | PSV 1215-18-B | | PSV 1225-18 | 25 A | E-nr 5255013 | PSV 1235-18-B | *Enheter med batteri har inget E-nr bara modellbeteckning ![](images/_page_2_Picture_6",  
+  "context": "h batteri** Utspänning 13,8V i vit metallåda med plats för 1st blyackumulator 12V/18Ah. Storlek (BxHxD) 300x230x100mm | **Model | Max | Utan batterier | Med Batterier* | |-------------|-------|----------------|----------------| | PSV 1215-18 | 1,5 A | E-nr 5255012 | PSV 1215-18-B | | PSV 1225-18 | 2,5 A | E-nr 5255013 | PSV 1235-18-B | *Enheter med batteri har inget E-nr bara modellbeteckning ![](images/_page_2_Picture_6.**jpeg) Utspänning 27,6 V i vit metallåda med plats för 2 st blyackumulatorer 12V/7Ah. **Enheter för 24 Volt** Utspänning",  
+  "position": [  
+    4707,  
+    5003  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5255012",  
+    "5255013",  
+    "5255012",  
+    "5255013"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Max Utan batterier Med batterier* PSV 2435-40 35 A E-nr 5240041 PSV 2435-40-B PSV 2465-40 65 A E-nr 5240042 PSV 2465-40-B PSV 24100-40 10 A E-nr 5213170 PSV 24100-40-B PSV 24130-40 13 A E-nr 5213171 PSV 24130-40-B *Enheter med batteri har inget E-nr bara modellbeteckning ![](images/_page_2_Picture_7",  
+  "context": "40 Ah batterier** med plats för 2 st blyackumulatorer 12V/12Ah. Enheten har också plats för säkringskortet PSV 24FC-6. M**odel Max Utan batterier Med batterier* PSV 2435-40 3,5 A E-nr 5240041 PSV 2435-40-B PSV 2465-40 6,5 A E-nr 5240042 PSV 2465-40-B PSV 24100-40 10 A E-nr 5213170 PSV 24100-40-B PSV 24130-40 13 A E-nr 5213171 PSV 24130-40-B *Enheter med batteri har inget E-nr bara modellbeteckning ![](images/_page_2_Picture_7.j**peg) **Enhet med 40Ah batterier** #### **Kundstyrd design av strömförsörjningsutrustning** Efter kundens önskemål gör v",  
+  "position": [  
+    5318,  
+    5620  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240041",  
+    "5240042",  
+    "24100",  
+    "5213170",  
+    "24100",  
+    "24130",  
+    "5213171",  
+    "24130",  
+    "5240041",  
+    "5240042",  
+    "5213170",  
+    "5213171"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Beskrivning | Storlek<br>(BxHxD mm) | |------------|-----------------------------|-----------------------| | Box 122-12 | För 2x 12 Ah batteri 2xDIN | 360x470x130 | | Box 401-40 | För 2x40 Ah batteri 1xDIN | 440x425x200 | | Box 402-40 | För 4x40 Ah batteri 2xDIN | 440x645x200 | ![](images/_page_2_Picture_12",  
+  "context": "r kundens önskemål gör vi också strömförsörjningsenheter som har plats för kundens egen utrustning på 35 mm DIN-rail. | **Model | Beskrivning | Storlek<br>(BxHxD mm) | |------------|-----------------------------|-----------------------| | Box 122-12 | För 2x 12 Ah batteri, 2xDIN | 360x470x130 | | Box 401-40 | För 2x40 Ah batteri, 1xDIN | 440x425x200 | | Box 402-40 | För 4x40 Ah batteri, 2xDIN | 440x645x200 | ![](images/_page_2_Picture_12.**jpeg) ### Storlek (BxHxD) 325x276x90 mm **24 Volt modulenheter** Modulenhet med utspänning 27,6 V i metalhus. Som tillbe",  
+  "position": [  
+    5836,  
+    6149  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Max | Laddning | E-nr | |------------|-------|----------|--------------| | PSV 2415-M | 15 A | 05 A | E-nr 5240000 | | PSV 2435-M | 35 A | 09 A | E-nr 5240064 | | PSV 2465-M | 65 A | 15 A | E-nr 5240065 | ![](images/_page_2_Figure_16",  
+  "context": "us. Som tillbehör finns en monteringssats PSV-DIN förmontering av modulen på DIN-skena. Storlek (BxHxD) 210x120x70mm. | **Model | Max | Laddning | E-nr | |------------|-------|----------|--------------| | PSV 2415-M | 1,5 A | 0,5 A | E-nr 5240000 | | PSV 2435-M | 3,5 A | 0,9 A | E-nr 5240064 | | PSV 2465-M | 6,5 A | 1,5 A | E-nr 5240065 | ![](images/_page_2_Figure_16.**jpeg) #### **Säkringskort** PSV 24FC-6 är ett säkringskort för 24V system med 6st dubbla avsäkringar och en jordfelskret",  
+  "position": [  
+    6375,  
+    6616  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5240000",  
+    "5240064",  
+    "5240065",  
+    "5240000",  
+    "5240064",  
+    "5240065"  
+  ],  
+  "product_id": "50107533"  
+}
+
+{  
+  "relation_type": "article_relation",  
+  "related_product": "20721",  
+  "context": "högsta kvalitet. De är provade och certifierade av det Tyska provningslaboratoriet VdS. | Modell | Beskrivning | E-nr | **Passar till följande PSV-modeller | |---------|-------------|---------|-----------------------------------| | FG20721** | 12V/7,2 Ah | 5230060 | PSV 2415-7 | | FG21202 | 12V/12 Ah | 5230061 | Alla PSV 24XX-12 | | FG21805 | 12V18 Ah | 52300",  
+  "position": [  
+    7373,  
+    7490  
+  ],  
+  "pattern_index": 145,  
+  "pattern": "(?i)passar\\s+(?:till|med|för)\\s+(?:[^\\.;]*?)((?:\\d{5,8}|E-\\s*\\d{7})(?:\\s*,\\s*(?:\\d{5,8}|E-\\s*\\d{7}))*)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20721"  
+  ],  
+  "product_id": "50107533"  
+}
+

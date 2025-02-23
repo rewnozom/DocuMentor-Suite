@@ -1,0 +1,44 @@
+{  
+  "relation_type": "version",  
+  "related_product": "no(s) SM40/12-09 12V 09A SM40/24-05 24V 05A SM40/12-1 12V 1A SM40/24-1 24V 1A SM40/12-25 12V 25A SM40/12-5 24V 5A SM40/12-10 12V 10A SM40/24-25 24V 25A SM40/24-5 24V 5A SM40/24-10 24V 10A* *Manufacturer's name address telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen SWEDEN Phone +46-303-746 320 Fax +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications which comply with good engineering practice in safety matters in force within the EEA have been applied* *Standard Testreport/technical construction file/normative document Emission EN61000-6-32001 EN550221998 -A12000 -A22003 Class B EN 61000-3-22001 Ref",  
+  "context": "3/68/EEC *Type of equipment DC UPS / Power Supply without batteries* *Brand name or trade mark SM40 Type designation(s)/**Model no(s) SM40/12-0,9 12V 0,9A SM40/24-0,5 24V 0,5A SM40/12-1 12V 1A SM40/24-1 24V 1A SM40/12-2,5 12V 2,5A SM40/12-5 24V 5A SM40/12-10 12V 10A SM40/24-2,5 24V 2,5A SM40/24-5 24V 5A SM40/24-10 24V 10A* *Manufacturer's name, address, telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen, SWEDEN Phone: +46-303-746 320, Fax: +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications, which comply with good engineering practice in safety matters in force within the EEA, have been applied:* *Standard Testreport/technical construction file/normative document Emission: EN61000-6-3:2001, EN55022:1998, -A1:2000, -A2:2003 Class B, EN 61000-3-2:2001 Ref.** No / Issued by: 04272/EMC Väst EMC-lab Immunity: EN61000-6-2:2005, EN61000-4-2,-3,-4, -5,-6, -11 Ref. No / Issued by: 0",  
+  "position": [  
+    329,  
+    1104  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "61000",  
+    "32001",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001"  
+  ],  
+  "product_id": "50464884"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of equipment DC UPS / Power Supply without batteries* *Brand name or trade mark SM40 Type designation(s)/Model no(s) SM40/12-09 12V 09A SM40/24-05 24V 05A SM40/12-1 12V 1A SM40/24-1 24V 1A SM40/12-25 12V 25A SM40/12-5 24V 5A SM40/12-10 12V 10A SM40/24-25 24V 25A SM40/24-5 24V 5A SM40/24-10 24V 10A* *Manufacturer's name address telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen SWEDEN Phone +46-303-746 320 Fax +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications which comply with good engineering practice in safety matters in force within the EEA have been applied* *Standard Testreport/technical construction file/normative document Emission EN61000-6-32001 EN550221998 -A12000 -A22003 Class B EN 61000-3-22001 Ref",  
+  "context": "irective 2004/108/EC & the Low Voltage Directive 2006/95/EC including amendments by the CE-marking Directive 93/68/EEC ***Type of equipment DC UPS / Power Supply without batteries* *Brand name or trade mark SM40 Type designation(s)/Model no(s) SM40/12-0,9 12V 0,9A SM40/24-0,5 24V 0,5A SM40/12-1 12V 1A SM40/24-1 24V 1A SM40/12-2,5 12V 2,5A SM40/12-5 24V 5A SM40/12-10 12V 10A SM40/24-2,5 24V 2,5A SM40/24-5 24V 5A SM40/24-10 24V 10A* *Manufacturer's name, address, telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen, SWEDEN Phone: +46-303-746 320, Fax: +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications, which comply with good engineering practice in safety matters in force within the EEA, have been applied:* *Standard Testreport/technical construction file/normative document Emission: EN61000-6-3:2001, EN55022:1998, -A1:2000, -A2:2003 Class B, EN 61000-3-2:2001 Ref.** No / Issued by: 04272/EMC Väst EMC-lab Immunity: EN61000-6-2:2005, EN61000-4-2,-3,-4, -5,-6, -11 Ref. No / Issued by: 0",  
+  "position": [  
+    219,  
+    1104  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "61000",  
+    "32001",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001"  
+  ],  
+  "product_id": "50464884"  
+}
+

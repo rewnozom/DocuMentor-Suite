@@ -1,0 +1,14 @@
+{  
+  "identifier": "vinkelst",  
+  "original": "vinkelst",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "pan kan hängas i krok, fästas i byxlinning ställas på golv eller på vinklad yta med hjälp av utfällb**art vinkelst**öd för precis rätt riktad ljusbild, den kan även fästas i magnet på ex. insida av motorhuv. Med extr",  
+  "source": "regex",  
+  "product_id": "50135103"  
+}
+

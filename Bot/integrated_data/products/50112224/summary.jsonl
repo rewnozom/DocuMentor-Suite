@@ -1,0 +1,48 @@
+{  
+  "product_id": "50112224",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\nT20TX-01ABL\n\n| Armbågskontakt T20TX-01ABL: |                                                                           |\n|-----------------------------|---------------------------------------------------------------------------|\n| Applikationsområden:        | Dörrar, portar och grindar                                                |\n| Frekvens:                   | 433,92 MHz                                                                |\n| Mod. Typ:                   | FSK                                                                       |\n| Kodning:                    | Digital pulskod                                                           |\n| Kod kombinationer:          | Fast individuell kod; 16.777.216                                          |\n| Funktioner:                 | 1                                                                         |\n| Uteffekt:                   | Ca. 7 mW                                                                  |\n| Antenn:                     | Inbyggd                                                                   |\n| Drivspänning:               | 4 st utbytbara 1,5V batterier typ: AAA                                    |\n| Strömförbrukning:           | Ca.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Mått",  
+      "value": "| 180 x 50 x 21 mm                                                          |\n| Kapsling: | IP 42                                                                     |\n| Rekommenderade mottagare: | T20 standard-, DIN- och plugg-in mottagare samt T60 standard<br>mottagare |\n\n## **TELE RADIO AB**\n\nSweden, Main office Tel",  
+      "unit": "x"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "www",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "## **TELE RADIO SVERIGE** Sweden Tel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "> **TELE RADIO LTD** England Tel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Digital pulskod | | Kod kombinationer | Fast individuell kod",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 4 st utbytbara 15V batterier typ AAA | | Strömförbrukning | Ca",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| IP 42 | | Rekommenderade mottagare | T20 standard- DIN- och plugg-in mottagare samt T60 standard<br>mottagare | ## **TELE RADIO AB** Sweden Main office Tel",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

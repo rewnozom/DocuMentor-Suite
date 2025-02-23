@@ -1,0 +1,48 @@
+{  
+  "product_id": "50459825",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n **SM40** \n\nFunktion: Hel säkring indikeras med grön lysdiod och utlöst larm av att lysdioden för gruppen slocknar och att ett summalarmrelä med potentialfri växlingskontakt aktiveras. Fördelning av strömmatning, max 10A, till 10 sektioner 2-poligt avsäkrade med 2A. Huvudsäkring 1 poligt 10As.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "utökningskort ska användas kopplas spänningen vidare på plint7 12- 24V UT",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "lysdiod för utgångar inte tänds kontrollera inspänning och ingångssäkringarna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "utökningskort ska användas kopplas spänningen vidare på plint7 12- 24VAC UT",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | HxBxD mm | |----------|------|------------------------------------------------|-------------| | 5247045 | 910S | SM910 19\"ram med 10-gruppsäkringskort 12-24VDC | 135x480x60 | | 5247046 | 911S | SM911 19\" endast ram | 135x480x60 | | 5247047 | 912S | SM912 Lock till 19\" ram | 135x480 | | 5247048 | 920S | SM920 Utökningskort 10-grupp 12-24VDC | 130x90x45 | | 5247049 | 930S | SM930 Vägg mont",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5247045",  
+        "5247046",  
+        "5247047",  
+        "5247048",  
+        "5247049"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Separat anslutning för skärm (jord)",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | | 12-24V | GR3 | | | GR4 | | | | | | GR5 | | | | | Säkrfel | GR6 | | Larm | GR7 | | | | | 127mm | GR8 | | | GR9 | | Jord | | | | GR10 | | | | | 90mm<br>FUSE | | | LED<br>F1-F10<br>UTSP | | | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

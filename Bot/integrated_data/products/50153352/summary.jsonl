@@ -1,0 +1,39 @@
+{  
+  "product_id": "50153352",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Variabelt ficklampsljus. Läsoch arbetsljus på långsidan. Magnetfäste på kortändan.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Storlek",  
+      "value": "M\n- Räckvidd: 110 m\n- Styrka fram: 350 lumen\n- Styrka sidoljus: 550 lumen\n- Batteritid 20 h\n- • Ljuslägen: Hög, låg, COB sidljus\n- Striltät (IPX4)\n\n#### **ARTICLE INFORMATION:**\n\nArt",  
+      "unit": "m"  
+    },  
+    {  
+      "category": "NETWORK",  
+      "name": "Räckvidd",  
+      "value": "110",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "Hög låg COB sidljus - Striltät (IPX4) #### **ARTICLE INFORMATION** Art",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "4891199190223"  
+    ],  
+    "E-nummer": [  
+      "9451781"  
+    ],  
+    "Artikelnummer": [  
+      "450058"  
+    ]  
+  }  
+}
+

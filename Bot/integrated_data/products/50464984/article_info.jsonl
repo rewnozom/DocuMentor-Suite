@@ -1,0 +1,14 @@
+{  
+  "identifier": "6302327",  
+  "original": "6302327",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ![](images/_page_0_Picture_1.jpeg) ## **Skylt Nödöppning 87x87** IS-NÖ-TK E-nu**mmer: 6302327 Sky**lt 87 x 87 mm för Utrymning med texten \"NÖDÖPPNING\". Skylten kan fås med egen logotyp, efterlys",  
+  "source": "regex",  
+  "product_id": "50464984"  
+}
+

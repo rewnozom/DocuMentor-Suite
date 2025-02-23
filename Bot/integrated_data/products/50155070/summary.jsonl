@@ -1,0 +1,59 @@
+{  
+  "product_id": "50155070",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Enheten kommuniceras via ASSA ABLOY ARX som övervakar status på batteribackupen t.ex aktuell strömförbrukning, historik över dygnet, temperatur så den inte blir för varm eller kall, fördröjt nätbortfall för att undvika falsklarm och batterikapacitet för att kunna larma när batterierna börjar ta slut i anläggningen. 10PSC har skydd mot överlast, överspänning, övertemperatur, kortslutning och djupurladdning, den erbjuder även s.k. intelligent laddning vilket genom att koppla från batterierna när de är fulladdade och sedan periodiskt ladda batterierna kan förlänga livslängden på batteriet med upp till 50%.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "spänning",  
+      "value": "27,3",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "inga ingångslicenser",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "inga ingångslicenser",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är larmgodkänd enligt SSF1014 & systemcertifierad tillsammans med ASSA ABLOY ARX",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "övervakar status på batteribackupen t",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "10PSC har skydd mot överlast överspänning övertemperatur kortslutning och djupurladdning den erbjuder även s",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "170-264VAC - Stabiliserad utspänning 273VDC - Maximal belastning 10A - Temperaturområde +5 °C 40 °C - IP-klassning IP32 #### **Mått och vikt** | Höjd | 222mm | |------------|-------| | Bredd | 436mm | | Djup | 210mm | | Nettovikt | 9kg | - Skydd mot överlast överspänning övertemperatur kort¬ slutning och djupurladdning - Larmgodkänd SSF 1014 utgåva 4 Larmklass 3 - SBSC-intyg 16-130 #### **Möjlig medellast enligt SSF1014** Exkl",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "4 Larmklass 3 - SBSC-intyg 16-130 #### **Möjlig medellast enligt SSF1014** Exkl",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "lackerad",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

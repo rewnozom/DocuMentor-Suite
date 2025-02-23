@@ -1,0 +1,145 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "framförallt när det kommer till SSFklassade installationer",  
+  "context": "0x120x40) ## SPM900 ENC-METAL Plåt kapsling med plats för upp till 5 kort. Kan kompletteras med sabotagebrytare. Mycket **lämplig till framförallt när det kommer till SSFklassade installationer.** Utstansade hål för kabelgenomförningar. (216x155x45): ![](images/_page_2_Picture_8.jpeg) ![](images/_page_2_Picture_9.jpeg) Postadres",  
+  "position": [  
+    2913,  
+    2985  
+  ],  
+  "pattern_index": 10,  
+  "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är försedda med 2A bladsäkringar",  
+  "context": "n i strömförsörjningsaggregat eller kapslingar med anpassad hålbild. (se blad 3) #### Funktion SMP900 har 5st grupper, s**om är försedda med 2A bladsäkringar.** Kan vid behov bytas till max 5A säkringar, dock får det totala strömuttaget på kortet inte överstiga 10A. Varje säkring",  
+  "position": [  
+    464,  
+    500  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "larmreläet sluts",  
+  "context": "utspänningen. Utlöst säkring indikeras med att den gröna lysdioden för gruppen slocknar och den röda tänds, samtidigt so**m larmreläet sluts. **CE-märkt enligt EN61000-1-2 och EN61000-3-4 ## EGENSKAPER - Dubbla plintar för inkommande +, och stativjord - 5 st enpo",  
+  "position": [  
+    776,  
+    796  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är slutet om spänning över 5V och alla säkringar hela klarar både AC/DC upp till 200mA",  
+  "context": "gnistgap, högspänningskond, varistor) - Skydd på vidare kopplad spänning (gnistgap) - Säkringslarm med solidstate relä s**om är slutet om spänning över 5V och alla säkringar hela, klarar både AC/DC upp till 200mA.** Galvaniskt frånkopplat - Nc - Grön LED vid utgångsplint som lyser om säkring hel. - Röd LED vid säkring som lyser när s",  
+  "position": [  
+    1107,  
+    1198  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lyser om säkring hel",  
+  "context": "5V och alla säkringar hela, klarar både AC/DC upp till 200mA. Galvaniskt frånkopplat - Nc - Grön LED vid utgångsplint so**m lyser om säkring hel. **- Röd LED vid säkring som lyser när säkring är utlöst. - Märkyta för att kunna skriva position/ID på kort #### TEKNISKA",  
+  "position": [  
+    1256,  
+    1280  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lyser när säkring är utlöst",  
+  "context": "pp till 200mA. Galvaniskt frånkopplat - Nc - Grön LED vid utgångsplint som lyser om säkring hel. - Röd LED vid säkring s**om lyser när säkring är utlöst.** - Märkyta för att kunna skriva position/ID på kort #### TEKNISKA DATA Inspänning DC 7-30VDC Avsäkring grupp 2A max 5A M",  
+  "position": [  
+    1304,  
+    1335  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkring är utlöst",  
+  "context": "00mA. Galvaniskt frånkopplat - Nc - Grön LED vid utgångsplint som lyser om säkring hel. - Röd LED vid säkring som lyser **när säkring är utlöst.** - Märkyta för att kunna skriva position/ID på kort #### TEKNISKA DATA Inspänning DC 7-30VDC Avsäkring grupp 2A max 5A M",  
+  "position": [  
+    1313,  
+    1335  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det kommer till SSFklassade installationer",  
+  "context": "ETAL Plåt kapsling med plats för upp till 5 kort. Kan kompletteras med sabotagebrytare. Mycket lämplig till framförallt **när det kommer till SSFklassade installationer.** Utstansade hål för kabelgenomförningar. (216x155x45): ![](images/_page_2_Picture_8.jpeg) ![](images/_page_2_Picture_9.jpeg) Postadres",  
+  "position": [  
+    2938,  
+    2985  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Utlöst säkring indikeras med att den gröna lysdioden för gruppen slocknar och den röda tänds samtidigt som larmreläet sluts",  
+  "context": "ck får det totala strömuttaget på kortet inte överstiga 10A. Varje säkringsgrupp har separat LED-indikering av utspännin**gen. Utlöst säkring indikeras med att den gröna lysdioden för gruppen slocknar och den röda tänds, samtidigt som larmreläet sluts.** CE-märkt enligt EN61000-1-2 och EN61000-3-4 ## EGENSKAPER - Dubbla plintar för inkommande +, och stativjord - 5 st enpo",  
+  "position": [  
+    666,  
+    796  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152077"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Beskrivning | Mått H x B x D<br>(mm) | |----------|------------|--------------------------------------------------|------------------------| | 5257223 | SPM900-L | SITE PROTECTION MODUL 5GRUPP 1-POL 7-30VDC | 37x86x25 | | 5257224 | SPM900-DIN | SITE PROTECTION MODUL 5GRUPP 1-POL 7-30VDC | 37x86x25 | | 5257243 | SPM900-DS | Plast kapsling med plats för ett eller två kort",  
+  "context": "position/ID på kort #### TEKNISKA DATA Inspänning DC 7-30VDC Avsäkring grupp 2A max 5A Max ström/kort 10A | E-Nummer | T**yp | Beskrivning | Mått H x B x D<br>(mm) | |----------|------------|--------------------------------------------------|------------------------| | 5257223 | SPM900-L | SITE PROTECTION MODUL 5GRUPP 1-POL 7-30VDC | 37x86x25 | | 5257224 | SPM900-DIN | SITE PROTECTION MODUL 5GRUPP 1-POL 7-30VDC | 37x86x25 | | 5257243 | SPM900-DS | Plast kapsling med plats för ett eller två kort. **| 120x120x40 | | 5257244 | SPM900-ENC | Plåt kapsling med plats för ett till fem kort | 216x155x45 | | | SPM900-SAB | S",  
+  "position": [  
+    1486,  
+    1865  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5257223",  
+    "5257224",  
+    "5257243"  
+  ],  
+  "product_id": "50152077"  
+}
+

@@ -1,0 +1,470 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "DIN 503 kapsling) - 6 3",  
+  "context": "hörig personal ![](images/_page_3_Figure_15.jpeg) #### Plastkapsling - 6 1. Öppning för installation av SIM-kort - 2. Fästhål (**kompatibel med DIN 503 kapsling) - 6 3.** Låsskruv (medföljer) - 4. Sabotagebrytare - 5. Öppning för kabelgenomföring - 6. Öppning för anslutning av extern anten",  
+  "position": [  
+    2574,  
+    2613  
+  ],  
+  "pattern_index": 2,  
+  "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "DIN 503 kapsling) - 6 3",  
+  "context": "hörig personal ![](images/_page_3_Figure_15.jpeg) #### Plastkapsling - 6 1. Öppning för installation av SIM-kort - 2. Fästhål (**kompatibel med DIN 503 kapsling) - 6 3.** Låsskruv (medföljer) - 4. Sabotagebrytare - 5. Öppning för kabelgenomföring - 6. Öppning för anslutning av extern anten",  
+  "position": [  
+    2574,  
+    2613  
+  ],  
+  "pattern_index": 17,  
+  "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "korrekt behandling återvinning och återvinning av begagnad elektrisk och elektronisk utrustning",  
+  "context": "g. Begagnad elektrisk och elektronisk utrustning måste behandlas separat i enlighet med den relativa lagstiftningen som **kräver korrekt behandling, återvinning och återvinning av begagnad elektrisk och elektronisk utrustning.** Efter genomförandet av direktiv i medlemsländerna kan privata hushåll inom EU återlämna sin använda elektriska och elek",  
+  "position": [  
+    6585,  
+    6689  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "behörig personal ![](images/_page_3_Figure_15",  
+  "context": "Integrerad antenn - 11. Indikerings-LED (RGB) för GSM nätverksanslutning (normal = fast grön) - 12. Seriell anslutning, **endast för behörig personal ![](images/_page_3_Figure_15.**jpeg) #### Plastkapsling - 6 1. Öppning för installation av SIM-kort - 2. Fästhål (kompatibel med DIN 503 kapsling) - 6",  
+  "position": [  
+    2441,  
+    2491  
+  ],  
+  "pattern_index": 97,  
+  "pattern": "(?i)(?:endast|bara)\\s+(?:vid|för|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "korrekt behandling återvinning och återvinning av begagnad elektrisk och elektronisk utrustning",  
+  "context": "g. Begagnad elektrisk och elektronisk utrustning måste behandlas separat i enlighet med den relativa lagstiftningen som **kräver korrekt behandling, återvinning och återvinning av begagnad elektrisk och elektronisk utrustning.** Efter genomförandet av direktiv i medlemsländerna kan privata hushåll inom EU återlämna sin använda elektriska och elek",  
+  "position": [  
+    6585,  
+    6689  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "# INNEHÅLLSFÖRTECKNING | Introduktion<br>Huvudfunktioner | | |---------------------------------|--| | Produktöversikt | | | Tekniska data | | | Kommunikationstyp | | | Installation | | | Programmering | | | LED-Indikering | | ### INTRODUKTION gemino IoT är en IP-larmsändare som ökar kommunikationskapaciteten för centralaparat lares 4",  
+  "context": "_page_0_Picture_1.jpeg) ## Larmsändare gemino IoT - Installationsmanual ![](images/_page_0_Picture_3.jpeg) www.kseniasecurity.c**om # INNEHÅLLSFÖRTECKNING | Introduktion<br>Huvudfunktioner | | |---------------------------------|--| | Produktöversikt | | | Tekniska data | | | Kommunikationstyp | | | Installation | | | Programmering | | | LED-Indikering | | ### INTRODUKTION gemino IoT är en IP-larmsändare som ökar kommunikationskapaciteten för centralaparat lares 4.**0 till två larmöverföringskanaler: Ethernet/IP och 4G datanätverk (med mottagning även på 2G/GPRS banden). gemino IoT gö",  
+  "position": [  
+    152,  
+    491  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "saknar tillräcklig GSM- täckning kan nås från 4G datanätverk eller via Internet på ett helt transparent sätt för installatören och slutanvändaren",  
+  "context": "ed mottagning även på 2G/GPRS banden). gemino IoT gör att centralapparater i lares 4.0 serien, installerade på platser s**om saknar tillräcklig GSM- täckning kan nås från 4G datanätverk eller via Internet på ett helt transparent sätt för installatören och slutanvändaren.** Den tillhandahåller även en höghastighetsdatakanal (upp till 10Mbit/s i nedladdningshastighet) som kan erbjuda en kompl",  
+  "position": [  
+    679,  
+    828  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan erbjuda en komplett back-up av kommunikationsnätverket vid fel eller tillfällig brist på täckning från 4Gnätverket till IP-LAN nätverket och vice versa vilket säkerställer en total säkerhet för data och kommunikation",  
+  "context": "ren och slutanvändaren. Den tillhandahåller även en höghastighetsdatakanal (upp till 10Mbit/s i nedladdningshastighet) s**om kan erbjuda en komplett back-up av kommunikationsnätverket vid fel eller tillfällig brist på täckning från 4Gnätverket till IP-LAN nätverket och vice versa, vilket säkerställer en total säkerhet för data och kommunikation.** • Programmering och hantering av lares 4.0 med gemino IoT ### HUVUDFUNKTIONER - - Pushmeddelanden när händelser inträff",  
+  "position": [  
+    925,  
+    1150  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "röstmenystyrning - Spänningsmatning PoE 13W eller 12 VDC | Artikelnummer | Beskrivning | |---------------|--------------------------------------------------------| | 12224 | Larmsändare gemino IoT - IP/4G | | 12226 | Antenn 4G med väggfäste anslutningar och 10m<br>kabel | #### PRODUKTÖVERSIKT ![](images/_page_3_Figure_1",  
+  "context": "av tal, SMS och Contact ID rapporter när någon av de programmerade händelserna inträffar - Fjärrstyrning av systemet gen**om röstmenystyrning - Spänningsmatning PoE 13W eller 12 VDC | Artikelnummer | Beskrivning | |---------------|--------------------------------------------------------| | 12224 | Larmsändare gemino IoT - IP/4G | | 12226 | Antenn 4G med väggfäste, anslutningar och 10m<br>kabel | #### PRODUKTÖVERSIKT ![](images/_page_3_Figure_1.**jpeg) #### Kretskort - 1. Anslutning för extern strömförsörjning - 2. Anslutning för extern sabotagebrytare - 3. LED-ind",  
+  "position": [  
+    1737,  
+    2056  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "12224",  
+    "12226"  
+  ],  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att skjuta locket uppåt",  
+  "context": "nstallationsplatsen för larmsändare gemino IoT för att säkerställa en god GSM-signaltäckning. - 1. Öppna plasthöljet gen**om att skjuta locket uppåt.** - 2. Ta bort kretskortet genom att skjuta det uppåt. - 3. Fäst bottendelen på plastkapslingen på väggen med skruvar ell",  
+  "position": [  
+    4192,  
+    4219  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att skjuta det uppåt",  
+  "context": "äkerställa en god GSM-signaltäckning. - 1. Öppna plasthöljet genom att skjuta locket uppåt. - 2. Ta bort kretskortet gen**om att skjuta det uppåt.** - 3. Fäst bottendelen på plastkapslingen på väggen med skruvar eller montera den i en DIN503 kapsling. - 4. Trä igenom",  
+  "position": [  
+    4248,  
+    4272  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PoE Ethernet kabeln genom öppningen i bottendelen (se produktöversiktbilden på sidan 4) Om Ethernet kabeln ej är PoE dra även igenom kabel för extern strömförsörjning",  
+  "context": "åt. - 3. Fäst bottendelen på plastkapslingen på väggen med skruvar eller montera den i en DIN503 kapsling. - 4. Trä igen**om PoE Ethernet kabeln genom öppningen i bottendelen (se produktöversiktbilden på sidan 4), Om Ethernet kabeln ej är PoE, dra även igenom kabel för extern strömförsörjning.** - 5. Sätt tillbaka kretskortet i kapslingen och skjut det nedåt. - 6. Anslut nätverkskabeln till RJ45 porten (se produk",  
+  "position": [  
+    4389,  
+    4561  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du inte använder PoE anslut i så fall kabeln från den externa strömförsörjningen till kortet",  
+  "context": "apslingen och skjut det nedåt. - 6. Anslut nätverkskabeln till RJ45 porten (se produktöversiktsbilden på sidan 4). - 7. **Om du inte använder PoE, anslut i så fall kabeln från den externa strömförsörjningen till kortet.** - 8. Sätt i SIM-kortet i \"SIM-kortshållaren\". - 9. Om en extern antenn skall användas så ska den anslutas till antennan",  
+  "position": [  
+    4716,  
+    4813  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en extern antenn skall användas så ska den anslutas till antennanslutningen på kortet",  
+  "context": "ut i så fall kabeln från den externa strömförsörjningen till kortet. - 8. Sätt i SIM-kortet i \"SIM-kortshållaren\". - 9. **Om en extern antenn skall användas så ska den anslutas till antennanslutningen på kortet.** - 10. Kontrollera följande efter driftsättning: - i) Grön indikerings-LED (RGB) för GSM nätverksanslutning: Fast LEDind",  
+  "position": [  
+    4865,  
+    4954  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "beskrivs i denna handbok och i enlighet med gällande lokala lagar och stadgar",  
+  "context": "_____________________________________ Installation av dessa system måste utföras strikt i enlighet med instruktionerna s**om beskrivs i denna handbok och i enlighet med gällande lokala lagar och stadgar.** Denna produkt har designats och tillverkats med de högsta standarderna för kvalitet och prestanda som antagits av Kseni",  
+  "position": [  
+    5712,  
+    5793  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "antagits av Ksenia Security",  
+  "context": "a lagar och stadgar. Denna produkt har designats och tillverkats med de högsta standarderna för kvalitet och prestanda s**om antagits av Ksenia Security.** Det rekommenderas att det installerade systemet testas helt minst en gång i månaden. Testförfaranden beror på systemkon",  
+  "position": [  
+    5893,  
+    5924  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "de procedurer som ska följas",  
+  "context": "allerade systemet testas helt minst en gång i månaden. Testförfaranden beror på systemkonfigurationen. Be installatören **om de procedurer som ska följas.** Ksenia Security srl ansvarar inte för skador som uppstår till följd av felaktig installation eller underhåll av obehöri",  
+  "position": [  
+    6075,  
+    6107  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppstår till följd av felaktig installation eller underhåll av obehörig personal",  
+  "context": "systemkonfigurationen. Be installatören om de procedurer som ska följas. Ksenia Security srl ansvarar inte för skador so**m uppstår till följd av felaktig installation eller underhåll av obehörig personal. **Innehållet i denna guide kan ändras utan föregående meddelande från KSENIA SECURITY. #### Information för användare: Av",  
+  "position": [  
+    6154,  
+    6238  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kräver korrekt behandling återvinning och återvinning av begagnad elektrisk och elektronisk utrustning",  
+  "context": "ning. Begagnad elektrisk och elektronisk utrustning måste behandlas separat i enlighet med den relativa lagstiftningen s**om kräver korrekt behandling, återvinning och återvinning av begagnad elektrisk och elektronisk utrustning.** Efter genomförandet av direktiv i medlemsländerna kan privata hushåll inom EU återlämna sin använda elektriska och elek",  
+  "position": [  
+    6582,  
+    6689  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "EU återlämna sin använda elektriska och elektroniska utrustning till utsedda insamlingsanläggningar *",  
+  "context": "begagnad elektrisk och elektronisk utrustning. Efter genomförandet av direktiv i medlemsländerna kan privata hushåll ino**m EU återlämna sin använda elektriska och elektroniska utrustning till utsedda insamlingsanläggningar *. **Lokala återförsäljare tar i vissa fall även emot begagnade produkter gratis om en liknande produkt köps från dem. Om an",  
+  "position": [  
+    6762,  
+    6867  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en liknande produkt köps från dem",  
+  "context": "ning till utsedda insamlingsanläggningar *. Lokala återförsäljare tar i vissa fall även emot begagnade produkter gratis **om en liknande produkt köps från dem.** Om använd elektrisk eller elektronisk utrustning har batterier eller ackumulatorer måste dessa kasseras separat enligt",  
+  "position": [  
+    6944,  
+    6981  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "använd elektrisk eller elektronisk utrustning har batterier eller ackumulatorer måste dessa kasseras separat enligt lokala bestämmelser",  
+  "context": "ar *. Lokala återförsäljare tar i vissa fall även emot begagnade produkter gratis om en liknande produkt köps från dem. **Om använd elektrisk eller elektronisk utrustning har batterier eller ackumulatorer måste dessa kasseras separat enligt lokala bestämmelser.** Korrekt bortskaffande av denna produkt garanterar att den genomgår nödvändig behandling, återvinning och återvinning. D",  
+  "position": [  
+    6982,  
+    7121  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan uppstå genom olämplig hantering av avfall",  
+  "context": "g behandling, återvinning och återvinning. Detta förhindrar eventuella negativa effekter på både miljön och folkhälsan s**om kan uppstå genom olämplig hantering av avfall.** * Kontakta din lokala myndighet för mer information. ÖVERENSSTÄMMELSE - EN50131-1 - EN50136-1 - Grade 3 / Miljöklass II",  
+  "position": [  
+    7317,  
+    7366  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "händelser inträffar - Sändning av signaler via det digitala protokollet SIA DC09 med övervakning av kanal och mottagare (dual-path) - Videoverifiering av IP-kameror anslutna till det lokala nätverket där lares 4",  
+  "context": "ta och kommunikation. • Programmering och hantering av lares 4.0 med gemino IoT ### HUVUDFUNKTIONER - - Pushmeddelanden **när händelser inträffar - Sändning av signaler via det digitala protokollet SIA DC09, med övervakning av kanal och mottagare (dual-path) - Videoverifiering av IP-kameror anslutna till det lokala nätverket där lares 4.**0 är ansluten till - Enkelt handhavande och snabb synkronisering av talmeddelanden (TTS Loquendo® di Nuance Communicatio",  
+  "position": [  
+    1249,  
+    1466  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "någon av de programmerade händelserna inträffar - Fjärrstyrning av systemet genom röstmenystyrning - Spänningsmatning PoE 13W eller 12 VDC | Artikelnummer | Beskrivning | |---------------|--------------------------------------------------------| | 12224 | Larmsändare gemino IoT - IP/4G | | 12226 | Antenn 4G med väggfäste anslutningar och 10m<br>kabel | #### PRODUKTÖVERSIKT ![](images/_page_3_Figure_1",  
+  "context": "talmeddelanden (TTS Loquendo® di Nuance Communication®) - Övervakning och sändning av tal, SMS och Contact ID rapporter **när någon av de programmerade händelserna inträffar - Fjärrstyrning av systemet genom röstmenystyrning - Spänningsmatning PoE 13W eller 12 VDC | Artikelnummer | Beskrivning | |---------------|--------------------------------------------------------| | 12224 | Larmsändare gemino IoT - IP/4G | | 12226 | Antenn 4G med väggfäste, anslutningar och 10m<br>kabel | #### PRODUKTÖVERSIKT ![](images/_page_3_Figure_1.**jpeg) #### Kretskort - 1. Anslutning för extern strömförsörjning - 2. Anslutning för extern sabotagebrytare - 3. LED-ind",  
+  "position": [  
+    1654,  
+    2056  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "12224",  
+    "12226"  
+  ],  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- 1",  
+  "context": "rån radiosändare. Välj noga installationsplatsen för larmsändare gemino IoT för att säkerställa en god GSM-signaltäcknin**g. - 1.** Öppna plasthöljet genom att skjuta locket uppåt. - 2. Ta bort kretskortet genom att skjuta det uppåt. - 3. Fäst bottend",  
+  "position": [  
+    4163,  
+    4170  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- 4",  
+  "context": "t skjuta det uppåt. - 3. Fäst bottendelen på plastkapslingen på väggen med skruvar eller montera den i en DIN503 kapslin**g. - 4.** Trä igenom PoE Ethernet kabeln genom öppningen i bottendelen (se produktöversiktbilden på sidan 4), Om Ethernet kabeln",  
+  "position": [  
+    4373,  
+    4380  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- 5",  
+  "context": "en (se produktöversiktbilden på sidan 4), Om Ethernet kabeln ej är PoE, dra även igenom kabel för extern strömförsörjnin**g. - 5.** Sätt tillbaka kretskortet i kapslingen och skjut det nedåt. - 6. Anslut nätverkskabeln till RJ45 porten (se produktöver",  
+  "position": [  
+    4559,  
+    4566  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- i) Grön indikerings-LED (RGB) för GSM nätverksanslutning Fast LEDindikering koppling till mobilt nätverk har upprättats",  
+  "context": "tenn skall användas så ska den anslutas till antennanslutningen på kortet. - 10. Kontrollera följande efter driftsättnin**g: - i) Grön indikerings-LED (RGB) för GSM nätverksanslutning: Fast LEDindikering, koppling till mobilt nätverk har upprättats.** Blinkande LEDindikering, letar fortfarande efter mobilt nätverk. - ii) Att LED-indikeringen på ethernetporten är tänd -",  
+  "position": [  
+    5000,  
+    5127  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Begagnad elektrisk och elektronisk utrustning måste behandlas separat i enlighet med den relativa lagstiftningen som kräver korrekt behandling återvinning och återvinning av begagnad elektrisk och elektronisk utrustning",  
+  "context": "användare: Avfallshantering (WEEE-RAEE-direktivet) Varning! Använd inte en vanlig soptunna för att kasta denna utrustnin**g. Begagnad elektrisk och elektronisk utrustning måste behandlas separat i enlighet med den relativa lagstiftningen som kräver korrekt behandling, återvinning och återvinning av begagnad elektrisk och elektronisk utrustning.** Efter genomförandet av direktiv i medlemsländerna kan privata hushåll inom EU återlämna sin använda elektriska och elek",  
+  "position": [  
+    6465,  
+    6689  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Detta förhindrar eventuella negativa effekter på både miljön och folkhälsan som kan uppstå genom olämplig hantering av avfall",  
+  "context": "ser. Korrekt bortskaffande av denna produkt garanterar att den genomgår nödvändig behandling, återvinning och återvinnin**g. Detta förhindrar eventuella negativa effekter på både miljön och folkhälsan som kan uppstå genom olämplig hantering av avfall.** * Kontakta din lokala myndighet för mer information. ÖVERENSSTÄMMELSE - EN50131-1 - EN50136-1 - Grade 3 / Miljöklass II",  
+  "position": [  
+    7237,  
+    7366  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | Installation | | | Programmering | | | LED-Indikering | | ### INTRODUKTION gemino IoT är en IP-larmsändare som ökar kommunikationskapaciteten för centralaparat lares 4",  
+  "context": "br>Huvudfunktioner | | |---------------------------------|--| | Produktöversikt | | | Tekniska data | | | Kommunikations**typ | | | Installation | | | Programmering | | | LED-Indikering | | ### INTRODUKTION gemino IoT är en IP-larmsändare som ökar kommunikationskapaciteten för centralaparat lares 4.**0 till två larmöverföringskanaler: Ethernet/IP och 4G datanätverk (med mottagning även på 2G/GPRS banden). gemino IoT gö",  
+  "position": [  
+    313,  
+    491  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "för extern antenn | SMA | | Mått på kretskort (BxHxD) | 113x92x20 mm | | Mått totalt (BxHxD) | 102x140x30 mm | | Vikt | 190 gram | | KOMMUNIKATIONSTYP | | | kommunikationstyper<br>• Förinspelade röstmeddelanden<br>•<br>SMS<br>• Contact ID med SIA-DC03 protokoll<br>• GPRS SIA-DC09 protokoll med kryptering | Enheten kan programmeras för att skicka meddelanden med följande | #### KOMMUNIKATIONSTYP - Förinspelade röstmeddelanden - - Contact ID med SIA-DC03 protokoll - GPRS SIA-DC09 protokoll med kryptering #### INSTALLATION #### VIKTIGT! Larmsändare gemino IoT skall endast installeras av KVALIFICERAD PERSONAL inomhus på en säker torr plats borta från radiosändare",  
+  "context": "| Larmöverföringssystem | SP2 - SP4 - DP3 | | Temperaturområde | -10 till +55°C | | Luftfuktighet | 95% | | Anslutningst**yp för extern antenn | SMA | | Mått på kretskort (BxHxD) | 113x92x20 mm | | Mått totalt (BxHxD) | 102x140x30 mm | | Vikt | 190 gram | | KOMMUNIKATIONSTYP | | | kommunikationstyper:<br>• Förinspelade röstmeddelanden<br>•<br>SMS<br>• Contact ID med SIA-DC03 protokoll<br>• GPRS SIA-DC09 protokoll med kryptering | Enheten kan programmeras för att skicka meddelanden med följande | #### KOMMUNIKATIONSTYP - Förinspelade röstmeddelanden - - Contact ID med SIA-DC03 protokoll - GPRS SIA-DC09 protokoll med kryptering #### INSTALLATION #### VIKTIGT! Larmsändare gemino IoT skall endast installeras av KVALIFICERAD PERSONAL, inomhus på en säker, torr plats, borta från radiosändare. **Välj noga installationsplatsen för larmsändare gemino IoT för att säkerställa en god GSM-signaltäckning. - 1. Öppna pla",  
+  "position": [  
+    3384,  
+    4060  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153157"  
+}
+

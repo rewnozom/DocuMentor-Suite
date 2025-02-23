@@ -1,0 +1,57 @@
+{  
+  "product_id": "50152069",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri skyddas av säkringar. Dvärgbrytare finns för att bryta inspänning och utspänning.",  
+  "key_specifications": [  
+    {  
+      "category": "MISCELLANEOUS",  
+      "name": "ce",  
+      "value": "För att byta UPS enhet så bryt spänningen till UPS-en med att antingen slå ifrån säkringen i centralen eller i UPS aggregatet",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "avbrottsfri kraft",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ger en slutning vid nätavbrott",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "separat tillbehör finns en larmkort med potentialfria växlande kontakter eller via nätverk för överföring av larm för nätavbrott och låg batterispänning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "tex datorer larm portstyrningar och trygghetssystem som behöver avbrottsfri kraft",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Larmrelä som ger en slutning vid nätavbrott",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "#### **BESKRIVNING** UPS för väggmontage lämplig drift av alla typer av utrustningar som tex datorer larm portstyrningar och trygghetssystem som behöver avbrottsfri kraft",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

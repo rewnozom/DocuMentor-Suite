@@ -1,0 +1,118 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "Artikelnummer 28160158 E-nummer 5257459 ![](images/_page_0_Picture_3",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-25 FLX LARGE C**OM Artikelnummer: 28160158, E-nummer: 5257459 ![](images/_page_0_Picture_3.**jpeg) Batteribackup BT-25 FLX LARGE COM ur FLX-serien används främst i säkerhetssystem där en SSF 1014-certifierad batte",  
+  "position": [  
+    48,  
+    116  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "28160158",  
+    "5257459",  
+    "5257459",  
+    "28160158"  
+  ],  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ur FLX-serien används främst i säkerhetssystem där en SSF 1014-certifierad batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+  "context": "-25 FLX LARGE COM Artikelnummer: 28160158, E-nummer: 5257459 ![](images/_page_0_Picture_3.jpeg) Batteribackup BT-25 FLX LARGE C**OM ur FLX-serien används främst i säkerhetssystem där en SSF 1014-certifierad batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar.** Systemet är bland många andra funktioner utrustat med larm vid nätavbrott, låg batterispänning, frånkopplat batteri, ce",  
+  "position": [  
+    153,  
+    327  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att läsa tillverkarens dokumentation före inkoppling!* Du hittar den t",  
+  "context": "ådor inkl. batterier 5,9A med 3 batterilådor inkl. batterier 7,5A med 4 batterilådor inkl. batterier *Undvik problem gen**om att läsa tillverkarens dokumentation före inkoppling!* Du hittar den t.**ex. på vår hemsida under **Mediearkivet** > **Manualer** > **Aktuella manualer** > **Produkter** > **Strömförsörjning**",  
+  "position": [  
+    1453,  
+    1527  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+  "context": "T-25 FLX LARGE COM ur FLX-serien används främst i säkerhetssystem där en SSF 1014-certifierad batteribackup krävs eller **när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar.** Systemet är bland många andra funktioner utrustat med larm vid nätavbrott, låg batterispänning, frånkopplat batteri, ce",  
+  "position": [  
+    257,  
+    327  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| IP32 | | Temperaturområde | 5 - 40 °C (optimalt 5 - 20 °C) | | Montering | Vägg eller 19\" stativ | | Mått (BxHxD) | 444x436x210mm | | Vikt | 15 | | Antal kabelgenomföringar | 4 st | | Inbygd fläkt | Ja | | Matningsspänning | 110V - 220VAC / 47-63Hz | | Max",  
+  "context": "--|-----------------------------------------------| | Utförande: | Svart | | Miljöklass: | Klass 1 | | Kapslingsklassnin**g: | IP32 | | Temperaturområde: | 5 - 40 °C (optimalt 5 - 20 °C) | | Montering: | Vägg eller 19\" stativ | | Mått (BxHxD): | 444x436x210mm | | Vikt: | 15 | | Antal kabelgenomföringar: | 4 st | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V - 220VAC / 47-63Hz | | Max.** utgångsström: | 25A | | Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Utgångssp",  
+  "position": [  
+    1872,  
+    2141  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Utgångsspänning | 273VDC | | Batterikombination | 2 st",  
+  "context": "fläkt: | Ja | | Matningsspänning: | 110V - 220VAC / 47-63Hz | | Max. utgångsström: | 25A | | Typ av försörjningsspänning**: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Utgångsspänning: | 27,3VDC | | Batterikombination: | 2 st. **45Ah-batterier | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | UPLUS 45Ah-batterier med design life på",  
+  "position": [  
+    2192,  
+    2310  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Utgångsspänning | 273VDC | | Batterikombination | 2 st",  
+  "context": "öringar: | 4 st | | Inbygd fläkt: | Ja | | Matningsspänning: | 110V - 220VAC / 47-63Hz | | Max. utgångsström: | 25A | | **Typ av försörjningsspänning: | DC | | Första utgångsspänning (min-max): | 21-27,3 | | Utgångsspänning: | 27,3VDC | | Batterikombination: | 2 st.** 45Ah-batterier | | Batterityp: | 12V AGM-batteri | | Testad och godkänd med: | UPLUS 45Ah-batterier med design life på",  
+  "position": [  
+    2166,  
+    2310  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V AGM-batteri | | Testad och godkänd med | UPLUS 45Ah-batterier med design life på 10 år | | SBSC Certifierad | SSF 1014 Larmklass 4 | | Benämning producent (SBSC) | NOVA 27 250-FLX_PRO1 |",  
+  "context": "sspänning (min-max): | 21-27,3 | | Utgångsspänning: | 27,3VDC | | Batterikombination: | 2 st. 45Ah-batterier | | Batteri**typ: | 12V AGM-batteri | | Testad och godkänd med: | UPLUS 45Ah-batterier med design life på 10 år | | SBSC Certifierad: | SSF 1014 Larmklass 4 | | Benämning producent (SBSC): | NOVA 27 250-FLX_PRO1 |**",  
+  "position": [  
+    2337,  
+    2537  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-2520FLX20LARGE20COM"  
+}
+

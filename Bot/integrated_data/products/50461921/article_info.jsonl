@@ -1,0 +1,14 @@
+{  
+  "identifier": "Aluminium",  
+  "original": "Aluminium",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ![](images/_page_0_Picture_1.jpeg) ## **Armbågskontakt Svar**t Aluminium**** AK-11 Tillverkad av aluminium, svart med grå botten. Kontakten är vandalsäker och avsedd att pl",  
+  "source": "regex",  
+  "product_id": "50461921"  
+}
+

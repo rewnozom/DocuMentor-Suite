@@ -1,0 +1,71 @@
+{  
+  "product_id": "50152729",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-10 FLX LARGE COM\n\nArtikelnummer: 28160154, E-nummer: 6310039\n\n![](images/_page_0_Picture_3.jpeg)\n\nBatteribox BT-10 FLX L COM ur BT-COM-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar. Denna batteribackup är godkänd enligt SSF1014 larmklass 4. Systemet är bland många andra funktioner utrustat med larm vid nätavbrott, låg batterispänning, frånkopplat batteri, cellkortslutning, åldrat batteri, utlöst lastsäkring, över/underspänning, låg systemspänning, sabotage.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| 12V AGM-batteri                                    |\n| Testad och godkänd med: | UPLUS 10+ Design Life 45Ah batteries (up to 10x 45 |\n| SBSC Certifierad: | SSF 1014 larmklass 4                               |\n| Benämning producent (SBSC): | NOVA 27 100-FLX_PRO1                               |",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "Utgångar",  
+      "value": "| 5 st                                               |\n| Miljöklass: | Klass 1                                            |\n| Kapslingsklassning: | IP32                                               |\n| Temperaturområde: | 5 - 40 °C (Optimalt 15 - 2°C)                      |\n| Montering: | Vägg eller hylla                                   |\n| Mått (BxHxD): | 444x436x210 mm                                     |\n| Vikt: | 13 kg                                              |\n| Antal kabelgenomföringar: | 4 st                                               |\n| Inbygd fläkt: | Ja                                                 |\n| Matningsspänning: | 10V-264VAC/47-63Hz                                 |\n| Max",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "Artikelnummer 28160154 E-nummer 6310039 ![](images/_page_0_Picture_3",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "28160154",  
+        "6310039",  
+        "6310039",  
+        "28160154"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ur BT-COM-serien som används främst i säkerhetssystem där en SSF 1014 godkänd batteribackup krävs eller när kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kunden vill ha de bästa funktionerna i sina säkerhetsanläggningar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| IP32 | | Temperaturområde | 5 - 40 °C (Optimalt 15 - 2°C) | | Montering | Vägg eller hylla | | Mått (BxHxD) | 444x436x210 mm | | Vikt | 13 kg | | Antal kabelgenomföringar | 4 st | | Inbygd fläkt | Ja | | Matningsspänning | 10V-264VAC/47-63Hz | | Max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 45Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | UPLUS 10+ Design Life 45Ah batteries (up to 10x 45 | | SBSC Certifierad | SSF 1014 larmklass 4 | | Benämning producent (SBSC) | NOVA 27 100-FLX_PRO1 |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "av försörjningsspänning | DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 45Ah | | Batterityp | 12V AGM-batteri | | Testad och godkänd med | UPLUS 10+ Design Life 45Ah batteries (up to 10x 45 | | SBSC Certifierad | SSF 1014 larmklass 4 | | Benämning producent (SBSC) | NOVA 27 100-FLX_PRO1 |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "6310039"  
+    ],  
+    "EAN-8": [  
+      "28160154"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

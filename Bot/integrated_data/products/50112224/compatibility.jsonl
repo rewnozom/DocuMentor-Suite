@@ -1,0 +1,210 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "www",  
+  "context": "T60 standard<br>mottagare | ## **TELE RADIO AB** Sweden, Main office Tel. +46 (0)31-748 54 60 e-mail: info@tele-radio.co**m www.t**ele-radio.com ## **TELE RADIO SVERIGE** Sweden Tel. +46 (0)31-724 98 00 e-mail: sverige@tele-radio.com > **TELE RADIO L",  
+  "position": [  
+    881,  
+    888  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "## **TELE RADIO SVERIGE** Sweden Tel",  
+  "context": "ttagare | ## **TELE RADIO AB** Sweden, Main office Tel. +46 (0)31-748 54 60 e-mail: info@tele-radio.com www.tele-radio.c**om ## **TELE RADIO SVERIGE** Sweden Tel.** +46 (0)31-724 98 00 e-mail: sverige@tele-radio.com > **TELE RADIO LTD** England Tel. +44 (0) 1625 509125 e-mail: englan",  
+  "position": [  
+    900,  
+    940  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "> **TELE RADIO LTD** England Tel",  
+  "context": "tele-radio.com www.tele-radio.com ## **TELE RADIO SVERIGE** Sweden Tel. +46 (0)31-724 98 00 e-mail: sverige@tele-radio.c**om > **TELE RADIO LTD** England Tel.** +44 (0) 1625 509125 e-mail: england@tele-radio.com ## **TELE RADIO GmbH** Germany Tel. +49 (0)94 51-944 8 550 e-mail: d",  
+  "position": [  
+    989,  
+    1025  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "## **TELE RADIO GmbH** Germany Tel",  
+  "context": "98 00 e-mail: sverige@tele-radio.com > **TELE RADIO LTD** England Tel. +44 (0) 1625 509125 e-mail: england@tele-radio.co**m ## **TELE RADIO GmbH** Germany Tel. **+49 (0)94 51-944 8 550 e-mail: deutschland@tele-radio.com > **TELE RADIO LLC** North America & Latin America Tel. +1 (3",  
+  "position": [  
+    1074,  
+    1112  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "> **TELE RADIO LLC** North America & Latin America Tel",  
+  "context": "mail: england@tele-radio.com ## **TELE RADIO GmbH** Germany Tel. +49 (0)94 51-944 8 550 e-mail: deutschland@tele-radio.c**om > **TELE RADIO LLC** North America & Latin America Tel.** +1 (305) 459 0763 e-mail: america@tele-radio.com **TELE RADIO ASIA** China Tel. +86-(0)592-3111168 e-mail: china@tele-r",  
+  "position": [  
+    1168,  
+    1226  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "**TELE RADIO ASIA** China Tel",  
+  "context": "nd@tele-radio.com > **TELE RADIO LLC** North America & Latin America Tel. +1 (305) 459 0763 e-mail: america@tele-radio.c**om **TELE RADIO ASIA** China Tel.** +86-(0)592-3111168 e-mail: china@tele-radio.com **TELE RADIO BV** Benelux Tel. +31-(0)70-419 41 20 e-mail: benelux@tele",  
+  "position": [  
+    1273,  
+    1306  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "**TELE RADIO BV** Benelux Tel",  
+  "context": "05) 459 0763 e-mail: america@tele-radio.com **TELE RADIO ASIA** China Tel. +86-(0)592-3111168 e-mail: china@tele-radio.c**om **TELE RADIO BV** Benelux Tel.** +31-(0)70-419 41 20 e-mail: benelux@tele-radio.com **TELE RADIO TURKEY** Turkey Tel. +90 216 574 22 94 e-mail: turkiye@",  
+  "position": [  
+    1352,  
+    1385  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "**TELE RADIO TURKEY** Turkey Tel",  
+  "context": "592-3111168 e-mail: china@tele-radio.com **TELE RADIO BV** Benelux Tel. +31-(0)70-419 41 20 e-mail: benelux@tele-radio.c**om **TELE RADIO TURKEY** Turkey Tel.** +90 216 574 22 94 e-mail: turkiye@tele-radio.com **TELE RADIO AS** Norway Tel. +47-6933 4900 e-mail: norge@tele-radio.c",  
+  "position": [  
+    1434,  
+    1470  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "**TELE RADIO AS** Norway Tel",  
+  "context": "19 41 20 e-mail: benelux@tele-radio.com **TELE RADIO TURKEY** Turkey Tel. +90 216 574 22 94 e-mail: turkiye@tele-radio.c**om **TELE RADIO AS** Norway Tel.** +47-6933 4900 e-mail: norge@tele-radio.com DS-T20-001-A1",  
+  "position": [  
+    1517,  
+    1549  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "DS-T20-001-A1",  
+  "context": "+90 216 574 22 94 e-mail: turkiye@tele-radio.com **TELE RADIO AS** Norway Tel. +47-6933 4900 e-mail: norge@tele-radio.com DS-T20-001-A1",  
+  "position": [  
+    1590,  
+    1606  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Digital pulskod | | Kod kombinationer | Fast individuell kod",  
+  "context": "---------| | Applikationsområden: | Dörrar, portar och grindar | | Frekvens: | 433,92 MHz | | Mod. Typ: | FSK | | Kodnin**g: | Digital pulskod | | Kod kombinationer: | Fast individuell kod;** 16.777.216 | | Funktioner: | 1 | | Uteffekt: | Ca. 7 mW | | Antenn: | Inbyggd | | Drivspänning: | 4 st utbytbara 1,5V b",  
+  "position": [  
+    319,  
+    386  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 4 st utbytbara 15V batterier typ AAA | | Strömförbrukning | Ca",  
+  "context": "r: | Fast individuell kod; 16.777.216 | | Funktioner: | 1 | | Uteffekt: | Ca. 7 mW | | Antenn: | Inbyggd | | Drivspännin**g: | 4 st utbytbara 1,5V batterier typ: AAA | | Strömförbrukning: | Ca.** 15 mA | | Temperatur: | -20° C till +55° C | | Vikt: | Ca. 130 g inkl. batteri | | Mått: | 180 x 50 x 21 mm | | Kapslin",  
+  "position": [  
+    480,  
+    551  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| IP 42 | | Rekommenderade mottagare | T20 standard- DIN- och plugg-in mottagare samt T60 standard<br>mottagare | ## **TELE RADIO AB** Sweden Main office Tel",  
+  "context": "15 mA | | Temperatur: | -20° C till +55° C | | Vikt: | Ca. 130 g inkl. batteri | | Mått: | 180 x 50 x 21 mm | | Kapsling**: | IP 42 | | Rekommenderade mottagare: | T20 standard-, DIN- och plugg-in mottagare samt T60 standard<br>mottagare | ## **TELE RADIO AB** Sweden, Main office Tel. **+46 (0)31-748 54 60 e-mail: info@tele-radio.com www.tele-radio.com ## **TELE RADIO SVERIGE** Sweden Tel. +46 (0)31-724",  
+  "position": [  
+    671,  
+    835  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| FSK | | Kodning | Digital pulskod | | Kod kombinationer | Fast individuell kod",  
+  "context": "------------------------------| | Applikationsområden: | Dörrar, portar och grindar | | Frekvens: | 433,92 MHz | | Mod. **Typ: | FSK | | Kodning: | Digital pulskod | | Kod kombinationer: | Fast individuell kod;** 16.777.216 | | Funktioner: | 1 | | Uteffekt: | Ca. 7 mW | | Antenn: | Inbyggd | | Drivspänning: | 4 st utbytbara 1,5V b",  
+  "position": [  
+    298,  
+    386  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "AAA | | Strömförbrukning | Ca",  
+  "context": "16 | | Funktioner: | 1 | | Uteffekt: | Ca. 7 mW | | Antenn: | Inbyggd | | Drivspänning: | 4 st utbytbara 1,5V batterier **typ: AAA | | Strömförbrukning: | Ca.** 15 mA | | Temperatur: | -20° C till +55° C | | Vikt: | Ca. 130 g inkl. batteri | | Mått: | 180 x 50 x 21 mm | | Kapslin",  
+  "position": [  
+    515,  
+    551  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50112224"  
+}
+

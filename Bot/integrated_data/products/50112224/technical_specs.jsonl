@@ -1,0 +1,22 @@
+{  
+  "name": "Mått",  
+  "raw_value": "| 180 x 50 x 21 mm                                                          |\n| Kapsling: | IP 42                                                                     |\n| Rekommenderade mottagare: | T20 standard-, DIN- och plugg-in mottagare samt T60 standard<br>mottagare |\n\n## **TELE RADIO AB**\n\nSweden, Main office Tel",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "| 180 x 50 x 21 mm                                                          |\n| Kapsling: | IP 42                                                                     |\n| Rekommenderade mottagare: | T20 standard-, DIN- och plugg-in mottagare samt T60 standard<br>mottagare |\n\n## **TELE RADIO AB**\n\nSweden, Main office Tel",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "5° C | | Vikt: | Ca. 130 g inkl. batteri | | Mått: | 180 x 50 x 21 mm | | Kapsling: | IP 42 | | Rekommenderade mottagare: | T20 standard-, DIN- och plugg-in mottagare samt T60 standard<br>mottagare | ...",  
+  "pattern": "(?i)mått\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 2,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50112224"  
+}
+

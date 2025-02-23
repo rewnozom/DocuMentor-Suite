@@ -1,0 +1,24 @@
+{  
+  "product_id": "50108132",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n# PSV 2465-40\n\n## Strömförsörjning, VIP, 24 V 6,5 A\n\n![](images/_page_0_Picture_4.jpeg)\n\n#### **Produktdetajler:**\n\n| EN50131-6:2008 + A1:2014 Grade<br>3, EN 6100-6:2007 EN<br>61000-6-3:2007+A1, EN<br>60950-1:2006 + A11 +A12+A2,<br>SBSC 16-16 Klass 2/3 |\n|----------------------------------------------------------------------------------------------------------------------------------------|\n| 230 VAC                                                                                                                                |\n| 26,7 VDC                                                                                                                               |\n| 6,5 A                                                                                                                                  |\n| två 12 V/40 Ah                                                                                                                         |\n| Öppnings- och avstängningsbrytare                                                                                                      |\n| Metall                                                                                                                                 |\n| Vit                                                                                                                                    |\n| 440 x 425 x 200                                                                                                                        |\n|                                                                                                                                        |\n\n![](images/_page_0_Picture_7.jpeg)\n\nStrömförsörjningsaggregat med ViP (Voltage in Parallel) funktion, 24 VDC 6,5 A. Strömförsörjningsaggregat med ViP funktion kan parallellkopplas för att ge mer ström, redundans samt kompensera för spänningsfall i kablaget. Plats för två 12 V 40 Ah ackumulatorer samt säkringskort PSV 24FC-6.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "| E-nr | Beskrivning | | | | | PSV 2465-40 | 5240042 | Strömförsörjning VIP 24 V 65 A | | | | ### **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5240042"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Indikering för nätbortfall lågutspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

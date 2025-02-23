@@ -1,0 +1,56 @@
+{  
+  "identifier": "6310034",  
+  "original": "6310034",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-TAMPER FLX M/L Artikelnummer: 28160172, E-**nummer: 6310034 !**[](_page_0_Picture_3.jpeg) Behövs endast i Larmklass 3 objekt.",  
+  "source": "regex",  
+  "product_id": "50152723"  
+}
+
+{  
+  "identifier": "28160172",  
+  "original": "28160172",  
+  "type": "EAN-8",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 5, faktisk: 2)",  
+  "group": "article",  
+  "pattern_index": 16,  
+  "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-TAMPER FLX M/L Ar**tikelnummer: 28160172, **E-nummer: 6310034 ![](images/_page_0_Picture_3.jpeg) Behövs endast i Larmklass 3 objekt.",  
+  "source": "regex",  
+  "product_id": "50152723"  
+}
+
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-TAMPER FLX M/L Ar**tikelnummer: **28160172, E-nummer: 6310034 ![](images/_page_0_Picture_3.jpeg) Behövs endast i Larmklass 3 objekt.",  
+  "source": "regex",  
+  "product_id": "50152723"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "![](images/_page_0_Picture_0.jpeg) ## BT-TAMPER FLX M/L Ar**tikelnummer: **28160172, E-nummer: 6310034 ![](images/_page_0_Picture_3.jpeg) Behövs endast i Larmklass 3 objekt.",  
+  "source": "regex",  
+  "product_id": "50152723"  
+}
+

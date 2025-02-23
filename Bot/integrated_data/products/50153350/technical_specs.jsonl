@@ -1,0 +1,44 @@
+{  
+  "name": "Size",  
+  "raw_value": "57 x125 mm\n\n![](images/_page_0_Figure_1",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "57 x125 mm\n\n![](images/_page_0_Figure_1",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "# Folded **Size : 57 x125 mm ![](images/_page_0_Figure_1.**jpeg) - Remove discharged battery Insert fully charged battery taking and replace tail cap (A) securely - Charging battery: - computer, Dower Dank",  
+  "pattern": "(?i)size\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 5,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153350"  
+}
+
+{  
+  "name": "Size",  
+  "raw_value": "57 x125 mm\n\n![](images/_page_0_Figure_67",  
+  "category": "DIMENSIONS",  
+  "unit": "x",  
+  "value": {  
+    "raw_value": "57 x125 mm\n\n![](images/_page_0_Figure_67",  
+    "unit": "x",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ora wykoz latakę, następnie odkręć ząkrętkę (A) i zainstalu ny pokumii bięgumuitu akumującom (polinki walinku walingu minimali okładnie (PL Folded Siz**e : 57 x125 mm ![](images/_page_0_Figure_67.jpe**g) - u...",  
+  "pattern": "(?i)size\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 5,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153350"  
+}
+

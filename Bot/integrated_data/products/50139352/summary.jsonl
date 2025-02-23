@@ -1,0 +1,58 @@
+{  
+  "product_id": "50139352",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## STX2410-E\n\nProduktblad\n\nEN 54-4 godkänd, 24 V 10 A + 0,7 A Intelligent strömförsörjning\n\n#### Allmänt\n\nSTX2410-E är ett fullt utrustad och EN54-4 godkänd strömförsörjning, idealisk för användning i brandlarmsinstallationer. Den har intelligent batteriladdning, övervakning och signalering. Den reglerade spänningsutgången ger 27,6 VDC, klarar en last på 10 A, ger samtidigt upp till 0,7 A för att ladda reservkraftsbatterierna och är försedd med ett elektronisktkortslutningsskydd.",  
+  "key_specifications": [  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "Fel & Nätfel\n- ETemperaturkompenserad laddning\n- ENätspänning 110 - 240 VAC\n- EEcoCharge teknologi som reducerar strömförbrukningen\n- EBatteriövervakning detekterar saknat batteri, lågbatterispänning, kortslutning, polaritetsvändning och impedansfel\n- EElektroniskt kortslutningsskydd kopplar ner utgången tills dess att överlasten eller kortslutningen försvinner\n\n# STX2410-E\n\nEN 54-4 godkänd, 24 V 10 A + 0,7 A Intelligent strömförsörjning\n\n### Tekniska data\n\n| Elektriskt                                     |                                                                                                      |\n|------------------------------------------------|------------------------------------------------------------------------------------------------------|\n| Märkspänning                                   | 110 till 240 VAC                                                                                     |\n| Strömförbrukning                               | 4 A max vid full belastning                                                                          |\n| Utgång                                         |                                                                                                      |\n| Spänning                                       | 27,6 VDC                                                                                             |\n| Utgångsström                                   | 10 A                                                                                                 |\n| Rippel                                         | 100 mV max                                                                                           |\n| Konstant strömladdning                         | 0,7 A                                                                                                |\n| Standby batteri                                |                                                                                                      |\n| Kapacitet i kapsling/extern<br>batteribox      | 2 x 17 Ah / 2 x 65 Ah                                                                                |\n| L                                              | Konstant snabbladdning till 80 % kapacitet inom<br>24 timmar",  
+      "unit": "VAC"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "recommended",  
+      "related_product": "användning i brandlarmsinstallationer",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "en aktiv batteriövervakning och laddning i tre laddningsnivåer snabb absorb eller temperaturkompenserad beroende på batteriernas tillstånd",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "finns ett RS232 seriellt gränssnitt som kan tillhandahålla information om diagnostik och felrapportering till ett övervakningssystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "reducerar strömförbrukningen - EBatteriövervakning detekterar saknat batteri lågbatterispänning kortslutning polaritetsvändning och impedansfel - EElektroniskt kortslutningsskydd kopplar ner utgången tills dess att överlasten eller kortslutningen försvinner # STX2410-E EN 54-4 godkänd 24 V 10 A + 07 A Intelligent strömförsörjning ### Tekniska data | Elektriskt | | |------------------------------------------------|------------------------------------------------------------------------------------------------------| | Märkspänning | 110 till 240 VAC | | Strömförbrukning | 4 A max vid full belastning | | Utgång | | | Spänning | 276 VDC | | Utgångsström | 10 A | | Rippel | 100 mV max | | Konstant strömladdning | 07 A | | Standby batteri | | | Kapacitet i kapsling/extern<br>batteribox | 2 x 17 Ah / 2 x 65 Ah | | L | Konstant snabbladdning till 80 % kapacitet inom<br>24 timmar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Dessutom finns ett RS232 seriellt gränssnitt som kan tillhandahålla information om diagnostik och felrapportering till ett övervakningssystem",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Den reglerade spänningsutgången ger 276 VDC klarar en last på 10 A ger samtidigt upp till 07 A för att ladda reservkraftsbatterierna och är försedd med ett elektronisktkortslutningsskydd",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "EcoCharge-tekniken minskar slöseri av energi vid laddning av redan fulladdade batterier och förlänger batteriernas livslängd",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

@@ -1,0 +1,14 @@
+{  
+  "relation_type": "version",  
+  "related_product": "** 031 68 97 10 **fax** 031 68 97 99 aptus@aptus",  
+  "context": "NERGI LARM PASSAGE** ## **www.aptus.se** . Ekonomivägen 3-5, 436 33 Askim . telefon **växel:** 031 68 97 00 **försäljnin**g:** 031 68 97 10 **fax:** 031 68 97 99 aptus@aptus.**se www.aptus.se",  
+  "position": [  
+    1658,  
+    1710  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50092829"  
+}
+

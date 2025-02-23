@@ -1,0 +1,69 @@
+{  
+  "product_id": "50461921",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n![](images/_page_0_Picture_1.jpeg)\n\n## **Armbågskontakt Svart Aluminium**\n\nAK-11\n\nTillverkad av aluminium, svart med grå botten. Kontakten är vandalsäker och avsedd att placeras utomhus då den har fuktsäkra dubbla mikrobrytare. Som tillbehör finns komplett sats med mikrobrytare och montagedetaljer.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "Material",  
+      "value": "| Aluminium      |\n| Maxström (VAC): | 10A / 250VDC   |\n| Kontakter: | 2x NO          |\n| Laddström: | 0              |\n| Strömförbrukning (mA): | 0              |\n| Färg: | Svart / silver |",  
+      "unit": "A"  
+    },  
+    {  
+      "category": "COLOR",  
+      "name": "Färg",  
+      "value": "| Svart / silver |",  
+      "unit": null  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "Kontakter",  
+      "value": "| 2x NO          |\n| Laddström: | 0              |\n| Strömförbrukning (mA): | 0              |\n| Färg: | Svart / silver |",  
+      "unit": "x"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "skyddshuven direkt på underlag",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "AK finns även dekaler för kontrastmarkering i vitt eller svart och dekal med text dörröppning ## **Specifikationer** | Djup (mm) | 28 | |------------------------|----------------| | Bredd (mm) | 80 | | Höjd (mm) | 245 | | Vikt (kg) | 0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "accessory",  
+      "related_product": "AK finns även dekaler för kontrastmarkering i vitt eller svart och dekal med text dörröppning ## **Specifikationer** | Djup (mm) | 28 | |------------------------|----------------| | Bredd (mm) | 80 | | Höjd (mm) | 245 | | Vikt (kg) | 0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "tillbehör finns komplett sats med mikrobrytare och montagedetaljer",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "tillbehör till AK finns även dekaler för kontrastmarkering i vitt eller svart och dekal med text dörröppning ## **Specifikationer** | Djup (mm) | 28 | |------------------------|----------------| | Bredd (mm) | 80 | | Höjd (mm) | 245 | | Vikt (kg) | 0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Som tillbehör till AK finns även dekaler för kontrastmarkering i vitt eller svart och dekal med text dörröppning ## **Specifikationer** | Djup (mm) | 28 | |------------------------|----------------| | Bredd (mm) | 80 | | Höjd (mm) | 245 | | Vikt (kg) | 0",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Svart / silver |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "Aluminium"  
+    ]  
+  }  
+}
+

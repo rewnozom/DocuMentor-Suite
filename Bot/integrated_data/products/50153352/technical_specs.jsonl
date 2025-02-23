@@ -1,0 +1,44 @@
+{  
+  "name": "Storlek",  
+  "raw_value": "M\n- Räckvidd: 110 m\n- Styrka fram: 350 lumen\n- Styrka sidoljus: 550 lumen\n- Batteritid 20 h\n- • Ljuslägen: Hög, låg, COB sidljus\n- Striltät (IPX4)\n\n#### **ARTICLE INFORMATION:**\n\nArt",  
+  "category": "DIMENSIONS",  
+  "unit": "m",  
+  "value": {  
+    "raw_value": "M\n- Räckvidd: 110 m\n- Styrka fram: 350 lumen\n- Styrka sidoljus: 550 lumen\n- Batteritid 20 h\n- • Ljuslägen: Hög, låg, COB sidljus\n- Striltät (IPX4)\n\n#### **ARTICLE INFORMATION:**\n\nArt",  
+    "unit": "m",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "k arbetsficklampa med två ljuskällor: kortändan och långsidan. Variabelt ficklampsljus. Läsoch arbetsljus på långsidan. Magnetfäste på kortändan. - St**orlek: M - Räckvidd: 110 m - Styrka fram: 350 lu...",  
+  "pattern": "(?i)storlek\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 4,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153352"  
+}
+
+{  
+  "name": "Räckvidd",  
+  "raw_value": "110",  
+  "category": "NETWORK",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "110",  
+    "unit": null,  
+    "normalized_value": 110.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ampa med två ljuskällor: kortändan och långsidan. Variabelt ficklampsljus. Läsoch arbetsljus på långsidan. Magnetfäste på kortändan. - Storlek: M - Rä**ckvidd: 110 m -** Styrka fram: 350 lumen - Styrk...",  
+  "pattern": "(?i)(?:räckvidd|range)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:m)",  
+  "pattern_index": 136,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50153352"  
+}
+

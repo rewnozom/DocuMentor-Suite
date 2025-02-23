@@ -1,0 +1,54 @@
+{  
+  "product_id": "50155012",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Series are suitable for protection systems. They can be used for intrusion, fire and access control systems to guarantee their continuous operation in case of a power failure. 1).",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "to be considered when calculating the required capacity of a power supply system",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "to be provided",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "protection systems",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "Data and design subject to change without notice",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "change without notice",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "availability",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| F1 | | Approvals | VdS – G 103145 | #### **Ordering Data** | Type | Art",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "103145"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "at 0°C the capacity drops to 85% of its nominal value (see Fig",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

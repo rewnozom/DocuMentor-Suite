@@ -1,0 +1,1764 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "fast installation",  
+  "context": "---|-----------|--------------| | PoE M-switch 4p FLX M+ | 7,8 kg | 8,55 kg | ### 14.1.15. Installationskrav Enheten är **avsedd för fast installation.** Enheten skall installeras inomhus, miljöklass 1, omgivningstemperatur: +5°C – 40°C. Rekommenderad omgivningstemperatur",  
+  "position": [  
+    38262,  
+    38291  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "mer än 13 W",  
+  "context": "PoE | PoE, PoE+ | a.Strömmatningen följer med \"uppåt\", men inte \"ned\". En PoE kan aldrig driva en PoE+/PoE++ enhet som k**räver mer än 13 W. **#### 14.1.23. Om dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel. Uppdateras utan föregåen",  
+  "position": [  
+    40607,  
+    40626  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "to ask your network administrator<br>for the appropriate IP settings",  
+  "context": "| | | | | | You can get IP settings assigned automatically if your network supports<br>this capability. Otherwise, you n**eed to ask your network administrator<br>for the appropriate IP settings. **| | | | | | | Obtain an IP address automatically | | | | | | | · Use the following IP address: | | | | | | | IP address",  
+  "position": [  
+    18001,  
+    18075  
+  ],  
+  "pattern_index": 37,  
+  "pattern": "(?i)needs?\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "du hjälp med installation eller inkoppling? Du hittar svar på många frågor på www",  
+  "context": "m de är beskrivna i denna manual. Bruksanvisning på svenska i original1 . ### <span id=\"page-4-0\"></span>1.1.1. Support **Behöver du hjälp med installation eller inkoppling? Du hittar svar på många frågor på: www.**milleteknik.se/support Telefon: 031- 340 02 30, e-post: [support@milleteknik.se.](mailto:support@milleteknik.se) Support",  
+  "position": [  
+    4352,  
+    4443  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "drivas med PoE i portar för LAN kan kopplas in på switchen",  
+  "context": "ervakningskameror, dörrmiljlöer med mera. Enheter som skall strömmatas via PoE kopplas i portar för PoE. Enheter som ej **behöver drivas med PoE i portar för LAN kan kopplas in på switchen.** # 4. KOMPONENTÖVERSIKT POE FLX M Figur 1. PoE M-switch 4p FLX M+ ![](images/_page_5_Picture_7.jpeg) Tabell 1. Komponentöversik",  
+  "position": [  
+    6818,  
+    6885  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "åtkomsten till switchen behöver rätt IP-adress ställas in på datorn",  
+  "context": "h Det här avsnittet visar hur du loggar in på switchens konfigurationswebbsida. För att konfiguera mjukvaran i switchen **behöver åtkomsten till switchen behöver rätt IP-adress ställas in på datorn.** Åtkomst till switchens mjukvara sker genom en webbläsare, (Chrome, Edge, Firefox). Följ stegen för att komma nå switche",  
+  "position": [  
+    13728,  
+    13804  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "du klicka på \"Apply\" för att spara ändringarna",  
+  "context": "se varning nedan. | | A.2 | Ändrar det fabriksinställda lösenordet, (admin). | | A.3 | Om du har gjort några ändringar b**ehöver du klicka på \"Apply\" för att spara ändringarna. **| <span id=\"page-17-0\"></span>![](images/_page_17_Picture_0.jpeg) #### **VARNING** Inställningarna på denna sidan behöver norm",  
+  "position": [  
+    20113,  
+    20168  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "ändringarna. | <span id=\"page-17-0\"></span>![](images/_page_17_Picture_0.jpeg) #### **VARNING** Inställningarna på denna sidan **behöver normalt inte ändras.** Ändra bara inställningarna om du absolut vet vad du gör. Fabriksåterställ PoE-enheten om den inte uppför sig som förvän",  
+  "position": [  
+    20276,  
+    20304  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "sidan. #### 11.3.2. Portar, konfiguration ![](images/_page_17_Picture_5.jpeg) #### **VARNING** Inställningarna på denna sidan b**ehöver normalt inte ändras. **Ändra bara inställningarna om du absolut vet vad du gör. ![](images/_page_18_Picture_0.jpeg) | Bokstav, nummer | Förklaring |",  
+  "position": [  
+    20596,  
+    20624  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "-----------------------------------------------|--|--|--|--|--|--| | B | Portar | | | | | | | | B.1 | Denna inställning **behöver normalt inte ändras.** Välj hastighet på PoE-switchens portar. | | | | | | | | B.2 | Denna inställning behöver normalt inte ändras. | | | | |",  
+  "position": [  
+    20936,  
+    20964  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "nställning behöver normalt inte ändras. Välj hastighet på PoE-switchens portar. | | | | | | | | B.2 | Denna inställning **behöver normalt inte ändras.** | | | | | | | <span id=\"page-19-0\"></span>![](images/_page_19_Picture_1.jpeg) #### **VARNING** Inställningarna på denna sidan",  
+  "position": [  
+    21045,  
+    21073  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "| | | | | | | <span id=\"page-19-0\"></span>![](images/_page_19_Picture_1.jpeg) #### **VARNING** Inställningarna på denna sidan b**ehöver normalt inte ändras. **Ändra bara inställningarna om du absolut vet vad du gör. Fabriksåterställ PoE-enheten om den inte uppför sig som förvän",  
+  "position": [  
+    21193,  
+    21221  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "lt LAN. 11.3.4. Aggregation, konfiguration ![](images/_page_19_Picture_8.jpeg) #### **VARNING** Inställningarna på denna sidan **behöver normalt inte ändras.** Ändra bara inställningarna om du absolut vet vad du gör. <span id=\"page-20-0\"></span> | 0<br>ల్రి | 10 Ports Gigabit Sw",  
+  "position": [  
+    21573,  
+    21601  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "tarna. 11.3.5. IGMP Snooping, konfiguration ![](images/_page_20_Picture_3.jpeg) ### **VARNING** Inställningarna på denna sidan **behöver normalt inte ändras.** Ändra bara inställningarna om du absolut vet vad du gör. <span id=\"page-21-0\"></span>![](images/_page_21_Picture_0.jpeg) Omkop",  
+  "position": [  
+    22949,  
+    22977  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "tagningen. 11.3.6. Mirroring, konfiguration ![](images/_page_21_Picture_3.jpeg) ### **VARNING** Inställningarna på denna sidan **behöver normalt inte ändras.** Ändra bara inställningarna om du absolut vet vad du gör. <span id=\"page-22-0\"></span>![](images/_page_22_Picture_0.jpeg) Spegl",  
+  "position": [  
+    23235,  
+    23263  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "ing av portar. 11.3.7. LLDP, konfiguration ![](images/_page_22_Picture_3.jpeg) #### **VARNING** Inställningarna på denna sidan **behöver normalt inte ändras.** Ändra bara inställningarna om du absolut vet vad du gör. ![](images/_page_23_Picture_0.jpeg) | Bok<br>stav,<br>num<br>mer | Fö",  
+  "position": [  
+    23503,  
+    23531  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "ge-24-0\"></span>11.3.8. QoS, konfiguration ![](images/_page_24_Picture_1.jpeg) #### **VARNING** Inställningarna på denna sidan **behöver normalt inte ändras.** Ändra bara inställningarna om du absolut vet vad du gör. ![](images/_page_24_Picture_5.jpeg) <span id=\"page-25-0\"></span> | Bo",  
+  "position": [  
+    26073,  
+    26101  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "normalt inte ändras",  
+  "context": "är aktivt. | ### 11.3.9. PoE, konfiguration ![](images/_page_25_Picture_2.jpeg) ### **VARNING** Inställningarna på denna sidan **behöver normalt inte ändras.** Ändra bara inställningarna om du absolut vet vad du gör. | 10<br>10<br>0<br>C<br>A Ej säker<br>← | ල 10 Ports Gigabit S",  
+  "position": [  
+    26887,  
+    26915  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "mer än 13 W",  
+  "context": "PoE | PoE, PoE+ | a.Strömmatningen följer med \"uppåt\", men inte \"ned\". En PoE kan aldrig driva en PoE+/PoE++ enhet som k**räver mer än 13 W. **#### 14.1.23. Om dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel. Uppdateras utan föregåen",  
+  "position": [  
+    40607,  
+    40626  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PoE från Milleteknik 5 | | | | | 3",  
+  "context": "| | 1.1.3. Länk till tekniska specifikationer 5 | | | | | 1.1.4. Du kan hjälpa oss göra bättre produkter 5 | | | | | 2. **Om PoE från Milleteknik 5 | | | | | 3.** Hur PoE driver enheter kopplade till strömförsörjningen 6 | | | | | 4. Komponentöversikt PoE FLX M 6 | | | | | 5. Monte",  
+  "position": [  
+    478,  
+    516  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visas på skåplucka / indikeringsdiod 37 | | | | | 13",  
+  "context": "jukvara 35 | | | | | 11.5.4. Ladda och och spara konfigurationsfil 36 | | | | | 11.5.5. Logga ut 37 | | | | | 12. Larm s**om visas på skåplucka / indikeringsdiod 37 | | | | | 13.** Underhåll 38 | | | | | 13.1. Batteribyte 38 | | | | | 14. Produktblad - strömförsörjning / batteribackup 39 | | | | <sp",  
+  "position": [  
+    2275,  
+    2331  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller 41 | | | 14",  
+  "context": "0 | | | 14.1.13. Kapsling, utförande 40 | | | 14.1.14. Vikt 41 | | | 14.1.15. Installationskrav 41 | | | 14.1.16. Krav s**om produkten uppfyller 41 | | | 14.**1.17. Garanti 41 | | | 14.1.18. Utbyggbar, tillval och tillbehör 41 | | | 14.1.19. Tillverkning, livslängd, miljöpåverka",  
+  "position": [  
+    3145,  
+    3180  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "dessa uppgifter 42 | | | 15",  
+  "context": "l senaste informationen 41 | | | 14.1.21. Länk till tekniska specifikationer 42 | | | 14.1.22. Övrigt 42 | | | 14.1.23. **Om dessa uppgifter 42 | | | 15.** Produktens livslängd, miljöpåverkan och återvinning 42 | | | 16. Adress och kontaktuppgifter 42 | | | | | # 1. INNAN DU",  
+  "position": [  
+    3464,  
+    3495  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "medföljer systemet skall förvaras i det eller i dess omedelbara närhet",  
+  "context": "bör installera och underhålla systemet. Det är installatörens ansvar att systemet är lämpad för avsett bruk. Dokument so**m medföljer systemet skall förvaras i det eller i dess omedelbara närhet. **Nätspänning bör vara bortkopplad under installation. Alla uppgifter med reservation för ändringar. Vid installation av",  
+  "position": [  
+    3955,  
+    4029  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "de är beskrivna i denna manual",  
+  "context": "on för ändringar. Vid installation av denna produkt erkänner och accepterar installatören denna produkts begränsningar s**om de är beskrivna i denna manual.** Bruksanvisning på svenska i original1 . ### <span id=\"page-4-0\"></span>1.1.1. Support Behöver du hjälp med installation",  
+  "position": [  
+    4231,  
+    4265  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "POE FRÅN MILLETEKNIK Serien är framtagen för att kunna driva PoE-enheter som passersystem övervakningskameror och annan utrustning som kan drivas med Power over Ethernet",  
+  "context": "och producera bättre produkter, fyll gärna vår [kundnöjdhetsundersökning](https://forms.office.com/e/8n5R7Pa5Mv). # 2. O**M POE FRÅN MILLETEKNIK Serien är framtagen för att kunna driva PoE-enheter som passersystem, övervakningskameror och annan utrustning som kan drivas med Power over Ethernet. **PoE M-switch 4p FLX M, PoE M-switch 8p FLX M och PoE M-switch 16p FLX M uppfyller 802.3at typ2 klass 4. PoE switchen är",  
+  "position": [  
+    5363,  
+    5537  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "innebär att batterier inte laddas med mer än 45 A",  
+  "context": "chen via dess mjukvaru-interface. Produkterna har något vi kallar \"controlled charging\" vilket är en säkerhetsfunktion s**om innebär att batterier inte laddas med mer än 4,5 A.** Genom att kontrollera laddningen av batterier förlängs livslängden på batterier betydligt. Produkten har 24 V batterisp",  
+  "position": [  
+    5813,  
+    5867  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att kontrollera laddningen av batterier förlängs livslängden på batterier betydligt",  
+  "context": "kallar \"controlled charging\" vilket är en säkerhetsfunktion som innebär att batterier inte laddas med mer än 4,5 A. Geno**m att kontrollera laddningen av batterier förlängs livslängden på batterier betydligt. **Produkten har 24 V batterispänning som boostas upp till 48 V för att driva PoE-switchen. Det finns en lastutgång på mod",  
+  "position": [  
+    5871,  
+    5958  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "boostas upp till 48 V för att driva PoE-switchen",  
+  "context": "tt kontrollera laddningen av batterier förlängs livslängden på batterier betydligt. Produkten har 24 V batterispänning s**om boostas upp till 48 V för att driva PoE-switchen.** Det finns en lastutgång på moderkortet som ger 24 V, det gör att enheten kan användas för att driva andra applikationer",  
+  "position": [  
+    5995,  
+    6047  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ger 24 V det gör att enheten kan användas för att driva andra applikationer som dörrlås etc på den ena lastutgången",  
+  "context": "har 24 V batterispänning som boostas upp till 48 V för att driva PoE-switchen. Det finns en lastutgång på moderkortet so**m ger 24 V, det gör att enheten kan användas för att driva andra applikationer som dörrlås, etc på den ena lastutgången. **Viktigt är att noggrant beräkna belastning så att enhetens specifikationer ej överskrids. Batteribox kan anslutas för u",  
+  "position": [  
+    6088,  
+    6209  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skall strömmatas via PoE kopplas i portar för PoE",  
+  "context": "FÖRSÖRJNINGEN ![](images/_page_5_Picture_1.jpeg) PoE kan driva exempelvis övervakningskameror, dörrmiljlöer med mera. Enheter s**om skall strömmatas via PoE kopplas i portar för PoE.** Enheter som ej behöver drivas med PoE i portar för LAN kan kopplas in på switchen. # 4. KOMPONENTÖVERSIKT POE FLX M Fig",  
+  "position": [  
+    6749,  
+    6802  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ej behöver drivas med PoE i portar för LAN kan kopplas in på switchen",  
+  "context": "vis övervakningskameror, dörrmiljlöer med mera. Enheter som skall strömmatas via PoE kopplas i portar för PoE. Enheter s**om ej behöver drivas med PoE i portar för LAN kan kopplas in på switchen.** # 4. KOMPONENTÖVERSIKT POE FLX M Figur 1. PoE M-switch 4p FLX M+ ![](images/_page_5_Picture_7.jpeg) Tabell 1. Komponentöversik",  
+  "position": [  
+    6812,  
+    6885  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "möjligt nätspänning vid inkoppling och batteribyte",  
+  "context": "a utåt, mot skåpluckan. - 2. Anslut batterikablaget till batteriet. Röd kabel på plus och svart kabel på minus. - Bryt, **om möjligt, nätspänning vid inkoppling och batteribyte.** Figur 3. Kopplingsschema för batterier i batteribackup ![](images/_page_7_Figure_7.jpeg) Anslut batterikablage på rätt poler.",  
+  "position": [  
+    8462,  
+    8517  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan uppstå i samband med kortslutning skall anslutningar till moderkort ske i denna ordning",  
+  "context": "ppling kan utrustning skadas. # 7. MODERKORT BESKRIVNING # 7.1. Anslut i denna ordning För att minimera risken för fel s**om kan uppstå i samband med kortslutning skall anslutningar till moderkort ske i denna ordning.** ![](images/_page_8_Picture_1.jpeg) #### Tabell 2. Anslut i denna ordningen | Nr | Förklaring | |----|------------------| | 1 |",  
+  "position": [  
+    8766,  
+    8861  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "| | | P33 | NO | | | Summlarm* | | | | P34 | NC | | | P35 | Com | | | P36 | NO | | Summalarm Trasig säkring på last trasig säkring från externt fördelningskort trasig batterisäkring låg batterispänning i batteridrift ej anslutna batterier överspänning",  
+  "context": "larm P3 | P3:1-6 | Förklaring | | |-----------------|------------|--| | Nätavbrottslarm | | | | P3:1 | NC | | | P3:2 | C**om | | | P3:3 | NO | | | Summlarm* | | | | P3:4 | NC | | | P3:5 | Com | | | P3:6 | NO | | Summalarm: Trasig säkring på last, trasig säkring från externt fördelningskort, trasig batterisäkring, låg batterispänning i batteridrift, ej anslutna batterier, överspänning.** ## 7.3. Anslut last ![](images/_page_9_Figure_6.jpeg) Tabell 4. Lastanslutningar | Nummer på kretskort | Förklaring | |-------",  
+  "position": [  
+    9766,  
+    10031  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kabelgenomföringen på skåpet",  
+  "context": "ing av 230 V till enheten. Maximal kabelarea är 4 mm2 # 7.4. Anslut elnät till moderkort med plint För elnätskablage gen**om kabelgenomföringen på skåpet.** <span id=\"page-10-0\"></span>![](images/_page_10_Picture_0.jpeg) Säkra F och N med buntband. Elnätskablage skall hållas åtskilt",  
+  "position": [  
+    10956,  
+    10988  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ta bort eller skapa slutning på JU2",  
+  "context": "dningen på plinten. ## 7.5. Styr larmgräns Larm för låg batterispänning i batteridrift kan styras. Larmgränsen styrs gen**om att ta bort eller skapa slutning på JU2.** Larm ges när batterispänningen i batteridrift sjunker under gränsen. Tabell 6. Larmgränser | Larmgräns vid låg batteris",  
+  "position": [  
+    11710,  
+    11753  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkring byts till en större än vad enheten levereras med",  
+  "context": "<span id=\"page-11-0\"></span>![](images/_page_11_Picture_0.jpeg) ### **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger **om säkring byts till en större än vad enheten levereras med.** Säkringens funktion är att skydda ansluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring",  
+  "position": [  
+    12454,  
+    12514  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en webbläsare (Chrome Edge Firefox)",  
+  "context": "en behöver åtkomsten till switchen behöver rätt IP-adress ställas in på datorn. Åtkomst till switchens mjukvara sker gen**om en webbläsare, (Chrome, Edge, Firefox).** Följ stegen för att komma nå switchens inställningar. ![](images/_page_12_Picture_9.jpeg) #### **NOTERA** Inställningarna som",  
+  "position": [  
+    13845,  
+    13887  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visas är inställningar för PC (Windows 7 - Windows 11)",  
+  "context": "x). Följ stegen för att komma nå switchens inställningar. ![](images/_page_12_Picture_9.jpeg) #### **NOTERA** Inställningarna s**om visas är inställningar för PC, (Windows 7 - Windows 11).** Fönster och namn kan variera mellan olika versioner av Windows. Vi kan tyvärr inte ge support för inställningar av din",  
+  "position": [  
+    14004,  
+    14063  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visas i figuren nedan",  
+  "context": "ta till switchen. ![](images/_page_13_Picture_1.jpeg) - 3. Ethernet-statusfönster dyker upp. Klicka på knappen **Egenskaper** s**om visas i figuren nedan.** | 0 | Ethernet Status | | × | |--------------------|-----------------|-------------------|---| | General | | | | | Conn",  
+  "position": [  
+    15607,  
+    15632  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visas i figuren nedan",  
+  "context": "ation<br>across diverse interconnected networks. | | | ОК<br>Cancel | | - 5. Ställ in datorns IP-adress och subnätmask s**om visas i figuren nedan.** Som standard ska produktens **IP-adress vara 192.168.2.1.** Du kan ställa in vilken IP-adress som helst så länge den in",  
+  "position": [  
+    17131,  
+    17156  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "standard ska produktens **IP-adress vara 192",  
+  "context": "erconnected networks. | | | ОК<br>Cancel | | - 5. Ställ in datorns IP-adress och subnätmask som visas i figuren nedan. S**om standard ska produktens **IP-adress vara 192.**168.2.1.** Du kan ställa in vilken IP-adress som helst så länge den inte är densamma med din switchs IP-adress och ligge",  
+  "position": [  
+    17158,  
+    17206  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "helst så länge den inte är densamma med din switchs IP-adress och ligger i samma nätverkssegment med din switchs IP-adress",  
+  "context": "m visas i figuren nedan. Som standard ska produktens **IP-adress vara 192.168.2.1.** Du kan ställa in vilken IP-adress s**om helst så länge den inte är densamma med din switchs IP-adress och ligger i samma nätverkssegment med din switchs IP-adress.** Tryck på **OK** för att tillämpa de TCP/IPv4-inställningar du just gjort. Nu kan du ansluta till din switch med en webb",  
+  "position": [  
+    17252,  
+    17378  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du skall använda DHCP se varning nedan",  
+  "context": "----------------------------------------------| | A | PoE-switchens sida för systemkonfiguration | | A.1 | Kryssa i här **om du skall använda DHCP, se varning nedan.** | | A.2 | Ändrar det fabriksinställda lösenordet, (admin). | | A.3 | Om du har gjort några ändringar behöver du klicka",  
+  "position": [  
+    19968,  
+    20011  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du har gjort några ändringar behöver du klicka på \"Apply\" för att spara ändringarna",  
+  "context": "i här om du skall använda DHCP, se varning nedan. | | A.2 | Ändrar det fabriksinställda lösenordet, (admin). | | A.3 | O**m du har gjort några ändringar behöver du klicka på \"Apply\" för att spara ändringarna. **| <span id=\"page-17-0\"></span>![](images/_page_17_Picture_0.jpeg) #### **VARNING** Inställningarna på denna sidan behöver norm",  
+  "position": [  
+    20081,  
+    20168  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "Picture_0.jpeg) #### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** Fabriksåterställ PoE-enheten om den inte uppför sig som förväntat efter det att du justerad inställningar på denna sida",  
+  "position": [  
+    20332,  
+    20361  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den inte uppför sig som förväntat efter det att du justerad inställningar på denna sidan",  
+  "context": "idan behöver normalt inte ändras. Ändra bara inställningarna om du absolut vet vad du gör. Fabriksåterställ PoE-enheten **om den inte uppför sig som förväntat efter det att du justerad inställningar på denna sidan.** #### 11.3.2. Portar, konfiguration ![](images/_page_17_Picture_5.jpeg) #### **VARNING** Inställningarna på denna sidan behöver",  
+  "position": [  
+    20391,  
+    20483  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "Picture_5.jpeg) #### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** ![](images/_page_18_Picture_0.jpeg) | Bokstav, nummer | Förklaring | | | | | | | |-----------------|--------------------------",  
+  "position": [  
+    20652,  
+    20681  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "Picture_1.jpeg) #### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** Fabriksåterställ PoE-enheten om den inte uppför sig som förväntat efter det att du justerad inställningar på denna sida",  
+  "position": [  
+    21249,  
+    21278  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den inte uppför sig som förväntat efter det att du justerad inställningar på denna sidan",  
+  "context": "idan behöver normalt inte ändras. Ändra bara inställningarna om du absolut vet vad du gör. Fabriksåterställ PoE-enheten **om den inte uppför sig som förväntat efter det att du justerad inställningar på denna sidan.** ![](images/_page_19_Picture_5.jpeg) Konfiguration av Viruellt LAN. 11.3.4. Aggregation, konfiguration ![](images/_page_19_Picture_8.j",  
+  "position": [  
+    21308,  
+    21400  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "Picture_8.jpeg) #### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** <span id=\"page-20-0\"></span> | 0<br>ల్రి | 10 Ports Gigabit Switch<br>19 | +<br>× | | | | | | | |----------------------",  
+  "position": [  
+    21629,  
+    21658  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "_Picture_3.jpeg) ### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** <span id=\"page-21-0\"></span>![](images/_page_21_Picture_0.jpeg) Omkopplare som styr mottagningen. 11.3.6. Mirroring, konfigura",  
+  "position": [  
+    23005,  
+    23034  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "styr mottagningen",  
+  "context": "bara inställningarna om du absolut vet vad du gör. <span id=\"page-21-0\"></span>![](images/_page_21_Picture_0.jpeg) Omkopplare s**om styr mottagningen.** 11.3.6. Mirroring, konfiguration ![](images/_page_21_Picture_3.jpeg) ### **VARNING** Inställningarna på denna sidan behöver no",  
+  "position": [  
+    23104,  
+    23125  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "_Picture_3.jpeg) ### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** <span id=\"page-22-0\"></span>![](images/_page_22_Picture_0.jpeg) Spegling av portar. 11.3.7. LLDP, konfiguration ![](images/_page_22_P",  
+  "position": [  
+    23291,  
+    23320  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "Picture_3.jpeg) #### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** ![](images/_page_23_Picture_0.jpeg) | Bok<br>stav,<br>num<br>mer | Förklaring | |----------------------------|----------------",  
+  "position": [  
+    23559,  
+    23588  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "används för att upptäcka och<br>kommunicera information om nätverksenheter som är anslutna till samma Ethernet-nätverk",  
+  "context": "-------------------------| | G | LLDP står för \"Link Layer Discovery Protocol\", vilket är en nätverksprotokollstandard s**om används för att upptäcka och<br>kommunicera information om nätverksenheter som är anslutna till samma Ethernet-nätverk.** Protokollet tillåter enheter<br>som switchar och routrar att skicka och ta emot meddelanden som innehåller information",  
+  "position": [  
+    24700,  
+    24822  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "switchar och routrar att skicka och ta emot meddelanden som innehåller information om enheternas identifiering<br>kapabiliteter och anslutningstopologi",  
+  "context": "ommunicera information om nätverksenheter som är anslutna till samma Ethernet-nätverk. Protokollet tillåter enheter<br>s**om switchar och routrar att skicka och ta emot meddelanden som innehåller information om enheternas identifiering,<br>kapabiliteter och anslutningstopologi.** | | G.1 | RX och TX är förkortningar som används inom elektronik, kommunikation och datanätverk för att indikera riktni",  
+  "position": [  
+    24856,  
+    25012  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "används inom elektronik kommunikation och datanätverk för att indikera riktningen<br>av dataflödet mellan enheter",  
+  "context": "nformation om enheternas identifiering,<br>kapabiliteter och anslutningstopologi. | | G.1 | RX och TX är förkortningar s**om används inom elektronik, kommunikation och datanätverk för att indikera riktningen<br>av dataflödet mellan enheter.** RX: Förkortningen \"RX\" står för \"Receive\" eller \"Reception\". Det indikerar att enheten tar<br>emot data eller signaler",  
+  "position": [  
+    25051,  
+    25169  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en enhet har en TX-utgång betyder<br>det att den är utformad för att sända data eller information till en mottagande enhet",  
+  "context": "år för \"Transmit\" eller \"Transmission\".<br>Den indikerar att enheten sänder ut data eller signaler till en annan enhet. **Om en enhet har en TX-utgång betyder<br>det att den är utformad för att sända data eller information till en mottagande enhet.** Dessa förkortningar är särskilt<br>vanliga när det gäller datakommunikation, som till exempel i samband med nätverkskab",  
+  "position": [  
+    25587,  
+    25713  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "till exempel i samband med nätverkskablar där det finns specifika RX<br>och TX-ledningar som möjliggör tvåvägskommunikation mellan enheter",  
+  "context": "ler information till en mottagande enhet. Dessa förkortningar är särskilt<br>vanliga när det gäller datakommunikation, s**om till exempel i samband med nätverkskablar där det finns specifika RX<br>och TX-ledningar som möjliggör tvåvägskommunikation mellan enheter.** | ### <span id=\"page-24-0\"></span>11.3.8. QoS, konfiguration ![](images/_page_24_Picture_1.jpeg) #### **VARNING** Inställninga",  
+  "position": [  
+    25792,  
+    25934  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "Picture_1.jpeg) #### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** ![](images/_page_24_Picture_5.jpeg) <span id=\"page-25-0\"></span> | Bokstav,<br>nummer | Förklaring | |--------------------|---",  
+  "position": [  
+    26129,  
+    26158  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "QoS är aktivt",  
+  "context": "tjänster levereras med tillräcklig bandbredd och minimal fördröjning även när nätverket är belastat. | | H.1 | Ställer o**m QoS är aktivt. **| ### 11.3.9. PoE, konfiguration ![](images/_page_25_Picture_2.jpeg) ### **VARNING** Inställningarna på denna sidan behöver no",  
+  "position": [  
+    26760,  
+    26777  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du absolut vet vad du gör",  
+  "context": "_Picture_2.jpeg) ### **VARNING** Inställningarna på denna sidan behöver normalt inte ändras. Ändra bara inställningarna **om du absolut vet vad du gör.** | 10<br>10<br>0<br>C<br>A Ej säker<br>← | ල 10 Ports Gigabit Switch<br>192.168.2.1 | +<br>× | | | | | |----------------",  
+  "position": [  
+    26943,  
+    26972  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "du vill statistik för",  
+  "context": "Förklaring | |-----------------|--------------------------------------| | K | Detaljerad statistik | | K.1 | Välj port s**om du vill statistik för.** | ### <span id=\"page-28-0\"></span>11.4.3. IGMP status ![](images/_page_28_Picture_2.jpeg) #### L: Status för IGMP <span id=\"pa",  
+  "position": [  
+    29731,  
+    29756  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "switchen",  
+  "context": "----------|----------------------------------------| | P | Omstart av PoE-switchen. | | P.1 | Välj \"Yes\" för att starta **om switchen.** | <span id=\"page-33-0\"></span>![](images/_page_33_Picture_1.jpeg) #### **VARNING** Fabriksåterställning görs av PoE-switch. Ba",  
+  "position": [  
+    31861,  
+    31873  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skada på enhet eller kringutrusning eller annan skada som kan uppstår av uppladdning av ej godkänd mjukvara",  
+  "context": "NING** Använd enbart mjukvara du fått av Milletekniks support. Milleteknik tar inget ansvar för mjukvara eller följder s**om skada på enhet eller kringutrusning eller annan skada som kan uppstår av uppladdning av ej godkänd mjukvara.** ![](images/_page_34_Picture_4.jpeg) | Bokstav, nummer | Förklaring | |-----------------|--------------------------------------",  
+  "position": [  
+    32637,  
+    32748  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "VISAS PÅ SKÅPLUCKA / INDIKERING-SDIOD I normalläge visar indikeringsdioden ett fast grönt sken",  
+  "context": ". Logga ut ![](images/_page_36_Picture_2.jpeg) T: Logga ut från switchen. Detta påverkar inte driften av switchen. # 12. LARM S**OM VISAS PÅ SKÅPLUCKA / INDIKERING-SDIOD I normalläge visar indikeringsdioden ett fast grönt sken.** <span id=\"page-37-0\"></span>![](images/_page_37_Picture_0.jpeg) | Indikeringsdioden visar | Förklaring | |--------------------",  
+  "position": [  
+    33722,  
+    33820  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "möjligt nätspänning vid batteribyte",  
+  "context": "L Systemet, med undantag för batterier, är underhållsfritt vid installation i inomhusmiljö. # 13.1. Batteribyte - Bryt, **om möjligt, nätspänning vid batteribyte.** - Koppla bort batterikablar. Notera hur batterikablar är monterade innan de avlägsnas. - Tag bort batterisäkring mellan",  
+  "position": [  
+    34354,  
+    34394  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tidigare",  
+  "context": "- Tag bort batterisäkring mellan batterier. - Sätt in fast de nya batterierna. - Anslut batterikablarna på samma sätt so**m tidigare. **- Sätt fast batterisäkring mellan batterier. - Slå till nätspänning. Eventuellt kan indikeringsdioden lysa för låg batt",  
+  "position": [  
+    34601,  
+    34613  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att kortvarigt koppla bort nätspänning (= lasten skall drivas vidare av batterierna) och därefter slå till nätspänningen igen",  
+  "context": "bortfall tills batterier är laddade. Det kan ta upp till 72 timmar innan batterierna är fulladdade. - Testa systemet gen**om att kortvarigt koppla bort nätspänning, (= lasten skall drivas vidare av batterierna), och därefter slå till nätspänningen igen.** # <span id=\"page-38-0\"></span>14. PRODUKTBLAD - STRÖMFÖRSÖRJNING / BATTERI-BACKUP # 14.1. Produktblad - strömförsörjnin",  
+  "position": [  
+    34870,  
+    35001  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "övervakningskameror och andra PoE drivna enheter",  
+  "context": "plats för två 20 Ah batteri. ### 14.1.4. Användningsområde Strömförsörjning med reservkraft för att driva PoE-enheter so**m övervakningskameror och andra PoE drivna enheter. **En extra lastugång för att driva andra 24 V applikationer. Batterier driver, exempelvis passersystemet, vidare när elnä",  
+  "position": [  
+    35702,  
+    35754  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "något skulle krångla nu eller om 10 år",  
+  "context": "er, exempelvis passersystemet, vidare när elnätet går ner. Lång livslängd, energieffektiv och support finns tillgänglig **om något skulle krångla, nu eller om 10 år.** ### 14.1.5. Spänning, ström och effekt Spänning ut: 27,3 VDC, (24 V). Laddström: 10 A. Strömuttag: 30,8 W/ PoE-port, 5",  
+  "position": [  
+    35948,  
+    35991  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är inkopplad på strömförsörjningen",  
+  "context": "id=\"page-39-0\"></span>14.1.6. Reservdrifttid på batterier Reservdrifttiden i batteridrift beror på hur stor belastning s**om är inkopplad på strömförsörjningen.** Varierar belastningen, som vid frekvent öppning av dörrlås, sjunker tiden som batterier kan driva vidare säkerhetssyste",  
+  "position": [  
+    36265,  
+    36303  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "vid frekvent öppning av dörrlås sjunker tiden som batterier kan driva vidare säkerhetssystemet",  
+  "context": "vdrifttiden i batteridrift beror på hur stor belastning som är inkopplad på strömförsörjningen. Varierar belastningen, s**om vid frekvent öppning av dörrlås, sjunker tiden som batterier kan driva vidare säkerhetssystemet.** För att få en uppskattning av reservdriffterser se: [www.milleteknik.se/Manualer/FaQ/](https://www.milleteknik.se/Manua",  
+  "position": [  
+    36328,  
+    36427  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "mest 45 A",  
+  "context": "ntrollerad laddning av batterier skyddar mot överladdning och förlänger livslängden på batterier. Batterier laddas med s**om mest 4,5 A.** #### 14.1.11. Säkringar Elnätssäkring: 2,5 A. Lastsäkring: Säkring på matning till PoE-switch : 10 A. Säkring på lastut",  
+  "position": [  
+    37342,  
+    37356  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller | EMC | EMC Direktivet 2014/30EU | |------|-----------------------------------------------------------| | El | Lågspänningsdirektivet 2014/35/EU | | PoE | IEEE 802",  
+  "context": "iljöklass 1, omgivningstemperatur: +5°C – 40°C. Rekommenderad omgivningstemperatur är +15°C - 25°C. #### 14.1.16. Krav s**om produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |------|-----------------------------------------------------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | PoE: | IEEE 802.**3af, IEEE 802.3at/30,8 W upp till typ2, klass 4. | | CE: | CE direktivet enligt:765/2008 | ### 14.1.17. Garanti Produkte",  
+  "position": [  
+    38448,  
+    38639  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "slitagedelar) är beroende på bland annat miljöfaktorer främst omgivningstemperatur oförutsedd belastning på komponenter som blixtnedslag yttre åverkan handhavandefel med flera",  
+  "context": "rige. Produkten är designad och konstruerad för lång livslängd vilket minskar miljöpåverkan. Produktens livslängd (förut**om slitagedelar) är beroende på, bland annat miljöfaktorer, främst omgivningstemperatur, oförutsedd belastning på komponenter som blixtnedslag, yttre åverkan, handhavandefel, med flera.** Produkter återvinns, enkelt då de är moduluppbyggda, genom att lämnas till närmaste återvinningsstation eller sändas åt",  
+  "position": [  
+    39209,  
+    39394  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att lämnas till närmaste återvinningsstation eller sändas åter till tillverkare",  
+  "context": "ter som blixtnedslag, yttre åverkan, handhavandefel, med flera. Produkter återvinns, enkelt då de är moduluppbyggda, gen**om att lämnas till närmaste återvinningsstation eller sändas åter till tillverkare.**2Kontakta din distributör för mer information. #### 14.1.20. Länk till senaste informationen Produkter är föremål för up",  
+  "position": [  
+    39451,  
+    39534  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppkommer i samband med återvinning ersätts ej",  
+  "context": "s://www.milleteknik.se/) [PoE](https://www.milleteknik.se/produkt-kategori/poe-batteribackuper/) <sup>2</sup>Kostnader s**om uppkommer i samband med återvinning ersätts ej.** ### <span id=\"page-41-0\"></span>14.1.21. Länk till tekniska specifikationer [PoE M-switch 4p FLX M+ Svenska](https://ww",  
+  "position": [  
+    39859,  
+    39909  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kräver mer än 13 W",  
+  "context": "- | PoE | PoE, PoE+ | a.Strömmatningen följer med \"uppåt\", men inte \"ned\". En PoE kan aldrig driva en PoE+/PoE++ enhet s**om kräver mer än 13 W.** #### 14.1.23. Om dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel. Uppdateras utan föregåen",  
+  "position": [  
+    40604,  
+    40626  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel",  
+  "context": "n följer med \"uppåt\", men inte \"ned\". En PoE kan aldrig driva en PoE+/PoE++ enhet som kräver mer än 13 W. #### 14.1.23. **Om dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel.** Uppdateras utan föregående meddelande. # 15. PRODUKTENS LIVSLÄNGD, MILJÖPÅVERKAN OCH ÅTERVINNING Produkten är designad",  
+  "position": [  
+    40641,  
+    40721  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "slitagedelar) är beroende på bland annat miljöfaktorer främst omgivningstemperatur oförutsedd belastning på komponenter som blixtnedslag yttre åverkan handhavandefel med flera",  
+  "context": "NNING Produkten är designad och konstruerad för lång livslängd vilket minskar miljöpåverkan. Produktens livslängd (förut**om slitagedelar) är beroende på, bland annat miljöfaktorer, främst omgivningstemperatur, oförutsedd belastning på komponenter som blixtnedslag, yttre åverkan, handhavandefel, med flera.** Produkter återvinns genom att lämnas till närmaste återvinningsstation eller sändas åter till tillverkare. Kontakta din",  
+  "position": [  
+    40933,  
+    41118  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att lämnas till närmaste återvinningsstation eller sändas åter till tillverkare",  
+  "context": "oförutsedd belastning på komponenter som blixtnedslag, yttre åverkan, handhavandefel, med flera. Produkter återvinns gen**om att lämnas till närmaste återvinningsstation eller sändas åter till tillverkare.** Kontakta din distributör för mer information. Kostnader som uppkommer i samband med återvinning ersätts ej. ![](images/_page_4",  
+  "position": [  
+    41142,  
+    41225  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppkommer i samband med återvinning ersätts ej",  
+  "context": "rmaste återvinningsstation eller sändas åter till tillverkare. Kontakta din distributör för mer information. Kostnader s**om uppkommer i samband med återvinning ersätts ej.** ![](images/_page_41_Picture_11.jpeg) # 16. ADRESS OCH KONTAKTUPPGIFTER Milleteknik AB Ögärdesvägen 8 B 433 30 Partille Sverige",  
+  "position": [  
+    41283,  
+    41333  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterispänningen i batteridrift sjunker under gränsen",  
+  "context": "åg batterispänning i batteridrift kan styras. Larmgränsen styrs genom att ta bort eller skapa slutning på JU2. Larm ges **när batterispänningen i batteridrift sjunker under gränsen.** Tabell 6. Larmgränser | Larmgräns vid låg batterispänning | 12 V | 24 V | |-------------------------------------|------",  
+  "position": [  
+    11763,  
+    11822  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en enhet har en RX-ingång innebär det att den är konstruerad för att<br>ta emot data eller information från en sändande enhet",  
+  "context": "X\" står för \"Receive\" eller \"Reception\". Det indikerar att enheten tar<br>emot data eller signaler från en annan enhet. **När en enhet har en RX-ingång, innebär det att den är konstruerad för att<br>ta emot data eller information från en sändande enhet.** TX: Förkortningen \"TX\" står för \"Transmit\" eller \"Transmission\".<br>Den indikerar att enheten sänder ut data eller sign",  
+  "position": [  
+    25310,  
+    25441  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det gäller datakommunikation som till exempel i samband med nätverkskablar där det finns specifika RX<br>och TX-ledningar som möjliggör tvåvägskommunikation mellan enheter",  
+  "context": "n är utformad för att sända data eller information till en mottagande enhet. Dessa förkortningar är särskilt<br>vanliga **när det gäller datakommunikation, som till exempel i samband med nätverkskablar där det finns specifika RX<br>och TX-ledningar som möjliggör tvåvägskommunikation mellan enheter.** | ### <span id=\"page-24-0\"></span>11.3.8. QoS, konfiguration ![](images/_page_24_Picture_1.jpeg) #### **VARNING** Inställninga",  
+  "position": [  
+    25757,  
+    25934  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätverket är belastat",  
+  "context": "t hjälper till att säkerställa att<br>viktiga tjänster levereras med tillräcklig bandbredd och minimal fördröjning även **när nätverket är belastat.** | | H.1 | Ställer om QoS är aktivt. | ### 11.3.9. PoE, konfiguration ![](images/_page_25_Picture_2.jpeg) ### **VARNING** Instä",  
+  "position": [  
+    26715,  
+    26741  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PoE-switchen är igång igen",  
+  "context": "nte om. Vid omstart kommer anslutna enheter att tappa kontakten. Larm kan sättas till batteribackup, men det försvinner **när PoE-switchen är igång igen.** ![](images/_page_32_Picture_4.jpeg) | Bokstav, nummer | Förklaring | |-----------------|--------------------------------------",  
+  "position": [  
+    31639,  
+    31670  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "PoE-switchen är igång igen",  
+  "context": ". Vid återställning kommer anslutna enheter att tappa kontakten. Larm kan sättas till batteribackup, men det försvinner **när PoE-switchen är igång igen.** ![](images/_page_33_Picture_4.jpeg) | Bokstav, nummer | Förklaring | | |-----------------|------------------------------------",  
+  "position": [  
+    32140,  
+    32171  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "elnätet går ner",  
+  "context": "enheter. En extra lastugång för att driva andra 24 V applikationer. Batterier driver, exempelvis passersystemet, vidare **när elnätet går ner.** Lång livslängd, energieffektiv och support finns tillgänglig om något skulle krångla, nu eller om 10 år. ### 14.1.5. Sp",  
+  "position": [  
+    35866,  
+    35886  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "4 (TCP / IPv4)",  
+  "context": "| | | Bytes: | 81,247 | 234,299 | | | es | Disabl | Diagnose | | | | | Close | | - 4. Dubbelklicka på Internet Protocol **Version 4 (TCP / IPv4).** | Ethernet Properties | | |--------------------------------------------------------------------------------------------",  
+  "position": [  
+    16116,  
+    16139  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "4 (TCP/IP | | | Uninstall<br>Install<br>Properties | | | Description<br>Transmission Control Protocol/Intemet Protocol",  
+  "context": "<br>.4. Link-Laver Topology Discovery Mapper I/O Driver<br>Link-Layer Topology Discovery Responder<br>Internet Protocol **Version 4 (TCP/IP | | | Uninstall<br>Install<br>Properties | | | Description<br>Transmission Control Protocol/Intemet Protocol.** The default<br>wide area network protocol that provides communication<br>across diverse interconnected networks. | | |",  
+  "position": [  
+    16819,  
+    16946  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "4 (TCP/IPv4) Properties | × | | | | | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--|--|--|--| | General | | | | | | | You can get IP settings assigned automatically if your network supports<br>this capability",  
+  "context": "nsluta till din switch med en webbläsare (Chrome, Edge eller Firefox). <span id=\"page-14-0\"></span> | Internet Protocol **Version 4 (TCP/IPv4) Properties | × | | | | | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--|--|--|--| | General | | | | | | | You can get IP settings assigned automatically if your network supports<br>this capability.** Otherwise, you need to ask your network administrator<br>for the appropriate IP settings. | | | | | | | Obtain an IP ad",  
+  "position": [  
+    17584,  
+    17985  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "pdf) [PoE M-switch 4p FLX M+ English](https//www",  
+  "context": "cifikationer [PoE M-switch 4p FLX M+ Svenska](https://www.milleteknik.se/Manualer/PoE/TD/PoE_M_Switch_4p_FLX_M_TecSpec-s**v.pdf) [PoE M-switch 4p FLX M+ English](https://www.**milleteknik.se/Manualer/PoE/TD/PoE_M_Switch_4p_FLX_M_TecSpec-en.pdf) ### 1.1.4. Du kan hjälpa oss göra bättre produkter",  
+  "position": [  
+    5042,  
+    5094  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 8<br>8<br>8<br>8 | | | | | | Alternate DNS server | | | | | | | Validate settings upon exit | Advanced | | | | | | | OK<br>Cancel | | | | | - 6",  
+  "context": "n DNS server address automatically | | | | | | · Use the following DNS server addresses: | | | | | | | Preferred DNS ser**ver: | 8<br>8<br>8<br>8 | | | | | | Alternate DNS server: | | | | | | | Validate settings upon exit | Advanced | | | | | | | OK<br>Cancel | | | | | - 6.** Anslut en RJ-45 kabel och anslut till PoE-switchen. ### 11.2. Logga in på Switchen ![](images/_page_14_Picture_3.jpeg) #### **",  
+  "position": [  
+    18436,  
+    18588  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "pdf) [PoE M-switch 4p FLX M+ English](https//www",  
+  "context": "cifikationer [PoE M-switch 4p FLX M+ Svenska](https://www.milleteknik.se/Manualer/PoE/TD/PoE_M_Switch_4p_FLX_M_TecSpec-s**v.pdf) [PoE M-switch 4p FLX M+ English](https://www.**milleteknik.se/Manualer/PoE/TD/PoE_M_Switch_4p_FLX_M_TecSpec-en.pdf) #### 14.1.22. Övrigt #### Skillnaden på PoE, PoE+ o",  
+  "position": [  
+    40093,  
+    40145  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Viktigt är att noggrant beräkna belastning så att enhetens specifikationer ej överskrids",  
+  "context": "t som ger 24 V, det gör att enheten kan användas för att driva andra applikationer som dörrlås, etc på den ena lastutgån**gen. Viktigt är att noggrant beräkna belastning så att enhetens specifikationer ej överskrids.** Batteribox kan anslutas för utökad reservdrifftid. <sup>1</sup>Översättning på annat språk än svenska är endast vägleda",  
+  "position": [  
+    6205,  
+    6299  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Medföljande konsoler kan fästas på två sätt Vid montering på vägg skall konsolerna sitta bakåt mot vägg",  
+  "context": "ler i till enheten. ![](images/_page_6_Picture_3.jpeg) ## 5.1. Skjut fast konsoler Enheten kan monteras i 19\" rack eller på väg**g. Medföljande konsoler kan fästas på två sätt: Vid montering på vägg skall konsolerna sitta bakåt, mot vägg.** Vid montering i 19\" rack skall konsolens sitta i framkant på enheten. Figur 2. Montera konsoler på kapsling ![](images/_page_6",  
+  "position": [  
+    7624,  
+    7733  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_6_Picture_10",  
+  "context": "7.jpeg) Vänster konsol: vänd mot framsidan för montering i 19\" rack. Höger konsol vänd mot baksidan för montering på väg**g. ![](images/_page_6_Picture_10.**jpeg) #### **VIKTIGT** Lämna 100 mm fritt kring luftgaller. # <span id=\"page-7-0\"></span>6. BATTERIER - PLACERING OCH IN",  
+  "position": [  
+    7981,  
+    8007  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_8_Picture_1",  
+  "context": "t minimera risken för fel som kan uppstå i samband med kortslutning skall anslutningar till moderkort ske i denna ordnin**g. ![](images/_page_8_Picture_1.**jpeg) #### Tabell 2. Anslut i denna ordningen | Nr | Förklaring | |----|------------------| | 1 | Anslut larm. | | 2 | A",  
+  "position": [  
+    8859,  
+    8884  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "CEO3 uP ![](images/_page_8_Figure_5",  
+  "context": "-| | 1 | Anslut larm. | | 2 | Anslut last. | | 3 | Anslut batterier | | 4 | Anslut elnät. | #### Figur 4. Kortbeskrivnin**g: CEO3 uP ![](images/_page_8_Figure_5.**jpeg) | På Kretskort | Förklaring | | |--------------|-------------------------------------------------------|--| | D6 |",  
+  "position": [  
+    9093,  
+    9125  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Sänker larmgräns vid bygling",  
+  "context": "--|-------------------------------------------------------|--| | D6 | Indikeringsdiod. | | | JU2 | Bygel för larmstyrnin**g. Sänker larmgräns vid bygling.** | | | P1:1-3 | Anslutning elnät. | | | P2:1-2 | Lastutgång, + / -. | | | P2:3-4 | Lastutgång, + / -. Intern anslutning",  
+  "position": [  
+    9296,  
+    9328  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "## 7",  
+  "context": "n externt fördelningskort, trasig batterisäkring, låg batterispänning i batteridrift, ej anslutna batterier, överspännin**g. ## 7.**3. Anslut last ![](images/_page_9_Figure_6.jpeg) Tabell 4. Lastanslutningar | Nummer på kretskort | Förklaring | |-------------",  
+  "position": [  
+    10029,  
+    10037  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "# 8",  
+  "context": "sluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring till en större för att öka strömutta**g. # 8.** KAN MIN POE UTÖKAS MED FLER PORTAR? | Produkt | PoE-switch installerad | Kan ytterligare PoE-switch installeras? | |---",  
+  "position": [  
+    12671,  
+    12678  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<span id=\"page-12-0\"></span>Enheten fungerar normalt då indikeringsdiod på skåpluckans utsida lyser med fast grönt sken",  
+  "context": "la in PoE och annat last. - 4. Skruva fast elnätkabel i plint och sätt fast plint på moderkort. - 5. Slå till nätspännin**g. <span id=\"page-12-0\"></span>Enheten fungerar normalt då indikeringsdiod på skåpluckans utsida lyser med fast grönt sken.** Se frontpanel / skåplucka, för övriga statusindikationer. Det kan ta upp till 72 timmar innan batterier är fullt laddad",  
+  "position": [  
+    13289,  
+    13412  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | Qualcomm Atheros AR8171/8175 PCI-E Gigabit Ethemet | | | Configure | | | This connection uses the following items | | | QoS Packet Scheduler<br>",  
+  "context": "-------------------------------------------------------------------------|--| | Networking<br>Sharing | | | Connect usin**g: | | | Qualcomm Atheros AR8171/8175 PCI-E Gigabit Ethemet | | | Configure | | | This connection uses the following items: | | | QoS Packet Scheduler<br>.**4. Microsoft Network Adapter Multiplexor Protocol<br>Microsoft LLDP Protocol Driver<br>.4. Link-Laver Topology Discovery",  
+  "position": [  
+    16461,  
+    16616  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "1 | RX och TX är förkortningar som används inom elektronik kommunikation och datanätverk för att indikera riktningen<br>av dataflödet mellan enheter",  
+  "context": "emot meddelanden som innehåller information om enheternas identifiering,<br>kapabiliteter och anslutningstopologi. | | G**.1 | RX och TX är förkortningar som används inom elektronik, kommunikation och datanätverk för att indikera riktningen<br>av dataflödet mellan enheter. **RX: Förkortningen \"RX\" står för \"Receive\" eller \"Reception\". Det indikerar att enheten tar<br>emot data eller signaler",  
+  "position": [  
+    25017,  
+    25169  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_32_Picture_4",  
+  "context": "anslutna enheter att tappa kontakten. Larm kan sättas till batteribackup, men det försvinner när PoE-switchen är igång i**gen. ![](images/_page_32_Picture_4.**jpeg) | Bokstav, nummer | Förklaring | |-----------------|----------------------------------------| | P | Omstart av PoE",  
+  "position": [  
+    31666,  
+    31694  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_33_Picture_4",  
+  "context": "anslutna enheter att tappa kontakten. Larm kan sättas till batteribackup, men det försvinner när PoE-switchen är igång i**gen. ![](images/_page_33_Picture_4.**jpeg) | Bokstav, nummer | Förklaring | | |-----------------|----------------------------------------------------|--| | Q",  
+  "position": [  
+    32167,  
+    32195  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Det kan hända att antivirusprogram rensar bort filen vid nedladdning",  
+  "context": "a. | a.Nyare windowsdatorer tillåter inte att *.cfg-filer laddas ner utan extra godkännande i webbläsaren vid nedladdnin**g. Det kan hända att antivirusprogram rensar bort filen vid nedladdning.** ### <span id=\"page-36-0\"></span>11.5.5. Logga ut ![](images/_page_36_Picture_2.jpeg) T: Logga ut från switchen. Detta påverkar",  
+  "position": [  
+    33491,  
+    33563  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Eventuellt kan indikeringsdioden lysa för låg batterispänning / nätbortfall tills batterier är laddade",  
+  "context": "- Anslut batterikablarna på samma sätt som tidigare. - Sätt fast batterisäkring mellan batterier. - Slå till nätspänning**. Eventuellt kan indikeringsdioden lysa för låg batterispänning / nätbortfall tills batterier är laddade. **Det kan ta upp till 72 timmar innan batterierna är fulladdade. - Testa systemet genom att kortvarigt koppla bort nätspä",  
+  "position": [  
+    34680,  
+    34786  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "# <span id=\"page-38-0\"></span>14",  
+  "context": "kortvarigt koppla bort nätspänning, (= lasten skall drivas vidare av batterierna), och därefter slå till nätspänningen i**gen. # <span id=\"page-38-0\"></span>14.** PRODUKTBLAD - STRÖMFÖRSÖRJNING / BATTERI-BACKUP # 14.1. Produktblad - strömförsörjning från Milleteknik ### 14.1.1. Nam",  
+  "position": [  
+    34997,  
+    35035  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "308 W/ PoE-port 5 A på 24 V lastutgång",  
+  "context": "gla, nu eller om 10 år. ### 14.1.5. Spänning, ström och effekt Spänning ut: 27,3 VDC, (24 V). Laddström: 10 A. Strömutta**g: 30,8 W/ PoE-port, 5 A på 24 V lastutgång .** #### <span id=\"page-39-0\"></span>14.1.6. Reservdrifttid på batterier Reservdrifttiden i batteridrift beror på hur stor",  
+  "position": [  
+    36088,  
+    36133  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Varierar belastningen som vid frekvent öppning av dörrlås sjunker tiden som batterier kan driva vidare säkerhetssystemet",  
+  "context": "rvdrifttid på batterier Reservdrifttiden i batteridrift beror på hur stor belastning som är inkopplad på strömförsörjnin**gen. Varierar belastningen, som vid frekvent öppning av dörrlås, sjunker tiden som batterier kan driva vidare säkerhetssystemet.** För att få en uppskattning av reservdriffterser se: [www.milleteknik.se/Manualer/FaQ/](https://www.milleteknik.se/Manua",  
+  "position": [  
+    36299,  
+    36427  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontrollerad laddning av batterier skyddar mot överladdning och förlänger livslängden på batterier",  
+  "context": "av batterier. #### 14.1.10. Skydd Skydd mot överbelastning, överspänning, övertemperatur, kortslutning och djupurladdnin**g. Kontrollerad laddning av batterier skyddar mot överladdning och förlänger livslängden på batterier.** Batterier laddas med som mest 4,5 A. #### 14.1.11. Säkringar Elnätssäkring: 2,5 A. Lastsäkring: Säkring på matning till",  
+  "position": [  
+    37217,  
+    37319  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "25 A",  
+  "context": "ddning och förlänger livslängden på batterier. Batterier laddas med som mest 4,5 A. #### 14.1.11. Säkringar Elnätssäkrin**g: 2,5 A.** Lastsäkring: Säkring på matning till PoE-switch : 10 A. Säkring på lastutgång: 10 A. Batterisäkring: 30 A. 14.1.12. Ind",  
+  "position": [  
+    37393,  
+    37402  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Säkring på matning till PoE-switch 10 A",  
+  "context": "livslängden på batterier. Batterier laddas med som mest 4,5 A. #### 14.1.11. Säkringar Elnätssäkring: 2,5 A. Lastsäkring**: Säkring på matning till PoE-switch : 10 A. **Säkring på lastutgång: 10 A. Batterisäkring: 30 A. 14.1.12. Indikeringar och kommunikation Lysdiod visar information oc",  
+  "position": [  
+    37413,  
+    37458  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "10 A",  
+  "context": "## 14.1.11. Säkringar Elnätssäkring: 2,5 A. Lastsäkring: Säkring på matning till PoE-switch : 10 A. Säkring på lastutgån**g: 10 A.** Batterisäkring: 30 A. 14.1.12. Indikeringar och kommunikation Lysdiod visar information och larm på kretskort och på ka",  
+  "position": [  
+    37479,  
+    37487  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "30 A",  
+  "context": "Elnätssäkring: 2,5 A. Lastsäkring: Säkring på matning till PoE-switch : 10 A. Säkring på lastutgång: 10 A. Batterisäkrin**g: 30 A.** 14.1.12. Indikeringar och kommunikation Lysdiod visar information och larm på kretskort och på kapslingens dörr. PoE st",  
+  "position": [  
+    37501,  
+    37509  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<span id=\"page-40-0\"></span>![](images/_page_40_Picture_0",  
+  "context": "(5 HE). Pulverlackat svart. Fyra kabelgenomföringar på ovansidan och utslagshål på baksidan. Buntbandshållare i kapsling**. <span id=\"page-40-0\"></span>![](images/_page_40_Picture_0.j**peg) | Mått, höjd x bredd x djup | IP-klass | |---------------------------|----------| | 224 x 437 x 212 mm | IP32 | ##",  
+  "position": [  
+    37894,  
+    37948  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "40 | | | 14",  
+  "context": "| | 14.1.5. Spänning, ström och effekt 39 | | | 14.1.6. Reservdrifttid på batterier 40 | | | 14.1.7. Batteri och batteri**typ 40 | | | 14.**1.8. Lastutgångar 40 | | | 14.1.9. Larm 40 | | | 14.1.10. Skydd 40 | | | 14.1.11. Säkringar 40 | | | 14.1.12. Indikering",  
+  "position": [  
+    2867,  
+    2883  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Förklaring | |------------------------|---------|-------|----------------| | Samtliga | F1 | T25A | Elnätssäkring | | PoE M-switch 4p FLX M+ | F2 F6 | T10A | Lastsäkring + | | Samtliga | F7 | T16A | Batterisäkring | <span id=\"page-11-0\"></span>![](images/_page_11_Picture_0",  
+  "context": "| | JU2 utan bygel | 13,2 V | 26,5 V | | *Enheten levereras med bygel på JU2 | | | # 7.6. Säkringar | Enhet | Säkring | **Typ | Förklaring | |------------------------|---------|-------|----------------| | Samtliga | F1 | T2,5A | Elnätssäkring | | PoE M-switch 4p FLX M+ | F2, F6 | T10A | Lastsäkring + | | Samtliga | F7 | T16A | Batterisäkring | <span id=\"page-11-0\"></span>![](images/_page_11_Picture_0.**jpeg) ### **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger om säkring byts till en större än vad enheten lever",  
+  "position": [  
+    12110,  
+    12385  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Två 7 Ah Två 14 Ah eller två 20 Ah batterier",  
+  "context": "ttider/) [Reservdrifttider/](https://www.milleteknik.se/Manualer/FaQ/Reservdrifttider/) #### 14.1.7. Batteri och batteri**typ Två 7 Ah, Två 14 Ah, eller två 20 Ah batterier.** Batterityp: 12 V, AGM blysyra batteri, underhållsfritt. Batterier ingår ej. #### 14.1.8. Lastutgångar PoE-switch kan dr",  
+  "position": [  
+    36685,  
+    36736  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "12 V AGM blysyra batteri underhållsfritt",  
+  "context": "ualer/FaQ/Reservdrifttider/) #### 14.1.7. Batteri och batterityp Två 7 Ah, Två 14 Ah, eller två 20 Ah batterier. Batteri**typ: 12 V, AGM blysyra batteri, underhållsfritt.** Batterier ingår ej. #### 14.1.8. Lastutgångar PoE-switch kan driva last till PoE-enheter och moderkort kan driva en (1)",  
+  "position": [  
+    36744,  
+    36792  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464772"  
+}
+

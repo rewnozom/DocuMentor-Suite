@@ -1,0 +1,14 @@
+{  
+  "identifier": "plast",  
+  "original": "plast",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "*Armbågskontakt Tormax IMP 111** ![](images/_page_0_Picture_2.jpeg) • *Dimension: 290x50mm** • *Knapp i sva**rt plast**** • *Hölje, standard rostfriplåt alternativt i mässing eller koppar.** • *Går att komplettera med d",  
+  "source": "regex",  
+  "product_id": "50464567"  
+}
+

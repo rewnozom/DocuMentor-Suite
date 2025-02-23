@@ -1,0 +1,14 @@
+{  
+  "identifier": "556289017701",  
+  "original": "556289017701",  
+  "type": "UPC-A",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)",  
+  "group": "upc",  
+  "pattern_index": 40,  
+  "pattern": "(?<!\\d)(\\d{12})(?!\\d)",  
+  "context": "ägen 5 SE-449 44 Nol Telefon nr/Telephone no +46(0)303-746 320 www.swtm.se e-post info@swtm.se SE556**289017701 # **SM40 0,5-10A STRÖMFÖRSÖRJNING MED PLATS FÖR BATTERIER ![](images/_page_1_Picture_2.jpeg) ## SÄKERH",  
+  "source": "regex",  
+  "product_id": "50464884"  
+}
+

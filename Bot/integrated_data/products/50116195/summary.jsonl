@@ -1,0 +1,26 @@
+{  
+  "product_id": "50116195",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": null,  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "kontinuerlig underhållsladdning exempelvis inbrottslarms- och brandlarmscentraler ![](images/_page_0_Picture_6",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "recommended",  
+      "related_product": "kontinuerlig underhållsladdning exempelvis inbrottslarms- och brandlarmscentraler ![](images/_page_0_Picture_6",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

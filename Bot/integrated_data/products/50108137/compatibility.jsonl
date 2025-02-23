@@ -1,0 +1,455 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "att ställa dipswitchar även aktivera andra utgångar",  
+  "context": "d 5st separata ingångar och förses med motstånd för att anpassas till brandlarmcentral slingavkänning. Ingång 1 kan, gen**om att ställa dipswitchar, även aktivera andra utgångar.** Pulskort SM955 kan kopplas i på ingång 1 för att få pulserande styrning av utgångarna som väljs med dipswitchar. Kan st",  
+  "position": [  
+    372,  
+    428  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "väljs med dipswitchar",  
+  "context": "r, även aktivera andra utgångar. Pulskort SM955 kan kopplas i på ingång 1 för att få pulserande styrning av utgångarna s**om väljs med dipswitchar.** Kan styras med annan spänning eller hämta styrspänning från 24V ingången. Fel på slingor indikeras med att röd lysdiod,",  
+  "position": [  
+    516,  
+    541  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ej används måste förses med slutmotstånd",  
+  "context": "egenförbrukning med en tomgångsström på 30mA Vid aktivering av larmdonsutgång tänds LED-en för den utgången. Utgångar so**m ej används måste förses med slutmotstånd. **### **BESKRIVNING** Larmdonskort för montage i 19\" kassett (SM911), i våra likriktare eller i kapsling för väggmontage.",  
+  "position": [  
+    897,  
+    941  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "vid leverans är försedda med 2AT säkringar",  
+  "context": "rkort för larmdon. **Strömförsörjning med plats för batteri** > **SM950 -** kortet har 5st 2-poligt avsäkrade utgångar s**om vid leverans är försedda med 2AT säkringar.** Kan vid behov bytas till max 6,3 AT säkringar, dock får det totala strömuttag på kortet ej överstiga 15A. För varje utg",  
+  "position": [  
+    1368,  
+    1414  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan belastas med max 8A",  
+  "context": "6,3 AT säkringar, dock får det totala strömuttag på kortet ej överstiga 15A. För varje utgång finns ett kraftigt relä so**m kan belastas med max 8A. **Plint för max 2,5 mm2 kabel. > **SM955 -** Pulskort som ger pulserande utsignal – 0,8/0,8 sekunders intervall. Används",  
+  "position": [  
+    1563,  
+    1590  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ger pulserande utsignal – 08/08 sekunders intervall",  
+  "context": "varje utgång finns ett kraftigt relä som kan belastas med max 8A. Plint för max 2,5 mm2 kabel. > **SM955 -** Pulskort so**m ger pulserande utsignal – 0,8/0,8 sekunders intervall. **Används även när brandlarmscentralen inte har pulserande utgångar. Kopplas in på ingång 1 och sen programmeras vilka in",  
+  "position": [  
+    1644,  
+    1701  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "styr de programmerade ingångarna i samma takt så länge ingång 1 är aktiverad",  
+  "context": "mmeras vilka ingångar den skall styra. När sedan ingången på kortet får en 24V spänning ger det en pulserande utsignal s**om styr de programmerade ingångarna i samma takt så länge ingång 1 är aktiverad.** Man kan blanda pulserande och fast signal efter eget tycke på kortet**.** ### **TEKNISKA DATA** **Inspänning DC 20-30VD",  
+  "position": [  
+    1926,  
+    2006  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ej används avslutas med 10k slutmotstånd** - **Ingång 1 kan genom att ställ dipswitchar även aktivera andra utgångar",  
+  "context": "52 470 57** **SM955 E nr: 52 470 59** ### **INKOPPLINGSANVISNING** - **Anslut först 24V därefter lasten** - **Utgångar s**om ej används avslutas med 10k slutmotstånd** - **Ingång 1 kan, genom att ställ dipswitchar, även aktivera andra utgångar.** För att aktivera utgång 1 och 2 så ansluts styrspänning på ingång 1 och på dipswitch DSW1 sätter man de två första kont",  
+  "position": [  
+    3005,  
+    3127  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är märkta IN2 i läge on",  
+  "context": "aktivera utgång 1 och 2 så ansluts styrspänning på ingång 1 och på dipswitch DSW1 sätter man de två första kontakterna s**om är märkta IN2 i läge on.** Skall alla utgångar styras av ingång 1 så sätter man alla dipswitcharna på DSW1 och DSW2 i läge on.** - **När pulskort",  
+  "position": [  
+    3256,  
+    3283  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ska följa med",  
+  "context": "pulskortets ingång ger den pulserande spänning till IN1 med frekvens 0,8/0,8Hz. Med DSW1 och DSW2 väljs vilka ingångar s**om ska följa med.** Utgångarna kommer att arbeta synkroniserat så ingen \"eko effekt\" uppstår.** - **Vid avbrott eller kortslutning på någon",  
+  "position": [  
+    3596,  
+    3613  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "indikerar kortslutning tänds",  
+  "context": "ikerar typ av fel.** - **När någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod s**om indikerar kortslutning tänds.**** - **Löser säkringarna, kontrollera inkoppling och inkopplade apparater.** - **Larmnivåer – spänningen är en reversera",  
+  "position": [  
+    3911,  
+    3943  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ej används avslutas med 10k slutmotstånd** - **Ingång 1 kan genom att ställ dipswitchar även aktivera andra utgångar",  
+  "context": "E nr: 52 470 57** ### **INKOPPLINGSANVISNING MED DELADE SLINGOR** - **Anslut först 24V därefter lasten** - **Utgångar so**m ej används avslutas med 10k slutmotstånd** - **Ingång 1 kan, genom att ställ dipswitchar, även aktivera andra utgångar. **För att aktivera utgång 1 och 2 så ansluts styrspänning på ingång 1 och på dipswitch DSW1 sätter man de två första kont",  
+  "position": [  
+    4487,  
+    4609  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är märkta IN2 i läge on",  
+  "context": "aktivera utgång 1 och 2 så ansluts styrspänning på ingång 1 och på dipswitch DSW1 sätter man de två första kontakterna s**om är märkta IN2 i läge on.** Skall alla utgångar styras av ingång 1 så sätter man alla dipswitcharna på DSW1 och DSW2 i läge on.** - **När pulskort",  
+  "position": [  
+    4738,  
+    4765  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ska följa med",  
+  "context": "pulskortets ingång ger den pulserande spänning till IN1 med frekvens 0,8/0,8Hz. Med DSW1 och DSW2 väljs vilka ingångar s**om ska följa med.** Utgångarna kommer att arbeta synkroniserat så ingen \"eko effekt\" uppstår.** - **Vid avbrott eller kortslutning på någon",  
+  "position": [  
+    5078,  
+    5095  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "indikerar kortslutning tänds",  
+  "context": "ikerar typ av fel.** - **När någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod s**om indikerar kortslutning tänds.**** - **Löser säkringarna, kontrollera inkoppling och inkopplade apparater.** - **Larmnivåer – spänningen är en reversera",  
+  "position": [  
+    5393,  
+    5425  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "brandlarmscentralen inte har pulserande utgångar",  
+  "context": "t för max 2,5 mm2 kabel. > **SM955 -** Pulskort som ger pulserande utsignal – 0,8/0,8 sekunders intervall. Används även **när brandlarmscentralen inte har pulserande utgångar.** Kopplas in på ingång 1 och sen programmeras vilka ingångar den skall styra. När sedan ingången på kortet får en 24V spä",  
+  "position": [  
+    1715,  
+    1768  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "sedan ingången på kortet får en 24V spänning ger det en pulserande utsignal som styr de programmerade ingångarna i samma takt så länge ingång 1 är aktiverad",  
+  "context": "armscentralen inte har pulserande utgångar. Kopplas in på ingång 1 och sen programmeras vilka ingångar den skall styra. **När sedan ingången på kortet får en 24V spänning ger det en pulserande utsignal som styr de programmerade ingångarna i samma takt så länge ingång 1 är aktiverad.** Man kan blanda pulserande och fast signal efter eget tycke på kortet**.** ### **TEKNISKA DATA** **Inspänning DC 20-30VD",  
+  "position": [  
+    1845,  
+    2006  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "pulskort SM955 används ska det monteras på ingång1",  
+  "context": "N2 i läge on. Skall alla utgångar styras av ingång 1 så sätter man alla dipswitcharna på DSW1 och DSW2 i läge on.** - ****När pulskort SM955 används ska det monteras på ingång1.** När 24VDC spänning ansluts på pulskortets ingång ger den pulserande spänning till IN1 med frekvens 0,8/0,8Hz. Med DSW1",  
+  "position": [  
+    3390,  
+    3445  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "24VDC spänning ansluts på pulskortets ingång ger den pulserande spänning till IN1 med frekvens 08/08Hz",  
+  "context": "sätter man alla dipswitcharna på DSW1 och DSW2 i läge on.** - **När pulskort SM955 används ska det monteras på ingång1. **När 24VDC spänning ansluts på pulskortets ingång ger den pulserande spänning till IN1 med frekvens 0,8/0,8Hz.** Med DSW1 och DSW2 väljs vilka ingångar som ska följa med. Utgångarna kommer att arbeta synkroniserat så ingen \"eko effe",  
+  "position": [  
+    3446,  
+    3555  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod som indikerar kortslutning tänds",  
+  "context": "d avbrott eller kortslutning på någon av larmdonsslingorna aktiveras larmreläet och lysdiod indikerar typ av fel.** - ****När någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod som indikerar kortslutning tänds.**** - **Löser säkringarna, kontrollera inkoppling och inkopplade apparater.** - **Larmnivåer – spänningen är en reversera",  
+  "position": [  
+    3816,  
+    3943  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "pulskort SM955 används ska det monteras på ingång1",  
+  "context": "N2 i läge on. Skall alla utgångar styras av ingång 1 så sätter man alla dipswitcharna på DSW1 och DSW2 i läge on.** - ****När pulskort SM955 används ska det monteras på ingång1.** När 24VDC spänning ansluts på pulskortets ingång ger den pulserande spänning till IN1 med frekvens 0,8/0,8Hz. Med DSW1",  
+  "position": [  
+    4872,  
+    4927  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "24VDC spänning ansluts på pulskortets ingång ger den pulserande spänning till IN1 med frekvens 08/08Hz",  
+  "context": "sätter man alla dipswitcharna på DSW1 och DSW2 i läge on.** - **När pulskort SM955 används ska det monteras på ingång1. **När 24VDC spänning ansluts på pulskortets ingång ger den pulserande spänning till IN1 med frekvens 0,8/0,8Hz.** Med DSW1 och DSW2 väljs vilka ingångar som ska följa med. Utgångarna kommer att arbeta synkroniserat så ingen \"eko effe",  
+  "position": [  
+    4928,  
+    5037  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod som indikerar kortslutning tänds",  
+  "context": "d avbrott eller kortslutning på någon av larmdonsslingorna aktiveras larmreläet och lysdiod indikerar typ av fel.** - ****När någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod som indikerar kortslutning tänds.**** - **Löser säkringarna, kontrollera inkoppling och inkopplade apparater.** - **Larmnivåer – spänningen är en reversera",  
+  "position": [  
+    5298,  
+    5425  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Ingång 1 kan genom att ställa dipswitchar även aktivera andra utgångar",  
+  "context": "av reläerna görs med 5st separata ingångar och förses med motstånd för att anpassas till brandlarmcentral slingavkänning**. Ingång 1 kan, genom att ställa dipswitchar, även aktivera andra utgångar. **Pulskort SM955 kan kopplas i på ingång 1 för att få pulserande styrning av utgångarna som väljs med dipswitchar. Kan st",  
+  "position": [  
+    352,  
+    428  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Fel på slingor indikeras med att röd lysdiod märkt med typ av fellarm tänds och att ett summalarmrelä med potentialfri växlingskontakt aktiveras",  
+  "context": "styrning av utgångarna som väljs med dipswitchar. Kan styras med annan spänning eller hämta styrspänning från 24V ingång**en. Fel på slingor indikeras med att röd lysdiod, märkt med typ av fellarm, tänds och att ett summalarmrelä med potentialfri växlingskontakt aktiveras. **SM950 har låg egenförbrukning med en tomgångsström på 30mA Vid aktivering av larmdonsutgång tänds LED-en för den utgång",  
+  "position": [  
+    611,  
+    763  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Utgångar som ej används måste förses med slutmotstånd",  
+  "context": ". SM950 har låg egenförbrukning med en tomgångsström på 30mA Vid aktivering av larmdonsutgång tänds LED-en för den utgån**gen. Utgångar som ej används måste förses med slutmotstånd.** ### **BESKRIVNING** Larmdonskort för montage i 19\" kassett (SM911), i våra likriktare eller i kapsling för väggmontage.",  
+  "position": [  
+    882,  
+    941  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid aktivering av larmdonsutgången försvinner den reverserade spänningen och den normal + och – erhålles",  
+  "context": "h inkopplade apparater.** - **Larmnivåer – spänningen är en reverserad spänning, det är – på + utgången och + på – utgån**gen. Vid aktivering av larmdonsutgången försvinner den reverserade spänningen och den normal + och – erhålles.**** - **normal drift – 12-13,5VDC** - **avbrott >14,5VDC ( 14,5kohm)** - **kortslutning < 5VDC ( 3kohm)** ![](images/_page_1_Fig",  
+  "position": [  
+    4114,  
+    4224  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Vid aktivering av larmdonsutgången försvinner den reverserade spänningen och den normal + och – erhålles",  
+  "context": "h inkopplade apparater.** - **Larmnivåer – spänningen är en reverserad spänning, det är – på + utgången och + på – utgån**gen. Vid aktivering av larmdonsutgången försvinner den reverserade spänningen och den normal + och – erhålles.**** - **normal drift – 12-13,5VDC** - **avbrott >14,5VDC ( 14,5kohm)** ![](images/_page_2_Figure_12.jpeg) - **kortslutning < 5VD",  
+  "position": [  
+    5596,  
+    5706  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av fellarm tänds och att ett summalarmrelä med potentialfri växlingskontakt aktiveras",  
+  "context": "med annan spänning eller hämta styrspänning från 24V ingången. Fel på slingor indikeras med att röd lysdiod, märkt med t**yp av fellarm, tänds och att ett summalarmrelä med potentialfri växlingskontakt aktiveras. **SM950 har låg egenförbrukning med en tomgångsström på 30mA Vid aktivering av larmdonsutgång tänds LED-en för den utgång",  
+  "position": [  
+    672,  
+    763  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | HxBxD mm | |----------|--------|------------------------------------------------|------------| | 5247057 | 950 | SM950 Larmdonsstyrningskort 5x2-pol 2A grupper | 110x90x50 | | 5247058 | PCM150 | Väggkapsling med transparant lock | 180x130x75 | | 5247059 | 955 | SM955 Pulskort | 40x40x20 | | 5247046 | 911S | SM911 19\" ram för 4st styrkort | 135x480x60 | | 5247047 | 912S | SM912 Lock till 19\" ram | 135x480 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+  "context": "DC 20-30VDC Strömförbrukning vila/larm 30 / 120mA** *CE-märkt enligt EN61000-6-3:2001 EN61000-6- 2:2005.* | E-Nummer | T**yp | | HxBxD mm | |----------|--------|------------------------------------------------|------------| | 5247057 | 950 | SM950 Larmdonsstyrningskort 5x2-pol 2A grupper | 110x90x50 | | 5247058 | PCM150 | Väggkapsling med transparant lock | 180x130x75 | | 5247059 | 955 | SM955 Pulskort | 40x40x20 | | 5247046 | 911S | SM911 19\" ram för 4st styrkort | 135x480x60 | | 5247047 | 912S | SM912 Lock till 19\" ram | 135x480 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.s**wtm.se Telefax nr/Telefax no +46(0)303-748 490 e-post info@swtm.se # **SM950 E nr: 52 470 57** **SM955 E nr: 52 470 59*",  
+  "position": [  
+    2235,  
+    2801  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5247057",  
+    "5247058",  
+    "5247059",  
+    "5247046",  
+    "5247047"  
+  ],  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av fel",  
+  "context": "uppstår.** - **Vid avbrott eller kortslutning på någon av larmdonsslingorna aktiveras larmreläet och lysdiod indikerar t**yp av fel.**** - **När någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod som indikerar korts",  
+  "position": [  
+    3798,  
+    3809  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av fel",  
+  "context": "uppstår.** - **Vid avbrott eller kortslutning på någon av larmdonsslingorna aktiveras larmreläet och lysdiod indikerar t**yp av fel.**** - **När någon av styrningarna/ingångarna är aktiverad görs ingen mätning på slingorna och lysdiod som indikerar korts",  
+  "position": [  
+    5280,  
+    5291  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50108137"  
+}
+

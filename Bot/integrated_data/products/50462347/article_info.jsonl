@@ -1,0 +1,14 @@
+{  
+  "identifier": "bygel",  
+  "original": "bygel",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "na funktion är till för att förhindra att batteriet urladdas av misstag under installationen. Kickst**art bygel** - Kortslut kortvarigt för att starta PSV utan att matningsspänningen är ansluten | Kortvarig bygli",  
+  "source": "regex",  
+  "product_id": "50462347"  
+}
+

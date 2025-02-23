@@ -1,0 +1,28 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | |---------------|-------------------------------------| | Artikelnummer | Beskrivning | | PM861 **| Strömförsör**jning switchat 24 V, 1 A | |",  
+  "source": "regex",  
+  "product_id": "50106004"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | |---------------|-------------------------------------| | Artikelnummer | Beskrivning | | PM861 **| Strömförsör**jning switchat 24 V, 1 A | |",  
+  "source": "regex",  
+  "product_id": "50106004"  
+}
+

@@ -1,0 +1,66 @@
+{  
+  "name": "mått",  
+  "raw_value": "260 mm × 80 mm × 28 mm (Höjd × bredd × djup)\n- IR-ögats ytterdiameter är 38 mm\n- Strömförsörjning: 12 VDC 24 VDC +-5 %\n- Förbrukning: 12 VDC standby 30 mA, i drift 45mA, 24 VDC standby 20 mA, i drift 30 mA\n- Utgångar: NO & NO / NC & NC (max 1 A / 30 VDC",  
+  "category": "DIMENSIONS",  
+  "unit": "mm",  
+  "value": {  
+    "raw_value": "260 mm × 80 mm × 28 mm (Höjd × bredd × djup)\n- IR-ögats ytterdiameter är 38 mm\n- Strömförsörjning: 12 VDC 24 VDC +-5 %\n- Förbrukning: 12 VDC standby 30 mA, i drift 45mA, 24 VDC standby 20 mA, i drift 30 mA\n- Utgångar: NO & NO / NC & NC (max 1 A / 30 VDC",  
+    "unit": "mm",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "MRÅDE** - Styrning av automatiska slag-, skjut-, vik-, karusell- och runda skjutdörrar - Hem för rörelsehindrade - **PRODUKTEGENSKAPER** - Inbyggnadsm**ått: 260 mm × 80 mm × 28 mm (Höjd × bredd × djup...",  
+  "pattern": "(?i)mått\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 2,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135440"  
+}
+
+{  
+  "name": "Skyddsklass",  
+  "raw_value": "Kan monteras invändigt eller utvändigt under tak, IP47\n\n#### Automatiske dørsystemer **TEKNISKA DATA**\n\n| Produktdetaljer<br>Automatiske dørsystemer                | GEZE ES 80                                                                                           |  |\n|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------|--|\n| Strömförsörjning<br>GEZE AKTIVERING<br>Tekniske data      | 12 VDC – 24 VDC +-5 %                                                                                |  |\n| Förbrukning                                               | 12 VDC standby 30 mA, i drift 45mA, 24 VDC standby 20 mA, i drift 30 mA                              |  |\n| Produktdetaljer<br>Utgångar<br>Tekniske data<br>Teknologi | GEZE GC 306<br>NO & NO / NC & NC (max 1A / 30 VDC",  
+  "category": "ELECTRICAL",  
+  "unit": "VDC",  
+  "value": {  
+    "raw_value": "Kan monteras invändigt eller utvändigt under tak, IP47\n\n#### Automatiske dørsystemer **TEKNISKA DATA**\n\n| Produktdetaljer<br>Automatiske dørsystemer                | GEZE ES 80                                                                                           |  |\n|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------|--|\n| Strömförsörjning<br>GEZE AKTIVERING<br>Tekniske data      | 12 VDC – 24 VDC +-5 %                                                                                |  |\n| Förbrukning                                               | 12 VDC standby 30 mA, i drift 45mA, 24 VDC standby 20 mA, i drift 30 mA                              |  |\n| Produktdetaljer<br>Utgångar<br>Tekniske data<br>Teknologi | GEZE GC 306<br>NO & NO / NC & NC (max 1A / 30 VDC",  
+    "unit": "VDC",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "uranger - Öppningstid: 0,5 sekunder 20 sekunder. - Sensoravstånd 4 15 cm - Inbyggd summer: AV eller PÅ med brytare (levereras som PÅ som standard) - Skyddsklass: Kan monteras invändigt eller utvändigt...",  
+  "pattern": "(?i)(?:skyddsklass|protection class)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 52,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135440"  
+}
+
+{  
+  "name": "Utgångar",  
+  "raw_value": "NO & NO / NC & NC (max 1 A / 30 VDC",  
+  "category": "CONNECTION",  
+  "unit": "A",  
+  "value": {  
+    "raw_value": "NO & NO / NC & NC (max 1 A / 30 VDC",  
+    "unit": "A",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "terdiameter är 38 mm - Strömförsörjning: 12 VDC 24 VDC +-5 % - Förbrukning: 12 VDC standby 30 mA, i drift 45mA, 24 VDC standby 20 mA, i drift 30 mA - **Utgångar: NO & NO / NC & NC (max 1 A / 30 VDC**....",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135440"  
+}
+

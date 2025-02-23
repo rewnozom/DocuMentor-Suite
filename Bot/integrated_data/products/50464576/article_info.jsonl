@@ -1,0 +1,14 @@
+{  
+  "identifier": "erred",  
+  "original": "erred",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "es has been designed to be compliant with these regulatory concerns. Alkaline batteries (sometimes r**eferred **to as \"Dry cell\" batteries) are not listed as dangerous goods under the ADR European Agreement Conc",  
+  "source": "regex",  
+  "product_id": "50464576"  
+}
+

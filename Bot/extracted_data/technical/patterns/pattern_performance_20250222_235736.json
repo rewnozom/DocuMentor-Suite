@@ -1,0 +1,421 @@
+{
+  "timestamp": "20250222_235736",
+  "total_patterns": 239,
+  "patterns_with_matches": 58,
+  "individual_pattern_performance": {
+    "113": {
+      "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",
+      "count": 144,
+      "group": "material",
+      "percentage": 15.17386722866175
+    },
+    "151": {
+      "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",
+      "count": 104,
+      "group": "connection",
+      "percentage": 10.95890410958904
+    },
+    "43": {
+      "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",
+      "count": 100,
+      "group": "electrical",
+      "percentage": 10.537407797681771
+    },
+    "123": {
+      "pattern": "(?i)(?:färg|color)\\s*:\\s*([^\\.]+)",
+      "count": 71,
+      "group": "color",
+      "percentage": 7.481559536354057
+    },
+    "52": {
+      "pattern": "(?i)(?:skyddsklass|protection class)\\s*:\\s*([^\\.]+)",
+      "count": 52,
+      "group": "electrical",
+      "percentage": 5.47945205479452
+    },
+    "171": {
+      "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",
+      "count": 46,
+      "group": "certification",
+      "percentage": 4.847207586933614
+    },
+    "111": {
+      "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",
+      "count": 39,
+      "group": "environmental",
+      "percentage": 4.10958904109589
+    },
+    "8": {
+      "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+      "count": 38,
+      "group": "dimensions",
+      "percentage": 4.004214963119073
+    },
+    "190": {
+      "pattern": "(?i)(?:installation|installation)\\s*:\\s*([^\\.]+)",
+      "count": 30,
+      "group": "installation",
+      "percentage": 3.1612223393045316
+    },
+    "90": {
+      "pattern": "(?i)(?:kapacitet|capacity)\\s*:\\s*([^\\.]+)",
+      "count": 28,
+      "group": "performance",
+      "percentage": 2.9504741833508956
+    },
+    "21": {
+      "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+      "count": 26,
+      "group": "electrical",
+      "percentage": 2.73972602739726
+    },
+    "10": {
+      "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+      "count": 26,
+      "group": "dimensions",
+      "percentage": 2.73972602739726
+    },
+    "9": {
+      "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+      "count": 22,
+      "group": "dimensions",
+      "percentage": 2.3182297154899896
+    },
+    "2": {
+      "pattern": "(?i)mått\\s*:\\s*([^\\.]+)",
+      "count": 20,
+      "group": "dimensions",
+      "percentage": 2.107481559536354
+    },
+    "6": {
+      "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",
+      "count": 16,
+      "group": "dimensions",
+      "percentage": 1.685985247629083
+    },
+    "1": {
+      "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",
+      "count": 16,
+      "group": "dimensions",
+      "percentage": 1.685985247629083
+    },
+    "0": {
+      "pattern": "(?i)dimensioner\\s*:\\s*([^\\.]+)",
+      "count": 14,
+      "group": "dimensions",
+      "percentage": 1.4752370916754478
+    },
+    "94": {
+      "pattern": "(?i)(?:minne|memory)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:MB|GB|TB)",
+      "count": 14,
+      "group": "performance",
+      "percentage": 1.4752370916754478
+    },
+    "49": {
+      "pattern": "(?i)(?:säkring|fuse)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A)",
+      "count": 14,
+      "group": "electrical",
+      "percentage": 1.4752370916754478
+    },
+    "26": {
+      "pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A|mA)",
+      "count": 9,
+      "group": "electrical",
+      "percentage": 0.9483667017913594
+    },
+    "139": {
+      "pattern": "(?i)(?:kryptering|encryption)\\s*:\\s*([^\\.]+)",
+      "count": 8,
+      "group": "network",
+      "percentage": 0.8429926238145415
+    },
+    "144": {
+      "pattern": "(?i)(?:anslutningar|connections)\\s*:\\s*([^\\.]+)",
+      "count": 8,
+      "group": "connection",
+      "percentage": 0.8429926238145415
+    },
+    "169": {
+      "pattern": "(?i)(?:certifieringar|certifications)\\s*:\\s*([^\\.]+)",
+      "count": 8,
+      "group": "certification",
+      "percentage": 0.8429926238145415
+    },
+    "180": {
+      "pattern": "(?i)(?:godkännanden|approvals)\\s*:\\s*([^\\.]+)",
+      "count": 6,
+      "group": "certification",
+      "percentage": 0.6322444678609063
+    },
+    "204": {
+      "pattern": "(?i)(?:effektivitetsklass|efficiency class)\\s*:\\s*([^\\.]+)",
+      "count": 6,
+      "group": "performance_class",
+      "percentage": 0.6322444678609063
+    },
+    "145": {
+      "pattern": "(?i)(?:kontakter|connectors)\\s*:\\s*([^\\.]+)",
+      "count": 5,
+      "group": "connection",
+      "percentage": 0.5268703898840885
+    },
+    "138": {
+      "pattern": "(?i)(?:protokoll|protocol)\\s*:\\s*([^\\.]+)",
+      "count": 5,
+      "group": "network",
+      "percentage": 0.5268703898840885
+    },
+    "152": {
+      "pattern": "(?i)(?:ingångar|inputs)\\s*:\\s*([^\\.]+)",
+      "count": 5,
+      "group": "connection",
+      "percentage": 0.5268703898840885
+    },
+    "140": {
+      "pattern": "(?i)(?:nätverksport|network port)\\s*:\\s*([^\\.]+)",
+      "count": 5,
+      "group": "network",
+      "percentage": 0.5268703898840885
+    },
+    "53": {
+      "pattern": "(?i)(?:vikt|weight)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:kg|g)",
+      "count": 5,
+      "group": "weight",
+      "percentage": 0.5268703898840885
+    },
+    "65": {
+      "pattern": "(?i)(?:temperatur|temperature)\\s*:\\s*(-?\\d+(?:[.,]\\d+)?)\\s*°?C",
+      "count": 4,
+      "group": "temperature",
+      "percentage": 0.42149631190727077
+    },
+    "4": {
+      "pattern": "(?i)storlek\\s*:\\s*([^\\.]+)",
+      "count": 4,
+      "group": "dimensions",
+      "percentage": 0.42149631190727077
+    },
+    "44": {
+      "pattern": "(?i)(?:batterikapacitet|battery capacity)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mAh|Ah)",
+      "count": 4,
+      "group": "electrical",
+      "percentage": 0.42149631190727077
+    },
+    "88": {
+      "pattern": "(?i)(?:verkningsgrad|efficiency)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*%",
+      "count": 4,
+      "group": "performance",
+      "percentage": 0.42149631190727077
+    },
+    "181": {
+      "pattern": "(?i)(?:uppfyller|complies with)\\s*:\\s*([^\\.]+)",
+      "count": 4,
+      "group": "certification",
+      "percentage": 0.42149631190727077
+    },
+    "5": {
+      "pattern": "(?i)size\\s*:\\s*([^\\.]+)",
+      "count": 4,
+      "group": "dimensions",
+      "percentage": 0.42149631190727077
+    },
+    "147": {
+      "pattern": "(?i)(?:USB|USB-port)\\s*:\\s*([^\\.]+)",
+      "count": 3,
+      "group": "connection",
+      "percentage": 0.31612223393045313
+    },
+    "141": {
+      "pattern": "(?i)(?:IP-adress|IP address)\\s*:\\s*([^\\.]+)",
+      "count": 3,
+      "group": "network",
+      "percentage": 0.31612223393045313
+    },
+    "142": {
+      "pattern": "(?i)(?:gateway|gateway)\\s*:\\s*([^\\.]+)",
+      "count": 3,
+      "group": "network",
+      "percentage": 0.31612223393045313
+    },
+    "143": {
+      "pattern": "(?i)(?:nätmask|subnet mask)\\s*:\\s*([^\\.]+)",
+      "count": 3,
+      "group": "network",
+      "percentage": 0.31612223393045313
+    },
+    "37": {
+      "pattern": "(?i)(?:frekvens|frequency)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:Hz|kHz|MHz)",
+      "count": 2,
+      "group": "electrical",
+      "percentage": 0.21074815595363539
+    },
+    "22": {
+      "pattern": "(?i)(?:matningsspänning|supply voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+      "count": 2,
+      "group": "electrical",
+      "percentage": 0.21074815595363539
+    },
+    "210": {
+      "pattern": "(?i)(?:driftsförhållanden|operating conditions)\\s*:\\s*([^\\.]+)",
+      "count": 2,
+      "group": "operating_conditions",
+      "percentage": 0.21074815595363539
+    },
+    "173": {
+      "pattern": "(?i)(?:WEEE|WEEE compliant)\\s*:\\s*([^\\.]+)",
+      "count": 2,
+      "group": "certification",
+      "percentage": 0.21074815595363539
+    },
+    "136": {
+      "pattern": "(?i)(?:räckvidd|range)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:m)",
+      "count": 2,
+      "group": "network",
+      "percentage": 0.21074815595363539
+    },
+    "66": {
+      "pattern": "(?i)(?:drifttemperatur|operating temperature)\\s*:\\s*(-?\\d+(?:[.,]\\d+)?)\\s*°?C",
+      "count": 1,
+      "group": "temperature",
+      "percentage": 0.10537407797681769
+    },
+    "129": {
+      "pattern": "(?i)(?:utseende|appearance)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "color",
+      "percentage": 0.10537407797681769
+    },
+    "195": {
+      "pattern": "(?i)(?:ventilationskrav|ventilation requirements)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "installation",
+      "percentage": 0.10537407797681769
+    },
+    "24": {
+      "pattern": "(?i)(?:nominell spänning|nominal voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+      "count": 1,
+      "group": "electrical",
+      "percentage": 0.10537407797681769
+    },
+    "87": {
+      "pattern": "(?i)(?:prestanda|performance)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "performance",
+      "percentage": 0.10537407797681769
+    },
+    "176": {
+      "pattern": "(?i)(?:energiklass|energy class)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "certification",
+      "percentage": 0.10537407797681769
+    },
+    "128": {
+      "pattern": "(?i)(?:finish|finish)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "color",
+      "percentage": 0.10537407797681769
+    },
+    "105": {
+      "pattern": "(?i)(?:vatten(?:tät|skydd)|water(?:proof|protection))\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "environmental",
+      "percentage": 0.10537407797681769
+    },
+    "163": {
+      "pattern": "(?i)(?:ljuskälla|light source)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "lighting",
+      "percentage": 0.10537407797681769
+    },
+    "92": {
+      "pattern": "(?i)(?:batteritid|battery life)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:h|timmar|min)",
+      "count": 1,
+      "group": "performance",
+      "percentage": 0.10537407797681769
+    },
+    "218": {
+      "pattern": "(?i)(?:tryck|pressure)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:bar|Pa|kPa|MPa|psi)",
+      "count": 1,
+      "group": "pressure_flow",
+      "percentage": 0.10537407797681769
+    },
+    "170": {
+      "pattern": "(?i)(?:standarder|standards)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "certification",
+      "percentage": 0.10537407797681769
+    },
+    "115": {
+      "pattern": "(?i)(?:ytbehandling|surface treatment)\\s*:\\s*([^\\.]+)",
+      "count": 1,
+      "group": "material",
+      "percentage": 0.10537407797681769
+    }
+  },
+  "pattern_group_performance": {
+    "dimensions": {
+      "total_matches": 160,
+      "percentage_of_all_matches": 16.859852476290833
+    },
+    "electrical": {
+      "total_matches": 210,
+      "percentage_of_all_matches": 22.128556375131716
+    },
+    "weight": {
+      "total_matches": 5,
+      "percentage_of_all_matches": 0.5268703898840885
+    },
+    "temperature": {
+      "total_matches": 5,
+      "percentage_of_all_matches": 0.5268703898840885
+    },
+    "performance": {
+      "total_matches": 48,
+      "percentage_of_all_matches": 5.05795574288725
+    },
+    "environmental": {
+      "total_matches": 40,
+      "percentage_of_all_matches": 4.214963119072708
+    },
+    "material": {
+      "total_matches": 145,
+      "percentage_of_all_matches": 15.279241306638566
+    },
+    "color": {
+      "total_matches": 73,
+      "percentage_of_all_matches": 7.6923076923076925
+    },
+    "network": {
+      "total_matches": 29,
+      "percentage_of_all_matches": 3.0558482613277134
+    },
+    "connection": {
+      "total_matches": 125,
+      "percentage_of_all_matches": 13.171759747102213
+    },
+    "lighting": {
+      "total_matches": 1,
+      "percentage_of_all_matches": 0.10537407797681769
+    },
+    "certification": {
+      "total_matches": 68,
+      "percentage_of_all_matches": 7.165437302423603
+    },
+    "installation": {
+      "total_matches": 31,
+      "percentage_of_all_matches": 3.2665964172813484
+    },
+    "performance_class": {
+      "total_matches": 6,
+      "percentage_of_all_matches": 0.6322444678609063
+    },
+    "operating_conditions": {
+      "total_matches": 2,
+      "percentage_of_all_matches": 0.21074815595363539
+    },
+    "pressure_flow": {
+      "total_matches": 1,
+      "percentage_of_all_matches": 0.10537407797681769
+    }
+  }
+}

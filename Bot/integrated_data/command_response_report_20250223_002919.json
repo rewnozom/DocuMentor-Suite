@@ -1,0 +1,15 @@
+{
+    "timestamp": "2025-02-23T00:29:19.609053",
+    "total_products": 404,
+    "products_with_tech_responses": 0,
+    "products_with_compat_responses": 0,
+    "products_with_summary_responses": 8,
+    "products_with_all_responses": 0,
+    "products_by_response_type": {
+        "summary": 8
+    },
+    "tech_coverage_percentage": 0.0,
+    "compat_coverage_percentage": 0.0,
+    "summary_coverage_percentage": 1.9801980198019802,
+    "full_coverage_percentage": 0.0
+}

@@ -1,0 +1,14 @@
+{  
+  "identifier": "erence",  
+  "original": "erence",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "com • All information is subject to change without notice. The information contained herein is for r**eference **only and does not constitute a warranty of performance. • 05 MAY 20 UBM-0160 Rev: -",  
+  "source": "regex",  
+  "product_id": "50464975"  
+}
+

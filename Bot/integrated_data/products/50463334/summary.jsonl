@@ -1,0 +1,70 @@
+{  
+  "product_id": "50463334",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "B-apparater är avsedda för släckning av bränder i brandfarliga vätskor som t.ex bensin, olja, lack och färg. Koldioxid ger en ren släckning utan restprodukter och är därför också lämplig i rum med dyr mekanisk utrustning eller mot bränder i elektriska installationer som uppgår till 1000 Volt. Koldioxid släcker utan restprodukter och är därför särskilt lämplig i lokaler med kostbar mekanisk eller elektronisk utrustning.",  
+  "key_specifications": [  
+    {  
+      "category": "MATERIAL",  
+      "name": "material",  
+      "value": "| Stål     |               |                                 |\n| Drivgas: | Nitrogen |               |                                 |\n| Bruttovikt (kg): | 6",  
+      "unit": null  
+    },  
+    {  
+      "category": "PERFORMANCE",  
+      "name": "Effektivitetsklass",  
+      "value": "| 34B      | Artikel: | 600066-60                       |\n| Temperaturområde: -30 °C / +60 °C |          | EAN: | 7320890066607                   |\n| Släckmedel: | CO2      |               | EN3 Testrapport: 20180791/OX 61 |\n| Storlek släckare: | 2 kg     | MED cert: | 16/CN/4001-1-Rev 0              |\n| Tömningstid: | 8 s      | Certifiering: | EN3-7, CE, Wheelmark            |\n| Arbetstryck: | 220 Bar  |               |                                 |\n| Arbetstryck: | 220 Bar  |               |                                 |\n| Cylindermaterial: | Stål     |               |                                 |\n| Drivgas: | Nitrogen |               |                                 |\n| Bruttovikt (kg): | 6",  
+      "unit": "B"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "ger apparaten brandklass B",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "uppgår till 1000 Volt",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är tyngre än luft kokpunkt -56 °C / fryspunkt -78 °C",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "# **TEKNISK SPECIFIKATION** | Brandklass | B | Modell | K2 | |-----------------------------------|----------|---------------|---------------------------------| | Effektivitetsklass | 34B | Artikel | 600066-60 | | Temperaturområde -30 °C / +60 °C | | EAN | 7320890066607 | | Släckmedel | CO2 | | EN3 Testrapport 20180791/OX 61 | | Storlek släckare | 2 kg | MED cert | 16/CN/4001-1-Rev 0 | | Tömningstid | 8 s | Certifiering | EN3-7 CE Wheelmark | | Arbetstryck | 220 Bar | | | | Arbetstryck | 220 Bar | | | | Cylindermaterial | Stål | | | | Drivgas | Nitrogen | | | | Bruttovikt (kg) | 6",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "600066",  
+        "20180791",  
+        "7320890066607",  
+        "20180791"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| K2 | |-----------------------------------|----------|---------------|---------------------------------| | Effektivitetsklass | 34B | Artikel | 600066-60 | | Temperaturområde -30 °C / +60 °C | | EAN | 7320890066607 | | Släckmedel | CO2 | | EN3 Testrapport 20180791/OX 61 | | Storlek släckare | 2 kg | MED cert | 16/CN/4001-1-Rev 0 | | Tömningstid | 8 s | Certifiering | EN3-7 CE Wheelmark | | Arbetstryck | 220 Bar | | | | Arbetstryck | 220 Bar | | | | Cylindermaterial | Stål | | | | Drivgas | Nitrogen | | | | Bruttovikt (kg) | 6",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "600066",  
+        "20180791",  
+        "7320890066607",  
+        "20180791"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Koldioxid ger en ren släckning utan restprodukter och är därför också lämplig i rum med dyr mekanisk utrustning eller mot bränder i elektriska installationer som uppgår till 1000 Volt",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "7320890066607"  
+    ]  
+  }  
+}
+

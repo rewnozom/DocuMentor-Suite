@@ -1,0 +1,14 @@
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "a-batteri. | 12 V | 45 Ah | #### Tabell 3. 10+ Design life* batteri | Artikelnummer | E-nummer | Art**ikelnamn | **Termi<br>nal | Mått. Höjd, bredd,<br>djup | Vikt per<br>styck |",  
+  "source": "regex",  
+  "product_id": "50464764"  
+}
+

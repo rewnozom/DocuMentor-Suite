@@ -1,0 +1,69 @@
+{  
+  "product_id": "50153158",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n![](images/_page_0_Picture_1.jpeg)\n\n## Larmsändare gemino IoT - Installationsmanual\n\n![](images/_page_0_Picture_3.jpeg)\n\nwww.kseniasecurity.com\n\n# INNEHÅLLSFÖRTECKNING\n\n| Introduktion<br>Huvudfunktioner |  |\n|---------------------------------|--|\n| Produktöversikt                 |  |\n| Tekniska data                   |  |\n| Kommunikationstyp               |  |\n| Installation                    |  |\n| Programmering                   |  |\n| LED-Indikering                  |  |\n\n### INTRODUKTION\n\ngemino IoT är en IP-larmsändare som ökar kommunikationskapaciteten för centralaparat lares 4.0 till två larmöverföringskanaler: Ethernet/IP och 4G datanätverk (med mottagning även på 2G/GPRS banden). gemino IoT gör att centralapparater i lares 4.0 serien, installerade på platser som saknar tillräcklig GSM- täckning kan nås från 4G datanätverk eller via Internet på ett helt transparent sätt för installatören och slutanvändaren. Den tillhandahåller även en höghastighetsdatakanal (upp till 10Mbit/s i nedladdningshastighet) som kan erbjuda en komplett back-up av kommunikationsnätverket vid fel eller tillfällig brist på täckning från 4Gnätverket till IP-LAN nätverket och vice versa, vilket säkerställer en total säkerhet för data och kommunikation.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "DIN 503 kapsling) - 6 3",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "DIN 503 kapsling) - 6 3",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "korrekt behandling återvinning och återvinning av begagnad elektrisk och elektronisk utrustning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "röstmenystyrning - Spänningsmatning PoE 13W eller 12 VDC | Artikelnummer | Beskrivning | |---------------|--------------------------------------------------------| | 12224 | Larmsändare gemino IoT - IP/4G | | 12226 | Antenn 4G med väggfäste anslutningar och 10m<br>kabel | #### PRODUKTÖVERSIKT ![](images/_page_3_Figure_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "12224",  
+        "12226"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "någon av de programmerade händelserna inträffar - Fjärrstyrning av systemet genom röstmenystyrning - Spänningsmatning PoE 13W eller 12 VDC | Artikelnummer | Beskrivning | |---------------|--------------------------------------------------------| | 12224 | Larmsändare gemino IoT - IP/4G | | 12226 | Antenn 4G med väggfäste anslutningar och 10m<br>kabel | #### PRODUKTÖVERSIKT ![](images/_page_3_Figure_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "12224",  
+        "12226"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "behörig personal ![](images/_page_3_Figure_15",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- 1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- 4",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- 5",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

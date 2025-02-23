@@ -1,0 +1,14 @@
+{  
+  "relation_type": "version",  
+  "related_product": "002 ![](images/_page_0_Figure_2",  
+  "context": "# Tekniskt produktblad JCK108.245 ## **Version 002 ![](images/_page_0_Figure_2.**jpeg) ### Hålbildsritningar: ![](images/_page_0_Figure_5.jpeg) rengöringsmedel. Tillval: Går att beställa med: - * NO/NC Mikrob",  
+  "position": [  
+    37,  
+    70  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155022"  
+}
+

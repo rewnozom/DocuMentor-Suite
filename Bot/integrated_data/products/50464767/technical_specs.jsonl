@@ -1,0 +1,88 @@
+{  
+  "name": "Höjd",  
+  "raw_value": "444",  
+  "category": "DIMENSIONS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "444",  
+    "unit": null,  
+    "normalized_value": 444.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "| | | | | Kapslingsklass | IP 32 | | | | | Mått | Höjd: 444 mm, bred 438 mm, djup 212 mm | | | | | Höjdenheter | 10 HE",  
+  "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",  
+  "pattern_index": 8,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464767"  
+}
+
+{  
+  "name": "spänning",  
+  "raw_value": "230",  
+  "category": "ELECTRICAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "230",  
+    "unit": null,  
+    "normalized_value": 230.0,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "230 V / 230 V | Utgående last, 230 V. Anslutning till pictogram. Alltid fasspänning | | 10 | LINE | Anslutning nätspänning: 230 V In (FAS in) | | 11 |** NEUTRAL | Ansl**utning nätspänning: 230 V Noll",  
+  "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",  
+  "pattern_index": 21,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464767"  
+}
+
+{  
+  "name": "EMC",  
+  "raw_value": "| EMC Direktivet 2014/30EU                                                 |\n|-----------|--------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                       |\n|           | EN 62368-1                                                               |\n| CE: | CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11                        |\n\n### 14",  
+  "category": "ENVIRONMENTAL",  
+  "unit": "EU",  
+  "value": {  
+    "raw_value": "| EMC Direktivet 2014/30EU                                                 |\n|-----------|--------------------------------------------------------------------------|\n| El: | Lågspänningsdirektivet: 2014/35/EU                                       |\n|           | EN 62368-1                                                               |\n| CE: | CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11                        |\n\n### 14",  
+    "unit": "EU",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ING** Tändfas saknas. Eftermontering av tändfas är ej möjligt. ### 14.3. Regelverk och certifieringar #### 14.3.1. Krav som produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |-----------|-------...",  
+  "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 111,  
+  "source": "regex",  
+  "importance": "high",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464767"  
+}
+
+{  
+  "name": "CE",  
+  "raw_value": "| CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11                        |\n\n### 14",  
+  "category": "MISCELLANEOUS",  
+  "unit": "EN",  
+  "value": {  
+    "raw_value": "| CE direktivet enligt:765/2008                                            |\n| Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 |\n| Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11                        |\n\n### 14",  
+    "unit": "EN",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ktivet: 2014/35/EU | | | EN 62368-1 | | CE: | CE direktivet enligt:765/2008 | | Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 | | Immunity: | EN61000-6-2:2005, E...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50464767"  
+}
+

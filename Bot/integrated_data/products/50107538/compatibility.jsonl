@@ -1,0 +1,149 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "RADIOMOTTAGARE ** Public Buildnings - *Trådlöst sändare med inbyggt batteri typ 10A ingår",  
+  "context": "x 28 mm* - Batterilivslängd: 6000-8000 öppningar beroende på temperatur, luftfuktighet mm ![](images/_page_1_Picture_9.jpeg) *P**ASSAR RADIOMOTTAGARE ** Public Buildnings - *Trådlöst sändare med inbyggt batteri, typ 10A, ingår..**.* - *Lämplig för inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens : 433,92 MHz* - *Fuktsäker mikrobry",  
+  "position": [  
+    508,  
+    607  
+  ],  
+  "pattern_index": 1,  
+  "pattern": "(?i)passar\\s+(?:på|i)?\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens 43392 MHz* - *Fuktsäker mikrobrytare IP-klass 67* - *Mått 250 x 95 x 25 mm* Batterilivslängd 4000-5000 öppningar beroende på temperatur luftfuktighet mm*",  
+  "context": "ture_9.jpeg) *PASSAR RADIOMOTTAGARE ** Public Buildnings - *Trådlöst sändare med inbyggt batteri, typ 10A, ingår...* - ***Lämplig för inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens : 433,92 MHz* - *Fuktsäker mikrobrytare, IP-klass 67* - *Mått 250 x 95 x 25 mm* Batterilivslängd: 4000-5000 öppningar beroende på temperatur, luftfuktighet mm*.*** ![](images/_page_1_Picture_19.jpeg) MINI MOTTAGARE 1, 2 ELLER 4 RELÄ «ON/OFF» OCH PULS - *Frekvens: 433,92 MHz 1, 2 eller 4 r",  
+  "position": [  
+    614,  
+    852  
+  ],  
+  "pattern_index": 10,  
+  "pattern": "(?i)lämplig\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "43392"  
+  ],  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "recommended",  
+  "related_product": "inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens 43392 MHz* - *Fuktsäker mikrobrytare IP-klass 67* - *Mått 250 x 95 x 25 mm* Batterilivslängd 4000-5000 öppningar beroende på temperatur luftfuktighet mm*",  
+  "context": "ture_9.jpeg) *PASSAR RADIOMOTTAGARE ** Public Buildnings - *Trådlöst sändare med inbyggt batteri, typ 10A, ingår...* - ***Lämplig för inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens : 433,92 MHz* - *Fuktsäker mikrobrytare, IP-klass 67* - *Mått 250 x 95 x 25 mm* Batterilivslängd: 4000-5000 öppningar beroende på temperatur, luftfuktighet mm*.*** ![](images/_page_1_Picture_19.jpeg) MINI MOTTAGARE 1, 2 ELLER 4 RELÄ «ON/OFF» OCH PULS - *Frekvens: 433,92 MHz 1, 2 eller 4 r",  
+  "position": [  
+    614,  
+    852  
+  ],  
+  "pattern_index": 48,  
+  "pattern": "(?i)(?:lämplig|suitable)\\s+(?:för|for)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "43392"  
+  ],  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "cdvi",  
+  "context": "ng code Keeloq® - Strömförsörjning: - 230 VAC, 50 Hz - Finns även med 12/24 VAC/DC Tel: +46 (0)31 760 19 30 *cdvigroup.c**om cdvi.**se* **CDVI** Sweden AB Datavägen 12B",  
+  "position": [  
+    1831,  
+    1839  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Rolling code Keeloq® - Strömförsörjning 12/24 VAC/DC ![](images/_page_1_Picture_25",  
+  "context": "peg) MINI MOTTAGARE 1, 2 ELLER 4 RELÄ «ON/OFF» OCH PULS - *Frekvens: 433,92 MHz 1, 2 eller 4 relä, 24VA/24W* - Krypterin**g: Rolling code Keeloq® - Strömförsörjning: 12/24 VAC/DC ![](images/_page_1_Picture_25.**jpeg) STANDARD MOTTAGARE «ON/OFF», PULS OCH TIDSSTYRNING - *Frekvens: 433,92 MHz Två relä, 24 VA/24W LCD-display för enk",  
+  "position": [  
+    998,  
+    1078  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Rolling code - Keeloq® Strömförsörjning 12/24 VAC/DC ![](images/_page_1_Picture_31",  
+  "context": "ING - *Frekvens: 433,92 MHz Två relä, 24 VA/24W LCD-display för enkel* Commercial Industrial - *programmering* Krypterin**g: Rolling code - Keeloq® Strömförsörjning: 12/24 VAC/DC ![](images/_page_1_Picture_31.**jpeg) NANO MOTTAGARE FÖR DÖRRAUTOMATIKER, ENDAST PULS - *Frekvens: 433,92 MHz Ett relä, 24 VA/24W* - Kryptering: Rolling",  
+  "position": [  
+    1251,  
+    1331  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Rolling code Keeloq® - Strömförsörjning 12/24 VAC/DC - Finns även med 230 VAC Multi-tenant Residential occupancy ![](images/_page_1_Picture_38",  
+  "context": "icture_31.jpeg) NANO MOTTAGARE FÖR DÖRRAUTOMATIKER, ENDAST PULS - *Frekvens: 433,92 MHz Ett relä, 24 VA/24W* - Krypterin**g: Rolling code Keeloq® - Strömförsörjning: 12/24 VAC/DC - Finns även med 230 VAC Multi-tenant Residential occupancy ![](images/_page_1_Picture_38.**jpeg) POWER MOTTAGARE «ON/OFF», PULS OCH TIDSSTYRNING - *Frekvens: 433,92 MHz Två eller fyra relä, 3,5 KW/16A* - Krypter",  
+  "position": [  
+    1441,  
+    1581  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Rolling code Keeloq® - Strömförsörjning - 230 VAC 50 Hz - Finns även med 12/24 VAC/DC Tel +46 (0)31 760 19 30 *cdvigroup",  
+  "context": "eg) POWER MOTTAGARE «ON/OFF», PULS OCH TIDSSTYRNING - *Frekvens: 433,92 MHz Två eller fyra relä, 3,5 KW/16A* - Krypterin**g: Rolling code Keeloq® - Strömförsörjning: - 230 VAC, 50 Hz - Finns även med 12/24 VAC/DC Tel: +46 (0)31 760 19 30 *cdvigroup.**com cdvi.se* **CDVI** Sweden AB Datavägen 12B",  
+  "position": [  
+    1703,  
+    1830  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "E ingår* - *Kan monteras utomhus under tak men är inte vattentät* - *Tillverkad i aluminium* - *Frekvens 43392 MHz* - *Fuktsäker mikrobrytare IP-klass 67* - *Mått 245 x 80 x 28 mm* - Batterilivslängd 6000-8000 öppningar beroende på temperatur luftfuktighet mm ![](images/_page_1_Picture_9",  
+  "context": "s choice cdvi.se ンズでロロココ ## TRÅDLÖSA ARMBÅGSKONTAKTER MED INBYGGD RADIOSÄNDARE - *Trådlöst sändare med inbyggt batteri, **typ E, ingår* - *Kan monteras utomhus under tak, men är inte vattentät* - *Tillverkad i aluminium* - *Frekvens : 433,92 MHz* - *Fuktsäker mikrobrytare, IP-klass 67* - *Mått 245 x 80 x 28 mm* - Batterilivslängd: 6000-8000 öppningar beroende på temperatur, luftfuktighet mm ![](images/_page_1_Picture_9.**jpeg) *PASSAR RADIOMOTTAGARE ** Public Buildnings - *Trådlöst sändare med inbyggt batteri, typ 10A, ingår...* - *Lämplig",  
+  "position": [  
+    207,  
+    501  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "43392"  
+  ],  
+  "product_id": "50107538"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "10A ingår",  
+  "context": "het mm ![](images/_page_1_Picture_9.jpeg) *PASSAR RADIOMOTTAGARE ** Public Buildnings - *Trådlöst sändare med inbyggt batteri, **typ 10A, ingår.**..* - *Lämplig för inomhus montage* - *Tillverkad i slagtålig ABS-plast* - *Frekvens : 433,92 MHz* - *Fuktsäker mikrobry",  
+  "position": [  
+    592,  
+    607  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50107538"  
+}
+

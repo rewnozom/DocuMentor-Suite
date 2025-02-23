@@ -1,0 +1,42 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "batterikapacitet • Inställt larmvärde när batteri börjar ta slut • Sabotage • Kommunikation #### **A**rtikelnummer**** • ASSA ABLOY 10PSC L: S55299310165 #### **Tillbehör** • Batteribox ASSA ABLOY BB for PSC: S552993",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "identifier": "lackerad",  
+  "original": "lackerad",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "programmera enheten och kräver inga ingångslicenser. Batteribackupen har en välbeprövad design i sva**rtlackerad **plåt med tydlig lysdiodsindikering för statusinformation på skåpsfronten. Enheten monteras enkelt p",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "batterikapacitet • Inställt larmvärde när batteri börjar ta slut • Sabotage • Kommunikation #### **A**rtikelnummer**** • ASSA ABLOY 10PSC L: S55299310165 #### **Tillbehör** • Batteribox ASSA ABLOY BB for PSC: S552993",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+

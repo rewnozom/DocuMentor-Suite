@@ -1,0 +1,48 @@
+{  
+  "product_id": "50108137",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n#### **Funktion:**\n\nUtgångarna är slingövervakade och har indikering för avbrott eller kortslutning av slinga. Vid fel släpper ett summalarmrelä med växlande kontakter. Styrning av reläerna görs med 5st separata ingångar och förses med motstånd för att anpassas till brandlarmcentral slingavkänning.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "att ställa dipswitchar även aktivera andra utgångar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "väljs med dipswitchar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ej används måste förses med slutmotstånd",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | HxBxD mm | |----------|--------|------------------------------------------------|------------| | 5247057 | 950 | SM950 Larmdonsstyrningskort 5x2-pol 2A grupper | 110x90x50 | | 5247058 | PCM150 | Väggkapsling med transparant lock | 180x130x75 | | 5247059 | 955 | SM955 Pulskort | 40x40x20 | | 5247046 | 911S | SM911 19\" ram för 4st styrkort | 135x480x60 | | 5247047 | 912S | SM912 Lock till 19\" ram | 135x480 | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5247057",  
+        "5247058",  
+        "5247059",  
+        "5247046",  
+        "5247047"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Ingång 1 kan genom att ställa dipswitchar även aktivera andra utgångar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Fel på slingor indikeras med att röd lysdiod märkt med typ av fellarm tänds och att ett summalarmrelä med potentialfri växlingskontakt aktiveras",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

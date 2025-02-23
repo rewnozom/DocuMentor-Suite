@@ -1,0 +1,84 @@
+{  
+  "identifier": "laddningen",  
+  "original": "laddningen",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "kar upprepat 3 röda blink ORANGE. Överspänning. Om laddspänningen överstiger 27,9V, kopplas omedelba**rt laddningen **bort och larm ges (på potentialfri kontakt) och lysdiod på frontpanel blinkar upprepat 4 röda blink",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "identifier": "effekt",  
+  "original": "effekt",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "g effektförbrukning från växelriktaren än angiven märkeffekt på lasten. Ta hänsyn till tillfällig st**arteffekt**, så att den inte överstiger angiven max – kortvarig – starteffekt (VA) hos växelriktaren. Reservdri",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "identifier": "minus",  
+  "original": "minus",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "m: Kontrollera laddspänning. Mät spänning till 27,3 V. Vid tvåpolig nätaggregatplint, (röd plus-, sv**art minus**-kabel). #### 12.2. Kontrollåtgärder vid larm UPS - Larm för åldrat batteri Batteriernas kapacitet",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "identifier": "ikelben",  
+  "original": "ikelben",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| Förklaring | | |--------------------|--------------------------------|--| | Artikelbenämning | 1FA**S Multi | **| | Produktbeskrivning | Moderkort för styrning av UPS.",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "identifier": "effet",  
+  "original": "effet",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "-----------------------| | Spänningsform | Enfas sinus | | Max starteffet: | 2 kVA | | Laddström: | 6,5 A",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "a-batteri. | 12 V | 20 Ah | #### Tabell 9. 10+ Design life* batteri | Artikelnummer | E-nummer | Art**ikelnamn | **Termi<br>nal | Mått. Höjd,<br>bredd, djup | Vikt per<br>styck |",  
+  "source": "regex",  
+  "product_id": "50464768"  
+}
+

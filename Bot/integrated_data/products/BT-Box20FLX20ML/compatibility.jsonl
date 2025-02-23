@@ -1,0 +1,112 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "BT-FLX M/L för att erhålla möjlighet till längre reservdrifttid alt",  
+  "context": "_0_Picture_0.jpeg) ## BT-BOX FLX M/L Artikelnummer: 28160162, E-nummer: 5257452 ![](images/_page_0_Picture_3.jpeg) Används som **tillval till BT-FLX M/L för att erhålla möjlighet till längre reservdrifttid alt.** högre medellast i en klassad anläggning. - •Plats för 2 st. 45Ah batterier - •Snabbanslutningskabel - •Larmklass 3/4 An",  
+  "position": [  
+    129,  
+    210  
+  ],  
+  "pattern_index": 14,  
+  "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "relation_type": "accessory",  
+  "related_product": "BT-FLX M/L för att erhålla möjlighet till längre reservdrifttid alt",  
+  "context": "_0_Picture_0.jpeg) ## BT-BOX FLX M/L Artikelnummer: 28160162, E-nummer: 5257452 ![](images/_page_0_Picture_3.jpeg) Används som **tillval till BT-FLX M/L för att erhålla möjlighet till längre reservdrifttid alt.** högre medellast i en klassad anläggning. - •Plats för 2 st. 45Ah batterier - •Snabbanslutningskabel - •Larmklass 3/4 An",  
+  "position": [  
+    129,  
+    210  
+  ],  
+  "pattern_index": 79,  
+  "pattern": "(?i)(?:tillval|option)\\s+(?:till|för)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tillval till BT-FLX M/L för att erhålla möjlighet till längre reservdrifttid alt",  
+  "context": "age_0_Picture_0.jpeg) ## BT-BOX FLX M/L Artikelnummer: 28160162, E-nummer: 5257452 ![](images/_page_0_Picture_3.jpeg) Används s**om tillval till BT-FLX M/L för att erhålla möjlighet till längre reservdrifttid alt.** högre medellast i en klassad anläggning. - •Plats för 2 st. 45Ah batterier - •Snabbanslutningskabel - •Larmklass 3/4 An",  
+  "position": [  
+    126,  
+    210  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "- •BT-5 FLX LARGE COM - •BT-10 FLX LARGE COM - •BT-15 FLX LARGE COM - •BT-25 FLX LARGE COM ![](images/_page_1_Picture_0",  
+  "context": "vudenheten via en snabbanslutningskabel. Batterilåda BT-Box FLX M / L kan användas tillsammans med: - •BT-5 FLX MEDIUM C**OM - •BT-5 FLX LARGE COM - •BT-10 FLX LARGE COM - •BT-15 FLX LARGE COM - •BT-25 FLX LARGE COM ![](images/_page_1_Picture_0.**jpeg) | Utförande: | Svart | |-----------------------------|--------------------------------| | Miljöklass: | Klass 1 |",  
+  "position": [  
+    470,  
+    586  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- •Plats för 2 st",  
+  "context": "tillval till BT-FLX M/L för att erhålla möjlighet till längre reservdrifttid alt. högre medellast i en klassad anläggnin**g. - •Plats för 2 st.** 45Ah batterier - •Snabbanslutningskabel - •Larmklass 3/4 Ansluts enkelt till huvudenheten via en snabbanslutningskabel.",  
+  "position": [  
+    249,  
+    270  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| IP32 | | Temperaturområde | 5 - 40°C (optimalt 15 - 20 °C) | | Montering | Under aggregaten | | Mått (BxHxD) | 222x436x210 mm | | Vikt | 4 kg | | Antal kabelgenomföringar | 4 st | | Inbygd fläkt | Ja | | Batterikombination | 2 st",  
+  "context": "| Svart | |-----------------------------|--------------------------------| | Miljöklass: | Klass 1 | | Kapslingsklassnin**g: | IP32 | | Temperaturområde: | 5 - 40°C (optimalt 15 - 20 °C) | | Montering: | Under aggregaten | | Mått (BxHxD): | 222x436x210 mm | | Vikt: | 4 kg | | Antal kabelgenomföringar: | 4 st | | Inbygd fläkt: | Ja | | Batterikombination: | 2 st.** 45Ah | | Utgångsspänning: | 27,3 VDC | | Batterityp: | 12V AGM-batteri | | SBSC Certifierad: | SSF 1014 Larmklass 3/4 |",  
+  "position": [  
+    725,  
+    967  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 273 VDC | | Batterityp | 12V AGM-batteri | | SBSC Certifierad | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC) | Batterybox 24V-FLX M/L |",  
+  "context": "4 kg | | Antal kabelgenomföringar: | 4 st | | Inbygd fläkt: | Ja | | Batterikombination: | 2 st. 45Ah | | Utgångsspännin**g: | 27,3 VDC | | Batterityp: | 12V AGM-batteri | | SBSC Certifierad: | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC): | Batterybox 24V-FLX M/L |**",  
+  "position": [  
+    991,  
+    1144  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V AGM-batteri | | SBSC Certifierad | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC) | Batterybox 24V-FLX M/L |",  
+  "context": "föringar: | 4 st | | Inbygd fläkt: | Ja | | Batterikombination: | 2 st. 45Ah | | Utgångsspänning: | 27,3 VDC | | Batteri**typ: | 12V AGM-batteri | | SBSC Certifierad: | SSF 1014 Larmklass 3/4 | | Benämning producent (SBSC): | Batterybox 24V-FLX M/L |**",  
+  "position": [  
+    1016,  
+    1144  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "BT-Box20FLX20ML"  
+}
+

@@ -1,0 +1,31 @@
+{  
+  "product_id": "50153346",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "USB-C möjliggör snabbare och effektivare laddning än tidigare USB-portar, så som USB-A och Micro-USB. Porten är vändbar, vilket gör det enklare att ansluta till din enhet. Den MFI-certifierade Lightningkabeln är tillverkad för Apples produkter och stödjer snabb laddning.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "USB-A och Micro-USB",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "- 1 meter - Inget sladdtrassel med nylonbeklädd kabel - Output 5V/3A 9V/2A (Max",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "4891199190766"  
+    ],  
+    "E-nummer": [  
+      "5720720"  
+    ],  
+    "Artikelnummer": [  
+      "405173"  
+    ]  
+  }  
+}
+

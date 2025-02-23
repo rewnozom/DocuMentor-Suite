@@ -1,0 +1,50 @@
+{  
+  "product_id": "50152734",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n## BT-5 MEDIUM\n\nArtikelnummer: 28160113, E-nummer: 5257460\n\n![](images/_page_0_Picture_3.jpeg)\n\nBT-5 Medium används främst i säkerhetssystem där en enkel och pålitlig strömförsörjning med batteribackupfunktion behövs. BT-5 Medium erbjuder IQ-Charge vilket innebär att batterierna aldrig laddas med mer än 1A. Detta förhindrar batterierna från överladdning och förlänger deras liv avsevärt.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| 12V AGM                                       |\n| Testad och godkänd med: | UPLUS 10+ Design Life 7,2Ah or 14Ah batteries |\n| Benämning producent (SBSC): | ECO 24V 5A M                                  |",  
+      "unit": "V"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "Utgångar",  
+      "value": "| 1 st                                          |\n| Miljöklass: | Klass 1                                       |\n| Kapslingsklassning: | IP20                                          |\n| Temperaturområde: | 5-40°C                                        |\n| Montering: | Vägg                                          |\n| Mått (BxHxD): | 242x350x150mm                                 |\n| Vikt: | 4kg                                           |\n| Antal kabelgenomföringar: | 3                                             |\n| Inbygd fläkt: | Ja                                            |\n| Matningsspänning: | 110V-264VAC/47-63Hz                           |\n| Max",  
+      "unit": "st"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "BT-5 Medium kan kompletteras med en batterilåda batterilådan placeras under batteribackupen och ansluts via en snabbanslutningskabel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| IP20 | | Temperaturområde | 5-40°C | | Montering | Vägg | | Mått (BxHxD) | 242x350x150mm | | Vikt | 4kg | | Antal kabelgenomföringar | 3 | | Inbygd fläkt | Ja | | Matningsspänning | 110V-264VAC/47-63Hz | | Max",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| DC | | Första utgångsspänning (min-max) | 21-273 | | Matningsspänning | 273VDC | | Möjlig batteri kombination | 2x 72Ah or 2x 14Ah | | Batterityp | 12V AGM | | Testad och godkänd med | UPLUS 10+ Design Life 72Ah or 14Ah batteries | | Benämning producent (SBSC) | ECO 24V 5A M |",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "E-nummer": [  
+      "5257460"  
+    ],  
+    "EAN-8": [  
+      "28160113"  
+    ],  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

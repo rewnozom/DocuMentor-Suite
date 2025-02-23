@@ -1,0 +1,50 @@
+{  
+  "product_id": "50152076",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "(se blad 3)\n\n#### Funktion\n\nSMP900 har 5st grupper, som är försedda med 2A bladsäkringar. Kan vid behov bytas till max 5A säkringar, dock får det totala strömuttaget på kortet inte överstiga 10A. Varje säkringsgrupp har separat LED-indikering av utspänningen.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "framförallt när det kommer till SSFklassade installationer",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är försedda med 2A bladsäkringar",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "larmreläet sluts",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "är slutet om spänning över 5V och alla säkringar hela klarar både AC/DC upp till 200mA",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| Beskrivning | Mått H x B x D<br>(mm) | |----------|------------|--------------------------------------------------|------------------------| | 5257223 | SPM900-L | SITE PROTECTION MODUL 5GRUPP 1-POL 7-30VDC | 37x86x25 | | 5257224 | SPM900-DIN | SITE PROTECTION MODUL 5GRUPP 1-POL 7-30VDC | 37x86x25 | | 5257243 | SPM900-DS | Plast kapsling med plats för ett eller två kort",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5257223",  
+        "5257224",  
+        "5257243"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Utlöst säkring indikeras med att den gröna lysdioden för gruppen slocknar och den röda tänds samtidigt som larmreläet sluts",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

@@ -1,0 +1,280 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "rackmontage",  
+  "context": "inal batterier. Färdiga kablar emot batterierna samt färdig kabel för anslutning emot batteriback<br>upen.Kapslingen är **avsedd för rackmontage.**<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas om produkten skall nyttjas tillsammans med NEO / NOVA /",  
+  "position": [  
+    1721,  
+    1744  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "rackmontage",  
+  "context": "åldrat batteri\". Färdiga kablar emot batterierna samt färdig kabel för anslutning<br>emot batteribackupen.Kapslingen är **avsedd för rackmontage.**<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas om produkten skall nyttjas tillsammans med NEO / NOVA /",  
+  "position": [  
+    2272,  
+    2295  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "rackmontage",  
+  "context": "åldrat batteri\". Färdiga kablar emot batterierna samt färdig kabel för anslutning<br>emot batteribackupen.Kapslingen är **avsedd för rackmontage.**<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas om produkten skall nyttjas tillsammans med NEO / NOVA /",  
+  "position": [  
+    2823,  
+    2846  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "rackmontage",  
+  "context": "åldrat batteri\". Färdiga kablar emot batterierna samt färdig kabel för anslutning<br>emot batteribackupen.Kapslingen är **avsedd för rackmontage.**<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas om produkten skall nyttjas tillsammans med NEO / NOVA /",  
+  "position": [  
+    3374,  
+    3397  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "rackmontage",  
+  "context": "inal batterier. Färdiga kablar emot batterierna samt färdig kabel för anslutning emot batteriback<br>upen.Kapslingen är **avsedd för rackmontage.** | | | | | | | Terminal cover M6 | Våra batterihyllor är utrustade med polskydd. Om ni är i behov av polskydd för andra",  
+  "position": [  
+    3750,  
+    3773  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "M6 bult",  
+  "context": "terihyllor är utrustade med polskydd. Om ni är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd **avsedd för M6 bult.**<br>Artikelnummer: A-0000000TM601. E-nummer: 5257461 | | | | | | | Terminal cover M8 | Våra batterihyllor är utrustade m",  
+  "position": [  
+    3936,  
+    3955  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "M8 bult",  
+  "context": "terihyllor är utrustade med polskydd. Om ni är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd **avsedd för M8 bult.**<br>Artikelnummer: A-0000000TM801. E-nummer: 5257462 | | | | | | | Rekommenderad miljö och mått: | Adapter FLX to<br>Bat",  
+  "position": [  
+    4170,  
+    4189  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "standard",  
+  "context": "mförallt emot RACK Serien medans NEO / NOVA / EN54 FLX M erbjuder en 9-polig kontakt för anslutning emot batteribox<br>s**om standard.** Adaptern erbjuder en truckhandske på ena änden om kabeln och en 9-polig kontakt på andra änden om kabeln. | | | | | | |",  
+  "position": [  
+    1381,  
+    1393  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kabeln och en 9-polig kontakt på andra änden om kabeln",  
+  "context": "juder en 9-polig kontakt för anslutning emot batteribox<br>som standard. Adaptern erbjuder en truckhandske på ena änden **om kabeln och en 9-polig kontakt på andra änden om kabeln.** | | | | | | | Battery connection panel 24V | Batterianslutningspanel 24V för anslutning av front terminal batterier. Fä",  
+  "position": [  
+    1441,  
+    1499  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M",  
+  "context": "atteriback<br>upen.Kapslingen är avsedd för rackmontage.<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas **om produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M.** | | | | | | | Battery connection panel 24V-125 | Batterianslutningspanel 24V för anslutning av front terminal batterier",  
+  "position": [  
+    1808,  
+    1875  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "totalt max<br>125Ah för veckotest av batterier och därmed kunna återkoppla larm för \"åldrat batteri\"",  
+  "context": "anel 24V för anslutning av front terminal batterier. Panelen levereras inkl. effektmotstånd avsett för ett batteripaket **om totalt max<br>125Ah för veckotest av batterier och därmed kunna återkoppla larm för \"åldrat batteri\".** Färdiga kablar emot batterierna samt färdig kabel för anslutning<br>emot batteribackupen.Kapslingen är avsedd för rackm",  
+  "position": [  
+    2064,  
+    2168  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M",  
+  "context": "ot batteribackupen.Kapslingen är avsedd för rackmontage.<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas **om produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M.** | | | | | | | Battery connection panel 24V-200 | Batterianslutningspanel 24V för anslutning av front terminal batterier",  
+  "position": [  
+    2359,  
+    2426  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "totalt max<br>200Ah för veckotest av batterier och därmed kunna återkoppla larm för \"åldrat batteri\"",  
+  "context": "anel 24V för anslutning av front terminal batterier. Panelen levereras inkl. effektmotstånd avsett för ett batteripaket **om totalt max<br>200Ah för veckotest av batterier och därmed kunna återkoppla larm för \"åldrat batteri\".** Färdiga kablar emot batterierna samt färdig kabel för anslutning<br>emot batteribackupen.Kapslingen är avsedd för rackm",  
+  "position": [  
+    2615,  
+    2719  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M",  
+  "context": "ot batteribackupen.Kapslingen är avsedd för rackmontage.<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas **om produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M.** | | | | | | | Battery connection panel 24V-300 | Batterianslutningspanel 24V för anslutning av front terminal batterier",  
+  "position": [  
+    2910,  
+    2977  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "totalt max<br>300Ah för veckotest av batterier och därmed kunna återkoppla larm för \"åldrat batteri\"",  
+  "context": "anel 24V för anslutning av front terminal batterier. Panelen levereras inkl. effektmotstånd avsett för ett batteripaket **om totalt max<br>300Ah för veckotest av batterier och därmed kunna återkoppla larm för \"åldrat batteri\".** Färdiga kablar emot batterierna samt färdig kabel för anslutning<br>emot batteribackupen.Kapslingen är avsedd för rackm",  
+  "position": [  
+    3166,  
+    3270  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M",  
+  "context": "ot batteribackupen.Kapslingen är avsedd för rackmontage.<br>Observera att \"Adapter FLX to Batteryshelfs\" skall användas **om produkten skall nyttjas tillsammans med NEO / NOVA / EN54 FLX M.** | | | | | | | Battery connection panel 48V | Batterianslutningspanel 48V för anslutning av front terminal batterier. Fä",  
+  "position": [  
+    3461,  
+    3528  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ni är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd avsedd för M6 bult",  
+  "context": "n.Kapslingen är avsedd för rackmontage. | | | | | | | Terminal cover M6 | Våra batterihyllor är utrustade med polskydd. **Om ni är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd avsedd för M6 bult.**<br>Artikelnummer: A-0000000TM601. E-nummer: 5257461 | | | | | | | Terminal cover M8 | Våra batterihyllor är utrustade m",  
+  "position": [  
+    3854,  
+    3955  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ni är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd avsedd för M8 bult",  
+  "context": "mmer: A-0000000TM601. E-nummer: 5257461 | | | | | | | Terminal cover M8 | Våra batterihyllor är utrustade med polskydd. **Om ni är i behov av polskydd för andra anläggningar kan vi erbjuda detta polskydd avsedd för M8 bult.**<br>Artikelnummer: A-0000000TM801. E-nummer: 5257462 | | | | | | | Rekommenderad miljö och mått: | Adapter FLX to<br>Bat",  
+  "position": [  
+    4088,  
+    4189  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | | | | | | Ursprungsland | Sverige | | | | | | ![](images/_page_0_Picture_9",  
+  "context": "0-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11. | | | | | | | Garantiperiod: | 2 år | | | | | | | Designad och producerad a**v: | Milleteknik AB | | | | | | | Ursprungsland: | Sverige | | | | | | ![](images/_page_0_Picture_9.**jpeg)",  
+  "position": [  
+    5487,  
+    5580  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | | |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------|-------------------------------------|-------------------------------------|---------------------------------| | Adapter FLX to Battery shelf | Adpatern skall användas då man vill ansluta en batterihylla till våra NEO / NOVA / EN54 FLX M batteribackuper",  
+  "context": "connection panel 24V /48V ![](images/_page_0_Picture_6.jpeg) Battery connection panel 24V-125 / -200 / -300 | Produktbeskrvinin**g: | | | | | | | |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|----------------------------------------------------|-------------------------------------|-------------------------------------|---------------------------------| | Adapter FLX to Battery shelf | Adpatern skall användas då man vill ansluta en batterihylla till våra NEO / NOVA / EN54 FLX M batteribackuper.** Från batterihyllan erbjuds en \"truck<br>handske\" för anslutning framförallt emot RACK Serien medans NEO / NOVA / EN54 F",  
+  "position": [  
+    295,  
+    1193  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152614"  
+}
+

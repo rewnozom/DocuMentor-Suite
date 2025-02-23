@@ -1,0 +1,238 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "personen som utför installationen av till exempel passerystemet ej är en behörig elektriker men ändå vill kunna prova av systemet innan behörig elektriker utför en fast installation",  
+  "context": "kan driftsättas med endast batterierna anslutna utan att enheten är ansluten emot 230 V. Detta kan vara betydelsefullt o**m personen som utför installationen av till exempel passerystemet ej är en behörig elektriker men ändå vill kunna prova av systemet innan behörig elektriker utför en fast installation. **ECO FLX S har utrymme för upp till 2 stycken L-moduler (avsäkringskort, spänningsomvandlare med flera.) som snäpps fast",  
+  "position": [  
+    922,  
+    1107  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "snäpps fast i kapslingens kassett och ansluts emot batteribackupens moderkort",  
+  "context": "installation. ECO FLX S har utrymme för upp till 2 stycken L-moduler (avsäkringskort, spänningsomvandlare med flera.) so**m snäpps fast i kapslingens kassett och ansluts emot batteribackupens moderkort. **Kapslingen levereras inklusive sabotagekontakt monterad i dörröppningen. ECO FLX S kan kompletteras med upp till två st",  
+  "position": [  
+    1213,  
+    1294  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "medföljer i batteriboxen",  
+  "context": "ycken batteriboxar vid behov (endast 24 V). Batteriboxen skall placeras under batteribackupen och ansluts via en kabel s**om medföljer i batteriboxen.** Batteriboxen har plats för 4 stycken 14Ah batterier per varje batteribox. ECO FLX S serien skall monteras på vägg eller",  
+  "position": [  
+    1534,  
+    1562  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2021-06_V01<br>45min | | | | | | | | | | | | | | | | | | | | | ### POWER SUPPLIES - MADE IN SWEDEN ### ECO Serien #### Teknisk data | | ECO 12V 10A FLX S | ECO 24V 5A FLX S | ECO 24V 10A FLX S | | | | |------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------|--|--|--| | INFORMATION GÄLLANDE KAPSLING | | | | | | | | Rekommenderad miljö / Skyddsklass | Miljöklass 1 Inomhus 20% ~ 90% relativ fuktighet / IP32 | | | | | | | Omgivningstemperatur | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | | Rekommenderad montering | | Vägg alt",  
+  "context": "h | 1,5h | | 24 V | 2x | 7,2 Ah | 12h | 5h | 2h | 1h | 30min | 15min | | 24 V | 2x | 14 Ah | 24h | 12h | 5h | 2h | 1h | **Version: 2021-06_V01<br>45min | | | | | | | | | | | | | | | | | | | | | ### POWER SUPPLIES - MADE IN SWEDEN ### ECO Serien #### Teknisk data | | ECO 12V 10A FLX S | ECO 24V 5A FLX S | ECO 24V 10A FLX S | | | | |------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------|--|--|--| | INFORMATION GÄLLANDE KAPSLING: | | | | | | | | Rekommenderad miljö / Skyddsklass: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet / IP32 | | | | | | | Omgivningstemperatur: | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | | Rekommenderad montering: | | Vägg alt.** Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väggen. | | | | | | Dimension (Höjd x Bre",  
+  "position": [  
+    2250,  
+    3175  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Detta kan vara betydelsefullt om personen som utför installationen av till exempel passerystemet ej är en behörig elektriker men ändå vill kunna prova av systemet innan behörig elektriker utför en fast installation",  
+  "context": "ilket innebär att batteribackupen kan driftsättas med endast batterierna anslutna utan att enheten är ansluten emot 230 **V. Detta kan vara betydelsefullt om personen som utför installationen av till exempel passerystemet ej är en behörig elektriker men ändå vill kunna prova av systemet innan behörig elektriker utför en fast installation.** ECO FLX S har utrymme för upp till 2 stycken L-moduler (avsäkringskort, spänningsomvandlare med flera.) som snäpps fast",  
+  "position": [  
+    889,  
+    1107  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Milleteknik AB | | | | | | | Ursprungsland | | Sverige | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER | | | | | | | | Rekommenderad batterityp | 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapsling | 2 st",  
+  "context": "-6, -11, Lågspännings direktivet: 2014/35/EU | | | | | | | Garantiperiod: | | 2 år | | | | | | Designad och producerad a**v: | Milleteknik AB | | | | | | | Ursprungsland: | | Sverige | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER: | | | | | | | | Rekommenderad batterityp: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapsling: | 2 st.** 7,2 Ah eller 2 st. 14 Ah | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 14Ah batteri | | | | | | | Artike",  
+  "position": [  
+    5378,  
+    5664  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "ECO FLX S kan kompletteras med upp till två stycken batteriboxar vid behov (endast 24 V)",  
+  "context": "assett och ansluts emot batteribackupens moderkort. Kapslingen levereras inklusive sabotagekontakt monterad i dörröppnin**gen. ECO FLX S kan kompletteras med upp till två stycken batteriboxar vid behov (endast 24 V).** Batteriboxen skall placeras under batteribackupen och ansluts via en kabel som medföljer i batteriboxen. Batteriboxen h",  
+  "position": [  
+    1363,  
+    1457  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | | | Rekommenderad miljö / Skyddsklass | Miljöklass 1 Inomhus 20% ~ 90% relativ fuktighet / IP32 | | | | | | | Omgivningstemperatur | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | | Rekommenderad montering | | Vägg alt",  
+  "context": "-----------------------------------------------------------|-------------------|--|--|--| | INFORMATION GÄLLANDE KAPSLIN**G: | | | | | | | | Rekommenderad miljö / Skyddsklass: | Miljöklass 1, Inomhus, 20% ~ 90% relativ fuktighet / IP32 | | | | | | | Omgivningstemperatur: | +5 °C - 40 °C (För optimal batterilivslängd +15 °C - +25 °C) | | | | | | | Rekommenderad montering: | | Vägg alt.** Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väggen. | | | | | | Dimension (Höjd x Bre",  
+  "position": [  
+    2910,  
+    3175  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | | Dimension (Höjd x Bredd x Djup) | | 222x437x145mm (5HE) | | | | | | Nettovikt | 65 kg | 65 kg | 7 kg | | | | | Antal kabelgenomföringar | | 3 st",  
+  "context": "Rekommenderad montering: | | Vägg alt. Rack (vändbara vinklar medföljer). Vid väggmontage erhålls 20 mm distans emot väg**gen. | | | | | | Dimension (Höjd x Bredd x Djup): | | 222x437x145mm (5HE) | | | | | | Nettovikt: | 6,5 kg | 6,5 kg | 7 kg | | | | | Antal kabelgenomföringar: | | 3 st.** + möjlighet till 1 st. utslagshål i ryggen samt 6 st. i kapslingens topp | | | | | | Kapslingens färg: | | Svart | | |",  
+  "position": [  
+    3257,  
+    3424  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Svart | | | | | | Inbyggd fläkt för kylning | Ja | Ja | Ja | | | | | ELEKTRISK INFORMATION | | | | | | | | Inspänning | | 110V-264VAC/47-63Hz | | | | | | Utspänning | 136VDC | | 273VDC | | | | | Max ström | 10A | 5A | 10A | | | | | Ladd ström | Max 1A | Max 1A | Max 1A | | | | | Nominell effekt | 150W | 150W | 240W | | | | | Rippel i normalläge | 150mVp-p | 200mVp-p | 200mVp-p | | | | | Effektivitet | 875% | 89% | 89% | | | | | Värmegenerering vid 50% / 80% av märkeffekten | 10W / 16W | 8W / 13W | 17W / 27W | | | | | Ingångsström | 17A | 17A | 2A | | | | | Antal avsäkrade utgångar | 2 st",  
+  "context": "föringar: | | 3 st. + möjlighet till 1 st. utslagshål i ryggen samt 6 st. i kapslingens topp | | | | | | Kapslingens fär**g: | | Svart | | | | | | Inbyggd fläkt för kylning: | Ja | Ja | Ja | | | | | ELEKTRISK INFORMATION: | | | | | | | | Inspänning: | | 110V-264VAC/47-63Hz | | | | | | Utspänning: | 13,6VDC | | 27,3VDC | | | | | Max ström: | 10A | 5A | 10A | | | | | Ladd ström: | Max 1A | Max 1A | Max 1A | | | | | Nominell effekt: | 150W | 150W | 240W | | | | | Rippel i normalläge: | 150mVp-p | 200mVp-p | 200mVp-p | | | | | Effektivitet: | 87,5% | 89% | 89% | | | | | Värmegenerering vid 50% / 80% av märkeffekten: | 10W / 16W | 8W / 13W | 17W / 27W | | | | | Ingångsström: | 1,7A | 1,7A | 2A | | | | | Antal avsäkrade utgångar: | 2 st.** | 2 st. | 2 st. | | | | | Typ av säkring på utgång: | 2 st. F10A (glas) | 2 st. F5A (glas) | 2 st. F10A (glas) | | | |",  
+  "position": [  
+    3525,  
+    4144  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 2 st",  
+  "context": "sström: | 1,7A | 1,7A | 2A | | | | | Antal avsäkrade utgångar: | 2 st. | 2 st. | 2 st. | | | | | Typ av säkring på utgån**g: | 2 st.** F10A (glas) | 2 st. F5A (glas) | 2 st. F10A (glas) | | | | | Djupurladdning av batterier sker vid: | 10,5 VDC | | 21 VD",  
+  "position": [  
+    4194,  
+    4204  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 2 st",  
+  "context": "p: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapslin**g: | 2 st.** 7,2 Ah eller 2 st. 14 Ah | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 14Ah batteri | | | | | | | Artike",  
+  "position": [  
+    5654,  
+    5664  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| E-NUMMER | MAX MÖJLIGT ANTAL | |----------------------------------------------|-----------------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 4x 14Ah batterier | Battery box 24V FLX S | FS010000024BB01 | 24V | 5213574 | 2x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 2x | | Spänningsomvandlare 24V-12V 6A | Voltage Converter 24V-12V6A | A-VC002406A01LM01 | 24V | 5213593 | 2x | | 230V Kabel med stickpropp | 230V Powercord incl",  
+  "context": "Ah batteri: | | MT113-12V14-01 | | | | | #### Exempel på tillval | ARTIKELTYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNIN**G: | E-NUMMER: | MAX MÖJLIGT ANTAL: | |----------------------------------------------|-----------------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 4x 14Ah batterier | Battery box 24V FLX S | FS010000024BB01 | 24V | 5213574 | 2x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 2x | | Spänningsomvandlare 24V-12V 6A | Voltage Converter 24V-12V6A | A-VC002406A01LM01 | 24V | 5213593 | 2x | | 230V Kabel med stickpropp | 230V Powercord incl.** tamper | A-00002301FA01 | 12V / 24V | 5257446 | 1x | | Panel för extern montering av avsäkringskort | 19 rack module ho",  
+  "position": [  
+    6002,  
+    6545  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5213574",  
+    "12245",  
+    "5213588",  
+    "002406",  
+    "5213593"  
+  ],  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "av säkring på utgång | 2 st",  
+  "context": "/ 27W | | | | | Ingångsström: | 1,7A | 1,7A | 2A | | | | | Antal avsäkrade utgångar: | 2 st. | 2 st. | 2 st. | | | | | T**yp av säkring på utgång: | 2 st. **F10A (glas) | 2 st. F5A (glas) | 2 st. F10A (glas) | | | | | Djupurladdning av batterier sker vid: | 10,5 VDC | | 21 VD",  
+  "position": [  
+    4171,  
+    4204  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 12V Underhållsfria batterier typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapsling | 2 st",  
+  "context": "Ursprungsland: | | Sverige | | | | | | INFORMATION OCH VAL AV BATTERI / BATTERIER: | | | | | | | | Rekommenderad batteri**typ: | 12V Underhållsfria batterier, typ AGM eller Lithium LiFePO4 | | | | | | | Möjliga batterier för montering i kapsling: | 2 st.** 7,2 Ah eller 2 st. 14 Ah | | | | | | | Rekommenderat batteri: | UPLUS 10+ Design Life 14Ah batteri | | | | | | | Artike",  
+  "position": [  
+    5532,  
+    5664  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50457192"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| ARTIKELNAMN | ARTIKELNUMMER | SPÄNNING | E-NUMMER | MAX MÖJLIGT ANTAL | |----------------------------------------------|-----------------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 4x 14Ah batterier | Battery box 24V FLX S | FS010000024BB01 | 24V | 5213574 | 2x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 2x | | Spänningsomvandlare 24V-12V 6A | Voltage Converter 24V-12V6A | A-VC002406A01LM01 | 24V | 5213593 | 2x | | 230V Kabel med stickpropp | 230V Powercord incl",  
+  "context": "1 | | | | | | | Artikelnummer rekommenderat 14Ah batteri: | | MT113-12V14-01 | | | | | #### Exempel på tillval | ARTIKEL**TYP: | ARTIKELNAMN: | ARTIKELNUMMER: | SPÄNNING: | E-NUMMER: | MAX MÖJLIGT ANTAL: | |----------------------------------------------|-----------------------------|-------------------|-----------|-----------|--------------------| | Batteribox med plats för 4x 14Ah batterier | Battery box 24V FLX S | FS010000024BB01 | 24V | 5213574 | 2x | | Avsäkringskort 5 utgångar | 5 output module | A-FU12245OP01LM01 | 12V / 24V | 5213588 | 2x | | Spänningsomvandlare 24V-12V 6A | Voltage Converter 24V-12V6A | A-VC002406A01LM01 | 24V | 5213593 | 2x | | 230V Kabel med stickpropp | 230V Powercord incl.** tamper | A-00002301FA01 | 12V / 24V | 5257446 | 1x | | Panel för extern montering av avsäkringskort | 19 rack module ho",  
+  "position": [  
+    5956,  
+    6545  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5213574",  
+    "12245",  
+    "5213588",  
+    "002406",  
+    "5213593"  
+  ],  
+  "product_id": "50457192"  
+}
+

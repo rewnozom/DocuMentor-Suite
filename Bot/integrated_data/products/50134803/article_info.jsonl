@@ -1,0 +1,42 @@
+{  
+  "identifier": "7320896020252",  
+  "original": "7320896020252",  
+  "type": "EAN-13",  
+  "is_valid": true,  
+  "validation_message": "Giltig EAN-13",  
+  "group": "ean13",  
+  "pattern_index": 0,  
+  "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",  
+  "context": "ester • 5 års garanti • • Certifiering: EN 1869:1997 #### **ARTICLE INFORMATION:** Art.no: 602025 EA**N: 7320896020252 E**-nummer: 1693820 ![](images/_page_0_Picture_11.jpeg) ![](images/_page_0_Picture_12.jpeg) ![](images/_page_0_Picture_",  
+  "source": "regex",  
+  "product_id": "50134803"  
+}
+
+{  
+  "identifier": "1693820",  
+  "original": "1693820",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "ti • • Certifiering: EN 1869:1997 #### **ARTICLE INFORMATION:** Art.no: 602025 EAN: 7320896020252 E-**nummer: 1693820 !**[](_page_0_Picture_11.jpeg) ![](images/_page_0_Picture_12.jpeg) ![](images/_page_0_Picture_13.jpeg) ![](_pag",  
+  "source": "regex",  
+  "product_id": "50134803"  
+}
+
+{  
+  "identifier": "602025",  
+  "original": "602025",  
+  "type": "Artikelnummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt artikelnummerformat",  
+  "group": "article",  
+  "pattern_index": 14,  
+  "pattern": "(?i)Art(?:ikel)?\\.?n[ro]\\.?[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "% PVC, 35% polyester • 5 års garanti • • Certifiering: EN 1869:1997 #### **ARTICLE INFORMATION:** Ar**t.no: 602025 E**AN: 7320896020252 E-nummer: 1693820 ![](images/_page_0_Picture_11.jpeg) ![](images/_page_0_Picture_12.jpeg) !",  
+  "source": "regex",  
+  "product_id": "50134803"  
+}
+

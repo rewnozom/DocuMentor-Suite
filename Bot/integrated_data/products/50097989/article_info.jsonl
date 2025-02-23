@@ -1,0 +1,14 @@
+{  
+  "identifier": "556289017701",  
+  "original": "556289017701",  
+  "type": "UPC-A",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)",  
+  "group": "upc",  
+  "pattern_index": 40,  
+  "pattern": "(?<!\\d)(\\d{12})(?!\\d)",  
+  "context": "B** Hålstensvägen 4 SE-446 37 Älvängen +46(0)303-746 320 Hemsida/Webb www.swtm.se info@swtm.se SE556**289017701 # **POE-48 POWER OVER ETHERNET MED BATTERIBACKUP ![](images/_page_1_Picture_1.jpeg) ### SÄKERHET Denna i",  
+  "source": "regex",  
+  "product_id": "50097989"  
+}
+

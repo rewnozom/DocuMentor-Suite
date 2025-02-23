@@ -1,0 +1,63 @@
+{  
+  "product_id": "50098009",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Inbyggt skydd mot djupurladdning av batterierna. Nät, last och batteri skyddas av säkringar. **Indikeringar och larm:** Summalarmrelä för vidarekoppling av larm.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "direct",  
+      "related_product": "batterikontakt PC01 och PC02",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "inte brytas när kortet monteras",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kapsling med monteringsplåt med hål för ett vred | 160x220x80 | | 6305002 | RLS100-2 | | | Tom kapsling med monteringsplåt med hål för två vred | 160x220x80 | | 6305003 | RLS100-6 | | | Tom kapsling med monteringsplåt med hål för sex vred | 350x360x100 | | 6305004 | RLS100-12 | | | Tom kapsling med monteringsplåt med hål för tolv vred | 465x360x115 | | | | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "6305002",  
+        "6305003",  
+        "6305004"  
+      ]  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "ovan men manövreras med via en plomberbar återfjädrande strömbrytare på locket",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "RLS40 men med öppningsbar lucka med vred",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| | Beskrivning | |--------------|-----|-----------------------------------------------------------------------| | 5256993 | 102 | LARMKORT Laddspänningslarm - Batteriövervakning - Låg batterispänning | | | | | Postadress/Postal address **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5256993"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Inbyggt skydd mot djupurladdning av batterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "För yttre strömförsörjning",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "BLINKAR"  
+    ]  
+  }  
+}
+

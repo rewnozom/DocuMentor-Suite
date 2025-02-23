@@ -1,0 +1,33 @@
+{  
+  "product_id": "50153338",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Laddar tre enheter samtidigt genom två 2,4A utgångar och en 1,5A utgång (totalt 6,3A). Kompatibel med alla dina USB-enheter. **ARTICLE INFORMATION:** Art.no: 405148 EAN: 4891199170997\n\n![](images/_page_0_Picture_6.jpeg)\n\n![](images/_page_0_Picture_8.jpeg)\n\n**Page 1/2**\n\n## GP Billaddare med 3 USB-portar CC61, USB-A x3\n\n## **Technical specifikation**\n\n| Spänning (Volt)    | 0.000      |  |  |\n|--------------------|------------|--|--|\n| Tillverkningsland  | Kina       |  |  |\n| Statistiskt nummer | 8504405590 |  |  |\n| Batteristorlek     | On the go  |  |  |\n| Kapacitet (mAh)    | 6300       |  |  |\n\n## **Packaging information**\n\n|                 | EXKRT          | INKRT          | 1-P           | ST      |\n|-----------------|----------------|----------------|---------------|---------|\n| EAN kod         | 04891199171017 | 04891199171000 | 4891199170997 |         |\n| Längd (mm)      | 330.000        | 315.000        | 25.000        | 54.400  |\n| Höjd (mm)       | 165.000        | 145.000        | 114.000       | 30.000  |\n| Bredd (mm)      | 265.000        | 125.000        | 177.000       | 20.000  |\n| Bruttovikt (kg) | 1.70000        | 0.85000        | 0.08500       | 0.08500 |\n| Net Weight (kg) | 0.45600        | 0.22800        | 0.02280       | 0.02280 |\n| Gross Volume    | 0.01443        | 0.00000        | 0.00000       | 0.00072 |\n| Net Volume      | 0.00000        | 0.00000        | 0.00000       | 0.00000 |\n| Antal ST        | 20             | 10             | 1             | 1       |\n\n![](images/_page_1_Picture_7.jpeg)\n\n**Page 2/2**.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "alla dina USB-enheter",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "alla dina USB-enheter",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "två 24A utgångar och en 15A utgång (totalt 63A)",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "4891199170997"  
+    ],  
+    "Artikelnummer": [  
+      "405148"  
+    ]  
+  }  
+}
+

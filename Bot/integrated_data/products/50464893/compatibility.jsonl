@@ -1,0 +1,241 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "| | Date of received<br>接收日期 | Jul",  
+  "context": "br>层 | | Telephone no:<br>联系电话 | +852 2484 3111 | | Fax:<br>传真 | +852 2420 3450 | | E-mail:<br>邮箱 | terry_tse@goldpeak.c**om | | Date of received:<br>接收日期 | Jul.**<br>03, 2023<br>年<br>月<br>日<br>2023<br>07<br>03 | | Date of report:<br>报告日期 | Jul.<br>03, 2023<br>年<br>月<br>日<br>2023<br",  
+  "position": [  
+    1817,  
+    1856  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ruptured or leaking battery can cause电池破裂导 致电解液外漏会导致以下伤害 - 1",  
+  "context": "nal tract. 吞食 – 吞食电池对身体有很大伤害。电池里含的物质会引起嘴、食道和胃肠道 化 学灼伤。 #### **Health harm** 健康损害**:** Exposure to leaking electrolyte fr**om ruptured or leaking battery can cause电池破裂导 致电解液外漏会导致以下伤害: - 1.** Inhalation-Burns and irritation of the respiratory system, coughing, wheezing, and shortness of breath. - 吸入-灼伤或刺激呼吸系统,",  
+  "position": [  
+    3460,  
+    3525  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the fire",  
+  "context": "ng is necessary. During water application, caution is advised as burning pieces of flammable particles may be ejected fr**om the fire.** 异常着火和爆炸危险**:** 电池爆炸或漏液可能是由以下原因导致: 暴露于高温环境 (超过 制造商规定的最大额定温度) 或者火中,电池过充电,短路,刺穿和挤压。 产品烧毁危害**:** 着火,过热或者过压条件可能会导致产品分解。损坏的电池",  
+  "position": [  
+    6375,  
+    6387  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "other materials and stored in a noncombustible well ventilated sprinkler-protected structure with sufficient clearance between walls and battery stacks",  
+  "context": "tion 4, First Aid Measures.如果皮肤或者眼睛接触到电解液,参考第四项并立即采取急救措施。 #### **Storage** 贮存**:** - 1. Batteries should be separated fr**om other materials and stored in a noncombustible, well ventilated, sprinkler-protected structure with sufficient clearance between walls and battery stacks.** Do not place batteries near heating equipment, nor expose to direct sunlight for long periods.电池应该和其他材料分开 并且贮存在通风且不易燃烧的",  
+  "position": [  
+    8564,  
+    8721  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "heat and open flame",  
+  "context": "的包装直到使用时,不要把电池弄混乱。 ### **8. Exposure Controls/Personal Protection** 暴露控制**/**自我防护 **Engineering Controls:** Keep away fr**om heat and open flame.** **Ventilation:** Not necessary under conditions of normal use. In case of abuse, use adequate mechanical ventilation (l",  
+  "position": [  
+    9557,  
+    9580  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "safe fire fighting distance evacuate all persons from the area of fire immediately",  
+  "context": "e fighting fireman should use self-contained breathing, full-face respiratory equipment. Fires may be fought but only fr**om safe fire fighting distance, evacuate all persons from the area of fire immediately.** **Eye Protection:** Not necessary under conditions of normal use. Use safety glasses with side shields if handling a le",  
+  "position": [  
+    10009,  
+    10096  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "fire and heat sources",  
+  "context": "transport, the vehicle should prevent exposure, rain and high temperature. For stopovers, the vehicle should be away fro**m fire and heat sources. **When transported by sea, the assemble place should keep away from bedroom and kitchen, and isolated from the engine roo",  
+  "position": [  
+    15203,  
+    15228  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "bedroom and kitchen and isolated from the engine room power and fire source",  
+  "context": ", the vehicle should be away from fire and heat sources. When transported by sea, the assemble place should keep away fr**om bedroom and kitchen, and isolated from the engine room, power and fire source.** Under the condition of Road Transportation, the driver should drive in accordance with regulated route, don't stop over",  
+  "position": [  
+    15292,  
+    15373  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "little temperature change",  
+  "context": "teries above 35℃ or below –20℃. Store batteries in a cool (about 20±5℃) in a long time, dry and ventilated area that is **subject to little temperature change.** Elevated temperatures can result in reduced battery cycle life. Battery exposure to temperatures in excess of 60℃ will",  
+  "position": [  
+    9039,  
+    9076  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "7/Amend",  
+  "context": "he \"Recommendations on the transport of Dangerous Goods Chapter 38.3 Manual of Tests and Criteria Ref. ST/SG/AC.10/11 Re**v.7/Amend.**1 2021\". The Lithium-ion Cells and the battery Packs may or may not be assigned to the UN No. 3480 Class-9 that is restr",  
+  "position": [  
+    16973,  
+    16983  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<br>规格 | 标称电压 3",  
+  "context": "-----------------------------------------------------------------| | Sample model:<br>样品型号 | 锂离子电池<br>ICR14500 | | Ratin**g:<br>规格 | 标称电压: 3.**7V<br>Nominal Voltage<br>额定容量: 800mAh,<br>Rated Capacity<br>2.96Wh<br>重量: 22.4g<br>Weight | | Manufacturer:<br>制造商 | She",  
+  "position": [  
+    992,  
+    1011  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "In addition short circuit reduces the life of the battery and can lead to ignition of surrounding materials",  
+  "context": "on of any vapors that may be emitted.如果电池被无意挤压而导致内部物质释放,必须带上橡胶 手套处理所有的电池成分,避免吸入释放的任何气体。 - 5. Short circuit causes heatin**g. In addition, short circuit reduces the life of the battery and can lead to ignition of surrounding materials.** Physical contact with to ![](images/_page_4_Picture_21.jpeg) ![](images/_page_5_Picture_0.jpeg) #### Report No.: 18270BC30186504 Page",  
+  "position": [  
+    7891,  
+    8003  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<br>样品型号 | 锂离子电池<br>ICR14500 | | Rating<br>规格 | 标称电压 3",  
+  "context": "-------------------------------------------------------------------------------------------------------------| | Sample **model:<br>样品型号 | 锂离子电池<br>ICR14500 | | Rating:<br>规格 | 标称电压: 3.**7V<br>Nominal Voltage<br>额定容量: 800mAh,<br>Rated Capacity<br>2.96Wh<br>重量: 22.4g<br>Weight | | Manufacturer:<br>制造商 | She",  
+  "position": [  
+    948,  
+    1011  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "14500"  
+  ],  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Regulations on the transport of dangerous Goods Ref",  
+  "context": "formation**监管信息 The transport of rechargeable lithium-ion batteries regulated by the united nations as detailed in the \"**model Regulations on the transport of dangerous Goods Ref.** ST/SG/AC.10/1 Revision 22 2021\". Defined by UN in the \"Recommendations on the transport of Dangerous Goods Chapter 38.3",  
+  "position": [  
+    16743,  
+    16801  
+  ],  
+  "pattern_index": 127,  
+  "pattern": "(?i)model(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "extinguishers are the most effective means ![](images/_page_3_Picture_24",  
+  "context": "amaged batteries can result in rapid heating and the release of flammable vapors. **Extinguishing Media:** Dry chemical **type extinguishers are the most effective means ![](images/_page_3_Picture_24.**jpeg) ![](images/_page_4_Picture_0.jpeg) Report No.: 18270BC30186504 Page 5 of 11 报告编号 第 5 页 共 11 页 to extinguish a battery fir",  
+  "position": [  
+    5866,  
+    5937  
+  ],  
+  "pattern_index": 129,  
+  "pattern": "(?i)type(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "22 2021\"",  
+  "context": "ated by the united nations as detailed in the \"model Regulations on the transport of dangerous Goods Ref. ST/SG/AC.10/1 **Revision 22 2021\".** Defined by UN in the \"Recommendations on the transport of Dangerous Goods Chapter 38.3 Manual of Tests and Criteria Ref",  
+  "position": [  
+    16816,  
+    16834  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "for transportation the special provision 188 of IMDG (inc Amdt 40-20)",  
+  "context": "处理掉的产品时,要取得废弃物处 理的授权。 ### **14. Transport Information**运输信息 According to PACKING INSTRUCTION 965 ~ 967 of IATA DGR 64th **Edition for transportation, the special provision 188 of IMDG (inc Amdt 40-20).** The batteries should be securely packed and protected against short-circuits. Examine whether the package of the contai",  
+  "position": [  
+    14573,  
+    14652  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464893"  
+}
+

@@ -1,0 +1,43 @@
+{  
+  "product_id": "50097984",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n![](images/_page_0_Picture_2.jpeg)\n\n **SM40** \n\nFunktion: Hel säkring indikeras med grön lysdiod och utlöst larm av att lysdioden för gruppen slocknar och att ett summalarmrelä med potentialfri växlingskontakt aktiveras. Fördelning av strömmatning, max 10A, till 10 sektioner 2-poligt avsäkrade med 2A. Huvudsäkring 1 poligt 10As.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "no(s) SM910 Distribution Board 12-24VDC 19\" SM920 Distribution Board 12-24VDC extension SM950 Loop Monitoring Board 24VDC KAP-DC12010 Terminating box for LNL/NGP* *Manufacturer's name address telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen SWEDEN Phone +46-303-746 320 Fax +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications which comply with good engineering practice in safety matters in force within the EEA have been applied* *Standard Testreport/technical construction file/normative document Emission EN61000-6-32001 EN550221998 -A12000 -A22003 Class B EN 61000-3-22001 Ref",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "12010",  
+        "61000",  
+        "32001",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "of equipment Fuse and distributions board* *Brand name or trade mark SM910-950 Type designation(s)/Model no(s) SM910 Distribution Board 12-24VDC 19\" SM920 Distribution Board 12-24VDC extension SM950 Loop Monitoring Board 24VDC KAP-DC12010 Terminating box for LNL/NGP* *Manufacturer's name address telephone & fax no* Swansons Telemekanik AB Hålstensvägen 4 SE-446 37 Älvängen SWEDEN Phone +46-303-746 320 Fax +46-303-748 490 *Manufacturer's authorized representative within EU (for manufacturers outside EU)* *The following standards and/or technical specifications which comply with good engineering practice in safety matters in force within the EEA have been applied* *Standard Testreport/technical construction file/normative document Emission EN61000-6-32001 EN550221998 -A12000 -A22003 Class B EN 61000-3-22001 Ref",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "12010",  
+        "61000",  
+        "32001",  
+        "12000",  
+        "22003",  
+        "61000",  
+        "22001"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "UPC-A": [  
+      "556289017701"  
+    ]  
+  }  
+}
+

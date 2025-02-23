@@ -1,0 +1,47 @@
+{  
+  "product_id": "50464891",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# DATA SHEET\n\n#### NO MERCURY ADDED\n\n| Description        | : Mercury Free Alkaline Manganese Battery,<br>AAA Size                                                                                          |  |  |\n|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|--|--|\n| Chemical System    | : Alkaline Manganese                                                                                                                            |  |  |\n| Nominal Voltage    | : 1.5 Volts                                                                                                                                     |  |  |\n| Nominal Dimensions | : Ø10.5 mm x 44.5 mm                                                                                                                            |  |  |\n| Terminals          | : Protruded positive(+) and flat negative(-)<br>contacts                                                                                        |  |  |\n| Jacket             | : Foil jacket                                                                                                                                   |  |  |\n| Applications       | : All electronic devices, e.g. toys, photographic<br>equipment, data banks, calculators, audio<br>appliances, remote controls, paging machines. |  |  |\n|                    |                                                                                                                                                 |  |  |\n| Averagewelght      | : 12q                                                                                                                                           |  |  |\n\n### Cross References:\n\n| GP | JIS |                    | IEC  Energizer Duracell Varta |             |  |\n|----|-----|--------------------|-------------------------------|-------------|--|\n|    |     | 24AU LR03 LR03 E92 |                               | MX2400 4003 |  |\n\n## Typical Service Life:\n\n| Discharge  | Discharge  | End Point | Service |\n|------------|------------|-----------|---------|\n| Resistance | Condition  | Voltage   | Life    |\n| 20 Ohms    | 24 Hrs/Day | 0 9V      | 19.8Hrs |\n\n![](images/_page_0_Figure_8.jpeg)\n\n![](images/_page_0_Figure_9.jpeg)\n\n# Model No.: Gi\n\n![](images/_page_0_Figure_11.jpeg)\n\nThe information (subject to change without prior notice) contained in this document is for reference only and should not be used as a basis\nfor product guarantee or warranty.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Dimensions",  
+      "value": "10.5",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "the dangerous goods regulations provided they meet the requirements contained in the following special provisions |",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "dangerous quantities of heat and meet the special provisions listed above",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "27 | Page 1<br>of 5 | |---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------| | IDENTITY (As Used on Label and List)<br>Alkaline batteries<br>13A(LR20)/14A(LR14)/15A(LR6)/<br>24A(LR03)/25A(LR8D425)/910A(LR1) | Note Blank spaces are not permitted if any item is not applicable or no<br>information<br>is available the space must be marked to indicate that",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "27 Page 2 of 5 **Section 5 – Fire-Fighting Measures** Flash Point (Method Used) N",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "erred"  
+    ]  
+  }  
+}
+

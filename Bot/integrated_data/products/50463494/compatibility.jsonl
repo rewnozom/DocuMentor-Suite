@@ -1,0 +1,589 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "batteribox ## Flexibilitet NEO FLX S kan ha en extra batteribox",  
+  "context": "vid behov. - Batteribackup med fler larmfunktioner - Kontrollerad laddning - Kan kompletteras med flera tillvalskort - K**an användas med batteribox ## Flexibilitet NEO FLX S kan ha en extra batteribox. **NEO FLX M och NEO FLX L med 1-4 extra batteriboxar. NEO FLX M och NEO FLX L med batterihyllor i 19\" rack*. *Batteriboxa",  
+  "position": [  
+    1188,  
+    1269  
+  ],  
+  "pattern_index": 4,  
+  "pattern": "(?i)kan\\s+användas\\s+(?:till|med)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "basic",  
+  "related_product": "fast installation",  
+  "context": "s mest till: Passersystem, inbrottslarmsystem, integrerade säkerhetssystem och låssystem Fast installation Produkten är **avsedd för fast installation.** Installation skall utföras av behörig installatör. ## REGELVERK OCH CERTIFIERINGAR #### Krav som produkten uppfyller |",  
+  "position": [  
+    1790,  
+    1819  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "batteribox ## Flexibilitet NEO FLX S kan ha en extra batteribox",  
+  "context": "vid behov. - Batteribackup med fler larmfunktioner - Kontrollerad laddning - Kan kompletteras med flera tillvalskort - K**an användas med batteribox ## Flexibilitet NEO FLX S kan ha en extra batteribox. **NEO FLX M och NEO FLX L med 1-4 extra batteriboxar. NEO FLX M och NEO FLX L med batterihyllor i 19\" rack*. *Batteriboxa",  
+  "position": [  
+    1188,  
+    1269  
+  ],  
+  "pattern_index": 21,  
+  "pattern": "(?i)(?:kan|can)\\s+användas\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "hantera högre laster",  
+  "context": "där kraven är högre gällande högre flexibilitet, fler larmfunktioner, längre reservdrifttider eller när batteribackupen **behöver hantera högre laster.** NEO-serien erbjuder kontrollerad laddning (intelligent charging), vilket innebär att när batterierna är fulladdade komm",  
+  "position": [  
+    585,  
+    614  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 0800-1600 och fredagar 0800-1500",  
+  "context": "ömer att reparation inte är möjlig. Kostnader för support tillkommer efter det att garantitiden har gått ut. ## Support **Behöver du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 08:00-16:00 och fredagar 08:00-15:00.** Telefonsupport har stängt mellan 11:30-13:15. Du kan även skicka e-post, vi svarar, under vardagar, inom 24 timmar. Tel",  
+  "position": [  
+    10380,  
+    10521  
+  ],  
+  "pattern_index": 38,  
+  "pattern": "(?i)behöver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "res- och eller arbetstid i samband med lokalisering av fel installerande av reparerad eller utbytt vara ingår ej i garantin",  
+  "context": "get annat avtalats). Kostnadsfri support under garantitiden nås på support@milleteknik.se eller telefon, 031-34 00 230. **Ersättning för res- och eller arbetstid i samband med lokalisering av fel, installerande av reparerad eller utbytt vara ingår ej i garantin.** Kontakta Milleteknik för mer information. Milleteknik ger support under produktens livslängd, dock som längst 10 år eft",  
+  "position": [  
+    9924,  
+    10064  
+  ],  
+  "pattern_index": 84,  
+  "pattern": "(?i)ersättning\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "replacement",  
+  "related_product": "att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "till 20 dagar eller när batterierna har nått 26,7 V (24 V). Genom att ladda ur batterierna och ladda dem kontinuerligt (**istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%.** Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. - Batteribackup med fler larmfunktioner - Kont",  
+  "position": [  
+    913,  
+    1006  
+  ],  
+  "pattern_index": 94,  
+  "pattern": "(?i)(?:istället|instead)\\s+(?:för|of)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%",  
+  "context": "de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7 V (24 V). Geno**m att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batteriets livslängd med upp till 50%. **Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid behov. - Batteribackup med fler larmfunktioner - Kont",  
+  "position": [  
+    856,  
+    1006  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller | EMC | EMC Direktivet 2014/30EU | |------|------------------------------------| | El | Lågspänningsdirektivet 2014/35/EU | | CE | CE direktivet enligt765/2008 | |-----------|-----------------------------------------------------------------------------------------------| | Emission | EN61000-6-2001 EN550221998-A12000 A22003 Klass B EN61000-3-22001 | | Immunity | EN61000-6-22005 EN61000-4-2 -3 4 -5 -6 -11<br>SS-EN 50 130-42011 Edition 2 EN50131-6 | # FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER) | Systems | Antal | Batterityp | Enhet + | Last | Last | Last | Last | Last | Last | |----------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----------------|-------|-------|-------|-------|-------|-------| | pänning | batterier | | batteri<br>box* | 2 A | 4 A | 8 A | 10 A | 14 A | 18 A | | 24 V | 2 st",  
+  "context": "dd för fast installation. Installation skall utföras av behörig installatör. ## REGELVERK OCH CERTIFIERINGAR #### Krav s**om produkten uppfyller | EMC: | EMC Direktivet 2014/30EU | |------|------------------------------------| | El: | Lågspänningsdirektivet: 2014/35/EU | | CE: | CE direktivet enligt:765/2008 | |-----------|-----------------------------------------------------------------------------------------------| | Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000, A2:2003 Klass B, EN61000-3-2:2001 | | Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11<br>SS-EN 50 130-4:2011 Edition 2, EN50131-6 | # FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER) | Systems | Antal | Batterityp | Enhet + | Last: | Last: | Last: | Last: | Last: | Last: | |----------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----------------|-------|-------|-------|-------|-------|-------| | pänning | batterier | | batteri<br>box* | 2 A | 4 A | 8 A | 10 A | 14 A | 18 A | | 24 V | 2 st.** | 45 Ah | 1+0 | 21 h | 12 h | 4 h | 3 h | 2 h | 1,5 h | | 24 V | 4 st. | 45 Ah (90<br>Ah) | 1+1 | 42 h | 20 h | 12 h |",  
+  "position": [  
+    1914,  
+    2880  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "61000",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001",  
+    "61000",  
+    "22005",  
+    "61000",  
+    "42011",  
+    "50131"  
+  ],  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "tidigare inte var möjliga i<br>enklare batteribackuper är nu tillgängliga som standardutförande",  
+  "context": "O3 uP | | Produktbeskrivning | CEO 3 är nästa generations kretskort för enklare batteribackuper. Avancerade funktioner s**om tidigare inte var möjliga i<br>enklare batteribackuper är nu tillgängliga som standardutförande.** CEO 3 är ett driftsäkert hjärta i enklare batteribackuper<br>med färre komponenter än tidigare vilket minskar miljöpåve",  
+  "position": [  
+    4028,  
+    4127  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är prioriterade lastutgångar (= alltid spänning)",  
+  "context": "5 mm x 52 mm | | Egenförbrukning | 50 mA | | Säkringar | Se tabell: Säkringar. | | Utgångar | Utgång: två lastutgångar s**om är prioriterade lastutgångar (= alltid spänning).** | | Avsäkring | Lastutgång: + avsäkrad, se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat frå",  
+  "position": [  
+    4391,  
+    4443  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "visar driftstatus larm och fel",  
+  "context": "lutna. | | Larm via | Larm på potentialfri reläkontakt. Potentialfri växling. Slutning CO/NO. | | Indikering | Lysdiod s**om visar driftstatus, larm och fel.** | ## STYR LARMGRÄNS MED JU2 ## **STYR LARMGRÄNS** Larm för låg batterispänning i batteridrift kan styras. Larmgränsen s",  
+  "position": [  
+    4837,  
+    4872  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att ta bort eller skapa slutning på JU2",  
+  "context": "YR LARMGRÄNS MED JU2 ## **STYR LARMGRÄNS** Larm för låg batterispänning i batteridrift kan styras. Larmgränsen styrs gen**om att ta bort eller skapa slutning på JU2.** Larm ges när batterispänningen i batteridrift sjunker under gränsen. Larmgränser | Larmgräns vid låg batterispänning |",  
+  "position": [  
+    5000,  
+    5043  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "säkring byts till en större än vad enheten levereras med",  
+  "context": "7 | T16A | Batterisäkring | | ![](images/_page_2_Picture_6.jpeg) ## **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger **om säkring byts till en större än vad enheten levereras med.** Säkringens funktion är att skydda ansluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring",  
+  "position": [  
+    5788,  
+    5848  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är anpassade och kalibrerade får användas",  
+  "context": "ondenserade | | | | | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara. Endast nätaggregat s**om är anpassade och kalibrerade får användas.** Kontakta support vid byte | | | | | av nätaggregat. Användning av nätaggregat som kommer från annan källa kan orsaka sk",  
+  "position": [  
+    7116,  
+    7161  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer från annan källa kan orsaka skador som inte täcks av garantin",  
+  "context": "anpassade och kalibrerade får användas. Kontakta support vid byte | | | | | av nätaggregat. Användning av nätaggregat so**m kommer från annan källa kan orsaka skador som inte täcks av garantin. **Garanti upphävs om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.",  
+  "position": [  
+    7241,  
+    7313  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används",  
+  "context": "at. Användning av nätaggregat som kommer från annan källa kan orsaka skador som inte täcks av garantin. Garanti upphävs **om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.** #### Nätaggregat - Tekniska Data RSP-320-24 | Sitter i: | | | | | |-------------------|--------------|--|--|--| | NEO 2",  
+  "position": [  
+    7330,  
+    7433  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är anpassade och kalibrerade får användas",  
+  "context": "kondenserade | | | | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara. Endast nätaggregat so**m är anpassade och kalibrerade får användas. **Kontakta support vid byte | | | | av nätaggregat. Användning av nätaggregat som kommer från annan källa kan orsaka skad",  
+  "position": [  
+    8567,  
+    8612  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kommer från annan källa kan orsaka skador som inte täcks av garantin",  
+  "context": "är anpassade och kalibrerade får användas. Kontakta support vid byte | | | | av nätaggregat. Användning av nätaggregat s**om kommer från annan källa kan orsaka skador som inte täcks av garantin.** Garanti upphävs om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.",  
+  "position": [  
+    8690,  
+    8762  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används",  
+  "context": "at. Användning av nätaggregat som kommer från annan källa kan orsaka skador som inte täcks av garantin. Garanti upphävs **om nätaggregat (från annan källa än support/anvisat från support) som ej är korrekt kalibrerat används.** # TEKNISKA DATA KAPSLING #### Kapslingar - Tekniska Data FLX L | Info | Förklaring | |---------------------------|-----",  
+  "position": [  
+    8779,  
+    8882  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "får plats | 2 stycken 12 V 45 Ah",  
+  "context": "relativ fuktighet | | Material | Pulverlackerad plåt | | Färg | Svart | | Kabelgenomföringar, antal | 4 | | Batterier so**m får plats | 2 stycken 12 V, 45 Ah. **| | Fläkt | Ja | ## LÄNK TILL SENASTE INFORMATIONEN Produkter är föremål för uppdateringar, du hittar alltid den senast",  
+  "position": [  
+    9477,  
+    9514  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "inget annat avtalats)",  
+  "context": "en ## GARANTI, SUPPORT, TILLVERKNINGSLAND OCH URSPRUNGSLAND ## Garanti Produkten har två års garanti, från inköpsdatum (**om inget annat avtalats).** Kostnadsfri support under garantitiden nås på support@milleteknik.se eller telefon, 031-34 00 230. Ersättning för res-",  
+  "position": [  
+    9799,  
+    9824  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "längst 10 år efter inköpsdatum",  
+  "context": "ngår ej i garantin. Kontakta Milleteknik för mer information. Milleteknik ger support under produktens livslängd, dock s**om längst 10 år efter inköpsdatum.** Byte till likvärdig produkt kan förekomma om Milleteknik bedömer att reparation inte är möjlig. Kostnader för support t",  
+  "position": [  
+    10165,  
+    10199  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "Milleteknik bedömer att reparation inte är möjlig",  
+  "context": "support under produktens livslängd, dock som längst 10 år efter inköpsdatum. Byte till likvärdig produkt kan förekomma o**m Milleteknik bedömer att reparation inte är möjlig. **Kostnader för support tillkommer efter det att garantitiden har gått ut. ## Support Behöver du hjälp med installation e",  
+  "position": [  
+    10242,  
+    10295  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "24 timmar",  
+  "context": "agar 08:00-15:00. Telefonsupport har stängt mellan 11:30-13:15. Du kan även skicka e-post, vi svarar, under vardagar, in**om 24 timmar.** Telefon: 031- 340 02 30, e-post: support@milleteknik.se. Du hittar mer information på www.milleteknik.se. #### RESERVDE",  
+  "position": [  
+    10624,  
+    10637  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "reservdelar se kontaktuppgifter ovan",  
+  "context": "post: support@milleteknik.se. Du hittar mer information på www.milleteknik.se. #### RESERVDELAR Support hanterar frågor **om reservdelar, se kontaktuppgifter ovan.** Tillverkningsland Sverige Tillverkare Designad och producerad av Milleteknik AB ## BATTERIER Batterier ingår ej Batteri",  
+  "position": [  
+    10785,  
+    10826  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "värme och last påverkar livslängden",  
+  "context": "Bult | 197x165x170 mm | 14,5 kg | UPLUS | *Design life är hållbarheten i år för ej använt batteri. Omgivningsfaktorer so**m värme och last påverkar livslängden. **Batterier som har en hållbarhet (+10 Design Life) på 10+ år brukar behöva bytas efter 4-5 år.",  
+  "position": [  
+    11607,  
+    11646  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har en hållbarhet (+10 Design Life) på 10+ år brukar behöva bytas efter 4-5 år",  
+  "context": "life är hållbarheten i år för ej använt batteri. Omgivningsfaktorer som värme och last påverkar livslängden. Batterier s**om har en hållbarhet (+10 Design Life) på 10+ år brukar behöva bytas efter 4-5 år.**",  
+  "position": [  
+    11658,  
+    11740  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteribackupen behöver hantera högre laster",  
+  "context": "kerhetsanläggningar där kraven är högre gällande högre flexibilitet, fler larmfunktioner, längre reservdrifttider eller **när batteribackupen behöver hantera högre laster.** NEO-serien erbjuder kontrollerad laddning (intelligent charging), vilket innebär att när batterierna är fulladdade komm",  
+  "position": [  
+    565,  
+    614  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 267 V (24 V)",  
+  "context": "upen behöver hantera högre laster. NEO-serien erbjuder kontrollerad laddning (intelligent charging), vilket innebär att **när batterierna är fulladdade kommer de att kopplas bort elektroniskt för standby-läge i upp till 20 dagar eller när batterierna har nått 26,7 V (24 V).** Genom att ladda ur batterierna och ladda dem kontinuerligt (istället för att de aldrig används) förlänger systemet batt",  
+  "position": [  
+    700,  
+    852  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterispänningen i batteridrift sjunker under gränsen",  
+  "context": "åg batterispänning i batteridrift kan styras. Larmgränsen styrs genom att ta bort eller skapa slutning på JU2. Larm ges **när batterispänningen i batteridrift sjunker under gränsen.** Larmgränser | Larmgräns vid låg batterispänning | 12 V | 24 V | | | | |-------------------------------------|--------|-",  
+  "position": [  
+    5053,  
+    5112  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "- Batteribackup med fler larmfunktioner - Kontrollerad laddning - Kan kompletteras med flera tillvalskort - Kan användas med batteribox ## Flexibilitet NEO FLX S kan ha en extra batteribox",  
+  "context": "r systemet batteriets livslängd med upp till 50%. Batterierna ansluts automatiskt på mindre än 50 mikrosekunder vid beho**v. - Batteribackup med fler larmfunktioner - Kontrollerad laddning - Kan kompletteras med flera tillvalskort - Kan användas med batteribox ## Flexibilitet NEO FLX S kan ha en extra batteribox.** NEO FLX M och NEO FLX L med 1-4 extra batteriboxar. NEO FLX M och NEO FLX L med batterihyllor i 19\" rack*. *Batteriboxa",  
+  "position": [  
+    1077,  
+    1269  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "två lastutgångar som är prioriterade lastutgångar (= alltid spänning)",  
+  "context": "n. | | Mått | 120 x 55 mm x 52 mm | | Egenförbrukning | 50 mA | | Säkringar | Se tabell: Säkringar. | | Utgångar | Utgån**g: två lastutgångar som är prioriterade lastutgångar (= alltid spänning).** | | Avsäkring | Lastutgång: + avsäkrad, se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat frå",  
+  "position": [  
+    4370,  
+    4443  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "+ avsäkrad se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat från fabrik) och kortets totala last får ej överstiga 16 A",  
+  "context": "| | Utgångar | Utgång: två lastutgångar som är prioriterade lastutgångar (= alltid spänning). | | Avsäkring | Lastutgång**: + avsäkrad, se tabell | | Maxlast | Maxlast är 10 A per lastutgång (T2A sitter monterat från fabrik) och kortets totala last får ej överstiga 16 A. **| | Larmutgängar | två | | Larm | Summalarm, Nätbortfall, säkringfel, laddarfel, batterier ej anslutna. | | Larm via |",  
+  "position": [  
+    4469,  
+    4619  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Slutning CO/NO",  
+  "context": "fall, säkringfel, laddarfel, batterier ej anslutna. | | Larm via | Larm på potentialfri reläkontakt. Potentialfri växlin**g. Slutning CO/NO.** | | Indikering | Lysdiod som visar driftstatus, larm och fel. | ## STYR LARMGRÄNS MED JU2 ## **STYR LARMGRÄNS** Larm fö",  
+  "position": [  
+    4792,  
+    4810  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "# NÄTAGGREGAT #### Nätaggregat - Tekniska Data LRS-150-24 | Sitter i | | | | | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|--|--|--| | NEO 24V 5A FLX L | | | | | | Info<br>Förklaring | | | | | | Utspänning | 273 V | | | | | Utström | 0 A - 65 A | | | | | Utspänning ripple | 200 mVp-p | | | | | Överspänning | 288 V - 336 V | | | | | Utspänning återuppladdning ripple/strömbegränsning | Mindre än 06 Vp-p | | | | | Verkningsgrad | 89 % | | | | | Strömbegränsning | 110 % - 140 % | | | | | Konstantspänning | +/- 05 % | | | | | Reglernoggrannhet | + / - 10 % | | | | | Ingångsström (230 V) | 17 A | | | | | Nätspänningsfrekvens | 47 Hz- 63 Hz | | | | | Nätspänning | 230 V AC - 240 V AC | | | | | Märkeffekt | 156 W | | | | | Temperaturområde | -30°C - +70°C | | | | | Luftfuktighetsområde | 20 % - 90 % RH icke kondenserade | | | | | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara",  
+  "context": "sluten last och dess lastkablage mot skada och brand. Det går inte att byta säkring till en större för att öka strömutta**g. # NÄTAGGREGAT #### Nätaggregat - Tekniska Data LRS-150-24 | Sitter i: | | | | | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|--|--|--| | NEO 24V 5A FLX L | | | | | | Info<br>Förklaring | | | | | | Utspänning | 27,3 V | | | | | Utström: | 0 A - 6,5 A | | | | | Utspänning, ripple | 200 mVp-p | | | | | Överspänning | 28,8 V - 33,6 V | | | | | Utspänning återuppladdning, ripple/strömbegränsning | Mindre än 0,6 Vp-p | | | | | Verkningsgrad | 89 % | | | | | Strömbegränsning | 110 % - 140 % | | | | | Konstantspänning | +/- 0,5 % | | | | | Reglernoggrannhet | + / - 1,0 % | | | | | Ingångsström (230 V) | 1,7 A | | | | | Nätspänningsfrekvens | 47 Hz- 63 Hz | | | | | Nätspänning | 230 V AC - 240 V AC | | | | | Märkeffekt | 156 W | | | | | Temperaturområde | -30°C - +70°C | | | | | Luftfuktighetsområde | 20 % - 90 % RH icke kondenserade | | | | | Nätaggregatet är anpassat och kalibrerat med batteribackupens hård-/mjukvara.** Endast nätaggregat som är anpassade och kalibrerade får användas. Kontakta support vid byte | | | | | av nätaggregat. A",  
+  "position": [  
+    6005,  
+    7095  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kostnader för support tillkommer efter det att garantitiden har gått ut",  
+  "context": "t 10 år efter inköpsdatum. Byte till likvärdig produkt kan förekomma om Milleteknik bedömer att reparation inte är möjli**g. Kostnader för support tillkommer efter det att garantitiden har gått ut.** ## Support Behöver du hjälp med installation eller inkoppling? Vår supporttelefon finns tillgänglig måndag-torsdag 08:0",  
+  "position": [  
+    10293,  
+    10368  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Enhet + | Last | Last | Last | Last | Last | Last | |----------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----------------|-------|-------|-------|-------|-------|-------| | pänning | batterier | | batteri<br>box* | 2 A | 4 A | 8 A | 10 A | 14 A | 18 A | | 24 V | 2 st",  
+  "context": "N 50 130-4:2011 Edition 2, EN50131-6 | # FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER) | Systems | Antal | Batteri**typ | Enhet + | Last: | Last: | Last: | Last: | Last: | Last: | |----------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----------------|-------|-------|-------|-------|-------|-------| | pänning | batterier | | batteri<br>box* | 2 A | 4 A | 8 A | 10 A | 14 A | 18 A | | 24 V | 2 st.** | 45 Ah | 1+0 | 21 h | 12 h | 4 h | 3 h | 2 h | 1,5 h | | 24 V | 4 st. | 45 Ah (90<br>Ah) | 1+1 | 42 h | 20 h | 12 h |",  
+  "position": [  
+    2494,  
+    2880  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Förklaring | | |-------------------|---------|-------|----------------|--| | Samtliga | F1 | T25A | Elnätssäkring | | | NEO 24V 5A FLX L | F2 F6 | T5A | Lastsäkring + | | | NEO 24V 10A FLX L | F2 F6 | T10A | Lastsäkring + | | | Samtliga | F7 | T16A | Batterisäkring | | ![](images/_page_2_Picture_6",  
+  "context": "utan bygel | 13,2 V | 26,5 V | | | | | *Enheten levereras med bygel på JU2 | | | | | | ## SÄKRINGAR | Enhet | Säkring | **Typ | Förklaring | | |-------------------|---------|-------|----------------|--| | Samtliga | F1 | T2,5A | Elnätssäkring | | | NEO 24V 5A FLX L | F2, F6 | T5A | Lastsäkring + | | | NEO 24V 10A FLX L | F2, F6 | T10A | Lastsäkring + | | | Samtliga | F7 | T16A | Batterisäkring | | ![](images/_page_2_Picture_6.**jpeg) ## **VARNING FÖR BYTE AV SÄKRINGAR (A)** Skaderisk föreligger om säkring byts till en större än vad enheten levere",  
+  "position": [  
+    5419,  
+    5720  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| V | Ah | |---------------------------------------|------|-------| | Underhållsfritt AGM blysyra-batteri",  
+  "context": "producerad av Milleteknik AB ## BATTERIER Batterier ingår ej Batterier säljs separat. 45 Ah, 12 V AGM-batteri | Batterit**yp | V | Ah | |---------------------------------------|------|-------| | Underhållsfritt AGM, blysyra-batteri. **| 12 V | 45 Ah | 10+ Design life* batteri | Artikelnummer | E-nummer | Artikelnamn | Terminal | Mått. Höjd, bredd,<br>d",  
+  "position": [  
+    10997,  
+    11108  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50463494"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2 EN50131-6 | # FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER) | Systems | Antal | Batterityp | Enhet + | Last | Last | Last | Last | Last | Last | |----------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----------------|-------|-------|-------|-------|-------|-------| | pänning | batterier | | batteri<br>box* | 2 A | 4 A | 8 A | 10 A | 14 A | 18 A | | 24 V | 2 st",  
+  "context": "2003 Klass B, EN61000-3-2:2001 | | Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5, -6, -11<br>SS-EN 50 130-4:2011 **Edition 2, EN50131-6 | # FÖRVÄNTAD DRIFTTID VID STRÖMAVBROTT (NYA BATTERIER) | Systems | Antal | Batterityp | Enhet + | Last: | Last: | Last: | Last: | Last: | Last: | |----------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----------------|-------|-------|-------|-------|-------|-------| | pänning | batterier | | batteri<br>box* | 2 A | 4 A | 8 A | 10 A | 14 A | 18 A | | 24 V | 2 st.** | 45 Ah | 1+0 | 21 h | 12 h | 4 h | 3 h | 2 h | 1,5 h | | 24 V | 4 st. | 45 Ah (90<br>Ah) | 1+1 | 42 h | 20 h | 12 h |",  
+  "position": [  
+    2390,  
+    2880  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "50131"  
+  ],  
+  "product_id": "50463494"  
+}
+

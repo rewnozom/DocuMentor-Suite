@@ -1,0 +1,742 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "ändring av Europaparlamentets och rådets förordning (EG) nr 1907/2006 om registrering utvärdering godkännande och begränsning av kemikalier (Reach) # **AVSNITT 1 Namnet på ämnet / blandningen och bolaget / företaget** | Utgivningsdatum | 11",  
+  "context": "nguisher, AVD aerosol** Säkerhetsdatabladet är i enlighet med Kommissionens förordning (EU) 2015/830 av den 28 maj 2015 **om ändring av Europaparlamentets och rådets förordning (EG) nr 1907/2006 om registrering, utvärdering, godkännande och begränsning av kemikalier (Reach) # **AVSNITT 1: Namnet på ämnet / blandningen och bolaget / företaget** | Utgivningsdatum | 11.**09.2017 | |------------------------|----------------------------------------------------------------------| | 1.1. Produ",  
+  "position": [  
+    195,  
+    442  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det avråds från** Användningsområde Brandsläckning # **1",  
+  "context": ", 600121, 600122, 600228-60 | # **1.2 Relevanta identifierade användningar av ämnet eller blandningen och användningar s**om det avråds från** Användningsområde Brandsläckning # **1.**3 Närmare upplysningar om den som tillhandahåller säkerhetsdatablad** | Distributör | | |---------------|---------------",  
+  "position": [  
+    857,  
+    917  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den som tillhandahåller säkerhetsdatablad** | Distributör | | |---------------|--------------------| | Företagsnamn | GPBM Nordic AB | | Postadress | Argongatan 2B | | Postnr",  
+  "context": "eller blandningen och användningar som det avråds från** Användningsområde Brandsläckning # **1.3 Närmare upplysningar o**m den som tillhandahåller säkerhetsdatablad** | Distributör | | |---------------|--------------------| | Företagsnamn | GPBM Nordic AB | | Postadress | Argongatan 2B | | Postnr. **| SE-431 53 | | Postort | Mölndal | | Land | Sverige | | Telefon | +46 31 799 16 00 | | Fax | +46 31 799 16 01 | | E-po",  
+  "position": [  
+    940,  
+    1118  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "beståndsdelar** #### **3",  
+  "context": "---------------| | Andra faror | Vid spill: se upp för hala golv och ytor. | ## **AVSNITT 3: Sammansättning/information **om beståndsdelar** #### **3.**2. Blandningar** | Ämne | Identifiering | Klassificering | Innehåll | Noteringar | |-----------------|------------------",  
+  "position": [  
+    2423,  
+    2451  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "symptom uppträder",  
+  "context": "----------------------------------------------------------------------|--| | Inandning | Frisk luft.<br>Kontakta läkare **om symptom uppträder.** | | | Hudkontakt | Tvätta huden med tvål och vatten. Kontakta läkare om besvär kvarstår. | | | Ögonkontakt | Skölj förs",  
+  "position": [  
+    3288,  
+    3309  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "besvär kvarstår",  
+  "context": "isk luft.<br>Kontakta läkare om symptom uppträder. | | | Hudkontakt | Tvätta huden med tvål och vatten. Kontakta läkare **om besvär kvarstår.** | | | Ögonkontakt | Skölj försiktigt med vatten i flera minuter. Tag ut ev. kontaktlinser. Håll ögonen<br>vidöppna. Kon",  
+  "position": [  
+    3379,  
+    3398  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "besvär kvarstår",  
+  "context": "ntakt | Skölj försiktigt med vatten i flera minuter. Tag ut ev. kontaktlinser. Håll ögonen<br>vidöppna. Kontakta läkare **om besvär kvarstår.** | | | Förtäring | Skölj munnen ordentligt. Framkalla inte kräkning. Kontakta läkare om besvär<br>kvarstår. | | #### **4",  
+  "position": [  
+    3531,  
+    3550  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "besvär<br>kvarstår",  
+  "context": "Kontakta läkare om besvär kvarstår. | | | Förtäring | Skölj munnen ordentligt. Framkalla inte kräkning. Kontakta läkare **om besvär<br>kvarstår.** | | #### **4.2 De viktigaste symptomen och effekterna, både akuta och fördröjda** | Akuta symptom och effekter | Inga s",  
+  "position": [  
+    3635,  
+    3657  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "och effekter | Inga symptom kända eller förväntade",  
+  "context": "e om besvär<br>kvarstår. | | #### **4.2 De viktigaste symptomen och effekterna, både akuta och fördröjda** | Akuta sympt**om och effekter | Inga symptom kända eller förväntade.** | |----------------------------|-----------------------------------------| | | Ögonkontakt kan ge mekanisk irritation.",  
+  "position": [  
+    3753,  
+    3807  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "eventuellt krävs** Andra upplysningar Symptomatisk behandling",  
+  "context": "gonkontakt kan ge mekanisk irritation. | # **4.3 Beskrivning av omedelbar medicinsk behandling och särskild behandling s**om eventuellt krävs** Andra upplysningar Symptomatisk behandling.** Ingen specifik information från tillverkaren. # **AVSNITT 5: Brandbekämpningsåtgärder** ## **5.1 Släckmedel** | Lämplig",  
+  "position": [  
+    4008,  
+    4073  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ämnet eller blandningen kan medföra** | Brand- och explosionsrisker | Produkten är inte klassificerad som brandfarlig",  
+  "context": "gsmedel. | |---------------------|--------------------------------------------------| | | | #### **5.2 Särskilda faror s**om ämnet eller blandningen kan medföra** | Brand- och explosionsrisker | Produkten är inte klassificerad som brandfarlig.** | |-------------------------------|------------------------------------------------------------------------| | Farliga",  
+  "position": [  
+    4368,  
+    4489  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "utsätts för rökgaser/nedbrytningsprodukter skall använda<br>godkända insatskläder och andningsapparat",  
+  "context": ": Metalloxider. Kiseloxider. | #### **5.3. Råd till brandbekämpningspersonal** | Personlig skyddsutrustning | Brandmän s**om utsätts för rökgaser/nedbrytningsprodukter, skall använda<br>godkända insatskläder och andningsapparat.** | |----------------------------|---------------------------------------------------------------------------------------",  
+  "position": [  
+    4795,  
+    4901  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "minimerar uppkomsten<br>av aerosoler",  
+  "context": "### **7.1 Försiktighetsmått för säker hantering** | Hantering | Sörj för tillräcklig ventilation. Använd arbetsmetoder s**om minimerar uppkomsten<br>av aerosoler.** Använd skyddsutrustning enligt avsnitt 8. | |----------------------------|---------------------------------------------",  
+  "position": [  
+    6779,  
+    6819  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "allmän arbetshygien | Man får inte äta dricka eller röka under arbetet",  
+  "context": "-------------------------------------------------------------------------------------------| | Skyddsåtgärder | | | Råd **om allmän arbetshygien | Man får inte äta, dricka eller röka under arbetet.** Tvätta händerna efter varje<br>arbetsskift och innan måltid, rökpaus eller toalettbesök. Tvätta nedsölade kläder<br>inn",  
+  "position": [  
+    7114,  
+    7189  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "gränsvärden | | Referenser (lagar/förordningar) Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden \"Hygieniska gränsvärden\" AFS 20181",  
+  "context": "| | CAS-nr.: 14808-60-7 | Nivågränsvärde (NGV) : 0,1<br>mg/m³<br>Anmärkning<br>Anmärkning: C, M | | | Övrig information **om gränsvärden | | Referenser (lagar/förordningar): Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden, \"Hygieniska gränsvärden\", AFS 2018:1.**<br>Förklaring av anmärkningarna:<br>C = Ämnet är cancerframkallande.<br>M = Medicinsk kontroll kan krävas för hantering",  
+  "position": [  
+    8561,  
+    8729  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20181"  
+  ],  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "syftar till<br>att förhindra exponering | Sörj för tillräcklig ventilation",  
+  "context": "| | #### **8.2 Begränsning av exponeringen** # **Säkerhetsåtgärder för att förhindra exponering** | Tekniska åtgärder so**m syftar till<br>att förhindra exponering | Sörj för tillräcklig ventilation.<**br>Personlig skyddsutrustning skall vara CE-märkt och bör väljas i samråd med<br>leverantören av sådan utrustning. Reko",  
+  "position": [  
+    9041,  
+    9119  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundläggande fysikaliska och kemiska egenskaper** | Fysisk form | Vätska",  
+  "context": "g och mark. Begränsning av miljöexponeringen # **AVSNITT 9: Fysikaliska och kemiska egenskaper** #### **9.1 Information **om grundläggande fysikaliska och kemiska egenskaper** | Fysisk form | Vätska.** / Dispersion. | |-----------------------------------|-------------------------------------------------| | Färg | Guld.",  
+  "position": [  
+    12385,  
+    12462  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ska undvikas** Inga kända",  
+  "context": "----------------------------| |-------------------------------|--------------------------------| # **10.4 Förhållanden s**om ska undvikas** Inga kända.** Förhållanden som skall undvikas ## **10.5. Oförenliga material** Inga speciella. Material som skall undvikas #### **10.",  
+  "position": [  
+    14514,  
+    14543  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skall undvikas ## **10",  
+  "context": "------------------|--------------------------------| # **10.4 Förhållanden som ska undvikas** Inga kända. Förhållanden s**om skall undvikas ## **10.**5. Oförenliga material** Inga speciella. Material som skall undvikas #### **10.6 Farliga sönderdelningsprodukter** Farli",  
+  "position": [  
+    14558,  
+    14584  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "skall undvikas #### **10",  
+  "context": "m ska undvikas** Inga kända. Förhållanden som skall undvikas ## **10.5. Oförenliga material** Inga speciella. Material s**om skall undvikas #### **10.**6 Farliga sönderdelningsprodukter** Farliga sönderdelningsprodukter Inga vid normala förhållanden. Se även avsnitt 5.2.",  
+  "position": [  
+    14635,  
+    14663  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "de toxikologiska effekterna** #### **Övriga upplysningar om hälsofara** | Utvärdering av akut toxicitet | Kriterierna för klassificering kan på grundval av tillgängliga data inte anses vara | |------------------------------------------------------------------|-------------------------------------------------------------------------------------| | klassificering | uppfyllda",  
+  "context": "Inga vid normala förhållanden. Se även avsnitt 5.2. # **AVSNITT 11: Toxikologisk information** #### **11.1 Information o**m de toxikologiska effekterna** #### **Övriga upplysningar om hälsofara** | Utvärdering av akut toxicitet, | Kriterierna för klassificering kan på grundval av tillgängliga data inte anses vara | |------------------------------------------------------------------|-------------------------------------------------------------------------------------| | klassificering | uppfyllda. **| | Utvärdering av frätande / | Kriterierna för klassificering kan på grundval av tillgängliga data inte anses vara | |",  
+  "position": [  
+    14850,  
+    15230  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "på exponering** | I fall av förtäring | Inga kända skadliga verkningar vid mängder som kan bli aktuella om produkten<br>förtärs av misstag",  
+  "context": "ficering | Kriterierna för klassificering kan på grundval av tillgängliga data inte anses vara<br>uppfyllda. | ## **Symt**om på exponering** | I fall av förtäring | Inga kända skadliga verkningar vid mängder som kan bli aktuella om produkten<br>förtärs av misstag.** | |-----------------------|--------------------------------------------------------------------------------------------",  
+  "position": [  
+    17102,  
+    17244  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "miljöfarlig",  
+  "context": "ende ögonirritation. | # **AVSNITT 12: Ekologisk information** #### **12.1 Toxicitet** Produkten är inte klassificerad s**om miljöfarlig.** Ekotoxicitet #### **12.2 Persistens och nedbrytbarhet** | Persistens och nedbrytbarhet | Innehåller endast oorganiska f",  
+  "position": [  
+    17613,  
+    17628  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "hushållsavfall eller<br>lämnas för återvinning",  
+  "context": "lshantering | Deponeras eller förbränns enligt lokala föreskrifter.<br>Tömda och rengjorda förpackningar kan deponeras s**om hushållsavfall eller<br>lämnas för återvinning.** | |------------------------------------------------------|-------------------------------------------------------------",  
+  "position": [  
+    18848,  
+    18898  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "farligt avfall Nej | | Andra upplysningar | Får inte hällas ut i avloppet",  
+  "context": "-------------------------------------------------------------------------------------------| | EWC-kod | Klassificerad s**om farligt avfall: Nej | | Andra upplysningar | Får inte hällas ut i avloppet.** | # **AVSNITT 14: Transportinformation** ## **14.1. UN-nummer** ``` Kommentarer ``` Inte farligt gods enligt FN, ADR/RI",  
+  "position": [  
+    19144,  
+    19222  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ämnet eller blandningen när det gäller säkerhet hälsa och miljö** | Referenser (lagar/förordningar)<br>Förordning (EG) nr 1272/2008 om klassificering märkning och förpackning av<br>ämnen och blandningar (CLP-förordningen) med senare ändringar",  
+  "context": "ening kategori Inte relevant. Inte relevant. # **AVSNITT 15: Gällande föreskrifter** # **15.1 Föreskrifter/lagstiftning **om ämnet eller blandningen när det gäller säkerhet, hälsa och miljö** | Referenser (lagar/förordningar)<br>Förordning (EG) nr 1272/2008 om klassificering, märkning och förpackning av<br>ämnen och blandningar (CLP-förordningen) med senare ändringar.**<br>Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18<br>december 2006 om registrering, utvärdering,",  
+  "position": [  
+    19969,  
+    20217  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "registrering utvärdering godkännande och begränsning av<br>kemikalier (REACH) med senare ändringar",  
+  "context": "dningen) med senare ändringar.<br>Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18<br>december 2006 **om registrering, utvärdering, godkännande och begränsning av<br>kemikalier (REACH) med senare ändringar.**<br>Avfallsförordning, SFS 2011:927 med senare ändringar.<br>ADR-S 2019 (MSBFS 2018:5) samt RID-S 2019 (MSBFS 2018:6) |",  
+  "position": [  
+    20307,  
+    20411  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "kan ingå i mängder under Leverantörens anmärkningar | | klassificeringsgränsen i Vermikulit",  
+  "context": "kaliesäkerhetsbedömning har utförts #### **AVSNITT 16: Annan information** Faroangivelse H373 nedan gäller för kvarts, s**om kan ingå i mängder under Leverantörens anmärkningar | | klassificeringsgränsen i Vermikulit.** | |------------------------------------------------------------------------|-------------------------------------------",  
+  "position": [  
+    21693,  
+    21788  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lång eller upprepad exponering | | Hänvisningar till viktiga<br>litteraturreferenser och datakällor | Säkerhetsdatablad från leverantör daterat [Value] 2015-09-18 | | Använda förkortningar och<br>akronymer | ADR The European Agreement concerning the International Carriage of<br>Dangerous Goods by Road | | | EWC-kod kod från EUs gemensamma klassificeringssystem för avfall (European<br>Waste Code)",  
+  "context": "------------| | Lista över relevanta<br>Faroangivelser/H-fraser (i avsnitt 2<br>och 3) | H373 Kan orsaka organskador gen**om lång eller upprepad exponering | | Hänvisningar till viktiga<br>litteraturreferenser och datakällor | Säkerhetsdatablad från leverantör daterat: [Value] 2015-09-18 | | Använda förkortningar och<br>akronymer | ADR: The European Agreement concerning the International Carriage of<br>Dangerous Goods by Road | | | EWC-kod: kod från EU:s gemensamma klassificeringssystem för avfall (European<br>Waste Code).** | | | ICAO: The International Civil Aviation Organisation | | | IMDG: The International Maritime Dangerous Goods Code |",  
+  "position": [  
+    22101,  
+    22507  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "har lagts till<br>raderats eller reviderats | Nytt säkerhetsdatablad | | Kvalitetssäkring av informationen | Detta säkerhetsdatablad är kvalitetskontrollerat av Kiwa Teknologisk Institutt as<br>som är certifierade enligt ISO 90012008",  
+  "context": "| | vPvB: very Persistent and very Bioaccumulative (mycket Persistent och mycket<br>Bioackumulerande) | | Upplysningar s**om har lagts till,<br>raderats eller reviderats | Nytt säkerhetsdatablad | | Kvalitetssäkring av informationen | Detta säkerhetsdatablad är kvalitetskontrollerat av Kiwa Teknologisk Institutt as<br>som är certifierade enligt ISO 9001:2008.** | | Version | 3 | | Utarbetat av | Kiwa Teknologisk Institutt as v/ Milvi Rohtla |",  
+  "position": [  
+    22903,  
+    23142  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "90012008",  
+    "90012008"  
+  ],  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "det gäller säkerhet hälsa och miljö** | Referenser (lagar/förordningar)<br>Förordning (EG) nr 1272/2008 om klassificering märkning och förpackning av<br>ämnen och blandningar (CLP-förordningen) med senare ändringar",  
+  "context": "t. Inte relevant. # **AVSNITT 15: Gällande föreskrifter** # **15.1 Föreskrifter/lagstiftning om ämnet eller blandningen **när det gäller säkerhet, hälsa och miljö** | Referenser (lagar/förordningar)<br>Förordning (EG) nr 1272/2008 om klassificering, märkning och förpackning av<br>ämnen och blandningar (CLP-förordningen) med senare ändringar.**<br>Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18<br>december 2006 om registrering, utvärdering,",  
+  "position": [  
+    19996,  
+    20217  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| 3 | | Utarbetat av | Kiwa Teknologisk Institutt as v/ Milvi Rohtla |",  
+  "context": "hetsdatablad är kvalitetskontrollerat av Kiwa Teknologisk Institutt as<br>som är certifierade enligt ISO 9001:2008. | | **Version | 3 | | Utarbetat av | Kiwa Teknologisk Institutt as v/ Milvi Rohtla |**",  
+  "position": [  
+    23147,  
+    23225  
+  ],  
+  "pattern_index": 122,  
+  "pattern": "(?i)version(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "kontaktlinser",  
+  "context": "ch vatten. Kontakta läkare om besvär kvarstår. | | | Ögonkontakt | Skölj försiktigt med vatten i flera minuter. Tag ut e**v. kontaktlinser.** Håll ögonen<br>vidöppna. Kontakta läkare om besvär kvarstår. | | | Förtäring | Skölj munnen ordentligt. Framkalla inte",  
+  "position": [  
+    3472,  
+    3489  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "<br>Undvik inandning av ångor och sprutdimma",  
+  "context": "ärder, skyddsutrustning och åtgärder vid nödsituationer** | Personliga skyddsåtgärder | Ventilationen skall vara effekti**v.<br>Undvik inandning av ångor och sprutdimma.** Använd personlig skyddsutrustning<br>(se avsnitt 8).<br>Vid spill: se upp för hala golv och ytor. | |------------------",  
+  "position": [  
+    5382,  
+    5429  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Oxiderande egenskaper | Inte oxiderande",  
+  "context": "dande. | | Sönderfallstemperatur | Kommentarer: Inte specificerad av tillverkaren. | | Explosiva egenskaper | Ej explosi**v. | | Oxiderande egenskaper | Inte oxiderande.** | #### **9.2. Annan information** #### **Andra fysiska och kemiska egenskaper** Kommentarer Inga ytterligare uppgifter",  
+  "position": [  
+    13697,  
+    13744  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "begär Giftinformation | # **AVSNITT 2 Farliga egenskaper** #### **2",  
+  "context": "er för nödsituationer** | Nödtelefon | Telefon: 112 | |------------|------------------------------------| | | Beskrivnin**g: begär Giftinformation | # **AVSNITT 2: Farliga egenskaper** #### **2.**1 Klassificering av ämnet eller blandningen** | Klassificering enligt CLP, | Klassificering enligt (EG) nr. 1272/2008: I",  
+  "position": [  
+    1476,  
+    1548  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| #### **2",  
+  "context": "ning (CLP) | Denna produkt är INTE MÄRKNINGSPLIKTIG m.a.p. hälso-/fysikaliska- eller<br>miljöfaror enligt EU-lagstiftnin**g. | #### **2.**3. Andra faror** | PBT / vPvB | PBT/vPvB-bedömning ej utförd. | |-------------|-----------------------------------------",  
+  "position": [  
+    2182,  
+    2196  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Kontakta läkare om besvär<br>kvarstår",  
+  "context": "gonen<br>vidöppna. Kontakta läkare om besvär kvarstår. | | | Förtäring | Skölj munnen ordentligt. Framkalla inte kräknin**g. Kontakta läkare om besvär<br>kvarstår.** | | #### **4.2 De viktigaste symptomen och effekterna, både akuta och fördröjda** | Akuta symptom och effekter | Inga s",  
+  "position": [  
+    3616,  
+    3657  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Ingen specifik information från tillverkaren",  
+  "context": "omedelbar medicinsk behandling och särskild behandling som eventuellt krävs** Andra upplysningar Symptomatisk behandling**. Ingen specifik information från tillverkaren. **# **AVSNITT 5: Brandbekämpningsåtgärder** ## **5.1 Släckmedel** | Lämpliga släckmedel | Inte relevant. Produkten är ett",  
+  "position": [  
+    4071,  
+    4119  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| |-------------------------------|------------------------------------------------------------------------| | Farliga förbränningsprodukter | Kan inkludera men är inte begränsade till Metalloxider",  
+  "context": "som ämnet eller blandningen kan medföra** | Brand- och explosionsrisker | Produkten är inte klassificerad som brandfarli**g. | |-------------------------------|------------------------------------------------------------------------| | Farliga förbränningsprodukter | Kan inkludera, men är inte begränsade till: Metalloxider.** Kiseloxider. | #### **5.3. Råd till brandbekämpningspersonal** | Personlig skyddsutrustning | Brandmän som utsätts för",  
+  "position": [  
+    4487,  
+    4690  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| #### **7",  
+  "context": "a efter varje<br>arbetsskift och innan måltid, rökpaus eller toalettbesök. Tvätta nedsölade kläder<br>innan de används i**gen. | #### **7.**2 Förhållanden för säker lagring, inklusive eventuell oförenlighet** | Lagring | Förvaras i tättsluten originalförpackni",  
+  "position": [  
+    7324,  
+    7340  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "C M | | | Övrig information om gränsvärden | | Referenser (lagar/förordningar) Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden \"Hygieniska gränsvärden\" AFS 20181",  
+  "context": "----------------|----| | Kvarts | | CAS-nr.: 14808-60-7 | Nivågränsvärde (NGV) : 0,1<br>mg/m³<br>Anmärkning<br>Anmärknin**g: C, M | | | Övrig information om gränsvärden | | Referenser (lagar/förordningar): Arbetsmiljöverkets föreskrifter och allmänna råd<br>om hygieniska gränsvärden, \"Hygieniska gränsvärden\", AFS 2018:1.**<br>Förklaring av anmärkningarna:<br>C = Ämnet är cancerframkallande.<br>M = Medicinsk kontroll kan krävas för hantering",  
+  "position": [  
+    8529,  
+    8729  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "20181"  
+  ],  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Rekommenderad skyddsutrustning och<br>angivna standarder är vägledande",  
+  "context": "lation.<br>Personlig skyddsutrustning skall vara CE-märkt och bör väljas i samråd med<br>leverantören av sådan utrustnin**g. Rekommenderad skyddsutrustning och<br>angivna standarder är vägledande.** Standarder bör vara av senaste version. En<br>riskbedömning av arbetsplatsen/verksamheten (den faktiska risken) kan led",  
+  "position": [  
+    9232,  
+    9306  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Ögon- / ansiktsskydd | | | Ögonskydd | Använd tättslutande skyddsglasögon eller ansiktsskärm",  
+  "context": "ska risken) kan leda till<br>andra kontrollåtgärder. Skyddsutrustningens lämplighet och hållbarhet beror på<br>användnin**gen. | |---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Ögon- / ansiktsskydd | | | Ögonskydd | Använd tättslutande skyddsglasögon eller ansiktsskärm.** | | |-----------------------------------------|------------------------------------------------------------------------",  
+  "position": [  
+    9527,  
+    10143  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| |--------------------------|-----------------------------------------------------------------------------------| | Rekommenderad | Hänvisning till relevanta standarder SS-EN 143 (Andningsskydd - Partikelfilter - | | andningsskyddsutrustning | Fordringar provning märkning)",  
+  "context": "| Andningsskydd | | | | | | Andningsskydd | Behövs normalt inte.<br>Använd andningsmask med filter P2 vid aerosolbildnin**g. | |--------------------------|-----------------------------------------------------------------------------------| | Rekommenderad | Hänvisning till relevanta standarder: SS-EN 143 (Andningsskydd - Partikelfilter - | | andningsskyddsutrustning | Fordringar, provning, märkning).** | #### **Begränsning av miljöexponeringen** Förhindra utsläpp till avlopp, vattendrag och mark. Begränsning av miljöexp",  
+  "position": [  
+    11899,  
+    12180  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | Luktgräns | Kommentarer Inte relevant",  
+  "context": "---------------------------------|-------------------------------------------------| | Färg | Guld. / Brun | | Lukt | In**gen. | | Luktgräns | Kommentarer: Inte relevant.** | | pH | Värde: ~ 8 -9 | | Smältpunkt / smältpunktsintervall | Kommentarer: Inte specificerad av tillverkaren. | | Kokp",  
+  "position": [  
+    12602,  
+    12650  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| #### **10",  
+  "context": "Kemisk stabilitet | | | Stabilitet | Produkten är stabil under normala lagringsförhållanden och vid normal<br>användning**. | #### **10.3** Risken för farliga reaktioner** | Risken för farliga reaktioner | Inga farliga reaktioner kända. | |------------------",  
+  "position": [  
+    14241,  
+    14256  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| |-----------------------|-----------------------------------------------------------------------------------------------------| | I fall av hudkontakt | Inga data",  
+  "context": "I fall av förtäring | Inga kända skadliga verkningar vid mängder som kan bli aktuella om produkten<br>förtärs av misstag**. | |-----------------------|-----------------------------------------------------------------------------------------------------| | I fall av hudkontakt | Inga data. **| | I fall av inandning | Inga data. | | I fall av ögonkontakt | Kan orsaka övergående ögonirritation. | # **AVSNITT 12",  
+  "position": [  
+    17242,  
+    17410  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Ekotoxicitet #### **12",  
+  "context": "tation. | # **AVSNITT 12: Ekologisk information** #### **12.1 Toxicitet** Produkten är inte klassificerad som miljöfarli**g. Ekotoxicitet #### **12.**2 Persistens och nedbrytbarhet** | Persistens och nedbrytbarhet | Innehåller endast oorganiska föreningar. Metoder för b",  
+  "position": [  
+    17626,  
+    17652  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------| | EWC-kod | Klassificerad som farligt avfall Nej | | Andra upplysningar | Får inte hällas ut i avloppet",  
+  "context": "okala föreskrifter.<br>Tömda och rengjorda förpackningar kan deponeras som hushållsavfall eller<br>lämnas för återvinnin**g. | |------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------| | EWC-kod | Klassificerad som farligt avfall: Nej | | Andra upplysningar | Får inte hällas ut i avloppet.** | # **AVSNITT 14: Transportinformation** ## **14.1. UN-nummer** ``` Kommentarer ``` Inte farligt gods enligt FN, ADR/RI",  
+  "position": [  
+    18896,  
+    19222  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "The International Maritime Dangerous Goods Code | | | PBT Persistent Bioackumulerande och Toxisk (giftig) | | | RID The Regulations concerning the International Carriage of Dangerous Goods<br>by Rail | | | vPvB very Persistent and very Bioaccumulative (mycket Persistent och mycket<br>Bioackumulerande) | | Upplysningar som har lagts till<br>raderats eller reviderats | Nytt säkerhetsdatablad | | Kvalitetssäkring av informationen | Detta säkerhetsdatablad är kvalitetskontrollerat av Kiwa Teknologisk Institutt as<br>som är certifierade enligt ISO 90012008",  
+  "context": "ficeringssystem för avfall (European<br>Waste Code). | | | ICAO: The International Civil Aviation Organisation | | | IMD**G: The International Maritime Dangerous Goods Code | | | PBT: Persistent, Bioackumulerande och Toxisk (giftig) | | | RID: The Regulations concerning the International Carriage of Dangerous Goods<br>by Rail | | | vPvB: very Persistent and very Bioaccumulative (mycket Persistent och mycket<br>Bioackumulerande) | | Upplysningar som har lagts till,<br>raderats eller reviderats | Nytt säkerhetsdatablad | | Kvalitetssäkring av informationen | Detta säkerhetsdatablad är kvalitetskontrollerat av Kiwa Teknologisk Institutt as<br>som är certifierade enligt ISO 9001:2008.** | | Version | 3 | | Utarbetat av | Kiwa Teknologisk Institutt as v/ Milvi Rohtla |",  
+  "position": [  
+    22575,  
+    23142  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "90012008",  
+    "90012008"  
+  ],  
+  "product_id": "50152689"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "spolflaska",  
+  "context": "gonsköljsanordning kopplad till dricksvattennätet (tempererat vatten önskvärt)<br>eller en portabel anordning av engångs**typ (spolflaska).** | | | Hänvisning till relevanta<br>standarder | SS-EN 166 (Ögonskydd - Fordringar och specifikationer). | | # **Handsky",  
+  "position": [  
+    10646,  
+    10663  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50152689"  
+}
+

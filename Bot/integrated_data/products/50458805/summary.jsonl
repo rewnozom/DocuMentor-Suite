@@ -1,0 +1,72 @@
+{  
+  "product_id": "50458805",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n![](images/_page_0_Picture_1.jpeg)\n\n# **Översikt:**\n\nP-serien består av en rad olika batteribackuper i varierande storlekar som kommunicerar överordnat med Omnis via OSDP. Tillsammans med smarta tillbehör såsom; avsäkringskort för uppdelning av last, reläkort för larmutgångar och batteriboxar för ökad batterikapacitet står P-Serien för strömförsörjningen i en godkänd Omnis-anläggning upp till larmklass 3. **Skydd för:** Överbelastning, överspänning, övertemperatur, kortslutning och djupurladdning.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "enheter med upp till 10A maxlast",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "enheter med 15A-25A maxlast",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "Large-kapslingar och rymmer 2x 45Ah batterier",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "bytas ut",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "replacement",  
+      "related_product": "att de inte alls används) bidrar systemet till att förlänga batteri-livslängden med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kommunicerar överordnat med Omnis via OSDP",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "levereras individuellt avsäkrade till 2A med möjlighet att utöka upp till 10A per utgång",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "att var 20e dygn ladda batterierna (istället för att de inte alls används) bidrar systemet till att förlänga batteri-livslängden med upp till 50%",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 5 | 10 | 10 | 10 | 10 | | Vikt (utan batterier) kg | 55 | 13 | 14 | 16 | 16 | | Kapslingsklass | IP32 | IP32 | IP32 | IP32 | IP32 | | Batterikapacitet i egen kapsling | 14Ah (2x14Ah) | 45Ah (2x45Ah) | 45Ah (2x45Ah) | 45Ah (2x45Ah) | 45Ah (2x45Ah) | | Maximal batterikapacitet | 42Ah (6x14Ah) | 45Ah (2x45Ah) | 90Ah (4x45Ah) | 180Ah (8x45Ah) | 225Ah (10x45Ah) | | Max antal batteriboxar (Small) | 1 | - | - | - | - | | Max antal batteriboxar (Large) | - | - | 1 | 3 | 4 | | Maxlast | 5A | 5A | 10A | 15A | 25A | | 1Godkänd medellast utan batteriboxar | 11A | 36A | 36A | 36A | 36A | | 1Godkänd medellast 1 Batteribox | 33A | - | 74A | 74A | 74A | | 1Godkänd medellast 2 Batteriboxar | - | - | - | 111A | 111A | | 1Godkänd medellast 3 Batteriboxar | - | - | - | 148A | 148A | | 1Godkänd medellast 4 Batteriboxar | - | - | - | - | 186A | | Antal utgångar oprioriterad last | - | - | - | 3 (valbara) | 6 (valbara) | | Antal utgångar för prioriterad last | 2 | 2+5 | 2+10 | 2+10 | 2+20 | | Antal växlande reläutgångar på baskort | 0 | 0 | 0 | 0 | 0 | | Lediga platser för tillvalskort | 2 | 2 | 2 | 1 | 0 | 1 = Godkänd medellast enligt SSF10145 Larmklass 2",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "10145"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "| 55 | 13 | 14 | 16 | 16 | | Kapslingsklass | IP32 | IP32 | IP32 | IP32 | IP32 | | Batterikapacitet i egen kapsling | 14Ah (2x14Ah) | 45Ah (2x45Ah) | 45Ah (2x45Ah) | 45Ah (2x45Ah) | 45Ah (2x45Ah) | | Maximal batterikapacitet | 42Ah (6x14Ah) | 45Ah (2x45Ah) | 90Ah (4x45Ah) | 180Ah (8x45Ah) | 225Ah (10x45Ah) | | Max antal batteriboxar (Small) | 1 | - | - | - | - | | Max antal batteriboxar (Large) | - | - | 1 | 3 | 4 | | Maxlast | 5A | 5A | 10A | 15A | 25A | | 1Godkänd medellast utan batteriboxar | 11A | 36A | 36A | 36A | 36A | | 1Godkänd medellast 1 Batteribox | 33A | - | 74A | 74A | 74A | | 1Godkänd medellast 2 Batteriboxar | - | - | - | 111A | 111A | | 1Godkänd medellast 3 Batteriboxar | - | - | - | 148A | 148A | | 1Godkänd medellast 4 Batteriboxar | - | - | - | - | 186A | | Antal utgångar oprioriterad last | - | - | - | 3 (valbara) | 6 (valbara) | | Antal utgångar för prioriterad last | 2 | 2+5 | 2+10 | 2+10 | 2+20 | | Antal växlande reläutgångar på baskort | 0 | 0 | 0 | 0 | 0 | | Lediga platser för tillvalskort | 2 | 2 | 2 | 1 | 0 | 1 = Godkänd medellast enligt SSF10145 Larmklass 2",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "10145"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

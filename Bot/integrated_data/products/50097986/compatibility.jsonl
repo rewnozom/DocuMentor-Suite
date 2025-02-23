@@ -1,0 +1,177 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "är avsett att användas som ingång (utan POE)",  
+  "context": "age och med 4-36 portar med inbyggd batteribackup. Bestyckad med ett RJ45 8-pol uttag utöver det ordinarie portantalet s**om är avsett att användas som ingång (utan POE).** Övriga portar är RJ45 8 pol som är försedda med led för datatrafik och status. POE48-24/R-UPS har växelriktare - 150W 2",  
+  "position": [  
+    1563,  
+    1611  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är försedda med led för datatrafik och status",  
+  "context": "l uttag utöver det ordinarie portantalet som är avsett att användas som ingång (utan POE). Övriga portar är RJ45 8 pol s**om är försedda med led för datatrafik och status.** POE48-24/R-UPS har växelriktare - 150W 230VAC uttag med batteribackup. (Offline) CE-märkt enligt EN61000-6-3:2001 EN610",  
+  "position": [  
+    1641,  
+    1690  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "grundligt och förstås av all handhavande personal",  
+  "context": "POE-48 POWER OVER ETHERNET MED BATTERIBACKUP ![](images/_page_1_Picture_1.jpeg) ### SÄKERHET Denna instruktion skall läsas igen**om grundligt och förstås av all handhavande personal.** Vid minsta tveksamhet om systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Endast",  
+  "position": [  
+    3130,  
+    3183  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "systemets uppbyggnad funktion komponenter samt säkerhet skall leverantören kontaktas",  
+  "context": "SÄKERHET Denna instruktion skall läsas igenom grundligt och förstås av all handhavande personal. Vid minsta tveksamhet o**m systemets uppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. **Endast auktoriserad och erfaren personal inom AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.",  
+  "position": [  
+    3206,  
+    3296  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "AC och DC får använda arbeta serva/underhålla installera denna enhet",  
+  "context": "ppbyggnad, funktion, komponenter samt säkerhet skall leverantören kontaktas. Endast auktoriserad och erfaren personal in**om AC och DC får använda, arbeta, serva/underhålla, installera denna enhet.** **SM40 Strömförsörjning med plats för batteri** Endast isolerade verktyg får användas i enheten. Observera att farliga",  
+  "position": [  
+    3340,  
+    3415  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterier används är dessa alltid elektrokemiskt aktiva",  
+  "context": "både när interna säkringarna är av eller på. Kontrollera att kretskort sitter fast och inga delar är transportskadade. O**m batterier används är dessa alltid elektrokemiskt aktiva. **Kortslut inte batteripolerna. ## INKOPPLING - Montera aggregatet fritt. Minst 100mm på varje sida. - Anslut först 230V",  
+  "position": [  
+    3701,  
+    3760  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna",  
+  "context": "för nätspänning tänds. Kontrollera att utspänningen är den önskade. - Spänningsjustering görs direkt på likriktaren. - O**m lysdiod för nätindikering ej tänds kontrollera inspänning och ingångssäkringarna. **- Anslut batterierna och därefter lasten. - Löser utgångssäkringarna, kontrollera inkoppling och inkopplade apparater.",  
+  "position": [  
+    4013,  
+    4097  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "interna säkringarna är av eller på",  
+  "context": "ast isolerade verktyg får användas i enheten. Observera att farliga spänningar och strömmar förekommer i apparaten både **när interna säkringarna är av eller på.** Kontrollera att kretskort sitter fast och inga delar är transportskadade. Om batterier används är dessa alltid elektrok",  
+  "position": [  
+    3587,  
+    3626  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Inbyggt skydd mot djup-urladdning av batterierna",  
+  "context": "_page_0_Picture_2.jpeg) ![](images/_page_0_Picture_4.jpeg) #### Skydd: Aggregatet är skyddad mot överbelastning och kortslutnin**g. Inbyggt skydd mot djup-urladdning av batterierna.** Nät, last och batteri skyddas av säkringar. #### Indikeringar och larm: Nätspänning indikeras med grön lysdiod på front",  
+  "position": [  
+    173,  
+    225  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Högeffektiv – 85% vid nätdrift – 98% vid batteridrift High Power – 30W/utgång - kontinuerlig drift på alla portar samtidigt",  
+  "context": "kamerautrustning etc. används endast en standard ethernet, CAT 5/6 kabel, för både datakommunikation och spänningsmatnin**g. Högeffektiv – 85% vid nätdrift – 98% vid batteridrift High Power – 30W/utgång - kontinuerlig drift på alla portar samtidigt.** Övervakad batteriladdare – hög säkerhet. Batterier, nät och utgångar övervakade med larmrelä, LED indikering. #### UTFÖ",  
+  "position": [  
+    938,  
+    1065  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### UTFÖRANDE POE-48/xx 30W/port IEEE802",  
+  "context": "r samtidigt. Övervakad batteriladdare – hög säkerhet. Batterier, nät och utgångar övervakade med larmrelä, LED indikerin**g. #### UTFÖRANDE: POE-48/xx 30W/port, IEEE802.**3at, PoE Plus är en switch med strömförsörjning, batteriladdare och batterier i en enhet. Aggregatet uppfyller både IEEE",  
+  "position": [  
+    1173,  
+    1220  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50097986"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| Beskrivning | HxBxD mm | |----------|---------------------------|------------------------------------------------------------------------------|-------------| | 5172434 | POE48- 4/R | POE 48V 150W<br>4 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172435 | POE48- 8/R | POE 48V 320W<br>8 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172436 | POE48- 12/R | POE 48V 500W<br>12 PORTAR 19\" max 4x9Ah | 132x480x320 | | 5172437 | POE48- 24/R | POE 48V 600W<br>24 PORTAR 19\" max 4x9Ah | 132x480x320 | | | POE48- 24/R<br>UPS | POE 48V 1000W<br>24 PORTAR 19\" 230V 150W uttag på sidan -<br>externa batteri | 132x480x320 | | 5172431 | POE48- 4/V | POE 48V 150W<br>4 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172432 | POE48- 8/V | POE 48V 320W<br>8 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172433 | POE48- 12/V | POE 48V 500W<br>12 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | | SBX197 | Batteribox 3 19\" max 8x 7-9Ah m säkring o kablage | 132x480x320 | | | Postadress/Postal address | Telefon nr/Telephone no<br>e-post | VAT",  
+  "context": "ktare - 150W 230VAC uttag med batteribackup. (Offline) CE-märkt enligt EN61000-6-3:2001 EN61000-6- 2:2005. | E-Nummer | **Typ | Beskrivning | HxBxD mm | |----------|---------------------------|------------------------------------------------------------------------------|-------------| | 5172434 | POE48- 4/R | POE 48V 150W<br>4 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172435 | POE48- 8/R | POE 48V 320W<br>8 PORTAR 19\"<br>max 4x 9Ah | 132x480x320 | | 5172436 | POE48- 12/R | POE 48V 500W<br>12 PORTAR 19\" max 4x9Ah | 132x480x320 | | 5172437 | POE48- 24/R | POE 48V 600W<br>24 PORTAR 19\" max 4x9Ah | 132x480x320 | | | POE48- 24/R<br>UPS | POE 48V 1000W<br>24 PORTAR 19\" 230V 150W uttag på sidan -<br>externa batteri | 132x480x320 | | 5172431 | POE48- 4/V | POE 48V 150W<br>4 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172432 | POE48- 8/V | POE 48V 320W<br>8 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | 5172433 | POE48- 12/V | POE 48V 500W<br>12 PORTAR VÄGGMONTAGE max 4x9Ah | 320x390x160 | | | SBX197 | Batteribox 3 19\" max 8x 7-9Ah m säkring o kablage | 132x480x320 | | | Postadress/Postal address | Telefon nr/Telephone no<br>e-post | VAT.**NO | **Swansons Telemekanik AB** Hålstensvägen 4 SE-446 37 Älvängen +46(0)303-746 320 Hemsida/Webb www.swtm.se info@swtm",  
+  "position": [  
+    1837,  
+    2869  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "5172434",  
+    "5172435",  
+    "5172436",  
+    "5172437",  
+    "5172431",  
+    "5172432",  
+    "5172433"  
+  ],  
+  "product_id": "50097986"  
+}
+

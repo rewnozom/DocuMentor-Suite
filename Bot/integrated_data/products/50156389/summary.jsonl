@@ -1,0 +1,46 @@
+{  
+  "product_id": "50156389",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Enheten monteras på vägg och kopplas till huvudenheten. Monteras den direkt under huvudenheten kopplas den snabbt ihop med den medföljande kabeln. Den medföljande kabeln är klar med kabelskor och hängsäkring.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Höjd",  
+      "value": "366",  
+      "unit": null  
+    },  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Bredd",  
+      "value": "444",  
+      "unit": null  
+    },  
+    {  
+      "category": "WEIGHT",  
+      "name": "Vikt",  
+      "value": "5,15",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "www",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Enheten speglar ARX Powers diskreta stilrena design",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "batteribox",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

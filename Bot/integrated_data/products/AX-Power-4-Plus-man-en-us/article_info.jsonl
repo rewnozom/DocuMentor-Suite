@@ -1,0 +1,14 @@
+{  
+  "identifier": "solutions",  
+  "original": "solutions",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "2020 # **AX-Power 4 Plus** Power supply unit with PoE switch, possibility for reserve power and smar**t solutions f**or expansion and installation. ![](images/_page_0_Picture_5.jpeg) ### Introduction AX-Power 4 is a pow",  
+  "source": "regex",  
+  "product_id": "AX-Power-4-Plus-man-en-us"  
+}
+

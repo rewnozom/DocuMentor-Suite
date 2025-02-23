@@ -1,0 +1,42 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "LX M | NEO 24V 10A FLX M | NEO 24V 15A FLX M | NEO 24V 25A FLX M | | | | | Artikelnummer: | FM01N10112P100",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "identifier": "ikelnamn",  
+  "original": "ikelnamn",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | | | | | | | Artikelnamn: | NEO 12V 10A FLX M",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "LX M | NEO 24V 10A FLX M | NEO 24V 15A FLX M | NEO 24V 25A FLX M | | | | | Artikelnummer: | FM01N10112P100",  
+  "source": "regex",  
+  "product_id": "50152575"  
+}
+

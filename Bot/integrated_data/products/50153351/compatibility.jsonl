@@ -1,0 +1,378 @@
+{  
+  "relation_type": "condition",  
+  "related_product": "the battery cell is strong alkali can cause severe irritation and | | 眼睛接觸 | chemical burns",  
+  "context": ". | | | 與電解液發生皮膚接觸會導致皮膚刺激與化學燒傷。電池中的含鎳物質以及含鈷物質 | | | 會刺激皮膚從而導致皮膚過敏,並且可能導致皮膚炎症 | | Eye contact | The electrolyte leaked fr**om the battery cell is strong alkali, can cause severe irritation and | | 眼睛接觸 | chemical burns.** | | | 從電池洩露出的電解液具有強鹼性,可以導致嚴重刺激以及化學燒傷 | | Ingestion | If the battery is swallowed and opened, or the electrolyte is inge",  
+  "position": [  
+    2313,  
+    2409  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "residues)** 產品(殘留廢棄物) Do not throw out a used battery cell",  
+  "context": "ons** 處理方法 Recommended methods for safe and environmentally preferred disposal : 建議使用的對環境友好的處理方法 ### **Product (waste fr**om residues)** 產品(殘留廢棄物) Do not throw out a used battery cell.** Recycle it through the recycling company. 不要丟棄已使用過的電池,應將其給相應的回收公司 ### **Contaminated packaging** 有污染的包裝 Neither a conta",  
+  "position": [  
+    14294,  
+    14356  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a battery cell contaminates them dispose them as industrial wastes subject to special control",  
+  "context": "packaging** 有污染的包裝 Neither a container nor packing is contaminated during normal use. When internal materials leaked fro**m a battery cell contaminates them, dispose them as industrial wastes subject to special control. **在正常使用下不會出現包裝以及放置容器出現被污染的情況。當電池內部的材料洩漏時並污染其包裝容器, 可將被污染的包裝容器按特定的工業廢物處理 ## **Section XIV – Transport Information** 運輸資訊 |",  
+  "position": [  
+    14561,  
+    14659  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents",  
+  "context": "orms of transportation (ground, air, or ocean) must be packaged in a safe and responsible manner. Regulatory concerns fr**om all agencies for safe packaging require that batteries be packaged in a manner that prevents short circuits and be contained in \"strong outer packaging\" that prevents spillage of contents.** All original packaging for GP nickel metal hydride batteries has been designed to be compliant with these regulatory co",  
+  "position": [  
+    15883,  
+    16074  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "short circuit",  
+  "context": "備中的鎳氫紐扣電池、鎳氫電池或者電池組不受此特殊條例管理 All other nickel-metal hydride cells or batteries shall be securely packed and protected fr**om short circuit.** They are not subject to other provisions of this Code provided that they are loaded in a cargo transport unit in a tota",  
+  "position": [  
+    17914,  
+    17931  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "special control",  
+  "context": "ing normal use. When internal materials leaked from a battery cell contaminates them, dispose them as industrial wastes **subject to special control.** 在正常使用下不會出現包裝以及放置容器出現被污染的情況。當電池內部的材料洩漏時並污染其包裝容器, 可將被污染的包裝容器按特定的工業廢物處理 ## **Section XIV – Transport Information** 運輸資訊 |",  
+  "position": [  
+    14632,  
+    14659  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the dangerous goods regulations as they are compliant with the requirements contained in the following special provisions",  
+  "context": "dition 2020, ICAO Technical Instructions and the U.S. hazardous materials regulations (49 CFR). These batteries are not **subject to the dangerous goods regulations as they are compliant with the requirements contained in the following special provisions.** 在國際空運協會(IATA)危險貨物條例第 61 條(2020 版本)、國際民航管理局(ICAO)的技術條例以及美國危 險化學品管理條例(49CFR)的規定當中 GP 鎳氫電池(也被稱作\"乾電池\")是不作為危險貨物。電池也 只有在遵守相關的",  
+  "position": [  
+    16604,  
+    16737  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the provisions of this Code",  
+  "context": "kel-metal hydride button cells or nickel-metal hydride cells or batteries packed with or contained in equipment are not **subject to the provisions of this Code.** 在設備中的鎳氫紐扣電池、鎳氫電池或者電池組不受此特殊條例管理 All other nickel-metal hydride cells or batteries shall be securely packed and protected",  
+  "position": [  
+    17752,  
+    17791  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "other provisions of this Code provided that they are loaded in a cargo transport unit in a total quantity of less than 100 Kg gross mass",  
+  "context": "l other nickel-metal hydride cells or batteries shall be securely packed and protected from short circuit. They are not **subject to other provisions of this Code provided that they are loaded in a cargo transport unit in a total quantity of less than 100 Kg gross mass.** When loaded in a cargo transport unit in a total quantity of 100 Kg gross mass or more, they are not subject to other p",  
+  "position": [  
+    17945,  
+    18093  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "other provisions of this Code except those of 5",  
+  "context": "100 Kg gross mass. When loaded in a cargo transport unit in a total quantity of 100 Kg gross mass or more, they are not **subject to other provisions of this Code except those of 5.**4.1, 5.4.3 and column (16) of the dangerous good list in Chapter 3.2. 其他的鎳氫電池應該安全地包裝以免發生短路。當電池在運輸單位上少於 100kg 時候並不受其他關於這條",  
+  "position": [  
+    18195,  
+    18254  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "American Conference of Governmental Industrial Hygienists Threshold Limit Value 美國政府工業衛生學家會議所 提供暴露閥值 OSHA PEL Occupational Safety & Health Administration Permissible Exposure Limit 職業安全和健康署所允許暴露閥值 ![](images/_page_7_Picture_1",  
+  "context": "ble fraction:呼吸閥值 | Respirable fraction: 呼吸閥值 | | 鋅化物 | 5 mg/m3 | 2 mg/m3 | TWA – Time Weighted Average 時間加權平均值 ACGIH TL**V: American Conference of Governmental Industrial Hygienists Threshold Limit Value 美國政府工業衛生學家會議所 提供暴露閥值 OSHA PEL: Occupational Safety & Health Administration Permissible Exposure Limit 職業安全和健康署所允許暴露閥值 ![](images/_page_7_Picture_1.**jpeg) Document Number: RRS0541 Revision: 27 Date of prepared: 01/Jan/2020 ### **Personal protective equipment** 個人防護設備 R",  
+  "position": [  
+    10549,  
+    10772  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "| | | | | 吸入 | 吸入電解液會導致呼吸過敏並且有可能致癌 | | | | Document Number RRS0541 Revision 27 Date of prepared 01/Jan/2020 | Skin contact | The electrolyte can cause skin irritation chemical burns",  
+  "context": "-----|--|--|--| | Inhalation | The electrolyte inhalation can cause respiratory irritation. It could be possibly carcino**gen. | | | | | 吸入 | 吸入電解液會導致呼吸過敏並且有可能致癌 | | | | Document Number: RRS0541 Revision: 27 Date of prepared: 01/Jan/2020 | Skin contact | The electrolyte can cause skin irritation, chemical burns.** Nickel compounds, cobalt and | |--------------|------------------------------------------------------------------------",  
+  "position": [  
+    1767,  
+    1958  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Do not damage or remove the external tube",  
+  "context": "災以及爆炸的防護措施:在正常使用下部需要 Document Number: RRS0541 Revision: 27 Date of prepared: 01/Jan/2020 | | Precaution for safe handlin**g: Do not damage or remove the external tube.** | |---------|----------------------------------------------------------------------------------------------------------",  
+  "position": [  
+    7621,  
+    7666  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 | Section I –<br>Product and Company Identification | | | | | |----------------------------------------------------------------------------------------------------------------------------|------------------------------|------------------------------------------------------|--|--| | Information of Product 產品信息 | | | | | | Product Identity (used on the label) | Nickel Metal Hydride Battery | | | | | 產品標識(用於標籤) | 金屬氫化物鎳電池 | | | | | Information of Manufacturer 製造商信息 | | | | | | Manufacturer's Name 製造商名字 | | Emergency Telephone Number 緊急聯繫電話 | | | | GPI International Ltd",  
+  "context": "Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 | Section I –<br>Product and Company Identification | | | | | |----------------------------------------------------------------------------------------------------------------------------|------------------------------|------------------------------------------------------|--|--| | Information of Product 產品信息 | | | | | | Product Identity (used on the label) | Nickel Metal Hydride Battery | | | | | 產品標識(用於標籤) | 金屬氫化物鎳電池 | | | | | Information of Manufacturer 製造商信息 | | | | | | Manufacturer's Name 製造商名字 | | Emergency Telephone Number 緊急聯繫電話 | | | | GPI International Ltd.** | | 美國與加拿大境內: +1-800-424-<br>Within USA & Canada call | | | | 國際有限公司<br>GPI | | 9300 | | | | | | 美國與加拿大境外: +1-703-527-<",  
+  "position": [  
+    25,  
+    641  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 | Skin contact | The electrolyte can cause skin irritation chemical burns",  
+  "context": "ratory irritation. It could be possibly carcinogen. | | | | | 吸入 | 吸入電解液會導致呼吸過敏並且有可能致癌 | | | | Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 | Skin contact | The electrolyte can cause skin irritation, chemical burns.** Nickel compounds, cobalt and | |--------------|------------------------------------------------------------------------",  
+  "position": [  
+    1840,  
+    1958  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 **Section III – Composition/Information on Ingredients** | Chemical Name/Common Name | 號碼<br>CAS No",  
+  "context": "ironment. 電池可存在自然界中對環境無污染,但是不能直接丟棄 ### **Specific Hazards** 特定危害 As previously described. 綜上所述 Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 **Section III – Composition/Information on Ingredients** | Chemical Name/Common Name | 號碼<br>CAS No.** CAS | %/wt 含量 | |-----------------------------|---------------------------------|---------------| | 物質名稱 | | (品質分數<br>w",  
+  "position": [  
+    2992,  
+    3135  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 ### **Section IV – First-aid Measures** 急救措施 | Inhalation | If electrolyte leakage occurs cover the victim in a blanket move to the place of fresh air and | |--------------|----------------------------------------------------------------------------------------------------| | 吸入 | keep quiet",  
+  "context": "7439-89-6 | 10-25 | | Other Non-hazardous 其他無害物質 | Water, Paper, Plastic and Other | Balance | Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 ### **Section IV – First-aid Measures** 急救措施 | Inhalation | If electrolyte leakage occurs, cover the victim in a blanket, move to the place of fresh air and | |--------------|----------------------------------------------------------------------------------------------------| | 吸入 | keep quiet.** Seek medical attention immediately. When dyspnea (breathing difficulty) or | | | asphyxia (breath-hold), give artificia",  
+  "position": [  
+    4112,  
+    4450  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 | Special Protective equipment and | Fire fighters should wear self-contained breathing apparatus",  
+  "context": "| Acrid or harmful fume is emitted during fire. | | | | 非尋常火源和爆炸危害 | 會有刺激性或者有害氣體在火災過程產生 | | | Document Number: RRS0541 R**evision: 27 Date of prepared: 01/Jan/2020 | Special Protective equipment and | Fire fighters should wear self-contained breathing apparatus. **Burning nickel | | |----------------------------------|----------------------------------------------------------------",  
+  "position": [  
+    5860,  
+    6001  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 | | Precaution for safe handling Do not damage or remove the external tube",  
+  "context": "使用下不需要 Prevention of fire and explosion: Not necessary under normal use. 火災以及爆炸的防護措施:在正常使用下部需要 Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 | | Precaution for safe handling: Do not damage or remove the external tube.** | |---------|----------------------------------------------------------------------------------------------------------",  
+  "position": [  
+    7547,  
+    7666  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 ### **Exposure Control Limit** 暴露控制界限 | Common Chemical Name / | OSHA PEL | ACGIH TLV | |-----------------------------|--------------------------|-------------------------------| | General Name | | | | 化學物質名稱 | | | | Aluminum metal (as Al) | TWA 15 mg/m3<br>(total) | - | | 金屬鋁 | TWA 5 mg/m3<br>(resp) | | | Cobalt metal (As Co) | TWA 0",  
+  "context": "tion below will be useful. 在正常使用情況下不需要工程控制手段。如果電池內部材料洩露,以下資訊可提供參考。 ![](images/_page_6_Picture_1.jpeg) Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 ### **Exposure Control Limit** 暴露控制界限 | Common Chemical Name / | OSHA PEL | ACGIH TLV | |-----------------------------|--------------------------|-------------------------------| | General Name | | | | 化學物質名稱 | | | | Aluminum metal (as Al) | TWA 15 mg/m3<br>(total) | - | | 金屬鋁 | TWA 5 mg/m3<br>(resp) | | | Cobalt metal (As Co) | TWA 0.**1 mg/m3 | TWA 0.02 mg/m3 | | 金屬鈷 | | | | Lithium Hydroxide | - | - | | 氫氧化鋰 | | | | | | | | Manganese compounds | (Celli",  
+  "position": [  
+    9535,  
+    9915  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 ### **Personal protective equipment** 個人防護設備 Respiratory protection Protective mask 呼吸設備防護面罩 Hand protection Protective gloves 手防護防護手套 Eye protection Protective glasses designed to protect against liquid splashes 眼睛防護防止液體飛濺的防護眼鏡 Skin and body protection Working clothes with long sleeve and long trousers 皮膚及身體防護長袖長褲的工作服 | Appearance 外觀 | Odor 氣味 | | |---------------------------------------------|---------------------------------------------|--| | Solid Cylindrical Shape<br>Metallic color | Odorless 無 | | | 固體、圓柱形、金屬顏色 | Odor Threshold 氣味閥值<br>N",  
+  "context": "& Health Administration Permissible Exposure Limit 職業安全和健康署所允許暴露閥值 ![](images/_page_7_Picture_1.jpeg) Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 ### **Personal protective equipment** 個人防護設備 Respiratory protection: Protective mask 呼吸設備:防護面罩 Hand protection: Protective gloves 手防護:防護手套 Eye protection: Protective glasses designed to protect against liquid splashes 眼睛防護:防止液體飛濺的防護眼鏡 Skin and body protection: Working clothes with long sleeve and long trousers 皮膚及身體防護:長袖長褲的工作服 | Appearance 外觀 | Odor 氣味 | | |---------------------------------------------|---------------------------------------------|--| | Solid, Cylindrical Shape,<br>Metallic color | Odorless 無 | | | 固體、圓柱形、金屬顏色 | Odor Threshold 氣味閥值<br>N.**A. | | | pH | Melting point/freezing point 熔點/凝固點 | | | N.A. | N.A. | | | Initial boiling point and boiling range | Flas",  
+  "position": [  
+    10803,  
+    11406  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 | N",  
+  "context": "\" is indicated if not applicable. ## **Section IX – Physical and Chemical Properties** 物理與化學性質 Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 | N.**A. | Insoluble in water 不溶于水中 | |---------------------------------------------|--------------------------------| | Parti",  
+  "position": [  
+    11995,  
+    12042  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 ### **Section XII – Ecological Information** 生態學信息 Persistence/degradability 可持續性和可降解性 Since a battery cell and the internal materials remain in the environment do not bury or throw out into the environment",  
+  "context": "of use, the battery is non-toxic. 沒有關於鎳氫電池的毒理學資訊,在正常使用條件下,電池是無毒的。 ![](images/_page_8_Picture_12.jpeg) Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 ### **Section XII – Ecological Information** 生態學信息 Persistence/degradability : 可持續性和可降解性: Since a battery cell and the internal materials remain in the environment, do not bury or throw out into the environment.** 由於電池以及內部材料仍然保留在環境中,不要丟棄以及埋藏電池與大自然中 ## **Section XIII – Disposal Considerations** 處理方法 Recommended methods for safe and",  
+  "position": [  
+    13844,  
+    14098  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 | Form of | UN No",  
+  "context": "SP117 and SP963 | | UN | UN 3496 | | US DOT | 49 CFR 172, 102 Provision 130 | | IATA | A199 | Document Number: RRS0541 R**evision: 27 Date of prepared: 01/Jan/2020 | Form of | UN No. **| UN Proper | Transport | Packing | Environmental | Guidance | Special | |----------------|--------|---------------|---",  
+  "position": [  
+    15057,  
+    15118  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 In addition the IATA Dangerous Goods Regulations and ICAO Technical Instructions require the words \"not restricted\" and the Special Provision number A199 be provided on the air waybill when an air waybill is issued",  
+  "context": "R)的規定當中 GP 鎳氫電池(也被稱作\"乾電池\")是不作為危險貨物。電池也 只有在遵守相關的特定規定情況下才能不列入危險貨品中。 ![](images/_page_11_Picture_1.jpeg) Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 In addition, the IATA Dangerous Goods Regulations and ICAO Technical Instructions require the words \"not restricted\" and the Special Provision number A199 be provided on the air waybill, when an air waybill is issued.** 除此之外,國際空運協會(IATA)危險貨物條例和國際民航管理局(ICAO)的技術條例均要求\"不作限制\",同 時要注意針對特別條例 A199(美國運輸局),需要在運貨單中進行說明 b) International Maritime Orga",  
+  "position": [  
+    16930,  
+    17190  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "27 Date of prepared 01/Jan/2020 The requirements of these sections are 具體要求 - (1) Dangerous goods transport documentation to accompany the shipment 危險貨物運輸檔要在運輸貨品中 - (2) The shipment must be described as \"UN3496 BATTERIES NICKEL-METAL HYDRIDE CLASS 9\" on the shipper's declaration for dangerous goods",  
+  "context": "條例 所管理。當電池運輸單位大於 100kg 總重時候,此條例中的 5.4.1 和 5.4.3 的第 16 條關於危險貨物 適用 ![](images/_page_11_Picture_14.jpeg) Document Number: RRS0541 **Revision: 27 Date of prepared: 01/Jan/2020 The requirements of these sections are: 具體要求 - (1) Dangerous goods transport documentation to accompany the shipment, 危險貨物運輸檔要在運輸貨品中 - (2) The shipment must be described as \"UN3496, BATTERIES, NICKEL-METAL HYDRIDE, CLASS 9\" on the shipper's declaration for dangerous goods.** 運輸貨品需要標識為\"UN3496, BATTERIES, NICKEL-METAL HYDRIDE, CLASS 9\" - (3) The dangerous goods description must also be entered",  
+  "position": [  
+    18493,  
+    18809  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "2020 ICAO Technical Instructions and the U",  
+  "context": "referred to as \"Dry cell\" batteries) are not defined as dangerous goods under the IATA Dangerous Goods Regulations 61th **edition 2020, ICAO Technical Instructions and the U.**S. hazardous materials regulations (49 CFR). These batteries are not subject to the dangerous goods regulations as they",  
+  "position": [  
+    16483,  
+    16535  
+  ],  
+  "pattern_index": 132,  
+  "pattern": "(?i)edition(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+

@@ -1,0 +1,90 @@
+{
+  "timestamp": "20250223_002304",
+  "total_products": 404,
+  "processed_products": 404,
+  "skipped_products": 0,
+  "skipped_product_ids": [],
+  "products_with_tech_specs": 228,
+  "products_with_compatibility": 396,
+  "products_with_article_info": 327,
+  "products_with_full_info": 404,
+  "indices_generated": {
+    "article_index": 136,
+    "ean_index": 75,
+    "compatibility_map": 428,
+    "technical_index": 12,
+    "text_search_index": 17097
+  },
+  "coverage_statistics": {
+    "tech_specs_coverage": 56.43564356435643,
+    "compatibility_coverage": 98.01980198019803,
+    "article_info_coverage": 80.94059405940595,
+    "full_info_coverage": 100.0
+  },
+  "data_category_statistics": {
+    "category_7": {
+      "count": 119,
+      "has_tech_specs": false,
+      "has_compatibility": true,
+      "has_article_info": true,
+      "has_full_info": true,
+      "percentage": 29.455445544554454
+    },
+    "category_15": {
+      "count": 205,
+      "has_tech_specs": true,
+      "has_compatibility": true,
+      "has_article_info": true,
+      "has_full_info": true,
+      "percentage": 50.742574257425744
+    },
+    "category_5": {
+      "count": 51,
+      "has_tech_specs": false,
+      "has_compatibility": true,
+      "has_article_info": false,
+      "has_full_info": true,
+      "percentage": 12.623762376237623
+    },
+    "category_1": {
+      "count": 4,
+      "has_tech_specs": false,
+      "has_compatibility": false,
+      "has_article_info": false,
+      "has_full_info": true,
+      "percentage": 0.9900990099009901
+    },
+    "category_13": {
+      "count": 21,
+      "has_tech_specs": true,
+      "has_compatibility": true,
+      "has_article_info": false,
+      "has_full_info": true,
+      "percentage": 5.198019801980198
+    },
+    "category_3": {
+      "count": 2,
+      "has_tech_specs": false,
+      "has_compatibility": false,
+      "has_article_info": true,
+      "has_full_info": true,
+      "percentage": 0.49504950495049505
+    },
+    "category_11": {
+      "count": 1,
+      "has_tech_specs": true,
+      "has_compatibility": false,
+      "has_article_info": true,
+      "has_full_info": true,
+      "percentage": 0.24752475247524752
+    },
+    "category_9": {
+      "count": 1,
+      "has_tech_specs": true,
+      "has_compatibility": false,
+      "has_article_info": false,
+      "has_full_info": true,
+      "percentage": 0.24752475247524752
+    }
+  }
+}

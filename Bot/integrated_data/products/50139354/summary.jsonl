@@ -1,0 +1,58 @@
+{  
+  "product_id": "50139354",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\n# STX2402-E\n\nProduktblad\n\nEN 54-4 godkänd, 24 V 2 A + 0,7 A Intelligent strömförsörjning\n\n### Allmänt\n\nSTX2402-E är en fullt utrustad och EN54-4 godkänd strömförsörjning, idealisk för användning i\n\nbrandlarmsinstallationer. Den har intelligent batteriladdning, övervakning och signalering. Den reglerade utgången ger 27,6 VDC, klarar en last på 2 A och ger samtidigt upp till 0,7 A för att ladda reservkraftsbatterierna.",  
+  "key_specifications": [  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "Fel & Nätfel\n- ETemperaturkompenserad laddning\n- EEcoCharge teknologi vilket minskar strömförbrukningen\n- EBatteriövervakning – batteri saknas, låg batterispänning, kortslutning, felvänd polaritet & kretsimpedansfel\n- EElektroniskt överbelastningsskydd stänger ner utgången tills dess att överbelastningen eller kortslutningen tas bort\n\n# STX2402-E\n\nEN 54-4 godkänd, 24 V 2 A + 0,7 A Intelligent strömförsörjning\n\n## Tekniska data\n\n| Ingång                              |                                              |\n|-------------------------------------|----------------------------------------------|\n| Märkspänning                        | 110 - 240 VAC, 50 Hz - 60 Hz                 |\n| Driftspänning                       | 90 VAC till 264 VAC                          |\n| Ström                               | <1 A maximalt vid full last                  |\n| Utgång                              |                                              |\n| Spänning                            | 27,0 - 28,3 VDC med nätspänning              |\n|                                     | 20,3 - 26,0 VDC i batteri standby läge       |\n| Rippel                              | 100 mV max                                   |\n| Kontinuerlig utgångsström           |                                              |\n| - Med 2",  
+      "unit": "godk"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "recommended",  
+      "related_product": "användning i brandlarmsinstallationer",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kontinuerlig övervakning och två olika laddningsnivåer Snabbladdning och temperaturkompenserad flödesladdning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "blinkar olika beroende på typ av fel",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "24 tim | | | Flytande laddning till 100 % inom 48 tim | | Djupurladdningsskydd | Batterierna frånkopplas vid 21 V | | Tröskelvärde för låg<br>batterinivå | 23 V | | Indikeringar | | | På fronten | Grön LED – spänning | | | Gul LED – fel | | På insidan av enheten | Orange LED – feldiagnostik | | Felutgångar | | | Felrelä | 100 mA @ 60 VDC N/C (brytande kontakt) | | Nätfelsrelä | 100 mA @ 60 VDC N/C (brytande kontakt) | | Mekaniska data | | | Mått | 400 x 420 x 80 mm | | Vikt | 58 kg (exklusive batterier) | | | 15 kg (including 17 Ah batteries) | | Temperatur | -10 till +40 °C (drift) | | | -20 till +80 °C (förvaring) | | Luftfuktighet | 75 % relativ fuktighet icke-kondenserande | | Material | 12 mm stål | | Färg | Vit | #### Order data | Artikelnummer | Beskrivning | |---------------|-----------------------------------------------------------------| | STX2401-C | EN 54-4 godkänd 24 V 1 A + 03 A Intelligent strömförsörjning | | STX2402-E | EN 54-4 godkänd 24 V 2 A + 07 A Intelligent strömförsörjning | | STX2405-E | EN 54-4 godkänd 24 V 5 A + 085 A Intelligent strömförsörjning | ![](images/_page_1_Picture_7",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "En grön och en gul LED-indikering för nät respektive fel är synliga utifrån när kapslingen är stängd",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Den reglerade utgången ger 276 VDC klarar en last på 2 A och ger samtidigt upp till 07 A för att ladda reservkraftsbatterierna",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Vid full laddning går enheten över i Eco energisparläge varvid batterierna laddas i 4 timmar varje 24 timmarsperiod medan de kontinuerligt övervakas",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

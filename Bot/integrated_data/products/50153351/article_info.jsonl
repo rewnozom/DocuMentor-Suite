@@ -1,0 +1,42 @@
+{  
+  "identifier": "erred",  
+  "original": "erred",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 23,  
+  "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "**Section XIII – Disposal Considerations** 處理方法 Recommended methods for safe and environmentally pre**ferred d**isposal : 建議使用的對環境友好的處理方法 ### **Product (waste from residues)** 產品(殘留廢棄物) Do not throw out a use",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "identifier": "ificial",  
+  "original": "ificial",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "When dyspnea (breathing difficulty) or | | | asphyxia (breath-hold), give artificial respiration imm**ediately. **| | | 如果發生電解液洩露並且傷患吸入一定量的電解",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+
+{  
+  "identifier": "ition",  
+  "original": "ition",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "r 不溶于水中 | |---------------------------------------------|--------------------------------| | Partiti**on coeff**icient: n-octanol/water 分配係數 | Auto-ignition temperature 自燃溫度 | | (正辛醇/水)",  
+  "source": "regex",  
+  "product_id": "50153351"  
+}
+

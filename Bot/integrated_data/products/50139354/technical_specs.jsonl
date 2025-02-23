@@ -1,0 +1,22 @@
+{  
+  "name": "utgångar",  
+  "raw_value": "Fel & Nätfel\n- ETemperaturkompenserad laddning\n- EEcoCharge teknologi vilket minskar strömförbrukningen\n- EBatteriövervakning – batteri saknas, låg batterispänning, kortslutning, felvänd polaritet & kretsimpedansfel\n- EElektroniskt överbelastningsskydd stänger ner utgången tills dess att överbelastningen eller kortslutningen tas bort\n\n# STX2402-E\n\nEN 54-4 godkänd, 24 V 2 A + 0,7 A Intelligent strömförsörjning\n\n## Tekniska data\n\n| Ingång                              |                                              |\n|-------------------------------------|----------------------------------------------|\n| Märkspänning                        | 110 - 240 VAC, 50 Hz - 60 Hz                 |\n| Driftspänning                       | 90 VAC till 264 VAC                          |\n| Ström                               | <1 A maximalt vid full last                  |\n| Utgång                              |                                              |\n| Spänning                            | 27,0 - 28,3 VDC med nätspänning              |\n|                                     | 20,3 - 26,0 VDC i batteri standby läge       |\n| Rippel                              | 100 mV max                                   |\n| Kontinuerlig utgångsström           |                                              |\n| - Med 2",  
+  "category": "CONNECTION",  
+  "unit": "godk",  
+  "value": {  
+    "raw_value": "Fel & Nätfel\n- ETemperaturkompenserad laddning\n- EEcoCharge teknologi vilket minskar strömförbrukningen\n- EBatteriövervakning – batteri saknas, låg batterispänning, kortslutning, felvänd polaritet & kretsimpedansfel\n- EElektroniskt överbelastningsskydd stänger ner utgången tills dess att överbelastningen eller kortslutningen tas bort\n\n# STX2402-E\n\nEN 54-4 godkänd, 24 V 2 A + 0,7 A Intelligent strömförsörjning\n\n## Tekniska data\n\n| Ingång                              |                                              |\n|-------------------------------------|----------------------------------------------|\n| Märkspänning                        | 110 - 240 VAC, 50 Hz - 60 Hz                 |\n| Driftspänning                       | 90 VAC till 264 VAC                          |\n| Ström                               | <1 A maximalt vid full last                  |\n| Utgång                              |                                              |\n| Spänning                            | 27,0 - 28,3 VDC med nätspänning              |\n|                                     | 20,3 - 26,0 VDC i batteri standby läge       |\n| Rippel                              | 100 mV max                                   |\n| Kontinuerlig utgångsström           |                                              |\n| - Med 2",  
+    "unit": "godk",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "7 Ah batterier - EDjupurladdningsskydd - ELED-indikering synlig från utsidan för nät och fel - ELED-indikering på insidan för feldiagnostik - E2x reläutgångar: Fel & Nätfel - ETemperaturkompenserad la...",  
+  "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 151,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50139354"  
+}
+

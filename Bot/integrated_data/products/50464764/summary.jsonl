@@ -1,0 +1,78 @@
+{  
+  "product_id": "50464764",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_0.jpeg)\n\nSV\n\n# UPS Battery Box 24 V FLX M\n\n350-230 Publiceringsdatum 2023-03-09\n\n# **Innehållsförteckning**\n\n| 1. Om UPS batteribox  3                                     |  |\n|-------------------------------------------------------------|--|\n| 1.1. Tillverkarens support  3                               |  |\n| 1.2.",  
+  "key_specifications": [  
+    {  
+      "category": "DIMENSIONS",  
+      "name": "Höjd",  
+      "value": "224",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| AGM-blysyra",  
+      "unit": null  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "basic",  
+      "related_product": "följande UPSer 4 | | | 3",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "följande UPSer \\[4\\]](#page-3-0) UPSer denna batteribox passar till",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "basic",  
+      "related_product": "FÖLJANDE UPSER | UPS | Artikelnummer | |---------------------------------|----------------| | SIN 600W FLX L | FL01U0021FP006 | | SIN 1100W FLX L | FL01U0031FP011 | | SIN 1500W FLX L | FL01U0031FP015 | | TEL-1200W-STS-SIN2* | 5144 | | *Säljs ej direkt av Milleteknik | | # 3",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "direct",  
+      "related_product": "UPS i FLX L kapsling",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "requires",  
+      "related_product": "enheten rensa tidigare batterikapacitet",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "fits",  
+      "related_product": "följande UPSer 4 | | | 3",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "fits",  
+      "related_product": "följande UPSer \\[4\\]](#page-3-0) UPSer denna batteribox passar till",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "fits",  
+      "related_product": "FÖLJANDE UPSER | UPS | Artikelnummer | |---------------------------------|----------------| | SIN 600W FLX L | FL01U0021FP006 | | SIN 1100W FLX L | FL01U0031FP011 | | SIN 1500W FLX L | FL01U0031FP015 | | TEL-1200W-STS-SIN2* | 5144 | | *Säljs ej direkt av Milleteknik | | # 3",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "UPS batteribox 3 | | |-------------------------------------------------------------|--| | 1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "UPS BATTERIBOX Batteriboxen är gjord för två 45 Ah batterier och kan kopplas till UPS i FLX L kapsling",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "ikelnamn"  
+    ]  
+  }  
+}
+

@@ -1,0 +1,88 @@
+{  
+  "name": "Dimension",  
+  "raw_value": "H41xB56xD38",  
+  "category": "DIMENSIONS",  
+  "unit": "xB",  
+  "value": {  
+    "raw_value": "H41xB56xD38",  
+    "unit": "xB",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ing eller friluftsliv. ## **Specifikation** Ljuskälla:COB-diod, mkt energisnål, utökad brinntid. Färg: Mattsvart Batterikälla: 3xAAA (medföljer ej) Di**mension: H41xB56xD38. **Ställbar ljusvinkel: Ja ...",  
+  "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 1,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135105"  
+}
+
+{  
+  "name": "Vattenskydd",  
+  "raw_value": "Stänktålig\n\n![](images/_page_0_Picture_10",  
+  "category": "ENVIRONMENTAL",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "Stänktålig\n\n![](images/_page_0_Picture_10",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ikälla: 3xAAA (medföljer ej) Dimension: H41xB56xD38. Ställbar ljusvinkel: Ja Ljusstyrka: Hög ca 130 lumen, låg ca 40 lumen Brinntid: Mer än 50 timmar **Vattenskydd: Stänktålig ![](images/_page_0_Picture_10.*...",  
+  "pattern": "(?i)(?:vatten(?:tät|skydd)|water(?:proof|protection))\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 105,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135105"  
+}
+
+{  
+  "name": "Färg",  
+  "raw_value": "Mattsvart Batterikälla: 3xAAA (medföljer ej) Dimension: H41xB56xD38",  
+  "category": "COLOR",  
+  "unit": "xAAA",  
+  "value": {  
+    "raw_value": "Mattsvart Batterikälla: 3xAAA (medföljer ej) Dimension: H41xB56xD38",  
+    "unit": "xAAA",  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "gsområden:** Arbetsbelysning hemmet, bil, båt, camping eller friluftsliv. ## **Specifikation** Ljuskälla:COB-diod, mkt energisnål, utökad brinntid. Fä**rg: Mattsvart Batterikälla: 3xAAA (medföljer ej)...",  
+  "pattern": "(?i)(?:färg|color)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 123,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135105"  
+}
+
+{  
+  "name": "Ljuskälla",  
+  "raw_value": "COB-diod, mkt energisnål, utökad brinntid",  
+  "category": "LIGHTING",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "COB-diod, mkt energisnål, utökad brinntid",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "ftfull -Superlätt -Extra lång brinntid** **Användningsområden:** Arbetsbelysning hemmet, bil, båt, camping eller friluftsliv. ## **Specifikation** Lju**skälla:COB-diod, mkt energisnål, utökad brinntid...",  
+  "pattern": "(?i)(?:ljuskälla|light source)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 163,  
+  "source": "regex",  
+  "importance": "normal",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50135105"  
+}
+

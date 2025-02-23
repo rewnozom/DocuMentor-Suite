@@ -1,0 +1,42 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "MIO6-6 eller MIO-Slave. Borrskyddsdetektor CD470, E-nummer E63 100 90, beställs i separat kanal. | A**rtikelnummer<**br>•<br>ARX Power Box | S5529X00B165 | E58 014 35 | |---------------------------------------",  
+  "source": "regex",  
+  "product_id": "50156389"  
+}
+
+{  
+  "identifier": "batteribox",  
+  "original": "batteribox",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "## ASSA ABLOY ARX Power Box Sma**rt batteribox **till ARX Power-serien ![](images/_page_0_Picture_2.jpeg) ![](images/_page_0_Picture_3.jpeg) ASSA ABLOY ARX Pow",  
+  "source": "regex",  
+  "product_id": "50156389"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "MIO6-6 eller MIO-Slave. Borrskyddsdetektor CD470, E-nummer E63 100 90, beställs i separat kanal. | A**rtikelnummer<**br>•<br>ARX Power Box | S5529X00B165 | E58 014 35 | |---------------------------------------",  
+  "source": "regex",  
+  "product_id": "50156389"  
+}
+

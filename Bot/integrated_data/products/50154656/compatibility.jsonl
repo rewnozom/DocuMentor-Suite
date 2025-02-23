@@ -1,0 +1,196 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "oavbruten strömförsörjning av 4 IP-enheter (52 V DC-försörjning)",  
+  "context": "30 W för varje PoE-port, stöder enheter som uppfyller standarden IEEE802.3af/ vid **(PoE +** - **BESKRIVNING** APS64 är **avsedd för oavbruten strömförsörjning av 4 IP-enheter (52 V DC-försörjning).** Systemets huvudsakliga komponenter inkluderar: - PoE-switch med 6 portar - 27,6 V buffertströmförsörjning med två 17 Ah",  
+  "position": [  
+    495,  
+    571  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "en separat strömkabel till varje enhet",  
+  "context": "iod indikerar likspänning). PoE-tekniken ansluter till nätverket och minskar installationskostnaderna eftersom den inte **kräver en separat strömkabel till varje enhet.** Metoden gör det möjligt att försörjs andra nätverksenheter. Tel. +48-14-610-19-40, fax: +48-14- 610-19-50, www.pulsar.p",  
+  "position": [  
+    1520,  
+    1566  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "requires",  
+  "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 250 mA/276 V DC | | Batteriets laddningsström | 05 A max",  
+  "context": "52 V DC | | Kortslutningsskydd SCP och | 105% ÷ 150% PSU-effekt, manuell omstart | | överbelastningsskydd OLP | (felet k**räver frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 250 mA/27,6 V DC | | Batteriets laddningsström | 0,5 A max. **/2 st 17 Ah (+/-5%) | | Batterikretsskydd SCP och retur | proppsäkring | | polaritetsanslutning | | | Djupurladdningssk",  
+  "position": [  
+    3192,  
+    3324  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "en separat strömkabel till varje enhet",  
+  "context": "iod indikerar likspänning). PoE-tekniken ansluter till nätverket och minskar installationskostnaderna eftersom den inte **kräver en separat strömkabel till varje enhet.** Metoden gör det möjligt att försörjs andra nätverksenheter. Tel. +48-14-610-19-40, fax: +48-14- 610-19-50, www.pulsar.p",  
+  "position": [  
+    1520,  
+    1566  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 250 mA/276 V DC | | Batteriets laddningsström | 05 A max",  
+  "context": "52 V DC | | Kortslutningsskydd SCP och | 105% ÷ 150% PSU-effekt, manuell omstart | | överbelastningsskydd OLP | (felet k**räver frånkoppling av utgångskretsen för DC) | | PSU-strömförbrukning | 250 mA/27,6 V DC | | Batteriets laddningsström | 0,5 A max. **/2 st 17 Ah (+/-5%) | | Batterikretsskydd SCP och retur | proppsäkring | | polaritetsanslutning | | | Djupurladdningssk",  
+  "position": [  
+    3192,  
+    3324  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppfyller standarden IEEE802",  
+  "context": "portar 10/100Mb/s (UP LINK) - · Läge med **Lång räckvidd** (upp till 250m) - · 30 W för varje PoE-port, stöder enheter s**om uppfyller standarden IEEE802.**3af/ vid **(PoE +** - **BESKRIVNING** APS64 är avsedd för oavbruten strömförsörjning av 4 IP-enheter (52 V DC-försörjnin",  
+  "position": [  
+    416,  
+    448  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "ökar spänningen till 52 V DC (matning till PoE-switchen) Vid strömavbrott aktiveras omedelbart ett reservbatteri",  
+  "context": "- PoE-switch med 6 portar - 27,6 V buffertströmförsörjning med två 17 Ah / 12 V-batterier - en omvandlare (DC/DC52230) s**om ökar spänningen till 52 V DC (matning till PoE-switchen) Vid strömavbrott aktiveras omedelbart ett reservbatteri.** Automatisk upptäckt av enheter som drivs med standarden PoE/PoE+ aktiveras vid portar 1-4 på switchen. UP LINK-portarna",  
+  "position": [  
+    739,  
+    855  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "drivs med standarden PoE/PoE+ aktiveras vid portar 1-4 på switchen",  
+  "context": "DC (matning till PoE-switchen) Vid strömavbrott aktiveras omedelbart ett reservbatteri. Automatisk upptäckt av enheter s**om drivs med standarden PoE/PoE+ aktiveras vid portar 1-4 på switchen.** UP LINK-portarna används för anslutning till en annan nätverksenhet. Lysdioderna på frontpanelen indikerar enhetens dri",  
+  "position": [  
+    888,  
+    958  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "aktiveras om luckan öppnas (frontpanelen)",  
+  "context": "tter inuti ett metallhölje (färg RAL 9003) med rum för två 17 Ah/12 V-batterier. Höljet är utrustat med en mikroswitch s**om aktiveras om luckan öppnas (frontpanelen).** APS64 är försedd med två lysdioder på frontpanelen (röd lysdiod - indikerar en 230 V matningsspänning, grön lysdiod ind",  
+  "position": [  
+    1242,  
+    1287  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "den inte kräver en separat strömkabel till varje enhet",  
+  "context": "g, grön lysdiod indikerar likspänning). PoE-tekniken ansluter till nätverket och minskar installationskostnaderna efters**om den inte kräver en separat strömkabel till varje enhet.** Metoden gör det möjligt att försörjs andra nätverksenheter. Tel. +48-14-610-19-40, fax: +48-14- 610-19-50, www.pulsar.p",  
+  "position": [  
+    1508,  
+    1566  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "höljet | - mikroswitch NC-kontakter (stängt hölje) | | öppnas | 05 A@50 V DC (max",  
+  "context": "dningsskydd UVP | U<19 V (± 5%) – frånkoppling av anslutningsbatteri | | Sabotageskydd: | | | - MANIPULERINGS-indikator **när höljet | - mikroswitch, NC-kontakter (stängt hölje), | | öppnas | 0,5 A@50 V DC (max.**) | ## **MEKANISKA PARAMETRAR** | Mått | W=397, H=350, D+D1=92+8 [+/- 2mm] | |---------------------|--------------------",  
+  "position": [  
+    3556,  
+    3645  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Φ 063-250 (AWG 22-10) | | | Batteriutgång BAT 63F-25 | | | MANIPULERINGS-utgång ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna dras",  
+  "context": "skruv x 2 (fram), (låsaggregat möjligt) | | Anslutningar | Strömförsörjning till enheterna: RJ45-uttag | | | Ingång 230 **V: Φ 0,63-2,50 (AWG 22-10) | | | Batteriutgång BAT: 6,3F-2,5 | | | MANIPULERINGS-utgång: ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna dras.** | wyjście TAMPER : przewody 30cm",  
+  "position": [  
+    4136,  
+    4315  
+  ],  
+  "pattern_index": 124,  
+  "pattern": "(?i)(?:ver|v)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna dras",  
+  "context": "erna: RJ45-uttag | | | Ingång 230 V: Φ 0,63-2,50 (AWG 22-10) | | | Batteriutgång BAT: 6,3F-2,5 | | | MANIPULERINGS-utgån**g: ledningar | | OBS! | Höljet ska inte vidröra monteringsytan för att kablar ska kunna dras.** | wyjście TAMPER : przewody 30cm",  
+  "position": [  
+    4222,  
+    4315  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "![](images/_page_0_Picture_3",  
+  "context": "• Pulsar* ® #### **APS64** v.1.0/I **APS 6-port switch 4x30W med reservkraft 64** PRODUKTKODE T**YP: : ![](images/_page_0_Picture_3.j**peg) ## **Features:** - · Avbrottsfri strömförsörjning för 4 IP-enheter (52 V DC) - · Switch med 6 portar 4 PoE-portar",  
+  "position": [  
+    95,  
+    124  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50154656"  
+}
+

@@ -1,0 +1,42 @@
+{  
+  "identifier": "nummer",  
+  "original": "nummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 24,  
+  "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | |--------------------------------------------------------------|--| | 1.1. Namn, artikelnummer o**ch e-nummer 3** | | | 2. Beskrivning / PowerWatch består av 3",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "identifier": "ikelnummer",  
+  "original": "ikelnummer",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "| | |--------------------------------------------------------------|--| | 1.1. Namn, artikelnummer o**ch e-nummer 3** | | | 2. Beskrivning / PowerWatch består av 3",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+
+{  
+  "identifier": "enheter",  
+  "original": "enheter",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "kunna uppdatera enheten behöver den gamla panelen/etiketten tas bort och ersättas. Detta gäller enba**rt enheter **som levererats efter 2023-07-01. Enheter tillverkade före detta datum kan ej använda PowerWatch. #",  
+  "source": "regex",  
+  "product_id": "50464773"  
+}
+

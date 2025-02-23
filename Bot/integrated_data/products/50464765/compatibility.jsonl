@@ -1,0 +1,180 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "fast installation",  
+  "context": "--------------|-----------|--------------| | UPS SINUS 1500W FLX L | 20,9 kg | 22 kg | ### Installationskrav Enheten är **avsedd för fast installation.** Enheten skall installeras inomhus, miljöklass 1, omgivningstemperatur: +5°C – 40°C. Rekommenderad omgivningstemperatur",  
+  "position": [  
+    2242,  
+    2271  
+  ],  
+  "pattern_index": 9,  
+  "pattern": "(?i)avsedd\\s+för\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "något skulle krångla nu eller om 10 år",  
+  "context": "i offentliga miljöer till portar och grindar för industri. Lång livslängd, energieffektiv och support finns tillgänglig **om något skulle krångla, nu eller om 10 år.** #### Spänning, ström och effekt # MÄRKEFFEKT | Maximal märkeffekt | Kontinuerlig effekt | |--------------------|-------",  
+  "position": [  
+    640,  
+    683  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "mest 05 A",  
+  "context": "ntrollerad laddning av batterier skyddar mot överladdning och förlänger livslängden på batterier. Batterier laddas med s**om mest 0,5 A.** Skydd UPS-standard 62040-1-1. Elektronisk strömbegränsning och övertemperaturskydd samt automatiskt avstängning vid kra",  
+  "position": [  
+    1281,  
+    1295  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "produkten uppfyller | El | Lågspänningsdirektivet 2014/35/EU | |-----|------------------------------------| | | EN 62368-1 | | CE | CE direktivet enligt765/2008 | | Emission | EN61000-6-2001 EN550221998-A12000<br>A22003 Klass B EN61000-3-22001 | |-----------|-----------------------------------------------------------------------------| | Immunity | EN61000-6-22005 EN61000-4-2 -3 4 -5<br>-6 -11 | | LVD | EN60950 | | | | # Garanti Produkten har två års garanti för tillverkningsfel",  
+  "context": "nomhus, miljöklass 1, omgivningstemperatur: +5°C – 40°C. Rekommenderad omgivningstemperatur är +15°C - 25°C. #### Krav s**om produkten uppfyller | El: | Lågspänningsdirektivet: 2014/35/EU | |-----|------------------------------------| | | EN 62368-1 | | CE: | CE direktivet enligt:765/2008 | | Emission: | EN61000-6-:2001 EN55022:1998:-A1:2000,<br>A2:2003 Klass B, EN61000-3-2:2001 | |-----------|-----------------------------------------------------------------------------| | Immunity: | EN61000-6-2:2005, EN61000-4-2, -3, 4, -5,<br>-6, -11 | | LVD | EN60950 | | | | # Garanti Produkten har två års garanti för tillverkningsfel.** Batterier och förslitningsdelar omfattas ej av garanti. ## Utbyggbar, tillval och tillbehör Produkten kan inte utökas.",  
+  "position": [  
+    2419,  
+    2927  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "numeric_ids": [  
+    "62368",  
+    "61000",  
+    "12000",  
+    "22003",  
+    "61000",  
+    "22001",  
+    "61000",  
+    "22005",  
+    "61000",  
+    "60950"  
+  ],  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "slitagedelar) är beroende på bland annat miljöfaktorer främst omgivningstemperatur oförutsedd belastning på komponenter som blixtnedslag yttre åverkan handhavandefel med flera",  
+  "context": "rige. Produkten är designad och konstruerad för lång livslängd vilket minskar miljöpåverkan. Produktens livslängd (förut**om slitagedelar) är beroende på, bland annat miljöfaktorer, främst omgivningstemperatur, oförutsedd belastning på komponenter som blixtnedslag, yttre åverkan, handhavandefel, med flera.** Produkter återvinns, enkelt då de är moduluppbyggda, genom att lämnas till närmaste återvinningsstation eller sändas åt",  
+  "position": [  
+    3263,  
+    3448  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att lämnas till närmaste återvinningsstation eller sändas åter till tillverkare",  
+  "context": "ter som blixtnedslag, yttre åverkan, handhavandefel, med flera. Produkter återvinns, enkelt då de är moduluppbyggda, gen**om att lämnas till närmaste återvinningsstation eller sändas åter till tillverkare.** Kontakta din distributör för mer information. Kostnader som uppkommer i samband med återvinning ersätts ej. #### Länk t",  
+  "position": [  
+    3505,  
+    3588  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "uppkommer i samband med återvinning ersätts ej",  
+  "context": "rmaste återvinningsstation eller sändas åter till tillverkare. Kontakta din distributör för mer information. Kostnader s**om uppkommer i samband med återvinning ersätts ej.** #### Länk till senaste informationen Produkter är föremål för uppdateringar, du hittar alltid den senaste informationen",  
+  "position": [  
+    3646,  
+    3696  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel",  
+  "context": "UPS](https://www.milleteknik.se/produkt-kategori/ups/) Alla uppgifter publiceras med reservation för eventuella fel. ## **Om dessa uppgifter Alla uppgifter publiceras med reservation för eventuella fel.** Uppdateras utan föregående meddelande.",  
+  "position": [  
+    4033,  
+    4113  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "10 A",  
+  "context": "r 3-5 sekunder enligt UPS-STANDARD EN62040-1-1. Växelriktaren är därmed kortslutningsskyddad. ## Säkringar Batterisäkrin**g: 10 A.** Batteriladdare: T16A. Kontaktor: T0,5A # Indikeringar och kommunikation Lysdiod visar information och larm på kretskort",  
+  "position": [  
+    1578,  
+    1586  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Låsbar två nycklar följer med",  
+  "context": "(10 HE). Pulverlackat svart. Fyra kabelgenomföringar på ovansidan och utslagshål på baksidan. Buntbandshållare i kapslin**g. Låsbar, två nycklar följer med.** | Mått, höjd x bredd x djup | IP-klass | |---------------------------|----------| | 444 x 437 x 212 mm | IP32 | # Vikt",  
+  "position": [  
+    1922,  
+    1956  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Två 45 Ah batterier",  
+  "context": "Kontinuerlig effekt | |--------------------|---------------------| | SIN 1500W FLX L | 1500 W | #### Batteri och batteri**typ Två 45 Ah batterier.** Batterityp: 12 V, AGM blysyra batteri, underhållsfritt. Batterier ingår ej. ## Lastutgångar Utgång för anslutning till",  
+  "position": [  
+    872,  
+    896  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "12 V AGM blysyra batteri underhållsfritt",  
+  "context": "-----------|---------------------| | SIN 1500W FLX L | 1500 W | #### Batteri och batterityp Två 45 Ah batterier. Batteri**typ: 12 V, AGM blysyra batteri, underhållsfritt.** Batterier ingår ej. ## Lastutgångar Utgång för anslutning till nödljus/ledljus. Utgång för anslutning till pictogram. #",  
+  "position": [  
+    904,  
+    952  
+  ],  
+  "pattern_index": 128,  
+  "pattern": "(?i)typ(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50464765"  
+}
+

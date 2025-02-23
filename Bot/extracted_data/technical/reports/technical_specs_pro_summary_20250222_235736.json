@@ -1,0 +1,308 @@
+{
+  "timestamp": "20250222_235736",
+  "total_document_files": 646,
+  "total_files_processed": 646,
+  "documents_with_specs": 301,
+  "documents_without_specs": 345,
+  "specs_coverage_percentage": 46.59442724458204,
+  "total_specs_found": 949,
+  "average_specs_per_document": 3.1528239202657806,
+  "pattern_group_counts": {
+    "dimensions": 160,
+    "electrical": 210,
+    "weight": 5,
+    "temperature": 5,
+    "audio": 0,
+    "performance": 48,
+    "environmental": 40,
+    "material": 145,
+    "color": 73,
+    "network": 29,
+    "connection": 125,
+    "lighting": 1,
+    "certification": 68,
+    "packaging": 0,
+    "installation": 31,
+    "performance_class": 6,
+    "operating_conditions": 2,
+    "pressure_flow": 1,
+    "mechanical": 0
+  },
+  "category_distribution": {
+    "DIMENSIONS": 160,
+    "ELECTRICAL": 210,
+    "WEIGHT": 5,
+    "TEMPERATURE": 5,
+    "PRESSURE": 0,
+    "FLOW": 1,
+    "MECHANICAL": 0,
+    "PERFORMANCE": 54,
+    "CAPACITY": 0,
+    "ENVIRONMENTAL": 42,
+    "ENERGY": 0,
+    "MATERIAL": 145,
+    "COLOR": 73,
+    "NETWORK": 29,
+    "CONNECTION": 125,
+    "AUDIO": 0,
+    "VIDEO": 0,
+    "FREQUENCY": 0,
+    "RUNTIME": 0,
+    "PROTECTION": 0,
+    "LIGHTING": 1,
+    "MISCELLANEOUS": 99
+  },
+  "validation_stats": {
+    "valid": 949,
+    "invalid": 0,
+    "unknown": 0
+  },
+  "pattern_performance_summary": {
+    "top_patterns": [
+      {
+        "pattern_index": 113,
+        "pattern": "(?i)(?:material|material)\\s*:\\s*([^\\.]+)",
+        "group": "material",
+        "matches": 144
+      },
+      {
+        "pattern_index": 151,
+        "pattern": "(?i)(?:utgångar|outputs)\\s*:\\s*([^\\.]+)",
+        "group": "connection",
+        "matches": 104
+      },
+      {
+        "pattern_index": 43,
+        "pattern": "(?i)(?:batterityp|battery type)\\s*:\\s*([^\\.]+)",
+        "group": "electrical",
+        "matches": 100
+      },
+      {
+        "pattern_index": 123,
+        "pattern": "(?i)(?:färg|color)\\s*:\\s*([^\\.]+)",
+        "group": "color",
+        "matches": 71
+      },
+      {
+        "pattern_index": 52,
+        "pattern": "(?i)(?:skyddsklass|protection class)\\s*:\\s*([^\\.]+)",
+        "group": "electrical",
+        "matches": 52
+      },
+      {
+        "pattern_index": 171,
+        "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",
+        "group": "certification",
+        "matches": 46
+      },
+      {
+        "pattern_index": 111,
+        "pattern": "(?i)(?:EMC|electromagnetic compatibility)\\s*:\\s*([^\\.]+)",
+        "group": "environmental",
+        "matches": 39
+      },
+      {
+        "pattern_index": 8,
+        "pattern": "(?i)(?:höjd|height)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+        "group": "dimensions",
+        "matches": 38
+      },
+      {
+        "pattern_index": 190,
+        "pattern": "(?i)(?:installation|installation)\\s*:\\s*([^\\.]+)",
+        "group": "installation",
+        "matches": 30
+      },
+      {
+        "pattern_index": 90,
+        "pattern": "(?i)(?:kapacitet|capacity)\\s*:\\s*([^\\.]+)",
+        "group": "performance",
+        "matches": 28
+      },
+      {
+        "pattern_index": 21,
+        "pattern": "(?i)(?:spänning|voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+        "group": "electrical",
+        "matches": 26
+      },
+      {
+        "pattern_index": 10,
+        "pattern": "(?i)(?:djup|depth)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+        "group": "dimensions",
+        "matches": 26
+      },
+      {
+        "pattern_index": 9,
+        "pattern": "(?i)(?:bredd|width)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)",
+        "group": "dimensions",
+        "matches": 22
+      },
+      {
+        "pattern_index": 2,
+        "pattern": "(?i)mått\\s*:\\s*([^\\.]+)",
+        "group": "dimensions",
+        "matches": 20
+      },
+      {
+        "pattern_index": 6,
+        "pattern": "(?i)(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m)\\s*(?:x\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:mm|cm|m))?",
+        "group": "dimensions",
+        "matches": 16
+      },
+      {
+        "pattern_index": 1,
+        "pattern": "(?i)dimensions?\\s*:\\s*([^\\.]+)",
+        "group": "dimensions",
+        "matches": 16
+      },
+      {
+        "pattern_index": 0,
+        "pattern": "(?i)dimensioner\\s*:\\s*([^\\.]+)",
+        "group": "dimensions",
+        "matches": 14
+      },
+      {
+        "pattern_index": 94,
+        "pattern": "(?i)(?:minne|memory)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:MB|GB|TB)",
+        "group": "performance",
+        "matches": 14
+      },
+      {
+        "pattern_index": 49,
+        "pattern": "(?i)(?:säkring|fuse)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A)",
+        "group": "electrical",
+        "matches": 14
+      },
+      {
+        "pattern_index": 26,
+        "pattern": "(?i)(?:ström|current)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:A|mA)",
+        "group": "electrical",
+        "matches": 9
+      }
+    ],
+    "low_performing_patterns": [
+      {
+        "pattern_index": 66,
+        "pattern": "(?i)(?:drifttemperatur|operating temperature)\\s*:\\s*(-?\\d+(?:[.,]\\d+)?)\\s*°?C",
+        "group": "temperature",
+        "matches": 1
+      },
+      {
+        "pattern_index": 129,
+        "pattern": "(?i)(?:utseende|appearance)\\s*:\\s*([^\\.]+)",
+        "group": "color",
+        "matches": 1
+      },
+      {
+        "pattern_index": 195,
+        "pattern": "(?i)(?:ventilationskrav|ventilation requirements)\\s*:\\s*([^\\.]+)",
+        "group": "installation",
+        "matches": 1
+      },
+      {
+        "pattern_index": 24,
+        "pattern": "(?i)(?:nominell spänning|nominal voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+        "group": "electrical",
+        "matches": 1
+      },
+      {
+        "pattern_index": 87,
+        "pattern": "(?i)(?:prestanda|performance)\\s*:\\s*([^\\.]+)",
+        "group": "performance",
+        "matches": 1
+      },
+      {
+        "pattern_index": 176,
+        "pattern": "(?i)(?:energiklass|energy class)\\s*:\\s*([^\\.]+)",
+        "group": "certification",
+        "matches": 1
+      },
+      {
+        "pattern_index": 128,
+        "pattern": "(?i)(?:finish|finish)\\s*:\\s*([^\\.]+)",
+        "group": "color",
+        "matches": 1
+      },
+      {
+        "pattern_index": 105,
+        "pattern": "(?i)(?:vatten(?:tät|skydd)|water(?:proof|protection))\\s*:\\s*([^\\.]+)",
+        "group": "environmental",
+        "matches": 1
+      },
+      {
+        "pattern_index": 163,
+        "pattern": "(?i)(?:ljuskälla|light source)\\s*:\\s*([^\\.]+)",
+        "group": "lighting",
+        "matches": 1
+      },
+      {
+        "pattern_index": 92,
+        "pattern": "(?i)(?:batteritid|battery life)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:h|timmar|min)",
+        "group": "performance",
+        "matches": 1
+      },
+      {
+        "pattern_index": 218,
+        "pattern": "(?i)(?:tryck|pressure)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:bar|Pa|kPa|MPa|psi)",
+        "group": "pressure_flow",
+        "matches": 1
+      },
+      {
+        "pattern_index": 170,
+        "pattern": "(?i)(?:standarder|standards)\\s*:\\s*([^\\.]+)",
+        "group": "certification",
+        "matches": 1
+      },
+      {
+        "pattern_index": 115,
+        "pattern": "(?i)(?:ytbehandling|surface treatment)\\s*:\\s*([^\\.]+)",
+        "group": "material",
+        "matches": 1
+      },
+      {
+        "pattern_index": 37,
+        "pattern": "(?i)(?:frekvens|frequency)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:Hz|kHz|MHz)",
+        "group": "electrical",
+        "matches": 2
+      },
+      {
+        "pattern_index": 22,
+        "pattern": "(?i)(?:matningsspänning|supply voltage)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:V|kV|mV)",
+        "group": "electrical",
+        "matches": 2
+      },
+      {
+        "pattern_index": 210,
+        "pattern": "(?i)(?:driftsförhållanden|operating conditions)\\s*:\\s*([^\\.]+)",
+        "group": "operating_conditions",
+        "matches": 2
+      },
+      {
+        "pattern_index": 173,
+        "pattern": "(?i)(?:WEEE|WEEE compliant)\\s*:\\s*([^\\.]+)",
+        "group": "certification",
+        "matches": 2
+      },
+      {
+        "pattern_index": 136,
+        "pattern": "(?i)(?:räckvidd|range)\\s*:\\s*(\\d+(?:[.,]\\d+)?)\\s*(?:m)",
+        "group": "network",
+        "matches": 2
+      },
+      {
+        "pattern_index": 142,
+        "pattern": "(?i)(?:gateway|gateway)\\s*:\\s*([^\\.]+)",
+        "group": "network",
+        "matches": 3
+      },
+      {
+        "pattern_index": 143,
+        "pattern": "(?i)(?:nätmask|subnet mask)\\s*:\\s*([^\\.]+)",
+        "group": "network",
+        "matches": 3
+      }
+    ]
+  },
+  "suggested_patterns_count": 345,
+  "discovered_specs_count": 1449
+}

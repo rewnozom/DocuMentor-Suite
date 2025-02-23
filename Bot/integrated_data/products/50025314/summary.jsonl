@@ -1,0 +1,55 @@
+{  
+  "product_id": "50025314",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n## Housegard brandfilt, 120x120 cm, röd\n\n![](images/_page_0_Picture_3.jpeg)\n\nBrandfilten är ett bra komplement till brandsläckaren och då främst för att släcka mindre bränder på spisen, sängen, i möbler eller kläder. Att kväva eld med en brandfilt är väldigt effektivt, och kräver minimalt saneringsarbete. Placeras på ett sätt som gör den lättillgänglig på de platser en brand kan tänkas uppstå, tex i närheten av kök.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "requires",  
+      "related_product": "minimalt saneringsarbete",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "accessory",  
+      "related_product": "brandsläckaren och då främst för att släcka mindre bränder på spisen sängen i möbler eller kläder",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "minimalt saneringsarbete",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "gör den lättillgänglig på de platser en brand kan tänkas uppstå tex i närheten av kök",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "gör den lättillgänglig på platser där en brand kan tänkas uppstå tex i närheten av kök",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "EN 18691997 **ARTICLE INFORMATION** Art",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "18691997",  
+        "18691997"  
+      ]  
+    }  
+  ],  
+  "identifiers": {  
+    "EAN-13": [  
+      "7320896020245"  
+    ],  
+    "E-nummer": [  
+      "1693830"  
+    ],  
+    "Artikelnummer": [  
+      "602024"  
+    ]  
+  }  
+}
+

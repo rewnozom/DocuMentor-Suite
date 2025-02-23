@@ -1,0 +1,168 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "inga ingångslicenser",  
+  "context": "-Slave kan hantera upp till åtta stycken batteribackuper på slinga. I ARX är det sedan lätt att programmera enheten och **kräver inga ingångslicenser.** Batteribackupen har en välbeprövad design i svartlackerad plåt med tydlig lysdiodsindikering för statusinformation på s",  
+  "position": [  
+    1142,  
+    1170  
+  ],  
+  "pattern_index": 31,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "inga ingångslicenser",  
+  "context": "-Slave kan hantera upp till åtta stycken batteribackuper på slinga. I ARX är det sedan lätt att programmera enheten och **kräver inga ingångslicenser.** Batteribackupen har en välbeprövad design i svartlackerad plåt med tydlig lysdiodsindikering för statusinformation på s",  
+  "position": [  
+    1142,  
+    1170  
+  ],  
+  "pattern_index": 98,  
+  "pattern": "(?i)kräver\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "är larmgodkänd enligt SSF1014 & systemcertifierad tillsammans med ASSA ABLOY ARX",  
+  "context": "24V/10A nätaggregat med batteribackup ![](images/_page_0_Picture_3.jpeg) ASSA ABLOY 10PSC L är en smart batteribackuplösning so**m är larmgodkänd enligt SSF1014 & systemcertifierad tillsammans med ASSA ABLOY ARX. **Enheten kommuniceras via ASSA ABLOY ARX som övervakar status på batteribackupen t.ex aktuell strömförbrukning, historik",  
+  "position": [  
+    204,  
+    288  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "övervakar status på batteribackupen t",  
+  "context": "larmgodkänd enligt SSF1014 & systemcertifierad tillsammans med ASSA ABLOY ARX. Enheten kommuniceras via ASSA ABLOY ARX s**om övervakar status på batteribackupen t.**ex aktuell strömförbrukning, historik över dygnet, temperatur så den inte blir för varm eller kall, fördröjt nätbortfall",  
+  "position": [  
+    330,  
+    371  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "att koppla från batterierna när de är fulladdade och sedan periodiskt ladda batterierna kan förlänga livslängden på batteriet med upp till 50%",  
+  "context": "t, överspänning, övertemperatur, kortslutning och djupurladdning, den erbjuder även s.k. intelligent laddning vilket gen**om att koppla från batterierna när de är fulladdade och sedan periodiskt ladda batterierna kan förlänga livslängden på batteriet med upp till 50%.** ASSA ABLOY 10PSC L kopplas till ARX via RS485 till 9016III MIO6-6 eller 9016III MIO-Slave. 9016 MIO6-6 eller 9016III MI",  
+  "position": [  
+    755,  
+    901  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "www",  
+  "context": "0771-640 640 ASSA ABLOY Opening Solutions Sweden Fax +46 (0)16 17 73 72 e-mail: helpdesk.se.openingsolutions@assaabloy.c**om www.**assaabloyopeningsolutions.se We reserve the right to correct any printing errors and update the information after printi",  
+  "position": [  
+    3522,  
+    3529  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batterierna börjar ta slut i anläggningen",  
+  "context": "inte blir för varm eller kall, fördröjt nätbortfall för att undvika falsklarm och batterikapacitet för att kunna larma n**är batterierna börjar ta slut i anläggningen. **10PSC L har skydd mot överlast, överspänning, övertemperatur, kortslutning och djupurladdning, den erbjuder även s.k. i",  
+  "position": [  
+    559,  
+    605  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "de är fulladdade och sedan periodiskt ladda batterierna kan förlänga livslängden på batteriet med upp till 50%",  
+  "context": ", kortslutning och djupurladdning, den erbjuder även s.k. intelligent laddning vilket genom att koppla från batterierna **när de är fulladdade och sedan periodiskt ladda batterierna kan förlänga livslängden på batteriet med upp till 50%.** ASSA ABLOY 10PSC L kopplas till ARX via RS485 till 9016III MIO6-6 eller 9016III MIO-Slave. 9016 MIO6-6 eller 9016III MI",  
+  "position": [  
+    786,  
+    901  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "batteri börjar ta slut - Sabotage - Kommunikation #### **Artikelnummer** - ASSA ABLOY 10PSC L S55299310165 #### **Tillbehör** - Batteribox ASSA ABLOY BB for PSC S55299300165 - Batteri 12V 45Ah 10-12 år S511107084 P",  
+  "context": "e för låg batterispänning - Inställt spänningsvärde för batteritest - Installerad batterikapacitet - Inställt larmvärde **när batteri börjar ta slut - Sabotage - Kommunikation #### **Artikelnummer** - ASSA ABLOY 10PSC L: S55299310165 #### **Tillbehör** - Batteribox ASSA ABLOY BB for PSC: S55299300165 - Batteri 12V, 45Ah, 10-12 år S511107084 P.**O. Box 371 SE-631 05 Eskilstuna Sweden Phone +46 (0)16 17 70 00 Fax +46 (0)16 17 70 49 Customer support: Phone intl. +46",  
+  "position": [  
+    3032,  
+    3255  
+  ],  
+  "pattern_index": 102,  
+  "pattern": "(?i)när\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "10PSC L har skydd mot överlast överspänning övertemperatur kortslutning och djupurladdning den erbjuder även s",  
+  "context": "ätbortfall för att undvika falsklarm och batterikapacitet för att kunna larma när batterierna börjar ta slut i anläggnin**gen. 10PSC L har skydd mot överlast, överspänning, övertemperatur, kortslutning och djupurladdning, den erbjuder även s.**k. intelligent laddning vilket genom att koppla från batterierna när de är fulladdade och sedan periodiskt ladda batteri",  
+  "position": [  
+    601,  
+    721  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "170-264VAC - Stabiliserad utspänning 273VDC - Maximal belastning 10A - Temperaturområde +5 °C +40 °C - IP-klassning IP32 #### **Mått och vikt** | Höjd | 444mm | |------------|-------| | Bredd | 436mm | | Djup | 210mm | | Nettovikt | 15kg | - Skydd mot överlast överspänning övertemperatur kortslutning och djupurladdning - Larmgodkänd SSF 1014 utgåva 4 Larmklass 3 - SBSC-intyg 16-130 #### **Möjlig medellast enligt SSF1014** Exkl",  
+  "context": "1_Picture_1.jpeg) ### Kommunicerande och SSF1014 godkänd 24V/10A nätaggregat med batteribackup #### **Data** - Inspännin**g: 170-264VAC - Stabiliserad utspänning: 27,3VDC - Maximal belastning: 10A - Temperaturområde: +5 °C +40 °C - IP-klassning: IP32 #### **Mått och vikt** | Höjd | 444mm | |------------|-------| | Bredd | 436mm | | Djup | 210mm | | Nettovikt: | 15kg | - Skydd mot överlast, överspänning, övertemperatur, kortslutning och djupurladdning - Larmgodkänd: SSF 1014, utgåva 4 Larmklass 3 - SBSC-intyg 16-130 #### **Möjlig medellast enligt SSF1014:** Exkl.** batteribox: Larmklass 1/2: 3,7A. Larmklass 3/4: 1,5A Inkl. 1x batteribox: Larmklass 1/2: 7,4A, Larmklass 3/4: 3A #### *",  
+  "position": [  
+    1811,  
+    2257  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "4 Larmklass 3 - SBSC-intyg 16-130 #### **Möjlig medellast enligt SSF1014** Exkl",  
+  "context": ": | 15kg | - Skydd mot överlast, överspänning, övertemperatur, kortslutning och djupurladdning - Larmgodkänd: SSF 1014, **utgåva 4 Larmklass 3 - SBSC-intyg 16-130 #### **Möjlig medellast enligt SSF1014:** Exkl.** batteribox: Larmklass 1/2: 3,7A. Larmklass 3/4: 1,5A Inkl. 1x batteribox: Larmklass 1/2: 7,4A, Larmklass 3/4: 3A #### *",  
+  "position": [  
+    2169,  
+    2257  
+  ],  
+  "pattern_index": 131,  
+  "pattern": "(?i)utgåva(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50155069"  
+}
+

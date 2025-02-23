@@ -1,0 +1,378 @@
+{  
+  "relation_type": "requires",  
+  "related_product": "proper packaging and paperwork including the nature and quantity of goods per applicable origin/destination/customs points as-shipped",  
+  "context": "battery and the outer packaging must be plainly and durably marked \"Nonspillable\" or \"Nonspillable Battery\". Transport r**equires proper packaging and paperwork, including the nature and quantity of goods, per applicable origin/destination/customs points as-shipped. **### **SECTION 13: Regulatory Information** #### **RCRA** Spent lead acid batteries are not regulated as hazardous waste",  
+  "position": [  
+    14401,  
+    14546  
+  ],  
+  "pattern_index": 32,  
+  "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the | | | | | battery",  
+  "context": "| the vent caps. To avoid the chance of a fire or explosion, | | | | | keep sparks and other sources of ignition away fr**om the | | | | | battery.** Extinguishing Media: Dry chemical, foam, CO2 | | Acrylonitrile | None | -- | Temperatures<br>over<br>300<br>°C<br>(572°",  
+  "position": [  
+    2740,  
+    2765  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "battery charging area",  
+  "context": "ucts | Sulfuric dioxide, trioxide, hydrogen sulfide, hydrogen | | Condition to avoid | Prohibit smoking, sparks, etc. fr**om battery charging area.** Avoid mixing acid with<br>other chemicals. | | POLYMERIZTION | Sulfuric acid will not polymerize | # **SECTION 6: HEALT",  
+  "position": [  
+    3973,  
+    3998  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a battery most often occurs during lead reclamation operations through the breathing or ingestion of lead dust or fumes",  
+  "context": "dneys, reproductive and central nervous systems. The symptoms of lead overexposure are listed above. Exposure to lead fr**om a battery most often occurs during lead reclamation operations through the breathing or ingestion of lead dust or fumes.** #### **Chronic Health Hazards:** Sulfuric acid: Possible scarring of the cornea, inflammation of the nose, throat and b",  
+  "position": [  
+    5757,  
+    5880  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "exposure gargle wash nose and lips consult physician #### **Ingestion** Sulfuric Acid Do not induce vomiting consult a physician immediately",  
+  "context": "ation** Sulfuric Acid: Remove to fresh air immediately. If breathing is difficult, give oxygen Lead Compounds: Remove fr**om exposure, gargle, wash nose and lips, consult physician #### **Ingestion** Sulfuric Acid: Do not induce vomiting, consult a physician immediately.** Lead Compounds: Consult a physician immediately **Eyes** Sulfuric Acid: Flush immediately with water for 15 minutes, co",  
+  "position": [  
+    6838,  
+    6987  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "incompatible materials and any activities which may generate flames sparks or heat",  
+  "context": "or federal EPA. #### **Handling and Storing** Store batteries in a cool, dry, well ventilated area that are separated fr**om incompatible materials and any activities which may generate flames, sparks, or heat.** Keep all metallic articles that could contact the negative and positive terminals on a battery and create a short circu",  
+  "position": [  
+    9791,  
+    9879  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "these regulations since they meet all of the following requirements found at 49 CFR 173",  
+  "context": "id batteries are under the U.S. Department of Transportation's (DOT) hazardous materials regulations but are excepted fr**om these regulations since they meet all of the following requirements found at 49 CFR 173.**159(d). - When offered for transport, the batteries are protected against short circuits and securely packaged as requir",  
+  "position": [  
+    12243,  
+    12334  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the international hazardous materials (also known as \"dangerous goods\") regulations since they comply with the following requirements - According to the requirements of Packing Instruction 872 **in IATA (International Air Transport Association) and ICAO (International Civil Aviation Organization)** there should not be any electrolyte leakage after the vibration and pressure differential tests",  
+  "context": "found in 49 CFR 173.159(d) (3). ## **AIRCRAFT – ICAO-IATA:** Our non-spillable lead acid batteries also are excepted fro**m the international hazardous materials (also known as \"dangerous goods\") regulations since they comply with the following requirements: - According to the requirements of Packing Instruction 872 **in IATA (International Air Transport Association) and ICAO (International Civil Aviation Organization)**, there should not be any electrolyte leakage after the vibration and pressure differential tests. **- And, Special Provision A67 states \"Non-spillable batteries are not subject to these Instructions ( Packing Instructio",  
+  "position": [  
+    12922,  
+    13323  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a ruptured or cracked case and there is no free liquid flow and if when packaged for transport the terminals are protected from short circuit and unintentional activation",  
+  "context": "these Instructions ( Packing Instruction 872) if at the temperature of 55° C (131° F), the electrolyte will not flow fro**m a ruptured or cracked case and there is no free liquid flow and if, when packaged for transport the terminals are protected from short circuit and unintentional activation.\"** ## **VESSEL – IMO-IMDG:** Our non-spillable batteries are excepted from the international hazardous materials (also kn",  
+  "position": [  
+    13523,  
+    13698  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "the international hazardous materials (also known as \"dangerous goods\") regulations since they conform to the requirements of IMDG Code Special Provision 238",  
+  "context": "from short circuit and unintentional activation.\" ## **VESSEL – IMO-IMDG:** Our non-spillable batteries are excepted fro**m the international hazardous materials (also known as \"dangerous goods\") regulations since they conform to the requirements of IMDG Code Special Provision 238 .1** and .2, that is the batteries have passed the vibration and pressure differential performance tests, and at a temperat",  
+  "position": [  
+    13769,  
+    13931  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "a ruptured or cracked case and there is no free liquid flow",  
+  "context": "he vibration and pressure differential performance tests, and at a temperature of 55°C, the electrolyte will not flow fr**om a ruptured or cracked case and there is no free liquid flow.** And, when packaged for transport, the terminals are protected from short circuit. #### **Additional Information:** - Ea",  
+  "position": [  
+    14096,  
+    14159  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "short circuit",  
+  "context": "tured or cracked case and there is no free liquid flow. And, when packaged for transport, the terminals are protected fr**om short circuit.** #### **Additional Information:** - Each battery and the outer packaging must be plainly and durably marked \"Nonspillabl",  
+  "position": [  
+    14224,  
+    14241  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "list requirements",  
+  "context": "d | ## **CANANIN REGULATIONS:** All chemical substances in this product are listed on the CEPA DSL/NDSL or are exempt fr**om list requirements.** ## **DISCLAIMER:** **ALL PERSONS USING THIS PRODUCT, ALL PERSONS WORKING IN AN AREA WHERE THIS PRODUCT IS USED AND ALL",  
+  "position": [  
+    17195,  
+    17216  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "these materials exposed during production or under case broken condition or being extremely heated (fired) they may be hazardous to people's health",  
+  "context": "illable one. Under normal operating conditions, the materials sealed inside should not be hazardous to people's health. **Only when these materials exposed during production or under case broken condition or being extremely heated (fired), they may be hazardous to people's health.** #### **Routes of Entry:** Sulfuric Acid: Harmful by all routes of entry. Lead Compounds: Hazardous Exposure can occur o",  
+  "position": [  
+    4292,  
+    4451  
+  ],  
+  "pattern_index": 103,  
+  "pattern": "(?i)only\\s+(?:with|for|when)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "product is heated oxidized or otherwise processed or damaged to create dust vapor or fume",  
+  "context": ". #### **Routes of Entry:** Sulfuric Acid: Harmful by all routes of entry. Lead Compounds: Hazardous Exposure can occur **only when product is heated, oxidized, or otherwise processed or damaged to create dust, vapor or fume.** #### **Inhalation:** Sulfuric Acid: Breathing sulfuric acid vapors and mists may cause severe respiratory problems. Lea",  
+  "position": [  
+    4570,  
+    4673  
+  ],  
+  "pattern_index": 103,  
+  "pattern": "(?i)only\\s+(?:with|for|when)\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "proper packaging and paperwork including the nature and quantity of goods per applicable origin/destination/customs points as-shipped",  
+  "context": "battery and the outer packaging must be plainly and durably marked \"Nonspillable\" or \"Nonspillable Battery\". Transport r**equires proper packaging and paperwork, including the nature and quantity of goods, per applicable origin/destination/customs points as-shipped. **### **SECTION 13: Regulatory Information** #### **RCRA** Spent lead acid batteries are not regulated as hazardous waste",  
+  "position": [  
+    14401,  
+    14546  
+  ],  
+  "pattern_index": 104,  
+  "pattern": "(?i)requires\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "these Instructions ( Packing Instruction 872) if at the temperature of 55° C (131° F) the electrolyte will not flow from a ruptured or cracked case and there is no free liquid flow and if when packaged for transport the terminals are protected from short circuit and unintentional activation",  
+  "context": "ter the vibration and pressure differential tests. - And, Special Provision A67 states \"Non-spillable batteries are not **subject to these Instructions ( Packing Instruction 872) if at the temperature of 55° C (131° F), the electrolyte will not flow from a ruptured or cracked case and there is no free liquid flow and if, when packaged for transport the terminals are protected from short circuit and unintentional activation.**\" ## **VESSEL – IMO-IMDG:** Our non-spillable batteries are excepted from the international hazardous materials (also kn",  
+  "position": [  
+    13393,  
+    13698  
+  ],  
+  "pattern_index": 106,  
+  "pattern": "(?i)subject\\s+to\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "of sulfuric acid mist",  
+  "context": "mist) is not generated under normal use of this product. Misuse of the product, such as overcharging, may result in the **generation of sulfuric acid mist.** Lead Compounds: Human studies are inconclusive regarding lead exposure and an increased cancer risk. The EPA and the In",  
+  "position": [  
+    8445,  
+    8478  
+  ],  
+  "pattern_index": 123,  
+  "pattern": "(?i)generation(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Acute ingestion should be treated by a physician",  
+  "context": "throat, esophagus, and stomach. Lead Compounds: May cause abdominal pain, nausea, vomiting, diarrhea, and severe crampin**g. Acute ingestion should be treated by a physician.** #### **Acute Health Hazards:** Sulfuric Acid: Severe skin irritation, burns, damage to cornea may cause blindness, uppe",  
+  "position": [  
+    5201,  
+    5253  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "The toxic effects of lead are cumulative and slow to appear",  
+  "context": "ain, nausea, headaches, vomiting, loss of appetite, severe cramping, muscular aches and weakness, and difficulty sleepin**g. The toxic effects of lead are cumulative and slow to appear.** It affects the kidneys, reproductive and central nervous systems. The symptoms of lead overexposure are listed above. E",  
+  "position": [  
+    5556,  
+    5619  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "If irritation develops seek medical attention",  
+  "context": "ician **Skin** Sulfuric Acid: Flush with large amounts of water for at least 15 minutes, remove any contaminated clothin**g. If irritation develops seek medical attention.** Lead Compounds: Wash with soap and water. #### **Proposition 65** Warning: Battery posts, terminals and related accesso",  
+  "position": [  
+    7321,  
+    7370  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Battery posts terminals and related accessories contain lead and lead compounds chemical known to the State of California to cause cancer and reproductive harm",  
+  "context": "If irritation develops seek medical attention. Lead Compounds: Wash with soap and water. #### **Proposition 65** Warning**: Battery posts, terminals and related accessories contain lead and lead compounds, chemical known to the State of California to cause cancer and reproductive harm. **Batteries also contain other chemicals known to the State of California to cause cancer. Wash hands after handling. ###",  
+  "position": [  
+    7443,  
+    7608  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "### **SECTION 7 CARCINOGENICITY** #### **Carcinogenicity** Sulfuric Acid The National Toxicological Program (NTP) and The International Agency for Research on Cancer (IARC) have classified strong inorganic acid mist containing sulfuric acid as a Category 1 carcinogen a substance that is carcinogenic to humans",  
+  "context": "harm. Batteries also contain other chemicals known to the State of California to cause cancer. Wash hands after handling**. ### **SECTION 7: CARCINOGENICITY** #### **Carcinogenicity** Sulfuric Acid: The National Toxicological Program (NTP) and The International Agency for Research on Cancer (IARC) have classified strong inorganic acid mist containing sulfuric acid as a Category 1 carcinogen, a substance that is carcinogenic to humans. **The ACGIH has classified strong inorganic acid mist containing sulfuric acid as an A2 carcinogen (suspected human carci",  
+  "position": [  
+    7722,  
+    8039  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "Follow applicable federal state and local regulations Neutralize as in preceding step",  
+  "context": "nneutralized acid to sewer. #### **Waste Disposal Method** Spent Batteries - send to secondary lead smelter for recyclin**g. Follow applicable federal, state and local regulations Neutralize as in preceding step.** Collect neutralized material in sealed container and handle as hazardous waste as applicable. A copy of this MSDS must",  
+  "position": [  
+    9343,  
+    9433  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "#### **Respiratory Protection** None required under normal conditions",  
+  "context": ". Avoid contact with internal components. Do not allow metallic articles to contact the battery terminals during handlin**g. #### **Respiratory Protection:** None required under normal conditions.** When concentrations of sulfuric acid mist are known to exceed PEL, use NIOSH or MSHA-approved respiratory protection. *",  
+  "position": [  
+    11191,  
+    11265  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "** Our non-spillable batteries are excepted from the international hazardous materials (also known as \"dangerous goods\") regulations since they conform to the requirements of IMDG Code Special Provision 238",  
+  "context": "ckaged for transport the terminals are protected from short circuit and unintentional activation.\" ## **VESSEL – IMO-IMD**G:** Our non-spillable batteries are excepted from the international hazardous materials (also known as \"dangerous goods\") regulations since they conform to the requirements of IMDG Code Special Provision 238 .**1 and .2, that is the batteries have passed the vibration and pressure differential performance tests, and at a temperat",  
+  "position": [  
+    13721,  
+    13931  
+  ],  
+  "pattern_index": 125,  
+  "pattern": "(?i)(?:gen|g)(?:\\.|:)\\s*([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+
+{  
+  "relation_type": "version",  
+  "related_product": "DATE",  
+  "context": "DUCT.** **THIS MATERIAL SAFETY DATA SHEET IS BASED UPON INFORMATION AND SOURCES AVAILABLE AT THE TIME OF PREPARATION OR **REVISION DATE.** WE DO NOT ASSURE RESPONSIBILITY AND DISCLAIM LIABILITY FOR LOSS, DAMAGE OR EXPENSE IN ANY CONNECTED WITH THE HANDLING,",  
+  "position": [  
+    17657,  
+    17671  
+  ],  
+  "pattern_index": 130,  
+  "pattern": "(?i)revision(?:\\s+|\\:)([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50142580"  
+}
+

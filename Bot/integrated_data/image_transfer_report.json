@@ -1,0 +1,9 @@
+{
+  "statistics": {
+    "total_products_processed": 389,
+    "total_images_transferred": 7686,
+    "products_with_images": 388,
+    "failed_transfers": 0
+  },
+  "failed_transfers": []
+}

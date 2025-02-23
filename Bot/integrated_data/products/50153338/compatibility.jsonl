@@ -1,0 +1,42 @@
+{  
+  "relation_type": "basic",  
+  "related_product": "alla dina USB-enheter",  
+  "context": "Vår mest avancerade biladapter. Laddar tre enheter samtidigt genom två 2,4A utgångar och en 1,5A utgång (totalt 6,3A). K**ompatibel med alla dina USB-enheter. ****ARTICLE INFORMATION:** Art.no: 405148 EAN: 4891199170997 ![](images/_page_0_Picture_6.jpeg) ![](images/_page_0_Picture_8.jpeg) **Pa",  
+  "position": [  
+    196,  
+    233  
+  ],  
+  "pattern_index": 2,  
+  "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153338"  
+}
+
+{  
+  "relation_type": "direct",  
+  "related_product": "alla dina USB-enheter",  
+  "context": "Vår mest avancerade biladapter. Laddar tre enheter samtidigt genom två 2,4A utgångar och en 1,5A utgång (totalt 6,3A). K**ompatibel med alla dina USB-enheter. ****ARTICLE INFORMATION:** Art.no: 405148 EAN: 4891199170997 ![](images/_page_0_Picture_6.jpeg) ![](images/_page_0_Picture_8.jpeg) **Pa",  
+  "position": [  
+    196,  
+    233  
+  ],  
+  "pattern_index": 17,  
+  "pattern": "(?i)kompatibel\\s+med\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153338"  
+}
+
+{  
+  "relation_type": "condition",  
+  "related_product": "två 24A utgångar och en 15A utgång (totalt 63A)",  
+  "context": "3 USB-portar CC61, USB-A x3 ![](images/_page_0_Picture_3.jpeg) Vår mest avancerade biladapter. Laddar tre enheter samtidigt gen**om två 2,4A utgångar och en 1,5A utgång (totalt 6,3A).** Kompatibel med alla dina USB-enheter. **ARTICLE INFORMATION:** Art.no: 405148 EAN: 4891199170997 ![](images/_page_0_Picture_6.",  
+  "position": [  
+    141,  
+    195  
+  ],  
+  "pattern_index": 101,  
+  "pattern": "(?i)om\\s+([^\\.;]+)(?:\\.|\\;|$)",  
+  "source": "regex",  
+  "product_id": "50153338"  
+}
+

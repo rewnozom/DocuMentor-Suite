@@ -1,0 +1,46 @@
+{  
+  "product_id": "50156388",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "Kortet fästs enkelt med snäppfästen i de färdiga slitsarna i ARX Power-kapslingen och i strömförsörjning PS eller PSCserien. På kortet finns tydliga indikeringsdioder som visar status på säkring. Det finns två ingångar vilket ger möjlighet att koppla alternativ strömmatning vid byte av nätaggregat utan att bryta lastspänning.",  
+  "key_specifications": [],  
+  "key_compatibility": [  
+    {  
+      "type": "condition",  
+      "related_product": "visar status på säkring",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "kopplas till strömförsörjning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "condition",  
+      "related_product": "överbygling till ev",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "nästa tillvalskort) - Utgångar - Matning - Maxlast - Säkring utgång - Indikeringar - Larmutgångar Summalarm säkringsfel –potentialfritt relä - Miljöklass 1 #### **Certifikat** - Certifierad för larmklass 1/2 tillsammans med ARX Power 9101S ARX Power LK 2 Security Grade 3 MK 1 Environment Class 1",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Det finns två ingångar vilket ger möjlighet att koppla alternativ strömmatning vid byte av nätaggregat utan att bryta lastspänning",  
+      "has_product_id": false  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Medföljande kabel med plintar är förberedda för snabbt och enkelt montage i ARX Power serien",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {  
+    "Artikelnummer": [  
+      "nummer",  
+      "ikelnummer"  
+    ]  
+  }  
+}
+

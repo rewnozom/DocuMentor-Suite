@@ -1,0 +1,49 @@
+{  
+  "product_id": "50024621",  
+  "generated_at": "20250223_002304",  
+  "product_name": null,  
+  "description": "![](images/_page_0_Picture_1.jpeg)\n\n# PSV 2415-12\n\n# Strömförsörjning, VIP, 24 V 1,5 A\n\n### **Produktdetajler:**\n\n| Godkännanden                     | EN 61000-6-1:2007, EN<br>61000-6-3:2007+A1, EN<br>60950-1:2006+A11+A1+A12+A2 |\n|----------------------------------|------------------------------------------------------------------------------|\n| Matningsspänning                 | 230 VAC                                                                      |\n| Utspänning                       | 27,6 VDC                                                                     |\n| Belastning                       | 1,5 A                                                                        |\n| Plats för ackumulator (ingår ej) | två 12 V/12 Ah                                                               |\n| Sabotageskydd                    | Öppnings- och avstängningsbrytare                                            |\n| Kapsling                         | Metall                                                                       |\n| Färg                             | Vit                                                                          |\n| Mått (L x B x H) mm              | 345 x 325 x 130                                                              |\n\n![](images/_page_0_Picture_6.jpeg)\n\nStrömförsörjningsaggregat med ViP (Voltage in Parallel) funktion, 24 VDC 1,5 A.Strömförsörjningsaggregat med ViP funktion kan parallellkopplas för att ge redundans samt kompensera för spänningsfall i kablaget. Plats för två 12 V 12 Ah ackumulatorer. Sabotagekontakt.",  
+  "key_specifications": [  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "ström",  
+      "value": "0,5",  
+      "unit": null  
+    },  
+    {  
+      "category": "ELECTRICAL",  
+      "name": "Batterityp",  
+      "value": "| Två 12 V/12 Ah blyackumulatorer (slutna) i serie                |\n| Batteriladdningsmetod: | Konstant ström – begränsad spänning                             |\n| Tid för återuppladdning av batterierna: | Max 24 timmar                                                   |\n| Batterispänning som aktiverar APS fel: | 22 V                                                            |\n| Batterispänning som aktiverar DDP krets: | 20 V                                                            |\n| Utspänning som aktiverar OUT fel: | 18 V                                                            |\n| Övervakningsutgångar: | EPS – Nätspänningsfel                                           |\n|                                                | APS – Batterifel                                                |\n|                                                | OUT – Utspänning låg, Nätdelsfel                                |\n|                                                | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                                | för EPS, APS, OUT, max ström 100mA                              |\n|                                                | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+      "unit": "V/12"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| Sluten – inget fel (OK)                                         |\n|                                                | Öppen – fel (LARM)                                              |\n| Ingång för fjärrstyrd batteritest: | -SDT* - slutning mellan (-) och (*) aktiverar 30 sek test av in |\n|                                                | tern batteriresistans                                           |\n| Bekräftelse på fjärrstyrd batteritest: | APS utgång                                                      |\n| Lokalt batteritest: | LBD bygel, tillfällig bygling                                   |\n| Automatisk batteritest: | Aktiveras automatiskt var 10:e timme                            |\n| Arbetstemperatur och luftfuktighet: | -10º C…+55º C, RH till 90%, ingen kondensering                  |\n| Miljöklass enligt EN 50130-5:1998: | Class II                                                        |\n| Uppfyller kraven men är ännu inte certifierad: | SBSC säkerhetsklass 3, EN 50131-6:2008 Grade 3, Class II        |\n| Lådans ytterdimensioner                        | 345x325x130 mm (BxHxD)                                          |\n| Vikt utan batterier                            | 3,3 kg                                                          |",  
+      "unit": "sek"  
+    },  
+    {  
+      "category": "CONNECTION",  
+      "name": "utgångar",  
+      "value": "| EPS – Nätspänningsfel                                           |\n|                                                | APS – Batterifel                                                |\n|                                                | OUT – Utspänning låg, Nätdelsfel                                |\n|                                                | SAB – Kapslingssabotage                                         |\n| Elektriska data på statusutgångar: | Optoisolerade halvledarreläer                                   |\n|                                                | för EPS, APS, OUT, max ström 100mA                              |\n|                                                | Microswitchar för öppningsskydd och bortbrytningsskydd",  
+      "unit": "mA"  
+    }  
+  ],  
+  "key_compatibility": [  
+    {  
+      "type": "version",  
+      "related_product": "E-nr Beskrivning** PSV 2415-12 5240067 Strömförsörjning VIP 24 V 15 A ## **ALARMTECH SWEDEN AB** ![](images/_page_1_Picture_1",  
+      "has_product_id": true,  
+      "numeric_ids": [  
+        "5240067"  
+      ]  
+    },  
+    {  
+      "type": "version",  
+      "related_product": "Indikering för nätbortfall låg utspänning batterifel samt säkringsfel sker med LED och aktiverar separata utgångar med reläer",  
+      "has_product_id": false  
+    }  
+  ],  
+  "identifiers": {}  
+}
+

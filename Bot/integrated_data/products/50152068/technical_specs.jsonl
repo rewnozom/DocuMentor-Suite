@@ -1,0 +1,22 @@
+{  
+  "name": "ce",  
+  "raw_value": "För att byta UPS enhet så bryt spänningen till UPS-en med att antingen slå ifrån säkringen i centralen eller i UPS aggregatet",  
+  "category": "MISCELLANEOUS",  
+  "unit": null,  
+  "value": {  
+    "raw_value": "För att byta UPS enhet så bryt spänningen till UPS-en med att antingen slå ifrån säkringen i centralen eller i UPS aggregatet",  
+    "unit": null,  
+    "normalized_value": null,  
+    "is_valid": true,  
+    "validation_message": "Ej validerad"  
+  },  
+  "context": "är att omgivningstemperaturen hålls till ca 20 grader. Varje ökning med 5 grader halverar livslängden. I övrigt är aggregatet underhållsfritt. - Servi**ce: För att byta UPS enhet så bryt spänningen ti...",  
+  "pattern": "(?i)(?:CE(?:-märkning)?|CE(?:-mark)?)\\s*:\\s*([^\\.]+)",  
+  "pattern_index": 171,  
+  "source": "regex",  
+  "importance": "medium",  
+  "is_valid": true,  
+  "validation_message": "Ej validerad",  
+  "product_id": "50152068"  
+}
+

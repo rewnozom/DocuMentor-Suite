@@ -1,0 +1,14 @@
+{  
+  "identifier": "icular",  
+  "original": "icular",  
+  "type": "Artikelnummer",  
+  "is_valid": false,  
+  "validation_message": "För kort artikelnummer",  
+  "group": "article",  
+  "pattern_index": 25,  
+  "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",  
+  "context": "ng bushing. ![](images/_page_8_Picture_4.jpeg) • *The shock protection circuit shall be performed with a pa**rticular **care, i.e. the yellow and green wire coat of the power cable shall stick to one side of the ' ' ter",  
+  "source": "regex",  
+  "product_id": "50458420"  
+}
+

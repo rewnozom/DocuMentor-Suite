@@ -1,0 +1,14 @@
+{  
+  "identifier": "556289017701",  
+  "original": "556289017701",  
+  "type": "UPC-A",  
+  "is_valid": false,  
+  "validation_message": "Felaktig kontrollsiffra (förväntad: 8, faktisk: 1)",  
+  "group": "upc",  
+  "pattern_index": 40,  
+  "pattern": "(?<!\\d)(\\d{12})(?!\\d)",  
+  "context": "en Telefon nr/Telephone no +46(0)303-746 320 Hemsida/Webb www.swtm.se e-post info@swtm.se VAT.NO SE5**56289017701 **# **POE40-FIBER POWER OVER ETHERNET MED BATTERIBACKUP** ![](images/_page_1_Picture_2.jpeg) ### **SÄKERH",  
+  "source": "regex",  
+  "product_id": "50463471"  
+}
+

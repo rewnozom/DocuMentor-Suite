@@ -1,0 +1,224 @@
+{  
+  "identifier": "5240068",  
+  "original": "5240068",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "| Med Batterier* | |------------|-------|----------------|----------------| | PSV 2415-7 | 1,5 A | E**-nr 5240068 **| PSV 2415-7-B | • Enheter med batteri har inget E-nr bara modellbeteckning #### **Enheter för",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240067",  
+  "original": "5240067",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "ed Batterier* | |--------------|-------|----------------|----------------| | PSV 2415-12 | 1,5 A | E**-nr 5240067 **| PSV 2415-12-B | | PSV 2435-12 | 3,5 A | E-nr 5240001 | PSV 2435-12-B | | PSV 2465-12 | 6,",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240001",  
+  "original": "5240001",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "--------------| | PSV 2415-12 | 1,5 A | E-nr 5240067 | PSV 2415-12-B | | PSV 2435-12 | 3,5 A | E-nr **5240001 | PS**V 2435-12-B | | PSV 2465-12 | 6,5 A | E-nr 5240002 | PSV 2465-12-B | | PSV 24100-12 | 10",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240002",  
+  "original": "5240002",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "SV 2415-12-B | | PSV 2435-12 | 3,5 A | E-nr 5240001 | PSV 2435-12-B | | PSV 2465-12 | 6,5 A | E-nr 5**240002 | PSV** 2465-12-B | | PSV 24100-12 | 10 A | E-nr 5213168 | PSV 24100-12-B | | PSV 24130-12 | 13",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5213168",  
+  "original": "5213168",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "SV 2435-12-B | | PSV 2465-12 | 6,5 A | E-nr 5240002 | PSV 2465-12-B | | PSV 24100-12 | 10 A | E-nr 5**213168 | PSV** 24100-12-B | | PSV 24130-12 | 13 A | E-nr 5213169 | PSV 24130-12-B | | |",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5213169",  
+  "original": "5213169",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "SV 2465-12-B | | PSV 24100-12 | 10 A | E-nr 5213168 | PSV 24100-12-B | | PSV 24130-12 | 13 A | E-nr **5213169 | PS**V 24130-12-B | | | | | | • Enheter med batte",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240041",  
+  "original": "5240041",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "ed batterier* | |--------------|-------|----------------|----------------| | PSV 2435-40 | 3,5 A | E**-nr 5240041 **| PSV 2435-40-B | | PSV 2465-40 | 6,5 A | E-nr 5240042 | PSV 2465-40-B | | PSV 24100-40 | 10",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240042",  
+  "original": "5240042",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "--------------| | PSV 2435-40 | 3,5 A | E-nr 5240041 | PSV 2435-40-B | | PSV 2465-40 | 6,5 A | E-nr **5240042 | PS**V 2465-40-B | | PSV 24100-40 | 10 A | E-nr 5213170 | PSV 24100-40-B | | PSV 24130-40 | 13",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5213170",  
+  "original": "5213170",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "SV 2435-40-B | | PSV 2465-40 | 6,5 A | E-nr 5240042 | PSV 2465-40-B | | PSV 24100-40 | 10 A | E-nr 5**213170 | PSV** 24100-40-B | | PSV 24130-40 | 13 A | E-nr 5213171 | PSV 24130-40-B | • Enheter med batte",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5213171",  
+  "original": "5213171",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "SV 2465-40-B | | PSV 24100-40 | 10 A | E-nr 5213170 | PSV 24100-40-B | | PSV 24130-40 | 13 A | E-nr **5213171 | PS**V 24130-40-B | • Enheter med batteri har inget E-nr bara modellbeteckning | |",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5255012",  
+  "original": "5255012",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "Med Batterier* | |-------------|-------|----------------|----------------| | PSV 1215-18 | 1,5 A | E**-nr 5255012 **| PSV 1215-18-B | | PSV 1225-18 | 2,5 A | E-nr 5255013 | PSV 1235-18-B | • Enheter med batter",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5255013",  
+  "original": "5255013",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "----------------| | PSV 1215-18 | 1,5 A | E-nr 5255012 | PSV 1215-18-B | | PSV 1225-18 | 2,5 A | E-n**r 5255013 | **PSV 1235-18-B | • Enheter med batteri har inget E-nr bara modellbeteckning ![](images/_page_2_Pictur",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240000",  
+  "original": "5240000",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "| E-nr | |------------|-------|----------|--------------| | PSV 2415-M | 1,5 A | 0,5 A | E-nr 524000**0 | | PSV 24**35-M | 3,5 A | 0,9 A | E-nr 5240064 | | PSV 2465-M | 6,5 A | 1,5 A | E-nr 5240065 |",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240064",  
+  "original": "5240064",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "|--------------| | PSV 2415-M | 1,5 A | 0,5 A | E-nr 5240000 | | PSV 2435-M | 3,5 A | 0,9 A | E-nr 5**240064 | | P**SV 2465-M | 6,5 A | 1,5 A | E-nr 5240065 | ![](images/_page_2_Figure_16.jpeg) #### **Säkringskor",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240065",  
+  "original": "5240065",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "| E-nr 5240000 | | PSV 2435-M | 3,5 A | 0,9 A | E-nr 5240064 | | PSV 2465-M | 6,5 A | 1,5 A | E-nr 5**240065 | ![]**(_page_2_Figure_16.jpeg) #### **Säkringskort** PSV 24FC-6 är ett säkringskort för 24V syste",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+
+{  
+  "identifier": "5240069",  
+  "original": "5240069",  
+  "type": "E-nummer",  
+  "is_valid": true,  
+  "validation_message": "Giltigt E-nummer format",  
+  "group": "enummer",  
+  "pattern_index": 9,  
+  "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",  
+  "context": "24FC-6 är ett säkringskort för 24V system med 6st dubbla avsäkringar och en jordfelskrets . #### **E**-nr 5240069**** • ✔ 6 st dubbla avsäkringar • ✔ Max ström är 13 A kortet kan belastas med • ✔ Max ström för varje",  
+  "source": "regex",  
+  "product_id": "50108133"  
+}
+

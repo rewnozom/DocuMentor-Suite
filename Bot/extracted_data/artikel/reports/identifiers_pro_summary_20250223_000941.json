@@ -1,0 +1,103 @@
+{
+  "timestamp": "20250223_000941",
+  "total_document_files": 646,
+  "total_files_processed": 646,
+  "documents_with_identifiers": 399,
+  "documents_without_identifiers": 240,
+  "identifier_coverage_percentage": 61.76470588235294,
+  "total_identifiers_found": 1119,
+  "average_identifiers_per_document": 2.8045112781954886,
+  "pattern_group_counts": {
+    "ean13": 113,
+    "ean8": 0,
+    "enummer": 92,
+    "article": 849,
+    "rsk": 0,
+    "copiax": 0,
+    "supplier": 0,
+    "upc": 65,
+    "isbn": 0,
+    "table": 0,
+    "multi_code": 0,
+    "tabular": 0
+  },
+  "identifier_type_distribution": {
+    "EAN-13": 113,
+    "Artikelnummer": 833,
+    "E-nummer": 94,
+    "UPC-A": 65,
+    "EAN-8": 14
+  },
+  "validation_stats": {
+    "valid": 219,
+    "invalid": 900,
+    "unknown": 0
+  },
+  "pattern_performance_summary": {
+    "top_patterns": [
+      {
+        "pattern_index": 25,
+        "pattern": "(?i)Art\\.?:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+        "group": "article",
+        "matches": 566
+      },
+      {
+        "pattern_index": 24,
+        "pattern": "(?i)Artikel:?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+        "group": "article",
+        "matches": 153
+      },
+      {
+        "pattern_index": 23,
+        "pattern": "(?i)REF\\.?\\s*[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+        "group": "article",
+        "matches": 93
+      },
+      {
+        "pattern_index": 9,
+        "pattern": "(?i)E-n[ru](?:mmer)?[:.\\-]?\\s*(\\d{7})(?!\\d)",
+        "group": "enummer",
+        "matches": 91
+      },
+      {
+        "pattern_index": 5,
+        "pattern": "(?<!\\d)(\\d{13})(?!\\d)",
+        "group": "ean13",
+        "matches": 65
+      },
+      {
+        "pattern_index": 40,
+        "pattern": "(?<!\\d)(\\d{12})(?!\\d)",
+        "group": "upc",
+        "matches": 65
+      },
+      {
+        "pattern_index": 0,
+        "pattern": "(?i)EAN(?:-13)?[:.\\-]?\\s*(\\d{13})(?!\\d)",
+        "group": "ean13",
+        "matches": 48
+      },
+      {
+        "pattern_index": 16,
+        "pattern": "(?i)Art(?:ikel)?\\.?(?:nummer|nr)[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+        "group": "article",
+        "matches": 24
+      },
+      {
+        "pattern_index": 14,
+        "pattern": "(?i)Art(?:ikel)?\\.?n[ro]\\.?[:.\\-]?\\s*([A-Z0-9]{5,10})(?![A-Z0-9])",
+        "group": "article",
+        "matches": 13
+      },
+      {
+        "pattern_index": 13,
+        "pattern": "(?<![a-zA-Z0-9])E(\\d{7})(?!\\d)",
+        "group": "enummer",
+        "matches": 1
+      }
+    ],
+    "low_performing_patterns": []
+  },
+  "suggested_patterns_count": 12,
+  "discovered_formats_count": 3716
+}
